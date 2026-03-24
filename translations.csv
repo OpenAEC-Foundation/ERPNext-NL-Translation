@@ -1,0 +1,407 @@
+source,translation
+Account Category,Rekeningcategorie
+Account Closing Balance,Rekeningeindsaldo
+Accounting Dimension,Boekhouddimensie
+Accounting Dimension Filter,Boekhouddimensie filter
+Advance Payment Ledger Entry,Vooruitbetaling grootboekregel
+Bank Account Subtype,Bankrekeningsubtype
+Bank Account Type,Bankrekeningtype
+Bank Guarantee,Bankgarantie
+Bank Statement Import,Bankafschrift importeren
+Bank Transaction,Banktransactie
+Cashier Closing,Kassafsluiting
+Cheque Print Template,Cheque afdruksjabloon
+Cost Center Allocation,Kostenplaatsverdeling
+Coupon Code,Kortingscode
+Dunning,Aanmaning
+Dunning Type,Aanmaningstype
+Exchange Rate Revaluation,Wisselkoersherwaardering
+Finance Book,Financieel boek
+Financial Report Template,Financieel rapportsjabloon
+Invoice Discounting,Factoring
+Item Tax Template,Artikel belastingsjabloon
+Journal Entry Template,Journaalboekingsjabloon
+Ledger Merge,Grootboek samenvoegen
+Loyalty Point Entry,Loyaliteitspunten boeking
+Loyalty Program,Loyaliteitsprogramma
+Mode of Payment,Betaalwijze
+Monthly Distribution,Maandelijkse verdeling
+POS Closing Entry,POS afsluiting
+POS Invoice,POS factuur
+POS Invoice Merge Log,POS factuur samenvoeglog
+POS Opening Entry,POS opening
+POS Profile,POS profiel
+Party Link,Partijkoppeling
+Payment Gateway Account,Betalingsgateway rekening
+Payment Ledger Entry,Betalingsgrootboekregel
+Payment Term,Betalingsvoorwaarde
+Payment Terms Template,Betalingsvoorwaarden sjabloon
+Process Deferred Accounting,Uitgestelde boekhouding verwerken
+Process Payment Reconciliation,Betalingsafstemming verwerken
+Process Payment Reconciliation Log,Betalingsafstemming log
+Process Period Closing Voucher,Periodeafsluiting verwerken
+Process Statement Of Accounts,Rekeningoverzicht verwerken
+Process Subscription,Abonnement verwerken
+Promotional Scheme,Promotieregeling
+"Purchase Taxes and Charges Template","Inkoopbelasting- en kostensjabloon"
+Repost Accounting Ledger,Grootboek herboeken
+Repost Payment Ledger,Betalingsgrootboek herboeken
+"Sales Taxes and Charges Template","Verkoopbelasting- en kostensjabloon"
+Share Transfer,Aandelenoverdracht
+Share Type,Aandeeltype
+Shareholder,Aandeelhouder
+Shipping Rule,Verzendregel
+Subscription,Abonnement
+Subscription Plan,Abonnementsplan
+Tax Category,Belastingcategorie
+Tax Rule,Belastingregel
+Tax Withholding Group,Belastinginhouding groep
+Delivery Schedule Item,Leveringsschema regel
+Industry Type,Branchetype
+Installation Note,Installatierapport
+Party Specific Item,Relatie-specifiek artikel
+Product Bundle,Productbundel
+Sales Partner Type,Verkooppartnertype
+Supplier Scorecard,Leveranciers scorecard
+Supplier Scorecard Criteria,Leveranciers scorecard criteria
+Supplier Scorecard Period,Leveranciers scorecard periode
+Supplier Scorecard Standing,Leveranciers scorecard status
+Supplier Scorecard Variable,Leveranciers scorecard variabele
+Bin,Voorraadlocatie
+Customs Tariff Number,Douanetariefnummer
+Delivery Trip,Bezorgrit
+Inventory Dimension,Voorraaddimensie
+Item Alternative,Alternatief artikel
+Item Attribute,Artikelkenmerk
+Item Lead Time,Artikel levertijd
+Item Manufacturer,Artikelfabrikant
+Landed Cost Voucher,Bijkomende kosten bon
+Manufacturer,Fabrikant
+Packing Slip,Paklijst
+Pick List,Picklijst
+Price List,Prijslijst
+Putaway Rule,Inslagregel
+Quality Inspection Parameter,Kwaliteitsinspectieparameter
+Quality Inspection Parameter Group,Kwaliteitsinspectie parametergroep
+Quality Inspection Template,Kwaliteitsinspectie sjabloon
+Repost Item Valuation,Artikelwaardering herboeken
+Serial and Batch Bundle,Serie- en partijbundel
+Shipment,Zending
+Shipment Parcel Template,Zendingspakket sjabloon
+Stock Closing Balance,Voorraadeindsaldo
+Stock Closing Entry,Voorraadafsluiting
+Stock Entry Type,Voorraadboekingstype
+Stock Ledger Entry,Voorraadgrootboekregel
+Stock Reconciliation,Voorraadafstemming
+Stock Reservation Entry,Voorraadreservering
+UOM Category,Eenheidscategorie
+Warehouse Type,Magazijntype
+BOM Creator,Stuklijst aanmaken
+BOM Update Log,Stuklijst wijzigingslog
+Blanket Order,Raamovereenkomst
+Downtime Entry,Stilstandregistratie
+Master Production Schedule,Hoofdproductieplanning
+Operation,Bewerking
+Plant Floor,Werkvloer
+Sales Forecast,Verkoopprognose
+Appointment Letter,Aanstellingsbrief
+Appointment Letter Template,Aanstellingsbrief sjabloon
+Appraisal Cycle,Beoordelingscyclus
+Daily Work Summary,Dagelijks werkoverzicht
+Employee Feedback Criteria,Medewerker feedbackcriteria
+Employee Grade,Medewerker salarisschaal
+Employee Health Insurance,Medewerker ziektekostenverzekering
+Employee Onboarding Template,Inwerksjabloon
+Employee Performance Feedback,Medewerker prestatiefeedback
+Employee Referral,Medewerkerverwijzing
+Employee Separation Template,Uitdiensttreding sjabloon
+Exit Interview,Exitgesprek
+Full and Final Statement,Eindafrekening
+Holiday List Assignment,Feestdagenlijst toewijzing
+Identification Document Type,Identiteitsdocument type
+Interest,Interesse
+Interview Feedback,Sollicitatiegesprek feedback
+Interview Round,Sollicitatieronde
+Interview Type,Sollicitatietype
+Job Applicant Source,Sollicitatiebron
+Job Offer,Aanbod
+Job Offer Term Template,Arbeidsvoorwaarden sjabloon
+Job Opening Template,Vacaturesjabloon
+Job Requisition,Personeelsaanvraag
+Leave Adjustment,Verlofcorrectie
+Leave Block List,Verlofblokkering
+Leave Encashment,Verlofuitbetaling
+Leave Ledger Entry,Verlofgrootboekregel
+Leave Policy Assignment,Verlofbeleid toewijzing
+Offer Term,Arbeidsvoorwaarde
+Overtime Slip,Overwerkbon
+Overtime Type,Overwerktype
+Shift Location,Dienstlocatie
+Shift Request,Dienstaanvraag
+Shift Schedule,Dienstrooster
+Shift Schedule Assignment,Dienstrooster toewijzing
+Skill,Vaardigheid
+Training Feedback,Opleidingsfeedback
+Training Program,Opleidingsprogramma
+Training Result,Opleidingsresultaat
+Arrear,Achterstallig salaris
+Employee Benefit Claim,Uitkeringsaanvraag
+Employee Benefit Ledger,Uitkeringsgrootboek
+Employee Incentive,Medewerker bonus
+Employee Other Income,Medewerker overig inkomen
+Employee Tax Exemption Category,Belastingvrijstelling categorie
+Employee Tax Exemption Proof Submission,Belastingvrijstelling bewijsstuk
+Employee Tax Exemption Sub Category,Belastingvrijstelling subcategorie
+Gratuity,Gratificatie
+Gratuity Rule,Gratificatieregel
+Income Tax Slab,Inkomstenbelastingschijf
+Payroll Correction,Salariscorrectie
+Payroll Period,Salarisperiode
+Salary Withholding,Salarisinhouding
+Appointment,Afspraak
+Competitor,Concurrent
+Contract Template,Contractsjabloon
+Email Campaign,E-mailcampagne
+Market Segment,Marktsegment
+Opportunity Lost Reason,Reden verloren kans
+Opportunity Type,Kanstype
+Sales Stage,Verkoopfase
+Activity Cost,Activiteitskosten
+Project Template,Projectsjabloon
+Project Type,Projecttype
+Project Update,Projectupdate
+Task Type,Taaktype
+Non Conformance,Afwijking
+Quality Feedback,Kwaliteitsfeedback
+Quality Feedback Template,Kwaliteitsfeedback sjabloon
+Quality Meeting,Kwaliteitsoverleg
+Asset Activity,Activa activiteit
+Asset Capitalization,Activering
+Asset Depreciation Schedule,Afschrijvingsschema
+Asset Maintenance,Activa onderhoud
+Asset Maintenance Log,Activa onderhoudslog
+Asset Maintenance Team,Activa onderhoudsteam
+Asset Repair,Activa reparatie
+Asset Shift Allocation,Activa diensttoewijzing
+Asset Shift Factor,Activa dienstfactor
+Asset Value Adjustment,Activa waardecorrectie
+Location,Locatie
+Subcontracting BOM,Uitbesteding stuklijst
+Subcontracting Inward Order,Uitbesteding inkomende order
+Subcontracting Order,Uitbestedingsorder
+Subcontracting Receipt,Uitbesteding ontvangstbon
+Authorization Rule,Autorisatieregel
+Brand,Merk
+Currency Exchange,Wisselkoers
+Customer Group,Klantgroep
+Email Digest,E-mail samenvatting
+Party Type,Relatietype
+Quotation Lost Reason,Reden verloren offerte
+Sales Person,Verkoper
+Supplier Group,Leveranciersgroep
+Terms and Conditions,Algemene voorwaarden
+Territory,Regio
+Transaction Deletion Record,Transactieverwijdering record
+UOM Conversion Factor,Eenheidsomrekeningsfactor
+Access Log,Toegangslog
+Activity Log,Activiteitenlog
+Communication,Communicatie
+Custom Role,Aangepaste rol
+Data Import,Gegevens importeren
+Data Import Log,Gegevensimport log
+Deleted Document,Verwijderd document
+Document Naming Rule,Document naamgevingsregel
+Error Log,Foutenlog
+File,Bestand
+Language,Taal
+Page,Pagina
+Permission Log,Rechtenlog
+Prepared Report,Voorbereid rapport
+Role,Rol
+Role Profile,Rolprofiel
+Translation,Vertaling
+User,Gebruiker
+User Group,Gebruikersgroep
+User Invitation,Gebruikersuitnodiging
+User Permission,Gebruikersrecht
+User Type,Gebruikerstype
+Version,Versie
+View Log,Weergavelog
+Color,Kleur
+Discussion Reply,Discussie reactie
+Discussion Topic,Discussieonderwerp
+Help Article,Helpartikel
+Help Category,Helpcategorie
+Personal Data Deletion Request,Verzoek persoonsgegevens verwijderen
+Personal Data Download Request,Verzoek persoonsgegevens downloaden
+Web Form,Webformulier
+Web Page View,Webpaginaweergave
+Web Template,Websjabloon
+Website Sidebar,Website zijbalk
+Website Slideshow,Website diavoorstelling
+Website Theme,Website thema
+Connected App,Gekoppelde app
+Integration Request,Integratieverzoek
+List View,Lijstweergave
+Saved Filters,Opgeslagen filters
+Created On,Aangemaakt op
+Modified On,Gewijzigd op
+Created By,Aangemaakt door
+Modified By,Gewijzigd door
+Last Modified,Laatst gewijzigd
+Unpaid,Onbetaald
+Paid,Betaald
+Partly Paid,Gedeeltelijk betaald
+Return,Retour
+Debit Note Issued,Debetnota uitgegeven
+Credit Note Issued,Creditnota uitgegeven
+Internal Transfer,Interne overboeking
+Payment Request,Betalingsverzoek
+Payment Reconciliation,Betalingsafstemming
+Unreconcile Payment,Betaling afstemming opheffen
+Receivables,Debiteuren
+Payables,Crediteuren
+Payments,Betalingen
+Credit Note,Creditnota
+Debit Note,Debetnota
+Report View,Rapportweergave
+Image View,Afbeeldingsweergave
+Tree View,Boomweergave
+Board View,Bordweergave
+Inbox View,Postvakweergave
++ Add,+ Toevoegen
+Add New,Nieuw toevoegen
+Add new,Nieuw toevoegen
+Add a new,Nieuw toevoegen
+No records,Geen records
+Expand all,Alles uitklappen
+Collapse all,Alles inklappen
+Select,Selecteren
+Selected,Geselecteerd
+Unselect,Deselecteren
+Show more,Meer tonen
+Show less,Minder tonen
+Load more,Meer laden
+Loading,Laden
+Updating,Bijwerken
+Updated,Bijgewerkt
+Deleting,Verwijderen
+Creating,Aanmaken
+Submitting,Indienen
+Cancelling,Annuleren
+Processing,Verwerken
+Copying,Kopieren
+Renaming,Hernoemen
+Moving,Verplaatsen
+Type to search,Typ om te zoeken
+Search...,Zoeken...
+"Search or type a command","Zoek of typ een commando"
+"No matching records found","Geen overeenkomende records gevonden"
+Not permitted,Geen toestemming
+Not allowed,Niet toegestaan
+Invalid,Ongeldig
+Required,Verplicht
+Mandatory,Verplicht
+Optional,Optioneel
+Enabled,Ingeschakeld
+Please select,Selecteer a.u.b.
+Please enter,Voer in a.u.b.
+"Are you sure you want to delete","Weet je zeker dat je wilt verwijderen"
+Permanently delete,Definitief verwijderen
+Restore,Herstellen
+Attachment,Bijlage
+Attached,Bijgevoegd
+Print Format,Afdrukformaat
+Letter Head,Briefhoofd
+Naming Series,Nummering
+Amended From,Gewijzigd van
+Change Log,Wijzigingslog
+Changed,Gewijzigd
+Unchanged,Ongewijzigd
+Workflow State,Workflow status
+Workflow Action,Workflow actie
+Total Amount,Totaalbedrag
+Net Amount,Nettobedrag
+Tax Amount,Belastingbedrag
+Discount Amount,Kortingsbedrag
+Discount Percentage,Kortingspercentage
+Exchange Rate,Wisselkoers
+Conversion Rate,Omrekenkoers
+Company Name,Bedrijfsnaam
+Customer Name,Klantnaam
+Supplier Name,Leveranciersnaam
+Contact Person,Contactpersoon
+Phone Number,Telefoonnummer
+Mobile Number,Mobiel nummer
+Email Address,E-mailadres
+Posting Time,Boekingstijd
+Transaction Date,Transactiedatum
+Document Type,Documenttype
+Document Name,Documentnaam
+Reference,Referentie
+Reference Type,Referentietype
+Reference Name,Referentienaam
+Remarks,Opmerkingen
+Notes,Notities
+Against,Tegen
+Party,Relatie
+Party Name,Relatienaam
+Account Name,Rekeningnaam
+Account Number,Rekeningnummer
+Account Type,Rekeningtype
+Account Head,Hoofdrekening
+Root Type,Hoofdtype
+Is Group,Is groep
+Parent,Bovenliggend
+Company Currency,Bedrijfsvaluta
+Default Currency,Standaardvaluta
+Conversion Factor,Omrekeningsfactor
+Stock UOM,Voorradeenheid
+Default Warehouse,Standaardmagazijn
+Valuation Rate,Waarderingsprijs
+Valuation Method,Waarderingsmethode
+Opening Stock,Beginvoorraad
+Actual Qty,Werkelijke hoeveelheid
+Ordered Qty,Bestelde hoeveelheid
+Reserved Qty,Gereserveerde hoeveelheid
+Projected Qty,Verwachte hoeveelheid
+Available Qty,Beschikbare hoeveelheid
+Transfer Qty,Overboekingshoeveelheid
+Returned Qty,Geretourneerde hoeveelheid
+Completed Qty,Voltooide hoeveelheid
+Consumed Qty,Verbruikte hoeveelheid
+Manufactured Qty,Gefabriceerde hoeveelheid
+Planned Qty,Geplande hoeveelheid
+Produced Qty,Geproduceerde hoeveelheid
+Inspection Required,Inspectie vereist
+Quality Manager,Kwaliteitsmanager
+In Transit,Onderweg
+On Hold,In de wacht
+Partially,Gedeeltelijk
+Partially Received,Gedeeltelijk ontvangen
+Partially Paid,Gedeeltelijk betaald
+Fully Paid,Volledig betaald
+Overdue,Achterstallig
+Write Off,Afboeken
+Write Off Amount,Afboekbedrag
+Outstanding,Openstaand
+Unreconciled,Niet afgestemd
+Reconciled,Afgestemd
+Allocated,Toegewezen
+Unallocated,Niet toegewezen
+Rounded Total,Afgerond totaal
+Rounding Adjustment,Afrondingsverschil
+In Words,In woorden
+Terms,Voorwaarden
+Print Heading,Afdrukkop
+Letter head,Briefhoofd
+More Information,Meer informatie
+Additional Info,Extra informatie
+Add Comment,Opmerking toevoegen
+Add Attachment,Bijlage toevoegen
+Assign To,Toewijzen aan
+Unassign,Toewijzing opheffen
+Linked With,Gekoppeld met
+Activity Type,Activiteitstype
+Log Type,Logtype
+System Generated,Systeemgegenereerd

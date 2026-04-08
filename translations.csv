@@ -6917,220 +6917,220 @@ Paid amount cannot be less than {0},Betaald bedrag kan niet lager zijn dan {0},r
 Paid and Not Delivered,Betaald en niet geleverd,reviewed,erpnext
 Paid Loan,Betaalde lening,reviewed,erpnext
 PAN Details,PAN-gegevens,reviewed,erpnext
-PAN No,PAN nr,unreviewed,erpnext
-Parameter Name,Parameter Naam,unreviewed,erpnext
-Parameters,parameters,unreviewed,erpnext
+PAN No,PAN nr,reviewed,erpnext
+Parameter Name,Parameternaam,reviewed,erpnext
+Parameters,parameters,reviewed,erpnext
 Parent,Bovenliggend,reviewed,both
-Parent Account,Bovenliggende rekening,unreviewed,erpnext
-Parent Batch,Ouderlijk Batch,unreviewed,erpnext
-Parent Company,Moeder bedrijf,unreviewed,erpnext
-Parent Company must be a group company,Moederbedrijf moet een groepsmaatschappij zijn,unreviewed,erpnext
-Parent Cost Center,Bovenliggende kostenplaats,unreviewed,erpnext
-Parent Cost Center cannot be added in Distributed Cost Center,Bovenliggende kostenplaats kan niet worden toegevoegd in Gedistribueerde kostenplaats,unreviewed,erpnext
-Parent Customer Group,Bovenliggende klantgroep,unreviewed,erpnext
-Parent Department,Ouderafdeling,unreviewed,erpnext
-Parent Detail docname,Bovenliggende Detail docname,unreviewed,erpnext
-Parent Error Snapshot,Ouder Fout Snapshot,unreviewed,frappe
-Parent Field (Tree),Bovenliggend veld (boom),unreviewed,frappe
-Parent Field must be a valid fieldname,Bovenliggend veld moet een geldige veldnaam zijn,unreviewed,frappe
-Parent is required to get child table data,Ouder is vereist om onderliggende tabelgegevens te verkrijgen,unreviewed,frappe
-Parent is the name of the document to which the data will get added to.,Bovenliggend element is de naam van het document waaraan de gegevens worden toegevoegd.,unreviewed,frappe
-Parent Item,Bovenliggend Artikel,unreviewed,erpnext
-Parent Item Group,Bovenliggende Artikelgroep,unreviewed,erpnext
-Parent Item {0} must not be a Stock Item,Ouder Item {0} moet een Stock Item niet,unreviewed,erpnext
-Parent Location,Bovenliggende locatie,unreviewed,erpnext
-Parent Procedure,Ouderprocedure,unreviewed,erpnext
-Parent Task,Oudertaak,unreviewed,erpnext
-Parent Territory,Bovenliggende Regio,unreviewed,erpnext
-Parents Teacher Meeting Attendance,Ouders Teacher Meeting presentielijst,unreviewed,erpnext
-Partial Success,Gedeeltelijk succes,unreviewed,frappe
+Parent Account,Bovenliggende rekening,reviewed,erpnext
+Parent Batch,Bovenliggende batch,reviewed,erpnext
+Parent Company,Moederbedrijf,reviewed,erpnext
+Parent Company must be a group company,Moederbedrijf moet een groepsmaatschappij zijn,reviewed,erpnext
+Parent Cost Center,Bovenliggende kostenplaats,reviewed,erpnext
+Parent Cost Center cannot be added in Distributed Cost Center,Bovenliggende kostenplaats kan niet worden toegevoegd in Gedistribueerde kostenplaats,reviewed,erpnext
+Parent Customer Group,Bovenliggende klantgroep,reviewed,erpnext
+Parent Department,Bovenliggende afdeling,reviewed,erpnext
+Parent Detail docname,Bovenliggende Detail docname,reviewed,erpnext
+Parent Error Snapshot,Bovenliggende foutmomentopname,reviewed,frappe
+Parent Field (Tree),Bovenliggend veld (boom),reviewed,frappe
+Parent Field must be a valid fieldname,Bovenliggend veld moet een geldige veldnaam zijn,reviewed,frappe
+Parent is required to get child table data,Ouder is vereist om onderliggende tabelgegevens te verkrijgen,reviewed,frappe
+Parent is the name of the document to which the data will get added to.,Bovenliggend element is de naam van het document waaraan de gegevens worden toegevoegd.,reviewed,frappe
+Parent Item,Bovenliggend Artikel,reviewed,erpnext
+Parent Item Group,Bovenliggende Artikelgroep,reviewed,erpnext
+Parent Item {0} must not be a Stock Item,Bovenliggend artikel {0} mag geen voorraadartikel zijn,reviewed,erpnext
+Parent Location,Bovenliggende locatie,reviewed,erpnext
+Parent Procedure,Bovenliggende procedure,reviewed,erpnext
+Parent Task,Bovenliggende taak,reviewed,erpnext
+Parent Territory,Bovenliggende Regio,reviewed,erpnext
+Parents Teacher Meeting Attendance,Aanwezigheid ouderavond,reviewed,erpnext
+Partial Success,Gedeeltelijk succes,reviewed,frappe
 Partially,Gedeeltelijk,reviewed,custom
-Partially Completed,Gedeeltelijk afgesloten,unreviewed,erpnext
-Partially Depreciated,Gedeeltelijk afgeschreven,unreviewed,erpnext
-Partially Fulfilled,Gedeeltelijk vervuld,unreviewed,erpnext
-Partially Ordered,Gedeeltelijk besteld,unreviewed,erpnext
-Partially ordered,gedeeltelijk Bestelde,unreviewed,erpnext
+Partially Completed,Gedeeltelijk afgesloten,reviewed,erpnext
+Partially Depreciated,Gedeeltelijk afgeschreven,reviewed,erpnext
+Partially Fulfilled,Gedeeltelijk vervuld,reviewed,erpnext
+Partially Ordered,Gedeeltelijk besteld,reviewed,erpnext
+Partially ordered,gedeeltelijk Bestelde,reviewed,erpnext
 Partially Paid,Gedeeltelijk betaald,reviewed,erpnext
 Partially Received,Gedeeltelijk ontvangen,reviewed,erpnext
-Partially Successful,Gedeeltelijk succesvol,unreviewed,frappe
-Participants,Deelnemers,unreviewed,frappe
-Particulars,bijzonderheden,unreviewed,erpnext
-Parties,partijen,unreviewed,erpnext
-Partly Billed,Deels Gefactureerd,unreviewed,erpnext
-Partly Delivered,Deels geleverd,unreviewed,erpnext
+Partially Successful,Gedeeltelijk succesvol,reviewed,frappe
+Participants,Deelnemers,reviewed,frappe
+Particulars,bijzonderheden,reviewed,erpnext
+Parties,partijen,reviewed,erpnext
+Partly Billed,Deels Gefactureerd,reviewed,erpnext
+Partly Delivered,Deels geleverd,reviewed,erpnext
 Partly Paid,Gedeeltelijk betaald,reviewed,custom
-Partner website,partner website,unreviewed,erpnext
+Partner website,partner website,reviewed,erpnext
 Party,Relatie,reviewed,erpnext
-Party Account Currency,Party account Valuta,unreviewed,erpnext
-Party Balance,Partij Balans,unreviewed,erpnext
-Party Bank Account,Partij bankrekening,unreviewed,erpnext
-Party GSTIN,Partij GSTIN,unreviewed,frappe
-Party Information,Partij informatie,unreviewed,erpnext
-Party is mandatory,Party is verplicht,unreviewed,erpnext
+Party Account Currency,Relatie-accountvaluta,reviewed,erpnext
+Party Balance,Relatiesaldo,reviewed,erpnext
+Party Bank Account,Partij bankrekening,reviewed,erpnext
+Party GSTIN,Partij GSTIN,reviewed,frappe
+Party Information,Relatie-informatie,reviewed,erpnext
+Party is mandatory,Relatie is verplicht,reviewed,erpnext
 Party Link,Partijkoppeling,reviewed,custom
 Party Name,Relatienaam,reviewed,erpnext
 Party Specific Item,Relatie-specifiek artikel,reviewed,custom
 Party Type,Relatietype,reviewed,erpnext
-Party Type and Party is mandatory for {0} account,Feesttype en feest is verplicht voor {0} account,unreviewed,erpnext
-Party Type is mandatory,Party Type is verplicht,unreviewed,erpnext
-Party User,Partijgebruiker,unreviewed,erpnext
-Pass,Voorbij lopen,unreviewed,erpnext
-Passed,Geslaagd,unreviewed,erpnext
-Passing Score,Score behalen,unreviewed,erpnext
-Passing Score value should be between 0 and 100,De score voor het slagen moet tussen 0 en 100 liggen,unreviewed,erpnext
-Passive,Passief,unreviewed,frappe
-Passport Number,Paspoortnummer,unreviewed,erpnext
-Password,Wachtwoord,unreviewed,frappe
-Password changed successfully.,Wachtwoord succesvol veranderd.,unreviewed,frappe
-Password for Base DN,Wachtwoord voor Base DN,unreviewed,frappe
-Password is required or select Awaiting Password,Wachtwoord nodig of selecteer afwachting wachtwoord,unreviewed,frappe
-Password not found,Wachtwoord niet gevonden,unreviewed,frappe
-Password Reset,Wachtwoord opnieuw instellen,unreviewed,frappe
-Password reset instructions have been sent to your email,"Instructies om uw wachtwoord opnieuw in te stellen, zijn naar uw e-mail verzonden",unreviewed,frappe
-Password Reset Link Generation Limit,Limiet voor genereren van link voor opnieuw instellen van wachtwoord,unreviewed,frappe
-Password Updated,Wachtwoord bijgewerkt,unreviewed,frappe
-Passwords do not match!,Wachtwoorden komen niet overeen!,unreviewed,frappe
-Past Due Date,Verstreken einddatum,unreviewed,erpnext
-Paste,Plakken,unreviewed,frappe
-Path,Pad,unreviewed,both
-Path to CA Certs File,Pad naar CA Certs-bestand,unreviewed,frappe
-Path to private Key File,Pad naar privésleutelbestand,unreviewed,frappe
-Path to Server Certificate,Pad naar servercertificaat,unreviewed,frappe
-Patient Age,Patiënt leeftijd,unreviewed,erpnext
-Patient Appointment,Patient Afspraak,unreviewed,erpnext
-Patient Appointment Analytics,Patiëntafspraakanalyse,unreviewed,erpnext
-Patient Appointments,Afspraken met de patiënt,unreviewed,erpnext
-Patient Assessment,Patiënt beoordeling,unreviewed,erpnext
-Patient Assessment Detail,Details van patiëntbeoordeling,unreviewed,erpnext
-Patient Assessment Parameter,Patiëntbeoordelingsparameter,unreviewed,erpnext
-Patient Assessment Sheet,Patiëntbeoordelingsblad,unreviewed,erpnext
-Patient Assessment Template,Sjabloon voor patiëntbeoordeling,unreviewed,erpnext
-Patient Encounter,Patiënt ontmoeting,unreviewed,erpnext
-Patient Encounter Diagnosis,Diagnose van ontmoeting met de patiënt,unreviewed,erpnext
-Patient Encounter Symptom,Symptoom bij de patiënt,unreviewed,erpnext
-Patient History,Patiëntgeschiedenis,unreviewed,erpnext
-Patient Name,Patient naam,unreviewed,erpnext
-Patient Name By,Patiëntnaam By,unreviewed,erpnext
-Patient not found,Patiënt niet gevonden,unreviewed,erpnext
-Patient Profile,Patiëntprofiel,unreviewed,erpnext
-Patient Progress,Vooruitgang van de patiënt,unreviewed,erpnext
-Patient Registration,Patiëntregistratie,unreviewed,erpnext
-Patient Relation,Patiëntrelatie,unreviewed,erpnext
-Pause,Pauze,unreviewed,erpnext
-pause,pauze,unreviewed,frappe
-Pause SLA On,SLA onderbreken,unreviewed,erpnext
-Pause SLA On Status,Pauzeer SLA op status,unreviewed,erpnext
-Pay,Betalen,unreviewed,erpnext
-Pay Remaining,Betaal resterend,unreviewed,erpnext
-Pay To / Recd From,Betaal aan / Ontv van,unreviewed,erpnext
-Pay {0} {1},Betaal {0} {1},unreviewed,erpnext
-Payable,betaalbaar,unreviewed,erpnext
-Payable Account,Verschuldigd Account,unreviewed,erpnext
+Party Type and Party is mandatory for {0} account,Relatietype en relatie zijn verplicht voor {0}-account,reviewed,erpnext
+Party Type is mandatory,Relatietype is verplicht,reviewed,erpnext
+Party User,Relatiegebruiker,reviewed,erpnext
+Pass,Geslaagd,reviewed,erpnext
+Passed,Geslaagd,reviewed,erpnext
+Passing Score,Slaaggrens,reviewed,erpnext
+Passing Score value should be between 0 and 100,De score voor het slagen moet tussen 0 en 100 liggen,reviewed,erpnext
+Passive,Passief,reviewed,frappe
+Passport Number,Paspoortnummer,reviewed,erpnext
+Password,Wachtwoord,reviewed,frappe
+Password changed successfully.,Wachtwoord succesvol veranderd.,reviewed,frappe
+Password for Base DN,Wachtwoord voor Base DN,reviewed,frappe
+Password is required or select Awaiting Password,Wachtwoord nodig of selecteer afwachting wachtwoord,reviewed,frappe
+Password not found,Wachtwoord niet gevonden,reviewed,frappe
+Password Reset,Wachtwoord opnieuw instellen,reviewed,frappe
+Password reset instructions have been sent to your email,"Instructies om uw wachtwoord opnieuw in te stellen, zijn naar uw e-mail verzonden",reviewed,frappe
+Password Reset Link Generation Limit,Limiet voor genereren van link voor opnieuw instellen van wachtwoord,reviewed,frappe
+Password Updated,Wachtwoord bijgewerkt,reviewed,frappe
+Passwords do not match!,Wachtwoorden komen niet overeen!,reviewed,frappe
+Past Due Date,Verstreken einddatum,reviewed,erpnext
+Paste,Plakken,reviewed,frappe
+Path,Pad,reviewed,both
+Path to CA Certs File,Pad naar CA Certs-bestand,reviewed,frappe
+Path to private Key File,Pad naar privésleutelbestand,reviewed,frappe
+Path to Server Certificate,Pad naar servercertificaat,reviewed,frappe
+Patient Age,Patiënt leeftijd,reviewed,erpnext
+Patient Appointment,Patient Afspraak,reviewed,erpnext
+Patient Appointment Analytics,Patiëntafspraakanalyse,reviewed,erpnext
+Patient Appointments,Afspraken met de patiënt,reviewed,erpnext
+Patient Assessment,Patiënt beoordeling,reviewed,erpnext
+Patient Assessment Detail,Details van patiëntbeoordeling,reviewed,erpnext
+Patient Assessment Parameter,Patiëntbeoordelingsparameter,reviewed,erpnext
+Patient Assessment Sheet,Patiëntbeoordelingsblad,reviewed,erpnext
+Patient Assessment Template,Sjabloon voor patiëntbeoordeling,reviewed,erpnext
+Patient Encounter,Patientconsult,reviewed,erpnext
+Patient Encounter Diagnosis,Diagnose van ontmoeting met de patiënt,reviewed,erpnext
+Patient Encounter Symptom,Symptoom bij de patiënt,reviewed,erpnext
+Patient History,Patiëntgeschiedenis,reviewed,erpnext
+Patient Name,Patient naam,reviewed,erpnext
+Patient Name By,Patientnaam via,reviewed,erpnext
+Patient not found,Patiënt niet gevonden,reviewed,erpnext
+Patient Profile,Patiëntprofiel,reviewed,erpnext
+Patient Progress,Vooruitgang van de patiënt,reviewed,erpnext
+Patient Registration,Patiëntregistratie,reviewed,erpnext
+Patient Relation,Patiëntrelatie,reviewed,erpnext
+Pause,Pauze,reviewed,erpnext
+pause,pauze,reviewed,frappe
+Pause SLA On,SLA onderbreken,reviewed,erpnext
+Pause SLA On Status,Pauzeer SLA op status,reviewed,erpnext
+Pay,Betalen,reviewed,erpnext
+Pay Remaining,Betaal resterend,reviewed,erpnext
+Pay To / Recd From,Betaal aan / Ontv van,reviewed,erpnext
+Pay {0} {1},Betaal {0} {1},reviewed,erpnext
+Payable,betaalbaar,reviewed,erpnext
+Payable Account,Verschuldigd Account,reviewed,erpnext
 Payables,Crediteuren,reviewed,erpnext
-Payer Settings,Payer Instellingen,unreviewed,erpnext
-Payment,Betaling,unreviewed,erpnext
-Payment Account,Betaalrekening,unreviewed,erpnext
-Payment against {0} {1} cannot be greater than Outstanding Amount {2},Betaling tegen {0} {1} kan niet groter zijn dan openstaande bedrag te zijn {2},unreviewed,erpnext
-Payment Amount,Betaling Bedrag,unreviewed,erpnext
-Payment amount cannot be less than or equal to 0,Het betalingsbedrag mag niet lager zijn dan of gelijk zijn aan 0,unreviewed,erpnext
-Payment Cancelled,betaling geannuleerd,unreviewed,frappe
-Payment Cancelled. Please check your GoCardless Account for more details,Betaling geannuleerd. Controleer uw GoCardless-account voor meer informatie,unreviewed,erpnext
-Payment Channel,Betalingskanaal,unreviewed,erpnext
-Payment Confirmation,Betalingsbevestiging,unreviewed,erpnext
-Payment Deductions or Loss,Betaling Aftrek of verlies,unreviewed,erpnext
-Payment Description,Betalingsomschrijving,unreviewed,erpnext
-Payment Document,betaling Document,unreviewed,erpnext
-Payment Document Type,Type betaaldocument,unreviewed,erpnext
-Payment Due Date,Betaling Vervaldatum,unreviewed,erpnext
-Payment Entries,betaling Entries,unreviewed,erpnext
-Payment Entries {0} are un-linked,Betaling Entries {0} zijn un-linked,unreviewed,erpnext
-Payment Entry,betaling Entry,unreviewed,erpnext
-Payment Entry already exists,Betaling Entry bestaat al,unreviewed,erpnext
-Payment Entry Deduction,Betaling Entry Aftrek,unreviewed,erpnext
-Payment Entry has been modified after you pulled it. Please pull it again.,Betaling Bericht is gewijzigd nadat u het getrokken. Neem dan trekt het weer.,unreviewed,erpnext
-Payment Entry is already created,Betaling Entry is al gemaakt,unreviewed,erpnext
-Payment Entry Reference,Betaling Entry Reference,unreviewed,erpnext
-Payment Failed,Betaling mislukt,unreviewed,erpnext
-Payment Failed. Please check your GoCardless Account for more details,Betaling mislukt. Controleer uw GoCardless-account voor meer informatie,unreviewed,erpnext
-Payment From / To,Betaling van / naar,unreviewed,erpnext
+Payer Settings,Payer Instellingen,reviewed,erpnext
+Payment,Betaling,reviewed,erpnext
+Payment Account,Betaalrekening,reviewed,erpnext
+Payment against {0} {1} cannot be greater than Outstanding Amount {2},Betaling tegen {0} {1} kan niet groter zijn dan openstaande bedrag te zijn {2},reviewed,erpnext
+Payment Amount,Betaling Bedrag,reviewed,erpnext
+Payment amount cannot be less than or equal to 0,Het betalingsbedrag mag niet lager zijn dan of gelijk zijn aan 0,reviewed,erpnext
+Payment Cancelled,betaling geannuleerd,reviewed,frappe
+Payment Cancelled. Please check your GoCardless Account for more details,Betaling geannuleerd. Controleer uw GoCardless-account voor meer informatie,reviewed,erpnext
+Payment Channel,Betalingskanaal,reviewed,erpnext
+Payment Confirmation,Betalingsbevestiging,reviewed,erpnext
+Payment Deductions or Loss,Betaling Aftrek of verlies,reviewed,erpnext
+Payment Description,Betalingsomschrijving,reviewed,erpnext
+Payment Document,betaling Document,reviewed,erpnext
+Payment Document Type,Type betaaldocument,reviewed,erpnext
+Payment Due Date,Betaling Vervaldatum,reviewed,erpnext
+Payment Entries,betaling Entries,reviewed,erpnext
+Payment Entries {0} are un-linked,Betaling Entries {0} zijn un-linked,reviewed,erpnext
+Payment Entry,betaling Entry,reviewed,erpnext
+Payment Entry already exists,Betaling Entry bestaat al,reviewed,erpnext
+Payment Entry Deduction,Betaling Entry Aftrek,reviewed,erpnext
+Payment Entry has been modified after you pulled it. Please pull it again.,Betaling Bericht is gewijzigd nadat u het getrokken. Neem dan trekt het weer.,reviewed,erpnext
+Payment Entry is already created,Betaling Entry is al gemaakt,reviewed,erpnext
+Payment Entry Reference,Betaling Entry Reference,reviewed,erpnext
+Payment Failed,Betaling mislukt,reviewed,erpnext
+Payment Failed. Please check your GoCardless Account for more details,Betaling mislukt. Controleer uw GoCardless-account voor meer informatie,reviewed,erpnext
+Payment From / To,Betaling van / naar,reviewed,erpnext
 Payment Gateway Account,Betalingsgateway rekening,reviewed,custom
-"Payment Gateway Account not created, please create one manually.","Payment Gateway-account aangemaakt, dan kunt u een handmatig maken.",unreviewed,erpnext
-Payment ID,Betaal-ID,unreviewed,erpnext
-Payment Invoice Items,Betaling Factuur Items,unreviewed,erpnext
+"Payment Gateway Account not created, please create one manually.","Payment Gateway-account aangemaakt, dan kunt u een handmatig maken.",reviewed,erpnext
+Payment ID,Betaal-ID,reviewed,erpnext
+Payment Invoice Items,Betaling Factuur Items,reviewed,erpnext
 Payment Ledger Entry,Betalingsgrootboekregel,reviewed,custom
-Payment Method,Betalingswijze,unreviewed,erpnext
-Payment Methods,Betaalmethodes,unreviewed,erpnext
-Payment methods are mandatory. Please add at least one payment method.,Betaalmethoden zijn verplicht. Voeg ten minste één betaalmethode toe.,unreviewed,erpnext
-Payment Mode,Betaling Mode,unreviewed,erpnext
-Payment Name,Betalingsnaam,unreviewed,erpnext
-Payment Order,Betalingsopdracht,unreviewed,erpnext
-Payment Order Reference,Referentie betalingsopdracht,unreviewed,erpnext
-Payment Order Status,Status betalingsopdracht,unreviewed,erpnext
-Payment Order Type,Type betalingsopdracht,unreviewed,erpnext
-Payment Ordered,Betaling besteld,unreviewed,erpnext
-Payment Period Based On Invoice Date,Betaling Periode gebaseerd op factuurdatum,unreviewed,erpnext
-Payment Plan,Betaalplan,unreviewed,erpnext
-Payment Receipt Note,Betaling Ontvangst Opmerking,unreviewed,erpnext
-Payment Received,Betaling ontvangen,unreviewed,erpnext
+Payment Method,Betalingswijze,reviewed,erpnext
+Payment Methods,Betaalmethodes,reviewed,erpnext
+Payment methods are mandatory. Please add at least one payment method.,Betaalmethoden zijn verplicht. Voeg ten minste één betaalmethode toe.,reviewed,erpnext
+Payment Mode,Betaling Mode,reviewed,erpnext
+Payment Name,Betalingsnaam,reviewed,erpnext
+Payment Order,Betalingsopdracht,reviewed,erpnext
+Payment Order Reference,Referentie betalingsopdracht,reviewed,erpnext
+Payment Order Status,Status betalingsopdracht,reviewed,erpnext
+Payment Order Type,Type betalingsopdracht,reviewed,erpnext
+Payment Ordered,Betaling besteld,reviewed,erpnext
+Payment Period Based On Invoice Date,Betaling Periode gebaseerd op factuurdatum,reviewed,erpnext
+Payment Plan,Betaalplan,reviewed,erpnext
+Payment Receipt Note,Betaling Ontvangst Opmerking,reviewed,erpnext
+Payment Received,Betaling ontvangen,reviewed,erpnext
 Payment Reconciliation,Betalingsafstemming,reviewed,erpnext
-Payment Reconciliation Invoice,Afletteren Factuur,unreviewed,erpnext
-Payment Reconciliation Payment,Afletteren Betaling,unreviewed,erpnext
-Payment Reference,Betalingsreferentie,unreviewed,erpnext
-Payment References,betaling Referenties,unreviewed,erpnext
-Payment related to {0} is not completed,De betaling met betrekking tot {0} is niet voltooid,unreviewed,erpnext
+Payment Reconciliation Invoice,Afletteren Factuur,reviewed,erpnext
+Payment Reconciliation Payment,Afletteren Betaling,reviewed,erpnext
+Payment Reference,Betalingsreferentie,reviewed,erpnext
+Payment References,betaling Referenties,reviewed,erpnext
+Payment related to {0} is not completed,De betaling met betrekking tot {0} is niet voltooid,reviewed,erpnext
 Payment Request,Betalingsverzoek,reviewed,erpnext
-Payment Request for {0},Betalingsverzoek voor {0},unreviewed,erpnext
-Payment Request Type,Type betalingsverzoek,unreviewed,erpnext
-Payment request {0} created,Betalingsverzoek {0} gemaakt,unreviewed,erpnext
-Payment Schedule,Betalingsschema,unreviewed,erpnext
-Payment Success,betaling Succes,unreviewed,frappe
-Payment Success Url,Betaling Succes URL,unreviewed,erpnext
-Payment Tems,Betalingsmethoden,unreviewed,erpnext
+Payment Request for {0},Betalingsverzoek voor {0},reviewed,erpnext
+Payment Request Type,Type betalingsverzoek,reviewed,erpnext
+Payment request {0} created,Betalingsverzoek {0} gemaakt,reviewed,erpnext
+Payment Schedule,Betalingsschema,reviewed,erpnext
+Payment Success,betaling Succes,reviewed,frappe
+Payment Success Url,Betaling Succes URL,reviewed,erpnext
+Payment Tems,Betalingsmethoden,reviewed,erpnext
 Payment Term,Betalingsvoorwaarde,reviewed,erpnext
-Payment Term Name,Betalingstermijn,unreviewed,erpnext
-Payment Terms,Betaalvoorwaarden,unreviewed,erpnext
-Payment Terms based on conditions,Betalingsvoorwaarden op basis van voorwaarden,unreviewed,erpnext
+Payment Term Name,Betalingstermijn,reviewed,erpnext
+Payment Terms,Betaalvoorwaarden,reviewed,erpnext
+Payment Terms based on conditions,Betalingsvoorwaarden op basis van voorwaarden,reviewed,erpnext
 Payment Terms Template,Betalingsvoorwaarden sjabloon,reviewed,erpnext
-Payment Terms Template Detail,Betalingsvoorwaarden sjabloondetail,unreviewed,erpnext
-Payment Type,Betaling Type,unreviewed,erpnext
-"Payment Type must be one of Receive, Pay and Internal Transfer","Betaling Type moet een van te ontvangen, betalen en Internal Transfer",unreviewed,erpnext
+Payment Terms Template Detail,Betalingsvoorwaarden sjabloondetail,reviewed,erpnext
+Payment Type,Betaling Type,reviewed,erpnext
+"Payment Type must be one of Receive, Pay and Internal Transfer","Betaling Type moet een van te ontvangen, betalen en Internal Transfer",reviewed,erpnext
 Payments,Betalingen,reviewed,erpnext
-PayPal payment gateway settings,PayPal betaling gateway-instellingen,unreviewed,frappe
-PayPal Settings,PayPal-instellingen,unreviewed,frappe
+PayPal payment gateway settings,PayPal betaling gateway-instellingen,reviewed,frappe
+PayPal Settings,PayPal-instellingen,reviewed,frappe
 Payroll Correction,Salariscorrectie,reviewed,custom
-Payroll Cost Center,Loonkostencentrum,unreviewed,erpnext
+Payroll Cost Center,Loonkostencentrum,reviewed,erpnext
 Payroll Period,Salarisperiode,reviewed,custom
-Payslip,loonstrook,unreviewed,erpnext
-Paytm payment gateway settings,Paytm betalingsgateway-instellingen,unreviewed,frappe
-Paytm Settings,Paytm-instellingen,unreviewed,frappe
-PDF generation failed,PDF-generatie mislukt,unreviewed,frappe
-PDF generation failed because of broken image links,PDF generatie mislukt vanwege gebroken image koppelingen,unreviewed,frappe
-PDF Page Size,PDF-paginaformaat,unreviewed,frappe
-"PDF printing via ""Raw Print"" is not yet supported. Please remove the printer mapping in Printer Settings and try again.",PDF-afdrukken via &quot;Raw Print&quot; wordt nog niet ondersteund. Verwijder de printertoewijzing in Printerinstellingen en probeer het opnieuw.,unreviewed,frappe
-PDF Settings,PDF-instellingen,unreviewed,frappe
-pencil,potlood,unreviewed,frappe
-Pending,In afwachting van,unreviewed,both
-Pending Activities,Afwachting Activiteiten,unreviewed,erpnext
-Pending activities for today,Afwachting van activiteiten voor vandaag,unreviewed,erpnext
-Pending Amount,In afwachting van Bedrag,unreviewed,erpnext
-Pending Approval,In afwachting van goedkeuring,unreviewed,frappe
-Pending Leaves,In afwachting van bladeren,unreviewed,erpnext
-Pending Qty,In afwachting Aantal,unreviewed,erpnext
-Pending Quantity,In afwachting van hoeveelheid,unreviewed,erpnext
-Pending Review,In afwachting van beoordeling,unreviewed,erpnext
-Pending SO Items For Purchase Request,In afwachting van Verkoop Artikelen voor Inkoopaanvraag,unreviewed,erpnext
-Pending Verification,wachten op verificatie,unreviewed,frappe
-Pending Work Order,In afwachting van werkopdracht,unreviewed,erpnext
-Pension Funds,Pensioenfondsen,unreviewed,erpnext
-per hour,per uur,unreviewed,erpnext
-Per Month,Per maand,unreviewed,erpnext
-Per Transferred,Per overgedragen,unreviewed,erpnext
-Per Week,Per week,unreviewed,erpnext
-Per Year,Per jaar,unreviewed,erpnext
-Percent,Percentage,unreviewed,frappe
-Percent Complete,Percentage compleet,unreviewed,frappe
-Percentage Allocation,Percentage Toewijzing,unreviewed,erpnext
-Percentage Allocation should be equal to 100%,Percentage toewijzing moet gelijk zijn aan 100%,unreviewed,erpnext
+Payslip,loonstrook,reviewed,erpnext
+Paytm payment gateway settings,Paytm betalingsgateway-instellingen,reviewed,frappe
+Paytm Settings,Paytm-instellingen,reviewed,frappe
+PDF generation failed,PDF-generatie mislukt,reviewed,frappe
+PDF generation failed because of broken image links,PDF generatie mislukt vanwege gebroken image koppelingen,reviewed,frappe
+PDF Page Size,PDF-paginaformaat,reviewed,frappe
+"PDF printing via ""Raw Print"" is not yet supported. Please remove the printer mapping in Printer Settings and try again.",PDF-afdrukken via &quot;Raw Print&quot; wordt nog niet ondersteund. Verwijder de printertoewijzing in Printerinstellingen en probeer het opnieuw.,reviewed,frappe
+PDF Settings,PDF-instellingen,reviewed,frappe
+pencil,potlood,reviewed,frappe
+Pending,In afwachting van,reviewed,both
+Pending Activities,Afwachting Activiteiten,reviewed,erpnext
+Pending activities for today,Afwachting van activiteiten voor vandaag,reviewed,erpnext
+Pending Amount,In afwachting van Bedrag,reviewed,erpnext
+Pending Approval,In afwachting van goedkeuring,reviewed,frappe
+Pending Leaves,In afwachting van bladeren,reviewed,erpnext
+Pending Qty,In afwachting Aantal,reviewed,erpnext
+Pending Quantity,In afwachting van hoeveelheid,reviewed,erpnext
+Pending Review,In afwachting van beoordeling,reviewed,erpnext
+Pending SO Items For Purchase Request,In afwachting van Verkoop Artikelen voor Inkoopaanvraag,reviewed,erpnext
+Pending Verification,wachten op verificatie,reviewed,frappe
+Pending Work Order,In afwachting van werkopdracht,reviewed,erpnext
+Pension Funds,Pensioenfondsen,reviewed,erpnext
+per hour,per uur,reviewed,erpnext
+Per Month,Per maand,reviewed,erpnext
+Per Transferred,Per overgedragen,reviewed,erpnext
+Per Week,Per week,reviewed,erpnext
+Per Year,Per jaar,reviewed,erpnext
+Percent,Percentage,reviewed,frappe
+Percent Complete,Percentage compleet,reviewed,frappe
+Percentage Allocation,Percentage Toewijzing,reviewed,erpnext
+Percentage Allocation should be equal to 100%,Percentage toewijzing moet gelijk zijn aan 100%,reviewed,erpnext
 Percentage you are allowed to transfer more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to transfer 110 units.,"Percentage dat u meer mag overbrengen tegen de bestelde hoeveelheid. Bijvoorbeeld: als u 100 eenheden heeft besteld. en uw toelage is 10%, dan mag u 110 eenheden overdragen.",unreviewed,erpnext
 Perception Analysis,Perceptie Analyse,unreviewed,erpnext
 Perennial,eeuwigdurend,unreviewed,erpnext

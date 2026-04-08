@@ -2699,306 +2699,306 @@ Debit Note Issued,Debetnota uitgegeven,reviewed,erpnext,0.93,0.9,0.9,0.9,0.9,1.0
 Debit To,Debitering van,reviewed,erpnext,0.59,0.6,0.5,0.5,0.6,0.8,review
 Debit to,Debiteren naar,reviewed,erpnext,0.59,0.6,0.5,0.5,0.6,0.8,review
 Debit To is required,Debet Om vereist,reviewed,erpnext,0.09,0.1,0.0,0.1,0.0,0.3,rewrite
-Debtors,debiteuren,reviewed,erpnext,,,,,,,
-Debtors ({0}),Debiteuren ({0}),reviewed,erpnext,,,,,,,
-Debtors Account set in Tally,Debiteurenrekening ingesteld in Tally,reviewed,erpnext,,,,,,,
-December,december,reviewed,erpnext,,,,,,,
-Declare Lost,Verklaar verklaren,reviewed,erpnext,,,,,,,
-Deduct,Aftrekken,reviewed,erpnext,,,,,,,
-Deductee Details,Details van de afgetrokken persoon,reviewed,erpnext,,,,,,,
-Deduction from salary,Inhouding op salaris,reviewed,erpnext,,,,,,,
-Deductions or Loss,Aftrek of verlies,reviewed,erpnext,,,,,,,
-Deemed Export,Geachte export,reviewed,erpnext,,,,,,,
-Default,Standaard,reviewed,both,,,,,,,
-Default Account,Standaardrekening,reviewed,erpnext,,,,,,,
-Default account will be automatically updated in POS Invoice when this mode is selected.,De standaardrekening wordt automatisch bijgewerkt in POS-factuur wanneer deze modus is geselecteerd.,reviewed,erpnext,,,,,,,
-Default Accounts,Standaardrekeningen,reviewed,erpnext,,,,,,,
-Default Activity Cost exists for Activity Type - {0},Standaard activiteitskosten bestaan voor activiteitstype - {0},reviewed,erpnext,,,,,,,
-Default Address Template cannot be deleted,Standaard adressjabloon kan niet worden verwijderd,reviewed,frappe,,,,,,,
-Default Bank Account,Standaard bankrekening,reviewed,erpnext,,,,,,,
-Default BOM,Standaard stuklijst,reviewed,erpnext,,,,,,,
-Default BOM ({0}) must be active for this item or its template,Standaard stuklijst ({0}) moet actief zijn voor dit artikel of zijn sjabloon,reviewed,erpnext,,,,,,,
-Default BOM for {0} not found,Standaard BOM voor {0} niet gevonden,reviewed,erpnext,,,,,,,
-Default BOM not found for Item {0} and Project {1},Standaard stuklijst niet gevonden voor artikel {0} en project {1},reviewed,erpnext,,,,,,,
-Default Buying Cost Center,Standaard inkoop kostenplaats,reviewed,erpnext,,,,,,,
-Default Buying Price List,Standaard inkoop prijslijst,reviewed,erpnext,,,,,,,
-Default Buying Terms,Standaard koopvoorwaarden,reviewed,erpnext,,,,,,,
-Default Cash Account,Standaard Kasrekening,reviewed,erpnext,,,,,,,
-Default Company,Standaard Bedrijf,reviewed,erpnext,,,,,,,
-Default Company Bank Account,Standaard bedrijfsbankrekening,reviewed,erpnext,,,,,,,
-Default Cost Center,Standaard Kostenplaats,reviewed,erpnext,,,,,,,
-Default Cost of Goods Sold Account,Standaard kostprijsrekening verkopen,reviewed,erpnext,,,,,,,
-Default Costing Rate,Standaard kostentarief,reviewed,erpnext,,,,,,,
-Default Currency,Standaardvaluta,reviewed,erpnext,,,,,,,
-Default Customer,Standaard klant,reviewed,erpnext,,,,,,,
-Default Customer Group,Standaard klantengroep,reviewed,erpnext,,,,,,,
-Default Deferred Expense Account,Standaard rekening uitgestelde kosten,reviewed,erpnext,,,,,,,
-Default Deferred Revenue Account,Standaard rekening uitgestelde omzet,reviewed,erpnext,,,,,,,
-Default Dimension,Standaard dimensie,reviewed,erpnext,,,,,,,
-Default Distance Unit,Standaard afstandseenheid,reviewed,erpnext,,,,,,,
-Default Duration (In Minutes),Standaardduur (in minuten),reviewed,erpnext,,,,,,,
-Default Employee Advance Account,Standaard voorschotrekening werknemers,reviewed,erpnext,,,,,,,
-Default Expense Account,Standaard Kostenrekening,reviewed,erpnext,,,,,,,
-Default Expense Claim Payable Account,Standaard rekening onkostendeclaraties,reviewed,erpnext,,,,,,,
-Default Finance Book,Standaard financieel dagboek,reviewed,erpnext,,,,,,,
-Default Finished Goods Warehouse,Standaard magazijn gereed product,reviewed,erpnext,,,,,,,
-Default for 'Check' type of field {0} must be either '0' or '1',De standaardwaarde voor het veldtype &#39;Controle&#39; {0} moet &#39;0&#39; of &#39;1&#39; zijn,reviewed,frappe,,,,,,,
-Default Healthcare Service Items,Standaardartikelen voor gezondheidszorg,reviewed,erpnext,,,,,,,
-Default Holiday List,Standaard verloflijst,reviewed,erpnext,,,,,,,
-Default In Transit Warehouse,Standaard transitmagazijn,reviewed,erpnext,,,,,,,
-Default Inbox,Standaard postvak IN,reviewed,frappe,,,,,,,
-Default Income Account,Standaard Inkomstenrekening,reviewed,erpnext,,,,,,,
-Default income accounts to be used if not set in Healthcare Practitioner to book Appointment charges.,Te gebruiken wanbetalingsrekeningen indien niet ingesteld in de zorgverlener om de afspraakkosten te boeken.,reviewed,erpnext,,,,,,,
-Default Incoming,Standaard Inkomende,reviewed,frappe,,,,,,,
-Default Inventory Account,Standaard voorraadrekening,reviewed,erpnext,,,,,,,
-Default Invoice Naming Series,Standaard nummerreeks facturen,reviewed,erpnext,,,,,,,
-Default Item Group,Standaard Artikelgroep,reviewed,erpnext,,,,,,,
-Default Item Manufacturer,Standaard artikelfabrikant,reviewed,erpnext,,,,,,,
-Default Leave Policy,Standaard verlofbeleid,reviewed,erpnext,,,,,,,
-Default Letter Head,Standaard Briefhoofd,reviewed,both,,,,,,,
-Default Manufacturer Part No,Standaard fabrikant onderdeelnr,reviewed,erpnext,,,,,,,
-Default Material Request Type,Standaard materiaalverzoektype,reviewed,erpnext,,,,,,,
-Default Medical Code Standard,Standaard Medische Code Standaard,reviewed,erpnext,,,,,,,
-Default Outgoing,Standaard uitgaande,reviewed,frappe,,,,,,,
-Default Payable Account,Standaard crediteurenrekening,reviewed,erpnext,,,,,,,
-Default Payable Accounts,Standaard crediteurenrekeningen,reviewed,erpnext,,,,,,,
-Default Payment Request Message,Standaard bericht betalingsverzoek,reviewed,erpnext,,,,,,,
-Default Payment Terms Template,Standaard sjabloon betalingsvoorwaarden,reviewed,erpnext,,,,,,,
-Default Portal Home,Standaard portaalhomepagina,reviewed,frappe,,,,,,,
-Default Price List,Standaard Prijslijst,reviewed,erpnext,,,,,,,
-Default Print Format,Standaard afdrukindeling,reviewed,frappe,,,,,,,
-Default Print Language,Standaard afdruktaal,reviewed,frappe,,,,,,,
-Default Priority,Standaard prioriteit,reviewed,erpnext,,,,,,,
-Default Purchase Unit of Measure,Standaard inkoopeenheid,reviewed,erpnext,,,,,,,
-Default Quotation Validity Days,Standaard geldigheid offertes (dagen),reviewed,erpnext,,,,,,,
-Default Receivable Account,Standaard debiteurenrekening,reviewed,erpnext,,,,,,,
-Default receivable accounts to be used to book Appointment charges.,Standaard te ontvangen rekeningen om te gebruiken voor het boeken van afspraakkosten.,reviewed,erpnext,,,,,,,
-Default Redirect URI,Standaard Redirect URI,reviewed,frappe,,,,,,,
-Default Role at Time of Signup,Standaard rol bij aanmelding,reviewed,frappe,,,,,,,
-Default Role on Creation,Standaardrol bij creatie,reviewed,frappe,,,,,,,
-Default Round Off Account,Standaard afrondingsrekening,reviewed,erpnext,,,,,,,
-Default Sales Unit of Measure,Standaard verkoopeenheid,reviewed,erpnext,,,,,,,
-Default Scrap Warehouse,Standaard schrootmagazijn,reviewed,erpnext,,,,,,,
-Default Selling Cost Center,Standaard verkoop kostenplaats,reviewed,erpnext,,,,,,,
-Default Selling Terms,Standaard verkoopvoorwaarden,reviewed,erpnext,,,,,,,
-Default Sending,Standaard verzenden,reviewed,frappe,,,,,,,
-Default Sending and Inbox,Standaard verzenden en postvak IN,reviewed,frappe,,,,,,,
-Default Service Level Agreement,Standaard Service Level Agreement,reviewed,erpnext,,,,,,,
-Default settings for buying transactions.,Standaardinstellingen voor Inkooptransacties .,reviewed,erpnext,,,,,,,
-Default settings for selling transactions.,Standaardinstellingen voor Verkooptransacties .,reviewed,erpnext,,,,,,,
-Default settings for Shopping Cart,Standaardinstellingen voor Winkelwagen,reviewed,erpnext,,,,,,,
-Default Shift,Standaard dienst,reviewed,erpnext,,,,,,,
-Default Shipping Account,Standaard verzendrekening,reviewed,erpnext,,,,,,,
-Default Sort Field,Standaard sorteerveld,reviewed,frappe,,,,,,,
-Default Sort Order,Standaard sorteervolgorde,reviewed,frappe,,,,,,,
-Default Source Warehouse,Standaard Bronmagazijn,reviewed,erpnext,,,,,,,
-Default Stock UOM,Standaard voorraadeenheid,reviewed,erpnext,,,,,,,
-Default Supplier,Standaardleverancier,reviewed,erpnext,,,,,,,
-Default Supplier Group,Standaard leveranciersgroep,reviewed,erpnext,,,,,,,
-Default Target Warehouse,Standaard Doelmagazijn,reviewed,erpnext,,,,,,,
-Default Tax Template,Standaard belastingsjabloon,reviewed,erpnext,,,,,,,
-Default tax templates for sales and purchase are created.,Standaardbelastingsjablonen voor verkopen en kopen worden gemaakt.,reviewed,erpnext,,,,,,,
-Default Tax Withholding Config,Standaard bronbelastingconfiguratie,reviewed,erpnext,,,,,,,
-Default Taxes and Charges,Standaard belastingen en heffingen,reviewed,erpnext,,,,,,,
-Default Territory,Standaard Regio,reviewed,erpnext,,,,,,,
-Default Theme,Standaard thema,reviewed,frappe,,,,,,,
-Default Unit of Measure,Standaard meeteenheid,reviewed,erpnext,,,,,,,
-Default Unit of Measure for Item {0} cannot be changed directly because you have already made some transaction(s) with another UOM. You will need to create a new Item to use a different Default UOM.,"Standaard maateenheid voor post {0} kan niet direct worden gewijzigd, omdat je al enkele transactie (s) met een andere UOM hebben gemaakt. U moet een nieuwe post naar een andere Standaard UOM gebruik maken.",reviewed,erpnext,,,,,,,
-Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',Standaard maateenheid voor Variant &#39;{0}&#39; moet hetzelfde zijn als in zijn Template &#39;{1}&#39;,reviewed,erpnext,,,,,,,
-Default UOM,Standaard meeteenheid,reviewed,erpnext,,,,,,,
-Default Valuation Method,Standaard Waarderingsmethode,reviewed,erpnext,,,,,,,
-Default Value,Standaardwaarde,reviewed,both,,,,,,,
-Default value for {0} must be in the list of options.,De standaardwaarde voor {0} moet in de lijst met opties staan.,reviewed,frappe,,,,,,,
-Default Values,Standaard Waarden,reviewed,erpnext,,,,,,,
-Default Warehouse,Standaardmagazijn,reviewed,erpnext,,,,,,,
-Default Warehouse for Sales Return,Standaardmagazijn voor verkoopretour,reviewed,erpnext,,,,,,,
-Default Warehouse to to create Sales Order and Delivery Note,Standaard magazijn naar om klantorder en leveringsnota te maken,reviewed,erpnext,,,,,,,
-Default Warehouses for Production,Standaard magazijnen voor productie,reviewed,erpnext,,,,,,,
-Default Work In Progress Warehouse,Standaard Work In Progress Warehouse,reviewed,erpnext,,,,,,,
-Default Workstation,Standaard Werkstation,reviewed,erpnext,,,,,,,
-Default {0},Standaard {0},reviewed,frappe,,,,,,,
-"Default: ""Contact Us""",Default: &quot;Contact&quot;,reviewed,frappe,,,,,,,
-Default: 10 mins,Standaard: 10 minuten,reviewed,erpnext,,,,,,,
-Defaults,Standaardwaarden,reviewed,both,,,,,,,
-DefaultValue,Standaardwaarde,reviewed,frappe,,,,,,,
-Defense,Defensie,reviewed,erpnext,,,,,,,
-Deferred Accounting Settings,Uitgestelde boekhoudinstellingen,reviewed,erpnext,,,,,,,
-Deferred Expense,Uitgestelde kosten,reviewed,erpnext,,,,,,,
-Deferred Expense Account,Uitgestelde onkostenrekening,reviewed,erpnext,,,,,,,
-Deferred Revenue,Uitgestelde omzet,reviewed,erpnext,,,,,,,
-Deferred Revenue Account,Uitgestelde inkomstenrekening,reviewed,erpnext,,,,,,,
-Define budget for a financial year.,Definieer budget voor een boekjaar.,reviewed,erpnext,,,,,,,
-Define coupon codes.,Definieer couponcodes.,reviewed,erpnext,,,,,,,
-Define Project type.,Definieer projecttype.,reviewed,erpnext,,,,,,,
-Define various loan types,Definieer verschillende soorten lening,reviewed,erpnext,,,,,,,
-Define workflows for forms.,Definieer workflows voor schermen.,reviewed,frappe,,,,,,,
-Defines actions on states and the next step and allowed roles.,Definieert acties op staten en de volgende stap en liet rollen.,reviewed,frappe,,,,,,,
-Defines workflow states and rules for a document.,Definieert workflow-staten en regels voor een document.,reviewed,frappe,,,,,,,
-Del,del,reviewed,erpnext,,,,,,,
-Delay (in Days),Vertraging (in dagen),reviewed,erpnext,,,,,,,
-Delay between Delivery Stops,Vertraging tussen leveringstops,reviewed,erpnext,,,,,,,
-Delay in payment (Days),Vertraging in de betaling (Dagen),reviewed,erpnext,,,,,,,
-Delayed,Vertraagd,reviewed,frappe,,,,,,,
-Delayed Days,Vertraagde dagen,reviewed,erpnext,,,,,,,
-Delayed Item Report,Vertraagd itemrapport,reviewed,erpnext,,,,,,,
-Delayed Order Report,Vertraagd orderrapport,reviewed,erpnext,,,,,,,
-Delete,Verwijder,reviewed,both,,,,,,,
-Delete All,Verwijder alles,reviewed,frappe,,,,,,,
-Delete all the Transactions for this Company,Verwijder alle transacties voor dit bedrijf,reviewed,erpnext,,,,,,,
-Delete and Generate New,Verwijderen en nieuw genereren,reviewed,frappe,,,,,,,
-Delete comment?,Reactie verwijderen?,reviewed,frappe,,,,,,,
-Delete Company Transactions,Verwijder Company Transactions,reviewed,erpnext,,,,,,,
-Delete Data,Verwijder data,reviewed,frappe,,,,,,,
-Delete this record to allow sending to this email address,Verwijder dit record om mailverkeer naar dit e-mailadres toe te staan.,reviewed,frappe,,,,,,,
-Delete {0} items permanently?,Verwijder {0} items definitief?,reviewed,frappe,,,,,,,
-Deleted,Verwijderd,reviewed,frappe,,,,,,,
-Deleted DocType,verwijderde DocType,reviewed,frappe,,,,,,,
-Deleted Document,Verwijderd document,reviewed,frappe,,,,,,,
-Deleted Documents,Documenten verwijderd,reviewed,frappe,,,,,,,
-Deleted Name,verwijderde Naam,reviewed,frappe,,,,,,,
-Deleting,Verwijderen,reviewed,custom,,,,,,,
-Deleting {0},Het verwijderen van {0},reviewed,frappe,,,,,,,
-Deletion is not permitted for country {0},Verwijderen is niet toegestaan voor land {0},reviewed,erpnext,,,,,,,
-Delivered,Geleverd,reviewed,erpnext,,,,,,,
-Delivered Amount,Afgeleverd Bedrag,reviewed,erpnext,,,,,,,
-Delivered By Supplier,Geleverd door Leverancier,reviewed,erpnext,,,,,,,
-Delivered by Supplier (Drop Ship),Geleverd door Leverancier (Drop Ship),reviewed,erpnext,,,,,,,
-Delivered Items To Be Billed,Geleverde Artikelen nog te factureren,reviewed,erpnext,,,,,,,
-Delivered Qty,Geleverd aantal,reviewed,erpnext,,,,,,,
-Delivered Quantity,Geleverde hoeveelheid,reviewed,erpnext,,,,,,,
-Delivered: {0},Geleverd: {0},reviewed,erpnext,,,,,,,
-Delivery,Levering,reviewed,erpnext,,,,,,,
-Delivery After (Days),Levering na (dagen),reviewed,erpnext,,,,,,,
-Delivery Date,Leveringsdatum,reviewed,erpnext,,,,,,,
-Delivery Details,Levering Details,reviewed,erpnext,,,,,,,
-Delivery Document No,Leveringsdocument nr.,reviewed,erpnext,,,,,,,
-Delivery Document Type,Levering Soort document,reviewed,erpnext,,,,,,,
-Delivery Failed,Bezorging mislukt,reviewed,frappe,,,,,,,
-Delivery Note,Vrachtbrief,reviewed,erpnext,,,,,,,
-Delivery Note Item,Vrachtbrief Artikel,reviewed,erpnext,,,,,,,
-Delivery Note No,Vrachtbrief Nr,reviewed,erpnext,,,,,,,
-Delivery Note Series,Delivery Note-serie,reviewed,erpnext,,,,,,,
-Delivery Note Trends,Vrachtbrief Trends,reviewed,erpnext,,,,,,,
-Delivery Note {0} is not submitted,Vrachtbrief {0} is niet ingediend,reviewed,erpnext,,,,,,,
-Delivery Note {0} must not be submitted,Vrachtbrief {0} mag niet worden ingediend,reviewed,erpnext,,,,,,,
-Delivery Notes,Pakbonnen,reviewed,erpnext,,,,,,,
-Delivery Notes {0} must be cancelled before cancelling this Sales Order,Vrachtbrief {0} moet worden geannuleerd voordat het annuleren van deze Verkooporder,reviewed,erpnext,,,,,,,
-Delivery Notes {0} updated,Bezorgingsnotities {0} bijgewerkt,reviewed,erpnext,,,,,,,
-Delivery Schedule Item,Leveringsschema regel,reviewed,custom,,,,,,,
-Delivery Settings,Bezorginstellingen,reviewed,erpnext,,,,,,,
-Delivery Status,Verzendstatus,reviewed,both,,,,,,,
-Delivery Stop,Levering Stop,reviewed,erpnext,,,,,,,
-Delivery Stops,Levering stopt,reviewed,erpnext,,,,,,,
-Delivery Time,Levertijd,reviewed,erpnext,,,,,,,
-Delivery To,Leveren Aan,reviewed,erpnext,,,,,,,
-Delivery Trip,Bezorgrit,reviewed,erpnext,,,,,,,
-Delivery Warehouse,Levering magazijn,reviewed,erpnext,,,,,,,
-Delivery warehouse required for stock item {0},Levering magazijn vereist voor voorraad artikel {0},reviewed,erpnext,,,,,,,
-Density (if liquid),Dichtheid (indien vloeibaar),reviewed,erpnext,,,,,,,
-Department,Afdeling,reviewed,both,,,,,,,
-Department and Grade,Afdeling en rang,reviewed,erpnext,,,,,,,
-Department Stores,Warenhuizen,reviewed,erpnext,,,,,,,
-Departure Time,Vertrektijd,reviewed,erpnext,,,,,,,
-Dependencies,afhankelijkheden,reviewed,erpnext,,,,,,,
-Dependent Task,Afhankelijke taak,reviewed,erpnext,,,,,,,
-Dependent Tasks,Afhankelijke taken,reviewed,erpnext,,,,,,,
-Depends On,Hangt af van,reviewed,frappe,,,,,,,
-Depends on Tasks,Hangt af van Taken,reviewed,erpnext,,,,,,,
-Depreciated Amount,Afgeschreven bedrag,reviewed,erpnext,,,,,,,
-Depreciatied Amount,Afgeschreven bedrag,reviewed,erpnext,,,,,,,
-Depreciation,Afschrijvingskosten,reviewed,erpnext,,,,,,,
-Depreciation Amount,afschrijvingen Bedrag,reviewed,erpnext,,,,,,,
-Depreciation Amount during the period,Afschrijvingen bedrag gedurende de periode,reviewed,erpnext,,,,,,,
-Depreciation Date,afschrijvingen Date,reviewed,erpnext,,,,,,,
-Depreciation Eliminated due to disposal of assets,Afschrijvingen geëlimineerd vanwege verkoop van activa,reviewed,erpnext,,,,,,,
-Depreciation Entry,Afschrijvingsboeking,reviewed,erpnext,,,,,,,
-Depreciation Expense Account,Afschrijvingskostenrekening,reviewed,erpnext,,,,,,,
-Depreciation Method,afschrijvingsmethode,reviewed,erpnext,,,,,,,
-Depreciation Options,Afschrijvingsopties,reviewed,erpnext,,,,,,,
-Depreciation Posting Date,Afschrijvingsboekingsdatum,reviewed,erpnext,,,,,,,
-Depreciation Row {0}: Depreciation Start Date is entered as past date,Afschrijving Rij {0}: Startdatum afschrijving wordt ingevoerd als de vorige datum,reviewed,erpnext,,,,,,,
-Depreciation Row {0}: Expected value after useful life must be greater than or equal to {1},Afschrijving Rij {0}: de verwachte waarde na nuttige levensduur moet groter zijn dan of gelijk zijn aan {1},reviewed,erpnext,,,,,,,
-Depreciation Row {0}: Next Depreciation Date cannot be before Available-for-use Date,Afschrijving Rij {0}: Volgende Afschrijvingsdatum kan niet eerder zijn dan Beschikbaar-voor-gebruik Datum,reviewed,erpnext,,,,,,,
-Depreciation Row {0}: Next Depreciation Date cannot be before Purchase Date,Afschrijving Rij {0}: volgende Afschrijvingsdatum kan niet vóór Aankoopdatum zijn,reviewed,erpnext,,,,,,,
-Depreciation Schedule,Afschrijvingsschema,reviewed,erpnext,,,,,,,
-Depreciation Schedules,Afschrijvingsschema's,reviewed,erpnext,,,,,,,
-Descendants Of,Nakomelingen van,reviewed,frappe,,,,,,,
-Description,Omschrijving,reviewed,both,,,,,,,
-"Description for listing page, in plain text, only a couple of lines. (max 200 characters)","Beschrijving voor lijstpagina, in platte tekst, slechts een paar regels. (max 200 karakters)",reviewed,frappe,,,,,,,
-Descriptive,Beschrijvend,reviewed,erpnext,,,,,,,
-Descriptive Test,Beschrijvende test,reviewed,erpnext,,,,,,,
-Descriptive Test Result,Beschrijvend testresultaat,reviewed,erpnext,,,,,,,
-Descriptive Test Template,Beschrijvende testsjabloon,reviewed,erpnext,,,,,,,
-Designation,Benaming,reviewed,both,,,,,,,
-Designer,Ontwerper,reviewed,erpnext,,,,,,,
-Desk,Werkruimte,reviewed,frappe,,,,,,,
-Desk Card,Werkruimtekaart,reviewed,frappe,,,,,,,
-Desk Chart,Werkruimtegrafiek,reviewed,frappe,,,,,,,
-Desk Page,Werkruimtepagina,reviewed,frappe,,,,,,,
-Desk Shortcut,Werkruimtesnelkoppeling,reviewed,frappe,,,,,,,
-Desktop Icon,Bureaubladicoon,reviewed,frappe,,,,,,,
-Desktop Icon already exists,Bureaubladicoon bestaat al,reviewed,frappe,,,,,,,
-Detailed Reason,Gedetailleerde reden,reviewed,erpnext,,,,,,,
-Details of Outward Supplies and inward supplies liable to reverse charge,Details van uitgaande leveringen en binnenkomende leveringen die kunnen worden teruggeboekt,reviewed,erpnext,,,,,,,
-Details of the operations carried out.,Details van de uitgevoerde handelingen.,reviewed,erpnext,,,,,,,
-Detected Disease,Gedetecteerde ziekte,reviewed,erpnext,,,,,,,
-Detected Diseases,Gedetecteerde ziekten,reviewed,erpnext,,,,,,,
-Determine Address Tax Category From,Bepaal de adresbelastingcategorie van,reviewed,erpnext,,,,,,,
-Developer,Ontwikkelaar,reviewed,frappe,,,,,,,
-Developer Mode Only,Alleen ontwikkelaarsmodus,reviewed,frappe,,,,,,,
-development,ontwikkeling,reviewed,erpnext,,,,,,,
-Diagnosis,Diagnose,reviewed,erpnext,,,,,,,
-Diagnosis:,Diagnose:,reviewed,erpnext,,,,,,,
-Did not add,Niet toegevoegd,reviewed,frappe,,,,,,,
-Did not cancel,Niet geannuleerd,reviewed,frappe,,,,,,,
-Did not find any item called {0},Item met de naam {0} niet gevonden,reviewed,erpnext,,,,,,,
-Did not find {0} for {0} ({1}),Niet gevonden {0} voor {0} ( {1} ),reviewed,frappe,,,,,,,
-Did not remove,Niet verwijderd,reviewed,frappe,,,,,,,
-"Did not send SMS, missing patient mobile number or message content.","Geen sms verzonden, mobiel nummer van patiënt of berichtinhoud ontbreekt.",reviewed,erpnext,,,,,,,
-Diff Qty,Verschil aantal,reviewed,erpnext,,,,,,,
-Difference,Verschil,reviewed,erpnext,,,,,,,
-Difference (Dr - Cr),Verschil (Db - Cr),reviewed,erpnext,,,,,,,
-Difference Account,Verschilrekening,reviewed,erpnext,,,,,,,
-"Difference Account must be a Asset/Liability type account, since this Stock Entry is an Opening Entry","Verschilrekening moet een account van het type Activa / Aansprakelijkheid zijn, omdat deze voorraadvermelding een opening is",reviewed,erpnext,,,,,,,
-"Difference Account must be a Asset/Liability type account, since this Stock Reconciliation is an Opening Entry","Verschil moet Account een type Asset / Liability rekening zijn, aangezien dit Stock Verzoening is een opening Entry",reviewed,erpnext,,,,,,,
-Difference Amount,Verschilbedrag,reviewed,erpnext,,,,,,,
-Difference Amount (Company Currency),Verschilbedrag (bedrijfsvaluta),reviewed,erpnext,,,,,,,
-Difference Amount must be zero,Verschilbedrag moet nul zijn,reviewed,erpnext,,,,,,,
-Difference Value,Verschilwaarde,reviewed,erpnext,,,,,,,
-"Different ""States"" this document can exist in. Like ""Open"", ""Pending Approval"" etc.","Verschillende ""stadia"" waar dit document uit kan bestaan, bijvoorbeeld ""Open"", ""In afwachting van goedkeuring"", enz.",reviewed,frappe,,,,,,,
-Different UOM for items will lead to incorrect (Total) Net Weight value. Make sure that Net Weight of each item is in the same UOM.,Verschillende eenheden voor artikelen zal leiden tot een onjuiste (Totaal) Netto gewicht. Zorg ervoor dat Netto gewicht van elk artikel in dezelfde eenheid is.,reviewed,erpnext,,,,,,,
-Difficulty Level,Moeilijkheidsgraad,reviewed,erpnext,,,,,,,
-Digits,Cijfers,reviewed,frappe,,,,,,,
-Dimension Defaults,Standaard dimensies,reviewed,erpnext,,,,,,,
-Dimension Name,Dimensienaam,reviewed,erpnext,,,,,,,
-Direct,direct,reviewed,frappe,,,,,,,
-Direct Expenses,Directe kosten,reviewed,erpnext,,,,,,,
-Direct Income,Directe inkomsten,reviewed,erpnext,,,,,,,
-Direct room with {0} already exists.,Directe kamer met {0} bestaat al.,reviewed,frappe,,,,,,,
-Disable,Uitschakelen,reviewed,erpnext,,,,,,,
-Disable Auto Refresh,Auto-vernieuwen uitschakelen,reviewed,frappe,,,,,,,
-Disable Capacity Planning,Capaciteitsplanning uitschakelen,reviewed,erpnext,,,,,,,
-Disable Comments,Schakel opmerkingen uit,reviewed,frappe,,,,,,,
-Disable Count,Telling uitschakelen,reviewed,frappe,,,,,,,
-Disable Customer Signup link in Login page,Link voor klantregistratie op aanmeldpagina uitschakelen,reviewed,frappe,,,,,,,
-Disable In Words,Bedrag in woorden uitschakelen,reviewed,erpnext,,,,,,,
-Disable Marketplace,Schakel Marketplace uit,reviewed,erpnext,,,,,,,
-Disable Prepared Report,Voorbereid rapport uitschakelen,reviewed,frappe,,,,,,,
-Disable Report,Rapport uitschakelen,reviewed,frappe,,,,,,,
-Disable Rounded Total,Deactiveer Afgerond Totaal,reviewed,erpnext,,,,,,,
-Disable Sidebar Stats,Schakel zijbalkstatistieken uit,reviewed,frappe,,,,,,,
-Disable Signup,Registratie uitschakelen,reviewed,frappe,,,,,,,
-Disable Signup for your site,Registratie voor uw site uitschakelen,reviewed,frappe,,,,,,,
-Disable SMTP server authentication,SMTP-serververificatie uitschakelen,reviewed,frappe,,,,,,,
-Disable Standard Email Footer,Standaard e-mailvoettekst uitschakelen,reviewed,frappe,,,,,,,
-Disable User Customization,Gebruikersaanpassing uitschakelen,reviewed,frappe,,,,,,,
-Disabled,Uitgeschakeld,reviewed,both,,,,,,,
-Disabled Auto Reply,Automatisch antwoord uitgeschakeld,reviewed,frappe,,,,,,,
-Disabled template must not be default template,Uitgeschakeld sjabloon mag niet het standaardsjabloon zijn,reviewed,erpnext,,,,,,,
-disabled user,Uitgeschakelde gebruiker,reviewed,erpnext,,,,,,,
-Disburse Loan,Lening uitbetalen,reviewed,erpnext,,,,,,,
-Disbursed,Uitbetaald,reviewed,erpnext,,,,,,,
-Disbursement and Repayment,Uitbetaling en terugbetaling,reviewed,erpnext,,,,,,,
+Debtors,debiteuren,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Debtors ({0}),Debiteuren ({0}),reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Debtors Account set in Tally,Debiteurenrekening ingesteld in Tally,reviewed,erpnext,0.97,1.0,0.9,1.0,1.0,1.0,ok
+December,december,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Declare Lost,Verklaar verklaren,reviewed,erpnext,0.08,0.1,0.0,0.1,0.0,0.3,rewrite
+Deduct,Aftrekken,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Deductee Details,Details van de afgetrokken persoon,reviewed,erpnext,0.54,0.5,0.4,0.5,0.8,0.9,review
+Deduction from salary,Inhouding op salaris,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Deductions or Loss,Aftrek of verlies,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Deemed Export,Geachte export,reviewed,erpnext,0.13,0.0,0.0,0.1,0.5,0.5,rewrite
+Default,Standaard,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Account,Standaardrekening,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default account will be automatically updated in POS Invoice when this mode is selected.,De standaardrekening wordt automatisch bijgewerkt in POS-factuur wanneer deze modus is geselecteerd.,reviewed,erpnext,0.97,1.0,0.9,1.0,1.0,1.0,ok
+Default Accounts,Standaardrekeningen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Activity Cost exists for Activity Type - {0},Standaard activiteitskosten bestaan voor activiteitstype - {0},reviewed,erpnext,0.87,0.9,0.75,0.9,0.85,1.0,ok
+Default Address Template cannot be deleted,Standaard adressjabloon kan niet worden verwijderd,reviewed,frappe,0.99,1.0,0.95,1.0,1.0,1.0,ok
+Default Bank Account,Standaard bankrekening,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default BOM,Standaard stuklijst,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default BOM ({0}) must be active for this item or its template,Standaard stuklijst ({0}) moet actief zijn voor dit artikel of zijn sjabloon,reviewed,erpnext,0.97,1.0,0.9,1.0,1.0,1.0,ok
+Default BOM for {0} not found,Standaard BOM voor {0} niet gevonden,reviewed,erpnext,0.74,0.7,0.7,0.6,1.0,1.0,review
+Default BOM not found for Item {0} and Project {1},Standaard stuklijst niet gevonden voor artikel {0} en project {1},reviewed,erpnext,0.97,1.0,0.9,1.0,1.0,1.0,ok
+Default Buying Cost Center,Standaard inkoop kostenplaats,reviewed,erpnext,0.88,0.9,0.8,0.9,0.85,1.0,ok
+Default Buying Price List,Standaard inkoop prijslijst,reviewed,erpnext,0.88,0.9,0.8,0.9,0.85,1.0,ok
+Default Buying Terms,Standaard koopvoorwaarden,reviewed,erpnext,0.87,0.85,0.85,0.8,1.0,1.0,ok
+Default Cash Account,Standaard Kasrekening,reviewed,erpnext,0.87,0.9,0.85,0.7,1.0,1.0,ok
+Default Company,Standaard Bedrijf,reviewed,erpnext,0.87,0.9,0.85,0.7,1.0,1.0,ok
+Default Company Bank Account,Standaard bedrijfsbankrekening,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Cost Center,Standaard Kostenplaats,reviewed,erpnext,0.87,0.9,0.85,0.7,1.0,1.0,ok
+Default Cost of Goods Sold Account,Standaard kostprijsrekening verkopen,reviewed,erpnext,0.97,1.0,0.9,1.0,1.0,1.0,ok
+Default Costing Rate,Standaard kostentarief,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Currency,Standaardvaluta,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Customer,Standaard klant,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Customer Group,Standaard klantengroep,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Deferred Expense Account,Standaard rekening uitgestelde kosten,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Deferred Revenue Account,Standaard rekening uitgestelde omzet,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Dimension,Standaard dimensie,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Distance Unit,Standaard afstandseenheid,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Duration (In Minutes),Standaardduur (in minuten),reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Employee Advance Account,Standaard voorschotrekening werknemers,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Expense Account,Standaard Kostenrekening,reviewed,erpnext,0.87,0.9,0.85,0.7,1.0,1.0,ok
+Default Expense Claim Payable Account,Standaard rekening onkostendeclaraties,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Finance Book,Standaard financieel dagboek,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Finished Goods Warehouse,Standaard magazijn gereed product,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default for 'Check' type of field {0} must be either '0' or '1',De standaardwaarde voor het veldtype &#39;Controle&#39; {0} moet &#39;0&#39; of &#39;1&#39; zijn,reviewed,frappe,0.68,0.7,0.5,0.6,0.8,1.0,review
+Default Healthcare Service Items,Standaardartikelen voor gezondheidszorg,reviewed,erpnext,0.97,1.0,0.9,1.0,1.0,1.0,ok
+Default Holiday List,Standaard verloflijst,reviewed,erpnext,0.87,0.8,0.85,0.85,1.0,1.0,ok
+Default In Transit Warehouse,Standaard transitmagazijn,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Inbox,Standaard postvak IN,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Income Account,Standaard Inkomstenrekening,reviewed,erpnext,0.87,0.9,0.85,0.7,1.0,1.0,ok
+Default income accounts to be used if not set in Healthcare Practitioner to book Appointment charges.,Te gebruiken wanbetalingsrekeningen indien niet ingesteld in de zorgverlener om de afspraakkosten te boeken.,reviewed,erpnext,0.1,0.0,0.0,0.1,0.5,0.4,rewrite
+Default Incoming,Standaard Inkomende,reviewed,frappe,0.57,0.6,0.4,0.6,0.5,0.9,review
+Default Inventory Account,Standaard voorraadrekening,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Invoice Naming Series,Standaard nummerreeks facturen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Item Group,Standaard Artikelgroep,reviewed,erpnext,0.87,0.9,0.85,0.7,1.0,1.0,ok
+Default Item Manufacturer,Standaard artikelfabrikant,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Leave Policy,Standaard verlofbeleid,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Letter Head,Standaard Briefhoofd,reviewed,both,0.87,0.9,0.85,0.7,1.0,1.0,ok
+Default Manufacturer Part No,Standaard fabrikant onderdeelnr,reviewed,erpnext,0.86,0.9,0.75,0.85,0.8,1.0,ok
+Default Material Request Type,Standaard materiaalverzoektype,reviewed,erpnext,0.97,1.0,0.9,1.0,1.0,1.0,ok
+Default Medical Code Standard,Standaard Medische Code Standaard,reviewed,erpnext,0.34,0.3,0.2,0.3,0.5,0.8,rewrite
+Default Outgoing,Standaard uitgaande,reviewed,frappe,0.57,0.6,0.4,0.6,0.5,0.9,review
+Default Payable Account,Standaard crediteurenrekening,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Payable Accounts,Standaard crediteurenrekeningen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Payment Request Message,Standaard bericht betalingsverzoek,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Payment Terms Template,Standaard sjabloon betalingsvoorwaarden,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Portal Home,Standaard portaalhomepagina,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Price List,Standaard Prijslijst,reviewed,erpnext,0.87,0.9,0.85,0.7,1.0,1.0,ok
+Default Print Format,Standaard afdrukindeling,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Print Language,Standaard afdruktaal,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Priority,Standaard prioriteit,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Purchase Unit of Measure,Standaard inkoopeenheid,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Quotation Validity Days,Standaard geldigheid offertes (dagen),reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Receivable Account,Standaard debiteurenrekening,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default receivable accounts to be used to book Appointment charges.,Standaard te ontvangen rekeningen om te gebruiken voor het boeken van afspraakkosten.,reviewed,erpnext,0.67,0.6,0.5,0.7,0.8,1.0,review
+Default Redirect URI,Standaard Redirect URI,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Role at Time of Signup,Standaard rol bij aanmelding,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Role on Creation,Standaardrol bij creatie,reviewed,frappe,0.9,0.9,0.8,0.9,0.9,1.0,ok
+Default Round Off Account,Standaard afrondingsrekening,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Sales Unit of Measure,Standaard verkoopeenheid,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Scrap Warehouse,Standaard schrootmagazijn,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Selling Cost Center,Standaard verkoop kostenplaats,reviewed,erpnext,0.88,0.9,0.8,0.9,0.85,1.0,ok
+Default Selling Terms,Standaard verkoopvoorwaarden,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Sending,Standaard verzenden,reviewed,frappe,0.74,0.7,0.65,0.7,0.8,1.0,review
+Default Sending and Inbox,Standaard verzenden en postvak IN,reviewed,frappe,0.74,0.7,0.65,0.7,0.8,1.0,review
+Default Service Level Agreement,Standaard Service Level Agreement,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default settings for buying transactions.,Standaardinstellingen voor Inkooptransacties .,reviewed,erpnext,0.82,0.9,0.7,0.8,0.7,1.0,ok
+Default settings for selling transactions.,Standaardinstellingen voor Verkooptransacties .,reviewed,erpnext,0.82,0.9,0.7,0.8,0.7,1.0,ok
+Default settings for Shopping Cart,Standaardinstellingen voor Winkelwagen,reviewed,erpnext,0.87,0.9,0.8,0.8,0.85,1.0,ok
+Default Shift,Standaard dienst,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Shipping Account,Standaard verzendrekening,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Sort Field,Standaard sorteerveld,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Sort Order,Standaard sorteervolgorde,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Source Warehouse,Standaard Bronmagazijn,reviewed,erpnext,0.87,0.9,0.85,0.7,1.0,1.0,ok
+Default Stock UOM,Standaard voorraadeenheid,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Supplier,Standaardleverancier,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Supplier Group,Standaard leveranciersgroep,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Target Warehouse,Standaard Doelmagazijn,reviewed,erpnext,0.87,0.9,0.85,0.7,1.0,1.0,ok
+Default Tax Template,Standaard belastingsjabloon,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default tax templates for sales and purchase are created.,Standaardbelastingsjablonen voor verkopen en kopen worden gemaakt.,reviewed,erpnext,0.9,0.9,0.8,0.9,0.9,1.0,ok
+Default Tax Withholding Config,Standaard bronbelastingconfiguratie,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Default Taxes and Charges,Standaard belastingen en heffingen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Default Territory,Standaard Regio,reviewed,erpnext,0.75,0.7,0.7,0.7,0.9,1.0,review
+Default Theme,Standaard thema,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Default Unit of Measure,Standaard meeteenheid,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Default Unit of Measure for Item {0} cannot be changed directly because you have already made some transaction(s) with another UOM. You will need to create a new Item to use a different Default UOM.,"Standaard maateenheid voor post {0} kan niet direct worden gewijzigd, omdat je al enkele transactie (s) met een andere UOM hebben gemaakt. U moet een nieuwe post naar een andere Standaard UOM gebruik maken.",reviewed,erpnext,0.22,0.2,0.1,0.3,0.1,0.5,rewrite
+Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',Standaard maateenheid voor Variant &#39;{0}&#39; moet hetzelfde zijn als in zijn Template &#39;{1}&#39;,reviewed,erpnext,0.38,0.3,0.3,0.5,0.3,0.7,rewrite
+Default UOM,Standaard meeteenheid,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Default Valuation Method,Standaard Waarderingsmethode,reviewed,erpnext,0.8,0.7,0.8,0.8,0.9,1.0,ok
+Default Value,Standaardwaarde,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Default value for {0} must be in the list of options.,De standaardwaarde voor {0} moet in de lijst met opties staan.,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Default Values,Standaard Waarden,reviewed,erpnext,0.72,0.6,0.7,0.7,0.8,1.0,review
+Default Warehouse,Standaardmagazijn,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Default Warehouse for Sales Return,Standaardmagazijn voor verkoopretour,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Default Warehouse to to create Sales Order and Delivery Note,Standaard magazijn naar om klantorder en leveringsnota te maken,reviewed,erpnext,0.32,0.3,0.2,0.5,0.2,0.6,rewrite
+Default Warehouses for Production,Standaard magazijnen voor productie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Default Work In Progress Warehouse,Standaard Work In Progress Warehouse,reviewed,erpnext,0.4,0.3,0.2,0.4,0.7,1.0,rewrite
+Default Workstation,Standaard Werkstation,reviewed,erpnext,0.8,0.7,0.8,0.8,0.9,1.0,ok
+Default {0},Standaard {0},reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Default: ""Contact Us""",Default: &quot;Contact&quot;,reviewed,frappe,0.39,0.3,0.4,0.4,0.5,0.6,rewrite
+Default: 10 mins,Standaard: 10 minuten,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Defaults,Standaardwaarden,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+DefaultValue,Standaardwaarde,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Defense,Defensie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Deferred Accounting Settings,Uitgestelde boekhoudinstellingen,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Deferred Expense,Uitgestelde kosten,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Deferred Expense Account,Uitgestelde onkostenrekening,reviewed,erpnext,0.67,0.6,0.6,0.6,0.8,1.0,review
+Deferred Revenue,Uitgestelde omzet,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Deferred Revenue Account,Uitgestelde inkomstenrekening,reviewed,erpnext,0.59,0.5,0.5,0.5,0.7,1.0,review
+Define budget for a financial year.,Definieer budget voor een boekjaar.,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Define coupon codes.,Definieer couponcodes.,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Define Project type.,Definieer projecttype.,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Define various loan types,Definieer verschillende soorten lening,reviewed,erpnext,0.73,0.7,0.7,0.7,0.8,0.9,review
+Define workflows for forms.,Definieer workflows voor schermen.,reviewed,frappe,0.74,0.7,0.7,0.7,0.8,1.0,review
+Defines actions on states and the next step and allowed roles.,Definieert acties op staten en de volgende stap en liet rollen.,reviewed,frappe,0.26,0.2,0.2,0.3,0.2,0.5,rewrite
+Defines workflow states and rules for a document.,Definieert workflow-staten en regels voor een document.,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Del,del,reviewed,erpnext,0.39,0.4,0.3,0.3,0.5,0.8,rewrite
+Delay (in Days),Vertraging (in dagen),reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delay between Delivery Stops,Vertraging tussen leveringstops,reviewed,erpnext,0.62,0.6,0.5,0.6,0.7,1.0,review
+Delay in payment (Days),Vertraging in de betaling (Dagen),reviewed,erpnext,0.61,0.6,0.5,0.6,0.7,1.0,review
+Delayed,Vertraagd,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delayed Days,Vertraagde dagen,reviewed,erpnext,0.61,0.6,0.5,0.6,0.7,1.0,review
+Delayed Item Report,Vertraagd itemrapport,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Delayed Order Report,Vertraagd orderrapport,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Delete,Verwijder,reviewed,both,0.75,0.7,0.7,0.7,0.9,1.0,review
+Delete All,Verwijder alles,reviewed,frappe,0.75,0.7,0.7,0.7,0.9,1.0,review
+Delete all the Transactions for this Company,Verwijder alle transacties voor dit bedrijf,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delete and Generate New,Verwijderen en nieuw genereren,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Delete comment?,Reactie verwijderen?,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delete Company Transactions,Verwijder Company Transactions,reviewed,erpnext,0.35,0.3,0.3,0.3,0.5,0.7,rewrite
+Delete Data,Verwijder data,reviewed,frappe,0.66,0.6,0.6,0.6,0.8,1.0,review
+Delete this record to allow sending to this email address,Verwijder dit record om mailverkeer naar dit e-mailadres toe te staan.,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delete {0} items permanently?,Verwijder {0} items definitief?,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Deleted,Verwijderd,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Deleted DocType,verwijderde DocType,reviewed,frappe,0.45,0.4,0.4,0.4,0.5,0.9,rewrite
+Deleted Document,Verwijderd document,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Deleted Documents,Documenten verwijderd,reviewed,frappe,0.62,0.6,0.5,0.6,0.7,1.0,review
+Deleted Name,verwijderde Naam,reviewed,frappe,0.43,0.4,0.3,0.4,0.5,0.9,rewrite
+Deleting,Verwijderen,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Deleting {0},Het verwijderen van {0},reviewed,frappe,0.54,0.5,0.4,0.5,0.6,1.0,review
+Deletion is not permitted for country {0},Verwijderen is niet toegestaan voor land {0},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivered,Geleverd,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivered Amount,Afgeleverd Bedrag,reviewed,erpnext,0.62,0.6,0.5,0.6,0.7,1.0,review
+Delivered By Supplier,Geleverd door Leverancier,reviewed,erpnext,0.74,0.7,0.7,0.7,0.8,1.0,review
+Delivered by Supplier (Drop Ship),Geleverd door Leverancier (Drop Ship),reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Delivered Items To Be Billed,Geleverde Artikelen nog te factureren,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivered Qty,Geleverd aantal,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivered Quantity,Geleverde hoeveelheid,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivered: {0},Geleverd: {0},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivery,Levering,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivery After (Days),Levering na (dagen),reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivery Date,Leveringsdatum,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivery Details,Levering Details,reviewed,erpnext,0.62,0.6,0.5,0.6,0.7,1.0,review
+Delivery Document No,Leveringsdocument nr.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivery Document Type,Levering Soort document,reviewed,erpnext,0.54,0.5,0.4,0.5,0.6,1.0,review
+Delivery Failed,Bezorging mislukt,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Delivery Note,Vrachtbrief,reviewed,erpnext,0.54,0.5,0.4,0.5,0.7,1.0,review
+Delivery Note Item,Vrachtbrief Artikel,reviewed,erpnext,0.54,0.5,0.4,0.5,0.7,1.0,review
+Delivery Note No,Vrachtbrief Nr,reviewed,erpnext,0.54,0.5,0.4,0.5,0.7,1.0,review
+Delivery Note Series,Delivery Note-serie,reviewed,erpnext,0.36,0.3,0.3,0.3,0.5,0.8,rewrite
+Delivery Note Trends,Vrachtbrief Trends,reviewed,erpnext,0.54,0.5,0.4,0.5,0.7,1.0,review
+Delivery Note {0} is not submitted,Vrachtbrief {0} is niet ingediend,reviewed,erpnext,0.54,0.5,0.4,0.5,0.7,1.0,review
+Delivery Note {0} must not be submitted,Vrachtbrief {0} mag niet worden ingediend,reviewed,erpnext,0.54,0.5,0.4,0.5,0.7,1.0,review
+Delivery Notes,Pakbonnen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivery Notes {0} must be cancelled before cancelling this Sales Order,Vrachtbrief {0} moet worden geannuleerd voordat het annuleren van deze Verkooporder,reviewed,erpnext,0.32,0.3,0.2,0.3,0.3,0.7,rewrite
+Delivery Notes {0} updated,Bezorgingsnotities {0} bijgewerkt,reviewed,erpnext,0.53,0.5,0.4,0.5,0.6,1.0,review
+Delivery Schedule Item,Leveringsschema regel,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivery Settings,Bezorginstellingen,reviewed,erpnext,0.72,0.7,0.6,0.7,0.8,1.0,review
+Delivery Status,Verzendstatus,reviewed,both,0.65,0.6,0.6,0.6,0.7,1.0,review
+Delivery Stop,Levering Stop,reviewed,erpnext,0.46,0.4,0.3,0.4,0.6,1.0,rewrite
+Delivery Stops,Levering stopt,reviewed,erpnext,0.46,0.4,0.3,0.4,0.6,1.0,rewrite
+Delivery Time,Levertijd,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivery To,Leveren Aan,reviewed,erpnext,0.56,0.5,0.5,0.5,0.6,1.0,review
+Delivery Trip,Bezorgrit,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Delivery Warehouse,Levering magazijn,reviewed,erpnext,0.62,0.6,0.5,0.6,0.7,1.0,review
+Delivery warehouse required for stock item {0},Levering magazijn vereist voor voorraad artikel {0},reviewed,erpnext,0.62,0.6,0.5,0.6,0.7,1.0,review
+Density (if liquid),Dichtheid (indien vloeibaar),reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Department,Afdeling,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Department and Grade,Afdeling en rang,reviewed,erpnext,0.72,0.7,0.6,0.7,0.8,1.0,review
+Department Stores,Warenhuizen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Departure Time,Vertrektijd,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Dependencies,afhankelijkheden,reviewed,erpnext,0.72,0.7,0.6,0.7,0.9,1.0,review
+Dependent Task,Afhankelijke taak,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Dependent Tasks,Afhankelijke taken,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Depends On,Hangt af van,reviewed,frappe,0.79,0.75,0.7,0.75,1.0,1.0,review
+Depends on Tasks,Hangt af van Taken,reviewed,erpnext,0.7,0.7,0.6,0.65,0.7,1.0,review
+Depreciated Amount,Afgeschreven bedrag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Depreciatied Amount,Afgeschreven bedrag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Depreciation,Afschrijvingskosten,reviewed,erpnext,0.64,0.55,0.5,0.55,1.0,1.0,review
+Depreciation Amount,afschrijvingen Bedrag,reviewed,erpnext,0.3,0.3,0.2,0.3,0.2,0.8,rewrite
+Depreciation Amount during the period,Afschrijvingen bedrag gedurende de periode,reviewed,erpnext,0.72,0.7,0.7,0.65,0.7,1.0,review
+Depreciation Date,afschrijvingen Date,reviewed,erpnext,0.21,0.2,0.1,0.2,0.1,0.7,rewrite
+Depreciation Eliminated due to disposal of assets,Afschrijvingen geëlimineerd vanwege verkoop van activa,reviewed,erpnext,0.83,0.8,0.75,0.8,0.9,1.0,ok
+Depreciation Entry,Afschrijvingsboeking,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Depreciation Expense Account,Afschrijvingskostenrekening,reviewed,erpnext,0.88,0.85,0.8,0.85,1.0,1.0,ok
+Depreciation Method,afschrijvingsmethode,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Depreciation Options,Afschrijvingsopties,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Depreciation Posting Date,Afschrijvingsboekingsdatum,reviewed,erpnext,0.86,0.85,0.75,0.8,1.0,1.0,ok
+Depreciation Row {0}: Depreciation Start Date is entered as past date,Afschrijving Rij {0}: Startdatum afschrijving wordt ingevoerd als de vorige datum,reviewed,erpnext,0.65,0.65,0.55,0.65,0.6,1.0,review
+Depreciation Row {0}: Expected value after useful life must be greater than or equal to {1},Afschrijving Rij {0}: de verwachte waarde na nuttige levensduur moet groter zijn dan of gelijk zijn aan {1},reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Depreciation Row {0}: Next Depreciation Date cannot be before Available-for-use Date,Afschrijving Rij {0}: Volgende Afschrijvingsdatum kan niet eerder zijn dan Beschikbaar-voor-gebruik Datum,reviewed,erpnext,0.76,0.75,0.65,0.75,0.8,1.0,review
+Depreciation Row {0}: Next Depreciation Date cannot be before Purchase Date,Afschrijving Rij {0}: volgende Afschrijvingsdatum kan niet vóór Aankoopdatum zijn,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Depreciation Schedule,Afschrijvingsschema,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Depreciation Schedules,Afschrijvingsschema's,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Descendants Of,Nakomelingen van,reviewed,frappe,0.73,0.65,0.6,0.65,1.0,1.0,review
+Description,Omschrijving,reviewed,both,0.88,0.85,0.85,0.85,1.0,1.0,ok
+"Description for listing page, in plain text, only a couple of lines. (max 200 characters)","Beschrijving voor lijstpagina, in platte tekst, slechts een paar regels. (max 200 karakters)",reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Descriptive,Beschrijvend,reviewed,erpnext,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Descriptive Test,Beschrijvende test,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Descriptive Test Result,Beschrijvend testresultaat,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Descriptive Test Template,Beschrijvende testsjabloon,reviewed,erpnext,0.82,0.8,0.75,0.8,0.8,1.0,ok
+Designation,Benaming,reviewed,both,0.72,0.65,0.6,0.65,1.0,1.0,review
+Designer,Ontwerper,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Desk,Werkruimte,reviewed,frappe,0.74,0.65,0.65,0.7,1.0,1.0,review
+Desk Card,Werkruimtekaart,reviewed,frappe,0.65,0.55,0.45,0.55,1.0,1.0,review
+Desk Chart,Werkruimtegrafiek,reviewed,frappe,0.65,0.55,0.45,0.55,1.0,1.0,review
+Desk Page,Werkruimtepagina,reviewed,frappe,0.65,0.55,0.45,0.55,1.0,1.0,review
+Desk Shortcut,Werkruimtesnelkoppeling,reviewed,frappe,0.65,0.55,0.45,0.55,1.0,1.0,review
+Desktop Icon,Bureaubladicoon,reviewed,frappe,0.83,0.8,0.75,0.8,1.0,1.0,ok
+Desktop Icon already exists,Bureaubladicoon bestaat al,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Detailed Reason,Gedetailleerde reden,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Details of Outward Supplies and inward supplies liable to reverse charge,Details van uitgaande leveringen en binnenkomende leveringen die kunnen worden teruggeboekt,reviewed,erpnext,0.75,0.75,0.65,0.7,0.8,1.0,review
+Details of the operations carried out.,Details van de uitgevoerde handelingen.,reviewed,erpnext,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Detected Disease,Gedetecteerde ziekte,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Detected Diseases,Gedetecteerde ziekten,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Determine Address Tax Category From,Bepaal de adresbelastingcategorie van,reviewed,erpnext,0.69,0.65,0.55,0.65,0.75,1.0,review
+Developer,Ontwikkelaar,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Developer Mode Only,Alleen ontwikkelaarsmodus,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+development,ontwikkeling,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Diagnosis,Diagnose,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Diagnosis:,Diagnose:,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Did not add,Niet toegevoegd,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Did not cancel,Niet geannuleerd,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Did not find any item called {0},Item met de naam {0} niet gevonden,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Did not find {0} for {0} ({1}),Niet gevonden {0} voor {0} ( {1} ),reviewed,frappe,0.41,0.4,0.3,0.4,0.4,0.8,rewrite
+Did not remove,Niet verwijderd,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+"Did not send SMS, missing patient mobile number or message content.","Geen sms verzonden, mobiel nummer van patiënt of berichtinhoud ontbreekt.",reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Diff Qty,Verschil aantal,reviewed,erpnext,0.83,0.8,0.75,0.8,1.0,1.0,ok
+Difference,Verschil,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Difference (Dr - Cr),Verschil (Db - Cr),reviewed,erpnext,0.83,0.8,0.75,0.8,1.0,1.0,ok
+Difference Account,Verschilrekening,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+"Difference Account must be a Asset/Liability type account, since this Stock Entry is an Opening Entry","Verschilrekening moet een account van het type Activa / Aansprakelijkheid zijn, omdat deze voorraadvermelding een opening is",reviewed,erpnext,0.67,0.65,0.55,0.65,0.65,1.0,review
+"Difference Account must be a Asset/Liability type account, since this Stock Reconciliation is an Opening Entry","Verschil moet Account een type Asset / Liability rekening zijn, aangezien dit Stock Verzoening is een opening Entry",reviewed,erpnext,0.2,0.2,0.1,0.2,0.1,0.7,rewrite
+Difference Amount,Verschilbedrag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Difference Amount (Company Currency),Verschilbedrag (bedrijfsvaluta),reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Difference Amount must be zero,Verschilbedrag moet nul zijn,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Difference Value,Verschilwaarde,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+"Different ""States"" this document can exist in. Like ""Open"", ""Pending Approval"" etc.","Verschillende ""stadia"" waar dit document uit kan bestaan, bijvoorbeeld ""Open"", ""In afwachting van goedkeuring"", enz.",reviewed,frappe,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Different UOM for items will lead to incorrect (Total) Net Weight value. Make sure that Net Weight of each item is in the same UOM.,Verschillende eenheden voor artikelen zal leiden tot een onjuiste (Totaal) Netto gewicht. Zorg ervoor dat Netto gewicht van elk artikel in dezelfde eenheid is.,reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Difficulty Level,Moeilijkheidsgraad,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Digits,Cijfers,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Dimension Defaults,Standaard dimensies,reviewed,erpnext,0.83,0.8,0.75,0.8,1.0,1.0,ok
+Dimension Name,Dimensienaam,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Direct,direct,reviewed,frappe,0.62,0.55,0.5,0.55,0.7,1.0,review
+Direct Expenses,Directe kosten,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Direct Income,Directe inkomsten,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Direct room with {0} already exists.,Directe kamer met {0} bestaat al.,reviewed,frappe,0.78,0.75,0.65,0.75,0.9,1.0,review
+Disable,Uitschakelen,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Disable Auto Refresh,Auto-vernieuwen uitschakelen,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Disable Capacity Planning,Capaciteitsplanning uitschakelen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Disable Comments,Schakel opmerkingen uit,reviewed,frappe,0.66,0.6,0.55,0.6,0.8,1.0,review
+Disable Count,Telling uitschakelen,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Disable Customer Signup link in Login page,Link voor klantregistratie op aanmeldpagina uitschakelen,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Disable In Words,Bedrag in woorden uitschakelen,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Disable Marketplace,Schakel Marketplace uit,reviewed,erpnext,0.66,0.6,0.55,0.6,0.8,1.0,review
+Disable Prepared Report,Voorbereid rapport uitschakelen,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Disable Report,Rapport uitschakelen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Disable Rounded Total,Deactiveer Afgerond Totaal,reviewed,erpnext,0.61,0.55,0.5,0.55,0.6,1.0,review
+Disable Sidebar Stats,Schakel zijbalkstatistieken uit,reviewed,frappe,0.66,0.6,0.55,0.6,0.8,1.0,review
+Disable Signup,Registratie uitschakelen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Disable Signup for your site,Registratie voor uw site uitschakelen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Disable SMTP server authentication,SMTP-serververificatie uitschakelen,reviewed,frappe,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Disable Standard Email Footer,Standaard e-mailvoettekst uitschakelen,reviewed,frappe,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Disable User Customization,Gebruikersaanpassing uitschakelen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Disabled,Uitgeschakeld,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Disabled Auto Reply,Automatisch antwoord uitgeschakeld,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Disabled template must not be default template,Uitgeschakeld sjabloon mag niet het standaardsjabloon zijn,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+disabled user,Uitgeschakelde gebruiker,reviewed,erpnext,0.77,0.75,0.7,0.75,0.8,1.0,review
+Disburse Loan,Lening uitbetalen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Disbursed,Uitbetaald,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Disbursement and Repayment,Uitbetaling en terugbetaling,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Disc,Korting,reviewed,erpnext,,,,,,,
 Discard,Verwerpen,reviewed,frappe,,,,,,,
 Discharge,Ontslag,reviewed,erpnext,,,,,,,

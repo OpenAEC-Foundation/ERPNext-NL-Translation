@@ -7,25 +7,37 @@ Nederlandse vertalingen voor ERPNext / Frappe v15+.
 | Metriek | Aantal |
 |---------|--------|
 | Totaal vertalingen | 12.182 |
-| Reviewed | 406 (3,3%) |
-| Unreviewed | 11.776 |
+| Reviewed | 597 (4,9%) |
+| Unreviewed | 11.585 |
+| Gedeployed naar KG | 597 |
+
+*Laatst bijgewerkt: 2026-04-08*
 
 De ingebouwde Frappe/ERPNext community vertalingen zijn van wisselende kwaliteit
 (bijv. "Attachment" -> "Gehechtheid", "Close" -> "Dichtbij"). Alle vertalingen
 staan in een enkele CSV met review-status, zodat je er gestructureerd doorheen
-kunt werken.
+kunt werken. Een AI-analyselaag controleert context, vakjargon en natuurlijk
+Nederlands taalgebruik.
 
 ## Pipeline
 
 ```
-translations.csv  -->  review.py (beoordelen)  -->  upload.py (deployen)
-     |                                                    |
-     |                                                    v
-     +-- source: Engelse brontekst              Frappe instance
-     +-- translation: Nederlandse vertaling     (alleen reviewed)
-     +-- status: reviewed / unreviewed
-     +-- origin: frappe / erpnext / custom
+translations.csv  -->  auto_review.py (AI analyse)  -->  upload.py (deployen)
+     |                        |                              |
+     |                        v                              v
+     +-- source              Claude API                Frappe instance
+     +-- translation         (context check,           (alleen reviewed)
+     +-- status              vakjargon,
+     +-- origin              natuurlijk NL)
+                                  |
+                             live_dashboard.html
+                             (real-time voortgang)
 ```
+
+De AI-analyselaag controleert per vertaling:
+1. Is de vertaling correct en natuurlijk Nederlands?
+2. Moet het woord in het Engels blijven (gangbaar vakjargon)?
+3. Is er een betere vertaling gezien de context (boekhouding, HR, IT)?
 
 ### 1. Vertalingen reviewen
 
@@ -93,10 +105,20 @@ Alle termen waarvoor een duidelijk en gangbaar Nederlands equivalent bestaat.
 pip install requests
 ```
 
+## Deployment
+
+Reviewed vertalingen worden gedeployed naar ERPNext instances via de
+`Translation` doctype (Custom Translations). Dit overschrijft de ingebouwde
+.po vertalingen waar nodig.
+
+Actieve deployments:
+- **Kort Geytenbeek** (kortgeytenbeek-erp.prilk.cloud): 597 vertalingen
+
 ## Herkomst
 
 Basis: Frappe v15 nl.csv (4.798) + ERPNext v15 nl.csv (8.746) + 406 handmatig
-beoordeelde vertalingen. Identity-mappings (983) verwijderd.
+beoordeelde vertalingen. Identity-mappings (983) verwijderd. AI-review gestart
+op 2026-04-08 met contextbewuste analyse.
 
 ## Licentie
 

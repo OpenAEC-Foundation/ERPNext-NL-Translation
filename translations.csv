@@ -15257,304 +15257,304 @@ Template updated successfully,Template succesvol bijgewerkt,reviewed,crm
 Templates,Sjablonen,reviewed,crm
 Territories,Gebieden,reviewed,crm
 Thanks,Bedankt,reviewed,crm
-The Condition '{0}' is invalid: {1},De voorwaarde '{0}' is ongeldig: {1},unreviewed,crm
+The Condition '{0}' is invalid: {1},De voorwaarde '{0}' is ongeldig: {1},reviewed,crm
 The rate used to convert the deal’s currency to your crm's base currency (set in CRM Settings). It is set once when the currency is first added and doesn't change automatically.,De koers die gebruikt wordt om de valuta van de deal om te zetten naar de basisvaluta van uw crm (ingesteld in CRM-instellingen). Deze wordt eenmalig ingesteld wanneer de valuta voor het eerst wordt toegevoegd en verandert niet automatisch.,unreviewed,crm
 The rate used to convert the organization’s currency to your crm's base currency (set in CRM Settings). It is set once when the currency is first added and doesn't change automatically.,De koers die gebruikt wordt om de valuta van de deal om te zetten naar de basisvaluta van uw crm (ingesteld in CRM-instellingen). Deze wordt eenmalig ingesteld wanneer de valuta voor het eerst wordt toegevoegd en verandert niet automatisch.,unreviewed,crm
-There can only be one default priority in Priorities table,Er kan maar één standaardprioriteit in de Prioriteiten tabel staan,unreviewed,crm
-These fields are required: {0},Deze velden zijn verplicht: {0},unreviewed,crm
-This field is required,,unreviewed,crm
-This section is not editable,Dit gedeelte kan niet worden bewerkt,unreviewed,crm
-"This will delete selected items and items linked to it, are you sure?","Hiermee verwijdert u geselecteerde items en items die eraan gekoppeld zijn, weet u het zeker?",unreviewed,crm
-"This will delete selected items and unlink linked items to it, are you sure?","Hiermee verwijdert u geselecteerde items en items die eraan gekoppeld zijn, weet u het zeker?",unreviewed,crm
-"This will restore (if not exist) all the default statuses, custom fields and layouts. Delete & Restore will delete default layouts and then restore them.","Hiermee worden alle standaard statussen, aangepaste velden en lay-outs hersteld (als ze nog niet bestaan). Met Delete & Restore worden standaard lay-outs verwijderd en vervolgens hersteld.",unreviewed,crm
-This will restore the demo data. Are you sure you want to continue?,,unreviewed,crm
-Time before the event when a reminder notification will be sent by default. This will be applied to all events unless a custom notification is set for a specific event.,,unreviewed,crm
-Timezone,Tijdzone,unreviewed,crm
-Title is required,Titel is verplicht,unreviewed,crm
-To Type,Naar type,unreviewed,crm
-"To know more about setting up email accounts, click","Als u meer wilt weten over het instellen van e-mailaccounts, klikt u op",unreviewed,crm
-Todo,Te doen,unreviewed,crm
-Toggle on for Preview,,unreviewed,crm
-Tomorrow,Morgen,unreviewed,crm
-Took a call with John Doe and discussed the new project.,Belde met John Doe en besprak het nieuwe project.,unreviewed,crm
-Total Leads,,unreviewed,crm
-Total after discount,Totaal na korting,unreviewed,crm
-Total leads,Totaal aantal leads,unreviewed,crm
-Total number of leads,Totale aantal leads,unreviewed,crm
-Total number of non won/lost deals,Totaal aantal niet gewonnen/verloren deals,unreviewed,crm
-Total number of won deals based on its closure date,Totaal aantal gewonnen deals op basis van de sluitingsdatum,unreviewed,crm
-Turn into a Group,,unreviewed,crm
-Twilio API credential creation error.,Twilio API aanmeldfout bij aanmaken van gegevens.,unreviewed,crm
-Twilio App Name,,unreviewed,crm
-Twilio Apps,,unreviewed,crm
-Twilio Integration Disabled,,unreviewed,crm
-Twilio configuration is missing,,unreviewed,crm
-Type an email address to add attendee,Typ een e-mailadres om een genodigde toe te voegen,unreviewed,crm
-Type your message here...,Type uw bericht hier...,unreviewed,crm
-Unable to connect to Twilio account to fetch applications.,,unreviewed,crm
-Unassign Conditions are invalid,,unreviewed,crm
-Unassignment Condition,,unreviewed,crm
-Unauthorized request,Verzoek niet toegestaan,unreviewed,crm
-Uncollapsible,Niet-opvouwbaar,unreviewed,crm
-Ungroup Conditions,,unreviewed,crm
-Unknown telephony medium: {0},,unreviewed,crm
-Unlink,Ontkoppel,unreviewed,crm
-Unlink & Delete,,unreviewed,crm
-Unlink & Delete {0} items,,unreviewed,crm
-Unlink All,,unreviewed,crm
-Unlink Linked Item,,unreviewed,crm
-Unlink {0} Item(s),,unreviewed,crm
-Unpin View,Weergave vastzetten,unreviewed,crm
-Unsaved Changes,,unreviewed,crm
-Untitled,Ongetiteld,unreviewed,crm
-Update Account,Account updaten,unreviewed,crm
-Update the modified timestamp on new email communication & comment for leads & deals,,unreviewed,crm
-Update the modified timestamp on new email communication & comments for leads & deals,,unreviewed,crm
-Update timestamp on new communication,Update de tijdstempel van nieuwe communicatie.,unreviewed,crm
-Update {0} Records,{0} Records bijwerken,unreviewed,crm
-Upload Attachment,Upload bijlage,unreviewed,crm
-Upload Document,Document uploaden,unreviewed,crm
-Upload Image,Afbeelding uploaden,unreviewed,crm
-Upload Photo,,unreviewed,crm
-Upload Video,Video Uploaden,unreviewed,crm
-Uploading {0}%,{0} uploaden,unreviewed,crm
-User Management,Gebruikers Beheer,unreviewed,crm
-User {0} cannot be removed as it has a Role Profile assigned to it.,,unreviewed,crm
-User {0} has been removed,Gebruiker {0} is verwijderd,unreviewed,crm
-User {0} has been removed from CRM roles.,,unreviewed,crm
-Users Added Successfully,,unreviewed,crm
-Users are required,Gebruikers zijn vereist,unreviewed,crm
-Valid conditions are required,,unreviewed,crm
-View Contact,,unreviewed,crm
-View Name,Naam bekijken,unreviewed,crm
-Visibility,Zichtbaarheid,unreviewed,crm
-Webhook Verify Token,Webhook verificatietoken,unreviewed,crm
-"Welcome {0}, lets add your first lead","Welkom {0}, laten we uw eerste lead toevoegen",unreviewed,crm
-WhatsApp Message,,unreviewed,crm
-WhatsApp Templates,WhatsApp-sjablonen,unreviewed,crm
-Where,Waar,unreviewed,crm
-"Width can be in number, pixel or rem (eg. 3, 30px, 10rem)","De breedte kan een getal, pixel of rem zijn (bijv. 3, 30px, 10rem)",unreviewed,crm
-Won,Gewonnen,unreviewed,crm
-Won Deals,,unreviewed,crm
-Won deals,Gewonnen deals,unreviewed,crm
-Work Schedule & Holidays,,unreviewed,crm
-You are not allowed to invite System Managers,,unreviewed,crm
-You are not permitted to access CRM resources.,,unreviewed,crm
-You are not permitted to access this resource.,U hebt geen toegang tot deze bron.,unreviewed,crm
-You are not permitted to create leads.,,unreviewed,crm
-You are not permitted to update this call log.,,unreviewed,crm
-You can also copy-paste following link in your browser,U kunt deze link ook kopiëren en plakken in uw browser,unreviewed,crm
-You can change the default calling medium from the settings,U kunt het standaard oproepmedium wijzigen via de instellingen,unreviewed,crm
-You can get your Access Key from ,,unreviewed,crm
-You can invite multiple users by comma separating their email addresses,U kunt meerdere gebruikers uitnodigen door hun e-mailadressen door komma's van elkaar te scheiden,unreviewed,crm
-You cannot remove yourself.,,unreviewed,crm
-You do not have Exotel Number set in your Telephony Agent,U hebt geen Exotel Nummer ingesteld in uw Telephony Agent,unreviewed,crm
-You do not have enough permissions to access Frappe CRM. Please contact your administrator if you believe this is an error.,U hebt niet genoeg rechten om toegang te krijgen tot Frappe CRM. Neem contact op met uw beheerder als u denkt dat dit een fout is.,unreviewed,crm
-You do not have mobile number set in your Telephony Agent,U hebt geen mobiel nummer ingesteld in uw Telefonieagent,unreviewed,crm
-You do not have permission to access Frappe CRM,U hebt geen toestemming voor toegang tot Frappe CRM,unreviewed,crm
-You do not have permission to access this document,U hebt niet de rechten om toegang te krijgen tot dit document,unreviewed,crm
-You need to be in developer mode to edit a Standard Form Script,U moet ontwikkelaarsmodus inschakelen om een standaard webformulier te kunnen bewerken,unreviewed,crm
-"You will be redirected to invite user page, unsaved changes will be lost.","U wordt doorgestuurd naar de pagina Gebruiker Uitnodigen, niet opgeslagen wijzigingen gaan verloren.",unreviewed,crm
-You will need a Meta developer account and an access token to sync leads from Facebook. Read more,U hebt een Meta-ontwikkelaarsaccount en een toegangstoken nodig om leads van Facebook te synchroniseren. Meer lezen,unreviewed,crm
-Your assignment on task {0} has been removed by {1},Uw opdracht voor taak {0} is verwijderd door {1},unreviewed,crm
-Your old condition will be overwritten. Are you sure you want to save?,Uw oude conditie zal worden overschreven. Weet u zeker dat u wilt opslaan?,unreviewed,crm
-Your old conditions will be overwritten. Are you sure you want to save?,,unreviewed,crm
-added a,voegde een,unreviewed,crm
-amber,barnsteen,unreviewed,crm
-assigned a new task {0} to you,heeft een nieuwe taak {0} aan u toegewezen,unreviewed,crm
-assigned a {0} {1} to you,een {0} {1} aan u toegewezen,unreviewed,crm
-at,bij,unreviewed,crm
-before at,,unreviewed,crm
-black,zwart,unreviewed,crm
-changes from,gewijzigd van,unreviewed,crm
-converted the lead to this deal,,unreviewed,crm
-created this deal,,unreviewed,crm
-created this lead,,unreviewed,crm
-cyan,cyaan,unreviewed,crm
-day,dag,unreviewed,crm
-day before,,unreviewed,crm
-days,dagen,unreviewed,crm
-days before,,unreviewed,crm
-desk,bureau,unreviewed,crm
-exchangerate-api,,unreviewed,crm
-exchangerate.host,wisselkoers.host,unreviewed,crm
-fawazahmed-exchange-api,,unreviewed,crm
-gray,grijs,unreviewed,crm
-group_by,groep_bij,unreviewed,crm
-has made a call,heeft gebeld,unreviewed,crm
-has reached out,heeft contact opgenomen,unreviewed,crm
-hour,uur,unreviewed,crm
-hour before,,unreviewed,crm
-hours before,,unreviewed,crm
-in 1 hour,over 1 uur,unreviewed,crm
-in 1 minute,over 1 minuut,unreviewed,crm
-in 1 year,over 1 jaar,unreviewed,crm
-in {0} M,over {0} M,unreviewed,crm
-in {0} d,over {0} M,unreviewed,crm
-in {0} days,over {0} dagen,unreviewed,crm
-in {0} h,over {0} M,unreviewed,crm
-in {0} hours,over {0} uur,unreviewed,crm
-in {0} m,over {0} M,unreviewed,crm
-in {0} minutes,over {0} minuten,unreviewed,crm
-in {0} months,over {0} maanden,unreviewed,crm
-in {0} w,over {0} M,unreviewed,crm
-in {0} weeks,in {0} weken,unreviewed,crm
-in {0} y,over {0} y,unreviewed,crm
-in {0} years,over {0} jaren,unreviewed,crm
-mentioned you in {0},noemde u in {0},unreviewed,crm
-minute,minuut,unreviewed,crm
-minute before,,unreviewed,crm
-minutes,minuten,unreviewed,crm
-minutes before,,unreviewed,crm
-next,volgende,unreviewed,crm
-old_value,,unreviewed,crm
-pink,roze,unreviewed,crm
-previous,vorig,unreviewed,crm
-private,privé,unreviewed,crm
-public,publiek,unreviewed,crm
-received a whatsapp message in {0},een whatsapp-bericht ontvangen in {0},unreviewed,crm
-teal,groenblauw,unreviewed,crm
-tomorrow,morgen,unreviewed,crm
-violet,paars,unreviewed,crm
-week before,,unreviewed,crm
-weeks,weken,unreviewed,crm
-weeks before,,unreviewed,crm
-"which are not compatible with this UI, you will need to recreate the conditions here if you want to manage and add new conditions from this UI.","die niet compatibel zijn met deze gebruikersinterface, zult u de voorwaarden hier opnieuw moeten maken als u nieuwe voorwaarden wilt beheren en toevoegen vanuit deze gebruikersinterface.",unreviewed,crm
-{0} (Invalid time format),,unreviewed,crm
-{0} assigned a {1} {2} to you,{0} heeft een nieuwe taak {1} {2} aan u toegewezen,unreviewed,crm
-{0} attendees,{0} aanwezigen,unreviewed,crm
-{0} awaiting,,unreviewed,crm
-{0} hrs,{0} u,unreviewed,crm
-{0} is an Invalid Value,,unreviewed,crm
-{0} is an Invalid value,,unreviewed,crm
-{0} is an invalid email address,{0} is een ongeldig e-mail adres,unreviewed,crm
-{0} maybe,,unreviewed,crm
-{0} mins,{0} min,unreviewed,crm
-{0} no,,unreviewed,crm
-{0} yes,,unreviewed,crm
-"⚠️ Avoid using ""trigger"" as a field name — it conflicts with the built-in trigger() method.","⚠️ Vermijd het gebruik van ""trigger"" als veldnaam - dit conflicteert met de ingebouwde trigger() methode.",unreviewed,crm
-"⚠️ Method ""{0}"" not found in class.","⚠️ Methode ""{0}"" niet gevonden in klasse.",unreviewed,crm
-"⚠️ No class found for doctype: {0}, it is mandatory to have a class for the parent doctype. it can be empty, but it should be present.","⚠️ Geen klasse gevonden voor doctype: {0}, het is verplicht om een klasse te hebben voor het bovenliggende doctype. deze kan leeg zijn, maar moet wel aanwezig zijn.",unreviewed,crm
-⚠️ No data found for parent field: {0},⚠️ Geen gegevens gevonden voor ouderveld: {0},unreviewed,crm
-⚠️ No row found for idx: {0} in parent field: {1},⚠️ Geen rij gevonden voor idx: {0} in ouderveld: {1},unreviewed,crm
- added a,,unreviewed,helpdesk
- comment, commentaar,unreviewed,helpdesk
-% SLA Fulfilled,,unreviewed,helpdesk
-% of tickets created that were resolved within SLA,,unreviewed,helpdesk
-({0}s),,unreviewed,helpdesk
-- Default Ticket Status<br>,,unreviewed,helpdesk
-- Ticket Reopen Status<br>,,unreviewed,helpdesk
-- {0} as Default Status<br>,,unreviewed,helpdesk
-- {0} as Reopen Status<br>,,unreviewed,helpdesk
-"0 is no feedback, 1 is Like, 2 is Dislike",,unreviewed,helpdesk
-<br>Please update HD Settings to use a different status before disabling this status.,,unreviewed,helpdesk
-<br>Please update the SLA(s) to use a different status before disabling this status.,,unreviewed,helpdesk
+There can only be one default priority in Priorities table,Er kan maar één standaardprioriteit in de Prioriteiten tabel staan,reviewed,crm
+These fields are required: {0},Deze velden zijn verplicht: {0},reviewed,crm
+This field is required,Dit veld is verplicht,reviewed,crm
+This section is not editable,Dit gedeelte kan niet worden bewerkt,reviewed,crm
+"This will delete selected items and items linked to it, are you sure?","Hiermee verwijdert u geselecteerde items en items die eraan gekoppeld zijn, weet u het zeker?",reviewed,crm
+"This will delete selected items and unlink linked items to it, are you sure?","Hiermee verwijdert u geselecteerde items en worden gekoppelde items ontkoppeld, weet u het zeker?",reviewed,crm
+"This will restore (if not exist) all the default statuses, custom fields and layouts. Delete & Restore will delete default layouts and then restore them.","Hiermee worden alle standaard statussen, aangepaste velden en lay-outs hersteld (als ze nog niet bestaan). Met Delete & Restore worden standaard lay-outs verwijderd en vervolgens hersteld.",reviewed,crm
+This will restore the demo data. Are you sure you want to continue?,Hiermee worden de demogegevens hersteld. Weet u zeker dat u wilt doorgaan?,reviewed,crm
+Time before the event when a reminder notification will be sent by default. This will be applied to all events unless a custom notification is set for a specific event.,"Tijd voor het evenement waarop standaard een herinneringsmelding wordt verzonden. Dit wordt toegepast op alle evenementen, tenzij er een aangepaste melding is ingesteld voor een specifiek evenement.",reviewed,crm
+Timezone,Tijdzone,reviewed,crm
+Title is required,Titel is verplicht,reviewed,crm
+To Type,Naar type,reviewed,crm
+"To know more about setting up email accounts, click","Als u meer wilt weten over het instellen van e-mailaccounts, klikt u op",reviewed,crm
+Todo,Te doen,reviewed,crm
+Toggle on for Preview,Inschakelen voor voorvertoning,reviewed,crm
+Tomorrow,Morgen,reviewed,crm
+Took a call with John Doe and discussed the new project.,Belde met John Doe en besprak het nieuwe project.,reviewed,crm
+Total Leads,Totaal aantal leads,reviewed,crm
+Total after discount,Totaal na korting,reviewed,crm
+Total leads,Totaal aantal leads,reviewed,crm
+Total number of leads,Totale aantal leads,reviewed,crm
+Total number of non won/lost deals,Totaal aantal niet gewonnen/verloren deals,reviewed,crm
+Total number of won deals based on its closure date,Totaal aantal gewonnen deals op basis van de sluitingsdatum,reviewed,crm
+Turn into a Group,Omzetten naar een groep,reviewed,crm
+Twilio API credential creation error.,Twilio API aanmeldfout bij aanmaken van gegevens.,reviewed,crm
+Twilio App Name,Twilio-appnaam,reviewed,crm
+Twilio Apps,Twilio-apps,reviewed,crm
+Twilio Integration Disabled,Twilio-integratie uitgeschakeld,reviewed,crm
+Twilio configuration is missing,Twilio-configuratie ontbreekt,reviewed,crm
+Type an email address to add attendee,Typ een e-mailadres om een genodigde toe te voegen,reviewed,crm
+Type your message here...,Type uw bericht hier...,reviewed,crm
+Unable to connect to Twilio account to fetch applications.,Kan geen verbinding maken met het Twilio-account om applicaties op te halen.,reviewed,crm
+Unassign Conditions are invalid,Onttoewijzingsvoorwaarden zijn ongeldig,reviewed,crm
+Unassignment Condition,Onttoewijzingsvoorwaarde,reviewed,crm
+Unauthorized request,Verzoek niet toegestaan,reviewed,crm
+Uncollapsible,Niet-opvouwbaar,reviewed,crm
+Ungroup Conditions,Voorwaarden degroeperen,reviewed,crm
+Unknown telephony medium: {0},Onbekend telefoniemiddel: {0},reviewed,crm
+Unlink,Ontkoppel,reviewed,crm
+Unlink & Delete,Ontkoppelen en verwijderen,reviewed,crm
+Unlink & Delete {0} items,Ontkoppelen en {0} items verwijderen,reviewed,crm
+Unlink All,Alles ontkoppelen,reviewed,crm
+Unlink Linked Item,Gekoppeld item ontkoppelen,reviewed,crm
+Unlink {0} Item(s),{0} item(s) ontkoppelen,reviewed,crm
+Unpin View,Weergave losmaken,reviewed,crm
+Unsaved Changes,Niet-opgeslagen wijzigingen,reviewed,crm
+Untitled,Ongetiteld,reviewed,crm
+Update Account,Account updaten,reviewed,crm
+Update the modified timestamp on new email communication & comment for leads & deals,Werk de tijdstempel bij bij nieuwe e-mailcommunicatie en opmerkingen voor leads en deals,reviewed,crm
+Update the modified timestamp on new email communication & comments for leads & deals,Werk de tijdstempel bij bij nieuwe e-mailcommunicatie en opmerkingen voor leads en deals,reviewed,crm
+Update timestamp on new communication,Tijdstempel bijwerken bij nieuwe communicatie,reviewed,crm
+Update {0} Records,{0} Records bijwerken,reviewed,crm
+Upload Attachment,Upload bijlage,reviewed,crm
+Upload Document,Document uploaden,reviewed,crm
+Upload Image,Afbeelding uploaden,reviewed,crm
+Upload Photo,Foto uploaden,reviewed,crm
+Upload Video,Video uploaden,reviewed,crm
+Uploading {0}%,{0}% uploaden,reviewed,crm
+User Management,Gebruikersbeheer,reviewed,crm
+User {0} cannot be removed as it has a Role Profile assigned to it.,Gebruiker {0} kan niet worden verwijderd omdat er een rolprofiel aan is toegewezen.,reviewed,crm
+User {0} has been removed,Gebruiker {0} is verwijderd,reviewed,crm
+User {0} has been removed from CRM roles.,Gebruiker {0} is verwijderd uit CRM-rollen.,reviewed,crm
+Users Added Successfully,Gebruikers succesvol toegevoegd,reviewed,crm
+Users are required,Gebruikers zijn vereist,reviewed,crm
+Valid conditions are required,Geldige voorwaarden zijn vereist,reviewed,crm
+View Contact,Contact bekijken,reviewed,crm
+View Name,Naam bekijken,reviewed,crm
+Visibility,Zichtbaarheid,reviewed,crm
+Webhook Verify Token,Webhook verificatietoken,reviewed,crm
+"Welcome {0}, lets add your first lead","Welkom {0}, laten we uw eerste lead toevoegen",reviewed,crm
+WhatsApp Message,WhatsApp-bericht,reviewed,crm
+WhatsApp Templates,WhatsApp-sjablonen,reviewed,crm
+Where,Waar,reviewed,crm
+"Width can be in number, pixel or rem (eg. 3, 30px, 10rem)","De breedte kan een getal, pixel of rem zijn (bijv. 3, 30px, 10rem)",reviewed,crm
+Won,Gewonnen,reviewed,crm
+Won Deals,Gewonnen deals,reviewed,crm
+Won deals,Gewonnen deals,reviewed,crm
+Work Schedule & Holidays,Werkrooster en feestdagen,reviewed,crm
+You are not allowed to invite System Managers,U mag geen systeembeheerders uitnodigen,reviewed,crm
+You are not permitted to access CRM resources.,U hebt geen toegang tot CRM-bronnen.,reviewed,crm
+You are not permitted to access this resource.,U hebt geen toegang tot deze bron.,reviewed,crm
+You are not permitted to create leads.,U hebt geen toestemming om leads aan te maken.,reviewed,crm
+You are not permitted to update this call log.,U hebt geen toestemming om dit gesprekslog bij te werken.,reviewed,crm
+You can also copy-paste following link in your browser,U kunt deze link ook kopiëren en plakken in uw browser,reviewed,crm
+You can change the default calling medium from the settings,U kunt het standaard oproepmedium wijzigen via de instellingen,reviewed,crm
+You can get your Access Key from ,U kunt uw toegangssleutel ophalen via ,reviewed,crm
+You can invite multiple users by comma separating their email addresses,U kunt meerdere gebruikers uitnodigen door hun e-mailadressen door komma's van elkaar te scheiden,reviewed,crm
+You cannot remove yourself.,U kunt uzelf niet verwijderen.,reviewed,crm
+You do not have Exotel Number set in your Telephony Agent,U hebt geen Exotel Nummer ingesteld in uw Telephony Agent,reviewed,crm
+You do not have enough permissions to access Frappe CRM. Please contact your administrator if you believe this is an error.,U hebt niet genoeg rechten om toegang te krijgen tot Frappe CRM. Neem contact op met uw beheerder als u denkt dat dit een fout is.,reviewed,crm
+You do not have mobile number set in your Telephony Agent,U hebt geen mobiel nummer ingesteld in uw Telefonieagent,reviewed,crm
+You do not have permission to access Frappe CRM,U hebt geen toestemming voor toegang tot Frappe CRM,reviewed,crm
+You do not have permission to access this document,U hebt niet de rechten om toegang te krijgen tot dit document,reviewed,crm
+You need to be in developer mode to edit a Standard Form Script,U moet ontwikkelaarsmodus inschakelen om een standaard formulierscript te kunnen bewerken,reviewed,crm
+"You will be redirected to invite user page, unsaved changes will be lost.",U wordt doorgestuurd naar de pagina Gebruiker uitnodigen. Niet-opgeslagen wijzigingen gaan verloren.,reviewed,crm
+You will need a Meta developer account and an access token to sync leads from Facebook. Read more,U hebt een Meta-ontwikkelaarsaccount en een toegangstoken nodig om leads van Facebook te synchroniseren. Meer lezen,reviewed,crm
+Your assignment on task {0} has been removed by {1},Uw opdracht voor taak {0} is verwijderd door {1},reviewed,crm
+Your old condition will be overwritten. Are you sure you want to save?,Uw oude conditie zal worden overschreven. Weet u zeker dat u wilt opslaan?,reviewed,crm
+Your old conditions will be overwritten. Are you sure you want to save?,Uw oude condities worden overschreven. Weet u zeker dat u wilt opslaan?,reviewed,crm
+added a,voegde een toe,reviewed,crm
+amber,barnsteen,reviewed,crm
+assigned a new task {0} to you,heeft u een nieuwe taak {0} toegewezen,reviewed,crm
+assigned a {0} {1} to you,heeft u een {0} {1} toegewezen,reviewed,crm
+at,bij,reviewed,crm
+before at,voor,reviewed,crm
+black,zwart,reviewed,crm
+changes from,gewijzigd van,reviewed,crm
+converted the lead to this deal,heeft de lead omgezet naar dit deal,reviewed,crm
+created this deal,heeft dit deal aangemaakt,reviewed,crm
+created this lead,heeft deze lead aangemaakt,reviewed,crm
+cyan,cyaan,reviewed,crm
+day,dag,reviewed,crm
+day before,een dag van tevoren,reviewed,crm
+days,dagen,reviewed,crm
+days before,dagen van tevoren,reviewed,crm
+desk,bureau,reviewed,crm
+exchangerate-api,exchangerate-api,reviewed,crm
+exchangerate.host,exchangerate.host,reviewed,crm
+fawazahmed-exchange-api,fawazahmed-exchange-api,reviewed,crm
+gray,grijs,reviewed,crm
+group_by,group_by,reviewed,crm
+has made a call,heeft gebeld,reviewed,crm
+has reached out,heeft contact opgenomen,reviewed,crm
+hour,uur,reviewed,crm
+hour before,een uur van tevoren,reviewed,crm
+hours before,uur van tevoren,reviewed,crm
+in 1 hour,over 1 uur,reviewed,crm
+in 1 minute,over 1 minuut,reviewed,crm
+in 1 year,over 1 jaar,reviewed,crm
+in {0} M,over {0} mnd,reviewed,crm
+in {0} d,over {0} d,reviewed,crm
+in {0} days,over {0} dagen,reviewed,crm
+in {0} h,over {0} u,reviewed,crm
+in {0} hours,over {0} uur,reviewed,crm
+in {0} m,over {0} min,reviewed,crm
+in {0} minutes,over {0} minuten,reviewed,crm
+in {0} months,over {0} maanden,reviewed,crm
+in {0} w,over {0} w,reviewed,crm
+in {0} weeks,over {0} weken,reviewed,crm
+in {0} y,over {0} jr,reviewed,crm
+in {0} years,over {0} jaren,reviewed,crm
+mentioned you in {0},noemde u in {0},reviewed,crm
+minute,minuut,reviewed,crm
+minute before,een minuut van tevoren,reviewed,crm
+minutes,minuten,reviewed,crm
+minutes before,minuten van tevoren,reviewed,crm
+next,volgende,reviewed,crm
+old_value,old_value,reviewed,crm
+pink,roze,reviewed,crm
+previous,vorig,reviewed,crm
+private,privé,reviewed,crm
+public,publiek,reviewed,crm
+received a whatsapp message in {0},heeft een WhatsApp-bericht ontvangen in {0},reviewed,crm
+teal,groenblauw,reviewed,crm
+tomorrow,morgen,reviewed,crm
+violet,paars,reviewed,crm
+week before,een week van tevoren,reviewed,crm
+weeks,weken,reviewed,crm
+weeks before,weken van tevoren,reviewed,crm
+"which are not compatible with this UI, you will need to recreate the conditions here if you want to manage and add new conditions from this UI.","die niet compatibel zijn met deze gebruikersinterface, zult u de voorwaarden hier opnieuw moeten maken als u nieuwe voorwaarden wilt beheren en toevoegen vanuit deze gebruikersinterface.",reviewed,crm
+{0} (Invalid time format),{0} (Ongeldig tijdformaat),reviewed,crm
+{0} assigned a {1} {2} to you,{0} heeft u een {1} {2} toegewezen,reviewed,crm
+{0} attendees,{0} aanwezigen,reviewed,crm
+{0} awaiting,{0} in afwachting,reviewed,crm
+{0} hrs,{0} u,reviewed,crm
+{0} is an Invalid Value,{0} is een ongeldige waarde,reviewed,crm
+{0} is an Invalid value,{0} is een ongeldige waarde,reviewed,crm
+{0} is an invalid email address,{0} is een ongeldig e-mail adres,reviewed,crm
+{0} maybe,{0} misschien,reviewed,crm
+{0} mins,{0} min,reviewed,crm
+{0} no,{0} nee,reviewed,crm
+{0} yes,{0} ja,reviewed,crm
+"⚠️ Avoid using ""trigger"" as a field name — it conflicts with the built-in trigger() method.","⚠️ Vermijd het gebruik van ""trigger"" als veldnaam. Dit conflicteert met de ingebouwde trigger() methode.",reviewed,crm
+"⚠️ Method ""{0}"" not found in class.","⚠️ Methode ""{0}"" niet gevonden in klasse.",reviewed,crm
+"⚠️ No class found for doctype: {0}, it is mandatory to have a class for the parent doctype. it can be empty, but it should be present.","⚠️ Geen klasse gevonden voor doctype: {0}, het is verplicht om een klasse te hebben voor het bovenliggende doctype. deze kan leeg zijn, maar moet wel aanwezig zijn.",reviewed,crm
+⚠️ No data found for parent field: {0},⚠️ Geen gegevens gevonden voor ouderveld: {0},reviewed,crm
+⚠️ No row found for idx: {0} in parent field: {1},⚠️ Geen rij gevonden voor idx: {0} in ouderveld: {1},reviewed,crm
+ added a, voegde een toe,reviewed,helpdesk
+ comment, commentaar,reviewed,helpdesk
+% SLA Fulfilled,% SLA Nagekomen,reviewed,helpdesk
+% of tickets created that were resolved within SLA,% van aangemaakte tickets dat binnen SLA is opgelost,reviewed,helpdesk
+({0}s),({0}s),reviewed,helpdesk
+- Default Ticket Status<br>,- Standaard Ticket Status<br>,reviewed,helpdesk
+- Ticket Reopen Status<br>,- Ticket Heropen Status<br>,reviewed,helpdesk
+- {0} as Default Status<br>,- {0} als standaardstatus<br>,reviewed,helpdesk
+- {0} as Reopen Status<br>,- {0} als heropenstatus<br>,reviewed,helpdesk
+"0 is no feedback, 1 is Like, 2 is Dislike","0 is geen feedback, 1 is Leuk, 2 is Niet leuk",reviewed,helpdesk
+<br>Please update HD Settings to use a different status before disabling this status.,<br>Werk HD Instellingen bij om een andere status te gebruiken voordat u deze status uitschakelt.,reviewed,helpdesk
+<br>Please update the SLA(s) to use a different status before disabling this status.,<br>Werk de SLA('s) bij om een andere status te gebruiken voordat u deze status uitschakelt.,reviewed,helpdesk
 "<div class=""ql-editor read-mode""><p>Let us know if we solved your issue well. It’ll help us serve you better next time.</p></div>",,unreviewed,helpdesk
-"<span class=""h3"" style=""""><a href=""/helpdesk"">Visit Helpdesk</a></span>",,unreviewed,helpdesk
-"<span class=""h4"">Helpdesk Configuration<br></span>",,unreviewed,helpdesk
-A short description,,unreviewed,helpdesk
-A workday with this name already exists,,unreviewed,helpdesk
-Access all team tickets,,unreviewed,helpdesk
-Access denied,,unreviewed,helpdesk
-Access only this team's tickets,,unreviewed,helpdesk
-Account & Security,,unreviewed,helpdesk
-Acknowledgement,,unreviewed,helpdesk
-Action Required,,unreviewed,helpdesk
-Action to perform when clicking the button. The doc will be available as `this`,,unreviewed,helpdesk
-Add Category,,unreviewed,helpdesk
-Add Holiday,,unreviewed,helpdesk
-Add New Article,,unreviewed,helpdesk
-Add a comment on a ticket,,unreviewed,helpdesk
-Add a condition,Een voorwaarde toevoegen,unreviewed,helpdesk
-Add a custom condition,,unreviewed,helpdesk
-Add charts to get started,,unreviewed,helpdesk
-Add condition,Voorwaarde toevoegen,unreviewed,helpdesk
-Add condition group,Voorwaardengroep toevoegen,unreviewed,helpdesk
+"<span class=""h3"" style=""""><a href=""/helpdesk"">Visit Helpdesk</a></span>","<span class=""h3"" style=""""><a href=""/helpdesk"">Ga naar Helpdesk</a></span>",reviewed,helpdesk
+"<span class=""h4"">Helpdesk Configuration<br></span>","<span class=""h4"">Helpdesk Configuratie<br></span>",reviewed,helpdesk
+A short description,Een korte beschrijving,reviewed,helpdesk
+A workday with this name already exists,Er bestaat al een werkdag met deze naam,reviewed,helpdesk
+Access all team tickets,Toegang tot alle teamtickets,reviewed,helpdesk
+Access denied,Toegang geweigerd,reviewed,helpdesk
+Access only this team's tickets,Alleen tickets van dit team inzien,reviewed,helpdesk
+Account & Security,Account en beveiliging,reviewed,helpdesk
+Acknowledgement,Ontvangstbevestiging,reviewed,helpdesk
+Action Required,Actie vereist,reviewed,helpdesk
+Action to perform when clicking the button. The doc will be available as `this`,Actie die wordt uitgevoerd bij het klikken op de knop. Het document is beschikbaar als `this`,reviewed,helpdesk
+Add Category,Categorie toevoegen,reviewed,helpdesk
+Add Holiday,Feestdag toevoegen,reviewed,helpdesk
+Add New Article,Nieuw artikel toevoegen,reviewed,helpdesk
+Add a comment on a ticket,Een opmerking toevoegen aan een ticket,reviewed,helpdesk
+Add a condition,Een voorwaarde toevoegen,reviewed,helpdesk
+Add a custom condition,Een aangepaste voorwaarde toevoegen,reviewed,helpdesk
+Add charts to get started,Voeg grafieken toe om te beginnen,reviewed,helpdesk
+Add condition,Voorwaarde toevoegen,reviewed,helpdesk
+Add condition group,Voorwaardengroep toevoegen,reviewed,helpdesk
 Add holidays here to make sure they’re excluded from SLA calculations.,,unreviewed,helpdesk
-Add members to this team to get started.,,unreviewed,helpdesk
-Add recurring holidays such as weekends.,,unreviewed,helpdesk
-Add time targets around support milestones like first reply and resolution times.,,unreviewed,helpdesk
-"Add, manage agents and assign roles to them.",,unreviewed,helpdesk
-Agent,Tussenpersoon,unreviewed,helpdesk
-Agent Configuration,,unreviewed,helpdesk
-Agent Dashboard,,unreviewed,helpdesk
-Agent Manager,,unreviewed,helpdesk
-Agent Name,,unreviewed,helpdesk
-Agent name,,unreviewed,helpdesk
-Agents will no longer be able to view and create saved replies with global scope.,,unreviewed,helpdesk
-All SLAs on track,,unreviewed,helpdesk
-All Views,,unreviewed,helpdesk
-All articles from this category will move to General category.,,unreviewed,helpdesk
-All comments and emails of the ticket will be moved to the,,unreviewed,helpdesk
-All your assigned tickets have been responded to,,unreviewed,helpdesk
-Allow anyone to create tickets,,unreviewed,helpdesk
-Allow users to react to comments with emojis,,unreviewed,helpdesk
-Allow users to react to comments with emojis.,,unreviewed,helpdesk
-Anyone will be able to create tickets without any permission. e.g. from webform.,,unreviewed,helpdesk
-Appears in the left sidebar. Recommended size is minimum 32x32 px in PNG or SVG.,,unreviewed,helpdesk
-Appears next to the title in your browser tab. Recommended size is minimum 32x32 px in PNG or ICO,,unreviewed,helpdesk
-Appears next to the title in your browser tab. Recommended size is minimum 32x32 px in PNG or ICO.,,unreviewed,helpdesk
-Apply SLA for Resolution Time,Pas de SLA toe voor de oplostijd.,unreviewed,helpdesk
-Apply on new page,,unreviewed,helpdesk
-Apply outside working hours,,unreviewed,helpdesk
-Apply to customer portal,,unreviewed,helpdesk
-Are you sure you want to change tabs? Unsaved changes will be lost.,,unreviewed,helpdesk
-Are you sure you want to close this ticket?,,unreviewed,helpdesk
-Are you sure you want to delete these articles?,,unreviewed,helpdesk
-Are you sure you want to delete this team? This action cannot be reversed!,,unreviewed,helpdesk
-Are you sure you want to delete this ticket? This is an irreversible action and cannot be undone.,,unreviewed,helpdesk
-Are you sure you want to delete this view?,,unreviewed,helpdesk
-Are you sure you want to discard changes?,,unreviewed,helpdesk
-Are you sure you want to discard this article?,,unreviewed,helpdesk
-Are you sure you want to leave? Unsaved changes will be lost.,,unreviewed,helpdesk
-Are you sure you want to remove the logo?,,unreviewed,helpdesk
-Are you sure you want to reset the content? Current content will be overridden.,,unreviewed,helpdesk
-Article body cannot be set as empty.,,unreviewed,helpdesk
-Article created successfully.,,unreviewed,helpdesk
-Article deleted successfully.,,unreviewed,helpdesk
-Article link copied to clipboard,,unreviewed,helpdesk
-Article title cannot be set as empty,,unreviewed,helpdesk
-Article updated successfully.,,unreviewed,helpdesk
-Articles deleted successfully.,,unreviewed,helpdesk
-Articles moved successfully.,,unreviewed,helpdesk
-Assign a ticket to an agent,,unreviewed,helpdesk
-Assign ticket,,unreviewed,helpdesk
-Assignee's updated successfully.,,unreviewed,helpdesk
-Assignment Conditions,Opdrachtvoorwaarden,unreviewed,helpdesk
-Assignment Rules automatically route tickets to the right team members based on predefined conditions.,,unreviewed,helpdesk
-Assignment rule created successfully.,,unreviewed,helpdesk
-Assignment rule deleted successfully.,,unreviewed,helpdesk
-Assignment rule duplicated successfully.,,unreviewed,helpdesk
-Assignment rule updated successfully.,,unreviewed,helpdesk
-Assignment rule {0} updated successfully.,,unreviewed,helpdesk
-At least one email is required,,unreviewed,helpdesk
-At least one email required,,unreviewed,helpdesk
-At least one enabled status for <u>{0}</u> category must be enabled.,,unreviewed,helpdesk
-At least one feedback option must be enabled for rating {0},,unreviewed,helpdesk
-At least one team is required,,unreviewed,helpdesk
-"At-least one of priority, team and ticket type is required",,unreviewed,helpdesk
-Auto update status,,unreviewed,helpdesk
-Auto-close after (Days),,unreviewed,helpdesk
-Auto-close tickets that remain in a status for the specified number of days.,,unreviewed,helpdesk
-Automatically Close Tickets when,,unreviewed,helpdesk
-Automatically close stale tickets,,unreviewed,helpdesk
-Average First Response,,unreviewed,helpdesk
-Average First Response Time,,unreviewed,helpdesk
-Average Resolution,,unreviewed,helpdesk
-Average Resolution Time,,unreviewed,helpdesk
-Average Time Metrics,,unreviewed,helpdesk
-Average feedback rating per day is around {0} stars,,unreviewed,helpdesk
-Average response and resolution metrics not yet generated,,unreviewed,helpdesk
-Average tickets per day is around {0},,unreviewed,helpdesk
-Avg. Feedback Rating,,unreviewed,helpdesk
-Avg. First Response,,unreviewed,helpdesk
-Avg. Resolution,,unreviewed,helpdesk
-Avg. feedback rating for the tickets resolved,,unreviewed,helpdesk
-Avg. first response time,,unreviewed,helpdesk
-Avg. resolution time,,unreviewed,helpdesk
-Avg. time taken to first respond to a ticket,,unreviewed,helpdesk
-Avg. time taken to resolve a ticket,,unreviewed,helpdesk
-Back to Tickets,,unreviewed,helpdesk
+Add members to this team to get started.,Voeg leden toe aan dit team om te beginnen.,reviewed,helpdesk
+Add recurring holidays such as weekends.,"Voeg terugkerende vrije dagen toe, zoals weekenden.",reviewed,helpdesk
+Add time targets around support milestones like first reply and resolution times.,Voeg tijdsdoelen toe voor ondersteuningsmijlpalen zoals eerste reactie- en oplostijden.,reviewed,helpdesk
+"Add, manage agents and assign roles to them.","Voeg agents toe en beheer ze, en wijs rollen aan hen toe.",reviewed,helpdesk
+Agent,Agent,reviewed,helpdesk
+Agent Configuration,Agent Configuration,reviewed,helpdesk
+Agent Dashboard,Agent Dashboard,reviewed,helpdesk
+Agent Manager,Agent Manager,reviewed,helpdesk
+Agent Name,Agentnaam,reviewed,helpdesk
+Agent name,Agentnaam,reviewed,helpdesk
+Agents will no longer be able to view and create saved replies with global scope.,Agents kunnen geen opgeslagen antwoorden met globaal bereik meer bekijken en aanmaken.,reviewed,helpdesk
+All SLAs on track,Alle SLA's op schema,reviewed,helpdesk
+All Views,Alle weergaven,reviewed,helpdesk
+All articles from this category will move to General category.,Alle artikelen uit deze categorie worden verplaatst naar de categorie Algemeen.,reviewed,helpdesk
+All comments and emails of the ticket will be moved to the,Alle opmerkingen en e-mails van het ticket worden verplaatst naar de,reviewed,helpdesk
+All your assigned tickets have been responded to,Op alle aan u toegewezen tickets is gereageerd,reviewed,helpdesk
+Allow anyone to create tickets,Iedereen toestaan tickets aan te maken,reviewed,helpdesk
+Allow users to react to comments with emojis,Gebruikers toestaan op opmerkingen te reageren met emoji's,reviewed,helpdesk
+Allow users to react to comments with emojis.,Gebruikers toestaan op opmerkingen te reageren met emoji's.,reviewed,helpdesk
+Anyone will be able to create tickets without any permission. e.g. from webform.,Iedereen kan tickets aanmaken zonder toestemming. Bijvoorbeeld via een webformulier.,reviewed,helpdesk
+Appears in the left sidebar. Recommended size is minimum 32x32 px in PNG or SVG.,Verschijnt in de linker zijbalk. Aanbevolen formaat is minimaal 32x32 px in PNG of SVG.,reviewed,helpdesk
+Appears next to the title in your browser tab. Recommended size is minimum 32x32 px in PNG or ICO,Verschijnt naast de titel in uw browsertabblad. Aanbevolen formaat is minimaal 32x32 px in PNG of ICO,reviewed,helpdesk
+Appears next to the title in your browser tab. Recommended size is minimum 32x32 px in PNG or ICO.,Verschijnt naast de titel in uw browsertabblad. Aanbevolen formaat is minimaal 32x32 px in PNG of ICO.,reviewed,helpdesk
+Apply SLA for Resolution Time,SLA toepassen voor de oplostijd,reviewed,helpdesk
+Apply on new page,Toepassen op nieuwe pagina,reviewed,helpdesk
+Apply outside working hours,Toepassen buiten werktijden,reviewed,helpdesk
+Apply to customer portal,Toepassen op klantenportaal,reviewed,helpdesk
+Are you sure you want to change tabs? Unsaved changes will be lost.,Weet u zeker dat u van tabblad wilt wisselen? Niet-opgeslagen wijzigingen gaan verloren.,reviewed,helpdesk
+Are you sure you want to close this ticket?,Weet u zeker dat u dit ticket wilt sluiten?,reviewed,helpdesk
+Are you sure you want to delete these articles?,Weet u zeker dat u deze artikelen wilt verwijderen?,reviewed,helpdesk
+Are you sure you want to delete this team? This action cannot be reversed!,Weet u zeker dat u dit team wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt!,reviewed,helpdesk
+Are you sure you want to delete this ticket? This is an irreversible action and cannot be undone.,Weet u zeker dat u dit ticket wilt verwijderen? Dit is een onomkeerbare actie die niet ongedaan kan worden gemaakt.,reviewed,helpdesk
+Are you sure you want to delete this view?,Weet u zeker dat u deze weergave wilt verwijderen?,reviewed,helpdesk
+Are you sure you want to discard changes?,Weet u zeker dat u de wijzigingen wilt verwerpen?,reviewed,helpdesk
+Are you sure you want to discard this article?,Weet u zeker dat u dit artikel wilt verwerpen?,reviewed,helpdesk
+Are you sure you want to leave? Unsaved changes will be lost.,Weet u zeker dat u wilt vertrekken? Niet-opgeslagen wijzigingen gaan verloren.,reviewed,helpdesk
+Are you sure you want to remove the logo?,Weet u zeker dat u het logo wilt verwijderen?,reviewed,helpdesk
+Are you sure you want to reset the content? Current content will be overridden.,Weet u zeker dat u de inhoud wilt terugzetten? De huidige inhoud wordt overschreven.,reviewed,helpdesk
+Article body cannot be set as empty.,De inhoud van het artikel mag niet leeg zijn.,reviewed,helpdesk
+Article created successfully.,Artikel succesvol aangemaakt.,reviewed,helpdesk
+Article deleted successfully.,Artikel succesvol verwijderd.,reviewed,helpdesk
+Article link copied to clipboard,Artikelkoppeling gekopieerd naar klembord,reviewed,helpdesk
+Article title cannot be set as empty,De titel van het artikel mag niet leeg zijn,reviewed,helpdesk
+Article updated successfully.,Artikel succesvol bijgewerkt.,reviewed,helpdesk
+Articles deleted successfully.,Artikelen succesvol verwijderd.,reviewed,helpdesk
+Articles moved successfully.,Artikelen succesvol verplaatst.,reviewed,helpdesk
+Assign a ticket to an agent,Een ticket toewijzen aan een agent,reviewed,helpdesk
+Assign ticket,Ticket toewijzen,reviewed,helpdesk
+Assignee's updated successfully.,Toegewezen persoon succesvol bijgewerkt.,reviewed,helpdesk
+Assignment Conditions,Toewijzingsvoorwaarden,reviewed,helpdesk
+Assignment Rules automatically route tickets to the right team members based on predefined conditions.,Toewijzingsregels sturen tickets automatisch door naar de juiste teamleden op basis van vooraf ingestelde voorwaarden.,reviewed,helpdesk
+Assignment rule created successfully.,Toewijzingsregel succesvol aangemaakt.,reviewed,helpdesk
+Assignment rule deleted successfully.,Toewijzingsregel succesvol verwijderd.,reviewed,helpdesk
+Assignment rule duplicated successfully.,Toewijzingsregel succesvol gedupliceerd.,reviewed,helpdesk
+Assignment rule updated successfully.,Toewijzingsregel succesvol bijgewerkt.,reviewed,helpdesk
+Assignment rule {0} updated successfully.,Toewijzingsregel {0} succesvol bijgewerkt.,reviewed,helpdesk
+At least one email is required,Minimaal een e-mailadres is vereist,reviewed,helpdesk
+At least one email required,Minimaal een e-mailadres vereist,reviewed,helpdesk
+At least one enabled status for <u>{0}</u> category must be enabled.,Er moet minimaal een ingeschakelde status voor de categorie <u>{0}</u> zijn ingeschakeld.,reviewed,helpdesk
+At least one feedback option must be enabled for rating {0},Minimaal een feedbackoptie moet zijn ingeschakeld voor beoordeling {0},reviewed,helpdesk
+At least one team is required,Minimaal een team is vereist,reviewed,helpdesk
+"At-least one of priority, team and ticket type is required","Minimaal een van prioriteit, team en tickettype is vereist",reviewed,helpdesk
+Auto update status,Status automatisch bijwerken,reviewed,helpdesk
+Auto-close after (Days),Automatisch sluiten na (dagen),reviewed,helpdesk
+Auto-close tickets that remain in a status for the specified number of days.,Tickets automatisch sluiten die gedurende het opgegeven aantal dagen in een status blijven.,reviewed,helpdesk
+Automatically Close Tickets when,Tickets automatisch sluiten wanneer,reviewed,helpdesk
+Automatically close stale tickets,Verlopen tickets automatisch sluiten,reviewed,helpdesk
+Average First Response,Gemiddelde eerste reactie,reviewed,helpdesk
+Average First Response Time,Gemiddelde eerste reactietijd,reviewed,helpdesk
+Average Resolution,Gemiddelde oplossing,reviewed,helpdesk
+Average Resolution Time,Gemiddelde oplostijd,reviewed,helpdesk
+Average Time Metrics,Gemiddelde tijdsmetrieken,reviewed,helpdesk
+Average feedback rating per day is around {0} stars,De gemiddelde feedbackbeoordeling per dag is ongeveer {0} sterren,reviewed,helpdesk
+Average response and resolution metrics not yet generated,Gemiddelde reactie- en oplossingsmetrieken zijn nog niet gegenereerd,reviewed,helpdesk
+Average tickets per day is around {0},Het gemiddelde aantal tickets per dag is ongeveer {0},reviewed,helpdesk
+Avg. Feedback Rating,Gem. feedbackbeoordeling,reviewed,helpdesk
+Avg. First Response,Gem. eerste reactie,reviewed,helpdesk
+Avg. Resolution,Gem. oplossing,reviewed,helpdesk
+Avg. feedback rating for the tickets resolved,Gem. feedbackbeoordeling voor opgeloste tickets,reviewed,helpdesk
+Avg. first response time,Gem. eerste reactietijd,reviewed,helpdesk
+Avg. resolution time,Gem. oplostijd,reviewed,helpdesk
+Avg. time taken to first respond to a ticket,Gem. tijd tot eerste reactie op een ticket,reviewed,helpdesk
+Avg. time taken to resolve a ticket,Gem. tijd om een ticket op te lossen,reviewed,helpdesk
+Back to Tickets,Terug naar tickets,reviewed,helpdesk
 Base Support Rotation,,unreviewed,helpdesk
 "Based on your HR Policy, select your leave allocation period's end date",Selecteer op basis van uw HR-beleid de einddatum van uw verlofperiode.,unreviewed,helpdesk
 "Based on your HR Policy, select your leave allocation period's start date",Selecteer op basis van uw HR-beleid de startdatum van uw verlofperiode.,unreviewed,helpdesk

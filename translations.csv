@@ -5718,205 +5718,205 @@ Maintenance Manager Name,Naam onderhoudsmanager,reviewed,erpnext
 Maintenance Required,Onderhoud vereist,reviewed,erpnext
 Maintenance Role,Onderhoudsrol,reviewed,erpnext
 Maintenance Schedule,Onderhoudsschema,reviewed,erpnext
-Maintenance Schedule Detail,Onderhoudsschema Detail,unreviewed,erpnext
-Maintenance Schedule is not generated for all the items. Please click on 'Generate Schedule',Onderhoudsschema wordt niet gegenereerd voor alle items . Klik op ' Generate Schedule',unreviewed,erpnext
-Maintenance Schedule Item,Onderhoudsschema Item,unreviewed,erpnext
-Maintenance Schedule {0} exists against {1},Onderhoudsplan {0} bestaat tegen {1},unreviewed,erpnext
-Maintenance Schedule {0} must be cancelled before cancelling this Sales Order,Onderhoudsschema {0} moet worden geannuleerd voordat het annuleren van deze verkooporder,unreviewed,erpnext
-Maintenance Schedules,Onderhoudsschema&#39;s,unreviewed,erpnext
-Maintenance start date can not be before delivery date for Serial No {0},Onderhoud startdatum kan niet voor de leveringsdatum voor Serienummer {0},unreviewed,erpnext
-Maintenance Status,Onderhoud Status,unreviewed,erpnext
-Maintenance Status has to be Cancelled or Completed to Submit,Onderhoudsstatus moet worden geannuleerd of voltooid om te verzenden,unreviewed,erpnext
-Maintenance Task,Onderhoudstaak,unreviewed,erpnext
-Maintenance Tasks,Onderhoudstaken,unreviewed,erpnext
-Maintenance Team,Onderhoudsteam,unreviewed,erpnext
-Maintenance Team Member,Onderhoudsteamlid,unreviewed,erpnext
-Maintenance Team Members,Onderhoudsteamleden,unreviewed,erpnext
-Maintenance Team Name,Onderhoudsteam naam,unreviewed,erpnext
-Maintenance Time,Onderhoud Tijd,unreviewed,erpnext
-Maintenance Type,Onderhoud Type,unreviewed,erpnext
-Maintenance User,Onderhoud Gebruiker,unreviewed,both
-Maintenance Visit,Onderhoud Bezoek,unreviewed,erpnext
-Maintenance Visit Purpose,Doel van onderhouds bezoek,unreviewed,erpnext
-Maintenance Visit {0} must be cancelled before cancelling this Sales Order,Onderhoud Bezoek {0} moet worden geannuleerd voordat het annuleren van deze verkooporder,unreviewed,erpnext
-Major/Optional Subjects,Major / keuzevakken,unreviewed,erpnext
-Make,Maken,unreviewed,erpnext
-"Make ""name"" searchable in Global Search",Maak &quot;naam&quot; doorzoekbaar in Global Search,unreviewed,frappe
-Make a call,Bellen,unreviewed,erpnext
-Make Academic Term Mandatory,Maak een academische termijn verplicht,unreviewed,erpnext
-Make Accounting Entry For Every Stock Movement,Maak boekhoudkundige afschrijving voor elke Stock Movement,unreviewed,erpnext
-Make all attachments private,Maak alle bijlagen privé,unreviewed,frappe
-Make Depreciation Entry,Maak Afschrijvingen Entry,unreviewed,erpnext
-Make Difference Entry,Maak Verschil Entry,unreviewed,erpnext
-Make Journal Entry,Maak Journal Entry,unreviewed,erpnext
-Make Payment,Betaling maken,unreviewed,erpnext
-Make Payment via Journal Entry,Betalen via Journal Entry,unreviewed,erpnext
-Make project from a template.,Maak een project van een sjabloon.,unreviewed,erpnext
-Make Purchase Invoice,Maak inkoopfactuur,unreviewed,erpnext
-Make Sales Invoice,Maak verkoopfactuur,unreviewed,erpnext
-Make Stock Entry,Voorraad invoeren,unreviewed,erpnext
-Make use of longer keyboard patterns,Maak gebruik van langere toetsenbord patronen,unreviewed,frappe
-Make Work Order for Sub Assembly Items,Werkorder maken voor onderdelen van subassemblages,unreviewed,erpnext
-Make {0},Maak {0},unreviewed,frappe
-Makes the page public,Maakt de pagina openbaar,unreviewed,frappe
-Making Stock Entries,Maken Stock Inzendingen,unreviewed,erpnext
-Male,Mannelijk,unreviewed,both
-Manage Appointment Invoice submit and cancel automatically for Patient Encounter,Afspraakfactuur beheren indienen en automatisch annuleren voor patiëntontmoeting,unreviewed,erpnext
-Manage cost of operations,Beheer kosten van de operaties,unreviewed,erpnext
-Manage Customer Group Tree.,Beheer Customer Group Boom .,unreviewed,erpnext
-Manage Sales Partners.,Beheer Verkoop Partners.,unreviewed,erpnext
-Manage Sales Person Tree.,Beheer Sales Person Boom .,unreviewed,erpnext
-Manage Territory Tree.,Beheer Grondgebied Boom.,unreviewed,erpnext
-Manage Third Party Apps,Beheerders van derden beheren,unreviewed,frappe
-Manage your orders,Beheer uw bestellingen,unreviewed,erpnext
-Management,Beheer,unreviewed,erpnext
-Mandate,Mandaat,unreviewed,erpnext
+Maintenance Schedule Detail,Onderhoudsschema detail,reviewed,erpnext
+Maintenance Schedule is not generated for all the items. Please click on 'Generate Schedule',Onderhoudsschema wordt niet gegenereerd voor alle items . Klik op ' Generate Schedule',reviewed,erpnext
+Maintenance Schedule Item,Onderhoudsschema onderdeel,reviewed,erpnext
+Maintenance Schedule {0} exists against {1},Onderhoudsplan {0} bestaat tegen {1},reviewed,erpnext
+Maintenance Schedule {0} must be cancelled before cancelling this Sales Order,Onderhoudsschema {0} moet worden geannuleerd voordat u deze verkooporder annuleert,reviewed,erpnext
+Maintenance Schedules,Onderhoudsschema&#39;s,reviewed,erpnext
+Maintenance start date can not be before delivery date for Serial No {0},Onderhoud startdatum kan niet voor de leveringsdatum voor Serienummer {0},reviewed,erpnext
+Maintenance Status,Onderhoudsstatus,reviewed,erpnext
+Maintenance Status has to be Cancelled or Completed to Submit,Onderhoudsstatus moet worden geannuleerd of voltooid om te verzenden,reviewed,erpnext
+Maintenance Task,Onderhoudstaak,reviewed,erpnext
+Maintenance Tasks,Onderhoudstaken,reviewed,erpnext
+Maintenance Team,Onderhoudsteam,reviewed,erpnext
+Maintenance Team Member,Onderhoudsteamlid,reviewed,erpnext
+Maintenance Team Members,Onderhoudsteamleden,reviewed,erpnext
+Maintenance Team Name,Onderhoudsteamnaam,reviewed,erpnext
+Maintenance Time,Onderhoudstijd,reviewed,erpnext
+Maintenance Type,Onderhoudstype,reviewed,erpnext
+Maintenance User,Onderhoudsgebruiker,reviewed,both
+Maintenance Visit,Onderhoudsbezoek,reviewed,erpnext
+Maintenance Visit Purpose,Doel onderhoudsbezoek,reviewed,erpnext
+Maintenance Visit {0} must be cancelled before cancelling this Sales Order,Onderhoudsbezoek {0} moet worden geannuleerd voordat u deze verkooporder annuleert,reviewed,erpnext
+Major/Optional Subjects,Major / keuzevakken,reviewed,erpnext
+Make,Maken,reviewed,erpnext
+"Make ""name"" searchable in Global Search",Maak &quot;naam&quot; doorzoekbaar in Global Search,reviewed,frappe
+Make a call,Bellen,reviewed,erpnext
+Make Academic Term Mandatory,Maak een academische termijn verplicht,reviewed,erpnext
+Make Accounting Entry For Every Stock Movement,Boekhoudkundige boeking aanmaken voor elke voorraadmutatie,reviewed,erpnext
+Make all attachments private,Maak alle bijlagen privé,reviewed,frappe
+Make Depreciation Entry,Afschrijvingsboeking aanmaken,reviewed,erpnext
+Make Difference Entry,Verschilboeking aanmaken,reviewed,erpnext
+Make Journal Entry,Journaalboeking aanmaken,reviewed,erpnext
+Make Payment,Betaling maken,reviewed,erpnext
+Make Payment via Journal Entry,Betalen via journaalboeking,reviewed,erpnext
+Make project from a template.,Maak een project van een sjabloon.,reviewed,erpnext
+Make Purchase Invoice,Maak inkoopfactuur,reviewed,erpnext
+Make Sales Invoice,Maak verkoopfactuur,reviewed,erpnext
+Make Stock Entry,Voorraadmutatie aanmaken,reviewed,erpnext
+Make use of longer keyboard patterns,Maak gebruik van langere toetsenbord patronen,reviewed,frappe
+Make Work Order for Sub Assembly Items,Werkorder maken voor onderdelen van subassemblages,reviewed,erpnext
+Make {0},Maak {0},reviewed,frappe
+Makes the page public,Maakt de pagina openbaar,reviewed,frappe
+Making Stock Entries,Voorraadmutaties aanmaken,reviewed,erpnext
+Male,Mannelijk,reviewed,both
+Manage Appointment Invoice submit and cancel automatically for Patient Encounter,Afspraakfactuur beheren indienen en automatisch annuleren voor patiëntontmoeting,reviewed,erpnext
+Manage cost of operations,Beheer kosten van de operaties,reviewed,erpnext
+Manage Customer Group Tree.,Beheer klantengroep-boomstructuur.,reviewed,erpnext
+Manage Sales Partners.,Beheer Verkoop Partners.,reviewed,erpnext
+Manage Sales Person Tree.,Beheer verkoopmedewerker-boomstructuur.,reviewed,erpnext
+Manage Territory Tree.,Beheer regio-boomstructuur.,reviewed,erpnext
+Manage Third Party Apps,Externe apps beheren,reviewed,frappe
+Manage your orders,Beheer uw bestellingen,reviewed,erpnext
+Management,Beheer,reviewed,erpnext
+Mandate,Mandaat,reviewed,erpnext
 Mandatory,Verplicht,reviewed,both
-Mandatory Depends On,Verplicht hangt af van,unreviewed,frappe
-Mandatory field - Academic Year,Verplicht veld - Academiejaar,unreviewed,erpnext
-Mandatory field - Get Students From,Verplicht veld - Ontvang studenten van,unreviewed,erpnext
-Mandatory field - Program,Verplicht veld - Programma,unreviewed,erpnext
-Mandatory field: set role for,Verplicht veld: set rol voor,unreviewed,frappe
-Mandatory field: {0},Verplichte velden: {0},unreviewed,frappe
-Mandatory Fields,Verplichte velden,unreviewed,erpnext
-"Mandatory fields required in table {0}, Row {1}","Verplichte velden vereist tabel {0}, {1} Rij",unreviewed,frappe
-Mandatory fields required in {0},Verplichte velden zijn verplicht in {0},unreviewed,frappe
-Mandatory For Balance Sheet,Verplicht voor balans,unreviewed,erpnext
-Mandatory For Profit and Loss Account,Verplicht voor winst- en verliesrekening,unreviewed,erpnext
-Mandatory Information missing:,Verplichte informatie ontbreekt:,unreviewed,frappe
-Mandatory Missing,Verplicht ontbreekt,unreviewed,erpnext
-Mandatory Purchase Order,Verplichte inkooporder,unreviewed,erpnext
-Mandatory Purchase Receipt,Verplichte aankoopbon,unreviewed,erpnext
-Mandatory Results,Verplichte resultaten,unreviewed,erpnext
-Mandatory:,Verplicht:,unreviewed,frappe
-Manual,handboek,unreviewed,erpnext
-Manual entry cannot be created! Disable automatic entry for deferred accounting in accounts settings and try again,Handmatige invoer kan niet worden gemaakt! Schakel automatische invoer voor uitgestelde boekhouding uit in de accountinstellingen en probeer het opnieuw,unreviewed,erpnext
-Manufacture,Fabricage,unreviewed,erpnext
-Manufacture against Material Request,Fabricage tegen Material Request,unreviewed,erpnext
-Manufactured,geproduceerd,unreviewed,erpnext
+Mandatory Depends On,Verplicht hangt af van,reviewed,frappe
+Mandatory field - Academic Year,Verplicht veld - Academisch jaar,reviewed,erpnext
+Mandatory field - Get Students From,Verplicht veld - Ontvang studenten van,reviewed,erpnext
+Mandatory field - Program,Verplicht veld - Programma,reviewed,erpnext
+Mandatory field: set role for,Verplicht veld: set rol voor,reviewed,frappe
+Mandatory field: {0},Verplichte velden: {0},reviewed,frappe
+Mandatory Fields,Verplichte velden,reviewed,erpnext
+"Mandatory fields required in table {0}, Row {1}","Verplichte velden vereist tabel {0}, {1} Rij",reviewed,frappe
+Mandatory fields required in {0},Verplichte velden zijn verplicht in {0},reviewed,frappe
+Mandatory For Balance Sheet,Verplicht voor balans,reviewed,erpnext
+Mandatory For Profit and Loss Account,Verplicht voor winst- en verliesrekening,reviewed,erpnext
+Mandatory Information missing:,Verplichte informatie ontbreekt:,reviewed,frappe
+Mandatory Missing,Verplicht ontbreekt,reviewed,erpnext
+Mandatory Purchase Order,Verplichte inkooporder,reviewed,erpnext
+Mandatory Purchase Receipt,Verplichte aankoopbon,reviewed,erpnext
+Mandatory Results,Verplichte resultaten,reviewed,erpnext
+Mandatory:,Verplicht:,reviewed,frappe
+Manual,Handmatig,reviewed,erpnext
+Manual entry cannot be created! Disable automatic entry for deferred accounting in accounts settings and try again,Handmatige invoer kan niet worden gemaakt! Schakel automatische invoer voor uitgestelde boekhouding uit in de accountinstellingen en probeer het opnieuw,reviewed,erpnext
+Manufacture,Fabricage,reviewed,erpnext
+Manufacture against Material Request,Fabricage tegen Material Request,reviewed,erpnext
+Manufactured,geproduceerd,reviewed,erpnext
 Manufactured Qty,Gefabriceerde hoeveelheid,reviewed,erpnext
 Manufacturer,Fabrikant,reviewed,erpnext
-Manufacturer Part Number,Onderdeelnummer fabrikant,unreviewed,erpnext
-Manufacturer Part Number <b>{0}</b> is invalid,Artikelnummer van fabrikant <b>{0}</b> is ongeldig,unreviewed,erpnext
-Manufacturers used in Items,Fabrikanten gebruikt in Items,unreviewed,erpnext
-Manufacturing,Productie,unreviewed,erpnext
-Manufacturing Date,Fabricage datum,unreviewed,erpnext
-Manufacturing Manager,Productie Manager,unreviewed,erpnext
-Manufacturing Quantity is mandatory,Productie Aantal is verplicht,unreviewed,erpnext
-Manufacturing Section,Productiesectie,unreviewed,erpnext
-Manufacturing Settings,Productie Instellingen,unreviewed,erpnext
-Manufacturing User,Productie Gebruiker,unreviewed,erpnext
-Map Columns,Kaartkolommen,unreviewed,frappe
-Map columns from {0} to fields in {1},Kolommen van {0} toewijzen aan velden in {1},unreviewed,frappe
-Map route parameters into form variables. Example <code>/project/&lt;name&gt;</code>,Wijs routeparameters toe aan formuliervariabelen. Voorbeeld <code>/project/&lt;name&gt;</code>,unreviewed,frappe
-map-marker,kaart-marker,unreviewed,frappe
-Mapped Data,Toegewezen gegevens,unreviewed,erpnext
-Mapped Data Type,Toegepast gegevenstype,unreviewed,erpnext
-Mapped Header,Toegewezen koptekst,unreviewed,erpnext
-Mapped Items,Toegewezen items,unreviewed,erpnext
-Mapping,In kaart brengen,unreviewed,both
-Mapping column {0} to field {1},Kolom {0} toewijzen aan veld {1},unreviewed,frappe
-Mapping Name,Naam toewijzen,unreviewed,frappe
-Mappings,mappings,unreviewed,frappe
-March,maart,unreviewed,erpnext
-Margin,Marge,unreviewed,erpnext
-Margin Money,Marge geld,unreviewed,erpnext
-Margin Rate or Amount,Margin Rate of Bedrag,unreviewed,erpnext
-Margin Type,marge Type,unreviewed,erpnext
-Marital Status,Burgerlijke staat,unreviewed,erpnext
-Mark Absent,Mark Afwezig,unreviewed,erpnext
-Mark all as Read,Alles als gelezen markeren,unreviewed,frappe
-Mark as Present,Mark als Cadeau,unreviewed,erpnext
-Mark as Read,Markeer als gelezen,unreviewed,frappe
-Mark as Spam,Markeer als spam,unreviewed,frappe
-Mark as Unread,Markeren als ongelezen,unreviewed,frappe
-Mark as unresolved,Markeer als onopgelost,unreviewed,erpnext
-Mark Half Day,Mark Halve dag,unreviewed,erpnext
-Mark Work From Home,Markeer werk vanuit huis,unreviewed,erpnext
-Marked As Spam,Gemarkeerd als spam,unreviewed,frappe
-Market Place Account Group,Accountgroep marktplaats,unreviewed,erpnext
-Market Place ID,Marktplaats-ID,unreviewed,erpnext
+Manufacturer Part Number,Onderdeelnummer fabrikant,reviewed,erpnext
+Manufacturer Part Number <b>{0}</b> is invalid,Artikelnummer van fabrikant <b>{0}</b> is ongeldig,reviewed,erpnext
+Manufacturers used in Items,Fabrikanten gebruikt in artikelen,reviewed,erpnext
+Manufacturing,Productie,reviewed,erpnext
+Manufacturing Date,Fabricagedatum,reviewed,erpnext
+Manufacturing Manager,Productieleider,reviewed,erpnext
+Manufacturing Quantity is mandatory,Productie Aantal is verplicht,reviewed,erpnext
+Manufacturing Section,Productiesectie,reviewed,erpnext
+Manufacturing Settings,Productie-instellingen,reviewed,erpnext
+Manufacturing User,Productie Gebruiker,reviewed,erpnext
+Map Columns,Kolommen toewijzen,reviewed,frappe
+Map columns from {0} to fields in {1},Kolommen van {0} toewijzen aan velden in {1},reviewed,frappe
+Map route parameters into form variables. Example <code>/project/&lt;name&gt;</code>,Wijs routeparameters toe aan formuliervariabelen. Voorbeeld <code>/project/&lt;name&gt;</code>,reviewed,frappe
+map-marker,kaart-marker,reviewed,frappe
+Mapped Data,Toegewezen gegevens,reviewed,erpnext
+Mapped Data Type,Toegepast gegevenstype,reviewed,erpnext
+Mapped Header,Toegewezen koptekst,reviewed,erpnext
+Mapped Items,Toegewezen items,reviewed,erpnext
+Mapping,Toewijzing,reviewed,both
+Mapping column {0} to field {1},Kolom {0} toewijzen aan veld {1},reviewed,frappe
+Mapping Name,Naam toewijzen,reviewed,frappe
+Mappings,mappings,reviewed,frappe
+March,maart,reviewed,erpnext
+Margin,Marge,reviewed,erpnext
+Margin Money,Marge geld,reviewed,erpnext
+Margin Rate or Amount,Margin Rate of Bedrag,reviewed,erpnext
+Margin Type,marge Type,reviewed,erpnext
+Marital Status,Burgerlijke staat,reviewed,erpnext
+Mark Absent,Mark Afwezig,reviewed,erpnext
+Mark all as Read,Alles als gelezen markeren,reviewed,frappe
+Mark as Present,Mark als Cadeau,reviewed,erpnext
+Mark as Read,Markeer als gelezen,reviewed,frappe
+Mark as Spam,Markeer als spam,reviewed,frappe
+Mark as Unread,Markeren als ongelezen,reviewed,frappe
+Mark as unresolved,Markeer als onopgelost,reviewed,erpnext
+Mark Half Day,Mark Halve dag,reviewed,erpnext
+Mark Work From Home,Markeer werk vanuit huis,reviewed,erpnext
+Marked As Spam,Gemarkeerd als spam,reviewed,frappe
+Market Place Account Group,Accountgroep marktplaats,reviewed,erpnext
+Market Place ID,Marktplaats-ID,reviewed,erpnext
 Market Segment,Marktsegment,reviewed,erpnext
-Marketing Expenses,Marketingkosten,unreviewed,erpnext
-Marketplace,Marktplaats,unreviewed,erpnext
-Marketplace Error,Marktplaatsfout,unreviewed,erpnext
-Marketplace Settings,Marketplace-instellingen,unreviewed,erpnext
-Marketplace URL (to hide and update label),Marktplaats-URL (om label te verbergen en bij te werken),unreviewed,erpnext
-Marking attendance,Aanwezigheid markeren,unreviewed,erpnext
-Married,Getrouwd,unreviewed,erpnext
-Mask,Masker,unreviewed,erpnext
-Master,Stam,unreviewed,erpnext
-Master Data,Stamgegevens,unreviewed,erpnext
+Marketing Expenses,Marketingkosten,reviewed,erpnext
+Marketplace,Marktplaats,reviewed,erpnext
+Marketplace Error,Marktplaatsfout,reviewed,erpnext
+Marketplace Settings,Marketplace-instellingen,reviewed,erpnext
+Marketplace URL (to hide and update label),Marktplaats-URL (om label te verbergen en bij te werken),reviewed,erpnext
+Marking attendance,Aanwezigheid markeren,reviewed,erpnext
+Married,Getrouwd,reviewed,erpnext
+Mask,Masker,reviewed,erpnext
+Master,Stam,reviewed,erpnext
+Master Data,Stamgegevens,reviewed,erpnext
 Master Production Schedule,Hoofdproductieplanning,reviewed,custom
-Masters,Stamdata,unreviewed,erpnext
-Match non-linked Invoices and Payments.,Match niet-gekoppelde facturen en betalingen.,unreviewed,erpnext
-Match Payments with Invoices,Match Betalingen met Facturen,unreviewed,erpnext
-Match Transaction to Invoices,Overeenstemmende transactie met facturen,unreviewed,erpnext
-Matching Invoices,Bijpassende facturen,unreviewed,erpnext
-Material,Materiaal,unreviewed,erpnext
-Material Consumption,Materiale consumptie,unreviewed,erpnext
-Material Consumption for Manufacture,Materiaalverbruik voor productie,unreviewed,erpnext
-Material Consumption is not set in Manufacturing Settings.,Materiaalverbruik is niet ingesteld in Productie-instellingen.,unreviewed,erpnext
-Material Issue,Materiaal uitgifte,unreviewed,erpnext
-Material Receipt,Materiaal ontvangst,unreviewed,erpnext
-Material Request,Materiaal Aanvraag,unreviewed,erpnext
-Material Request Date,Materiaal Aanvraagdatum,unreviewed,erpnext
-Material Request Detail,Materiaal Verzoek Detail,unreviewed,erpnext
-Material Request Item,Materiaal Aanvraag Artikel,unreviewed,erpnext
-Material Request No,Materiaal Aanvraag nr.,unreviewed,erpnext
-"Material Request not created, as quantity for Raw Materials already available.","Materiaalaanvraag niet gecreëerd, als hoeveelheid voor grondstoffen al beschikbaar.",unreviewed,erpnext
-Material Request of maximum {0} can be made for Item {1} against Sales Order {2},Materiaal Aanvraag van maximaal {0} kan worden gemaakt voor Artikel {1} tegen Verkooporder {2},unreviewed,erpnext
-Material Request Plan Item,Artikel plan voor artikelaanvraag,unreviewed,erpnext
-Material Request Planning,Materiaal Verzoek Planning,unreviewed,erpnext
-Material Request to Purchase Order,Materiaal aanvragen tot Purchase Order,unreviewed,erpnext
-Material Request Type,Materiaal Aanvraag Type,unreviewed,erpnext
-Material Request used to make this Stock Entry,Materiaal Aanvraag is gebruikt om deze Voorraad  Entry te maken,unreviewed,erpnext
-Material Request Warehouse,Materiaalaanvraag Magazijn,unreviewed,erpnext
-Material Request {0} is cancelled or stopped,Materiaal Aanvraag {0} is geannuleerd of gestopt,unreviewed,erpnext
-Material Request {0} submitted.,Materiaalaanvraag {0} ingediend.,unreviewed,erpnext
-Material Requested,Gevraagde materiaal,unreviewed,erpnext
-Material Requests,materiaal aanvragen,unreviewed,erpnext
-Material Requests for which Supplier Quotations are not created,Materiaal Aanvragen waarvoor Leverancier Offertes niet zijn gemaakt,unreviewed,erpnext
-Material Requests Required,Materiële verzoeken vereist,unreviewed,erpnext
-Material to Supplier,Materiaal aan Leverancier,unreviewed,erpnext
-Material Transfer,Materiaal Verplaatsing,unreviewed,erpnext
-Material Transfer for Manufacture,Materiaal Verplaatsing voor Productie,unreviewed,erpnext
-Material Transferred,Materiaal overgedragen,unreviewed,erpnext
-Material Transferred for Manufacture,Overgedragen materiaal voor vervaardiging,unreviewed,erpnext
-Material Transferred for Manufacturing,Materiaal Overgedragen voor Manufacturing,unreviewed,erpnext
-Material Transferred for Subcontract,Materiaal overgedragen voor onderaanneming,unreviewed,erpnext
-Materials,Materialen,unreviewed,erpnext
-Materials Required,Benodigde materialen,unreviewed,erpnext
-Materials Required (Exploded),Benodigde materialen (uitgeklapt),unreviewed,erpnext
-Max 500 records at a time,Max 500 selecties tegelijkertijd,unreviewed,frappe
-Max Amount,Max. Hoeveelheid,unreviewed,erpnext
-Max Attachment Size (in MB),Max Bijlage Grootte (in MB),unreviewed,frappe
-Max Attachments,Max Bijlagen,unreviewed,frappe
-Max Attempts,Max pogingen,unreviewed,erpnext
-Max Discount (%),Max Korting (%),unreviewed,erpnext
-Max discount allowed for item: {0} is {1}%,Maximale korting toegestaan voor artikel: {0} is {1}%,unreviewed,erpnext
-Max Leaves Allowed,Max. Bladeren toegestaan,unreviewed,erpnext
-Max Length,Maximale lengte,unreviewed,frappe
-Max number of visit,Max. Aantal bezoeken,unreviewed,erpnext
-Max Qty,Max Aantal,unreviewed,erpnext
-Max Retry Limit,Max. Herhaalgrens,unreviewed,erpnext
-Max Sample Quantity,Max. Aantal monsters,unreviewed,erpnext
-Max Score,Max score,unreviewed,erpnext
-Max strength cannot be less than zero.,De maximale sterkte kan niet minder zijn dan nul.,unreviewed,erpnext
-Max width for type Currency is 100px in row {0},Max. breedte voor het type Valuta is 100px in rij {0},unreviewed,frappe
-Maximum,Maximaal,unreviewed,frappe
-Maximum Age,Maximum leeftijd,unreviewed,erpnext
-Maximum Attachment Limit for this record reached.,Maximale Attachment Limiet voor dit record bereikt.,unreviewed,frappe
-Maximum attempts for this quiz reached!,Maximale pogingen voor deze quiz bereikt!,unreviewed,erpnext
-Maximum Continuous Days Applicable,Maximale continue dagen van toepassing,unreviewed,erpnext
-Maximum discount for Item {0} is {1}%,Maximale korting voor artikel {0} is {1}%,unreviewed,erpnext
-Maximum Invoice Amount,Maximumfactuur Bedrag,unreviewed,erpnext
-Maximum Number of Fields,Maximaal aantal velden,unreviewed,frappe
-Maximum Permissible Value,Maximaal toelaatbare waarde,unreviewed,erpnext
-Maximum Points,Maximum aantal punten,unreviewed,frappe
-Maximum points allowed after multiplying points with the multiplier value\n(Note: For no limit leave this field empty or set 0),Maximaal toegestane punten na het vermenigvuldigen van punten met de vermenigvuldigingswaarde (Opmerking: laat dit veld voor geen limiet leeg of stel 0 in),unreviewed,frappe
-Maximum sample quantity that can be retained,Maximum aantal monsters dat kan worden bewaard,unreviewed,erpnext
-Maximum Samples - {0} can be retained for Batch {1} and Item {2}.,Maximum aantal voorbeelden - {0} kan worden bewaard voor batch {1} en item {2}.,unreviewed,erpnext
+Masters,Stamdata,reviewed,erpnext
+Match non-linked Invoices and Payments.,Match niet-gekoppelde facturen en betalingen.,reviewed,erpnext
+Match Payments with Invoices,Match Betalingen met Facturen,reviewed,erpnext
+Match Transaction to Invoices,Overeenstemmende transactie met facturen,reviewed,erpnext
+Matching Invoices,Bijpassende facturen,reviewed,erpnext
+Material,Materiaal,reviewed,erpnext
+Material Consumption,Materiale consumptie,reviewed,erpnext
+Material Consumption for Manufacture,Materiaalverbruik voor productie,reviewed,erpnext
+Material Consumption is not set in Manufacturing Settings.,Materiaalverbruik is niet ingesteld in Productie-instellingen.,reviewed,erpnext
+Material Issue,Materiaal uitgifte,reviewed,erpnext
+Material Receipt,Materiaal ontvangst,reviewed,erpnext
+Material Request,Materiaal Aanvraag,reviewed,erpnext
+Material Request Date,Materiaal Aanvraagdatum,reviewed,erpnext
+Material Request Detail,Materiaal Verzoek Detail,reviewed,erpnext
+Material Request Item,Materiaal Aanvraag Artikel,reviewed,erpnext
+Material Request No,Materiaal Aanvraag nr.,reviewed,erpnext
+"Material Request not created, as quantity for Raw Materials already available.","Materiaalaanvraag niet gecreëerd, als hoeveelheid voor grondstoffen al beschikbaar.",reviewed,erpnext
+Material Request of maximum {0} can be made for Item {1} against Sales Order {2},Materiaal Aanvraag van maximaal {0} kan worden gemaakt voor Artikel {1} tegen Verkooporder {2},reviewed,erpnext
+Material Request Plan Item,Artikel plan voor artikelaanvraag,reviewed,erpnext
+Material Request Planning,Materiaal Verzoek Planning,reviewed,erpnext
+Material Request to Purchase Order,Materiaal aanvragen tot Purchase Order,reviewed,erpnext
+Material Request Type,Materiaal Aanvraag Type,reviewed,erpnext
+Material Request used to make this Stock Entry,Materiaal Aanvraag is gebruikt om deze Voorraad  Entry te maken,reviewed,erpnext
+Material Request Warehouse,Materiaalaanvraag Magazijn,reviewed,erpnext
+Material Request {0} is cancelled or stopped,Materiaal Aanvraag {0} is geannuleerd of gestopt,reviewed,erpnext
+Material Request {0} submitted.,Materiaalaanvraag {0} ingediend.,reviewed,erpnext
+Material Requested,Gevraagde materiaal,reviewed,erpnext
+Material Requests,materiaal aanvragen,reviewed,erpnext
+Material Requests for which Supplier Quotations are not created,Materiaal Aanvragen waarvoor Leverancier Offertes niet zijn gemaakt,reviewed,erpnext
+Material Requests Required,Materiële verzoeken vereist,reviewed,erpnext
+Material to Supplier,Materiaal aan Leverancier,reviewed,erpnext
+Material Transfer,Materiaal Verplaatsing,reviewed,erpnext
+Material Transfer for Manufacture,Materiaal Verplaatsing voor Productie,reviewed,erpnext
+Material Transferred,Materiaal overgedragen,reviewed,erpnext
+Material Transferred for Manufacture,Overgedragen materiaal voor vervaardiging,reviewed,erpnext
+Material Transferred for Manufacturing,Materiaal Overgedragen voor Manufacturing,reviewed,erpnext
+Material Transferred for Subcontract,Materiaal overgedragen voor onderaanneming,reviewed,erpnext
+Materials,Materialen,reviewed,erpnext
+Materials Required,Benodigde materialen,reviewed,erpnext
+Materials Required (Exploded),Benodigde materialen (uitgeklapt),reviewed,erpnext
+Max 500 records at a time,Max 500 selecties tegelijkertijd,reviewed,frappe
+Max Amount,Max. Hoeveelheid,reviewed,erpnext
+Max Attachment Size (in MB),Max Bijlage Grootte (in MB),reviewed,frappe
+Max Attachments,Max Bijlagen,reviewed,frappe
+Max Attempts,Max pogingen,reviewed,erpnext
+Max Discount (%),Max Korting (%),reviewed,erpnext
+Max discount allowed for item: {0} is {1}%,Maximale korting toegestaan voor artikel: {0} is {1}%,reviewed,erpnext
+Max Leaves Allowed,Max. Bladeren toegestaan,reviewed,erpnext
+Max Length,Maximale lengte,reviewed,frappe
+Max number of visit,Max. Aantal bezoeken,reviewed,erpnext
+Max Qty,Max Aantal,reviewed,erpnext
+Max Retry Limit,Max. Herhaalgrens,reviewed,erpnext
+Max Sample Quantity,Max. Aantal monsters,reviewed,erpnext
+Max Score,Max score,reviewed,erpnext
+Max strength cannot be less than zero.,De maximale sterkte kan niet minder zijn dan nul.,reviewed,erpnext
+Max width for type Currency is 100px in row {0},Max. breedte voor het type Valuta is 100px in rij {0},reviewed,frappe
+Maximum,Maximaal,reviewed,frappe
+Maximum Age,Maximum leeftijd,reviewed,erpnext
+Maximum Attachment Limit for this record reached.,Maximale Attachment Limiet voor dit record bereikt.,reviewed,frappe
+Maximum attempts for this quiz reached!,Maximale pogingen voor deze quiz bereikt!,reviewed,erpnext
+Maximum Continuous Days Applicable,Maximale continue dagen van toepassing,reviewed,erpnext
+Maximum discount for Item {0} is {1}%,Maximale korting voor artikel {0} is {1}%,reviewed,erpnext
+Maximum Invoice Amount,Maximumfactuur Bedrag,reviewed,erpnext
+Maximum Number of Fields,Maximaal aantal velden,reviewed,frappe
+Maximum Permissible Value,Maximaal toelaatbare waarde,reviewed,erpnext
+Maximum Points,Maximum aantal punten,reviewed,frappe
+Maximum points allowed after multiplying points with the multiplier value\n(Note: For no limit leave this field empty or set 0),Maximaal toegestane punten na het vermenigvuldigen van punten met de vermenigvuldigingswaarde (Opmerking: laat dit veld voor geen limiet leeg of stel 0 in),reviewed,frappe
+Maximum sample quantity that can be retained,Maximum aantal monsters dat kan worden bewaard,reviewed,erpnext
+Maximum Samples - {0} can be retained for Batch {1} and Item {2}.,Maximum aantal voorbeelden - {0} kan worden bewaard voor batch {1} en item {2}.,reviewed,erpnext
 Maximum Samples - {0} have already been retained for Batch {1} and Item {2} in Batch {3}.,Maximale voorbeelden - {0} zijn al bewaard voor Batch {1} en Item {2} in Batch {3}.,unreviewed,erpnext
 Maximum Score,maximum Score,unreviewed,erpnext
 Maximum Use,Maximaal gebruik,unreviewed,erpnext

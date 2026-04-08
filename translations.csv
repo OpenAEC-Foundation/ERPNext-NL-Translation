@@ -13145,306 +13145,308 @@ Invalid Benefit Amounts,Ongeldige vergoedingsbedragen,reviewed,hrms
 Invalid Dates,Ongeldige datums,reviewed,hrms
 Invalid LWP Days Reversed,Ongeldig aantal teruggedraaide LWP-dagen,reviewed,hrms
 Invalid Leave Ledger Entry,Ongeldige verlofgrootboekboeking,reviewed,hrms
-Invalid Payroll Payable Account. The account currency must be {0} or {1},,unreviewed,hrms
-Invalid Shift Times,,unreviewed,hrms
-Invalid parameters provided. Please pass the required arguments.,,unreviewed,hrms
-Investigated,,unreviewed,hrms
-Investigation Details,,unreviewed,hrms
-Invited,,unreviewed,hrms
-Invoice Ref,,unreviewed,hrms
-Is Allocated,,unreviewed,hrms
-Is Applicable for Referral Bonus,,unreviewed,hrms
-Is Carry Forward,,unreviewed,hrms
-Is Compensatory,,unreviewed,hrms
-Is Compensatory Leave,,unreviewed,hrms
-Is Earned Leave,,unreviewed,hrms
-Is Expired,,unreviewed,hrms
-Is Flexible Benefit,,unreviewed,hrms
-Is Income Tax Component,,unreviewed,hrms
-Is Leave Without Pay,,unreviewed,hrms
-Is Partially Paid Leave,,unreviewed,hrms
-Is Recurring,,unreviewed,hrms
-Is Recurring Additional Salary,,unreviewed,hrms
-Is Salary Released,,unreviewed,hrms
-Is Salary Withheld,,unreviewed,hrms
-Is Tax Applicable,,unreviewed,hrms
-Jan,,unreviewed,hrms
-Job Applicant {0} created successfully.,,unreviewed,hrms
-Job Applicants are not allowed to appear twice for the same Interview round. Interview {0} already scheduled for Job Applicant {1},,unreviewed,hrms
-Job Application,,unreviewed,hrms
-Job Application Route,,unreviewed,hrms
-Job Description,,unreviewed,hrms
-Job Offer Term,,unreviewed,hrms
-Job Offer Terms,,unreviewed,hrms
-Job Offer status,,unreviewed,hrms
-Job Offer: {0} is already for Job Applicant: {1},,unreviewed,hrms
-Job Opening,,unreviewed,hrms
-Job Opening Associated,,unreviewed,hrms
-Job Openings,,unreviewed,hrms
-Job Openings for the designation {0} are already open or the hiring is complete as per the Staffing Plan {1},,unreviewed,hrms
-Job Requisition {0} has been associated with Job Opening {1},,unreviewed,hrms
-"Job profile, qualifications required etc.",,unreviewed,hrms
-Jobs,,unreviewed,hrms
-Joining Date,,unreviewed,hrms
-July,,unreviewed,hrms
-June,,unreviewed,hrms
-KRA,,unreviewed,hrms
-KRA Evaluation Method,,unreviewed,hrms
-KRA updated for all child goals.,,unreviewed,hrms
-KRA vs Goals,,unreviewed,hrms
-KRAs,,unreviewed,hrms
-Key Performance Area,,unreviewed,hrms
-Key Responsibility Area,,unreviewed,hrms
-Key Result Area,,unreviewed,hrms
-LWP Days Reversed ({0}) does not match actual Payroll Corrections total ({1}) for employee {2} from {3} to {4},,unreviewed,hrms
-Last Day,,unreviewed,hrms
-Last Known Successful Sync of Employee Checkin. Reset this only if you are sure that all Logs are synced from all the locations. Please don't modify this if you are unsure.,,unreviewed,hrms
-Last Odometer Value ,,unreviewed,hrms
-Last Sync of Checkin,,unreviewed,hrms
-Last {0} was at {1},,unreviewed,hrms
-Late Entries,,unreviewed,hrms
-Late Entry,,unreviewed,hrms
-Late Entry & Early Exit Settings for Auto Attendance,,unreviewed,hrms
-Late Entry By,,unreviewed,hrms
-Late Entry Grace Period,,unreviewed,hrms
-Latitude and longitude values are required for checking in.,,unreviewed,hrms
-Latitude: {0}°,,unreviewed,hrms
-Leave,,unreviewed,hrms
-Leave Adjustment for this allocation already exists: {0}. Please amend existing adjustment.,,unreviewed,hrms
-Leave Allocation,,unreviewed,hrms
-Leave Allocation Exists,,unreviewed,hrms
-Leave Allocations,,unreviewed,hrms
-Leave Application,,unreviewed,hrms
-Leave Application period cannot be across two non-consecutive leave allocations {0} and {1}.,,unreviewed,hrms
-Leave Approval Notification,,unreviewed,hrms
-Leave Approval Notification Template,,unreviewed,hrms
-Leave Approver Mandatory In Leave Application,,unreviewed,hrms
-Leave Approver Name,,unreviewed,hrms
-Leave Balance,,unreviewed,hrms
-Leave Balance Before Application,,unreviewed,hrms
-Leave Balance Summary,,unreviewed,hrms
-Leave Block List Allow,,unreviewed,hrms
-Leave Block List Allowed,,unreviewed,hrms
-Leave Block List Date,,unreviewed,hrms
-Leave Block List Dates,,unreviewed,hrms
-Leave Block List Name,,unreviewed,hrms
-Leave Blocked,,unreviewed,hrms
-Leave Control Panel,,unreviewed,hrms
-Leave Details,,unreviewed,hrms
-Leave Encashment Amount Per Day,,unreviewed,hrms
-Leave History,,unreviewed,hrms
-Leave Ledger,,unreviewed,hrms
-"Leave Ledger Entry's To date needs to be after From date. Currently, From Date is {0} and To Date is {1}",,unreviewed,hrms
-Leave Period,,unreviewed,hrms
-Leave Policy,,unreviewed,hrms
-Leave Policy Assignment Overlap,,unreviewed,hrms
-Leave Policy Detail,,unreviewed,hrms
-Leave Policy Details,,unreviewed,hrms
-Leave Policy: {0} already assigned for Employee {1} for period {2} to {3},,unreviewed,hrms
-Leave Status Notification,,unreviewed,hrms
-Leave Status Notification Template,,unreviewed,hrms
-Leave Type,,unreviewed,hrms
-Leave Type Name,,unreviewed,hrms
-Leave Type can either be compensatory or earned leave.,,unreviewed,hrms
-Leave Type can either be without pay or partial pay,,unreviewed,hrms
-Leave Type is mandatory,,unreviewed,hrms
-Leave Type {0} cannot be allocated since it is leave without pay,,unreviewed,hrms
-Leave Type {0} cannot be carry-forwarded,,unreviewed,hrms
-Leave Type {0} is not encashable,,unreviewed,hrms
-Leave Without Pay,,unreviewed,hrms
-Leave Without Pay does not match with approved {} records,,unreviewed,hrms
-"Leave allocation is skipped for {0}, because number of leaves to be allocated is 0.",,unreviewed,hrms
-Leave allocation {0} is linked with the Leave Application {1},,unreviewed,hrms
-Leave already have been assigned for this Leave Policy Assignment,,unreviewed,hrms
-Leave application is linked with leave allocations {0}. Leave application cannot be set as leave without pay,,unreviewed,hrms
-"Leave cannot be allocated before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}",,unreviewed,hrms
-"Leave cannot be applied/cancelled before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}",,unreviewed,hrms
-Leave for optional holiday,,unreviewed,hrms
-Leave of type {0} cannot be longer than {1}.,,unreviewed,hrms
-Leave(s) Expired,,unreviewed,hrms
-Leave(s) Pending Approval,,unreviewed,hrms
-Leave(s) Taken,,unreviewed,hrms
-Leaves,,unreviewed,hrms
-Leaves & Holidays,,unreviewed,hrms
-Leaves After Adjustment,,unreviewed,hrms
-Leaves Allocated,,unreviewed,hrms
-Leaves Pending Approval,,unreviewed,hrms
-Leaves for the Leave Type {0} won't be carry-forwarded since carry-forwarding is disabled.,,unreviewed,hrms
-Leaves per Year,,unreviewed,hrms
-Leaves to Adjust,,unreviewed,hrms
-Leaves you can avail against a holiday you worked on. You can claim Compensatory Off Leave using Compensatory Leave Request. Click {0} to know more,,unreviewed,hrms
-Lifecycle,,unreviewed,hrms
-Lime,,unreviewed,hrms
-Limits,,unreviewed,hrms
-Link the cycle and tag KRA to your goal to update the appraisal's goal score based on the goal progress,,unreviewed,hrms
-Linked Project {} and Tasks deleted.,,unreviewed,hrms
-Loan Account,,unreviewed,hrms
-Loan Product,,unreviewed,hrms
-Loan Repayment,,unreviewed,hrms
-Loan Repayment Entry,,unreviewed,hrms
-Loan cannot be repayed from salary for Employee {0} because salary is processed in currency {1},,unreviewed,hrms
-Locating...,,unreviewed,hrms
-Location / Device ID,,unreviewed,hrms
-Lodging Required,,unreviewed,hrms
-Log Out,,unreviewed,hrms
-Log Type is required for check-ins falling in the shift: {0}.,,unreviewed,hrms
-Login Failed,,unreviewed,hrms
-Login to Frappe HR,,unreviewed,hrms
-Longitude: {0}°,,unreviewed,hrms
-Lower Range,,unreviewed,hrms
-MICR,,unreviewed,hrms
-Make Bank Entry,,unreviewed,hrms
-Mandatory Benefit Application,,unreviewed,hrms
-Mandatory fields required for this action:,,unreviewed,hrms
-Manual Rating,,unreviewed,hrms
-Manually,,unreviewed,hrms
-Mar,,unreviewed,hrms
-Mark Attendance,,unreviewed,hrms
-Mark Auto Attendance on Holidays,,unreviewed,hrms
-Mark as Completed,,unreviewed,hrms
-Mark as In Progress,,unreviewed,hrms
-Mark as {0},,unreviewed,hrms
-Mark attendance as {0} for {1} on selected dates?,,unreviewed,hrms
-Mark attendance based on 'Employee Checkin' for Employees assigned to this shift.,,unreviewed,hrms
-Mark attendance for existing check-in/out logs before changing shift settings,,unreviewed,hrms
-Mark {0} as Completed?,,unreviewed,hrms
-Mark {0} {1} as {2}?,,unreviewed,hrms
-Marked Attendance,,unreviewed,hrms
-Marked Attendance HTML,,unreviewed,hrms
-Marking Attendance,,unreviewed,hrms
-Max Amount Eligible For Claim,,unreviewed,hrms
-Max Benefit Amount,,unreviewed,hrms
-Max Benefit Amount (Yearly),,unreviewed,hrms
-Max Benefits (Amount),,unreviewed,hrms
-Max Benefits (Yearly),,unreviewed,hrms
-Max Exemption Amount,,unreviewed,hrms
-Max Exemption Amount cannot be greater than maximum exemption amount {0} of Tax Exemption Category {1},,unreviewed,hrms
-Max Taxable Income,,unreviewed,hrms
-Max working hours against Timesheet,,unreviewed,hrms
-Maximum Benefit Amount,,unreviewed,hrms
-Maximum Carry Forwarded Leaves,,unreviewed,hrms
-Maximum Consecutive Leaves Allowed,,unreviewed,hrms
-Maximum Consecutive Leaves Exceeded,,unreviewed,hrms
-Maximum Encashable Leaves,,unreviewed,hrms
-Maximum Exempted Amount,,unreviewed,hrms
-Maximum Exemption Amount,,unreviewed,hrms
-Maximum Leave Allocation Allowed per Leave Period,,unreviewed,hrms
-Maximum Overtime Hours Allowed,,unreviewed,hrms
-Maximum Overtime Hours Allowed Per Day,,unreviewed,hrms
-Maximum annual taxable income eligible for full tax relief. No tax is applied if income does not exceed this limit,,unreviewed,hrms
-Maximum encashable leaves for {0} are {1},,unreviewed,hrms
-Maximum leave allowed in the leave type {0} is {1},,unreviewed,hrms
-May,,unreviewed,hrms
-Meal Preference,,unreviewed,hrms
-Medical,,unreviewed,hrms
-Mileage,,unreviewed,hrms
-Min Taxable Income,,unreviewed,hrms
-Minimum Year for Gratuity,,unreviewed,hrms
-Minimum working days required since Date of Joining to apply for this leave,,unreviewed,hrms
-Missing Advance Account,,unreviewed,hrms
-Missing Mandatory Field,,unreviewed,hrms
-Missing Opening Entries,,unreviewed,hrms
-Missing Relieving Date,,unreviewed,hrms
-Missing Salary Components,,unreviewed,hrms
-Missing Tax Slab,,unreviewed,hrms
-Mode of Travel,,unreviewed,hrms
-Mode of payment is required to make a payment,,unreviewed,hrms
-Month To Date,,unreviewed,hrms
-Month To Date(Company Currency),,unreviewed,hrms
-Monthly Attendance Sheet,,unreviewed,hrms
-More than one selection for {0} not allowed,,unreviewed,hrms
-Multiple Additional Salaries with overwrite property exist for Salary Component {0} between {1} and {2}.,,unreviewed,hrms
-Multiple Shift Assignments,,unreviewed,hrms
+Invalid Payroll Payable Account. The account currency must be {0} or {1},Ongeldige salarisadministratie crediteurerekening. De valuta van de rekening moet {0} of {1} zijn.,reviewed,hrms
+Invalid Shift Times,Ongeldige diensttijden,reviewed,hrms
+Invalid parameters provided. Please pass the required arguments.,Ongeldige parameters opgegeven. Geef de vereiste argumenten mee.,reviewed,hrms
+Investigated,Onderzocht,reviewed,hrms
+Investigation Details,Onderzoeksgegevens,reviewed,hrms
+Invited,Uitgenodigd,reviewed,hrms
+Invoice Ref,Factuurref.,reviewed,hrms
+Is Allocated,Is toegewezen,reviewed,hrms
+Is Applicable for Referral Bonus,Van toepassing op referralbonus,reviewed,hrms
+Is Carry Forward,Wordt meegedragen naar volgend jaar,reviewed,hrms
+Is Compensatory,Is compensatieverlof,reviewed,hrms
+Is Compensatory Leave,Is compensatieverlof,reviewed,hrms
+Is Earned Leave,Is opgebouwd verlof,reviewed,hrms
+Is Expired,Is verlopen,reviewed,hrms
+Is Flexible Benefit,Is flexibel arbeidsvoorwaardenpakket,reviewed,hrms
+Is Income Tax Component,Is loonbelastingcomponent,reviewed,hrms
+Is Leave Without Pay,Is onbetaald verlof,reviewed,hrms
+Is Partially Paid Leave,Is gedeeltelijk betaald verlof,reviewed,hrms
+Is Recurring,Is terugkerend,reviewed,hrms
+Is Recurring Additional Salary,Is terugkerend aanvullend salaris,reviewed,hrms
+Is Salary Released,Is salaris uitbetaald,reviewed,hrms
+Is Salary Withheld,Is salaris ingehouden,reviewed,hrms
+Is Tax Applicable,Is belastingplichtig,reviewed,hrms
+Jan,jan,reviewed,hrms
+Job Applicant {0} created successfully.,Sollicitant {0} is succesvol aangemaakt.,reviewed,hrms
+Job Applicants are not allowed to appear twice for the same Interview round. Interview {0} already scheduled for Job Applicant {1},Sollicitanten mogen niet tweemaal deelnemen aan dezelfde sollicitatieronde. Interview {0} is al gepland voor sollicitant {1}.,reviewed,hrms
+Job Application,Sollicitatie,reviewed,hrms
+Job Application Route,Sollicitatiekanaal,reviewed,hrms
+Job Description,Functiebeschrijving,reviewed,hrms
+Job Offer Term,Arbeidsvoorwaarde,reviewed,hrms
+Job Offer Terms,Arbeidsvoorwaarden,reviewed,hrms
+Job Offer status,Status arbeidsaanbod,reviewed,hrms
+Job Offer: {0} is already for Job Applicant: {1},Arbeidsaanbod {0} is al aangemaakt voor sollicitant {1}.,reviewed,hrms
+Job Opening,Vacature,reviewed,hrms
+Job Opening Associated,Gekoppelde vacature,reviewed,hrms
+Job Openings,Vacatures,reviewed,hrms
+Job Openings for the designation {0} are already open or the hiring is complete as per the Staffing Plan {1},Vacatures voor de functie {0} staan al open of de werving is afgerond op basis van personeelsplan {1}.,reviewed,hrms
+Job Requisition {0} has been associated with Job Opening {1},Personeelsaanvraag {0} is gekoppeld aan vacature {1}.,reviewed,hrms
+"Job profile, qualifications required etc.","Functieprofiel, vereiste kwalificaties, etc.",reviewed,hrms
+Jobs,Vacatures,reviewed,hrms
+Joining Date,Datum in dienst,reviewed,hrms
+July,juli,reviewed,hrms
+June,juni,reviewed,hrms
+KRA,KRA,reviewed,hrms
+KRA Evaluation Method,KRA-evaluatiemethode,reviewed,hrms
+KRA updated for all child goals.,KRA bijgewerkt voor alle onderliggende doelstellingen.,reviewed,hrms
+KRA vs Goals,KRA versus doelstellingen,reviewed,hrms
+KRAs,KRAs,reviewed,hrms
+Key Performance Area,Kernprestatie-indicator,reviewed,hrms
+Key Responsibility Area,Kernverantwoordelijkheidsgebied,reviewed,hrms
+Key Result Area,Kernresultaatgebied,reviewed,hrms
+LWP Days Reversed ({0}) does not match actual Payroll Corrections total ({1}) for employee {2} from {3} to {4},Teruggedraaide dagen onbetaald verlof ({0}) komen niet overeen met het totaal van de salarisaanpassingen ({1}) voor werknemer {2} van {3} tot {4}.,reviewed,hrms
+Last Day,Laatste dag,reviewed,hrms
+Last Known Successful Sync of Employee Checkin. Reset this only if you are sure that all Logs are synced from all the locations. Please don't modify this if you are unsure.,Laatste bekende geslaagde synchronisatie van werknemer-incheckmeldingen. Stel dit alleen opnieuw in als u zeker weet dat alle logboeken vanuit alle locaties zijn gesynchroniseerd. Wijzig dit niet als u hiervan niet zeker bent.,reviewed,hrms
+Last Odometer Value ,Laatste kilometerstand,reviewed,hrms
+Last Sync of Checkin,Laatste synchronisatie van incheckmeldingen,reviewed,hrms
+Last {0} was at {1},Laatste {0} was om {1},reviewed,hrms
+Late Entries,Te laat ingecheckt,reviewed,hrms
+Late Entry,Te laat ingecheckt,reviewed,hrms
+Late Entry & Early Exit Settings for Auto Attendance,Instellingen te laat inchecken en vroeg uitchecken voor automatische aanwezigheidsregistratie,reviewed,hrms
+Late Entry By,Te laat met,reviewed,hrms
+Late Entry Grace Period,Tolerantietermijn voor te laat inchecken,reviewed,hrms
+Latitude and longitude values are required for checking in.,Breedtegraad- en lengtegraadwaarden zijn vereist voor het inchecken.,reviewed,hrms
+Latitude: {0}°,Breedtegraad: {0}°,reviewed,hrms
+Leave,Verlof,reviewed,hrms
+Leave Adjustment for this allocation already exists: {0}. Please amend existing adjustment.,Er bestaat al een verlofdagsaanpassing voor deze toewijzing: {0}. Pas de bestaande aanpassing aan.,reviewed,hrms
+Leave Allocation,Verlofdagentoewijzing,reviewed,hrms
+Leave Allocation Exists,Verlofdagentoewijzing bestaat al,reviewed,hrms
+Leave Allocations,Verlofdagentoewijzingen,reviewed,hrms
+Leave Application,Verlofaanvraag,reviewed,hrms
+Leave Application period cannot be across two non-consecutive leave allocations {0} and {1}.,De periode van de verlofaanvraag mag niet vallen over twee niet-aaneengesloten verlofdagentoewijzingen {0} en {1}.,reviewed,hrms
+Leave Approval Notification,Verlofgoedkeuringsmelding,reviewed,hrms
+Leave Approval Notification Template,Template verlofgoedkeuringsmelding,reviewed,hrms
+Leave Approver Mandatory In Leave Application,Verlofgoedkeurder verplicht in verlofaanvraag,reviewed,hrms
+Leave Approver Name,Naam verlofgoedkeurder,reviewed,hrms
+Leave Balance,Verlofsaldo,reviewed,hrms
+Leave Balance Before Application,Verlofsaldo voor aanvraag,reviewed,hrms
+Leave Balance Summary,Verlofsaldooverzicht,reviewed,hrms
+Leave Block List Allow,Verlofblokkeringlijst toestaan,reviewed,hrms
+Leave Block List Allowed,Verlofblokkeringlijst toegestaan,reviewed,hrms
+Leave Block List Date,Datum verlofblokkeringlijst,reviewed,hrms
+Leave Block List Dates,Datums verlofblokkeringlijst,reviewed,hrms
+Leave Block List Name,Naam verlofblokkeringlijst,reviewed,hrms
+Leave Blocked,Verlof geblokkeerd,reviewed,hrms
+Leave Control Panel,Verlofdashboard,reviewed,hrms
+Leave Details,Verlofdetails,reviewed,hrms
+Leave Encashment Amount Per Day,Bedrag verlofuitbetaling per dag,reviewed,hrms
+Leave History,Verlofhistorie,reviewed,hrms
+Leave Ledger,Verlofgrootboek,reviewed,hrms
+"Leave Ledger Entry's To date needs to be after From date. Currently, From Date is {0} and To Date is {1}",De einddatum van de verlofgrootboekboeking moet na de begindatum liggen. Momenteel is de begindatum {0} en de einddatum {1}.,reviewed,hrms
+Leave Period,Verlofperiode,reviewed,hrms
+Leave Policy,Verlofbeleid,reviewed,hrms
+Leave Policy Assignment Overlap,Overlapping verlofbeleidstoewijzing,reviewed,hrms
+Leave Policy Detail,Verlofbeleidsdetail,reviewed,hrms
+Leave Policy Details,Verlofbeleidsdetails,reviewed,hrms
+Leave Policy: {0} already assigned for Employee {1} for period {2} to {3},Verlofbeleid {0} is al toegewezen aan werknemer {1} voor de periode {2} tot {3}.,reviewed,hrms
+Leave Status Notification,Verlofstatusmelding,reviewed,hrms
+Leave Status Notification Template,Template verlofstatusmelding,reviewed,hrms
+Leave Type,Verloftype,reviewed,hrms
+Leave Type Name,Naam verloftype,reviewed,hrms
+Leave Type can either be compensatory or earned leave.,Het verloftype kan compensatieverlof of verdiend verlof zijn.,reviewed,hrms
+Leave Type can either be without pay or partial pay,Het verloftype kan onbetaald verlof of gedeeltelijk betaald verlof zijn.,reviewed,hrms
+Leave Type is mandatory,Verloftype is verplicht.,reviewed,hrms
+Leave Type {0} cannot be allocated since it is leave without pay,Verloftype {0} kan niet worden toegewezen omdat het onbetaald verlof betreft.,reviewed,hrms
+Leave Type {0} cannot be carry-forwarded,Verloftype {0} kan niet worden meegenomen naar de volgende periode.,reviewed,hrms
+Leave Type {0} is not encashable,Verloftype {0} kan niet worden uitbetaald.,reviewed,hrms
+Leave Without Pay,Onbetaald verlof,reviewed,hrms
+Leave Without Pay does not match with approved {} records,Onbetaald verlof komt niet overeen met {} goedgekeurde records.,reviewed,hrms
+"Leave allocation is skipped for {0}, because number of leaves to be allocated is 0.","Verloftoewijzing is overgeslagen voor {0}, omdat het toe te wijzen aantal verlofdagen 0 is.",reviewed,hrms
+Leave allocation {0} is linked with the Leave Application {1},Verloftoewijzing {0} is gekoppeld aan verlofaanvraag {1}.,reviewed,hrms
+Leave already have been assigned for this Leave Policy Assignment,Verlof is al toegewezen voor deze verlofbeleidstoewijzing.,reviewed,hrms
+Leave application is linked with leave allocations {0}. Leave application cannot be set as leave without pay,Verlofaanvraag is gekoppeld aan verloftoewijzingen {0}. Verlofaanvraag kan niet worden ingesteld als onbetaald verlof.,reviewed,hrms
+"Leave cannot be allocated before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}","Verlof kan niet worden toegewezen vóór {0}, omdat het verlofsaldo al is meegenomen in de toekomstige verloftoewijzing {1}.",reviewed,hrms
+"Leave cannot be applied/cancelled before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}","Verlof kan niet worden aangevraagd of geannuleerd vóór {0}, omdat het verlofsaldo al is meegenomen in de toekomstige verloftoewijzing {1}.",reviewed,hrms
+Leave for optional holiday,Verlof voor optionele feestdag,reviewed,hrms
+Leave of type {0} cannot be longer than {1}.,Verlof van type {0} mag niet langer zijn dan {1}.,reviewed,hrms
+Leave(s) Expired,Verlof(dagen) verlopen,reviewed,hrms
+Leave(s) Pending Approval,Verlof(dagen) in afwachting van goedkeuring,reviewed,hrms
+Leave(s) Taken,Opgenomen verlof(dagen),reviewed,hrms
+Leaves,Verlof,reviewed,hrms
+Leaves & Holidays,Verlof en feestdagen,reviewed,hrms
+Leaves After Adjustment,Verlof na correctie,reviewed,hrms
+Leaves Allocated,Toegewezen verlof,reviewed,hrms
+Leaves Pending Approval,Verlof in afwachting van goedkeuring,reviewed,hrms
+Leaves for the Leave Type {0} won't be carry-forwarded since carry-forwarding is disabled.,"Verlof voor verloftype {0} wordt niet meegenomen naar de volgende periode, omdat deze functie is uitgeschakeld.",reviewed,hrms
+Leaves per Year,Verlofdagen per jaar,reviewed,hrms
+Leaves to Adjust,Te corrigeren verlof,reviewed,hrms
+Leaves you can avail against a holiday you worked on. You can claim Compensatory Off Leave using Compensatory Leave Request. Click {0} to know more,Verlof dat u kunt opnemen als compensatie voor een feestdag waarop u heeft gewerkt. U kunt compensatieverlof aanvragen via een compensatieverlofaanvraag. Klik op {0} voor meer informatie.,reviewed,hrms
+Lifecycle,Levenscyclus,reviewed,hrms
+Lime,Limoen,reviewed,hrms
+Limits,Limieten,reviewed,hrms
+Link the cycle and tag KRA to your goal to update the appraisal's goal score based on the goal progress,Koppel de cyclus en de KRA-tag aan uw doelstelling om de doelstellingsscore van de beoordeling bij te werken op basis van de voortgang.,reviewed,hrms
+Linked Project {} and Tasks deleted.,Gekoppeld project {} en taken zijn verwijderd.,reviewed,hrms
+Loan Account,Leningrekening,reviewed,hrms
+Loan Product,Leningproduct,reviewed,hrms
+Loan Repayment,Leningaflossing,reviewed,hrms
+Loan Repayment Entry,Leningaflossing boeking,reviewed,hrms
+Loan cannot be repayed from salary for Employee {0} because salary is processed in currency {1},De lening kan niet via het salaris worden afgelost voor werknemer {0} omdat het salaris wordt verwerkt in valuta {1}.,reviewed,hrms
+Locating...,Locatie bepalen...,reviewed,hrms
+Location / Device ID,Locatie / apparaat-ID,reviewed,hrms
+Lodging Required,Verblijf vereist,reviewed,hrms
+Log Out,Uitloggen,reviewed,hrms
+Log Type is required for check-ins falling in the shift: {0}.,Het logtype is verplicht voor inregistraties die vallen binnen dienst: {0}.,reviewed,hrms
+Login Failed,Aanmelden mislukt,reviewed,hrms
+Login to Frappe HR,Aanmelden bij Frappe HR,reviewed,hrms
+Longitude: {0}°,Lengtegraad: {0}°,reviewed,hrms
+Lower Range,Ondergrens,reviewed,hrms
+MICR,MICR,reviewed,hrms
+Make Bank Entry,Bankboeking aanmaken,reviewed,hrms
+Mandatory Benefit Application,Verplichte vergoedingsaanvraag,reviewed,hrms
+Mandatory fields required for this action:,Verplichte velden voor deze actie:,reviewed,hrms
+Manual Rating,Handmatige beoordeling,reviewed,hrms
+Manually,Handmatig,reviewed,hrms
+Mar,Mrt,reviewed,hrms
+Mark Attendance,Aanwezigheid registreren,reviewed,hrms
+Mark Auto Attendance on Holidays,Automatische aanwezigheidsregistratie op feestdagen,reviewed,hrms
+Mark as Completed,Markeren als afgerond,reviewed,hrms
+Mark as In Progress,Markeren als in uitvoering,reviewed,hrms
+Mark as {0},Markeren als {0},reviewed,hrms
+Mark attendance as {0} for {1} on selected dates?,Aanwezigheid registreren als {0} voor {1} op geselecteerde datums?,reviewed,hrms
+Mark attendance based on 'Employee Checkin' for Employees assigned to this shift.,Aanwezigheid registreren op basis van 'Werknemer inregistratie' voor werknemers die zijn toegewezen aan deze dienst.,reviewed,hrms
+Mark attendance for existing check-in/out logs before changing shift settings,Registreer de aanwezigheid voor bestaande in- en uitregistraties voordat u de dienstinstellingen wijzigt.,reviewed,hrms
+Mark {0} as Completed?,{0} markeren als afgerond?,reviewed,hrms
+Mark {0} {1} as {2}?,{0} {1} markeren als {2}?,reviewed,hrms
+Marked Attendance,Geregistreerde aanwezigheid,reviewed,hrms
+Marked Attendance HTML,Geregistreerde aanwezigheid HTML,reviewed,hrms
+Marking Attendance,Aanwezigheid registreren,reviewed,hrms
+Max Amount Eligible For Claim,Maximaal declareerbaar bedrag,reviewed,hrms
+Max Benefit Amount,Maximaal vergoedingsbedrag,reviewed,hrms
+Max Benefit Amount (Yearly),Maximaal vergoedingsbedrag (jaarlijks),reviewed,hrms
+Max Benefits (Amount),Maximale vergoedingen (bedrag),reviewed,hrms
+Max Benefits (Yearly),Maximale vergoedingen (jaarlijks),reviewed,hrms
+Max Exemption Amount,Maximaal vrijgesteld bedrag,reviewed,hrms
+Max Exemption Amount cannot be greater than maximum exemption amount {0} of Tax Exemption Category {1},Het maximaal vrijgesteld bedrag mag niet groter zijn dan het maximale vrijstellingsbedrag {0} van belastingvrijstellingscategorie {1}.,reviewed,hrms
+Max Taxable Income,Maximaal belastbaar inkomen,reviewed,hrms
+Max working hours against Timesheet,Maximale werkuren per urenregistratie,reviewed,hrms
+Maximum Benefit Amount,Maximaal vergoedingsbedrag,reviewed,hrms
+Maximum Carry Forwarded Leaves,Maximaal mee te nemen verlofdagen,reviewed,hrms
+Maximum Consecutive Leaves Allowed,Maximaal toegestane aaneengesloten verlofdagen,reviewed,hrms
+Maximum Consecutive Leaves Exceeded,Maximaal aantal aaneengesloten verlofdagen overschreden.,reviewed,hrms
+Maximum Encashable Leaves,Maximaal uitbetaalbare verlofdagen,reviewed,hrms
+Maximum Exempted Amount,Maximaal vrijgesteld bedrag,reviewed,hrms
+Maximum Exemption Amount,Maximaal vrijstellingsbedrag,reviewed,hrms
+Maximum Leave Allocation Allowed per Leave Period,Maximale verloftoewijzing per verlofperiode,reviewed,hrms
+Maximum Overtime Hours Allowed,Maximaal toegestane overuren,reviewed,hrms
+Maximum Overtime Hours Allowed Per Day,Maximaal toegestane overuren per dag,reviewed,hrms
+Maximum annual taxable income eligible for full tax relief. No tax is applied if income does not exceed this limit,Maximaal jaarlijks belastbaar inkomen dat in aanmerking komt voor volledige belastingverlichting. Er wordt geen belasting geheven als het inkomen dit bedrag niet overschrijdt.,reviewed,hrms
+Maximum encashable leaves for {0} are {1},Het maximaal uitbetaalbare verlof voor {0} bedraagt {1} dagen.,reviewed,hrms
+Maximum leave allowed in the leave type {0} is {1},Het maximaal toegestane verlof voor verloftype {0} is {1} dagen.,reviewed,hrms
+May,Mei,reviewed,hrms
+Meal Preference,Maaltijdvoorkeur,reviewed,hrms
+Medical,Medisch,reviewed,hrms
+Mileage,Kilometerstand,reviewed,hrms
+Min Taxable Income,Minimaal belastbaar inkomen,reviewed,hrms
+Minimum Year for Gratuity,Minimaal aantal dienstjaren voor ontslagvergoeding,reviewed,hrms
+Minimum working days required since Date of Joining to apply for this leave,Minimumaantal werkdagen vereist vanaf de datum van indiensttreding om dit verlof aan te vragen.,reviewed,hrms
+Missing Advance Account,Voorschotrekening ontbreekt,reviewed,hrms
+Missing Mandatory Field,Verplicht veld ontbreekt,reviewed,hrms
+Missing Opening Entries,Ontbrekende openingsboekingen,reviewed,hrms
+Missing Relieving Date,Ontbrekende uitdienstdatum,reviewed,hrms
+Missing Salary Components,Ontbrekende salariscomponenten,reviewed,hrms
+Missing Tax Slab,Ontbrekende belastingschijf,reviewed,hrms
+Mode of Travel,Reiswijze,reviewed,hrms
+Mode of payment is required to make a payment,Een betaalwijze is vereist om een betaling te verwerken,reviewed,hrms
+Month To Date,Maand tot heden,reviewed,hrms
+Month To Date(Company Currency),Maand tot heden (bedrijfsvaluta),reviewed,hrms
+Monthly Attendance Sheet,Maandelijkse aanwezigheidsregistratie,reviewed,hrms
+More than one selection for {0} not allowed,Meer dan een selectie voor {0} is niet toegestaan,reviewed,hrms
+Multiple Additional Salaries with overwrite property exist for Salary Component {0} between {1} and {2}.,Er bestaan meerdere aanvullende salarissen met de eigenschap 'overschrijven' voor salariscomponent {0} tussen {1} en {2}.,reviewed,hrms
+Multiple Shift Assignments,Meerdere diensttoewijzingen,reviewed,hrms
 "Multipliers that adjust the hourly overtime amount for specific scenarios
 
-",,unreviewed,hrms
-My Advances,,unreviewed,hrms
-My Claims,,unreviewed,hrms
-My Leaves,,unreviewed,hrms
-My Requests,,unreviewed,hrms
-Name error,,unreviewed,hrms
-Name of Organizer,,unreviewed,hrms
-Net Pay,,unreviewed,hrms
-Net Pay (Company Currency),,unreviewed,hrms
-Net Pay Info,,unreviewed,hrms
-Net Pay cannot be less than 0,,unreviewed,hrms
-Net Salary Amount,,unreviewed,hrms
-Net pay cannot be negative,,unreviewed,hrms
-New Employee ID,,unreviewed,hrms
-New Expense Item,,unreviewed,hrms
-New Expense Tax,,unreviewed,hrms
-New Feedback,,unreviewed,hrms
-New Hires (This Month),,unreviewed,hrms
-New Leave(s) Allocated,,unreviewed,hrms
-New Leaves Allocated,,unreviewed,hrms
-New Leaves Allocated (In Days),,unreviewed,hrms
-New shift assignments will be created after this date.,,unreviewed,hrms
-No Bank/Cash Account found for currency {0}. Please create one under company {1}.,,unreviewed,hrms
-No Employee Found,,unreviewed,hrms
-No Employee found for the given employee field value. '{}': {},,unreviewed,hrms
-No Employees Selected,,unreviewed,hrms
-No Holiday List was found for Employee {0} or their company {1} for date {2}. Please assign through {3},,unreviewed,hrms
-No Interview has been scheduled.,,unreviewed,hrms
-No Leave Period Found,,unreviewed,hrms
-No Leaves Allocated to Employee: {0} for Leave Type: {1},,unreviewed,hrms
-No Salary Slip found for Employee: {0},,unreviewed,hrms
-No Salary Slips with {0} found for employee {1} for payroll period {2}.,,unreviewed,hrms
-No Salary Structure Assignment found for employee {0} on date {1},,unreviewed,hrms
-No Salary Structure Assignment found for employee {0} on or before {1},,unreviewed,hrms
-No Salary Structure assigned to Employee {0} on the given date {1},,unreviewed,hrms
-No Salary Structures,,unreviewed,hrms
-No Shift Requests Selected,,unreviewed,hrms
-No Staffing Plans found for this Designation,,unreviewed,hrms
-No active Salary Structure Assignment found for employee {0} with salary structure {1} on or after arrear start date {2},,unreviewed,hrms
-No active employee found associated with the email ID {0}. Try logging in with your employee email ID or contact your HR manager for access.,,unreviewed,hrms
-No active or default Salary Structure found for employee {0} for the given dates,,unreviewed,hrms
-No additional expenses has been added,,unreviewed,hrms
-No advances found,,unreviewed,hrms
-No applicable Earning component found in last salary slip for Gratuity Rule: {0},,unreviewed,hrms
-No applicable Earning components found for Gratuity Rule: {0},,unreviewed,hrms
-No applicable slab found for the calculation of gratuity amount as per the Gratuity Rule: {0},,unreviewed,hrms
-No arrear components found in the existing salary slips.,,unreviewed,hrms
-No arrear components found in the salary slip. Ensure Arrear Component is checked in the Salary Component master.,,unreviewed,hrms
-No arrear details found,,unreviewed,hrms
-No attendance records found for employee {0} between {1} and {2},,unreviewed,hrms
-No attendance records found for this criteria.,,unreviewed,hrms
-No attendance records found.,,unreviewed,hrms
-No attendance records to create,,unreviewed,hrms
-No changes found in timings.,,unreviewed,hrms
-No employees found,,unreviewed,hrms
-No employees found for the mentioned criteria:<br>Company: {0}<br> Currency: {1}<br>Payroll Payable Account: {2},,unreviewed,hrms
-No employees found for the selected criteria,,unreviewed,hrms
-No employees found with selected filters and active salary structure,,unreviewed,hrms
-No expenses added,,unreviewed,hrms
-No feedback has been received yet,,unreviewed,hrms
-No items selected,,unreviewed,hrms
-No leave allocation found for {0} for {1} on given date.,,unreviewed,hrms
-No leave record found for employee {0} on {1},,unreviewed,hrms
-No leaves have been allocated.,,unreviewed,hrms
-No login methods are available. Please contact your administrator.,,unreviewed,hrms
-No more updates,,unreviewed,hrms
-No of. Positions,,unreviewed,hrms
-No replies from,,unreviewed,hrms
-No salary slip found to submit for the above selected criteria OR salary slip already submitted,,unreviewed,hrms
-No salary slips found,,unreviewed,hrms
-No salary slips found for the selected employee from {0},,unreviewed,hrms
-No taxes added,,unreviewed,hrms
-No valid shift found for log time,,unreviewed,hrms
-No {0} Selected,,unreviewed,hrms
-No {0} added,,unreviewed,hrms
-Non Diary,,unreviewed,hrms
-Non Taxable Earnings,,unreviewed,hrms
-Non-Billed Hours,,unreviewed,hrms
-Non-Billed Hours (NB),,unreviewed,hrms
-Non-Encashable Leaves,,unreviewed,hrms
-Non-Vegetarian,,unreviewed,hrms
-Note: Shift will not be overwritten in existing attendance records,,unreviewed,hrms
-Note: Total allocated leaves {0} shouldn't be less than already approved leaves {1} for the period,,unreviewed,hrms
-"Note: Your salary slip is password protected, the password to unlock the PDF is of the format {0}.",,unreviewed,hrms
-Nothing to change,,unreviewed,hrms
-Notice Period,,unreviewed,hrms
-Notification Template,,unreviewed,hrms
-Notify users by email,,unreviewed,hrms
+","Vermenigvuldigers die het uurloon voor overwerk aanpassen voor specifieke situaties
+
+",reviewed,hrms
+My Advances,Mijn voorschotten,reviewed,hrms
+My Claims,Mijn declaraties,reviewed,hrms
+My Leaves,Mijn verlof,reviewed,hrms
+My Requests,Mijn aanvragen,reviewed,hrms
+Name error,Naamfout,reviewed,hrms
+Name of Organizer,Naam van de organisator,reviewed,hrms
+Net Pay,Nettoloon,reviewed,hrms
+Net Pay (Company Currency),Nettoloon (bedrijfsvaluta),reviewed,hrms
+Net Pay Info,Informatie nettoloon,reviewed,hrms
+Net Pay cannot be less than 0,Nettoloon kan niet minder dan 0 zijn,reviewed,hrms
+Net Salary Amount,Nettosalarisbedrag,reviewed,hrms
+Net pay cannot be negative,Nettoloon kan niet negatief zijn,reviewed,hrms
+New Employee ID,Nieuw werknemersnummer,reviewed,hrms
+New Expense Item,Nieuwe declaratieregel,reviewed,hrms
+New Expense Tax,Nieuwe declaratiebelasting,reviewed,hrms
+New Feedback,Nieuwe feedback,reviewed,hrms
+New Hires (This Month),Nieuwe medewerkers (deze maand),reviewed,hrms
+New Leave(s) Allocated,Nieuw verlof toegewezen,reviewed,hrms
+New Leaves Allocated,Nieuw verlof toegewezen,reviewed,hrms
+New Leaves Allocated (In Days),Nieuw verlof toegewezen (in dagen),reviewed,hrms
+New shift assignments will be created after this date.,Nieuwe diensttoewijzingen worden aangemaakt na deze datum.,reviewed,hrms
+No Bank/Cash Account found for currency {0}. Please create one under company {1}.,Geen bank- of kasrekening gevonden voor valuta {0}. Maak een rekening aan onder bedrijf {1}.,reviewed,hrms
+No Employee Found,Geen werknemer gevonden,reviewed,hrms
+No Employee found for the given employee field value. '{}': {},Geen werknemer gevonden voor de opgegeven veldwaarde. '{}': {},reviewed,hrms
+No Employees Selected,Geen werknemers geselecteerd,reviewed,hrms
+No Holiday List was found for Employee {0} or their company {1} for date {2}. Please assign through {3},Geen feestdagenlijst gevonden voor werknemer {0} of hun bedrijf {1} op datum {2}. Wijs er een toe via {3},reviewed,hrms
+No Interview has been scheduled.,Er is geen sollicitatiegesprek gepland.,reviewed,hrms
+No Leave Period Found,Geen verlofperiode gevonden,reviewed,hrms
+No Leaves Allocated to Employee: {0} for Leave Type: {1},Geen verlof toegewezen aan werknemer: {0} voor verloftype: {1},reviewed,hrms
+No Salary Slip found for Employee: {0},Geen salarisstrook gevonden voor werknemer: {0},reviewed,hrms
+No Salary Slips with {0} found for employee {1} for payroll period {2}.,Geen salarisstroken met {0} gevonden voor werknemer {1} voor salarisperiode {2}.,reviewed,hrms
+No Salary Structure Assignment found for employee {0} on date {1},Geen salarisstructuurtoewijzing gevonden voor werknemer {0} op datum {1},reviewed,hrms
+No Salary Structure Assignment found for employee {0} on or before {1},Geen salarisstructuurtoewijzing gevonden voor werknemer {0} op of voor {1},reviewed,hrms
+No Salary Structure assigned to Employee {0} on the given date {1},Geen salarisstructuur toegewezen aan werknemer {0} op de opgegeven datum {1},reviewed,hrms
+No Salary Structures,Geen salarisstructuren,reviewed,hrms
+No Shift Requests Selected,Geen dienstaanvragen geselecteerd,reviewed,hrms
+No Staffing Plans found for this Designation,Geen personeelsplannen gevonden voor deze functiebenaming,reviewed,hrms
+No active Salary Structure Assignment found for employee {0} with salary structure {1} on or after arrear start date {2},Geen actieve salarisstructuurtoewijzing gevonden voor werknemer {0} met salarisstructuur {1} op of na de begindatum van de nabetaling {2},reviewed,hrms
+No active employee found associated with the email ID {0}. Try logging in with your employee email ID or contact your HR manager for access.,Geen actieve werknemer gevonden gekoppeld aan het e-mailadres {0}. Probeer in te loggen met uw werknemers-e-mailadres of neem contact op met uw HR Manager voor toegang.,reviewed,hrms
+No active or default Salary Structure found for employee {0} for the given dates,Geen actieve of standaard salarisstructuur gevonden voor werknemer {0} voor de opgegeven datums,reviewed,hrms
+No additional expenses has been added,Er zijn geen aanvullende declaraties toegevoegd,reviewed,hrms
+No advances found,Geen voorschotten gevonden,reviewed,hrms
+No applicable Earning component found in last salary slip for Gratuity Rule: {0},Geen toepasselijk inkomstencomponent gevonden in de laatste salarisstrook voor gratificatieregel: {0},reviewed,hrms
+No applicable Earning components found for Gratuity Rule: {0},Geen toepasselijke inkomstencomponenten gevonden voor gratificatieregel: {0},reviewed,hrms
+No applicable slab found for the calculation of gratuity amount as per the Gratuity Rule: {0},Geen toepasselijke schijf gevonden voor de berekening van het gratificatiebedrag conform de gratificatieregel: {0},reviewed,hrms
+No arrear components found in the existing salary slips.,Geen nabetalingscomponenten gevonden in de bestaande salarisstroken.,reviewed,hrms
+No arrear components found in the salary slip. Ensure Arrear Component is checked in the Salary Component master.,Geen nabetalingscomponenten gevonden in de salarisstrook. Zorg dat de nabetalingscomponent is aangevinkt in het salariscomponentenstambestand.,reviewed,hrms
+No arrear details found,Geen nabetalingsdetails gevonden,reviewed,hrms
+No attendance records found for employee {0} between {1} and {2},Geen aanwezigheidsrecords gevonden voor werknemer {0} tussen {1} en {2},reviewed,hrms
+No attendance records found for this criteria.,Geen aanwezigheidsrecords gevonden voor deze criteria.,reviewed,hrms
+No attendance records found.,Geen aanwezigheidsrecords gevonden.,reviewed,hrms
+No attendance records to create,Geen aanwezigheidsrecords aan te maken,reviewed,hrms
+No changes found in timings.,Geen wijzigingen in tijden gevonden.,reviewed,hrms
+No employees found,Geen werknemers gevonden,reviewed,hrms
+No employees found for the mentioned criteria:<br>Company: {0}<br> Currency: {1}<br>Payroll Payable Account: {2},Geen werknemers gevonden voor de opgegeven criteria:<br>Bedrijf: {0}<br> Valuta: {1}<br>Te betalen salarisrekening: {2},reviewed,hrms
+No employees found for the selected criteria,Geen werknemers gevonden voor de geselecteerde criteria,reviewed,hrms
+No employees found with selected filters and active salary structure,Geen werknemers gevonden met de geselecteerde filters en een actieve salarisstructuur,reviewed,hrms
+No expenses added,Geen declaraties toegevoegd,reviewed,hrms
+No feedback has been received yet,Er is nog geen feedback ontvangen,reviewed,hrms
+No items selected,Geen items geselecteerd,reviewed,hrms
+No leave allocation found for {0} for {1} on given date.,Geen verlofallocatie gevonden voor {0} voor {1} op de opgegeven datum.,reviewed,hrms
+No leave record found for employee {0} on {1},Geen verlofrecord gevonden voor werknemer {0} op {1},reviewed,hrms
+No leaves have been allocated.,Er is geen verlof toegewezen.,reviewed,hrms
+No login methods are available. Please contact your administrator.,Er zijn geen inlogmethoden beschikbaar. Neem contact op met uw beheerder.,reviewed,hrms
+No more updates,Geen nieuwe updates,reviewed,hrms
+No of. Positions,Aantal posities,reviewed,hrms
+No replies from,Geen reacties van,reviewed,hrms
+No salary slip found to submit for the above selected criteria OR salary slip already submitted,"Geen salarisstrook gevonden om in te dienen voor de bovenstaande criteria, of de salarisstrook is al ingediend",reviewed,hrms
+No salary slips found,Geen salarisstroken gevonden,reviewed,hrms
+No salary slips found for the selected employee from {0},Geen salarisstroken gevonden voor de geselecteerde werknemer vanaf {0},reviewed,hrms
+No taxes added,Geen belastingen toegevoegd,reviewed,hrms
+No valid shift found for log time,Geen geldige dienst gevonden voor de registratietijd,reviewed,hrms
+No {0} Selected,Geen {0} geselecteerd,reviewed,hrms
+No {0} added,Geen {0} toegevoegd,reviewed,hrms
+Non Diary,Niet-agenda,reviewed,hrms
+Non Taxable Earnings,Onbelaste inkomsten,reviewed,hrms
+Non-Billed Hours,Niet-gefactureerde uren,reviewed,hrms
+Non-Billed Hours (NB),Niet-gefactureerde uren (NF),reviewed,hrms
+Non-Encashable Leaves,Niet-uitbetaalbaar verlof,reviewed,hrms
+Non-Vegetarian,Niet-vegetarisch,reviewed,hrms
+Note: Shift will not be overwritten in existing attendance records,Opmerking: de dienst wordt niet overschreven in bestaande aanwezigheidsrecords,reviewed,hrms
+Note: Total allocated leaves {0} shouldn't be less than already approved leaves {1} for the period,Opmerking: het totaal toegewezen verlof {0} mag niet minder zijn dan het al goedgekeurde verlof {1} voor de periode,reviewed,hrms
+"Note: Your salary slip is password protected, the password to unlock the PDF is of the format {0}.",Opmerking: uw salarisstrook is beveiligd met een wachtwoord. Het wachtwoord om de PDF te ontgrendelen heeft het formaat {0}.,reviewed,hrms
+Nothing to change,Niets te wijzigen,reviewed,hrms
+Notice Period,Opzegtermijn,reviewed,hrms
+Notification Template,Meldingssjabloon,reviewed,hrms
+Notify users by email,Gebruikers per e-mail informeren,reviewed,hrms
 Nov,,unreviewed,hrms
 Number Of Employees,,unreviewed,hrms
 Number Of Positions,,unreviewed,hrms

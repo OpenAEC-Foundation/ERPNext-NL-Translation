@@ -902,214 +902,214 @@ arrow-right,pijl-rechts,reviewed,frappe
 arrow-up,pijl-up,reviewed,frappe
 Article,Artikel,reviewed,erpnext
 "As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User.","Als een best practice , niet dezelfde set van toestemming regel op verschillende rollen toekennen. In plaats daarvan , stelt meerdere rollen aan dezelfde gebruiker .",reviewed,frappe
-As Examiner,Als examinator,unreviewed,erpnext
-as no Purchase Receipt is created against Item {}.,aangezien er geen aankoopbewijs wordt aangemaakt voor artikel {}.,unreviewed,erpnext
-As On Date,Op Date,unreviewed,erpnext
-As per rules 42 & 43 of CGST Rules,Volgens regels 42 en 43 van CGST-regels,unreviewed,erpnext
-As per section 17(5),Volgens sectie 17 (5),unreviewed,erpnext
-As per Stock UOM,Per Stock Verpakking,unreviewed,erpnext
-As Supervisor,Als supervisor,unreviewed,erpnext
-"As the field {0} is enabled, the field {1} is mandatory.","Aangezien het veld {0} is ingeschakeld, is het veld {1} verplicht.",unreviewed,erpnext
-"As the field {0} is enabled, the value of the field {1} should be more than 1.","Aangezien het veld {0} is ingeschakeld, moet de waarde van het veld {1} groter zijn dan 1.",unreviewed,erpnext
-"As there are existing transactions against item {0}, you can not change the value of {1}","Als er bestaande transacties tegen punt {0}, kunt u de waarde van het niet veranderen {1}",unreviewed,erpnext
-"As there are sufficient raw materials, Material Request is not required for Warehouse {0}.","Aangezien er voldoende grondstoffen zijn, is materiaalaanvraag niet vereist voor Warehouse {0}.",unreviewed,erpnext
-as {} in {},als in {},unreviewed,erpnext
-Assessment,Beoordeling,unreviewed,erpnext
-Assessment  Manager,Assessment Manager,unreviewed,erpnext
-Assessment  Mark (Out of 10),Beoordelingstabel (van de 10),unreviewed,erpnext
-Assessment Criteria,Beoordelingscriteria,unreviewed,erpnext
-Assessment Criteria Group,Beoordelingscriteria Group,unreviewed,erpnext
-Assessment Datetime,Beoordeling datetime,unreviewed,erpnext
-Assessment Description,Beoordeling Beschrijving,unreviewed,erpnext
-Assessment Group,assessment Group,unreviewed,erpnext
-Assessment Group:,Evaluatiegroep:,unreviewed,erpnext
-Assessment Name,assessment Naam,unreviewed,erpnext
-Assessment Parameter,Beoordelingsparameter,unreviewed,erpnext
-Assessment Parameters,Beoordelingsparameters,unreviewed,erpnext
-Assessment Plan Name,Beoordeling plannaam,unreviewed,erpnext
-Assessment Plan Status,Beoordelingsplan Status,unreviewed,erpnext
-Assessment Report,Beoordelingsverslag,unreviewed,erpnext
-Assessment Reports,Beoordelingsrapporten,unreviewed,erpnext
-Assessment Result,assessment Resultaat,unreviewed,erpnext
-Assessment Result Detail,Assessment Resultaat Detail,unreviewed,erpnext
-Assessment Result record {0} already exists.,Beoordeling Resultaat record {0} bestaat al.,unreviewed,erpnext
-Assessment Scale,Beoordelingsschaal,unreviewed,erpnext
-Assessment Sheet,Beoordelingsblad,unreviewed,erpnext
-Assessment Template,Beoordelingssjabloon,unreviewed,erpnext
-Assessment Terms,Beoordelingsvoorwaarden,unreviewed,erpnext
-Assessments,Beoordelingen,unreviewed,erpnext
-Asset,aanwinst,unreviewed,erpnext
-Asset Account,ActivAccount,unreviewed,erpnext
+As Examiner,Als examinator,reviewed,erpnext
+as no Purchase Receipt is created against Item {}.,aangezien er geen aankoopbewijs wordt aangemaakt voor artikel {}.,reviewed,erpnext
+As On Date,Per datum,reviewed,erpnext
+As per rules 42 & 43 of CGST Rules,Volgens regels 42 en 43 van CGST-regels,reviewed,erpnext
+As per section 17(5),Volgens sectie 17 (5),reviewed,erpnext
+As per Stock UOM,Per voorraadeenheid,reviewed,erpnext
+As Supervisor,Als supervisor,reviewed,erpnext
+"As the field {0} is enabled, the field {1} is mandatory.","Aangezien het veld {0} is ingeschakeld, is het veld {1} verplicht.",reviewed,erpnext
+"As the field {0} is enabled, the value of the field {1} should be more than 1.","Aangezien het veld {0} is ingeschakeld, moet de waarde van het veld {1} groter zijn dan 1.",reviewed,erpnext
+"As there are existing transactions against item {0}, you can not change the value of {1}","Aangezien er bestaande transacties zijn voor artikel {0}, kunt u de waarde van {1} niet wijzigen",reviewed,erpnext
+"As there are sufficient raw materials, Material Request is not required for Warehouse {0}.","Aangezien er voldoende grondstoffen zijn, is een materiaalaanvraag niet vereist voor magazijn {0}.",reviewed,erpnext
+as {} in {},als {} in {},reviewed,erpnext
+Assessment,Beoordeling,reviewed,erpnext
+Assessment  Manager,Beoordelingsmanager,reviewed,erpnext
+Assessment  Mark (Out of 10),Beoordelingscijfer (van 10),reviewed,erpnext
+Assessment Criteria,Beoordelingscriteria,reviewed,erpnext
+Assessment Criteria Group,Beoordelingscriteriagroep,reviewed,erpnext
+Assessment Datetime,Beoordelingsdatum en -tijd,reviewed,erpnext
+Assessment Description,Beoordelingsomschrijving,reviewed,erpnext
+Assessment Group,Beoordelingsgroep,reviewed,erpnext
+Assessment Group:,Beoordelingsgroep:,reviewed,erpnext
+Assessment Name,Beoordelingsnaam,reviewed,erpnext
+Assessment Parameter,Beoordelingsparameter,reviewed,erpnext
+Assessment Parameters,Beoordelingsparameters,reviewed,erpnext
+Assessment Plan Name,Naam beoordelingsplan,reviewed,erpnext
+Assessment Plan Status,Status beoordelingsplan,reviewed,erpnext
+Assessment Report,Beoordelingsrapport,reviewed,erpnext
+Assessment Reports,Beoordelingsrapporten,reviewed,erpnext
+Assessment Result,Beoordelingsresultaat,reviewed,erpnext
+Assessment Result Detail,Beoordelingsresultaat detail,reviewed,erpnext
+Assessment Result record {0} already exists.,Beoordelingsresultaat {0} bestaat al.,reviewed,erpnext
+Assessment Scale,Beoordelingsschaal,reviewed,erpnext
+Assessment Sheet,Beoordelingsblad,reviewed,erpnext
+Assessment Template,Beoordelingssjabloon,reviewed,erpnext
+Assessment Terms,Beoordelingsvoorwaarden,reviewed,erpnext
+Assessments,Beoordelingen,reviewed,erpnext
+Asset,Activum,reviewed,erpnext
+Asset Account,Activarekening,reviewed,erpnext
 Asset Activity,Activa activiteit,reviewed,custom
-"Asset cannot be cancelled, as it is already {0}","Asset kan niet worden geannuleerd, want het is al {0}",unreviewed,erpnext
+"Asset cannot be cancelled, as it is already {0}","Activum kan niet worden geannuleerd, want het is al {0}",reviewed,erpnext
 Asset Capitalization,Activering,reviewed,custom
-Asset Category,Asset Categorie,unreviewed,erpnext
-Asset Category Account,Asset Categorie Account,unreviewed,erpnext
-Asset Category is mandatory for Fixed Asset item,Asset Categorie is verplicht voor post der vaste activa,unreviewed,erpnext
-Asset Category Name,Asset Categorie Naam,unreviewed,erpnext
-Asset Depreciation Cost Center,Asset Afschrijvingen kostenplaats,unreviewed,erpnext
-Asset Depreciation Ledger,Asset Afschrijvingen Ledger,unreviewed,erpnext
+Asset Category,Activacategorie,reviewed,erpnext
+Asset Category Account,Activacategorierekening,reviewed,erpnext
+Asset Category is mandatory for Fixed Asset item,Activacategorie is verplicht voor vaste-activapost,reviewed,erpnext
+Asset Category Name,Naam activacategorie,reviewed,erpnext
+Asset Depreciation Cost Center,Kostenplaats activaafschrijving,reviewed,erpnext
+Asset Depreciation Ledger,Grootboek activaafschrijving,reviewed,erpnext
 Asset Depreciation Schedule,Afschrijvingsschema,reviewed,custom
-Asset Depreciations and Balances,Asset Afschrijvingen en Weegschalen,unreviewed,erpnext
-Asset Details,Activadetails,unreviewed,erpnext
-Asset Id,Activa-ID,unreviewed,erpnext
-Asset Location,Activa locatie,unreviewed,erpnext
+Asset Depreciations and Balances,Activaafschrijvingen en saldi,reviewed,erpnext
+Asset Details,Activadetails,reviewed,erpnext
+Asset Id,Activa-ID,reviewed,erpnext
+Asset Location,Activalocatie,reviewed,erpnext
 Asset Maintenance,Activa onderhoud,reviewed,erpnext
 Asset Maintenance Log,Activa onderhoudslog,reviewed,erpnext
 Asset Maintenance Team,Activa onderhoudsteam,reviewed,custom
-Asset Movement Item,Item itembeweging,unreviewed,erpnext
-Asset Movement record {0} created,Asset bewegingsartikel {0} aangemaakt,unreviewed,erpnext
-Asset Name,Asset Naam,unreviewed,erpnext
-Asset Owner,Activa-eigenaar,unreviewed,erpnext
-Asset Received But Not Billed,Activum ontvangen maar niet gefactureerd,unreviewed,erpnext
+Asset Movement Item,Activabewegingspost,reviewed,erpnext
+Asset Movement record {0} created,Activabeweging {0} aangemaakt,reviewed,erpnext
+Asset Name,Activanaam,reviewed,erpnext
+Asset Owner,Activaeigenaar,reviewed,erpnext
+Asset Received But Not Billed,Activum ontvangen maar niet gefactureerd,reviewed,erpnext
 Asset Repair,Activa reparatie,reviewed,erpnext
-Asset scrapped via Journal Entry {0},Asset gesloopt via Journal Entry {0},unreviewed,erpnext
+Asset scrapped via Journal Entry {0},Activum gesloopt via journaalboeking {0},reviewed,erpnext
 Asset Shift Allocation,Activa diensttoewijzing,reviewed,custom
 Asset Shift Factor,Activa dienstfactor,reviewed,custom
-Asset Status,Activumstatus,unreviewed,erpnext
-Asset Value,Activa waarde,unreviewed,erpnext
+Asset Status,Activumstatus,reviewed,erpnext
+Asset Value,Activawaarde,reviewed,erpnext
 Asset Value Adjustment,Activa waardecorrectie,reviewed,erpnext
-Asset Value Adjustment cannot be posted before Asset's purchase date <b>{0}</b>.,De aanpassing van de activawaarde kan niet worden geboekt vóór de aankoopdatum van het activum <b>{0}</b> .,unreviewed,erpnext
-"Asset {0} cannot be scrapped, as it is already {1}","Asset {0} kan niet worden gesloopt, want het is al {1}",unreviewed,erpnext
-Asset {0} does not belong to company {1},Asset {0} niet behoort tot bedrijf {1},unreviewed,erpnext
-Asset {0} does not belongs to the custodian {1},Activa {0} behoort niet tot de bewaarder {1},unreviewed,erpnext
-Asset {0} does not belongs to the location {1},Activa {0} behoort niet tot de locatie {1},unreviewed,erpnext
-Asset {0} must be submitted,Asset {0} moet worden ingediend,unreviewed,erpnext
-Assets,Middelen,unreviewed,erpnext
-Assets not created for {0}. You will have to create asset manually.,Activa niet gemaakt voor {0}. U moet een activum handmatig maken.,unreviewed,erpnext
-Asset{} {assets_link} created for {},Item {} {assets_link} gemaakt voor {},unreviewed,erpnext
-Assign,Toewijzen,unreviewed,frappe
-Assign Condition,Toestand toewijzen,unreviewed,frappe
-"Assign one by one, in sequence",Wijs een voor een na elkaar toe,unreviewed,frappe
+Asset Value Adjustment cannot be posted before Asset's purchase date <b>{0}</b>.,De aanpassing van de activawaarde kan niet worden geboekt vóór de aankoopdatum van het activum <b>{0}</b> .,reviewed,erpnext
+"Asset {0} cannot be scrapped, as it is already {1}","Activum {0} kan niet worden gesloopt, want het is al {1}",reviewed,erpnext
+Asset {0} does not belong to company {1},Activum {0} behoort niet tot bedrijf {1},reviewed,erpnext
+Asset {0} does not belongs to the custodian {1},Activum {0} behoort niet toe aan bewaarder {1},reviewed,erpnext
+Asset {0} does not belongs to the location {1},Activum {0} behoort niet tot locatie {1},reviewed,erpnext
+Asset {0} must be submitted,Activum {0} moet worden ingediend,reviewed,erpnext
+Assets,Activa,reviewed,erpnext
+Assets not created for {0}. You will have to create asset manually.,Activa niet aangemaakt voor {0}. U moet het activum handmatig aanmaken.,reviewed,erpnext
+Asset{} {assets_link} created for {},Item {} {assets_link} gemaakt voor {},reviewed,erpnext
+Assign,Toewijzen,reviewed,frappe
+Assign Condition,Toewijzingsvoorwaarde,reviewed,frappe
+"Assign one by one, in sequence",Wijs een voor een na elkaar toe,reviewed,frappe
 Assign To,Toewijzen aan,reviewed,both
-Assign to me,Toewijzen aan mij,unreviewed,frappe
-Assign To Name,Toewijzen aan naam,unreviewed,erpnext
-Assign to Name,Toewijzen aan naam,unreviewed,erpnext
-Assign to the one who has the least assignments,Wijs toe aan degene die de minste opdrachten heeft,unreviewed,frappe
-Assign to the user set in this field,Wijs toe aan de gebruikersset in dit veld,unreviewed,frappe
-Assign To Users,Toewijzen aan gebruikers,unreviewed,frappe
-Assigned,toegewezen,unreviewed,frappe
-Assigned By,Toegewezen door,unreviewed,frappe
-Assigned By Full Name,In opdracht van volledige naam,unreviewed,frappe
-Assigned By Me,Toegewezen By Me,unreviewed,frappe
-Assigned To,Toegewezen Aan,unreviewed,both
-Assigned To/Owner,Toegewezen aan / Eigenaar,unreviewed,frappe
-Assignment,toewijzing,unreviewed,frappe
-Assignment closed by {0},Opdracht gesloten door {0},unreviewed,frappe
-Assignment Complete,Opdracht Compleet,unreviewed,frappe
-Assignment Completed,opdracht voltooid,unreviewed,frappe
-Assignment Day {0} has been repeated.,Toewijzingsdag {0} is herhaald.,unreviewed,frappe
-Assignment Days,Opdrachtdagen,unreviewed,frappe
-Assignment for {0} {1},Toewijzing voor {0} {1},unreviewed,frappe
-Assignment Rule,Toewijzingsregel,unreviewed,frappe
-Assignment Rule Day,Dag van de opdrachtregel,unreviewed,frappe
-Assignment Rule User,Toewijzingsregel Gebruiker,unreviewed,frappe
-Assignment Rules,Opdrachtregels,unreviewed,frappe
-Assignment Update on {0},Opdrachtupdate op {0},unreviewed,frappe
-Assignments,opdrachten,unreviewed,frappe
-Assistance Level,Ondersteuningsniveau,unreviewed,erpnext
-Associate,Associëren,unreviewed,erpnext
-asterisk,sterretje,unreviewed,frappe
-At least one mode of payment is required for POS invoice.,Ten minste één wijze van betaling is vereist voor POS factuur.,unreviewed,erpnext
-At least one of the Applicable Modules should be selected,Ten minste een van de toepasselijke modules moet worden geselecteerd,unreviewed,erpnext
-At row #{0}: the sequence id {1} cannot be less than previous row sequence id {2},Op rij # {0}: de reeks-ID {1} mag niet kleiner zijn dan de vorige rij-reeks-ID {2},unreviewed,erpnext
-Atleast one asset has to be selected.,Minstens één activum moet worden geselecteerd.,unreviewed,erpnext
-Atleast one field of Parent Document Type is mandatory,Ten minste één veld van bovenliggend documenttype is verplicht,unreviewed,frappe
-Atleast one invoice has to be selected.,Er moet minimaal één factuur worden geselecteerd.,unreviewed,erpnext
-Atleast one item should be entered with negative quantity in return document,Minstens één punt moet in ruil document worden ingevoerd met een negatieve hoeveelheid,unreviewed,erpnext
-Atleast one of the Selling or Buying must be selected,Tenminste een van de verkopen of aankopen moeten worden gekozen,unreviewed,erpnext
-Atleast one warehouse is mandatory,Tenminste een magazijn is verplicht,unreviewed,erpnext
-Attach,Hechten,unreviewed,frappe
-"Attach .csv file with two columns, one for the old name and one for the new name","Bevestig .csv-bestand met twee kolommen, één voor de oude naam en één voor de nieuwe naam",unreviewed,erpnext
-Attach a web link,Voeg een weblink toe,unreviewed,frappe
-Attach custom Chart of Accounts file,Voeg een aangepast rekeningschema toe,unreviewed,erpnext
-Attach Document Print,Bevestig Document Print,unreviewed,frappe
-Attach File,Bijlage,unreviewed,frappe
-Attach file,Bijlage,unreviewed,frappe
-Attach file for Import,Bestand bijvoegen voor importeren,unreviewed,frappe
-Attach files / urls and add in table.,Voeg bestanden / urls toe en voeg in de tabel toe.,unreviewed,frappe
-Attach Image,Bevestig Afbeelding,unreviewed,frappe
-Attach Logo,Bevestig Logo,unreviewed,erpnext
-Attach Medical Record,Voeg medisch dossier bij,unreviewed,erpnext
-Attach Print,Bevestig Print,unreviewed,frappe
-Attach Your Picture,Voeg uw foto toe,unreviewed,frappe
+Assign to me,Toewijzen aan mij,reviewed,frappe
+Assign To Name,Naam toegewezene,reviewed,erpnext
+Assign to Name,Naam toegewezene,reviewed,erpnext
+Assign to the one who has the least assignments,Wijs toe aan degene die de minste opdrachten heeft,reviewed,frappe
+Assign to the user set in this field,Wijs toe aan de gebruiker ingesteld in dit veld,reviewed,frappe
+Assign To Users,Toewijzen aan gebruikers,reviewed,frappe
+Assigned,Toegewezen,reviewed,frappe
+Assigned By,Toegewezen door,reviewed,frappe
+Assigned By Full Name,Volledige naam van toegewezen door,reviewed,frappe
+Assigned By Me,Door mij toegewezen,reviewed,frappe
+Assigned To,Toegewezen aan,reviewed,both
+Assigned To/Owner,Toegewezen aan/eigenaar,reviewed,frappe
+Assignment,Toewijzing,reviewed,frappe
+Assignment closed by {0},Toewijzing gesloten door {0},reviewed,frappe
+Assignment Complete,Toewijzing voltooid,reviewed,frappe
+Assignment Completed,Toewijzing voltooid,reviewed,frappe
+Assignment Day {0} has been repeated.,Toewijzingsdag {0} is herhaald.,reviewed,frappe
+Assignment Days,Toewijzingsdagen,reviewed,frappe
+Assignment for {0} {1},Toewijzing voor {0} {1},reviewed,frappe
+Assignment Rule,Toewijzingsregel,reviewed,frappe
+Assignment Rule Day,Dag van de opdrachtregel,reviewed,frappe
+Assignment Rule User,Toewijzingsregel Gebruiker,reviewed,frappe
+Assignment Rules,Opdrachtregels,reviewed,frappe
+Assignment Update on {0},Opdrachtupdate op {0},reviewed,frappe
+Assignments,opdrachten,reviewed,frappe
+Assistance Level,Ondersteuningsniveau,reviewed,erpnext
+Associate,Associëren,reviewed,erpnext
+asterisk,sterretje,reviewed,frappe
+At least one mode of payment is required for POS invoice.,Ten minste één wijze van betaling is vereist voor POS factuur.,reviewed,erpnext
+At least one of the Applicable Modules should be selected,Ten minste een van de toepasselijke modules moet worden geselecteerd,reviewed,erpnext
+At row #{0}: the sequence id {1} cannot be less than previous row sequence id {2},Op rij # {0}: de reeks-ID {1} mag niet kleiner zijn dan de vorige rij-reeks-ID {2},reviewed,erpnext
+Atleast one asset has to be selected.,Minstens één activum moet worden geselecteerd.,reviewed,erpnext
+Atleast one field of Parent Document Type is mandatory,Ten minste één veld van bovenliggend documenttype is verplicht,reviewed,frappe
+Atleast one invoice has to be selected.,Er moet minimaal één factuur worden geselecteerd.,reviewed,erpnext
+Atleast one item should be entered with negative quantity in return document,Minstens één punt moet in ruil document worden ingevoerd met een negatieve hoeveelheid,reviewed,erpnext
+Atleast one of the Selling or Buying must be selected,Tenminste een van de verkopen of aankopen moeten worden gekozen,reviewed,erpnext
+Atleast one warehouse is mandatory,Tenminste een magazijn is verplicht,reviewed,erpnext
+Attach,Hechten,reviewed,frappe
+"Attach .csv file with two columns, one for the old name and one for the new name","Bevestig .csv-bestand met twee kolommen, één voor de oude naam en één voor de nieuwe naam",reviewed,erpnext
+Attach a web link,Voeg een weblink toe,reviewed,frappe
+Attach custom Chart of Accounts file,Voeg een aangepast rekeningschema toe,reviewed,erpnext
+Attach Document Print,Bevestig Document Print,reviewed,frappe
+Attach File,Bijlage,reviewed,frappe
+Attach file,Bijlage,reviewed,frappe
+Attach file for Import,Bestand bijvoegen voor importeren,reviewed,frappe
+Attach files / urls and add in table.,Voeg bestanden / urls toe en voeg in de tabel toe.,reviewed,frappe
+Attach Image,Bevestig Afbeelding,reviewed,frappe
+Attach Logo,Bevestig Logo,reviewed,erpnext
+Attach Medical Record,Voeg medisch dossier bij,reviewed,erpnext
+Attach Print,Bevestig Print,reviewed,frappe
+Attach Your Picture,Voeg uw foto toe,reviewed,frappe
 Attached,Bijgevoegd,reviewed,custom
-Attached File,Bijgevoegd bestand,unreviewed,frappe
-Attached To DocType,Bijlage Aan DocType,unreviewed,frappe
-Attached To Field,Bijgevoegd aan veld,unreviewed,frappe
-Attached To Name,Gehecht Aan Naam,unreviewed,frappe
+Attached File,Bijgevoegd bestand,reviewed,frappe
+Attached To DocType,Bijlage Aan DocType,reviewed,frappe
+Attached To Field,Bijgevoegd aan veld,reviewed,frappe
+Attached To Name,Gehecht Aan Naam,reviewed,frappe
 Attachment,Bijlage,reviewed,both
-Attachment Link,Bijlage Link,unreviewed,frappe
-Attachment Removed,Attachment verwijderd,unreviewed,frappe
-Attachments,Toebehoren,unreviewed,both
-Attempting Connection to QZ Tray...,Poging tot verbinding met QZ-lade ...,unreviewed,frappe
-Attempting to launch QZ Tray...,Poging om QZ-lade te starten ...,unreviewed,frappe
-Attendance and Leave Details,Aanwezigheids- en verlofdetails,unreviewed,erpnext
-Attendance Based On,Aanwezigheid gebaseerd op,unreviewed,erpnext
-Attendance can not be marked for future dates,Aanwezigheid kan niet aangemerkt worden voor toekomstige data,unreviewed,erpnext
-Attendance cannot be marked for future dates.,Aanwezigheid kan niet worden gemarkeerd voor toekomstige datums.,unreviewed,erpnext
-Attendance cannot be marked outside of Academic Year {0},Aanwezigheid kan niet worden beoordeeld buiten het academische jaar {0},unreviewed,erpnext
-Attendance date can not be less than employee's joining date,Aanwezigheid datum kan niet lager zijn dan het samenvoegen van de datum werknemer zijn,unreviewed,erpnext
-Attendance Device ID (Biometric/RF tag ID),Aanwezigheidsapparaat-ID (biometrische / RF-tag-ID),unreviewed,erpnext
-Attendance for employee {0} is already marked,Aanwezigheid voor werknemer {0} is al gemarkeerd,unreviewed,erpnext
-Attendance Freeze Date,Bijwonen Vries Datum,unreviewed,erpnext
-Attendance has been marked successfully.,Aanwezigheid is met succes gemarkeerd.,unreviewed,erpnext
-Attendance not submitted for {0} as {1} on leave.,Aanwezigheid niet ingediend voor {0} als {1} bij verlof.,unreviewed,erpnext
-Attended by Parents,Bijgewoond door ouders,unreviewed,erpnext
-Attribute,Attribuut,unreviewed,erpnext
-Attribute Name,Attribuutnaam,unreviewed,erpnext
-Attribute table is mandatory,Attributentabel is verplicht,unreviewed,erpnext
-Attribute Value,Eigenschap Waarde,unreviewed,erpnext
-Attribute {0} selected multiple times in Attributes Table,Kenmerk {0} meerdere keren geselecteerd in Attributes Tabel,unreviewed,erpnext
-Attributes,Attributen,unreviewed,erpnext
-Auditor,Revisor,unreviewed,erpnext
-August,augustus,unreviewed,erpnext
-Auth Token,Verificatie-token,unreviewed,frappe
-Auth URL Data,Auth URL-gegevens,unreviewed,frappe
-Authenticating...,Verifiëren ...,unreviewed,frappe
-Authentication,authenticatie,unreviewed,frappe
-Authentication Apps you can use are:,Authenticatie Apps die u kunt gebruiken zijn:,unreviewed,frappe
-Authentication Credentials,Verificatiegegevens,unreviewed,frappe
-Authentication Failed,Verificatie mislukt,unreviewed,erpnext
-Authentication failed while receiving emails from Email Account: {0}.,Verificatie mislukt tijdens het ontvangen van e-mails van e-mailaccount: {0}.,unreviewed,frappe
-Author,Auteur,unreviewed,frappe
-Authorised By,Geautoriseerd door,unreviewed,erpnext
-Authorization Code,Authorisatie Code,unreviewed,frappe
-Authorization Control,Autorisatie controle,unreviewed,erpnext
-Authorization Endpoint,Autorisatie-eindpunt,unreviewed,erpnext
+Attachment Link,Bijlage Link,reviewed,frappe
+Attachment Removed,Attachment verwijderd,reviewed,frappe
+Attachments,Toebehoren,reviewed,both
+Attempting Connection to QZ Tray...,Poging tot verbinding met QZ-lade ...,reviewed,frappe
+Attempting to launch QZ Tray...,Poging om QZ-lade te starten ...,reviewed,frappe
+Attendance and Leave Details,Aanwezigheids- en verlofdetails,reviewed,erpnext
+Attendance Based On,Aanwezigheid gebaseerd op,reviewed,erpnext
+Attendance can not be marked for future dates,Aanwezigheid kan niet aangemerkt worden voor toekomstige data,reviewed,erpnext
+Attendance cannot be marked for future dates.,Aanwezigheid kan niet worden gemarkeerd voor toekomstige datums.,reviewed,erpnext
+Attendance cannot be marked outside of Academic Year {0},Aanwezigheid kan niet worden beoordeeld buiten het academische jaar {0},reviewed,erpnext
+Attendance date can not be less than employee's joining date,Aanwezigheid datum kan niet lager zijn dan het samenvoegen van de datum werknemer zijn,reviewed,erpnext
+Attendance Device ID (Biometric/RF tag ID),Aanwezigheidsapparaat-ID (biometrische / RF-tag-ID),reviewed,erpnext
+Attendance for employee {0} is already marked,Aanwezigheid voor werknemer {0} is al gemarkeerd,reviewed,erpnext
+Attendance Freeze Date,Bijwonen Vries Datum,reviewed,erpnext
+Attendance has been marked successfully.,Aanwezigheid is met succes gemarkeerd.,reviewed,erpnext
+Attendance not submitted for {0} as {1} on leave.,Aanwezigheid niet ingediend voor {0} als {1} bij verlof.,reviewed,erpnext
+Attended by Parents,Bijgewoond door ouders,reviewed,erpnext
+Attribute,Attribuut,reviewed,erpnext
+Attribute Name,Attribuutnaam,reviewed,erpnext
+Attribute table is mandatory,Attributentabel is verplicht,reviewed,erpnext
+Attribute Value,Eigenschap Waarde,reviewed,erpnext
+Attribute {0} selected multiple times in Attributes Table,Kenmerk {0} meerdere keren geselecteerd in Attributes Tabel,reviewed,erpnext
+Attributes,Attributen,reviewed,erpnext
+Auditor,Revisor,reviewed,erpnext
+August,augustus,reviewed,erpnext
+Auth Token,Verificatie-token,reviewed,frappe
+Auth URL Data,Auth URL-gegevens,reviewed,frappe
+Authenticating...,Verifiëren ...,reviewed,frappe
+Authentication,authenticatie,reviewed,frappe
+Authentication Apps you can use are:,Authenticatie Apps die u kunt gebruiken zijn:,reviewed,frappe
+Authentication Credentials,Verificatiegegevens,reviewed,frappe
+Authentication Failed,Verificatie mislukt,reviewed,erpnext
+Authentication failed while receiving emails from Email Account: {0}.,Verificatie mislukt tijdens het ontvangen van e-mails van e-mailaccount: {0}.,reviewed,frappe
+Author,Auteur,reviewed,frappe
+Authorised By,Geautoriseerd door,reviewed,erpnext
+Authorization Code,Authorisatie Code,reviewed,frappe
+Authorization Control,Autorisatie controle,reviewed,erpnext
+Authorization Endpoint,Autorisatie-eindpunt,reviewed,erpnext
 Authorization Rule,Autorisatieregel,reviewed,erpnext
-Authorization Settings,Autorisatie-instellingen,unreviewed,erpnext
-Authorization URL,Autorisatie-URL,unreviewed,erpnext
-Authorize API Indexing  Access,Autoriseer API Indexing Access,unreviewed,frappe
-Authorize Google Calendar Access,Google Agenda-toegang autoriseren,unreviewed,frappe
-Authorize Google Contacts Access,Autoriseer Google Contacten Toegang,unreviewed,frappe
-Authorize Google Drive Access,Autoriseer Google Drive Access,unreviewed,frappe
-Authorize URL,Autoriseer URL,unreviewed,frappe
-Authorized,geautoriseerde,unreviewed,frappe
-Authorized Signatory,Geautoriseerd ondertekenaar,unreviewed,erpnext
-Auto assignment failed: {0},Automatische toewijzing mislukt: {0},unreviewed,frappe
-Auto close Issue after 7 days,Auto dicht Issue na 7 dagen,unreviewed,erpnext
-Auto close Opportunity after the no. of days mentioned above,Opportunity automatisch sluiten na de nr. van bovengenoemde dagen,unreviewed,erpnext
-Auto Create Assets on Purchase,Activa automatisch aanmaken bij aankoop,unreviewed,erpnext
-Auto Created,Auto gemaakt,unreviewed,erpnext
-Auto Fetch,Automatisch ophalen,unreviewed,erpnext
-Auto Insert Price List Rate If Missing,Prijslijst automatisch invoegen indien ontbreekt,unreviewed,erpnext
-Auto Material Request,Automatisch Materiaal Request,unreviewed,erpnext
-Auto Material Requests Generated,Auto Materiaal Verzoeken Vernieuwd,unreviewed,erpnext
-Auto Name,Auto Naam,unreviewed,frappe
-Auto Opt In (For all customers),Auto Opt In (voor alle klanten),unreviewed,erpnext
-Auto Repeat,Auto herhalen,unreviewed,both
-Auto Repeat created for this document,Auto Repeat gemaakt voor dit document,unreviewed,frappe
-Auto Repeat Detail,Detail van automatische herhaling,unreviewed,erpnext
-Auto Repeat Document Creation Failed,Automatisch herhalen van documenten mislukt,unreviewed,frappe
-Auto Repeat Document Creation Failure,Automatisch herhalen mislukt document maken,unreviewed,frappe
-Auto repeat document updated,Automatisch herhaalde document bijgewerkt,unreviewed,erpnext
-Auto Repeat failed for {0},Automatisch herhalen is mislukt voor {0},unreviewed,frappe
-Auto Reply Message,Automatisch Antwoord,unreviewed,frappe
-Automate Appointment Invoicing,Automatiseer de facturering van afspraken,unreviewed,erpnext
-Automatic Linking can be activated only for one Email Account.,Automatisch koppelen kan slechts voor één e-mailaccount worden geactiveerd.,unreviewed,frappe
-Automatic Linking can be activated only if Incoming is enabled.,Automatisch koppelen kan alleen worden geactiveerd als Inkomend is ingeschakeld.,unreviewed,frappe
-Automatic Reconciliation,Automatische afstemming,unreviewed,erpnext
+Authorization Settings,Autorisatie-instellingen,reviewed,erpnext
+Authorization URL,Autorisatie-URL,reviewed,erpnext
+Authorize API Indexing  Access,Autoriseer API Indexing Access,reviewed,frappe
+Authorize Google Calendar Access,Google Agenda-toegang autoriseren,reviewed,frappe
+Authorize Google Contacts Access,Autoriseer Google Contacten Toegang,reviewed,frappe
+Authorize Google Drive Access,Autoriseer Google Drive Access,reviewed,frappe
+Authorize URL,Autoriseer URL,reviewed,frappe
+Authorized,geautoriseerde,reviewed,frappe
+Authorized Signatory,Geautoriseerd ondertekenaar,reviewed,erpnext
+Auto assignment failed: {0},Automatische toewijzing mislukt: {0},reviewed,frappe
+Auto close Issue after 7 days,Auto dicht Issue na 7 dagen,reviewed,erpnext
+Auto close Opportunity after the no. of days mentioned above,Opportunity automatisch sluiten na de nr. van bovengenoemde dagen,reviewed,erpnext
+Auto Create Assets on Purchase,Activa automatisch aanmaken bij aankoop,reviewed,erpnext
+Auto Created,Auto gemaakt,reviewed,erpnext
+Auto Fetch,Automatisch ophalen,reviewed,erpnext
+Auto Insert Price List Rate If Missing,Prijslijst automatisch invoegen indien ontbreekt,reviewed,erpnext
+Auto Material Request,Automatisch Materiaal Request,reviewed,erpnext
+Auto Material Requests Generated,Auto Materiaal Verzoeken Vernieuwd,reviewed,erpnext
+Auto Name,Auto Naam,reviewed,frappe
+Auto Opt In (For all customers),Auto Opt In (voor alle klanten),reviewed,erpnext
+Auto Repeat,Auto herhalen,reviewed,both
+Auto Repeat created for this document,Auto Repeat gemaakt voor dit document,reviewed,frappe
+Auto Repeat Detail,Detail van automatische herhaling,reviewed,erpnext
+Auto Repeat Document Creation Failed,Automatisch herhalen van documenten mislukt,reviewed,frappe
+Auto Repeat Document Creation Failure,Automatisch herhalen mislukt document maken,reviewed,frappe
+Auto repeat document updated,Automatisch herhaalde document bijgewerkt,reviewed,erpnext
+Auto Repeat failed for {0},Automatisch herhalen is mislukt voor {0},reviewed,frappe
+Auto Reply Message,Automatisch Antwoord,reviewed,frappe
+Automate Appointment Invoicing,Automatiseer de facturering van afspraken,reviewed,erpnext
+Automatic Linking can be activated only for one Email Account.,Automatisch koppelen kan slechts voor één e-mailaccount worden geactiveerd.,reviewed,frappe
+Automatic Linking can be activated only if Incoming is enabled.,Automatisch koppelen kan alleen worden geactiveerd als Inkomend is ingeschakeld.,reviewed,frappe
+Automatic Reconciliation,Automatische afstemming,reviewed,erpnext
 Automatically Add Taxes and Charges from Item Tax Template,Automatisch belastingen en heffingen toevoegen op basis van sjabloon voor artikelbelasting,unreviewed,erpnext
 Automatically Assign Documents to Users,Wijs automatisch documenten toe aan gebruikers,unreviewed,frappe
 Automatically Create New Batch,Maak automatisch een nieuwe partij aan,unreviewed,erpnext

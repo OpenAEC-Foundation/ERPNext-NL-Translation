@@ -6118,202 +6118,202 @@ Multiple root nodes not allowed.,Meerdere hoofdnodes niet toegestaan .,reviewed,
 Multiple Tier Program,Multiple Tier-programma,reviewed,erpnext
 Multiple Variants,Meerdere varianten,reviewed,erpnext
 Multiplier Field,Vermenigvuldiger veld,reviewed,frappe
-Music,muziek,unreviewed,erpnext
-music,Muziek,unreviewed,frappe
-Must be a publicly accessible Google Sheets URL,Moet een openbaar toegankelijke URL van Google Spreadsheets zijn,unreviewed,frappe
-"Must be of type ""Attach Image""",Moet van het type zijn &quot;Attach Image&quot;,unreviewed,frappe
-Must be Whole Number,Moet heel getal zijn,unreviewed,erpnext
-Must have report permission to access this report.,"Moet rapport toestemming hebben, om toegang tot dit rapport te krijgen.",unreviewed,frappe
-Must specify a Query to run,Moet een query opgeven om te draaien,unreviewed,frappe
-Mute Email,Mute-mail,unreviewed,erpnext
-MWS Credentials,MWS-referenties,unreviewed,erpnext
-My Account,Mijn Account,unreviewed,frappe
-N/A,N / A,unreviewed,erpnext
-Name,Naam,unreviewed,both
-Name and Employee ID,Naam en Werknemer ID,unreviewed,erpnext
-Name and Type,Naam en Type,unreviewed,erpnext
-Name cannot contain special characters like {0},Naam kan geen speciale tekens zoals bevatten {0},unreviewed,frappe
-Name Case,Naam Case,unreviewed,frappe
-Name error: {0},Naam fout: {0},unreviewed,erpnext
-Name not set via prompt,Naam niet ingesteld via prompt,unreviewed,frappe
-Name of Applicant,Naam aanvrager,unreviewed,erpnext
-Name of Beneficiary,Naam van de begunstigde,unreviewed,erpnext
-Name of Consultant,Naam van Consultant,unreviewed,erpnext
-Name of new Account. Note: Please don't create accounts for Customers and Suppliers,De naam van de nieuwe account. Let op: Gelieve niet goed voor klanten en leveranciers te creëren,unreviewed,erpnext
-Name of the Document Type (DocType) you want this field to be linked to. e.g. Customer,Naam van het type document (DocType) u wilt dit gebied moeten worden gekoppeld. bijvoorbeeld Customer,unreviewed,frappe
-Name of the Monthly Distribution,Naam van de verdeling per maand,unreviewed,erpnext
-Name of the new Print Format,Naam van de nieuwe Print Format,unreviewed,frappe
-Name of {0} cannot be {1},Naam van {0} kan niet {1} zijn,unreviewed,frappe
-Name or Email is mandatory,Naam of E-mail is verplicht,unreviewed,erpnext
-Names and surnames by themselves are easy to guess.,Voor- en achternamen door zelf zijn makkelijk te raden.,unreviewed,frappe
-Naming,Benaming,unreviewed,frappe
-"Naming Options:\n<ol><li><b>field:[fieldname]</b> - By Field</li><li><b>naming_series:</b> - By Naming Series (field called naming_series must be present</li><li><b>Prompt</b> - Prompt user for a name</li><li><b>[series]</b> - Series by prefix (separated by a dot); for example PRE.#####</li>\n<li><b>format:EXAMPLE-{MM}morewords{fieldname1}-{fieldname2}-{#####}</b> - Replace all braced words (fieldnames, date words (DD, MM, YY), series) with their value. Outside braces, any characters can be used.</li></ol>","Naamgevingsopties: <ol><li> <b>veld: [veldnaam]</b> - Per veld </li><li> <b>nameing_series:</b> - Door Series te benoemen (veld genaamd naamgevingsserie moet aanwezig zijn </li><li> <b>Prompt</b> - Gebruiker vragen om een naam </li><li> <b>[serie]</b> - Serie per prefix (gescheiden door een punt); bijvoorbeeld PRE. ##### </li><li> <b>format: EXAMPLE- {MM} morewords {fieldname1} - {fieldname2} - {#####}</b> - Vervang alle braced-woorden (veldnamen, datumwoorden (DD, MM, YY), series) door hun waarde. Buiten accolades kunnen tekens worden gebruikt. </li></ol>",unreviewed,frappe
+Music,muziek,reviewed,erpnext
+music,Muziek,reviewed,frappe
+Must be a publicly accessible Google Sheets URL,Moet een openbaar toegankelijke URL van Google Spreadsheets zijn,reviewed,frappe
+"Must be of type ""Attach Image""",Moet van het type zijn &quot;Attach Image&quot;,reviewed,frappe
+Must be Whole Number,Moet een geheel getal zijn,reviewed,erpnext
+Must have report permission to access this report.,"Moet rapport toestemming hebben, om toegang tot dit rapport te krijgen.",reviewed,frappe
+Must specify a Query to run,Moet een query opgeven om te draaien,reviewed,frappe
+Mute Email,E-mail dempen,reviewed,erpnext
+MWS Credentials,MWS-referenties,reviewed,erpnext
+My Account,Mijn Account,reviewed,frappe
+N/A,N / A,reviewed,erpnext
+Name,Naam,reviewed,both
+Name and Employee ID,Naam en medewerkersnummer,reviewed,erpnext
+Name and Type,Naam en Type,reviewed,erpnext
+Name cannot contain special characters like {0},Naam kan geen speciale tekens zoals bevatten {0},reviewed,frappe
+Name Case,Naamopmaak,reviewed,frappe
+Name error: {0},Naam fout: {0},reviewed,erpnext
+Name not set via prompt,Naam niet ingesteld via prompt,reviewed,frappe
+Name of Applicant,Naam aanvrager,reviewed,erpnext
+Name of Beneficiary,Naam van de begunstigde,reviewed,erpnext
+Name of Consultant,Naam van Consultant,reviewed,erpnext
+Name of new Account. Note: Please don't create accounts for Customers and Suppliers,De naam van de nieuwe account. Let op: Gelieve niet goed voor klanten en leveranciers te creëren,reviewed,erpnext
+Name of the Document Type (DocType) you want this field to be linked to. e.g. Customer,Naam van het type document (DocType) u wilt dit gebied moeten worden gekoppeld. bijvoorbeeld Customer,reviewed,frappe
+Name of the Monthly Distribution,Naam van de verdeling per maand,reviewed,erpnext
+Name of the new Print Format,Naam van de nieuwe Print Format,reviewed,frappe
+Name of {0} cannot be {1},Naam van {0} kan niet {1} zijn,reviewed,frappe
+Name or Email is mandatory,Naam of E-mail is verplicht,reviewed,erpnext
+Names and surnames by themselves are easy to guess.,Voor- en achternamen door zelf zijn makkelijk te raden.,reviewed,frappe
+Naming,Benaming,reviewed,frappe
+"Naming Options:\n<ol><li><b>field:[fieldname]</b> - By Field</li><li><b>naming_series:</b> - By Naming Series (field called naming_series must be present</li><li><b>Prompt</b> - Prompt user for a name</li><li><b>[series]</b> - Series by prefix (separated by a dot); for example PRE.#####</li>\n<li><b>format:EXAMPLE-{MM}morewords{fieldname1}-{fieldname2}-{#####}</b> - Replace all braced words (fieldnames, date words (DD, MM, YY), series) with their value. Outside braces, any characters can be used.</li></ol>","Naamgevingsopties: <ol><li> <b>veld: [veldnaam]</b> - Per veld </li><li> <b>nameing_series:</b> - Door Series te benoemen (veld genaamd naamgevingsserie moet aanwezig zijn </li><li> <b>Prompt</b> - Gebruiker vragen om een naam </li><li> <b>[serie]</b> - Serie per prefix (gescheiden door een punt); bijvoorbeeld PRE. ##### </li><li> <b>format: EXAMPLE- {MM} morewords {fieldname1} - {fieldname2} - {#####}</b> - Vervang alle braced-woorden (veldnamen, datumwoorden (DD, MM, YY), series) door hun waarde. Buiten accolades kunnen tekens worden gebruikt. </li></ol>",reviewed,frappe
 Naming Series,Nummering,reviewed,both
-Naming Series (for Student Applicant),Naming Series (voor Student Aanvrager),unreviewed,erpnext
-Naming Series mandatory,Naamgeving Series verplicht,unreviewed,frappe
-Naming Series Prefix,Reeks voorvoegsel naamgeving,unreviewed,erpnext
-Nationality,Nationaliteit,unreviewed,erpnext
-Natural Gas,Natuurlijk gas,unreviewed,erpnext
-Nature Of Supplies,Aard van de benodigdheden,unreviewed,erpnext
-Nature of Supplies,Aard van leveringen,unreviewed,erpnext
-Navbar Item,Navbar-item,unreviewed,frappe
-Navbar Settings,Navbar-instellingen,unreviewed,frappe
-Navbar Template,Navbar-sjabloon,unreviewed,frappe
-Navbar Template Values,Navbar-sjabloonwaarden,unreviewed,frappe
-Navigate Home,Navigeer naar huis,unreviewed,frappe
-Navigate list down,Navigeer lijst naar beneden,unreviewed,frappe
-Navigate list up,Navigeer lijst omhoog,unreviewed,frappe
-Navigating,navigeren,unreviewed,erpnext
-Near you,Dichtbij jou,unreviewed,erpnext
-Needs Analysis,Analyse nodig,unreviewed,erpnext
-Negative Quantity is not allowed,Negatieve hoeveelheid is niet toegestaan,unreviewed,erpnext
-Negative Valuation Rate is not allowed,Negatieve Waarderingstarief is niet toegestaan,unreviewed,erpnext
-Negative Value,Negatieve waarde,unreviewed,frappe
-Negotiation/Review,Onderhandelen / Beoordeling,unreviewed,erpnext
-Nested set error. Please contact the Administrator.,Geneste set fout. Neem contact op met de beheerder .,unreviewed,frappe
+Naming Series (for Student Applicant),Naming Series (voor Student Aanvrager),reviewed,erpnext
+Naming Series mandatory,Naamgeving Series verplicht,reviewed,frappe
+Naming Series Prefix,Reeks voorvoegsel naamgeving,reviewed,erpnext
+Nationality,Nationaliteit,reviewed,erpnext
+Natural Gas,Natuurlijk gas,reviewed,erpnext
+Nature Of Supplies,Aard van de benodigdheden,reviewed,erpnext
+Nature of Supplies,Aard van leveringen,reviewed,erpnext
+Navbar Item,Navbar-item,reviewed,frappe
+Navbar Settings,Navbar-instellingen,reviewed,frappe
+Navbar Template,Navbar-sjabloon,reviewed,frappe
+Navbar Template Values,Navbar-sjabloonwaarden,reviewed,frappe
+Navigate Home,Navigeer naar startpagina,reviewed,frappe
+Navigate list down,Navigeer lijst naar beneden,reviewed,frappe
+Navigate list up,Navigeer lijst omhoog,reviewed,frappe
+Navigating,navigeren,reviewed,erpnext
+Near you,Dichtbij jou,reviewed,erpnext
+Needs Analysis,Analyse nodig,reviewed,erpnext
+Negative Quantity is not allowed,Negatieve hoeveelheid is niet toegestaan,reviewed,erpnext
+Negative Valuation Rate is not allowed,Negatieve Waarderingstarief is niet toegestaan,reviewed,erpnext
+Negative Value,Negatieve waarde,reviewed,frappe
+Negotiation/Review,Onderhandelen / Beoordeling,reviewed,erpnext
+Nested set error. Please contact the Administrator.,Geneste set fout. Neem contact op met de beheerder .,reviewed,frappe
 Net Amount,Nettobedrag,reviewed,erpnext
-Net Amount (Company Currency),Nettobedrag (Company valuta),unreviewed,erpnext
-Net Asset value as on,Intrinsieke waarde Op,unreviewed,erpnext
-Net Cash from Financing,De netto kasstroom uit financieringsactiviteiten,unreviewed,erpnext
-Net Cash from Investing,De netto kasstroom uit investeringsactiviteiten,unreviewed,erpnext
-Net Cash from Operations,De netto kasstroom uit operationele activiteiten,unreviewed,erpnext
-Net Change in Accounts Payable,Netto wijziging in Accounts Payable,unreviewed,erpnext
-Net Change in Accounts Receivable,Netto wijziging in debiteuren,unreviewed,erpnext
-Net Change in Cash,Netto wijziging in cash,unreviewed,erpnext
-Net Change in Equity,Netto wijziging in het eigen vermogen,unreviewed,erpnext
-Net Change in Fixed Asset,Netto wijziging in vaste activa,unreviewed,erpnext
-Net Change in Inventory,Netto wijziging in Inventory,unreviewed,erpnext
-Net Hour Rate,Netto uurtarief,unreviewed,erpnext
-Net ITC Available(A) - (B),Net ITC beschikbaar (A) - (B),unreviewed,erpnext
-Net Pay (in words) will be visible once you save the Salary Slip.,Nettoloon (in woorden) zal zichtbaar zijn zodra de Salarisstrook wordt opgeslagen.,unreviewed,erpnext
-net pay info,nettoloon info,unreviewed,erpnext
-Net Profit,Netto winst,unreviewed,erpnext
-Net Profit/Loss,Nettowinst (verlies,unreviewed,erpnext
-Net Rate (Company Currency),Net Rate (Company Valuta),unreviewed,erpnext
-Net Total,Netto totaal,unreviewed,erpnext
-Net Total (Company Currency),Netto Totaal (Bedrijfsvaluta),unreviewed,erpnext
-Net Weight,Netto Gewicht,unreviewed,erpnext
-Net Weight UOM,Netto Gewicht Eenheid,unreviewed,erpnext
-New,Nieuw,unreviewed,both
-new,nieuw,unreviewed,frappe
-New Academic Term,Nieuwe academische termijn,unreviewed,erpnext
-New Academic Year,New Academisch Jaar,unreviewed,erpnext
-New Account Name,Nieuwe Rekening Naam,unreviewed,erpnext
-New Activity,Nieuwe activiteit,unreviewed,frappe
-New Address,Nieuw adres,unreviewed,both
-New Asset Value,Nieuwe activawaarde,unreviewed,erpnext
-New Assets (This Year),Nieuwe activa (dit jaar),unreviewed,erpnext
-New Balance In Base Currency,Nieuw saldo in basisvaluta,unreviewed,erpnext
-New Batch ID (Optional),Nieuw batch-id (optioneel),unreviewed,erpnext
-New Batch Qty,Nieuw aantal batches,unreviewed,erpnext
-New BOM,Nieuwe Eenheid,unreviewed,erpnext
-New Chart,Nieuwe kaart,unreviewed,frappe
-New Chat,Nieuw gesprek,unreviewed,frappe
-New Comment on {0}: {1},Nieuwe reactie op {0}: {1},unreviewed,frappe
-New Company,Nieuw bedrijf,unreviewed,erpnext
-New Connection,Nieuwe verbinding,unreviewed,frappe
-New Contact,Nieuw contact,unreviewed,frappe
-New Cost Center Name,Nieuwe Kostenplaats Naam,unreviewed,erpnext
-New credit limit is less than current outstanding amount for the customer. Credit limit has to be atleast {0},New kredietlimiet lager is dan de huidige uitstaande bedrag voor de klant. Kredietlimiet moet minstens zijn {0},unreviewed,erpnext
-New Custom Print Format,Nieuwe Custom Print Format,unreviewed,frappe
-New Customer Revenue,Nieuwe klant Revenue,unreviewed,erpnext
-New Customers,nieuwe klanten,unreviewed,erpnext
-New data will be inserted.,Nieuwe gegevens worden ingevoegd.,unreviewed,frappe
-New Department,Nieuwe afdeling,unreviewed,erpnext
-New Document Shared {0},Nieuw document gedeeld {0},unreviewed,frappe
-New Email,nieuwe e-mail,unreviewed,frappe
-New Email Account,Nieuwe e-mailaccount,unreviewed,frappe
-New Employee,Nieuwe medewerker,unreviewed,erpnext
-New Event,Nieuw evenement,unreviewed,frappe
-New Exchange Rate,Nieuwe wisselkoers,unreviewed,erpnext
-New Expense,Nieuwe uitgave,unreviewed,erpnext
-New Expenses,nieuwe Uitgaven,unreviewed,erpnext
-New Folder,Nieuwe map,unreviewed,frappe
-New Income,nieuwe Inkomen,unreviewed,erpnext
-New Invoice,Nieuwe factuur,unreviewed,erpnext
-New invoices will be generated as per schedule even if current invoices are unpaid or past due date,"Nieuwe facturen worden volgens schema gegenereerd, zelfs als de huidige facturen onbetaald of achterstallig zijn",unreviewed,erpnext
-New Kanban Board,Nieuwe Kanban Board,unreviewed,frappe
-New Location,Nieuwe locatie,unreviewed,erpnext
-New Mention on {0},Nieuwe vermelding op {0},unreviewed,frappe
-New Message from Website Contact Page,Nieuw bericht van de pagina Contact Pagina,unreviewed,frappe
-New module created {0},Nieuwe module gemaakt {0},unreviewed,frappe
-New Name,Nieuwe naam,unreviewed,frappe
-New Newsletter,Nieuw Nieuwsbrief,unreviewed,frappe
-New Notification,Nieuwe melding,unreviewed,frappe
-New Number Card,Nieuwe cijferkaart,unreviewed,frappe
-New Password,Nieuw wachtwoord,unreviewed,frappe
-New Password Required.,Nieuw wachtwoord verplicht.,unreviewed,frappe
-New Payment,Nieuwe betaling,unreviewed,erpnext
-New Print Format Name,Naam van nieuwe afdrukindeling,unreviewed,frappe
-New Program,nieuw programma,unreviewed,erpnext
-New Purchase Invoice,Nieuwe inkoopfactuur,unreviewed,erpnext
-New Purchase Orders,Nieuwe Inkooporders,unreviewed,erpnext
-New Quality Procedure,Nieuwe kwaliteitsprocedure,unreviewed,erpnext
-New Quotations,Nieuwe Offertes,unreviewed,erpnext
-New release date should be in the future,Nieuwe releasedatum zou in de toekomst moeten liggen,unreviewed,erpnext
-New Report name,Nieuwe naam Report,unreviewed,frappe
-New Sales Invoice,Nieuwe Sales Invoice,unreviewed,erpnext
-New Sales Orders,Nieuwe Verkooporders,unreviewed,erpnext
-New Sales Person Name,Nieuwe Sales Person Naam,unreviewed,erpnext
-New Serial No cannot have Warehouse. Warehouse must be set by Stock Entry or Purchase Receipt,Nieuw Serienummer kan geen Magazijn krijgen. Magazijn moet via Voorraad Invoer of Ontvangst worden ingesteld.,unreviewed,erpnext
-New Shortcut,Nieuwe snelkoppeling,unreviewed,frappe
-New Student Batch,Nieuwe studentenbatch,unreviewed,erpnext
-New task,Nieuwe taak,unreviewed,erpnext
-New Transactions,Nieuwe transacties,unreviewed,erpnext
-new type of document,nieuw type document,unreviewed,frappe
-New updates are available,Nieuwe updates zijn beschikbaar,unreviewed,frappe
-New Value,nieuwe waarde,unreviewed,frappe
-New value to be set,Nieuwe waarde in te stellen,unreviewed,frappe
-New Warehouse Name,Nieuwe Warehouse Naam,unreviewed,erpnext
-New Workplace,Nieuwe werkplek,unreviewed,erpnext
-New {0},Nieuwe {0},unreviewed,frappe
-New {0} Created,Nieuw {0} gemaakt,unreviewed,frappe
-New {0} pricing rules are created,Nieuwe {0} prijsregels worden gemaakt,unreviewed,erpnext
-New {0} {1} added to Dashboard {2},Nieuw {0} {1} toegevoegd aan Dashboard {2},unreviewed,frappe
-New {0} {1} created,Nieuw {0} {1} gemaakt,unreviewed,frappe
-New {0}: {1},Nieuw {0}: {1},unreviewed,frappe
-New {} releases for the following apps are available,Nieuwe {} releases voor de volgende apps zijn beschikbaar,unreviewed,frappe
-Newsletter,Nieuwsbrief,unreviewed,frappe
-Newsletter Email Group,Nieuwsbrief E-mail Group,unreviewed,frappe
-Newsletter has already been sent,Newsletter reeds verzonden,unreviewed,frappe
-Newsletter Manager,Nieuwsbrief Manager,unreviewed,frappe
-Newsletter should have at least one recipient,De nieuwsbrief moet ten minste één ontvanger hebben,unreviewed,frappe
-Newsletter should have atleast one recipient,Nieuwsbrief moet minstens één ontvanger bevatten,unreviewed,frappe
-Newsletters,nieuwsbrieven,unreviewed,frappe
-"Newsletters to contacts, leads.","Nieuwsbrieven naar contacten, leads.",unreviewed,frappe
-Newspaper Publishers,Kranten Uitgeverijen,unreviewed,erpnext
-Next,volgende,unreviewed,both
-Next Action Email Template,Volgende actie-e-mailsjabloon,unreviewed,frappe
-Next actions,Volgende acties,unreviewed,frappe
-Next Actions HTML,Volgende acties HTML,unreviewed,frappe
-Next Business Day,Volgende werkdag,unreviewed,erpnext
-Next Contact By,Volgende Contact Door,unreviewed,erpnext
-Next Contact By cannot be same as the Lead Email Address,Volgende Contact Door het kan niet hetzelfde zijn als de Lead e-mailadres,unreviewed,erpnext
-Next Contact Date,Volgende Contact Datum,unreviewed,erpnext
-Next Contact Date cannot be in the past,Volgende Contact datum kan niet in het verleden,unreviewed,erpnext
-Next Depreciation Date,Volgende Afschrijvingen Date,unreviewed,erpnext
-Next Due Date,volgende vervaldatum,unreviewed,erpnext
-Next email will be sent on:,Volgende e-mail wordt verzonden op:,unreviewed,erpnext
-Next Schedule Date,Volgende schema datum,unreviewed,frappe
-Next Scheduled Date,Volgende geplande datum,unreviewed,frappe
-Next State,Volgend Stadium,unreviewed,frappe
-Next Steps,Volgende stappen,unreviewed,erpnext
-Next Sync Token,Volgende synchronisatietoken,unreviewed,frappe
-NO,NEE,unreviewed,erpnext
-No,Nee,unreviewed,both
-No Account matched these filters: {},Geen account komt overeen met deze filters: {},unreviewed,erpnext
-No accounting entries for the following warehouses,Geen boekingen voor de volgende magazijnen,unreviewed,erpnext
-No Action,Geen actie,unreviewed,erpnext
-No active BOM found for item {0}. Delivery by Serial No cannot be ensured,Geen actieve stuklijst gevonden voor artikel {0}. Levering met serienummer kan niet worden gegarandeerd,unreviewed,erpnext
-No Active Sessions,Geen actieve sessies,unreviewed,frappe
-No activity,Geen activiteit,unreviewed,frappe
-No address added yet.,Nog geen adres toegevoegd.,unreviewed,frappe
-No alerts for today,Geen waarschuwingen voor vandaag,unreviewed,frappe
-No changes in document,Geen wijzigingen in document,unreviewed,frappe
-No comments yet,Nog geen reacties,unreviewed,frappe
-No comments yet. Start a new discussion.,Nog geen reacties. Start een nieuwe discussie.,unreviewed,frappe
-No communication found.,Geen communicatie gevonden.,unreviewed,erpnext
-No conditions provided,Geen voorwaarden voorzien,unreviewed,frappe
+Net Amount (Company Currency),Nettobedrag (bedrijfsvaluta),reviewed,erpnext
+Net Asset value as on,Intrinsieke waarde Op,reviewed,erpnext
+Net Cash from Financing,De netto kasstroom uit financieringsactiviteiten,reviewed,erpnext
+Net Cash from Investing,De netto kasstroom uit investeringsactiviteiten,reviewed,erpnext
+Net Cash from Operations,De netto kasstroom uit operationele activiteiten,reviewed,erpnext
+Net Change in Accounts Payable,Netto wijziging in crediteuren,reviewed,erpnext
+Net Change in Accounts Receivable,Netto wijziging in debiteuren,reviewed,erpnext
+Net Change in Cash,Netto wijziging in cash,reviewed,erpnext
+Net Change in Equity,Netto wijziging in het eigen vermogen,reviewed,erpnext
+Net Change in Fixed Asset,Netto wijziging in vaste activa,reviewed,erpnext
+Net Change in Inventory,Netto wijziging in voorraad,reviewed,erpnext
+Net Hour Rate,Netto uurtarief,reviewed,erpnext
+Net ITC Available(A) - (B),Net ITC beschikbaar (A) - (B),reviewed,erpnext
+Net Pay (in words) will be visible once you save the Salary Slip.,Nettoloon (in woorden) zal zichtbaar zijn zodra de Salarisstrook wordt opgeslagen.,reviewed,erpnext
+net pay info,nettoloon info,reviewed,erpnext
+Net Profit,Netto winst,reviewed,erpnext
+Net Profit/Loss,Nettowinst/-verlies,reviewed,erpnext
+Net Rate (Company Currency),Nettotarief (bedrijfsvaluta),reviewed,erpnext
+Net Total,Nettototaal,reviewed,erpnext
+Net Total (Company Currency),Nettototaal (bedrijfsvaluta),reviewed,erpnext
+Net Weight,Nettogewicht,reviewed,erpnext
+Net Weight UOM,Eenheid nettogewicht,reviewed,erpnext
+New,Nieuw,reviewed,both
+new,nieuw,reviewed,frappe
+New Academic Term,Nieuwe academische termijn,reviewed,erpnext
+New Academic Year,Nieuw academisch jaar,reviewed,erpnext
+New Account Name,Naam nieuwe rekening,reviewed,erpnext
+New Activity,Nieuwe activiteit,reviewed,frappe
+New Address,Nieuw adres,reviewed,both
+New Asset Value,Nieuwe activawaarde,reviewed,erpnext
+New Assets (This Year),Nieuwe activa (dit jaar),reviewed,erpnext
+New Balance In Base Currency,Nieuw saldo in basisvaluta,reviewed,erpnext
+New Batch ID (Optional),Nieuw batch-id (optioneel),reviewed,erpnext
+New Batch Qty,Nieuw aantal batches,reviewed,erpnext
+New BOM,Nieuwe stuklijst,reviewed,erpnext
+New Chart,Nieuwe grafiek,reviewed,frappe
+New Chat,Nieuw gesprek,reviewed,frappe
+New Comment on {0}: {1},Nieuwe reactie op {0}: {1},reviewed,frappe
+New Company,Nieuw bedrijf,reviewed,erpnext
+New Connection,Nieuwe verbinding,reviewed,frappe
+New Contact,Nieuw contact,reviewed,frappe
+New Cost Center Name,Naam nieuwe kostenplaats,reviewed,erpnext
+New credit limit is less than current outstanding amount for the customer. Credit limit has to be atleast {0},New kredietlimiet lager is dan de huidige uitstaande bedrag voor de klant. Kredietlimiet moet minstens zijn {0},reviewed,erpnext
+New Custom Print Format,Nieuw aangepast afdrukformaat,reviewed,frappe
+New Customer Revenue,Nieuwe klant Revenue,reviewed,erpnext
+New Customers,nieuwe klanten,reviewed,erpnext
+New data will be inserted.,Nieuwe gegevens worden ingevoegd.,reviewed,frappe
+New Department,Nieuwe afdeling,reviewed,erpnext
+New Document Shared {0},Nieuw document gedeeld {0},reviewed,frappe
+New Email,nieuwe e-mail,reviewed,frappe
+New Email Account,Nieuwe e-mailaccount,reviewed,frappe
+New Employee,Nieuwe medewerker,reviewed,erpnext
+New Event,Nieuw evenement,reviewed,frappe
+New Exchange Rate,Nieuwe wisselkoers,reviewed,erpnext
+New Expense,Nieuwe uitgave,reviewed,erpnext
+New Expenses,nieuwe Uitgaven,reviewed,erpnext
+New Folder,Nieuwe map,reviewed,frappe
+New Income,nieuwe Inkomen,reviewed,erpnext
+New Invoice,Nieuwe factuur,reviewed,erpnext
+New invoices will be generated as per schedule even if current invoices are unpaid or past due date,"Nieuwe facturen worden volgens schema gegenereerd, zelfs als de huidige facturen onbetaald of achterstallig zijn",reviewed,erpnext
+New Kanban Board,Nieuwe Kanban Board,reviewed,frappe
+New Location,Nieuwe locatie,reviewed,erpnext
+New Mention on {0},Nieuwe vermelding op {0},reviewed,frappe
+New Message from Website Contact Page,Nieuw bericht van de pagina Contact Pagina,reviewed,frappe
+New module created {0},Nieuwe module gemaakt {0},reviewed,frappe
+New Name,Nieuwe naam,reviewed,frappe
+New Newsletter,Nieuw Nieuwsbrief,reviewed,frappe
+New Notification,Nieuwe melding,reviewed,frappe
+New Number Card,Nieuwe cijferkaart,reviewed,frappe
+New Password,Nieuw wachtwoord,reviewed,frappe
+New Password Required.,Nieuw wachtwoord verplicht.,reviewed,frappe
+New Payment,Nieuwe betaling,reviewed,erpnext
+New Print Format Name,Naam van nieuwe afdrukindeling,reviewed,frappe
+New Program,nieuw programma,reviewed,erpnext
+New Purchase Invoice,Nieuwe inkoopfactuur,reviewed,erpnext
+New Purchase Orders,Nieuwe Inkooporders,reviewed,erpnext
+New Quality Procedure,Nieuwe kwaliteitsprocedure,reviewed,erpnext
+New Quotations,Nieuwe Offertes,reviewed,erpnext
+New release date should be in the future,Nieuwe releasedatum zou in de toekomst moeten liggen,reviewed,erpnext
+New Report name,Nieuwe naam Report,reviewed,frappe
+New Sales Invoice,Nieuwe Sales Invoice,reviewed,erpnext
+New Sales Orders,Nieuwe Verkooporders,reviewed,erpnext
+New Sales Person Name,Nieuwe Sales Person Naam,reviewed,erpnext
+New Serial No cannot have Warehouse. Warehouse must be set by Stock Entry or Purchase Receipt,Nieuw Serienummer kan geen Magazijn krijgen. Magazijn moet via Voorraad Invoer of Ontvangst worden ingesteld.,reviewed,erpnext
+New Shortcut,Nieuwe snelkoppeling,reviewed,frappe
+New Student Batch,Nieuwe studentenbatch,reviewed,erpnext
+New task,Nieuwe taak,reviewed,erpnext
+New Transactions,Nieuwe transacties,reviewed,erpnext
+new type of document,nieuw type document,reviewed,frappe
+New updates are available,Nieuwe updates zijn beschikbaar,reviewed,frappe
+New Value,nieuwe waarde,reviewed,frappe
+New value to be set,Nieuwe waarde in te stellen,reviewed,frappe
+New Warehouse Name,Nieuwe Warehouse Naam,reviewed,erpnext
+New Workplace,Nieuwe werkplek,reviewed,erpnext
+New {0},Nieuwe {0},reviewed,frappe
+New {0} Created,Nieuw {0} gemaakt,reviewed,frappe
+New {0} pricing rules are created,Nieuwe {0} prijsregels worden gemaakt,reviewed,erpnext
+New {0} {1} added to Dashboard {2},Nieuw {0} {1} toegevoegd aan Dashboard {2},reviewed,frappe
+New {0} {1} created,Nieuw {0} {1} gemaakt,reviewed,frappe
+New {0}: {1},Nieuw {0}: {1},reviewed,frappe
+New {} releases for the following apps are available,Nieuwe {} releases voor de volgende apps zijn beschikbaar,reviewed,frappe
+Newsletter,Nieuwsbrief,reviewed,frappe
+Newsletter Email Group,Nieuwsbrief E-mail Group,reviewed,frappe
+Newsletter has already been sent,Newsletter reeds verzonden,reviewed,frappe
+Newsletter Manager,Nieuwsbrief Manager,reviewed,frappe
+Newsletter should have at least one recipient,De nieuwsbrief moet ten minste één ontvanger hebben,reviewed,frappe
+Newsletter should have atleast one recipient,Nieuwsbrief moet minstens één ontvanger bevatten,reviewed,frappe
+Newsletters,nieuwsbrieven,reviewed,frappe
+"Newsletters to contacts, leads.","Nieuwsbrieven naar contacten, leads.",reviewed,frappe
+Newspaper Publishers,Kranten Uitgeverijen,reviewed,erpnext
+Next,volgende,reviewed,both
+Next Action Email Template,Volgende actie-e-mailsjabloon,reviewed,frappe
+Next actions,Volgende acties,reviewed,frappe
+Next Actions HTML,Volgende acties HTML,reviewed,frappe
+Next Business Day,Volgende werkdag,reviewed,erpnext
+Next Contact By,Volgende Contact Door,reviewed,erpnext
+Next Contact By cannot be same as the Lead Email Address,Volgende Contact Door het kan niet hetzelfde zijn als de Lead e-mailadres,reviewed,erpnext
+Next Contact Date,Volgende Contact Datum,reviewed,erpnext
+Next Contact Date cannot be in the past,Volgende Contact datum kan niet in het verleden,reviewed,erpnext
+Next Depreciation Date,Volgende Afschrijvingen Date,reviewed,erpnext
+Next Due Date,volgende vervaldatum,reviewed,erpnext
+Next email will be sent on:,Volgende e-mail wordt verzonden op:,reviewed,erpnext
+Next Schedule Date,Volgende schema datum,reviewed,frappe
+Next Scheduled Date,Volgende geplande datum,reviewed,frappe
+Next State,Volgend Stadium,reviewed,frappe
+Next Steps,Volgende stappen,reviewed,erpnext
+Next Sync Token,Volgende synchronisatietoken,reviewed,frappe
+NO,NEE,reviewed,erpnext
+No,Nee,reviewed,both
+No Account matched these filters: {},Geen account komt overeen met deze filters: {},reviewed,erpnext
+No accounting entries for the following warehouses,Geen boekingen voor de volgende magazijnen,reviewed,erpnext
+No Action,Geen actie,reviewed,erpnext
+No active BOM found for item {0}. Delivery by Serial No cannot be ensured,Geen actieve stuklijst gevonden voor artikel {0}. Levering met serienummer kan niet worden gegarandeerd,reviewed,erpnext
+No Active Sessions,Geen actieve sessies,reviewed,frappe
+No activity,Geen activiteit,reviewed,frappe
+No address added yet.,Nog geen adres toegevoegd.,reviewed,frappe
+No alerts for today,Geen waarschuwingen voor vandaag,reviewed,frappe
+No changes in document,Geen wijzigingen in document,reviewed,frappe
+No comments yet,Nog geen reacties,reviewed,frappe
+No comments yet. Start a new discussion.,Nog geen reacties. Start een nieuwe discussie.,reviewed,frappe
+No communication found.,Geen communicatie gevonden.,reviewed,erpnext
+No conditions provided,Geen voorwaarden voorzien,reviewed,frappe
 No contacts added yet.,Nog geen contacten toegevoegd.,unreviewed,frappe
 No contacts linked to document,Geen contacten gekoppeld aan document,unreviewed,frappe
 No contacts with email IDs found.,Geen contacten met e-mail-ID&#39;s gevonden.,unreviewed,erpnext

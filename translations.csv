@@ -5514,210 +5514,210 @@ Length,Lengte,reviewed,frappe
 Length Must be less than 280.,Lengte moet kleiner zijn dan 280.,reviewed,erpnext
 Length of {0} should be between 1 and 1000,Lengte van {0} moet tussen 1 en 1000,reviewed,frappe
 Less,Minder,reviewed,frappe
-Less than a year,Minder dan een jaar,unreviewed,erpnext
-Less Than Amount,Minder dan bedrag,unreviewed,erpnext
-Let's avoid repeated words and characters,Laten we voorkomen dat herhaalde woorden en tekens,unreviewed,frappe
-Let's Get Started,Laten we beginnen,unreviewed,frappe
-Let's prepare the system for first use.,Laten we het voorbereiden van het systeem voor het eerste gebruik.,unreviewed,frappe
-Let's take you back to onboarding,Laten we teruggaan naar onboarding,unreviewed,frappe
-Letter,Brief,unreviewed,frappe
+Less than a year,Minder dan een jaar,reviewed,erpnext
+Less Than Amount,Minder dan bedrag,reviewed,erpnext
+Let's avoid repeated words and characters,Laten we voorkomen dat herhaalde woorden en tekens,reviewed,frappe
+Let's Get Started,Laten we beginnen,reviewed,frappe
+Let's prepare the system for first use.,Laten we het voorbereiden van het systeem voor het eerste gebruik.,reviewed,frappe
+Let's take you back to onboarding,Laten we teruggaan naar onboarding,reviewed,frappe
+Letter,Brief,reviewed,frappe
 Letter Head,Briefhoofd,reviewed,both
 Letter head,Briefhoofd,reviewed,custom
-Letter Head Based On,Briefhoofd op basis van,unreviewed,frappe
-Letter Head Image,Briefhoofd afbeelding,unreviewed,frappe
-Letter Head in HTML,Brief Hoofd in HTML,unreviewed,frappe
-Letter Head Name,Brief Hoofd Naam,unreviewed,frappe
-Letter Heads for print templates.,Briefhoofden voor print sjablonen.,unreviewed,erpnext
-Letter or Email Body Text,Hoofdtekst van brief of e-mail,unreviewed,erpnext
-Letter or Email Closing Text,Brief of e-mail afsluitingstekst,unreviewed,erpnext
-Level,Niveau,unreviewed,both
-"Level 0 is for document level permissions, higher levels for field level permissions.","Niveau 0 is voor machtigingen op documentniveau, hogere niveaus voor machtigingen op veldniveau.",unreviewed,frappe
-Level Name,Niveau naam,unreviewed,frappe
-Lft,Als T,unreviewed,erpnext
-Liabilities,Passiva,unreviewed,erpnext
-Liability,Verplichting,unreviewed,erpnext
-License,Licentie,unreviewed,frappe
-License Details,Licentie details,unreviewed,erpnext
-License Number,Licentienummer,unreviewed,erpnext
-License Plate,Nummerplaat,unreviewed,erpnext
-Light Color,Lichte kleur,unreviewed,frappe
-lightblue,lichtblauw,unreviewed,frappe
-Like,Leuk vinden,unreviewed,frappe
-like,zoals,unreviewed,frappe
-Liked,Vond,unreviewed,frappe
-Liked By,Vond Door,unreviewed,frappe
-Liked by {0},Geliefd bij {0},unreviewed,frappe
-Likes,Sympathieën,unreviewed,both
-Limit,Begrenzing,unreviewed,frappe
-Limit Number of DB Backups,Beperk aantal DB-back-ups,unreviewed,frappe
-Limited to 12 characters,Beperkt tot 12 tekens,unreviewed,erpnext
-Line,Lijn,unreviewed,frappe
-Line spacing for amount in words,Regelafstand voor het bedrag in woorden,unreviewed,erpnext
-Link,Koppeling,unreviewed,both
-link,Link,unreviewed,frappe
-Link Cards,Koppel kaarten,unreviewed,frappe
-Link Customer to Patient,Koppel klant aan patiënt,unreviewed,erpnext
-Link Document Type,Type document koppelen,unreviewed,frappe
-Link existing Quality Procedure.,Koppel bestaande kwaliteitsprocedures.,unreviewed,erpnext
-Link Expired,Link verlopen,unreviewed,frappe
-Link Fieldname,Veldnaam koppelen,unreviewed,frappe
-Link Name,Link Naam,unreviewed,frappe
-Link Options,Link opties,unreviewed,erpnext
-"Link that is the website home page. Standard Links (index, login, products, blog, about, contact)","Link dat is de homepagina van de site . Standaard Links (index , inloggen, producten , blog , over , contact)",unreviewed,frappe
-Link Title,Link Titel,unreviewed,frappe
-Link To,Link naar,unreviewed,frappe
-Link to Material Request,Link naar artikelaanvraag,unreviewed,erpnext
-Link to Material Requests,Link naar materiële verzoeken,unreviewed,erpnext
-Link to material requests,Koppeling naar materiaal aanvragen,unreviewed,erpnext
-Link to the page you want to open. Leave blank if you want to make it a group parent.,Link naar de pagina die u wilt openen. Laat leeg als u wilt dat een groep ouders te maken.,unreviewed,frappe
-LInked Analysis,Geïntegreerde analyse,unreviewed,erpnext
-Linked Doctype,Gekoppeld Doctype,unreviewed,erpnext
-Linked Documents,Gekoppelde documenten,unreviewed,both
-Linked Invoices,Gelinkte facturen,unreviewed,erpnext
-Linked Item,Gekoppeld item,unreviewed,erpnext
-Linked Item Details,Gekoppelde itemdetails,unreviewed,erpnext
-Linked Location,Gekoppelde locatie,unreviewed,erpnext
-Linked Soil Texture,Gekoppelde bodemtextuur,unreviewed,erpnext
+Letter Head Based On,Briefhoofd op basis van,reviewed,frappe
+Letter Head Image,Briefhoofd-afbeelding,reviewed,frappe
+Letter Head in HTML,Briefhoofd in HTML,reviewed,frappe
+Letter Head Name,Briefhoodnaam,reviewed,frappe
+Letter Heads for print templates.,Briefhoofden voor printsjablonen.,reviewed,erpnext
+Letter or Email Body Text,Hoofdtekst van brief of e-mail,reviewed,erpnext
+Letter or Email Closing Text,Brief of e-mail afsluitingstekst,reviewed,erpnext
+Level,Niveau,reviewed,both
+"Level 0 is for document level permissions, higher levels for field level permissions.","Niveau 0 is voor machtigingen op documentniveau, hogere niveaus voor machtigingen op veldniveau.",reviewed,frappe
+Level Name,Niveau naam,reviewed,frappe
+Lft,Lft,reviewed,erpnext
+Liabilities,Passiva,reviewed,erpnext
+Liability,Verplichting,reviewed,erpnext
+License,Licentie,reviewed,frappe
+License Details,Licentie details,reviewed,erpnext
+License Number,Licentienummer,reviewed,erpnext
+License Plate,Kenteken,reviewed,erpnext
+Light Color,Lichte kleur,reviewed,frappe
+lightblue,lichtblauw,reviewed,frappe
+Like,Leuk vinden,reviewed,frappe
+like,zoals,reviewed,frappe
+Liked,Geliked,reviewed,frappe
+Liked By,Geliked door,reviewed,frappe
+Liked by {0},Geliked door {0},reviewed,frappe
+Likes,Likes,reviewed,both
+Limit,Limiet,reviewed,frappe
+Limit Number of DB Backups,Beperk aantal DB-back-ups,reviewed,frappe
+Limited to 12 characters,Beperkt tot 12 tekens,reviewed,erpnext
+Line,Lijn,reviewed,frappe
+Line spacing for amount in words,Regelafstand voor het bedrag in woorden,reviewed,erpnext
+Link,Koppeling,reviewed,both
+link,Link,reviewed,frappe
+Link Cards,Koppel kaarten,reviewed,frappe
+Link Customer to Patient,Koppel klant aan patiënt,reviewed,erpnext
+Link Document Type,Type document koppelen,reviewed,frappe
+Link existing Quality Procedure.,Koppel bestaande kwaliteitsprocedures.,reviewed,erpnext
+Link Expired,Link verlopen,reviewed,frappe
+Link Fieldname,Veldnaam koppelen,reviewed,frappe
+Link Name,Linknaam,reviewed,frappe
+Link Options,Link opties,reviewed,erpnext
+"Link that is the website home page. Standard Links (index, login, products, blog, about, contact)","Link dat is de homepagina van de site . Standaard Links (index , inloggen, producten , blog , over , contact)",reviewed,frappe
+Link Title,Linktitel,reviewed,frappe
+Link To,Link naar,reviewed,frappe
+Link to Material Request,Link naar artikelaanvraag,reviewed,erpnext
+Link to Material Requests,Koppeling naar materiaalanvragen,reviewed,erpnext
+Link to material requests,Koppeling naar materiaalanvragen,reviewed,erpnext
+Link to the page you want to open. Leave blank if you want to make it a group parent.,Link naar de pagina die u wilt openen. Laat leeg als u wilt dat een groep ouders te maken.,reviewed,frappe
+LInked Analysis,Geïntegreerde analyse,reviewed,erpnext
+Linked Doctype,Gekoppeld Doctype,reviewed,erpnext
+Linked Documents,Gekoppelde documenten,reviewed,both
+Linked Invoices,Gelinkte facturen,reviewed,erpnext
+Linked Item,Gekoppeld item,reviewed,erpnext
+Linked Item Details,Gekoppelde itemdetails,reviewed,erpnext
+Linked Location,Gekoppelde locatie,reviewed,erpnext
+Linked Soil Texture,Gekoppelde bodemtextuur,reviewed,erpnext
 Linked With,Gekoppeld met,reviewed,frappe
-Linked with {0},Gekoppeld met {0},unreviewed,frappe
-linkedin,LinkedIn,unreviewed,frappe
-LinkedIn Post Id,LinkedIn-bericht-id,unreviewed,erpnext
-LinkedIn Settings,LinkedIn-instellingen,unreviewed,erpnext
-List,Lijst,unreviewed,frappe
-list,lijst,unreviewed,frappe
-List a document type,Lijst een documenttype,unreviewed,frappe
-"List as [{""label"": _(""Jobs""), ""route"":""jobs""}]","Lijst als [{ &quot;label&quot;: _ ( &quot;Jobs&quot;), &quot;route&quot;: &quot;banen&quot;}]",unreviewed,frappe
-List Filter,Lijst filter,unreviewed,frappe
-List items that form the package.,Lijst items die het pakket vormen.,unreviewed,erpnext
-List of all share transactions,Lijst met alle aandelentransacties,unreviewed,erpnext
-List of available Shareholders with folio numbers,Lijst met beschikbare aandeelhouders met folionummers,unreviewed,erpnext
-List of backups available for download,Lijst van back-ups te downloaden,unreviewed,frappe
-List of diseases detected on the field. When selected it'll automatically add a list of tasks to deal with the disease,Lijst met gedetecteerde ziekten op het veld. Na selectie voegt het automatisch een lijst met taken toe om de ziekte aan te pakken,unreviewed,erpnext
-List of patches executed,Lijst van pleisters uitgevoerd,unreviewed,frappe
-List of themes for Website.,Lijst van de thema&#39;s voor de website.,unreviewed,frappe
-List Settings,Lijstinstellingen,unreviewed,frappe
-List this Item in multiple groups on the website.,Lijst deze post in meerdere groepen op de website.,unreviewed,erpnext
+Linked with {0},Gekoppeld met {0},reviewed,frappe
+linkedin,LinkedIn,reviewed,frappe
+LinkedIn Post Id,LinkedIn-bericht-id,reviewed,erpnext
+LinkedIn Settings,LinkedIn-instellingen,reviewed,erpnext
+List,Lijst,reviewed,frappe
+list,lijst,reviewed,frappe
+List a document type,Toon een documenttype,reviewed,frappe
+"List as [{""label"": _(""Jobs""), ""route"":""jobs""}]","Lijst als [{ &quot;label&quot;: _ ( &quot;Jobs&quot;), &quot;route&quot;: &quot;banen&quot;}]",reviewed,frappe
+List Filter,Lijstfilter,reviewed,frappe
+List items that form the package.,Lijst items die het pakket vormen.,reviewed,erpnext
+List of all share transactions,Lijst met alle aandelentransacties,reviewed,erpnext
+List of available Shareholders with folio numbers,Lijst met beschikbare aandeelhouders met folionummers,reviewed,erpnext
+List of backups available for download,Lijst van back-ups te downloaden,reviewed,frappe
+List of diseases detected on the field. When selected it'll automatically add a list of tasks to deal with the disease,Lijst met gedetecteerde ziekten op het veld. Na selectie voegt het automatisch een lijst met taken toe om de ziekte aan te pakken,reviewed,erpnext
+List of patches executed,Lijst van uitgevoerde patches,reviewed,frappe
+List of themes for Website.,Lijst van de thema&#39;s voor de website.,reviewed,frappe
+List Settings,Lijstinstellingen,reviewed,frappe
+List this Item in multiple groups on the website.,Toon dit artikel in meerdere groepen op de website.,reviewed,erpnext
 List View,Lijstweergave,reviewed,custom
-List View Setting,Lijstweergave-instelling,unreviewed,frappe
-List View Settings,Instellingen voor lijstweergave,unreviewed,frappe
-Live API Key,Live API-sleutel,unreviewed,erpnext
-LMS Activity,LMS-activiteit,unreviewed,erpnext
-LMS Only,Alleen LMS,unreviewed,erpnext
-LMS User,LMS-gebruiker,unreviewed,erpnext
-Load All Criteria,Laad alle criteria,unreviewed,erpnext
-Load More,Meer laden,unreviewed,frappe
+List View Setting,Lijstweergave-instelling,reviewed,frappe
+List View Settings,Instellingen voor lijstweergave,reviewed,frappe
+Live API Key,Live API-sleutel,reviewed,erpnext
+LMS Activity,LMS-activiteit,reviewed,erpnext
+LMS Only,Alleen LMS,reviewed,erpnext
+LMS User,LMS-gebruiker,reviewed,erpnext
+Load All Criteria,Laad alle criteria,reviewed,erpnext
+Load More,Meer laden,reviewed,frappe
 Load more,Meer laden,reviewed,custom
 Loading,Laden,reviewed,frappe
-Loading Filters...,Filters laden ...,unreviewed,frappe
-Loading import file...,Importbestand laden ...,unreviewed,frappe
-Loading...,Laden ...,unreviewed,both
-Loam,Leem,unreviewed,erpnext
-Loamy Sand,Leemachtige zand,unreviewed,erpnext
-Loan,Lening,unreviewed,erpnext
-Loan Applications from customers and employees.,Leningaanvragen van klanten en werknemers.,unreviewed,erpnext
-Loan Closure,Lening sluiting,unreviewed,erpnext
-Loan End Date,Einddatum lening,unreviewed,erpnext
-Loan Period (Days),Uitleentermijn (dagen),unreviewed,erpnext
-Loan Processes,Lening processen,unreviewed,erpnext
-Loan repayment,Terugbetaling van schulden,unreviewed,erpnext
-Loan Start Date,Startdatum lening,unreviewed,erpnext
-Loan Start Date and Loan Period are mandatory to save the Invoice Discounting,De startdatum en de uitleentermijn van de lening zijn verplicht om de korting op de factuur op te slaan,unreviewed,erpnext
-Loan Type for interest and penalty rates,Type lening voor rente en boetes,unreviewed,erpnext
-Loans,Leningen,unreviewed,erpnext
-Loans (Liabilities),Leningen (Passiva),unreviewed,erpnext
-Loans and Advances (Assets),Leningen en voorschotten (activa),unreviewed,erpnext
-Loans provided to customers and employees.,Leningen verstrekt aan klanten en werknemers.,unreviewed,erpnext
-Local,lokaal,unreviewed,erpnext
-Local DocType,Lokaal DocType,unreviewed,frappe
-Local Document Type,Lokaal documenttype,unreviewed,frappe
-Local Fieldname,Lokale veldnaam,unreviewed,frappe
-Local Primary Key,Lokale primaire sleutel,unreviewed,frappe
+Loading Filters...,Filters laden ...,reviewed,frappe
+Loading import file...,Importbestand laden ...,reviewed,frappe
+Loading...,Laden ...,reviewed,both
+Loam,Leem,reviewed,erpnext
+Loamy Sand,Leemachtige zand,reviewed,erpnext
+Loan,Lening,reviewed,erpnext
+Loan Applications from customers and employees.,Leningaanvragen van klanten en werknemers.,reviewed,erpnext
+Loan Closure,Lening sluiting,reviewed,erpnext
+Loan End Date,Einddatum lening,reviewed,erpnext
+Loan Period (Days),Uitleentermijn (dagen),reviewed,erpnext
+Loan Processes,Lening processen,reviewed,erpnext
+Loan repayment,Terugbetaling van schulden,reviewed,erpnext
+Loan Start Date,Startdatum lening,reviewed,erpnext
+Loan Start Date and Loan Period are mandatory to save the Invoice Discounting,De startdatum en de uitleentermijn van de lening zijn verplicht om de korting op de factuur op te slaan,reviewed,erpnext
+Loan Type for interest and penalty rates,Type lening voor rente en boetes,reviewed,erpnext
+Loans,Leningen,reviewed,erpnext
+Loans (Liabilities),Leningen (Passiva),reviewed,erpnext
+Loans and Advances (Assets),Leningen en voorschotten (activa),reviewed,erpnext
+Loans provided to customers and employees.,Leningen verstrekt aan klanten en werknemers.,reviewed,erpnext
+Local,lokaal,reviewed,erpnext
+Local DocType,Lokaal DocType,reviewed,frappe
+Local Document Type,Lokaal documenttype,reviewed,frappe
+Local Fieldname,Lokale veldnaam,reviewed,frappe
+Local Primary Key,Lokale primaire sleutel,reviewed,frappe
 Location,Locatie,reviewed,both
-Location Details,Locatie details,unreviewed,erpnext
-Location Name,Locatie naam,unreviewed,erpnext
-Lock,Slot,unreviewed,erpnext
-lock,slot,unreviewed,frappe
-Log Cleanup,Logboekopruiming,unreviewed,frappe
-Log cleanup and notification configuration,Logboekopruiming en meldingsconfiguratie,unreviewed,frappe
-Log Data,Loggegevens,unreviewed,frappe
-Log in to access this page.,Log in om toegang te krijgen tot deze pagina.,unreviewed,frappe
-Log of error during requests.,Log van fout tijdens verzoeken.,unreviewed,frappe
-Log of error on automated events (scheduler).,Log van fout op geautomatiseerde evenementen ( scheduler ) .,unreviewed,frappe
-Log of Scheduler Errors,Log van Scheduler Fouten,unreviewed,frappe
-Log Setting User,Logboekinstelling gebruiker,unreviewed,frappe
-Log Settings,Log instellingen,unreviewed,frappe
+Location Details,Locatie details,reviewed,erpnext
+Location Name,Locatie naam,reviewed,erpnext
+Lock,Slot,reviewed,erpnext
+lock,slot,reviewed,frappe
+Log Cleanup,Logboekopruiming,reviewed,frappe
+Log cleanup and notification configuration,Logboekopruiming en meldingsconfiguratie,reviewed,frappe
+Log Data,Loggegevens,reviewed,frappe
+Log in to access this page.,Log in om toegang te krijgen tot deze pagina.,reviewed,frappe
+Log of error during requests.,Log van fout tijdens verzoeken.,reviewed,frappe
+Log of error on automated events (scheduler).,Log van fout op geautomatiseerde evenementen ( scheduler ) .,reviewed,frappe
+Log of Scheduler Errors,Log van Scheduler Fouten,reviewed,frappe
+Log Setting User,Logboekinstelling gebruiker,reviewed,frappe
+Log Settings,Log instellingen,reviewed,frappe
 Log Type,Logtype,reviewed,custom
-Logged in,Ingelogd,unreviewed,frappe
-logged in,ingelogd,unreviewed,frappe
-Logged in as Guest or Administrator,Aangemeld als Gast of Beheerder,unreviewed,frappe
-Logged Out,Uitgelogd,unreviewed,frappe
-Login After,Login Na,unreviewed,frappe
-Login and view in Browser,Inloggen en bekijken in browser,unreviewed,frappe
-Login Before,Login Voor,unreviewed,frappe
-Login Id is required,Inloggen Id is vereist,unreviewed,frappe
-Login not allowed at this time,Inloggen niet toegestaan op dit moment,unreviewed,frappe
-Login Required,Login Verplicht,unreviewed,frappe
-"Login session expired, refresh page to retry","Login sessie is verlopen, vernieuw pagina om opnieuw te proberen",unreviewed,frappe
-Login to comment,Log in om commentaar,unreviewed,frappe
-Login token required,Login token vereist,unreviewed,frappe
-Login Verification Code from {},Inlogverificatiecode van {},unreviewed,frappe
-Login with LDAP,Login met LDAP,unreviewed,frappe
-Logo Width,Logo breedte,unreviewed,frappe
-Logout,Afmelden,unreviewed,frappe
-Logout All Sessions,Alle sessies uitloggen,unreviewed,frappe
-Logout All Sessions on Password Reset,Alle sessies afmelden bij het opnieuw instellen van het wachtwoord,unreviewed,frappe
-Logout From All Devices After Changing Password,Afmelden bij alle apparaten na het wijzigen van het wachtwoord,unreviewed,frappe
-Logs for maintaining sms delivery status,Logs voor het behoud van sms afleverstatus,unreviewed,erpnext
-Long Text,Lange tekst,unreviewed,frappe
-Longitude,Lengtegraad,unreviewed,erpnext
-Looks Great,Ziet er geweldig uit,unreviewed,frappe
-Looks like someone sent you to an incomplete URL. Please ask them to look into it.,Het lijkt erop dat iemand die je verstuurd naar een onvolledige URL. Vraag hen om naar te kijken.,unreviewed,erpnext
-Looks like something is wrong with this site's payment gateway configuration. No payment has been made.,Het lijkt erop dat er iets mis is met de betaling gateway de configuratie van deze site. Geen betaling heeft plaatsgevonden.,unreviewed,frappe
-Looks like something is wrong with this site's Paypal configuration.,Het lijkt erop dat er iets mis is met de Paypal-configuratie van deze site.,unreviewed,frappe
-"Looks like something went wrong during the transaction. Since we haven't confirmed the payment, Paypal will automatically refund you this amount. If it doesn't, please send us an email and mention the Correlation ID: {0}.","Het lijkt erop dat er iets mis tijdens de transactie ging. Omdat we niet de betaling bevestigd, zal Paypal automatisch betalen u dit bedrag. Als dit niet gebeurt, stuur ons dan een e-mail met vermelding van Correlation ID: {0}.",unreviewed,frappe
-Looks like you didn't change the value,Het lijkt erop dat je de waarde niet hebt gewijzigd,unreviewed,frappe
-Lost,Verloren,unreviewed,erpnext
-Lost Opportunity,Kans verloren,unreviewed,erpnext
-Lost Quotation,verloren Offerte,unreviewed,erpnext
-Lost Reason,Reden van verlies,unreviewed,erpnext
-Lost Reason Detail,Verloren reden Detail,unreviewed,erpnext
-Lost Reasons,Verloren redenen,unreviewed,erpnext
-Low,Laag,unreviewed,both
-Low Sensitivity,Lage gevoeligheid,unreviewed,erpnext
-Lower Deduction Certificate,Lagere aftrekcertificaat,unreviewed,erpnext
-Lower Income,Lager inkomen,unreviewed,erpnext
-Loyalty Amount,Loyaliteit,unreviewed,erpnext
+Logged in,Ingelogd,reviewed,frappe
+logged in,ingelogd,reviewed,frappe
+Logged in as Guest or Administrator,Aangemeld als Gast of Beheerder,reviewed,frappe
+Logged Out,Uitgelogd,reviewed,frappe
+Login After,Login Na,reviewed,frappe
+Login and view in Browser,Inloggen en bekijken in browser,reviewed,frappe
+Login Before,Login Voor,reviewed,frappe
+Login Id is required,Inloggen Id is vereist,reviewed,frappe
+Login not allowed at this time,Inloggen niet toegestaan op dit moment,reviewed,frappe
+Login Required,Login Verplicht,reviewed,frappe
+"Login session expired, refresh page to retry","Login sessie is verlopen, vernieuw pagina om opnieuw te proberen",reviewed,frappe
+Login to comment,Log in om commentaar,reviewed,frappe
+Login token required,Login token vereist,reviewed,frappe
+Login Verification Code from {},Inlogverificatiecode van {},reviewed,frappe
+Login with LDAP,Login met LDAP,reviewed,frappe
+Logo Width,Logo breedte,reviewed,frappe
+Logout,Afmelden,reviewed,frappe
+Logout All Sessions,Alle sessies uitloggen,reviewed,frappe
+Logout All Sessions on Password Reset,Alle sessies afmelden bij het opnieuw instellen van het wachtwoord,reviewed,frappe
+Logout From All Devices After Changing Password,Afmelden bij alle apparaten na het wijzigen van het wachtwoord,reviewed,frappe
+Logs for maintaining sms delivery status,Logs voor het behoud van sms afleverstatus,reviewed,erpnext
+Long Text,Lange tekst,reviewed,frappe
+Longitude,Lengtegraad,reviewed,erpnext
+Looks Great,Ziet er geweldig uit,reviewed,frappe
+Looks like someone sent you to an incomplete URL. Please ask them to look into it.,Het lijkt erop dat iemand die je verstuurd naar een onvolledige URL. Vraag hen om naar te kijken.,reviewed,erpnext
+Looks like something is wrong with this site's payment gateway configuration. No payment has been made.,Het lijkt erop dat er iets mis is met de betaling gateway de configuratie van deze site. Geen betaling heeft plaatsgevonden.,reviewed,frappe
+Looks like something is wrong with this site's Paypal configuration.,Het lijkt erop dat er iets mis is met de Paypal-configuratie van deze site.,reviewed,frappe
+"Looks like something went wrong during the transaction. Since we haven't confirmed the payment, Paypal will automatically refund you this amount. If it doesn't, please send us an email and mention the Correlation ID: {0}.","Het lijkt erop dat er iets mis tijdens de transactie ging. Omdat we niet de betaling bevestigd, zal Paypal automatisch betalen u dit bedrag. Als dit niet gebeurt, stuur ons dan een e-mail met vermelding van Correlation ID: {0}.",reviewed,frappe
+Looks like you didn't change the value,Het lijkt erop dat je de waarde niet hebt gewijzigd,reviewed,frappe
+Lost,Verloren,reviewed,erpnext
+Lost Opportunity,Kans verloren,reviewed,erpnext
+Lost Quotation,verloren Offerte,reviewed,erpnext
+Lost Reason,Reden van verlies,reviewed,erpnext
+Lost Reason Detail,Verloren reden Detail,reviewed,erpnext
+Lost Reasons,Verloren redenen,reviewed,erpnext
+Low,Laag,reviewed,both
+Low Sensitivity,Lage gevoeligheid,reviewed,erpnext
+Lower Deduction Certificate,Lagere aftrekcertificaat,reviewed,erpnext
+Lower Income,Lager inkomen,reviewed,erpnext
+Loyalty Amount,Loyaliteit,reviewed,erpnext
 Loyalty Point Entry,Loyaliteitspunten boeking,reviewed,custom
-Loyalty Point Entry Redemption,Incentive Loyalty Point-ingang,unreviewed,erpnext
-Loyalty Points,Loyaliteitspunten,unreviewed,erpnext
-Loyalty Points Redemption,Loyalty Points-verlossing,unreviewed,erpnext
-"Loyalty Points will be calculated from the spent done (via the Sales Invoice), based on collection factor mentioned.","Loyaliteitspunten worden berekend op basis van het aantal gedaane uitgaven (via de verkoopfactuur), op basis van de genoemde verzamelfactor.",unreviewed,erpnext
-Loyalty Points: {0},Loyaliteitspunten: {0},unreviewed,erpnext
+Loyalty Point Entry Redemption,Incentive Loyalty Point-ingang,reviewed,erpnext
+Loyalty Points,Loyaliteitspunten,reviewed,erpnext
+Loyalty Points Redemption,Loyalty Points-verlossing,reviewed,erpnext
+"Loyalty Points will be calculated from the spent done (via the Sales Invoice), based on collection factor mentioned.","Loyaliteitspunten worden berekend op basis van het aantal gedaane uitgaven (via de verkoopfactuur), op basis van de genoemde verzamelfactor.",reviewed,erpnext
+Loyalty Points: {0},Loyaliteitspunten: {0},reviewed,erpnext
 Loyalty Program,Loyaliteitsprogramma,reviewed,erpnext
-Loyalty Program Help,Loyaliteitsprogramma Hulp,unreviewed,erpnext
-Loyalty Program Name,Naam loyaliteitsprogramma,unreviewed,erpnext
-Loyalty Program Tier,Loyaliteitsprogramma Tier,unreviewed,erpnext
-Loyalty Program Type,Type loyaliteitsprogramma,unreviewed,erpnext
-Machine malfunction,Machinestoring,unreviewed,erpnext
-Machine operator errors,Fouten van de machinebediener,unreviewed,erpnext
-Madam,Mevrouw,unreviewed,frappe
-magnet,magneet,unreviewed,frappe
-Main,Hoofd,unreviewed,erpnext
-Main Section,Hoofd Sectie,unreviewed,frappe
-Main Section (HTML),Hoofdsectie (HTML),unreviewed,frappe
-Main Section (Markdown),Hoofdsectie (Markdown),unreviewed,frappe
-Maintain Same Rate Throughout Sales Cycle,Handhaaf zelfde tarief gedurende verkoopcyclus,unreviewed,erpnext
-Maintain Same Rate Throughout the Purchase Cycle,Handhaaf hetzelfde tarief gedurende de hele aankoopcyclus,unreviewed,erpnext
-Maintain Stock,Handhaaf Stock,unreviewed,erpnext
-"Maintains a Log of all inserts, updates and deletions on Event Producer site for documents that have consumers.","Houdt een logboek bij van alle invoegingen, updates en verwijderingen op de site van Event Producer voor documenten met consumenten.",unreviewed,frappe
-Maintains a log of every event consumed along with the status of the sync and a Resync button in case sync fails.,Houdt een logboek bij van elke verbruikte gebeurtenis samen met de status van de synchronisatie en een knop Resync voor het geval de synchronisatie mislukt.,unreviewed,frappe
-Maintenance,Onderhoud,unreviewed,erpnext
-Maintenance Date,Onderhoud Datum,unreviewed,erpnext
-Maintenance Log,Onderhoudslogboek,unreviewed,erpnext
-Maintenance Manager Name,Naam onderhoudsmanager,unreviewed,erpnext
-Maintenance Required,Onderhoud vereist,unreviewed,erpnext
-Maintenance Role,Onderhoudsrol,unreviewed,erpnext
-Maintenance Schedule,Onderhoudsschema,unreviewed,erpnext
+Loyalty Program Help,Loyaliteitsprogramma Hulp,reviewed,erpnext
+Loyalty Program Name,Naam loyaliteitsprogramma,reviewed,erpnext
+Loyalty Program Tier,Loyaliteitsprogramma Tier,reviewed,erpnext
+Loyalty Program Type,Type loyaliteitsprogramma,reviewed,erpnext
+Machine malfunction,Machinestoring,reviewed,erpnext
+Machine operator errors,Fouten van de machinebediener,reviewed,erpnext
+Madam,Mevrouw,reviewed,frappe
+magnet,magneet,reviewed,frappe
+Main,Hoofd,reviewed,erpnext
+Main Section,Hoofd Sectie,reviewed,frappe
+Main Section (HTML),Hoofdsectie (HTML),reviewed,frappe
+Main Section (Markdown),Hoofdsectie (Markdown),reviewed,frappe
+Maintain Same Rate Throughout Sales Cycle,Handhaaf zelfde tarief gedurende verkoopcyclus,reviewed,erpnext
+Maintain Same Rate Throughout the Purchase Cycle,Handhaaf hetzelfde tarief gedurende de hele aankoopcyclus,reviewed,erpnext
+Maintain Stock,Handhaaf Stock,reviewed,erpnext
+"Maintains a Log of all inserts, updates and deletions on Event Producer site for documents that have consumers.","Houdt een logboek bij van alle invoegingen, updates en verwijderingen op de site van Event Producer voor documenten met consumenten.",reviewed,frappe
+Maintains a log of every event consumed along with the status of the sync and a Resync button in case sync fails.,Houdt een logboek bij van elke verbruikte gebeurtenis samen met de status van de synchronisatie en een knop Resync voor het geval de synchronisatie mislukt.,reviewed,frappe
+Maintenance,Onderhoud,reviewed,erpnext
+Maintenance Date,Onderhoud Datum,reviewed,erpnext
+Maintenance Log,Onderhoudslogboek,reviewed,erpnext
+Maintenance Manager Name,Naam onderhoudsmanager,reviewed,erpnext
+Maintenance Required,Onderhoud vereist,reviewed,erpnext
+Maintenance Role,Onderhoudsrol,reviewed,erpnext
+Maintenance Schedule,Onderhoudsschema,reviewed,erpnext
 Maintenance Schedule Detail,Onderhoudsschema Detail,unreviewed,erpnext
 Maintenance Schedule is not generated for all the items. Please click on 'Generate Schedule',Onderhoudsschema wordt niet gegenereerd voor alle items . Klik op ' Generate Schedule',unreviewed,erpnext
 Maintenance Schedule Item,Onderhoudsschema Item,unreviewed,erpnext

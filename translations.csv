@@ -12855,8 +12855,8 @@ Every 3 Weeks,Elke 3 weken,reviewed,hrms
 Every 4 Weeks,Elke 4 weken,reviewed,hrms
 Every Valid Check-in and Check-out,Elke geldige in- en uitklokking,reviewed,hrms
 Every Week,Elke week,reviewed,hrms
-"Everyone, let’s congratulate them on their work anniversary!",,unreviewed,hrms
-"Everyone, let’s congratulate {0} on their birthday.",,unreviewed,hrms
+"Everyone, let’s congratulate them on their work anniversary!","Iedereen, laten we hen feliciteren met hun werkjubileum!",reviewed,hrms
+"Everyone, let’s congratulate {0} on their birthday.","Iedereen, laten we {0} feliciteren met hun verjaardag.",reviewed,hrms
 Exam,Examen,reviewed,hrms
 Exchange rate of Payment Entry against Employee Advance,Wisselkoers van betalingsboeking ten opzichte van werknemersvoorschot,reviewed,hrms
 Exclude Holidays,Feestdagen uitsluiten,reviewed,hrms
@@ -15258,8 +15258,8 @@ Templates,Sjablonen,reviewed,crm
 Territories,Gebieden,reviewed,crm
 Thanks,Bedankt,reviewed,crm
 The Condition '{0}' is invalid: {1},De voorwaarde '{0}' is ongeldig: {1},reviewed,crm
-The rate used to convert the deal’s currency to your crm's base currency (set in CRM Settings). It is set once when the currency is first added and doesn't change automatically.,De koers die gebruikt wordt om de valuta van de deal om te zetten naar de basisvaluta van uw crm (ingesteld in CRM-instellingen). Deze wordt eenmalig ingesteld wanneer de valuta voor het eerst wordt toegevoegd en verandert niet automatisch.,unreviewed,crm
-The rate used to convert the organization’s currency to your crm's base currency (set in CRM Settings). It is set once when the currency is first added and doesn't change automatically.,De koers die gebruikt wordt om de valuta van de deal om te zetten naar de basisvaluta van uw crm (ingesteld in CRM-instellingen). Deze wordt eenmalig ingesteld wanneer de valuta voor het eerst wordt toegevoegd en verandert niet automatisch.,unreviewed,crm
+The rate used to convert the deal’s currency to your crm's base currency (set in CRM Settings). It is set once when the currency is first added and doesn't change automatically.,De koers die gebruikt wordt om de valuta van de deal om te zetten naar de basisvaluta van uw CRM,reviewed,crm
+The rate used to convert the organization’s currency to your crm's base currency (set in CRM Settings). It is set once when the currency is first added and doesn't change automatically.,De koers die gebruikt wordt om de valuta van de organisatie om te zetten naar de basisvaluta van uw CRM,reviewed,crm
 There can only be one default priority in Priorities table,Er kan maar één standaardprioriteit in de Prioriteiten tabel staan,reviewed,crm
 These fields are required: {0},Deze velden zijn verplicht: {0},reviewed,crm
 This field is required,Dit veld is verplicht,reviewed,crm
@@ -15449,7 +15449,7 @@ weeks before,weken van tevoren,reviewed,crm
 "0 is no feedback, 1 is Like, 2 is Dislike","0 is geen feedback, 1 is Leuk, 2 is Niet leuk",reviewed,helpdesk
 <br>Please update HD Settings to use a different status before disabling this status.,<br>Werk HD Instellingen bij om een andere status te gebruiken voordat u deze status uitschakelt.,reviewed,helpdesk
 <br>Please update the SLA(s) to use a different status before disabling this status.,<br>Werk de SLA('s) bij om een andere status te gebruiken voordat u deze status uitschakelt.,reviewed,helpdesk
-"<div class=""ql-editor read-mode""><p>Let us know if we solved your issue well. It’ll help us serve you better next time.</p></div>",,unreviewed,helpdesk
+"<div class=""ql-editor read-mode""><p>Let us know if we solved your issue well. It’ll help us serve you better next time.</p></div>","<div class=""ql-editor read-mode""><p>Laat ons weten of we uw probleem hebben opgelost. Uw feedback helpt ons om te verbeteren!</p></div>",reviewed,helpdesk
 "<span class=""h3"" style=""""><a href=""/helpdesk"">Visit Helpdesk</a></span>","<span class=""h3"" style=""""><a href=""/helpdesk"">Ga naar Helpdesk</a></span>",reviewed,helpdesk
 "<span class=""h4"">Helpdesk Configuration<br></span>","<span class=""h4"">Helpdesk Configuratie<br></span>",reviewed,helpdesk
 A short description,Een korte beschrijving,reviewed,helpdesk
@@ -15470,7 +15470,7 @@ Add a custom condition,Een aangepaste voorwaarde toevoegen,reviewed,helpdesk
 Add charts to get started,Voeg grafieken toe om te beginnen,reviewed,helpdesk
 Add condition,Voorwaarde toevoegen,reviewed,helpdesk
 Add condition group,Voorwaardengroep toevoegen,reviewed,helpdesk
-Add holidays here to make sure they’re excluded from SLA calculations.,,unreviewed,helpdesk
+Add holidays here to make sure they’re excluded from SLA calculations.,Voeg hier feestdagen toe zodat ze worden uitgesloten van SLA-berekeningen,reviewed,helpdesk
 Add members to this team to get started.,Voeg leden toe aan dit team om te beginnen.,reviewed,helpdesk
 Add recurring holidays such as weekends.,"Voeg terugkerende vrije dagen toe, zoals weekenden.",reviewed,helpdesk
 Add time targets around support milestones like first reply and resolution times.,Voeg tijdsdoelen toe voor ondersteuningsmijlpalen zoals eerste reactie- en oplostijden.,reviewed,helpdesk
@@ -15648,7 +15648,7 @@ Default priority,Standaard prioriteit,reviewed,helpdesk
 Default template can not be deleted,Het standaard Template kan niet worden verwijderd,reviewed,helpdesk
 Default ticket status,Standaard ticketstatus,reviewed,helpdesk
 Default ticket type,Standaard tickettype,reviewed,helpdesk
-Define who receives the tickets and how they’re distributed among agents.,,unreviewed,helpdesk
+Define who receives the tickets and how they’re distributed among agents.,Definieer wie de tickets ontvangt en hoe ze worden verdeeld over uw team,reviewed,helpdesk
 Delete articles,Artikelen verwijderen,reviewed,helpdesk
 Delete category?,Categorie verwijderen?,reviewed,helpdesk
 Description Template,Beschrijving Template,reviewed,helpdesk
@@ -16061,8 +16061,8 @@ Set Resolution Time for Priority {0} in row {1}.,Stel de oplossingstijd in voor 
 Set Response Time for Priority {0} in row {1}.,Stel de reactietijd in voor prioriteit {0} in rij {1}.,reviewed,helpdesk
 "Set the default status assigned when a ticket is created, and the status to apply when a ticket is reopened. If not specified, the default status from HD Settings will be used.","Stel de standaardstatus in die wordt toegewezen wanneer een ticket wordt aangemaakt, en de status die wordt toegepast wanneer een ticket wordt heropend. Als dit niet is opgegeven, wordt de standaardstatus uit HD-instellingen gebruikt.",reviewed,helpdesk
 "Set working days, hours, and holidays by selecting a predefined schedule or creating a new one.","Stel werkdagen, werktijden en feestdagen in door een vooraf gedefinieerd schema te kiezen of een nieuw schema aan te maken.",reviewed,helpdesk
-"Set your team’s working days, hours, and holidays using a template or custom schedule.",,unreviewed,helpdesk
-Setting <strong>{0}</strong> as the default SLA removes <strong>{1}</strong> as the default SLA. You’ll need to add a condition in <strong>{1}</strong> for the SLA to work.,,unreviewed,helpdesk
+"Set your team’s working days, hours, and holidays using a template or custom schedule.","Stel de werkdagen, werktijden en feestdagen van uw team in met een sjabloon",reviewed,helpdesk
+Setting <strong>{0}</strong> as the default SLA removes <strong>{1}</strong> as the default SLA. You’ll need to add a condition in <strong>{1}</strong> for the SLA to work.,<strong>{0}</strong> instellen als standaard SLA verwijdert <strong>{1}</strong> als standaard. Wilt u doorgaan?,reviewed,helpdesk
 Settings updated,Instellingen bijgewerkt,reviewed,helpdesk
 Settings updated successfully.,Instellingen zijn succesvol bijgewerkt.,reviewed,helpdesk
 Setup SLA,SLA instellen,reviewed,helpdesk

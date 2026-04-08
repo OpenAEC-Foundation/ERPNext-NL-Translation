@@ -15555,307 +15555,314 @@ Avg. resolution time,Gem. oplostijd,reviewed,helpdesk
 Avg. time taken to first respond to a ticket,Gem. tijd tot eerste reactie op een ticket,reviewed,helpdesk
 Avg. time taken to resolve a ticket,Gem. tijd om een ticket op te lossen,reviewed,helpdesk
 Back to Tickets,Terug naar tickets,reviewed,helpdesk
-Base Support Rotation,,unreviewed,helpdesk
-"Based on your HR Policy, select your leave allocation period's end date",Selecteer op basis van uw HR-beleid de einddatum van uw verlofperiode.,unreviewed,helpdesk
-"Based on your HR Policy, select your leave allocation period's start date",Selecteer op basis van uw HR-beleid de startdatum van uw verlofperiode.,unreviewed,helpdesk
-Brand name,Merknaam,unreviewed,helpdesk
-Business Holidays,,unreviewed,helpdesk
-Call Logs,,unreviewed,helpdesk
-"Can invite new agents, manage tickets, create custom views and manage public views.",,unreviewed,helpdesk
-Can manage all aspects of Helpdesk.,,unreviewed,helpdesk
-"Can work on tickets, create custom views and manage private views.",,unreviewed,helpdesk
-Cancel Invitation,,unreviewed,helpdesk
-Cannot delete the default SLA. At least one SLA must be marked as default.,,unreviewed,helpdesk
-Cannot disable this status as it is linked in HD Settings:<br><br>,,unreviewed,helpdesk
-Cannot disable this status as it is linked in the following SLAs:<br><br>,,unreviewed,helpdesk
-Cannot merge General category,,unreviewed,helpdesk
-Category '{0}' link copied to clipboard,,unreviewed,helpdesk
-Category created successfully.,,unreviewed,helpdesk
-Category deleted successfully.,Categorie succesvol verwijderd.,unreviewed,helpdesk
-Category merged successfully.,,unreviewed,helpdesk
-Category must have atleast one article,,unreviewed,helpdesk
-Category updated successfully.,Categorie succesvol bijgewerkt.,unreviewed,helpdesk
-Change image,Afbeelding wijzigen,unreviewed,helpdesk
-Change photo,,unreviewed,helpdesk
-Change priority,,unreviewed,helpdesk
-Change status,Status wijzigen,unreviewed,helpdesk
-Change team,,unreviewed,helpdesk
-Change ticket type,,unreviewed,helpdesk
-Change your search terms or filters,,unreviewed,helpdesk
-Change your search terms to find teams.,,unreviewed,helpdesk
-Channels,,unreviewed,helpdesk
-Child field,,unreviewed,helpdesk
-Choose how tickets are distributed among selected assignees.,,unreviewed,helpdesk
-Choose the duration of this holiday list.,,unreviewed,helpdesk
-Choose the email service provider you want to configure.,Kies de e-mailprovider die u wilt configureren.,unreviewed,helpdesk
-Choose which tickets are affected by this assignment rule.,,unreviewed,helpdesk
-Choose which tickets are affected by this policy.,,unreviewed,helpdesk
-Choose which tickets are affected by this un-assignment rule.,,unreviewed,helpdesk
-Choose who can view and use this response.,,unreviewed,helpdesk
-Choose who receives the tickets.,,unreviewed,helpdesk
-Clear all filters,,unreviewed,helpdesk
-Click on Add to Holidays. This will populate the holidays table with all the dates that fall on the selected weekly off. Repeat the process for populating the dates for all your weekly holidays,Klik op 'Toevoegen aan feestdagen'. Hiermee wordt de tabel met feestdagen gevuld met alle datums die op de geselecteerde vrije week vallen. Herhaal dit proces om de datums voor al uw wekelijkse feestdagen in te vullen.,unreviewed,helpdesk
-Close Ticket,,unreviewed,helpdesk
-Closed or rated tickets cannot be updated by non-agents,,unreviewed,helpdesk
-Comma separated emails to invite.,,unreviewed,helpdesk
-Comment cannot be empty.,,unreviewed,helpdesk
-Comment deleted sucessfully.,,unreviewed,helpdesk
-Comment not found,,unreviewed,helpdesk
-Comment updated successfully.,,unreviewed,helpdesk
-Commented By,,unreviewed,helpdesk
-Communication ID is required,,unreviewed,helpdesk
-Configure your Exotel settings for Helpdesk.,,unreviewed,helpdesk
-Configure your Exotel telephony integration settings here,,unreviewed,helpdesk
-Configure your Twilio settings for Helpdesk.,,unreviewed,helpdesk
-Configure your Twilio telephony integration settings here,,unreviewed,helpdesk
-Configure your telephony settings.,,unreviewed,helpdesk
-Confirm Changes,,unreviewed,helpdesk
-Confirm overwrite,Bevestig overschrijven,unreviewed,helpdesk
-Connect your support email,,unreviewed,helpdesk
-Contact created successfully.,,unreviewed,helpdesk
-Contact invited successfully.,,unreviewed,helpdesk
-Contact updated successfully.,,unreviewed,helpdesk
-Contact with email already exists,,unreviewed,helpdesk
-Content Type,Inhoudstype,unreviewed,helpdesk
-Copy ticket URL,,unreviewed,helpdesk
-Copy ticket id,,unreviewed,helpdesk
-Could not an email due to: {0},,unreviewed,helpdesk
-Could not send an acknowledgement email due to: {0},,unreviewed,helpdesk
-"Could not send feedback email,due to: {0}",,unreviewed,helpdesk
-Create & invite a contact,,unreviewed,helpdesk
-Create a ticket,,unreviewed,helpdesk
-Create an article,,unreviewed,helpdesk
-Create and manage teams and assign agents to specific teams.,,unreviewed,helpdesk
-Create field dependencies to dynamically update options based on user selections. Learn more about field dependencies,,unreviewed,helpdesk
-Create new business holiday,,unreviewed,helpdesk
-Created by,,unreviewed,helpdesk
-Criterion,,unreviewed,helpdesk
-Custom Outside Working Hours Message,,unreviewed,helpdesk
-Customer created successfully.,Klant succesvol aangemaakt.,unreviewed,helpdesk
-Customer portal,,unreviewed,helpdesk
-Customer updated successfully.,,unreviewed,helpdesk
-Customize your email notification preferences to stay informed about important updates and activities.,,unreviewed,helpdesk
-Cyan,Cyaan,unreviewed,helpdesk
-Dashboard saved,,unreviewed,helpdesk
-Day count for auto closing tickets cannot be negative or zero,,unreviewed,helpdesk
-Default SLA,,unreviewed,helpdesk
-Default Ticket Status,,unreviewed,helpdesk
-Default Views,,unreviewed,helpdesk
-Default actions,,unreviewed,helpdesk
-Default calling medium for logged in user,Standaard gespreksmedium voor ingelogde gebruiker,unreviewed,helpdesk
-Default medium,Standaard medium,unreviewed,helpdesk
-Default priority,,unreviewed,helpdesk
-Default template can not be deleted,,unreviewed,helpdesk
-Default ticket status,,unreviewed,helpdesk
-Default ticket type,,unreviewed,helpdesk
+Base Support Rotation,Basisrotatie ondersteuning,reviewed,helpdesk
+"Based on your HR Policy, select your leave allocation period's end date",Selecteer op basis van uw HR-beleid de einddatum van uw verlofperiode.,reviewed,helpdesk
+"Based on your HR Policy, select your leave allocation period's start date",Selecteer op basis van uw HR-beleid de startdatum van uw verlofperiode.,reviewed,helpdesk
+Brand name,Merknaam,reviewed,helpdesk
+Business Holidays,Bedrijfsvakanties,reviewed,helpdesk
+Call Logs,Gesprekslogboeken,reviewed,helpdesk
+"Can invite new agents, manage tickets, create custom views and manage public views.","Kan nieuwe Agents uitnodigen, Tickets beheren, aangepaste weergaven aanmaken en openbare weergaven beheren.",reviewed,helpdesk
+Can manage all aspects of Helpdesk.,Kan alle aspecten van Helpdesk beheren.,reviewed,helpdesk
+"Can work on tickets, create custom views and manage private views.","Kan aan Tickets werken, aangepaste weergaven aanmaken en persoonlijke weergaven beheren.",reviewed,helpdesk
+Cancel Invitation,Uitnodiging annuleren,reviewed,helpdesk
+Cannot delete the default SLA. At least one SLA must be marked as default.,De standaard-SLA kan niet worden verwijderd. Er moet minimaal één SLA als standaard zijn ingesteld.,reviewed,helpdesk
+Cannot disable this status as it is linked in HD Settings:<br><br>,Deze status kan niet worden uitgeschakeld omdat deze is gekoppeld in HD-instellingen:<br><br>,reviewed,helpdesk
+Cannot disable this status as it is linked in the following SLAs:<br><br>,Deze status kan niet worden uitgeschakeld omdat deze is gekoppeld aan de volgende SLA's:<br><br>,reviewed,helpdesk
+Cannot merge General category,De categorie Algemeen kan niet worden samengevoegd,reviewed,helpdesk
+Category '{0}' link copied to clipboard,Link van categorie '{0}' gekopieerd naar klembord,reviewed,helpdesk
+Category created successfully.,Categorie succesvol aangemaakt.,reviewed,helpdesk
+Category deleted successfully.,Categorie succesvol verwijderd.,reviewed,helpdesk
+Category merged successfully.,Categorie succesvol samengevoegd.,reviewed,helpdesk
+Category must have atleast one article,Een categorie moet minimaal één artikel bevatten,reviewed,helpdesk
+Category updated successfully.,Categorie succesvol bijgewerkt.,reviewed,helpdesk
+Change image,Afbeelding wijzigen,reviewed,helpdesk
+Change photo,Foto wijzigen,reviewed,helpdesk
+Change priority,Prioriteit wijzigen,reviewed,helpdesk
+Change status,Status wijzigen,reviewed,helpdesk
+Change team,Team wijzigen,reviewed,helpdesk
+Change ticket type,Tickettype wijzigen,reviewed,helpdesk
+Change your search terms or filters,Pas uw zoektermen of filters aan,reviewed,helpdesk
+Change your search terms to find teams.,Pas uw zoektermen aan om teams te vinden.,reviewed,helpdesk
+Channels,Kanalen,reviewed,helpdesk
+Child field,Onderliggend veld,reviewed,helpdesk
+Choose how tickets are distributed among selected assignees.,Kies hoe Tickets worden verdeeld over de geselecteerde ontvangers.,reviewed,helpdesk
+Choose the duration of this holiday list.,Kies de duur van deze feestdagenlijst.,reviewed,helpdesk
+Choose the email service provider you want to configure.,Kies de e-mailprovider die u wilt configureren.,reviewed,helpdesk
+Choose which tickets are affected by this assignment rule.,Kies welke Tickets door deze toewijzingsregel worden beïnvloed.,reviewed,helpdesk
+Choose which tickets are affected by this policy.,Kies welke Tickets door dit beleid worden beïnvloed.,reviewed,helpdesk
+Choose which tickets are affected by this un-assignment rule.,Kies welke Tickets door deze ontkoppelingsregel worden beïnvloed.,reviewed,helpdesk
+Choose who can view and use this response.,Kies wie dit antwoord kan bekijken en gebruiken.,reviewed,helpdesk
+Choose who receives the tickets.,Kies wie de Tickets ontvangt.,reviewed,helpdesk
+Clear all filters,Alle filters wissen,reviewed,helpdesk
+Click on Add to Holidays. This will populate the holidays table with all the dates that fall on the selected weekly off. Repeat the process for populating the dates for all your weekly holidays,Klik op 'Toevoegen aan feestdagen'. Hiermee wordt de tabel met feestdagen gevuld met alle datums die op de geselecteerde vrije week vallen. Herhaal dit proces om de datums voor al uw wekelijkse feestdagen in te vullen.,reviewed,helpdesk
+Close Ticket,Ticket sluiten,reviewed,helpdesk
+Closed or rated tickets cannot be updated by non-agents,Gesloten of beoordeelde Tickets kunnen niet worden bijgewerkt door niet-Agents,reviewed,helpdesk
+Comma separated emails to invite.,"E-mailadressen om uit te nodigen, gescheiden door komma's.",reviewed,helpdesk
+Comment cannot be empty.,Opmerking mag niet leeg zijn.,reviewed,helpdesk
+Comment deleted sucessfully.,Opmerking succesvol verwijderd.,reviewed,helpdesk
+Comment not found,Opmerking niet gevonden,reviewed,helpdesk
+Comment updated successfully.,Opmerking succesvol bijgewerkt.,reviewed,helpdesk
+Commented By,Opmerking geplaatst door,reviewed,helpdesk
+Communication ID is required,Communicatie-ID is vereist,reviewed,helpdesk
+Configure your Exotel settings for Helpdesk.,Configureer uw Exotel-instellingen voor Helpdesk.,reviewed,helpdesk
+Configure your Exotel telephony integration settings here,Configureer hier uw Exotel-telefonie-integratie-instellingen,reviewed,helpdesk
+Configure your Twilio settings for Helpdesk.,Configureer uw Twilio-instellingen voor Helpdesk.,reviewed,helpdesk
+Configure your Twilio telephony integration settings here,Configureer hier uw Twilio-telefonie-integratie-instellingen,reviewed,helpdesk
+Configure your telephony settings.,Configureer uw telefonie-instellingen.,reviewed,helpdesk
+Confirm Changes,Wijzigingen bevestigen,reviewed,helpdesk
+Confirm overwrite,Bevestig overschrijven,reviewed,helpdesk
+Connect your support email,Koppel uw support-e-mailadres,reviewed,helpdesk
+Contact created successfully.,Contact succesvol aangemaakt.,reviewed,helpdesk
+Contact invited successfully.,Contact succesvol uitgenodigd.,reviewed,helpdesk
+Contact updated successfully.,Contact succesvol bijgewerkt.,reviewed,helpdesk
+Contact with email already exists,Er bestaat al een contact met dit e-mailadres,reviewed,helpdesk
+Content Type,Inhoudstype,reviewed,helpdesk
+Copy ticket URL,Ticket-URL kopiëren,reviewed,helpdesk
+Copy ticket id,Ticket-ID kopiëren,reviewed,helpdesk
+Could not an email due to: {0},Er kon geen e-mail worden verzonden vanwege: {0},reviewed,helpdesk
+Could not send an acknowledgement email due to: {0},Er kon geen bevestigingsmail worden verzonden vanwege: {0},reviewed,helpdesk
+"Could not send feedback email,due to: {0}",Er kon geen feedbackmail worden verzonden vanwege: {0},reviewed,helpdesk
+Create & invite a contact,Contact aanmaken en uitnodigen,reviewed,helpdesk
+Create a ticket,Een Ticket aanmaken,reviewed,helpdesk
+Create an article,Een artikel aanmaken,reviewed,helpdesk
+Create and manage teams and assign agents to specific teams.,"Maak teams aan en beheer deze, en wijs Agents toe aan specifieke teams.",reviewed,helpdesk
+Create field dependencies to dynamically update options based on user selections. Learn more about field dependencies,Maak veldafhankelijkheden aan om opties dynamisch bij te werken op basis van gebruikersselecties. Meer informatie over veldafhankelijkheden,reviewed,helpdesk
+Create new business holiday,Nieuwe bedrijfsvakantie aanmaken,reviewed,helpdesk
+Created by,Aangemaakt door,reviewed,helpdesk
+Criterion,Criterium,reviewed,helpdesk
+Custom Outside Working Hours Message,Aangepast bericht buiten werktijden,reviewed,helpdesk
+Customer created successfully.,Klant succesvol aangemaakt.,reviewed,helpdesk
+Customer portal,Klantenportaal,reviewed,helpdesk
+Customer updated successfully.,Klant succesvol bijgewerkt.,reviewed,helpdesk
+Customize your email notification preferences to stay informed about important updates and activities.,Pas uw e-mailmeldingsvoorkeuren aan om op de hoogte te blijven van belangrijke updates en activiteiten.,reviewed,helpdesk
+Cyan,Cyaan,reviewed,helpdesk
+Dashboard saved,Dashboard opgeslagen,reviewed,helpdesk
+Day count for auto closing tickets cannot be negative or zero,Het aantal dagen voor automatisch sluiten van Tickets mag niet negatief of nul zijn,reviewed,helpdesk
+Default SLA,Standaard-SLA,reviewed,helpdesk
+Default Ticket Status,Standaard ticketstatus,reviewed,helpdesk
+Default Views,Standaardweergaven,reviewed,helpdesk
+Default actions,Standaardacties,reviewed,helpdesk
+Default calling medium for logged in user,Standaard gespreksmedium voor ingelogde gebruiker,reviewed,helpdesk
+Default medium,Standaard medium,reviewed,helpdesk
+Default priority,Standaard prioriteit,reviewed,helpdesk
+Default template can not be deleted,Het standaard Template kan niet worden verwijderd,reviewed,helpdesk
+Default ticket status,Standaard ticketstatus,reviewed,helpdesk
+Default ticket type,Standaard tickettype,reviewed,helpdesk
 Define who receives the tickets and how they’re distributed among agents.,,unreviewed,helpdesk
-Delete articles,,unreviewed,helpdesk
-Delete category?,,unreviewed,helpdesk
-Description Template,,unreviewed,helpdesk
-Description Weight,,unreviewed,helpdesk
-Detailed explanation,,unreviewed,helpdesk
-Disable Bypass Restrictions,,unreviewed,helpdesk
-Disable global saved replies,,unreviewed,helpdesk
-Disable saved replies with scope 'Global',,unreviewed,helpdesk
-Disable signup,,unreviewed,helpdesk
-"Disables all email notifications for the ticket - including creation, updates, and alerts.",,unreviewed,helpdesk
-Discard Article,,unreviewed,helpdesk
-Discard changes?,,unreviewed,helpdesk
-Display a customizable banner message when customers raise tickets outside your working hours.,,unreviewed,helpdesk
-Do not apply filters and restrictions to agents of this team,,unreviewed,helpdesk
-Do not restrict tickets without a Team,,unreviewed,helpdesk
-Do not restrict tickets without a team,,unreviewed,helpdesk
-Docs,,unreviewed,helpdesk
-Duplicate Holiday List,,unreviewed,helpdesk
-Duplicate Saved reply,,unreviewed,helpdesk
-Duration is required,,unreviewed,helpdesk
-"Easily invite new agents, managers, or admins.",,unreviewed,helpdesk
-Edit Domain,,unreviewed,helpdesk
-Edit Title,,unreviewed,helpdesk
-Edit your email account,,unreviewed,helpdesk
-Email Content,,unreviewed,helpdesk
-Email Notifications,,unreviewed,helpdesk
-Email account created,,unreviewed,helpdesk
-Email account name,,unreviewed,helpdesk
-Email account updated successfully,E-mailaccount succesvol bijgewerkt,unreviewed,helpdesk
-Email should not be empty,,unreviewed,helpdesk
-Emails pulled successfully,,unreviewed,helpdesk
-Emoji,,unreviewed,helpdesk
-Enable Bypass Restrictions,,unreviewed,helpdesk
-Enable comment reactions,,unreviewed,helpdesk
-Enable feedback for Customer Portal,,unreviewed,helpdesk
-Enter a name for this HD Service Holiday List.,,unreviewed,helpdesk
-Enter a valid email,,unreviewed,helpdesk
-Enter a valid phone number,,unreviewed,helpdesk
-Enter brand name,Voer merknaam in,unreviewed,helpdesk
-Enter the new name for the team,,unreviewed,helpdesk
-Error moving article to category,,unreviewed,helpdesk
-"Error processing email at index {0}, message: {1}",,unreviewed,helpdesk
-Error updating customer,,unreviewed,helpdesk
-Escalation rule already exists for this criteria,,unreviewed,helpdesk
-Explore customer portal,,unreviewed,helpdesk
-Export All {0} Record(s),Exporteer alle {0} Record(s),unreviewed,helpdesk
-External link,,unreviewed,helpdesk
-Failed to create category,,unreviewed,helpdesk
-"Failed to create email account, Invalid credentials","Maken van e-mailaccount is mislukt, ongeldige referenties",unreviewed,helpdesk
-Failed to delete ticket.,,unreviewed,helpdesk
-Failed to load telephony agent,,unreviewed,helpdesk
-Failed to pull emails,,unreviewed,helpdesk
-Failed to save Exotel settings,,unreviewed,helpdesk
-Failed to save Twilio settings,,unreviewed,helpdesk
-Failed to update Assignee's.,,unreviewed,helpdesk
-Failed to update category.,,unreviewed,helpdesk
-"Failed to update email account, Invalid credentials","E-mailaccount bijwerken is mislukt, ongeldige referenties",unreviewed,helpdesk
-Feedback ,Terugkoppeling ,unreviewed,helpdesk
-Feedback (Extra),,unreviewed,helpdesk
-Feedback (Option),,unreviewed,helpdesk
-Feedback Already Exists,,unreviewed,helpdesk
-Feedback Rating,,unreviewed,helpdesk
-Feedback Trend,,unreviewed,helpdesk
-Feedback email has been sent to the customer,,unreviewed,helpdesk
-Feedback submitted successfully.,,unreviewed,helpdesk
-Field (fieldname),,unreviewed,helpdesk
-Field Dependencies,,unreviewed,helpdesk
-Field Dependency created successfully,,unreviewed,helpdesk
-Field Dependency updated successfully,,unreviewed,helpdesk
-Field `{0}` does not exist in Ticket,,unreviewed,helpdesk
-Field `{0}` is not allowed in Ticket Template,,unreviewed,helpdesk
-Field dependency deleted successfully.,,unreviewed,helpdesk
-Field dependency updated successfully.,,unreviewed,helpdesk
-Find out all of the variables that can be used in the content,,unreviewed,helpdesk
-First Response Time for Tickets,,unreviewed,helpdesk
-First name should not be empty,,unreviewed,helpdesk
-From date,,unreviewed,helpdesk
-From is required,,unreviewed,helpdesk
-General category can't be deleted,,unreviewed,helpdesk
-General category name can't be changed,,unreviewed,helpdesk
-General is a reserved category name. Please use a different name to proceed.,,unreviewed,helpdesk
-Global,,unreviewed,helpdesk
-Go to Ticket #{0},,unreviewed,helpdesk
-Gray,Grijs,unreviewed,helpdesk
-Great! All your tickets are within SLA,,unreviewed,helpdesk
-Guide users to articles before tickets.,,unreviewed,helpdesk
-HD Action,,unreviewed,helpdesk
-HD Agent,,unreviewed,helpdesk
-HD Article,,unreviewed,helpdesk
-HD Article Category,,unreviewed,helpdesk
-HD Article Feedback,,unreviewed,helpdesk
-HD Comment Reaction,,unreviewed,helpdesk
-HD Customer,,unreviewed,helpdesk
-HD Desk Account Request,,unreviewed,helpdesk
-HD Email Feedback,,unreviewed,helpdesk
-HD Escalation Rule,,unreviewed,helpdesk
-HD Field Layout,,unreviewed,helpdesk
-HD Form Script,,unreviewed,helpdesk
-HD Holiday,,unreviewed,helpdesk
-HD Notification,,unreviewed,helpdesk
-HD Organization,,unreviewed,helpdesk
-HD Organization Contact Item,,unreviewed,helpdesk
-HD Portal Signup Request,,unreviewed,helpdesk
-HD Saved Reply,,unreviewed,helpdesk
-HD Saved Reply Team,,unreviewed,helpdesk
-HD Service Day,,unreviewed,helpdesk
-HD Service Holiday List,,unreviewed,helpdesk
-HD Service Level Agreement,,unreviewed,helpdesk
-HD Service Level Priority,,unreviewed,helpdesk
-HD Settings,,unreviewed,helpdesk
-HD Stopword,,unreviewed,helpdesk
-HD Support Search Source,,unreviewed,helpdesk
-HD Synonym,,unreviewed,helpdesk
-HD Synonyms,,unreviewed,helpdesk
-HD Team,,unreviewed,helpdesk
-HD Team Member,,unreviewed,helpdesk
-HD Ticket,,unreviewed,helpdesk
-HD Ticket Activity,,unreviewed,helpdesk
-HD Ticket Comment,,unreviewed,helpdesk
-HD Ticket Feedback Option,,unreviewed,helpdesk
-HD Ticket Priority,,unreviewed,helpdesk
-HD Ticket Status,,unreviewed,helpdesk
-HD Ticket Template,,unreviewed,helpdesk
-HD Ticket Template Field,,unreviewed,helpdesk
-HD Ticket Type,,unreviewed,helpdesk
-HD View,,unreviewed,helpdesk
-Headings Weight,,unreviewed,helpdesk
+Delete articles,Artikelen verwijderen,reviewed,helpdesk
+Delete category?,Categorie verwijderen?,reviewed,helpdesk
+Description Template,Beschrijving Template,reviewed,helpdesk
+Description Weight,Beschrijvingsgewicht,reviewed,helpdesk
+Detailed explanation,Uitgebreide toelichting,reviewed,helpdesk
+Disable Bypass Restrictions,Beperkingen omzeilen uitschakelen,reviewed,helpdesk
+Disable global saved replies,Globale opgeslagen antwoorden uitschakelen,reviewed,helpdesk
+Disable saved replies with scope 'Global',Opgeslagen antwoorden met bereik 'Globaal' uitschakelen,reviewed,helpdesk
+Disable signup,Aanmelding uitschakelen,reviewed,helpdesk
+"Disables all email notifications for the ticket - including creation, updates, and alerts.","Schakelt alle e-mailmeldingen voor het Ticket uit, inclusief aanmaak, updates en waarschuwingen.",reviewed,helpdesk
+Discard Article,Artikel verwerpen,reviewed,helpdesk
+Discard changes?,Wijzigingen verwerpen?,reviewed,helpdesk
+Display a customizable banner message when customers raise tickets outside your working hours.,Toon een aanpasbaar bannerbericht wanneer klanten Tickets indienen buiten uw werktijden.,reviewed,helpdesk
+Do not apply filters and restrictions to agents of this team,Pas geen filters en beperkingen toe op Agents van dit team,reviewed,helpdesk
+Do not restrict tickets without a Team,Beperk Tickets zonder een Team niet,reviewed,helpdesk
+Do not restrict tickets without a team,Beperk Tickets zonder een team niet,reviewed,helpdesk
+Docs,Documentatie,reviewed,helpdesk
+Duplicate Holiday List,Verloflijst dupliceren,reviewed,helpdesk
+Duplicate Saved reply,Opgeslagen antwoord dupliceren,reviewed,helpdesk
+Duration is required,Duur is verplicht,reviewed,helpdesk
+"Easily invite new agents, managers, or admins.","Nodig eenvoudig nieuwe Agents, managers of beheerders uit.",reviewed,helpdesk
+Edit Domain,Domein bewerken,reviewed,helpdesk
+Edit Title,Titel bewerken,reviewed,helpdesk
+Edit your email account,Bewerk uw e-mailaccount,reviewed,helpdesk
+Email Content,E-mailinhoud,reviewed,helpdesk
+Email Notifications,E-mailmeldingen,reviewed,helpdesk
+Email account created,E-mailaccount aangemaakt,reviewed,helpdesk
+Email account name,Naam e-mailaccount,reviewed,helpdesk
+Email account updated successfully,E-mailaccount succesvol bijgewerkt,reviewed,helpdesk
+Email should not be empty,E-mailadres mag niet leeg zijn,reviewed,helpdesk
+Emails pulled successfully,E-mails succesvol opgehaald,reviewed,helpdesk
+Emoji,Emoji,reviewed,helpdesk
+Enable Bypass Restrictions,Beperkingen omzeilen inschakelen,reviewed,helpdesk
+Enable comment reactions,Reacties op opmerkingen inschakelen,reviewed,helpdesk
+Enable feedback for Customer Portal,Terugkoppeling voor Klantenportaal inschakelen,reviewed,helpdesk
+Enter a name for this HD Service Holiday List.,Voer een naam in voor deze HD Service Verloflijst.,reviewed,helpdesk
+Enter a valid email,Voer een geldig e-mailadres in,reviewed,helpdesk
+Enter a valid phone number,Voer een geldig telefoonnummer in,reviewed,helpdesk
+Enter brand name,Voer merknaam in,reviewed,helpdesk
+Enter the new name for the team,Voer de nieuwe naam voor het team in,reviewed,helpdesk
+Error moving article to category,Fout bij verplaatsen van artikel naar categorie,reviewed,helpdesk
+"Error processing email at index {0}, message: {1}","Fout bij verwerken van e-mail op index {0}, bericht: {1}",reviewed,helpdesk
+Error updating customer,Fout bij bijwerken van klant,reviewed,helpdesk
+Escalation rule already exists for this criteria,Escalatieregel bestaat al voor dit criterium,reviewed,helpdesk
+Explore customer portal,Klantenportaal verkennen,reviewed,helpdesk
+Export All {0} Record(s),Exporteer alle {0} Record(s),reviewed,helpdesk
+External link,Externe koppeling,reviewed,helpdesk
+Failed to create category,Categorie aanmaken mislukt,reviewed,helpdesk
+"Failed to create email account, Invalid credentials","Maken van e-mailaccount is mislukt, ongeldige referenties",reviewed,helpdesk
+Failed to delete ticket.,Ticket verwijderen mislukt.,reviewed,helpdesk
+Failed to load telephony agent,Telefonie-agent laden mislukt,reviewed,helpdesk
+Failed to pull emails,E-mails ophalen mislukt,reviewed,helpdesk
+Failed to save Exotel settings,Exotel-instellingen opslaan mislukt,reviewed,helpdesk
+Failed to save Twilio settings,Twilio-instellingen opslaan mislukt,reviewed,helpdesk
+Failed to update Assignee's.,Bijwerken van toegewezen personen mislukt.,reviewed,helpdesk
+Failed to update category.,Categorie bijwerken mislukt.,reviewed,helpdesk
+"Failed to update email account, Invalid credentials","E-mailaccount bijwerken is mislukt, ongeldige referenties",reviewed,helpdesk
+Feedback ,Terugkoppeling ,reviewed,helpdesk
+Feedback (Extra),Terugkoppeling (Extra),reviewed,helpdesk
+Feedback (Option),Terugkoppeling (Optie),reviewed,helpdesk
+Feedback Already Exists,Terugkoppeling bestaat al,reviewed,helpdesk
+Feedback Rating,Terugkoppelingsbeoordeling,reviewed,helpdesk
+Feedback Trend,Terugkoppellingstrend,reviewed,helpdesk
+Feedback email has been sent to the customer,Terugkoppelingsmail is verzonden naar de klant,reviewed,helpdesk
+Feedback submitted successfully.,Terugkoppeling succesvol verzonden.,reviewed,helpdesk
+Field (fieldname),Veld (veldnaam),reviewed,helpdesk
+Field Dependencies,Veldafhankelijkheden,reviewed,helpdesk
+Field Dependency created successfully,Veldafhankelijkheid succesvol aangemaakt,reviewed,helpdesk
+Field Dependency updated successfully,Veldafhankelijkheid succesvol bijgewerkt,reviewed,helpdesk
+Field `{0}` does not exist in Ticket,Veld `{0}` bestaat niet in Ticket,reviewed,helpdesk
+Field `{0}` is not allowed in Ticket Template,Veld `{0}` is niet toegestaan in Ticket Template,reviewed,helpdesk
+Field dependency deleted successfully.,Veldafhankelijkheid succesvol verwijderd.,reviewed,helpdesk
+Field dependency updated successfully.,Veldafhankelijkheid succesvol bijgewerkt.,reviewed,helpdesk
+Find out all of the variables that can be used in the content,Bekijk alle variabelen die in de inhoud gebruikt kunnen worden,reviewed,helpdesk
+First Response Time for Tickets,Eerste reactietijd voor Tickets,reviewed,helpdesk
+First name should not be empty,Voornaam mag niet leeg zijn,reviewed,helpdesk
+From date,Begindatum,reviewed,helpdesk
+From is required,Begindatum is verplicht,reviewed,helpdesk
+General category can't be deleted,Algemene categorie kan niet worden verwijderd,reviewed,helpdesk
+General category name can't be changed,Naam van de algemene categorie kan niet worden gewijzigd,reviewed,helpdesk
+General is a reserved category name. Please use a different name to proceed.,Algemeen is een gereserveerde categorienaam. Gebruik een andere naam om door te gaan.,reviewed,helpdesk
+Global,Globaal,reviewed,helpdesk
+Go to Ticket #{0},Ga naar Ticket #{0},reviewed,helpdesk
+Gray,Grijs,reviewed,helpdesk
+Great! All your tickets are within SLA,Geweldig! Al uw Tickets vallen binnen de SLA,reviewed,helpdesk
+Guide users to articles before tickets.,Stuur gebruikers door naar artikelen voordat ze een Ticket indienen.,reviewed,helpdesk
+HD Action,HD Actie,reviewed,helpdesk
+HD Agent,HD Agent,reviewed,helpdesk
+HD Article,HD Artikel,reviewed,helpdesk
+HD Article Category,HD Artikelcategorie,reviewed,helpdesk
+HD Article Feedback,HD Artikelterugkoppeling,reviewed,helpdesk
+HD Comment Reaction,HD Opmerkingsreactie,reviewed,helpdesk
+HD Customer,HD Klant,reviewed,helpdesk
+HD Desk Account Request,HD Desk Accountverzoek,reviewed,helpdesk
+HD Email Feedback,HD E-mailterugkoppeling,reviewed,helpdesk
+HD Escalation Rule,HD Escalatieregel,reviewed,helpdesk
+HD Field Layout,HD Veldindeling,reviewed,helpdesk
+HD Form Script,HD Form Script,reviewed,helpdesk
+HD Holiday,HD Vrije dag,reviewed,helpdesk
+HD Notification,HD Melding,reviewed,helpdesk
+HD Organization,HD Organisatie,reviewed,helpdesk
+HD Organization Contact Item,HD Organisatie Contactitem,reviewed,helpdesk
+HD Portal Signup Request,HD Portalregistratieverzoek,reviewed,helpdesk
+HD Saved Reply,HD Opgeslagen Antwoord,reviewed,helpdesk
+HD Saved Reply Team,HD Opgeslagen Antwoord Team,reviewed,helpdesk
+HD Service Day,HD Servicedag,reviewed,helpdesk
+HD Service Holiday List,HD Service Verloflijst,reviewed,helpdesk
+HD Service Level Agreement,HD Service Level Agreement,reviewed,helpdesk
+HD Service Level Priority,HD Service Level Prioriteit,reviewed,helpdesk
+HD Settings,HD Instellingen,reviewed,helpdesk
+HD Stopword,HD Stopwoord,reviewed,helpdesk
+HD Support Search Source,HD Ondersteuning Zoekbron,reviewed,helpdesk
+HD Synonym,HD Synoniem,reviewed,helpdesk
+HD Synonyms,HD Synoniemen,reviewed,helpdesk
+HD Team,HD Team,reviewed,helpdesk
+HD Team Member,HD Teamlid,reviewed,helpdesk
+HD Ticket,HD Ticket,reviewed,helpdesk
+HD Ticket Activity,HD Ticket Activiteit,reviewed,helpdesk
+HD Ticket Comment,HD Ticket Opmerking,reviewed,helpdesk
+HD Ticket Feedback Option,HD Ticket Feedbackoptie,reviewed,helpdesk
+HD Ticket Priority,HD Ticket Prioriteit,reviewed,helpdesk
+HD Ticket Status,HD Ticket Status,reviewed,helpdesk
+HD Ticket Template,HD Ticket Template,reviewed,helpdesk
+HD Ticket Template Field,HD Ticket Template Veld,reviewed,helpdesk
+HD Ticket Type,HD Ticket Type,reviewed,helpdesk
+HD View,HD Weergave,reviewed,helpdesk
+Headings Weight,Kopgewicht,reviewed,helpdesk
 "Hello {{ contact }}, \
 \
 We are sorry for the inconvenience, we will get back to you soon. \
 \
 Regards, \
-{{ full_name }}",,unreviewed,helpdesk
-Help,Hulp,unreviewed,helpdesk
-HelpDesk,,unreviewed,helpdesk
-Helpdesk Contact,,unreviewed,helpdesk
-Helpdesk Reports,,unreviewed,helpdesk
-"Here, your weekly offs are pre-populated based on the previous selections. You can add more rows to also add public and national holidays individually.",Hier worden je wekelijkse vrije dagen automatisch ingevuld op basis van je eerdere selecties. Je kunt extra rijen toevoegen om ook nationale en nationale feestdagen afzonderlijk in te voeren.,unreviewed,helpdesk
-Hey,Hoi,unreviewed,helpdesk
-Hide condition,,unreviewed,helpdesk
-Hide from customer,,unreviewed,helpdesk
-Hide from sidebar,,unreviewed,helpdesk
-Hide view from sidebar,,unreviewed,helpdesk
-Holiday list created successfully.,,unreviewed,helpdesk
-Holiday list deleted successfully.,,unreviewed,helpdesk
-Holiday list duplicated successfully.,,unreviewed,helpdesk
-Holiday list updated successfully.,,unreviewed,helpdesk
-"I understand, add conditions","Ik begrijp het, voeg voorwaarden toe",unreviewed,helpdesk
-"If enabled, a ticket creation acknowledgement email will be sent to the user right after creating an email ticket",,unreviewed,helpdesk
-"If enabled, an email is sent to all of the recipients associated with an agent's reply",,unreviewed,helpdesk
-"If enabled, an email will be sent to all of the assigned agents after a reply from one of the contacts",,unreviewed,helpdesk
-"If enabled, anyone will be able to create tickets (without any permission). ",,unreviewed,helpdesk
+{{ full_name }}","Hallo {{ contact }}, \
+\
+Onze excuses voor het ongemak, we nemen zo snel mogelijk contact met u op. \
+\
+Met vriendelijke groet, \
+{{ full_name }}",reviewed,helpdesk
+Help,Hulp,reviewed,helpdesk
+HelpDesk,Helpdesk,reviewed,helpdesk
+Helpdesk Contact,Helpdesk Contact,reviewed,helpdesk
+Helpdesk Reports,Helpdesk Rapporten,reviewed,helpdesk
+"Here, your weekly offs are pre-populated based on the previous selections. You can add more rows to also add public and national holidays individually.",Hier worden uw wekelijkse vrije dagen automatisch ingevuld op basis van uw eerdere selecties. U kunt extra rijen toevoegen om ook officiële en nationale feestdagen afzonderlijk in te voeren.,reviewed,helpdesk
+Hey,Hoi,reviewed,helpdesk
+Hide condition,Verbergconditie,reviewed,helpdesk
+Hide from customer,Verbergen voor klant,reviewed,helpdesk
+Hide from sidebar,Verbergen in zijbalk,reviewed,helpdesk
+Hide view from sidebar,Weergave verbergen in zijbalk,reviewed,helpdesk
+Holiday list created successfully.,Verloflijst succesvol aangemaakt.,reviewed,helpdesk
+Holiday list deleted successfully.,Verloflijst succesvol verwijderd.,reviewed,helpdesk
+Holiday list duplicated successfully.,Verloflijst succesvol gedupliceerd.,reviewed,helpdesk
+Holiday list updated successfully.,Verloflijst succesvol bijgewerkt.,reviewed,helpdesk
+"I understand, add conditions","Ik begrijp het, voeg voorwaarden toe",reviewed,helpdesk
+"If enabled, a ticket creation acknowledgement email will be sent to the user right after creating an email ticket","Als dit is ingeschakeld, wordt er direct na het aanmaken van een e-mailticket een bevestigingsmail gestuurd naar de gebruiker.",reviewed,helpdesk
+"If enabled, an email is sent to all of the recipients associated with an agent's reply","Als dit is ingeschakeld, wordt er een e-mail gestuurd naar alle ontvangers die gekoppeld zijn aan het antwoord van een Agent.",reviewed,helpdesk
+"If enabled, an email will be sent to all of the assigned agents after a reply from one of the contacts","Als dit is ingeschakeld, wordt er na een antwoord van een van de contactpersonen een e-mail gestuurd naar alle toegewezen Agents.",reviewed,helpdesk
+"If enabled, anyone will be able to create tickets (without any permission). ","Als dit is ingeschakeld, kan iedereen tickets aanmaken (zonder enige toestemming).",reviewed,helpdesk
 "If enabled, feedback email will be sent to the customer when you mark a ticket as the status selected below.
-",,unreviewed,helpdesk
+","Als dit is ingeschakeld, wordt er een feedbackmail gestuurd naar de klant wanneer u een ticket markeert met de hieronder geselecteerde status.
+",reviewed,helpdesk
 "If enabled, the feedback dialog will be shown, when a user tries to close a ticket. 
-",,unreviewed,helpdesk
-"If your issue isn't resolved, raise a support ticket",,unreviewed,helpdesk
-Ignore Restrictions,,unreviewed,helpdesk
-Image removed successfully.,,unreviewed,helpdesk
-"Image to be used in various places, including Login and Signup pages. An image with transparent background and 160 x 32 is preferred",,unreviewed,helpdesk
-Image updated successfully.,,unreviewed,helpdesk
-Instantly send e-mail,,unreviewed,helpdesk
-Integer value,,unreviewed,helpdesk
-Invalid email,,unreviewed,helpdesk
-"Invalid file type, only PNG and JPG images are allowed",,unreviewed,helpdesk
-Invalid notification,,unreviewed,helpdesk
-Invalid phone number,,unreviewed,helpdesk
-Invite Agents,,unreviewed,helpdesk
-Invite agent,Agent uitnodigen,unreviewed,helpdesk
-Invite agents,,unreviewed,helpdesk
-Invite as user,,unreviewed,helpdesk
-Invite by email,,unreviewed,helpdesk
-Is Customer Portal,,unreviewed,helpdesk
-Is applied to system,,unreviewed,helpdesk
-Is name setup skipped,,unreviewed,helpdesk
-Is pinned,,unreviewed,helpdesk
-Is setup complete,,unreviewed,helpdesk
-Item(s) deleted successfully.,,unreviewed,helpdesk
-Jump to,Spring naar,unreviewed,helpdesk
-KB,,unreviewed,helpdesk
-Label (customer view),,unreviewed,helpdesk
-Landing Page,Landingspagina,unreviewed,helpdesk
-Language updated successfully.,,unreviewed,helpdesk
-Last 3 Months,Laatste 3 maanden,unreviewed,helpdesk
-Last 3 months,,unreviewed,helpdesk
-Last Agent Response,,unreviewed,helpdesk
-Last Customer Response,,unreviewed,helpdesk
-Last month,,unreviewed,helpdesk
-Last week,,unreviewed,helpdesk
-"Let customers know they're raising a ticket outside working hours, and when they can expect a reply.",,unreviewed,helpdesk
-Link to a customer,,unreviewed,helpdesk
-Link to a customer record,,unreviewed,helpdesk
-Log out,Uitloggen,unreviewed,helpdesk
-Login to Frappe Cloud,Inloggen bij Frappe Cloud,unreviewed,helpdesk
-"Lower the Integer value, higher is the priority of the issue",,unreviewed,helpdesk
-Make feedback mandatory,,unreviewed,helpdesk
-Make view private,,unreviewed,helpdesk
-Manage general settings of your app.,,unreviewed,helpdesk
-Manage pre-defined responses that can be used to respond to customer queries.,,unreviewed,helpdesk
-Manage your email accounts and configure incoming and outgoing settings.,,unreviewed,helpdesk
-Manage your profile information.,,unreviewed,helpdesk
-Members ({0}),,unreviewed,helpdesk
-Members of this team will be able to see the tickets assigned to all the teams,,unreviewed,helpdesk
-Members of this team will see the tickets assigned to this team only,,unreviewed,helpdesk
-Merge Ticket,,unreviewed,helpdesk
-Merged With,,unreviewed,helpdesk
-Misc,,unreviewed,helpdesk
+","Als dit is ingeschakeld, wordt het feedbackvenster getoond wanneer een gebruiker een ticket probeert te sluiten.
+",reviewed,helpdesk
+"If your issue isn't resolved, raise a support ticket","Als uw probleem niet is opgelost, dien dan een supportticket in",reviewed,helpdesk
+Ignore Restrictions,Beperkingen negeren,reviewed,helpdesk
+Image removed successfully.,Afbeelding succesvol verwijderd.,reviewed,helpdesk
+"Image to be used in various places, including Login and Signup pages. An image with transparent background and 160 x 32 is preferred","Afbeelding die op verschillende plaatsen wordt gebruikt, waaronder de inlog- en registratiepagina. Een afbeelding met transparante achtergrond van 160 x 32 heeft de voorkeur.",reviewed,helpdesk
+Image updated successfully.,Afbeelding succesvol bijgewerkt.,reviewed,helpdesk
+Instantly send e-mail,E-mail direct versturen,reviewed,helpdesk
+Integer value,Geheel getal,reviewed,helpdesk
+Invalid email,Ongeldig e-mailadres,reviewed,helpdesk
+"Invalid file type, only PNG and JPG images are allowed","Ongeldig bestandstype, alleen PNG- en JPG-afbeeldingen zijn toegestaan",reviewed,helpdesk
+Invalid notification,Ongeldige melding,reviewed,helpdesk
+Invalid phone number,Ongeldig telefoonnummer,reviewed,helpdesk
+Invite Agents,Agents uitnodigen,reviewed,helpdesk
+Invite agent,Agent uitnodigen,reviewed,helpdesk
+Invite agents,Agents uitnodigen,reviewed,helpdesk
+Invite as user,Uitnodigen als gebruiker,reviewed,helpdesk
+Invite by email,Uitnodigen via e-mail,reviewed,helpdesk
+Is Customer Portal,Is Klantenportal,reviewed,helpdesk
+Is applied to system,Is toegepast op systeem,reviewed,helpdesk
+Is name setup skipped,Is naaminstellingen overgeslagen,reviewed,helpdesk
+Is pinned,Is vastgemaakt,reviewed,helpdesk
+Is setup complete,Is instelling voltooid,reviewed,helpdesk
+Item(s) deleted successfully.,Item(s) succesvol verwijderd.,reviewed,helpdesk
+Jump to,Spring naar,reviewed,helpdesk
+KB,KB,reviewed,helpdesk
+Label (customer view),Label (klantweergave),reviewed,helpdesk
+Landing Page,Landingspagina,reviewed,helpdesk
+Language updated successfully.,Taal succesvol bijgewerkt.,reviewed,helpdesk
+Last 3 Months,Laatste 3 maanden,reviewed,helpdesk
+Last 3 months,Laatste 3 maanden,reviewed,helpdesk
+Last Agent Response,Laatste Agent Reactie,reviewed,helpdesk
+Last Customer Response,Laatste Klant Reactie,reviewed,helpdesk
+Last month,Vorige maand,reviewed,helpdesk
+Last week,Vorige week,reviewed,helpdesk
+"Let customers know they're raising a ticket outside working hours, and when they can expect a reply.",Laat klanten weten dat zij een ticket indienen buiten werktijden en wanneer zij een antwoord kunnen verwachten.,reviewed,helpdesk
+Link to a customer,Koppelen aan een klant,reviewed,helpdesk
+Link to a customer record,Koppelen aan een klantrecord,reviewed,helpdesk
+Log out,Uitloggen,reviewed,helpdesk
+Login to Frappe Cloud,Inloggen bij Frappe Cloud,reviewed,helpdesk
+"Lower the Integer value, higher is the priority of the issue","Hoe lager het gehele getal, hoe hoger de prioriteit van het probleem.",reviewed,helpdesk
+Make feedback mandatory,Feedback verplicht stellen,reviewed,helpdesk
+Make view private,Weergave privé maken,reviewed,helpdesk
+Manage general settings of your app.,Beheer de algemene instellingen van uw applicatie.,reviewed,helpdesk
+Manage pre-defined responses that can be used to respond to customer queries.,Beheer vooraf gedefinieerde antwoorden die gebruikt kunnen worden om klantvragen te beantwoorden.,reviewed,helpdesk
+Manage your email accounts and configure incoming and outgoing settings.,Beheer uw e-mailaccounts en configureer de inkomende en uitgaande instellingen.,reviewed,helpdesk
+Manage your profile information.,Beheer uw profielinformatie.,reviewed,helpdesk
+Members ({0}),Leden ({0}),reviewed,helpdesk
+Members of this team will be able to see the tickets assigned to all the teams,Leden van dit team kunnen de tickets zien die aan alle teams zijn toegewezen.,reviewed,helpdesk
+Members of this team will see the tickets assigned to this team only,Leden van dit team zien alleen de tickets die aan dit team zijn toegewezen.,reviewed,helpdesk
+Merge Ticket,Ticket samenvoegen,reviewed,helpdesk
+Merged With,Samengevoegd met,reviewed,helpdesk
+Misc,Overig,reviewed,helpdesk
 My Dashboard,,unreviewed,helpdesk
 My Settings,Mijn instellingen,unreviewed,helpdesk
 My Team,,unreviewed,helpdesk

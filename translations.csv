@@ -7334,201 +7334,201 @@ Please enter the company name to confirm,Voer de bedrijfsnaam in om te bevestige
 Please enter the password,Voer het wachtwoord in,reviewed,frappe
 Please enter the phone number first,Voer eerst het telefoonnummer in,reviewed,erpnext
 Please enter valid email address,Vul alstublieft een geldig e-mailadres in,reviewed,erpnext
-Please enter valid Financial Year Start and End Dates,Voer geldige boekjaar begin- en einddatum,unreviewed,erpnext
-Please enter valid mobile nos,Voer geldige mobiele nummers in,unreviewed,frappe
-Please enter values for App Access Key and App Secret Key,Vul de waarden voor App Access Key en App Secret Key,unreviewed,frappe
-Please enter Warehouse and Date,Voer Magazijn en datum in,unreviewed,erpnext
-Please enter Woocommerce Server URL,Voer de URL van de Woocommerce-server in,unreviewed,erpnext
-Please enter Write Off Account,Voer Afschrijvingenrekening in,unreviewed,erpnext
-Please Enter Your Password to Continue,Voer uw wachtwoord in om verder te gaan,unreviewed,frappe
-Please enter {0},Voer {0} in,unreviewed,erpnext
-Please enter {0} first,Voer {0} eerste,unreviewed,erpnext
-Please fill in all the details to generate Assessment Result.,Vul alle details in om het beoordelingsresultaat te genereren.,unreviewed,erpnext
-Please fill the Material Requests table,Vul de tabel met materiaalverzoeken in,unreviewed,erpnext
-Please fill the Sales Orders table,Vul de tabel met verkooporders in,unreviewed,erpnext
-Please find attached {0}: {1},Zie bijgevoegde {0}: {1},unreviewed,frappe
-Please generate keys for the Event Subscriber User {0} first.,Genereer eerst sleutels voor de Gebeurtenisabonneegebruiker {0}.,unreviewed,frappe
-Please hide the standard navbar items instead of deleting them,Verberg de standaardnavigatiebalkitems in plaats van ze te verwijderen,unreviewed,frappe
-Please identify/create Account (Group) for type - {0},Identificeer / maak account (groep) voor type - {0},unreviewed,erpnext
-Please identify/create Account (Ledger) for type - {0},Identificeer / maak account (grootboek) voor type - {0},unreviewed,erpnext
-Please Install the ldap3 library via pip to use ldap functionality.,Installeer de ldap3-bibliotheek via pip om de ldap-functionaliteit te gebruiken.,unreviewed,frappe
-Please login as a Marketplace User to edit this item.,Meld u aan als Marketplace-gebruiker om dit item te bewerken.,unreviewed,erpnext
-Please login as a Marketplace User to report this item.,Meld u aan als Marketplace-gebruiker om dit item te melden.,unreviewed,erpnext
-Please login as another user to register on Marketplace,Meld u aan als een andere gebruiker om u te registreren op Marketplace,unreviewed,erpnext
-Please make sure that there are no empty columns in the file.,Zorg ervoor dat er geen lege kolommen in het bestand staan.,unreviewed,frappe
-Please make sure the employees above report to another Active employee.,Zorg ervoor dat de bovenstaande medewerkers zich melden bij een andere actieve medewerker.,unreviewed,erpnext
-Please make sure the Reference Communication Docs are not circularly linked.,Zorg ervoor dat de referentiecommunicatiedocumenten niet circulair zijn gekoppeld.,unreviewed,frappe
-Please make sure you really want to delete all the transactions for this company. Your master data will remain as it is. This action cannot be undone.,Zorg ervoor dat u echt wilt alle transacties voor dit bedrijf te verwijderen. Uw stamgegevens zal blijven zoals het is. Deze actie kan niet ongedaan gemaakt worden.,unreviewed,erpnext
-Please mention Basic and HRA component in Company,Vermeld de basis- en HRA-component in het bedrijf,unreviewed,erpnext
-Please mention no of visits required,Vermeld het benodigde aantal bezoeken,unreviewed,erpnext
-Please mention Round Off Account in Company,Vermeld Ronde Off Account in Company,unreviewed,erpnext
-Please mention Round Off Cost Center in Company,Vermeld Ronde Off kostenplaats in Company,unreviewed,erpnext
-Please mention the Lead Name in Lead {0},Vermeld alstublieft de naam van de lood in lood {0},unreviewed,erpnext
-Please pull items from Delivery Note,Haal aub artikelen uit de Vrachtbrief,unreviewed,erpnext
-Please refresh to get the latest document.,Vernieuw om het nieuwste document te krijgen.,unreviewed,frappe
-Please register the SIREN number in the company information file,Registreer het SIREN-nummer in het bedrijfsinformatiedossier,unreviewed,erpnext
-Please remove this Invoice {0} from C-Form {1},Verwijder dit Invoice {0} van C-Form {1},unreviewed,erpnext
-Please remove this item and try to submit again or update the posting time.,Verwijder dit item en probeer het opnieuw in te dienen of werk de tijd voor het plaatsen bij.,unreviewed,erpnext
-"Please Restock Items and Update the Pick List to continue. To discontinue, cancel the Pick List.",Vul items bij en werk de keuzelijst bij om door te gaan. Annuleer de keuzelijst om te stoppen.,unreviewed,erpnext
-Please save before attaching.,Gelieve opslaan voordat het bevestigen.,unreviewed,frappe
-Please save first,Bewaar eerst,unreviewed,erpnext
-Please save the document before assignment,Sla het document voordat opdracht,unreviewed,frappe
-Please save the document before removing assignment,Sla het document voordat u opdracht,unreviewed,frappe
-Please save the Newsletter before sending,Sla de nieuwsbrief op voor het verzenden,unreviewed,frappe
-Please save the patient first,Sla de patiënt alstublieft eerst op,unreviewed,erpnext
-Please save the report again to rebuild or update,Sla het rapport opnieuw op om het opnieuw te bouwen of bij te werken,unreviewed,erpnext
-Please save the report first,Sla het rapport eerst,unreviewed,frappe
-Please save to edit the template.,Sla op om de sjabloon te bewerken.,unreviewed,frappe
+Please enter valid Financial Year Start and End Dates,Voer geldige boekjaar begin- en einddatum,reviewed,erpnext
+Please enter valid mobile nos,Voer geldige mobiele nummers in,reviewed,frappe
+Please enter values for App Access Key and App Secret Key,Vul de waarden voor App Access Key en App Secret Key,reviewed,frappe
+Please enter Warehouse and Date,Voer Magazijn en datum in,reviewed,erpnext
+Please enter Woocommerce Server URL,Voer de URL van de Woocommerce-server in,reviewed,erpnext
+Please enter Write Off Account,Voer afboekingsrekening in,reviewed,erpnext
+Please Enter Your Password to Continue,Voer uw wachtwoord in om verder te gaan,reviewed,frappe
+Please enter {0},Voer {0} in,reviewed,erpnext
+Please enter {0} first,Voer {0} eerste,reviewed,erpnext
+Please fill in all the details to generate Assessment Result.,Vul alle details in om het beoordelingsresultaat te genereren.,reviewed,erpnext
+Please fill the Material Requests table,Vul de tabel met materiaalverzoeken in,reviewed,erpnext
+Please fill the Sales Orders table,Vul de tabel met verkooporders in,reviewed,erpnext
+Please find attached {0}: {1},Zie bijgevoegde {0}: {1},reviewed,frappe
+Please generate keys for the Event Subscriber User {0} first.,Genereer eerst sleutels voor de Gebeurtenisabonneegebruiker {0}.,reviewed,frappe
+Please hide the standard navbar items instead of deleting them,Verberg de standaardnavigatiebalkitems in plaats van ze te verwijderen,reviewed,frappe
+Please identify/create Account (Group) for type - {0},Identificeer / maak account (groep) voor type - {0},reviewed,erpnext
+Please identify/create Account (Ledger) for type - {0},Identificeer / maak account (grootboek) voor type - {0},reviewed,erpnext
+Please Install the ldap3 library via pip to use ldap functionality.,Installeer de ldap3-bibliotheek via pip om de ldap-functionaliteit te gebruiken.,reviewed,frappe
+Please login as a Marketplace User to edit this item.,Meld u aan als Marketplace-gebruiker om dit item te bewerken.,reviewed,erpnext
+Please login as a Marketplace User to report this item.,Meld u aan als Marketplace-gebruiker om dit item te melden.,reviewed,erpnext
+Please login as another user to register on Marketplace,Meld u aan als een andere gebruiker om u te registreren op Marketplace,reviewed,erpnext
+Please make sure that there are no empty columns in the file.,Zorg ervoor dat er geen lege kolommen in het bestand staan.,reviewed,frappe
+Please make sure the employees above report to another Active employee.,Zorg ervoor dat de bovenstaande medewerkers zich melden bij een andere actieve medewerker.,reviewed,erpnext
+Please make sure the Reference Communication Docs are not circularly linked.,Zorg ervoor dat de referentiecommunicatiedocumenten niet circulair zijn gekoppeld.,reviewed,frappe
+Please make sure you really want to delete all the transactions for this company. Your master data will remain as it is. This action cannot be undone.,Zorg ervoor dat u echt wilt alle transacties voor dit bedrijf te verwijderen. Uw stamgegevens zal blijven zoals het is. Deze actie kan niet ongedaan gemaakt worden.,reviewed,erpnext
+Please mention Basic and HRA component in Company,Vermeld de basis- en HRA-component in het bedrijf,reviewed,erpnext
+Please mention no of visits required,Vermeld het benodigde aantal bezoeken,reviewed,erpnext
+Please mention Round Off Account in Company,Vermeld de afrondingsrekening in het bedrijf,reviewed,erpnext
+Please mention Round Off Cost Center in Company,Vermeld de afrondingskostenplaats in het bedrijf,reviewed,erpnext
+Please mention the Lead Name in Lead {0},Vermeld de leadnaam in lead {0},reviewed,erpnext
+Please pull items from Delivery Note,Haal artikelen op uit afleverbon,reviewed,erpnext
+Please refresh to get the latest document.,Vernieuw om het nieuwste document te krijgen.,reviewed,frappe
+Please register the SIREN number in the company information file,Registreer het SIREN-nummer in het bedrijfsinformatiedossier,reviewed,erpnext
+Please remove this Invoice {0} from C-Form {1},Verwijder dit Invoice {0} van C-Form {1},reviewed,erpnext
+Please remove this item and try to submit again or update the posting time.,Verwijder dit item en probeer het opnieuw in te dienen of werk de tijd voor het plaatsen bij.,reviewed,erpnext
+"Please Restock Items and Update the Pick List to continue. To discontinue, cancel the Pick List.",Vul items bij en werk de keuzelijst bij om door te gaan. Annuleer de keuzelijst om te stoppen.,reviewed,erpnext
+Please save before attaching.,Gelieve opslaan voordat het bevestigen.,reviewed,frappe
+Please save first,Bewaar eerst,reviewed,erpnext
+Please save the document before assignment,Sla het document voordat opdracht,reviewed,frappe
+Please save the document before removing assignment,Sla het document voordat u opdracht,reviewed,frappe
+Please save the Newsletter before sending,Sla de nieuwsbrief op voor het verzenden,reviewed,frappe
+Please save the patient first,Sla de patiënt alstublieft eerst op,reviewed,erpnext
+Please save the report again to rebuild or update,Sla het rapport opnieuw op om het opnieuw te bouwen of bij te werken,reviewed,erpnext
+Please save the report first,Sla het rapport eerst,reviewed,frappe
+Please save to edit the template.,Sla op om de sjabloon te bewerken.,reviewed,frappe
 Please select,Selecteer a.u.b.,reviewed,custom
-Please select <b>Template Type</b> to download template,Selecteer het <b>sjabloontype</b> om de sjabloon te downloaden,unreviewed,erpnext
-Please select a Amount Field.,Selecteer een veld Aantal.,unreviewed,frappe
-Please select a batch,Selecteer een batch alsjeblieft,unreviewed,erpnext
-Please select a Batch for Item {0}. Unable to find a single batch that fulfills this requirement,Selecteer een partij voor item {0}. Kan geen enkele batch vinden die aan deze eis voldoet,unreviewed,erpnext
-Please select a BOM,Selecteer een stuklijst,unreviewed,erpnext
-Please Select a Company,Selecteer een bedrijf,unreviewed,erpnext
-Please select a Company,Selecteer aub een andere vennootschap,unreviewed,erpnext
-Please Select a Company First,Selecteer eerst een bedrijf,unreviewed,erpnext
-Please select a Company first.,Selecteer eerst een bedrijf.,unreviewed,erpnext
-Please Select a Company.,Selecteer een bedrijf.,unreviewed,erpnext
-Please Select a Customer,Selecteer een klant,unreviewed,erpnext
-Please select a Customer,Selecteer een klant alsjeblieft,unreviewed,erpnext
-Please select a default mode of payment,Selecteer een standaard betalingsmethode,unreviewed,erpnext
-Please select a Delivery Note,Selecteer een afleveringsbewijs,unreviewed,erpnext
-Please select a field to edit from numpad,Selecteer alstublieft een veld om van numpad te bewerken,unreviewed,erpnext
-Please select a file or url,Selecteer een bestand of url,unreviewed,frappe
-Please select a Mode of Payment first,Selecteer eerst een betalingsmethode,unreviewed,erpnext
-Please select a new name to rename,Selecteer een nieuwe naam om de naam te wijzigen,unreviewed,frappe
-Please select a Patient first,Selecteer eerst een patiënt,unreviewed,erpnext
-Please select a Sales Person for item: {0},Selecteer een verkoper voor artikel: {0},unreviewed,erpnext
-Please Select a Supplier,Selecteer een leverancier,unreviewed,erpnext
-Please select a Supplier,Selecteer een leverancier,unreviewed,erpnext
-Please select a table,Selecteer een tafel,unreviewed,erpnext
-Please select a valid csv file with data,Selecteer een geldig CSV-bestand met gegevens,unreviewed,frappe
-Please select a valid Date,Selecteer een geldige datum alstublieft,unreviewed,erpnext
-Please select a valid date filter,Selecteer een geldig datumfilter,unreviewed,frappe
-Please select a value for {0} quotation_to {1},Selecteer een waarde voor {0} quotation_to {1},unreviewed,erpnext
-Please select a warehouse,Selecteer een magazijn,unreviewed,erpnext
-Please select a warehouse to get available quantities,Selecteer een magazijn om beschikbare hoeveelheden te krijgen,unreviewed,erpnext
-"Please select Allocated Amount, Invoice Type and Invoice Number in atleast one row","Selecteer toegewezen bedrag, Factuur Type en factuurnummer in tenminste één rij",unreviewed,erpnext
-Please select another payment method. Mpesa does not support transactions in currency '{0}',Selecteer een andere betalingsmethode. Mpesa ondersteunt geen transacties in valuta &#39;{0}&#39;,unreviewed,erpnext
-Please select another payment method. PayPal does not support transactions in currency '{0}',Selecteer een andere betaalmethode. PayPal biedt geen ondersteuning voor transacties in valuta &#39;{0}&#39;,unreviewed,frappe
-Please select another payment method. Paytm does not support transactions in currency '{0}',Selecteer een andere betalingsmethode. Paytm ondersteunt geen transacties in valuta &#39;{0}&#39;,unreviewed,frappe
-Please select another payment method. Razorpay does not support transactions in currency '{0}',Selecteer een andere betaalmethode. Razorpay ondersteunt geen transacties in valuta &#39;{0}&#39;,unreviewed,frappe
-Please select another payment method. Stripe does not support transactions in currency '{0}',Selecteer een andere betaalmethode. Stripe ondersteunt geen transacties in valuta &#39;{0}&#39;,unreviewed,both
-Please select applicable Doctypes,Selecteer toepasselijke Doctypes,unreviewed,frappe
-Please select Apply Discount On,Selecteer Apply Korting op,unreviewed,erpnext
-Please select at least one domain.,Selecteer minimaal één domein.,unreviewed,erpnext
-Please select atleast 1 column from {0} to sort/group,Selecteer tenminste 1 kolom {0} sorteren / groeperen,unreviewed,frappe
-Please select batches for batched item {0},Selecteer batches voor batchartikel {0},unreviewed,erpnext
-Please select BOM against item {0},Selecteer een stuklijst met item {0},unreviewed,erpnext
-Please select BOM for Item in Row {0},Selecteer BOM voor post in rij {0},unreviewed,erpnext
-Please select BOM in BOM field for Item {0},Selecteer BOM in BOM veld voor post {0},unreviewed,erpnext
-Please Select Both Company and Party Type First,Selecteer eerst zowel het type bedrijf als partij,unreviewed,erpnext
-Please select Category first,Selecteer eerst een Categorie,unreviewed,erpnext
-Please select Charge Type first,Selecteer eerst een Charge Type,unreviewed,erpnext
-Please select Company,Selecteer Company,unreviewed,both
-Please select Company and Posting Date to getting entries,Selecteer Bedrijf en boekingsdatum om inzendingen te ontvangen,unreviewed,erpnext
-Please select Company first,Selecteer Company eerste,unreviewed,erpnext
-Please select company first,Selecteer Company eerste,unreviewed,erpnext
-Please select Completion Date for Completed Asset Maintenance Log,Selecteer de voltooiingsdatum voor het uitgevoerde onderhoudslogboek,unreviewed,erpnext
-Please select Completion Date for Completed Repair,Selecteer de voltooiingsdatum voor de voltooide reparatie,unreviewed,erpnext
-Please select correct account,Selecteer juiste account,unreviewed,erpnext
-Please select Course,Selecteer de cursus,unreviewed,erpnext
-Please select Customer first,Selecteer eerst Klant,unreviewed,erpnext
-Please select date,Kies een datum,unreviewed,erpnext
-Please select DocType first,Selecteer DocType eerste,unreviewed,frappe
-Please select document type first.,Selecteer eerst het documenttype.,unreviewed,frappe
-Please select Drug,Selecteer alstublieft Drug,unreviewed,erpnext
-Please select Entity Type first,Selecteer eerst entiteitstype,unreviewed,frappe
-Please select Existing Company for creating Chart of Accounts,Kies een bestaand bedrijf voor het maken van Rekeningschema,unreviewed,erpnext
-Please select Healthcare Service,Selecteer een zorgservice,unreviewed,erpnext
-Please select item code,Selecteer artikelcode,unreviewed,erpnext
-Please select Item Code first,Selecteer eerst de artikelcode,unreviewed,erpnext
-"Please select Item where ""Is Stock Item"" is ""No"" and ""Is Sales Item"" is ""Yes"" and there is no other Product Bundle","Selecteer Item, waar &quot;Is Stock Item&quot; is &quot;Nee&quot; en &quot;Is Sales Item&quot; is &quot;Ja&quot; en er is geen enkel ander product Bundle",unreviewed,erpnext
-Please select Maintenance Status as Completed or remove Completion Date,Selecteer Onderhoudsstatus als voltooid of verwijder de voltooiingsdatum,unreviewed,erpnext
-Please select Minimum Password Score,Selecteer alstublieft de minimum wachtwoordcijfer,unreviewed,frappe
-Please select month and year,Selecteer maand en jaar,unreviewed,erpnext
-Please select Party Type first,Selecteer Party Type eerste,unreviewed,erpnext
-Please select Patient,Selecteer alstublieft Patiënt,unreviewed,erpnext
-Please select patient,Selecteer alstublieft Patiënt,unreviewed,erpnext
-Please select Patient first,Selecteer eerst de patiënt,unreviewed,erpnext
-Please select Patient to get Lab Tests,Selecteer Patiënt om Lab-tests te krijgen,unreviewed,erpnext
-Please select Posting Date before selecting Party,Selecteer Boekingsdatum voordat Party selecteren,unreviewed,erpnext
-Please select Posting Date first,Selecteer Boekingsdatum eerste,unreviewed,erpnext
-Please select prefix first,Selecteer eerst een voorvoegsel,unreviewed,frappe
-Please select Price List,Selecteer Prijslijst,unreviewed,erpnext
-Please select Program,Selecteer alsjeblieft Programma,unreviewed,erpnext
-Please select Qty against item {0},Selecteer alstublieft aantal tegen item {0},unreviewed,erpnext
-Please select quantity on row {0},Selecteer het aantal op rij {0},unreviewed,erpnext
-Please select Sample Retention Warehouse in Stock Settings first,Selecteer eerst Sample Retention Warehouse in Stock Settings,unreviewed,erpnext
-Please select Start Date and End Date for Item {0},Selecteer Start- en Einddatum voor Artikel {0},unreviewed,erpnext
-Please select Student Admission which is mandatory for the paid student applicant,Selecteer een studententoelating die verplicht is voor de betaalde student-aanvrager,unreviewed,erpnext
-Please select target language for translation,Selecteer de doeltaal voor vertaling,unreviewed,frappe
-Please select the assessment group other than 'All Assessment Groups',Selecteer de beoordelingsgroep anders dan &#39;Alle beoordelingsgroepen&#39;,unreviewed,erpnext
-Please select the Company,Selecteer het bedrijf,unreviewed,erpnext
-Please select the customer.,Selecteer de klant.,unreviewed,erpnext
-Please select the document type first,Selecteer eerst het documenttype,unreviewed,erpnext
-Please select the Document Type.,Selecteer het documenttype.,unreviewed,frappe
-Please select the Multiple Tier Program type for more than one collection rules.,Selecteer het Multiple Tier-programmatype voor meer dan één verzamelregel.,unreviewed,erpnext
-Please select weekly off day,Selecteer wekelijkse vrije dag,unreviewed,erpnext
-Please select {0},Selecteer {0},unreviewed,both
-Please select {0} first,Selecteer eerst {0},unreviewed,erpnext
-Please set 'Apply Additional Discount On',Stel &#39;Solliciteer Extra Korting op&#39;,unreviewed,erpnext
-Please set 'Asset Depreciation Cost Center' in Company {0},Stel &#39;Asset Afschrijvingen Cost Center&#39; in Company {0},unreviewed,erpnext
-Please set 'Gain/Loss Account on Asset Disposal' in Company {0},Stel &#39;winst / verliesrekening op de verkoop van activa in Company {0},unreviewed,erpnext
-Please set a Company,Stel een bedrijf in,unreviewed,erpnext
-Please set a Customer linked to the Patient,Stel een klant in die is gekoppeld aan de patiënt,unreviewed,erpnext
-Please set a default company address,Stel een standaard bedrijfsadres in,unreviewed,erpnext
-Please set a default Holiday List for Employee {0} or Company {1},Stel een standaard Holiday-lijst voor Employee {0} of Company {1},unreviewed,erpnext
-Please set a printer mapping for this print format in the Printer Settings,Stel een printermap in voor dit afdrukformaat in de Printerinstellingen,unreviewed,frappe
-Please set a Supplier against the Items to be considered in the Purchase Order.,Stel een leverancier in op de items die in de bestelling moeten worden opgenomen.,unreviewed,erpnext
-Please set account heads in GST Settings for Compnay {0},Stel accountkoppen in GST-instellingen voor Compnay {0},unreviewed,erpnext
-Please set account in Warehouse {0},Stel een account in in Magazijn {0},unreviewed,erpnext
-Please set Account in Warehouse {0} or Default Inventory Account in Company {1},Stel een account in in Warehouse {0} of Default Inventory Account in bedrijf {1},unreviewed,erpnext
-Please set an active menu for Restaurant {0},Stel een actief menu in voor Restaurant {0},unreviewed,erpnext
-Please set an email id for the Lead {0},Stel een e-mail-ID in voor de lead {0},unreviewed,erpnext
-Please set API Key and Secret on the producer and consumer sites first.,Stel eerst API-sleutel en geheim in op de producenten- en consumentensites.,unreviewed,frappe
-Please set associated account in Tax Withholding Category {0} against Company {1},Stel bijbehorende account in belastinginhoud {0} in voor bedrijf {1},unreviewed,erpnext
-Please set at least one row in the Taxes and Charges Table,Stel ten minste één rij in de tabel Belastingen en kosten in,unreviewed,erpnext
-Please set B2C Limit in GST Settings.,Stel B2C-limiet in GST-instellingen in.,unreviewed,erpnext
-Please set Base URL in Social Login Key for Frappe,Stel de Base URL in Social Login Key voor Frappe in,unreviewed,frappe
-Please Set Chart,Stel een grafiek in,unreviewed,frappe
-Please set Company,Stel alsjeblieft bedrijf in,unreviewed,erpnext
-Please set Company filter blank if Group By is 'Company',Stel alsjeblieft Bedrijfsfilter leeg als Group By is &#39;Company&#39;,unreviewed,erpnext
-Please set Customer in Patient {0},Stel klant in patiënt {0},unreviewed,erpnext
-Please set default account in Salary Component {0},Stel standaard account aan Salaris Component {0},unreviewed,erpnext
-Please set default Cash or Bank account in Mode of Payment {0},Stel een standaard Kas- of Bankrekening in bij Betaalwijze {0},unreviewed,erpnext
-Please set default Cash or Bank account in Mode of Payment {},Stel een standaard contant of bankrekening in in Betalingsmethode {},unreviewed,erpnext
-Please set default Cash or Bank account in Mode of Payments {},Stel standaard contant geld of bankrekening in in Betalingsmethode {},unreviewed,erpnext
-Please set default customer in Restaurant Settings,Stel de standaardklant in in restaurantinstellingen,unreviewed,erpnext
-Please set Default Payroll Payable Account in Company {0},Stel Default Payroll Payable account in Company {0},unreviewed,erpnext
-Please set default UOM in Stock Settings,Stel de standaard UOM in bij Voorraadinstellingen,unreviewed,erpnext
-Please set default {0} in Company {1},Stel default {0} in Company {1},unreviewed,erpnext
-"Please set defaults for Customer Group, Territory and Selling Price List in Selling Settings","Stel de standaardwaarden in voor klantgroep, territorium en verkoopprijslijst in de verkoopinstellingen",unreviewed,erpnext
-Please set Depreciation related Accounts in Asset Category {0} or Company {1},Stel afschrijvingen gerelateerd Accounts in Vermogensbeheer categorie {0} of Company {1},unreviewed,erpnext
-Please set Dropbox access keys in your site config,Stel Dropbox access keys in in uw site configuratie,unreviewed,frappe
-Please set Email Address,Stel e-mailadres,unreviewed,frappe
-Please set filter based on Item or Warehouse,Stel filter op basis van artikel of Warehouse,unreviewed,erpnext
-Please set filter based on Item or Warehouse due to a large amount of entries.,Stel filter in op basis van artikel of magazijn vanwege een groot aantal invoer.,unreviewed,erpnext
-Please set filters,Stel filters,unreviewed,frappe
-Please set filters value in Report Filter table.,Stel filters waarde in Report Filter tabel.,unreviewed,frappe
-Please set GST Accounts in GST Settings,Stel GST-accounts in via GST-instellingen,unreviewed,erpnext
-Please set Hotel Room Rate on {},Stel de hotelkamerprijs in op {},unreviewed,erpnext
-Please set leave policy for employee {0} in Employee / Grade record,Stel het verlofbeleid voor werknemer {0} in voor medewerkers / cijfers,unreviewed,erpnext
-Please set Naming Series for {0} via Setup > Settings > Naming Series,Stel Naming Series in op {0} via Instellingen&gt; Instellingen&gt; Naming Series,unreviewed,erpnext
-Please set Number of Depreciations Booked,Stel Aantal geboekte afschrijvingen,unreviewed,erpnext
-Please set recurring after saving,Stel terugkerende na het opslaan,unreviewed,erpnext
-Please Set Supplier Group in Buying Settings.,Gelieve Leveranciergroep in te stellen in Koopinstellingen.,unreviewed,erpnext
-Please set the Customer Address,Stel het klantadres in,unreviewed,erpnext
-Please set the Default Cost Center in {0} company.,Stel het standaard kostenplaatsadres in {0} bedrijf in.,unreviewed,erpnext
-Please set the Email ID for the Student to send the Payment Request,Stel het e-mail-ID voor de student in om het betalingsverzoek te verzenden,unreviewed,erpnext
-Please set the following documents in this Dashboard as standard first.,Stel eerst de volgende documenten in dit Dashboard als standaard in.,unreviewed,frappe
-Please set the initiator name and the security credential,Stel de naam van de initiator en de beveiligingsreferentie in,unreviewed,erpnext
-Please set the Item Code first,Stel eerst de productcode in,unreviewed,erpnext
-Please set the Paid Amount first,Stel eerst het betaalde bedrag in,unreviewed,erpnext
-Please set the Payment Schedule,Stel het betalingsschema in,unreviewed,erpnext
-Please set the series to be used.,Stel de reeks in die moet worden gebruikt.,unreviewed,frappe
-Please set Unrealized Exchange Gain/Loss Account in Company {0},Stel een niet-gerealiseerde Exchange-winst / verliesrekening in in bedrijf {0},unreviewed,erpnext
+Please select <b>Template Type</b> to download template,Selecteer het <b>sjabloontype</b> om de sjabloon te downloaden,reviewed,erpnext
+Please select a Amount Field.,Selecteer een veld Aantal.,reviewed,frappe
+Please select a batch,Selecteer een batch alsjeblieft,reviewed,erpnext
+Please select a Batch for Item {0}. Unable to find a single batch that fulfills this requirement,Selecteer een partij voor item {0}. Kan geen enkele batch vinden die aan deze eis voldoet,reviewed,erpnext
+Please select a BOM,Selecteer een stuklijst,reviewed,erpnext
+Please Select a Company,Selecteer een bedrijf,reviewed,erpnext
+Please select a Company,Selecteer aub een andere vennootschap,reviewed,erpnext
+Please Select a Company First,Selecteer eerst een bedrijf,reviewed,erpnext
+Please select a Company first.,Selecteer eerst een bedrijf.,reviewed,erpnext
+Please Select a Company.,Selecteer een bedrijf.,reviewed,erpnext
+Please Select a Customer,Selecteer een klant,reviewed,erpnext
+Please select a Customer,Selecteer een klant alsjeblieft,reviewed,erpnext
+Please select a default mode of payment,Selecteer een standaard betalingsmethode,reviewed,erpnext
+Please select a Delivery Note,Selecteer een afleverbon,reviewed,erpnext
+Please select a field to edit from numpad,Selecteer alstublieft een veld om van numpad te bewerken,reviewed,erpnext
+Please select a file or url,Selecteer een bestand of url,reviewed,frappe
+Please select a Mode of Payment first,Selecteer eerst een betalingsmethode,reviewed,erpnext
+Please select a new name to rename,Selecteer een nieuwe naam om de naam te wijzigen,reviewed,frappe
+Please select a Patient first,Selecteer eerst een patiënt,reviewed,erpnext
+Please select a Sales Person for item: {0},Selecteer een verkoopmedewerker voor artikel: {0},reviewed,erpnext
+Please Select a Supplier,Selecteer een leverancier,reviewed,erpnext
+Please select a Supplier,Selecteer een leverancier,reviewed,erpnext
+Please select a table,Selecteer een tabel,reviewed,erpnext
+Please select a valid csv file with data,Selecteer een geldig CSV-bestand met gegevens,reviewed,frappe
+Please select a valid Date,Selecteer een geldige datum alstublieft,reviewed,erpnext
+Please select a valid date filter,Selecteer een geldig datumfilter,reviewed,frappe
+Please select a value for {0} quotation_to {1},Selecteer een waarde voor {0} quotation_to {1},reviewed,erpnext
+Please select a warehouse,Selecteer een magazijn,reviewed,erpnext
+Please select a warehouse to get available quantities,Selecteer een magazijn om beschikbare hoeveelheden te krijgen,reviewed,erpnext
+"Please select Allocated Amount, Invoice Type and Invoice Number in atleast one row","Selecteer toegewezen bedrag, Factuur Type en factuurnummer in tenminste één rij",reviewed,erpnext
+Please select another payment method. Mpesa does not support transactions in currency '{0}',Selecteer een andere betalingsmethode. Mpesa ondersteunt geen transacties in valuta &#39;{0}&#39;,reviewed,erpnext
+Please select another payment method. PayPal does not support transactions in currency '{0}',Selecteer een andere betaalmethode. PayPal biedt geen ondersteuning voor transacties in valuta &#39;{0}&#39;,reviewed,frappe
+Please select another payment method. Paytm does not support transactions in currency '{0}',Selecteer een andere betalingsmethode. Paytm ondersteunt geen transacties in valuta &#39;{0}&#39;,reviewed,frappe
+Please select another payment method. Razorpay does not support transactions in currency '{0}',Selecteer een andere betaalmethode. Razorpay ondersteunt geen transacties in valuta &#39;{0}&#39;,reviewed,frappe
+Please select another payment method. Stripe does not support transactions in currency '{0}',Selecteer een andere betaalmethode. Stripe ondersteunt geen transacties in valuta &#39;{0}&#39;,reviewed,both
+Please select applicable Doctypes,Selecteer toepasselijke Doctypes,reviewed,frappe
+Please select Apply Discount On,Selecteer korting toepassen op,reviewed,erpnext
+Please select at least one domain.,Selecteer minimaal één domein.,reviewed,erpnext
+Please select atleast 1 column from {0} to sort/group,Selecteer tenminste 1 kolom {0} sorteren / groeperen,reviewed,frappe
+Please select batches for batched item {0},Selecteer batches voor batchartikel {0},reviewed,erpnext
+Please select BOM against item {0},Selecteer een stuklijst met item {0},reviewed,erpnext
+Please select BOM for Item in Row {0},Selecteer BOM voor post in rij {0},reviewed,erpnext
+Please select BOM in BOM field for Item {0},Selecteer BOM in BOM veld voor post {0},reviewed,erpnext
+Please Select Both Company and Party Type First,Selecteer eerst zowel bedrijf als relatietype,reviewed,erpnext
+Please select Category first,Selecteer eerst een Categorie,reviewed,erpnext
+Please select Charge Type first,Selecteer eerst het toeslagtype,reviewed,erpnext
+Please select Company,Selecteer een bedrijf,reviewed,both
+Please select Company and Posting Date to getting entries,Selecteer bedrijf en boekingsdatum om boekingen op te halen,reviewed,erpnext
+Please select Company first,Selecteer eerst een bedrijf,reviewed,erpnext
+Please select company first,Selecteer eerst een bedrijf,reviewed,erpnext
+Please select Completion Date for Completed Asset Maintenance Log,Selecteer de voltooiingsdatum voor het uitgevoerde onderhoudslogboek,reviewed,erpnext
+Please select Completion Date for Completed Repair,Selecteer de voltooiingsdatum voor de voltooide reparatie,reviewed,erpnext
+Please select correct account,Selecteer juiste account,reviewed,erpnext
+Please select Course,Selecteer de cursus,reviewed,erpnext
+Please select Customer first,Selecteer eerst Klant,reviewed,erpnext
+Please select date,Kies een datum,reviewed,erpnext
+Please select DocType first,Selecteer DocType eerste,reviewed,frappe
+Please select document type first.,Selecteer eerst het documenttype.,reviewed,frappe
+Please select Drug,Selecteer alstublieft Drug,reviewed,erpnext
+Please select Entity Type first,Selecteer eerst entiteitstype,reviewed,frappe
+Please select Existing Company for creating Chart of Accounts,Kies een bestaand bedrijf voor het maken van Rekeningschema,reviewed,erpnext
+Please select Healthcare Service,Selecteer een zorgservice,reviewed,erpnext
+Please select item code,Selecteer artikelcode,reviewed,erpnext
+Please select Item Code first,Selecteer eerst de artikelcode,reviewed,erpnext
+"Please select Item where ""Is Stock Item"" is ""No"" and ""Is Sales Item"" is ""Yes"" and there is no other Product Bundle","Selecteer Item, waar &quot;Is Stock Item&quot; is &quot;Nee&quot; en &quot;Is Sales Item&quot; is &quot;Ja&quot; en er is geen enkel ander product Bundle",reviewed,erpnext
+Please select Maintenance Status as Completed or remove Completion Date,Selecteer Onderhoudsstatus als voltooid of verwijder de voltooiingsdatum,reviewed,erpnext
+Please select Minimum Password Score,Selecteer alstublieft de minimum wachtwoordcijfer,reviewed,frappe
+Please select month and year,Selecteer maand en jaar,reviewed,erpnext
+Please select Party Type first,Selecteer Party Type eerste,reviewed,erpnext
+Please select Patient,Selecteer alstublieft Patiënt,reviewed,erpnext
+Please select patient,Selecteer alstublieft Patiënt,reviewed,erpnext
+Please select Patient first,Selecteer eerst de patiënt,reviewed,erpnext
+Please select Patient to get Lab Tests,Selecteer Patiënt om Lab-tests te krijgen,reviewed,erpnext
+Please select Posting Date before selecting Party,Selecteer Boekingsdatum voordat Party selecteren,reviewed,erpnext
+Please select Posting Date first,Selecteer Boekingsdatum eerste,reviewed,erpnext
+Please select prefix first,Selecteer eerst een voorvoegsel,reviewed,frappe
+Please select Price List,Selecteer Prijslijst,reviewed,erpnext
+Please select Program,Selecteer alsjeblieft Programma,reviewed,erpnext
+Please select Qty against item {0},Selecteer alstublieft aantal tegen item {0},reviewed,erpnext
+Please select quantity on row {0},Selecteer het aantal op rij {0},reviewed,erpnext
+Please select Sample Retention Warehouse in Stock Settings first,Selecteer eerst Sample Retention Warehouse in Stock Settings,reviewed,erpnext
+Please select Start Date and End Date for Item {0},Selecteer Start- en Einddatum voor Artikel {0},reviewed,erpnext
+Please select Student Admission which is mandatory for the paid student applicant,Selecteer een studententoelating die verplicht is voor de betaalde student-aanvrager,reviewed,erpnext
+Please select target language for translation,Selecteer de doeltaal voor vertaling,reviewed,frappe
+Please select the assessment group other than 'All Assessment Groups',Selecteer de beoordelingsgroep anders dan &#39;Alle beoordelingsgroepen&#39;,reviewed,erpnext
+Please select the Company,Selecteer het bedrijf,reviewed,erpnext
+Please select the customer.,Selecteer de klant.,reviewed,erpnext
+Please select the document type first,Selecteer eerst het documenttype,reviewed,erpnext
+Please select the Document Type.,Selecteer het documenttype.,reviewed,frappe
+Please select the Multiple Tier Program type for more than one collection rules.,Selecteer het Multiple Tier-programmatype voor meer dan één verzamelregel.,reviewed,erpnext
+Please select weekly off day,Selecteer wekelijkse vrije dag,reviewed,erpnext
+Please select {0},Selecteer {0},reviewed,both
+Please select {0} first,Selecteer eerst {0},reviewed,erpnext
+Please set 'Apply Additional Discount On',Stel &#39;Solliciteer Extra Korting op&#39;,reviewed,erpnext
+Please set 'Asset Depreciation Cost Center' in Company {0},Stel &#39;Asset Afschrijvingen Cost Center&#39; in Company {0},reviewed,erpnext
+Please set 'Gain/Loss Account on Asset Disposal' in Company {0},Stel &#39;winst / verliesrekening op de verkoop van activa in Company {0},reviewed,erpnext
+Please set a Company,Stel een bedrijf in,reviewed,erpnext
+Please set a Customer linked to the Patient,Stel een klant in die is gekoppeld aan de patiënt,reviewed,erpnext
+Please set a default company address,Stel een standaard bedrijfsadres in,reviewed,erpnext
+Please set a default Holiday List for Employee {0} or Company {1},Stel een standaard Holiday-lijst voor Employee {0} of Company {1},reviewed,erpnext
+Please set a printer mapping for this print format in the Printer Settings,Stel een printermap in voor dit afdrukformaat in de Printerinstellingen,reviewed,frappe
+Please set a Supplier against the Items to be considered in the Purchase Order.,Stel een leverancier in op de items die in de bestelling moeten worden opgenomen.,reviewed,erpnext
+Please set account heads in GST Settings for Compnay {0},Stel accountkoppen in GST-instellingen voor Compnay {0},reviewed,erpnext
+Please set account in Warehouse {0},Stel een account in in Magazijn {0},reviewed,erpnext
+Please set Account in Warehouse {0} or Default Inventory Account in Company {1},Stel een account in in Warehouse {0} of Default Inventory Account in bedrijf {1},reviewed,erpnext
+Please set an active menu for Restaurant {0},Stel een actief menu in voor Restaurant {0},reviewed,erpnext
+Please set an email id for the Lead {0},Stel een e-mail-ID in voor de lead {0},reviewed,erpnext
+Please set API Key and Secret on the producer and consumer sites first.,Stel eerst API-sleutel en geheim in op de producenten- en consumentensites.,reviewed,frappe
+Please set associated account in Tax Withholding Category {0} against Company {1},Stel bijbehorende account in belastinginhoud {0} in voor bedrijf {1},reviewed,erpnext
+Please set at least one row in the Taxes and Charges Table,Stel ten minste één rij in de tabel Belastingen en kosten in,reviewed,erpnext
+Please set B2C Limit in GST Settings.,Stel B2C-limiet in GST-instellingen in.,reviewed,erpnext
+Please set Base URL in Social Login Key for Frappe,Stel de Base URL in Social Login Key voor Frappe in,reviewed,frappe
+Please Set Chart,Stel een grafiek in,reviewed,frappe
+Please set Company,Stel alsjeblieft bedrijf in,reviewed,erpnext
+Please set Company filter blank if Group By is 'Company',Stel alsjeblieft Bedrijfsfilter leeg als Group By is &#39;Company&#39;,reviewed,erpnext
+Please set Customer in Patient {0},Stel klant in patiënt {0},reviewed,erpnext
+Please set default account in Salary Component {0},Stel standaard account aan Salaris Component {0},reviewed,erpnext
+Please set default Cash or Bank account in Mode of Payment {0},Stel een standaard Kas- of Bankrekening in bij Betaalwijze {0},reviewed,erpnext
+Please set default Cash or Bank account in Mode of Payment {},Stel een standaard contant of bankrekening in in Betalingsmethode {},reviewed,erpnext
+Please set default Cash or Bank account in Mode of Payments {},Stel standaard contant geld of bankrekening in in Betalingsmethode {},reviewed,erpnext
+Please set default customer in Restaurant Settings,Stel de standaardklant in in restaurantinstellingen,reviewed,erpnext
+Please set Default Payroll Payable Account in Company {0},Stel Default Payroll Payable account in Company {0},reviewed,erpnext
+Please set default UOM in Stock Settings,Stel de standaard UOM in bij Voorraadinstellingen,reviewed,erpnext
+Please set default {0} in Company {1},Stel default {0} in Company {1},reviewed,erpnext
+"Please set defaults for Customer Group, Territory and Selling Price List in Selling Settings","Stel de standaardwaarden in voor klantgroep, territorium en verkoopprijslijst in de verkoopinstellingen",reviewed,erpnext
+Please set Depreciation related Accounts in Asset Category {0} or Company {1},Stel afschrijvingen gerelateerd Accounts in Vermogensbeheer categorie {0} of Company {1},reviewed,erpnext
+Please set Dropbox access keys in your site config,Stel Dropbox access keys in in uw site configuratie,reviewed,frappe
+Please set Email Address,Stel e-mailadres,reviewed,frappe
+Please set filter based on Item or Warehouse,Stel filter op basis van artikel of Warehouse,reviewed,erpnext
+Please set filter based on Item or Warehouse due to a large amount of entries.,Stel filter in op basis van artikel of magazijn vanwege een groot aantal invoer.,reviewed,erpnext
+Please set filters,Stel filters,reviewed,frappe
+Please set filters value in Report Filter table.,Stel filters waarde in Report Filter tabel.,reviewed,frappe
+Please set GST Accounts in GST Settings,Stel GST-accounts in via GST-instellingen,reviewed,erpnext
+Please set Hotel Room Rate on {},Stel de hotelkamerprijs in op {},reviewed,erpnext
+Please set leave policy for employee {0} in Employee / Grade record,Stel het verlofbeleid voor werknemer {0} in voor medewerkers / cijfers,reviewed,erpnext
+Please set Naming Series for {0} via Setup > Settings > Naming Series,Stel Naming Series in op {0} via Instellingen&gt; Instellingen&gt; Naming Series,reviewed,erpnext
+Please set Number of Depreciations Booked,Stel Aantal geboekte afschrijvingen,reviewed,erpnext
+Please set recurring after saving,Stel terugkerende na het opslaan,reviewed,erpnext
+Please Set Supplier Group in Buying Settings.,Gelieve Leveranciergroep in te stellen in Koopinstellingen.,reviewed,erpnext
+Please set the Customer Address,Stel het klantadres in,reviewed,erpnext
+Please set the Default Cost Center in {0} company.,Stel het standaard kostenplaatsadres in {0} bedrijf in.,reviewed,erpnext
+Please set the Email ID for the Student to send the Payment Request,Stel het e-mail-ID voor de student in om het betalingsverzoek te verzenden,reviewed,erpnext
+Please set the following documents in this Dashboard as standard first.,Stel eerst de volgende documenten in dit Dashboard als standaard in.,reviewed,frappe
+Please set the initiator name and the security credential,Stel de naam van de initiator en de beveiligingsreferentie in,reviewed,erpnext
+Please set the Item Code first,Stel eerst de productcode in,reviewed,erpnext
+Please set the Paid Amount first,Stel eerst het betaalde bedrag in,reviewed,erpnext
+Please set the Payment Schedule,Stel het betalingsschema in,reviewed,erpnext
+Please set the series to be used.,Stel de reeks in die moet worden gebruikt.,reviewed,frappe
+Please set Unrealized Exchange Gain/Loss Account in Company {0},Stel een niet-gerealiseerde Exchange-winst / verliesrekening in in bedrijf {0},reviewed,erpnext
 Please set up the Campaign Schedule in the Campaign {0},Stel het campagneschema in de campagne {0} in,unreviewed,erpnext
 Please set User ID field in an Employee record to set Employee Role,Stel User ID veld in een Werknemer record Werknemer Rol stellen,unreviewed,erpnext
 Please set valid GSTIN No. in Company Address for company {0},Stel een geldig GSTIN-nummer in het bedrijfsadres in voor bedrijf {0},unreviewed,erpnext

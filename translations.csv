@@ -1035,13 +1035,13 @@ Attach Print,Bevestig Print,reviewed,frappe
 Attach Your Picture,Voeg uw foto toe,reviewed,frappe
 Attached,Bijgevoegd,reviewed,custom
 Attached File,Bijgevoegd bestand,reviewed,frappe
-Attached To DocType,Bijlage Aan DocType,reviewed,frappe
+Attached To DocType,Gekoppeld aan DocType,reviewed,frappe
 Attached To Field,Bijgevoegd aan veld,reviewed,frappe
 Attached To Name,Gehecht Aan Naam,reviewed,frappe
 Attachment,Bijlage,reviewed,both
-Attachment Link,Bijlage Link,reviewed,frappe
-Attachment Removed,Attachment verwijderd,reviewed,frappe
-Attachments,Toebehoren,reviewed,both
+Attachment Link,Bijlagelink,reviewed,frappe
+Attachment Removed,Bijlage verwijderd,reviewed,frappe
+Attachments,Bijlagen,reviewed,both
 Attempting Connection to QZ Tray...,Poging tot verbinding met QZ-lade ...,reviewed,frappe
 Attempting to launch QZ Tray...,Poging om QZ-lade te starten ...,reviewed,frappe
 Attendance and Leave Details,Aanwezigheids- en verlofdetails,reviewed,erpnext
@@ -5906,7 +5906,7 @@ Max strength cannot be less than zero.,De maximale sterkte kan niet minder zijn 
 Max width for type Currency is 100px in row {0},Max. breedte voor het type Valuta is 100px in rij {0},reviewed,frappe
 Maximum,Maximaal,reviewed,frappe
 Maximum Age,Maximum leeftijd,reviewed,erpnext
-Maximum Attachment Limit for this record reached.,Maximale Attachment Limiet voor dit record bereikt.,reviewed,frappe
+Maximum Attachment Limit for this record reached.,Maximale bijlagelimiet voor dit record bereikt.,reviewed,frappe
 Maximum attempts for this quiz reached!,Maximale pogingen voor deze quiz bereikt!,reviewed,erpnext
 Maximum Continuous Days Applicable,Maximale continue dagen van toepassing,reviewed,erpnext
 Maximum discount for Item {0} is {1}%,Maximale korting voor artikel {0} is {1}%,reviewed,erpnext

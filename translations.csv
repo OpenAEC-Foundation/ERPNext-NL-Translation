@@ -3520,205 +3520,205 @@ Enrolling student,student die zich inschrijft,reviewed,erpnext
 Enrolling students,Studenten inschrijven,reviewed,erpnext
 Enrolling...,Inschrijven ...,reviewed,erpnext
 Enrollment,Inschrijving,reviewed,erpnext
-Enrollment Date,inschrijfdatum,unreviewed,erpnext
-Enrollment Date cannot be after the End Date of the Academic Term {0},Inschrijvingsdatum mag niet na de einddatum van de academische periode zijn {0},unreviewed,erpnext
-Enrollment Date cannot be before the Start Date of the Academic Term {0},Inschrijvingsdatum mag niet voor de startdatum van de academische periode liggen {0},unreviewed,erpnext
-Enrollment Date cannot be before the Start Date of the Academic Year {0},Inschrijvingsdatum mag niet voor de startdatum van het academische jaar liggen {0},unreviewed,erpnext
-Enrollment Details,Inschrijfgegevens,unreviewed,erpnext
-Ensure Delivery Based on Produced Serial No,Zorgen voor levering op basis van geproduceerd serienummer,unreviewed,erpnext
-Enter 0 to waive limit,Voer 0 in om afstand te doen,unreviewed,erpnext
-Enter a name for the Clinical Procedure Template,Voer een naam in voor de sjabloon voor klinische procedures,unreviewed,erpnext
-Enter amount to be redeemed.,Voer het in te wisselen bedrag in.,unreviewed,erpnext
-Enter API key in Google Settings.,Voer de API-sleutel in in Google Instellingen.,unreviewed,erpnext
-Enter Client Id and Client Secret in Google Settings.,Voer klant-ID en klantgeheim in Google-instellingen in.,unreviewed,frappe
-Enter Code displayed in OTP App.,Voer de code in die wordt weergegeven in de OTP-app.,unreviewed,frappe
-Enter customer's email,Voer het e-mailadres van de klant in,unreviewed,erpnext
-Enter customer's phone number,Voer het telefoonnummer van de klant in,unreviewed,erpnext
-"Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields, go to ""Customize Form"".","Voer standaardwaarde velden (toetsen) en waarden. Als u meerdere waarden toe te voegen voor een veld, zal de eerste worden opgepikt. Deze standaardwaarden worden ook gebruikt om &quot;match&quot; toestemming regels te stellen. Om lijst met velden te zien, ga naar &quot;Customize Form&quot;.",unreviewed,frappe
-Enter depreciation details,Voer de details van de afschrijving in,unreviewed,erpnext
-Enter discount percentage.,Voer het kortingspercentage in.,unreviewed,erpnext
-Enter Email Recipient(s),Voer E-mail ontvanger (s),unreviewed,frappe
-Enter folder name,Voer mapnaam,unreviewed,frappe
-Enter Form Type,Voer Form Type in,unreviewed,frappe
-"Enter keys to enable login via Facebook, Google, GitHub.","Voer sleutels in om toegang in te schakelen via Facebook, Google, GitHub.",unreviewed,frappe
-Enter name of campaign if source of enquiry is campaign,Voer de naam van de campagne in als bron van onderzoek Campagne is,unreviewed,erpnext
-Enter python module or select connector type,Voer de python-module in of selecteer het type connector,unreviewed,frappe
-Enter retirement age in years,Voer de pensioengerechtigde leeftijd in jaren,unreviewed,erpnext
-"Enter static url parameters here (Eg. sender=ERPNext, username=ERPNext, password=1234 etc.)","Voer statische url parameters hier in (bijv. afzender=ERPNext, username = ERPNext, wachtwoord = 1234 enz.)",unreviewed,frappe
-Enter Supplier,Voer leverancier in,unreviewed,erpnext
-Enter the Bank Guarantee Number before submittting.,Voer het bankgarantienummer in voordat u het verzendt.,unreviewed,erpnext
-Enter the name of the bank or lending institution before submittting.,Voer de naam van de bank of uitleeninstelling in voordat u ze indient.,unreviewed,erpnext
-Enter the name of the Beneficiary before submittting.,Voer de naam van de Begunstigde in voordat u een aanvraag indient.,unreviewed,erpnext
-Enter url parameter for message,Voer URL-parameter voor bericht in,unreviewed,frappe
-Enter url parameter for receiver nos,Voer URL-parameter voor de ontvanger nos,unreviewed,frappe
-Enter Value,Waarde invoeren,unreviewed,both
-Enter value betweeen {0} and {1},Voer waarde in tussen {0} en {1},unreviewed,erpnext
-Enter your password,Voer uw wachtwoord in,unreviewed,frappe
-Enter {0} amount.,Voer {0} bedrag in.,unreviewed,erpnext
-Entertainment & Leisure,Entertainment & Vrije Tijd,unreviewed,erpnext
-Entertainment Expenses,Representatiekosten,unreviewed,erpnext
-Entity,Entiteit,unreviewed,erpnext
-Entity Name,Entiteit Naam,unreviewed,frappe
-Entity Type,Type entiteit,unreviewed,both
-envelope,envelop,unreviewed,frappe
-Equals,Is gelijk aan,unreviewed,frappe
-Equity,Vermogen,unreviewed,erpnext
-Equity/Liability Account,Aandelen / aansprakelijkheidsrekening,unreviewed,erpnext
-ERPNext Account,ERPNext-account,unreviewed,erpnext
-ERPNext Company,ERPNext Bedrijf,unreviewed,erpnext
-ERPNext could not find any matching payment entry,ERPNext kon geen overeenkomstige betaling vinden,unreviewed,erpnext
-ERPNext Integrations,ERPNext-integraties,unreviewed,erpnext
-ERPNext Role,ERPNext Rol,unreviewed,frappe
-ERPNext Settings,ERPNext-instellingen,unreviewed,erpnext
-ERPNext User,ERPNext Gebruiker,unreviewed,erpnext
-ERPNext User ID,ERPNext gebruikers-ID,unreviewed,erpnext
-Error,Fout,unreviewed,both
-Error Attaching File,Fout bij het bijvoegen van bestand,unreviewed,frappe
-"Error connecting to QZ Tray Application...<br><br> You need to have QZ Tray application installed and running, to use the Raw Print feature.<br><br><a target=""_blank"" href=""https://qz.io/download/"">Click here to Download and install QZ Tray</a>.<br> <a target=""_blank"" href=""https://erpnext.com/docs/user/manual/en/setting-up/print/raw-printing"">Click here to learn more about Raw Printing</a>.","Fout bij verbinding maken met QZ-ladetoepassing ... <br><br> De toepassing QZ-lade moet zijn geïnstalleerd en actief zijn om de functie Raw Print te kunnen gebruiken. <br><br> <a href=""https://qz.io/download/"" target=""_blank"">Klik hier om de QZ-lade te downloaden en te installeren</a> . <br> <a href=""https://erpnext.com/docs/user/manual/en/setting-up/print/raw-printing"" target=""_blank"">Klik hier voor meer informatie over Raw Printing</a> .",unreviewed,frappe
-Error creating membership entry for {0},Fout bij maken van lidmaatschapsitem voor {0},unreviewed,erpnext
-Error Description,Foutbeschrijving,unreviewed,erpnext
-Error evaluating the criteria formula,Fout bij het evalueren van de criteria formule,unreviewed,erpnext
-Error has occurred in {0},Er is een fout opgetreden in {0},unreviewed,frappe
-Error in Custom Script,Fout in Aangepaste Script,unreviewed,frappe
-Error in Exotel incoming call,Fout in inkomende oproep van Exotel,unreviewed,erpnext
-Error in formula or condition: {0},Fout in formule of aandoening: {0},unreviewed,erpnext
-Error in Notification,Fout in melding,unreviewed,frappe
-Error in Notification: {},Fout in melding: {},unreviewed,frappe
+Enrollment Date,inschrijfdatum,reviewed,erpnext
+Enrollment Date cannot be after the End Date of the Academic Term {0},Inschrijvingsdatum mag niet na de einddatum van de academische periode zijn {0},reviewed,erpnext
+Enrollment Date cannot be before the Start Date of the Academic Term {0},Inschrijvingsdatum mag niet voor de startdatum van de academische periode liggen {0},reviewed,erpnext
+Enrollment Date cannot be before the Start Date of the Academic Year {0},Inschrijvingsdatum mag niet voor de startdatum van het academische jaar liggen {0},reviewed,erpnext
+Enrollment Details,Inschrijfgegevens,reviewed,erpnext
+Ensure Delivery Based on Produced Serial No,Zorgen voor levering op basis van geproduceerd serienummer,reviewed,erpnext
+Enter 0 to waive limit,Voer 0 in om afstand te doen,reviewed,erpnext
+Enter a name for the Clinical Procedure Template,Voer een naam in voor de sjabloon voor klinische procedures,reviewed,erpnext
+Enter amount to be redeemed.,Voer het in te wisselen bedrag in.,reviewed,erpnext
+Enter API key in Google Settings.,Voer de API-sleutel in in Google Instellingen.,reviewed,erpnext
+Enter Client Id and Client Secret in Google Settings.,Voer klant-ID en klantgeheim in Google-instellingen in.,reviewed,frappe
+Enter Code displayed in OTP App.,Voer de code in die wordt weergegeven in de OTP-app.,reviewed,frappe
+Enter customer's email,Voer het e-mailadres van de klant in,reviewed,erpnext
+Enter customer's phone number,Voer het telefoonnummer van de klant in,reviewed,erpnext
+"Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields, go to ""Customize Form"".","Voer standaardwaarde velden (toetsen) en waarden. Als u meerdere waarden toe te voegen voor een veld, zal de eerste worden opgepikt. Deze standaardwaarden worden ook gebruikt om &quot;match&quot; toestemming regels te stellen. Om lijst met velden te zien, ga naar &quot;Customize Form&quot;.",reviewed,frappe
+Enter depreciation details,Voer de details van de afschrijving in,reviewed,erpnext
+Enter discount percentage.,Voer het kortingspercentage in.,reviewed,erpnext
+Enter Email Recipient(s),Voer E-mail ontvanger (s),reviewed,frappe
+Enter folder name,Voer mapnaam,reviewed,frappe
+Enter Form Type,Voer Form Type in,reviewed,frappe
+"Enter keys to enable login via Facebook, Google, GitHub.","Voer sleutels in om toegang in te schakelen via Facebook, Google, GitHub.",reviewed,frappe
+Enter name of campaign if source of enquiry is campaign,Voer de naam van de campagne in als bron van onderzoek Campagne is,reviewed,erpnext
+Enter python module or select connector type,Voer de python-module in of selecteer het type connector,reviewed,frappe
+Enter retirement age in years,Voer de pensioengerechtigde leeftijd in jaren,reviewed,erpnext
+"Enter static url parameters here (Eg. sender=ERPNext, username=ERPNext, password=1234 etc.)","Voer statische url parameters hier in (bijv. afzender=ERPNext, username = ERPNext, wachtwoord = 1234 enz.)",reviewed,frappe
+Enter Supplier,Voer leverancier in,reviewed,erpnext
+Enter the Bank Guarantee Number before submittting.,Voer het bankgarantienummer in voordat u het verzendt.,reviewed,erpnext
+Enter the name of the bank or lending institution before submittting.,Voer de naam van de bank of uitleeninstelling in voordat u ze indient.,reviewed,erpnext
+Enter the name of the Beneficiary before submittting.,Voer de naam van de Begunstigde in voordat u een aanvraag indient.,reviewed,erpnext
+Enter url parameter for message,Voer URL-parameter voor bericht in,reviewed,frappe
+Enter url parameter for receiver nos,Voer URL-parameter voor de ontvanger nos,reviewed,frappe
+Enter Value,Waarde invoeren,reviewed,both
+Enter value betweeen {0} and {1},Voer waarde in tussen {0} en {1},reviewed,erpnext
+Enter your password,Voer uw wachtwoord in,reviewed,frappe
+Enter {0} amount.,Voer {0} bedrag in.,reviewed,erpnext
+Entertainment & Leisure,Entertainment en vrije tijd,reviewed,erpnext
+Entertainment Expenses,Representatiekosten,reviewed,erpnext
+Entity,Entiteit,reviewed,erpnext
+Entity Name,Entiteitsnaam,reviewed,frappe
+Entity Type,Type entiteit,reviewed,both
+envelope,envelop,reviewed,frappe
+Equals,Is gelijk aan,reviewed,frappe
+Equity,Eigen vermogen,reviewed,erpnext
+Equity/Liability Account,Rekening eigen vermogen/aansprakelijkheid,reviewed,erpnext
+ERPNext Account,ERPNext-account,reviewed,erpnext
+ERPNext Company,ERPNext Bedrijf,reviewed,erpnext
+ERPNext could not find any matching payment entry,ERPNext kon geen overeenkomstige betaling vinden,reviewed,erpnext
+ERPNext Integrations,ERPNext-integraties,reviewed,erpnext
+ERPNext Role,ERPNext Rol,reviewed,frappe
+ERPNext Settings,ERPNext-instellingen,reviewed,erpnext
+ERPNext User,ERPNext Gebruiker,reviewed,erpnext
+ERPNext User ID,ERPNext gebruikers-ID,reviewed,erpnext
+Error,Fout,reviewed,both
+Error Attaching File,Fout bij bijvoegen van bestand,reviewed,frappe
+"Error connecting to QZ Tray Application...<br><br> You need to have QZ Tray application installed and running, to use the Raw Print feature.<br><br><a target=""_blank"" href=""https://qz.io/download/"">Click here to Download and install QZ Tray</a>.<br> <a target=""_blank"" href=""https://erpnext.com/docs/user/manual/en/setting-up/print/raw-printing"">Click here to learn more about Raw Printing</a>.","Fout bij verbinding maken met QZ-ladetoepassing ... <br><br> De toepassing QZ-lade moet zijn geïnstalleerd en actief zijn om de functie Raw Print te kunnen gebruiken. <br><br> <a href=""https://qz.io/download/"" target=""_blank"">Klik hier om de QZ-lade te downloaden en te installeren</a> . <br> <a href=""https://erpnext.com/docs/user/manual/en/setting-up/print/raw-printing"" target=""_blank"">Klik hier voor meer informatie over Raw Printing</a> .",reviewed,frappe
+Error creating membership entry for {0},Fout bij aanmaken van lidmaatschapsitem voor {0},reviewed,erpnext
+Error Description,Foutbeschrijving,reviewed,erpnext
+Error evaluating the criteria formula,Fout bij het evalueren van de criteria formule,reviewed,erpnext
+Error has occurred in {0},Er is een fout opgetreden in {0},reviewed,frappe
+Error in Custom Script,Fout in aangepast script,reviewed,frappe
+Error in Exotel incoming call,Fout in inkomende oproep van Exotel,reviewed,erpnext
+Error in formula or condition: {0},Fout in formule of voorwaarde: {0},reviewed,erpnext
+Error in Notification,Fout in melding,reviewed,frappe
+Error in Notification: {},Fout in melding: {},reviewed,frappe
 Error Log,Foutenlog,reviewed,both
-Error Log Notification,Foutlogboekmelding,unreviewed,frappe
-Error Message,Foutmelding,unreviewed,both
-Error Occured,Fout opgetreden,unreviewed,erpnext
-Error occured while parsing Chart of Accounts: Please make sure that no two accounts have the same name,Er is een fout opgetreden bij het parseren van het rekeningschema: zorg ervoor dat geen twee accounts dezelfde naam hebben,unreviewed,erpnext
-Error Report,Fout rapport,unreviewed,frappe
-Error Snapshot,Fout Snapshot,unreviewed,frappe
-Error while connecting to email account {0},Fout bij het verbinden met e-mailaccount {0},unreviewed,frappe
-Error while evaluating Notification {0}. Please fix your template.,Fout bij het evalueren van Melding {0}. Corrigeer uw sjabloon.,unreviewed,frappe
-Error while POSTING {0},Fout bij het plaatsen van {0},unreviewed,erpnext
-Error While Uploading Image,Fout tijdens het uploaden van afbeelding,unreviewed,erpnext
-Error! Failed to get access token.,Fout! Het verkrijgen van toegangstoken is mislukt.,unreviewed,erpnext
-Error! Failed to get request token.,Fout! Kan aanvraagtoken niet ophalen.,unreviewed,erpnext
-Error: Document has been modified after you have opened it,Fout: Document is gewijzigd nadat u het hebt geopend,unreviewed,frappe
-Error: Not a valid id?,Fout: geen geldig id?,unreviewed,erpnext
-Error: Value missing for {0}: {1},Fout: Waarde ontbreekt voor {0}: {1},unreviewed,frappe
-Error: {0} is mandatory field,Fout: {0} is verplicht veld,unreviewed,erpnext
-Errors in Background Events,Fouten in Achtergrond Events,unreviewed,frappe
-Estimated Arrival,Geschatte aankomst,unreviewed,erpnext
-Estimated Cost,Geschatte kosten,unreviewed,erpnext
-Estimated Time and Cost,Geschatte Tijd en Kosten,unreviewed,erpnext
-eu-central-1,eu-centrale-1,unreviewed,frappe
-eu-north-1,eu-noord-1,unreviewed,frappe
-eu-south-1,eu-zuid-1,unreviewed,frappe
-Evaluate,schatten,unreviewed,erpnext
-Evaluation Period,Evaluatie periode,unreviewed,erpnext
-"Even if there are multiple Pricing Rules with highest priority, then following internal priorities are applied:","Als er meerdere Prijsbepalings Regels zijn met de hoogste prioriteit, dan wordt de volgende interene prioriteit gehanteerd:",unreviewed,erpnext
-Evening,Avond,unreviewed,erpnext
-Event,Evenement,unreviewed,frappe
-Event and other calendars.,Event en andere kalenders.,unreviewed,frappe
-Event Category,Evenement Categorie,unreviewed,frappe
-Event Configurations,Evenement configuraties,unreviewed,frappe
-Event Consumer,Evenement consument,unreviewed,frappe
-Event Consumer Document Type,Type consumentendocument voor evenementen,unreviewed,frappe
-Event Consumer Document Types,Soorten consumptiedocumenten voor evenementen,unreviewed,frappe
-Event Participants,Deelnemers aan het evenement,unreviewed,frappe
-Event Producer,Producent van evenementen,unreviewed,frappe
-Event Producer Document Type,Documenttype producent van evenementen,unreviewed,frappe
-Event Producer Document Types,Soorten evenementproducenten,unreviewed,frappe
-Event Producer Last Update,Laatste update van evenementproducent,unreviewed,frappe
-Event Streaming,Evenement streaming,unreviewed,frappe
-Event Subscriber,Abonnee van evenement,unreviewed,frappe
-Event Subscriber has to be a System Manager.,Evenementabonnement moet een systeembeheerder zijn.,unreviewed,frappe
-Event Sync Log,Logboek voor gebeurtenissynchronisatie,unreviewed,frappe
-Event Synced with Google Calendar.,Evenement gesynchroniseerd met Google Agenda.,unreviewed,frappe
-Event Type,Gebeurtenis Type,unreviewed,frappe
-Event Update Log,Gebeurtenis-updatelogboek,unreviewed,frappe
-Events in Today's Calendar,Gebeurtenissen Vandaag,unreviewed,frappe
-Everyone,Iedereen,unreviewed,frappe
-"Ex: ""colors"": [""#d1d8dd"", ""#ff5858""]","Voorbeeld: &quot;kleuren&quot;: [&quot;# d1d8dd&quot;, &quot;# ff5858&quot;]",unreviewed,frappe
-Examiner,Examinator,unreviewed,erpnext
-Examiner Name,Examinator Naam,unreviewed,erpnext
-Example,Voorbeeld,unreviewed,frappe
-Example Email Address,Voorbeeld E-mailadres,unreviewed,frappe
-"Example: ""/desk""",Voorbeeld: &quot;/ desk&quot;,unreviewed,frappe
-Example: #Tree/Account,Voorbeeld: # Tree / Account,unreviewed,frappe
-Example: 00001,Voorbeeld: 00001,unreviewed,frappe
-"Example: ABCD.#####. If series is set and Batch No is not mentioned in transactions, then automatic batch number will be created based on this series. If you always want to explicitly mention Batch No for this item, leave this blank. Note: this setting will take priority over the Naming Series Prefix in Stock Settings.","Voorbeeld: ABCD. #####. Als reeks is ingesteld en Batch-nummer niet in transacties wordt vermeld, wordt op basis van deze reeks automatisch batchnummer gemaakt. Als u Batch-nummer voor dit artikel altijd expliciet wilt vermelden, laat dit veld dan leeg. Opmerking: deze instelling heeft voorrang boven het voorvoegsel Naamgevingsreeks in Voorraadinstellingen.",unreviewed,erpnext
-"Example: ABCD.#####\nIf series is set and Serial No is not mentioned in transactions, then automatic serial number will be created based on this series. If you always want to explicitly mention Serial Nos for this item. leave this blank.","Voorbeeld: ABCD.##### Als reeks is ingesteld en het serienummer is niet vermeld in een transactie, dan zal een serienummer automatisch worden aangemaakt, op basis van deze reeks. Als u altijd expliciet een serienummer wilt vemelden voor dit artikel bij een transatie, laat dan dit veld leeg.",unreviewed,erpnext
-example: Next Day Shipping,Bijvoorbeeld: Next Day Shipping,unreviewed,erpnext
-Example: {{ subject }},Voorbeeld: {{subject}},unreviewed,frappe
-Excel,uitmunten,unreviewed,frappe
-Exception,Uitzondering,unreviewed,frappe
-Exception Budget Approver Role,Uitzondering Budget Approver Role,unreviewed,erpnext
-Exception occurred while reconciling {0},Er is een uitzondering opgetreden tijdens het afstemmen van {0},unreviewed,erpnext
-Exception Type,Uitzondering Type,unreviewed,frappe
-Excessive machine set up time,Overmatige opstarttijd van de machine,unreviewed,erpnext
-Exchange Gain / Loss Account,Exchange winst / verliesrekening,unreviewed,erpnext
-Exchange Gain/Loss,Exchange winst / verlies,unreviewed,erpnext
+Error Log Notification,Foutlogboekmelding,reviewed,frappe
+Error Message,Foutmelding,reviewed,both
+Error Occured,Fout opgetreden,reviewed,erpnext
+Error occured while parsing Chart of Accounts: Please make sure that no two accounts have the same name,Er is een fout opgetreden bij het parseren van het rekeningschema: zorg ervoor dat geen twee accounts dezelfde naam hebben,reviewed,erpnext
+Error Report,Foutrapport,reviewed,frappe
+Error Snapshot,Foutmomentopname,reviewed,frappe
+Error while connecting to email account {0},Fout bij het verbinden met e-mailaccount {0},reviewed,frappe
+Error while evaluating Notification {0}. Please fix your template.,Fout bij het evalueren van Melding {0}. Corrigeer uw sjabloon.,reviewed,frappe
+Error while POSTING {0},Fout bij het plaatsen van {0},reviewed,erpnext
+Error While Uploading Image,Fout tijdens uploaden van afbeelding,reviewed,erpnext
+Error! Failed to get access token.,Fout! Het verkrijgen van toegangstoken is mislukt.,reviewed,erpnext
+Error! Failed to get request token.,Fout! Kan aanvraagtoken niet ophalen.,reviewed,erpnext
+Error: Document has been modified after you have opened it,Fout: Document is gewijzigd nadat u het hebt geopend,reviewed,frappe
+Error: Not a valid id?,Fout: geen geldig id?,reviewed,erpnext
+Error: Value missing for {0}: {1},Fout: Waarde ontbreekt voor {0}: {1},reviewed,frappe
+Error: {0} is mandatory field,Fout: {0} is verplicht veld,reviewed,erpnext
+Errors in Background Events,Fouten in Achtergrond Events,reviewed,frappe
+Estimated Arrival,Geschatte aankomst,reviewed,erpnext
+Estimated Cost,Geschatte kosten,reviewed,erpnext
+Estimated Time and Cost,Geschatte tijd en kosten,reviewed,erpnext
+eu-central-1,eu-central-1,reviewed,frappe
+eu-north-1,eu-north-1,reviewed,frappe
+eu-south-1,eu-south-1,reviewed,frappe
+Evaluate,Evalueren,reviewed,erpnext
+Evaluation Period,Evaluatieperiode,reviewed,erpnext
+"Even if there are multiple Pricing Rules with highest priority, then following internal priorities are applied:","Als er meerdere Prijsbepalings Regels zijn met de hoogste prioriteit, dan wordt de volgende interene prioriteit gehanteerd:",reviewed,erpnext
+Evening,Avond,reviewed,erpnext
+Event,Gebeurtenis,reviewed,frappe
+Event and other calendars.,Event en andere kalenders.,reviewed,frappe
+Event Category,Gebeurteniscategorie,reviewed,frappe
+Event Configurations,Gebeurtenisconfiguraties,reviewed,frappe
+Event Consumer,Gebeurtenisconsument,reviewed,frappe
+Event Consumer Document Type,Documenttype gebeurtenisconsument,reviewed,frappe
+Event Consumer Document Types,Soorten consumptiedocumenten voor evenementen,reviewed,frappe
+Event Participants,Deelnemers aan het evenement,reviewed,frappe
+Event Producer,Producent van evenementen,reviewed,frappe
+Event Producer Document Type,Documenttype producent van evenementen,reviewed,frappe
+Event Producer Document Types,Soorten evenementproducenten,reviewed,frappe
+Event Producer Last Update,Laatste update van evenementproducent,reviewed,frappe
+Event Streaming,Evenement streaming,reviewed,frappe
+Event Subscriber,Abonnee van evenement,reviewed,frappe
+Event Subscriber has to be a System Manager.,Evenementabonnement moet een systeembeheerder zijn.,reviewed,frappe
+Event Sync Log,Logboek voor gebeurtenissynchronisatie,reviewed,frappe
+Event Synced with Google Calendar.,Evenement gesynchroniseerd met Google Agenda.,reviewed,frappe
+Event Type,Gebeurtenis Type,reviewed,frappe
+Event Update Log,Gebeurtenis-updatelogboek,reviewed,frappe
+Events in Today's Calendar,Gebeurtenissen Vandaag,reviewed,frappe
+Everyone,Iedereen,reviewed,frappe
+"Ex: ""colors"": [""#d1d8dd"", ""#ff5858""]","Voorbeeld: &quot;kleuren&quot;: [&quot;# d1d8dd&quot;, &quot;# ff5858&quot;]",reviewed,frappe
+Examiner,Examinator,reviewed,erpnext
+Examiner Name,Examinator Naam,reviewed,erpnext
+Example,Voorbeeld,reviewed,frappe
+Example Email Address,Voorbeeld E-mailadres,reviewed,frappe
+"Example: ""/desk""",Voorbeeld: &quot;/ desk&quot;,reviewed,frappe
+Example: #Tree/Account,Voorbeeld: # Tree / Account,reviewed,frappe
+Example: 00001,Voorbeeld: 00001,reviewed,frappe
+"Example: ABCD.#####. If series is set and Batch No is not mentioned in transactions, then automatic batch number will be created based on this series. If you always want to explicitly mention Batch No for this item, leave this blank. Note: this setting will take priority over the Naming Series Prefix in Stock Settings.","Voorbeeld: ABCD. #####. Als reeks is ingesteld en Batch-nummer niet in transacties wordt vermeld, wordt op basis van deze reeks automatisch batchnummer gemaakt. Als u Batch-nummer voor dit artikel altijd expliciet wilt vermelden, laat dit veld dan leeg. Opmerking: deze instelling heeft voorrang boven het voorvoegsel Naamgevingsreeks in Voorraadinstellingen.",reviewed,erpnext
+"Example: ABCD.#####\nIf series is set and Serial No is not mentioned in transactions, then automatic serial number will be created based on this series. If you always want to explicitly mention Serial Nos for this item. leave this blank.","Voorbeeld: ABCD.##### Als reeks is ingesteld en het serienummer is niet vermeld in een transactie, dan zal een serienummer automatisch worden aangemaakt, op basis van deze reeks. Als u altijd expliciet een serienummer wilt vemelden voor dit artikel bij een transatie, laat dan dit veld leeg.",reviewed,erpnext
+example: Next Day Shipping,Bijvoorbeeld: Next Day Shipping,reviewed,erpnext
+Example: {{ subject }},Voorbeeld: {{subject}},reviewed,frappe
+Excel,uitmunten,reviewed,frappe
+Exception,Uitzondering,reviewed,frappe
+Exception Budget Approver Role,Uitzondering Budget Approver Role,reviewed,erpnext
+Exception occurred while reconciling {0},Er is een uitzondering opgetreden tijdens het afstemmen van {0},reviewed,erpnext
+Exception Type,Uitzondering Type,reviewed,frappe
+Excessive machine set up time,Overmatige opstarttijd van de machine,reviewed,erpnext
+Exchange Gain / Loss Account,Exchange winst / verliesrekening,reviewed,erpnext
+Exchange Gain/Loss,Exchange winst / verlies,reviewed,erpnext
 Exchange Rate,Wisselkoers,reviewed,erpnext
-Exchange Rate must be same as {0} {1} ({2}),Wisselkoers moet hetzelfde zijn als zijn {0} {1} ({2}),unreviewed,erpnext
+Exchange Rate must be same as {0} {1} ({2}),Wisselkoers moet hetzelfde zijn als zijn {0} {1} ({2}),reviewed,erpnext
 Exchange Rate Revaluation,Wisselkoersherwaardering,reviewed,erpnext
-Exchange Rate Revaluation Account,Wisselkoersherwaarderingsaccount,unreviewed,erpnext
-Exchange Rate Revaluation master.,Koers herwaarderingsmeester.,unreviewed,erpnext
-Excise Entry,Accijnzen Boeking,unreviewed,erpnext
-Excise Invoice,Accijnzen Factuur,unreviewed,erpnext
-Excise Page Number,Accijnzen Paginanummer,unreviewed,erpnext
-exclamation-sign,uitroepteken,unreviewed,frappe
-Execute,Uitvoeren,unreviewed,frappe
-Execute Console script,Voer het consolescript uit,unreviewed,frappe
-Execution,Uitvoering,unreviewed,erpnext
-Execution Time: {0} sec,Uitvoeringstijd: {0} sec,unreviewed,frappe
-Exercise,Oefening,unreviewed,erpnext
-Exercise Difficulty Level,Oefening moeilijkheidsniveau,unreviewed,erpnext
-Exercise Instructions,Instructies voor oefeningen,unreviewed,erpnext
-Exercise Name,Oefening Naam,unreviewed,erpnext
-Exercise Steps,Oefening stappen,unreviewed,erpnext
-Exercise Type,Oefeningstype,unreviewed,erpnext
-Exercise Type Step,Oefeningstype Stap,unreviewed,erpnext
-Exercise Video,Oefenvideo,unreviewed,erpnext
-Exercises,Opdrachten,unreviewed,erpnext
-Existing Company,bestaande Company,unreviewed,erpnext
-Exit,Uitgang,unreviewed,erpnext
+Exchange Rate Revaluation Account,Wisselkoersherwaarderingsaccount,reviewed,erpnext
+Exchange Rate Revaluation master.,Koers herwaarderingsmeester.,reviewed,erpnext
+Excise Entry,Accijnzen Boeking,reviewed,erpnext
+Excise Invoice,Accijnzen Factuur,reviewed,erpnext
+Excise Page Number,Accijnzen Paginanummer,reviewed,erpnext
+exclamation-sign,uitroepteken,reviewed,frappe
+Execute,Uitvoeren,reviewed,frappe
+Execute Console script,Voer het consolescript uit,reviewed,frappe
+Execution,Uitvoering,reviewed,erpnext
+Execution Time: {0} sec,Uitvoeringstijd: {0} sec,reviewed,frappe
+Exercise,Oefening,reviewed,erpnext
+Exercise Difficulty Level,Oefening moeilijkheidsniveau,reviewed,erpnext
+Exercise Instructions,Instructies voor oefeningen,reviewed,erpnext
+Exercise Name,Oefening Naam,reviewed,erpnext
+Exercise Steps,Oefening stappen,reviewed,erpnext
+Exercise Type,Oefeningstype,reviewed,erpnext
+Exercise Type Step,Oefeningstype Stap,reviewed,erpnext
+Exercise Video,Oefenvideo,reviewed,erpnext
+Exercises,Opdrachten,reviewed,erpnext
+Existing Company,bestaande Company,reviewed,erpnext
+Exit,Uitgang,reviewed,erpnext
 Exit Interview,Exitgesprek,reviewed,custom
-Exit Interview Held On,Exit Interview aangehouden,unreviewed,erpnext
-Exotel Settings,Exotel-instellingen,unreviewed,erpnext
-Expand,Uitbreiden,unreviewed,frappe
-Expand All,Alles uitvouwen,unreviewed,both
+Exit Interview Held On,Exit Interview aangehouden,reviewed,erpnext
+Exotel Settings,Exotel-instellingen,reviewed,erpnext
+Expand,Uitbreiden,reviewed,frappe
+Expand All,Alles uitvouwen,reviewed,both
 Expand all,Alles uitklappen,reviewed,custom
-Expected Amount,Verwacht bedrag,unreviewed,erpnext
-Expected and Discharge dates cannot be less than Admission Schedule date,Verwachte en kwijtingdata kunnen niet minder zijn dan de datum van het toelatingsschema,unreviewed,erpnext
-Expected Arrival Date,Verwachte aankomstdatum,unreviewed,erpnext
-Expected Closing Date,Verwachte sluitingsdatum,unreviewed,erpnext
-Expected Delivery Date,Verwachte leverdatum,unreviewed,erpnext
-Expected Delivery Date should be after Sales Order Date,Verwachte leveringsdatum moet na verkoopdatum zijn,unreviewed,erpnext
-Expected Discharge,Verwachte kwijting,unreviewed,erpnext
-Expected End Date,Verwachte einddatum,unreviewed,erpnext
-Expected Hrs,Verwachte uren,unreviewed,erpnext
-Expected Length of Stay,Verwachte verblijfsduur,unreviewed,erpnext
-Expected Result Date,Verwachte resultaatdatum,unreviewed,erpnext
-Expected Result Time,Verwachte resultaattijd,unreviewed,erpnext
-Expected Start Date,Verwachte startdatum,unreviewed,erpnext
-Expected Time (in hours),Verwachte Tijd (in uren),unreviewed,erpnext
-Expected Value After Useful Life,Verwachte waarde Na Nuttig Life,unreviewed,erpnext
-Expense,Kosten,unreviewed,erpnext
-Expense / Difference account ({0}) must be a 'Profit or Loss' account,Kosten- / Verschillenrekening ({0}) moet een 'Winst of Verlies' rekening zijn.,unreviewed,erpnext
-Expense Account,Kostenrekening,unreviewed,erpnext
-Expense account is mandatory for item {0},Kostenrekening is verplicht voor artikel {0},unreviewed,erpnext
-Expense Account Missing,Onkostenrekening ontbreekt,unreviewed,erpnext
-Expense Approver,Onkosten Goedkeurder,unreviewed,erpnext
-Expense Claim,Kostendeclaratie,unreviewed,erpnext
-Expense Claims,Declaraties,unreviewed,erpnext
-Expense Head,Kosten Hoofd,unreviewed,erpnext
-Expense Head Changed,Uitgavenhoofd gewijzigd,unreviewed,erpnext
-Expenses,uitgaven,unreviewed,erpnext
-Expenses Included In Asset Valuation,Kosten opgenomen in inventariswaardering,unreviewed,erpnext
-Expenses Included In Valuation,Kosten inbegrepen in waardering,unreviewed,erpnext
-Expert,Deskundige,unreviewed,frappe
-Expiration time,vervaltijd,unreviewed,frappe
-Expire Notification On,Verlopen Notification On,unreviewed,frappe
-Expired,Verlopen,unreviewed,both
-Expired Batches,Verlopen batches,unreviewed,erpnext
-Expires In,Verloopt in,unreviewed,frappe
-Expires On,Verloopt op,unreviewed,erpnext
-Expiring Memberships,Verlopen Lidmaatschappen,unreviewed,erpnext
+Expected Amount,Verwacht bedrag,reviewed,erpnext
+Expected and Discharge dates cannot be less than Admission Schedule date,Verwachte en kwijtingdata kunnen niet minder zijn dan de datum van het toelatingsschema,reviewed,erpnext
+Expected Arrival Date,Verwachte aankomstdatum,reviewed,erpnext
+Expected Closing Date,Verwachte sluitingsdatum,reviewed,erpnext
+Expected Delivery Date,Verwachte leverdatum,reviewed,erpnext
+Expected Delivery Date should be after Sales Order Date,Verwachte leveringsdatum moet na verkoopdatum zijn,reviewed,erpnext
+Expected Discharge,Verwachte kwijting,reviewed,erpnext
+Expected End Date,Verwachte einddatum,reviewed,erpnext
+Expected Hrs,Verwachte uren,reviewed,erpnext
+Expected Length of Stay,Verwachte verblijfsduur,reviewed,erpnext
+Expected Result Date,Verwachte resultaatdatum,reviewed,erpnext
+Expected Result Time,Verwachte resultaattijd,reviewed,erpnext
+Expected Start Date,Verwachte startdatum,reviewed,erpnext
+Expected Time (in hours),Verwachte Tijd (in uren),reviewed,erpnext
+Expected Value After Useful Life,Verwachte waarde Na Nuttig Life,reviewed,erpnext
+Expense,Kosten,reviewed,erpnext
+Expense / Difference account ({0}) must be a 'Profit or Loss' account,Kosten- / Verschillenrekening ({0}) moet een 'Winst of Verlies' rekening zijn.,reviewed,erpnext
+Expense Account,Kostenrekening,reviewed,erpnext
+Expense account is mandatory for item {0},Kostenrekening is verplicht voor artikel {0},reviewed,erpnext
+Expense Account Missing,Onkostenrekening ontbreekt,reviewed,erpnext
+Expense Approver,Onkosten Goedkeurder,reviewed,erpnext
+Expense Claim,Kostendeclaratie,reviewed,erpnext
+Expense Claims,Declaraties,reviewed,erpnext
+Expense Head,Kosten Hoofd,reviewed,erpnext
+Expense Head Changed,Uitgavenhoofd gewijzigd,reviewed,erpnext
+Expenses,uitgaven,reviewed,erpnext
+Expenses Included In Asset Valuation,Kosten opgenomen in inventariswaardering,reviewed,erpnext
+Expenses Included In Valuation,Kosten inbegrepen in waardering,reviewed,erpnext
+Expert,Deskundige,reviewed,frappe
+Expiration time,vervaltijd,reviewed,frappe
+Expire Notification On,Verlopen Notification On,reviewed,frappe
+Expired,Verlopen,reviewed,both
+Expired Batches,Verlopen batches,reviewed,erpnext
+Expires In,Verloopt in,reviewed,frappe
+Expires On,Verloopt op,reviewed,erpnext
+Expiring Memberships,Verlopen Lidmaatschappen,reviewed,erpnext
 Expiring On,Vervalt op,unreviewed,erpnext
 Expiry (In Days),Vervallen (in dagen),unreviewed,erpnext
 Expiry Date,Vervaldatum,unreviewed,erpnext

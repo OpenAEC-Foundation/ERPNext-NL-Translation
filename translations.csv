@@ -9814,200 +9814,200 @@ Standard Print Style cannot be changed. Please duplicate to edit.,Standaard afdr
 Standard Reports,Standaard rapporten,reviewed,frappe
 Standard rich text editor with controls,Standaard RTF-editor met bedieningselementen,reviewed,frappe
 Standard roles cannot be disabled,Standard rollen kan niet worden uitgeschakeld,reviewed,frappe
-Standard roles cannot be renamed,Standaard rollen kan niet worden hernoemd,unreviewed,frappe
-Standard Selling,Standaard Verkoop,unreviewed,erpnext
-Standard Selling Rate should be greater than zero.,Het standaardverkooptarief moet groter zijn dan nul.,unreviewed,erpnext
-"Standard tax template that can be applied to all Purchase Transactions. This template can contain list of tax heads and also other expense heads like ""Shipping"", ""Insurance"", ""Handling"" etc.\n\n#### Note\n\nThe tax rate you define here will be the standard tax rate for all **Items**. If there are **Items** that have different rates, they must be added in the **Item Tax** table in the **Item** master.\n\n#### Description of Columns\n\n1. Calculation Type: \n    - This can be on **Net Total** (that is the sum of basic amount).\n    - **On Previous Row Total / Amount** (for cumulative taxes or charges). If you select this option, the tax will be applied as a percentage of the previous row (in the tax table) amount or total.\n    - **Actual** (as mentioned).\n2. Account Head: The Account ledger under which this tax will be booked\n3. Cost Center: If the tax / charge is an income (like shipping) or expense it needs to be booked against a Cost Center.\n4. Description: Description of the tax (that will be printed in invoices / quotes).\n5. Rate: Tax rate.\n6. Amount: Tax amount.\n7. Total: Cumulative total to this point.\n8. Enter Row: If based on ""Previous Row Total"" you can select the row number which will be taken as a base for this calculation (default is the previous row).\n9. Consider Tax or Charge for: In this section you can specify if the tax / charge is only for valuation (not a part of total) or only for total (does not add value to the item) or for both.\n10. Add or Deduct: Whether you want to add or deduct the tax.","Standaard belasting sjabloon die kan worden toegepast op alle inkooptransacties. Deze sjabloon kan lijst van fiscale hoofden en ook andere kosten koppen als ""Verzenden"", ""Verzekering"" bevatten, ""Omgaan met"" enz \n\n #### Opmerking \n\n De belastingdruk die u hier definieert zal het normale belastingtarief voor alle ** Items worden **. Als er ** Items ** dat verschillende tarieven hebben, moeten ze worden toegevoegd in de ** Item Tax ** tafel in de ** Item ** meester.\n\n #### Beschrijving van Kolommen \n\n 1. Berekening Type: \n - Dit kan op ** Netto Totaal ** (dat is de som van het basisbedrag).\n - ** Op Vorige Row Total / Bedrag ** (voor cumulatieve belastingen of heffingen). Als u deze optie selecteert, zal de belasting worden berekend als een percentage van de vorige rij (in de fiscale tabel) bedrag of totaal.\n - ** Werkelijke ** (zoals vermeld).\n 2. Account Head: De Account grootboek waaronder deze belasting \n 3 zal worden geboekt. Cost Center: Als de belasting / heffing is een inkomen (zoals de scheepvaart) of kosten die het nodig heeft tegen een kostenplaats worden geboekt.\n 4. Beschrijving: Beschrijving van de belasting (die zullen worden afgedrukt in de facturen / offertes).\n 5. Rate: belastingtarief.\n 6. Bedrag: BTW bedrag.\n 7. Totaal: Cumulatief totaal op dit punt.\n 8. Voer Row: Als op basis van ""Vorige Row Total"" kunt u het rijnummer die zullen worden genomen als basis voor deze berekening (standaard is de vorige rij) te selecteren.\n 9. Overweeg Tax of Charge voor: In dit gedeelte kunt u aangeven of de belasting / heffing is alleen voor de waardering (geen deel uit van het totaal) of alleen voor de totale (voegt niets toe aan het item) of voor beide.\n 10. Toe te voegen of Trek: Of u wilt toevoegen of aftrekken van de belasting.",unreviewed,erpnext
-"Standard tax template that can be applied to all Sales Transactions. This template can contain list of tax heads and also other expense / income heads like ""Shipping"", ""Insurance"", ""Handling"" etc.\n\n#### Note\n\nThe tax rate you define here will be the standard tax rate for all **Items**. If there are **Items** that have different rates, they must be added in the **Item Tax** table in the **Item** master.\n\n#### Description of Columns\n\n1. Calculation Type: \n    - This can be on **Net Total** (that is the sum of basic amount).\n    - **On Previous Row Total / Amount** (for cumulative taxes or charges). If you select this option, the tax will be applied as a percentage of the previous row (in the tax table) amount or total.\n    - **Actual** (as mentioned).\n2. Account Head: The Account ledger under which this tax will be booked\n3. Cost Center: If the tax / charge is an income (like shipping) or expense it needs to be booked against a Cost Center.\n4. Description: Description of the tax (that will be printed in invoices / quotes).\n5. Rate: Tax rate.\n6. Amount: Tax amount.\n7. Total: Cumulative total to this point.\n8. Enter Row: If based on ""Previous Row Total"" you can select the row number which will be taken as a base for this calculation (default is the previous row).\n9. Is this Tax included in Basic Rate?: If you check this, it means that this tax will not be shown below the item table, but will be included in the Basic Rate in your main item table. This is useful where you want give a flat price (inclusive of all taxes) price to customers.","Standaard belasting sjabloon die kan worden toegepast op alle verkooptransacties. Deze sjabloon kan lijst van fiscale hoofden en ook andere kosten / baten koppen als ""Verzenden"", ""Verzekering"" bevatten, ""Omgaan met"" enz \n\n #### Opmerking \n\n Het belastingtarief u definiëren hier zal het normale belastingtarief voor alle ** Items worden **. Als er ** Items ** dat verschillende tarieven hebben, moeten ze worden toegevoegd in de ** Item Tax ** tafel in de ** Item ** meester.\n\n #### Beschrijving van Kolommen \n\n 1. Berekening Type: \n - Dit kan op ** Netto Totaal ** (dat is de som van het basisbedrag).\n - ** Op Vorige Row Total / Bedrag ** (voor cumulatieve belastingen of heffingen). Als u deze optie selecteert, zal de belasting worden berekend als een percentage van de vorige rij (in de fiscale tabel) bedrag of totaal.\n - ** Werkelijke ** (zoals vermeld).\n 2. Account Head: De Account grootboek waaronder deze belasting \n 3 zal worden geboekt. Cost Center: Als de belasting / heffing is een inkomen (zoals de scheepvaart) of kosten die het nodig heeft tegen een kostenplaats worden geboekt.\n 4. Beschrijving: Beschrijving van de belasting (die zullen worden afgedrukt in de facturen / offertes).\n 5. Rate: belastingtarief.\n 6. Bedrag: BTW bedrag.\n 7. Totaal: Cumulatief totaal op dit punt.\n 8. Voer Row: Als op basis van ""Vorige Row Total"" kunt u het rijnummer die zullen worden genomen als basis voor deze berekening (standaard is de vorige rij) te selecteren.\n 9. Is dit inbegrepen in de Basic Rate ?: Indien u dit controleren, betekent dit dat deze belasting niet onder het item tafel zal worden getoond, maar zal worden opgenomen in het basistarief in uw belangrijkste punt tafel. Dit is handig wanneer u wilt geven een platte prijs (inclusief alle belastingen) prijs aan klanten.",unreviewed,erpnext
-"Standard Terms and Conditions that can be added to Sales and Purchases.\n\nExamples:\n\n1. Validity of the offer.\n1. Payment Terms (In Advance, On Credit, part advance etc).\n1. What is extra (or payable by the Customer).\n1. Safety / usage warning.\n1. Warranty if any.\n1. Returns Policy.\n1. Terms of shipping, if applicable.\n1. Ways of addressing disputes, indemnity, liability, etc.\n1. Address and Contact of your Company.","Algemene Voorwaarden die kunnen worden toegevoegd aan de verkopen en aankopen.\n\n Voorbeelden: \n\n 1. Geldigheid van het aanbod.\n 1. Betalingscondities (In Advance, op krediet, een deel vooraf etc).\n 1. Wat is extra (of ten laste van de Klant).\n 1. Veiligheid / gebruik waarschuwing.\n 1. Garantie indien van toepassing.\n 1. Returns Policy '.\n 1. Termen van de scheepvaart, indien van toepassing.\n 1. Methoden voor het aanpakken geschillen, schadevergoeding, aansprakelijkheid, enz. \n 1. Adres en contactgegevens van uw bedrijf.",unreviewed,erpnext
-Standing Name,Staande naam,unreviewed,erpnext
-Standings,Standen,unreviewed,frappe
-star,ster,unreviewed,frappe
-star-empty,star-leeg,unreviewed,frappe
-Start a conversation.,Een gesprek beginnen.,unreviewed,frappe
-Start and End Dates,Begin- en einddatum,unreviewed,erpnext
-Start Date,Startdatum,unreviewed,both
-Start Date cannot be before the current date,Startdatum kan niet vóór de huidige datum liggen,unreviewed,erpnext
-Start Date Field,Begindataveld,unreviewed,frappe
-Start Date of Agreement can't be greater than or equal to End Date.,De startdatum van de overeenkomst kan niet groter zijn dan of gelijk zijn aan de einddatum.,unreviewed,erpnext
-Start date of current invoice's period,Begindatum van de huidige factuurperiode,unreviewed,erpnext
-Start date should be less than end date for Item {0},Startdatum moet kleiner zijn dan einddatum voor Artikel {0},unreviewed,erpnext
-Start date should be less than end date for task {0},Startdatum moet minder zijn dan de einddatum voor taak {0},unreviewed,erpnext
-Start Day,Start dag,unreviewed,erpnext
-Start day is greater than end day in task '{0}',Startdag is groter dan einddag in taak &#39;{0}&#39;,unreviewed,erpnext
-Start entering data below this line,Beginnen met het invoeren onder deze lijn,unreviewed,frappe
-Start Import,Begin met importeren,unreviewed,frappe
-Start new Format,Start nieuwe Format,unreviewed,frappe
-Start on,Begin maar,unreviewed,erpnext
-Start Time,Starttijd,unreviewed,both
-Start Year,Start jaar,unreviewed,erpnext
-Start Year and End Year are mandatory,Startjaar en eindjaar zijn verplicht,unreviewed,erpnext
-Started,Begonnen,unreviewed,frappe
-Started Time,Begonnen tijd,unreviewed,erpnext
-Starting Frappe ...,Frappe starten ...,unreviewed,frappe
-Starting location from left edge,Startlocatie van linkerrand,unreviewed,erpnext
-Starting position from top edge,Uitgangspositie van bovenrand,unreviewed,erpnext
-Starts on,Begint op,unreviewed,frappe
-State,Staat,unreviewed,both
-State/Province,Staat / provincie,unreviewed,frappe
-State/UT Tax,Staat / UT belasting,unreviewed,erpnext
-Statement of Account,Rekeningafschrift,unreviewed,erpnext
-Statement of Accounts,Verklaring van de rekeningen,unreviewed,erpnext
-States,Statussen,unreviewed,frappe
-"States for workflow (e.g. Draft, Approved, Cancelled).","Statussen voor workflow ( bijv. Draft , Goedgekeurd , Cancelled) .",unreviewed,frappe
-Static Parameters,Statische Parameters,unreviewed,frappe
-Stats,Statistieken,unreviewed,frappe
-Stats based on last month's performance (from {0} to {1}),Statistieken gebaseerd op de prestaties van vorige maand (van {0} tot {1}),unreviewed,frappe
-Stats based on last week's performance (from {0} to {1}),Statistieken gebaseerd op de prestaties van vorige week (van {0} tot {1}),unreviewed,frappe
-Stats Time Interval,Statistieken Tijdsinterval,unreviewed,frappe
-Status must be Cancelled or Completed,Status moet worden geannuleerd of voltooid,unreviewed,erpnext
-Status must be one of {0},Status moet één zijn van {0},unreviewed,erpnext
-Status Updated,Status bijgewerkt,unreviewed,frappe
-Statutory info and other general information about your Supplier,Wettelijke info en andere algemene informatie over uw leverancier,unreviewed,erpnext
-Step,Stap,unreviewed,frappe
-step-backward,step-achteruit,unreviewed,frappe
-step-forward,stap-vooruit,unreviewed,frappe
-Steps,Stappen,unreviewed,frappe
-Steps Table,Stappen tafel,unreviewed,erpnext
-Steps to verify your login,Stappen om uw login te verifiëren,unreviewed,frappe
-Stock,Voorraad,unreviewed,erpnext
-Stock Adjustment,Voorraad aanpassing,unreviewed,erpnext
-Stock Adjustment Account,Voorraad Aanpassing Rekening,unreviewed,erpnext
-Stock Ageing,Voorraad Veroudering,unreviewed,erpnext
-Stock Analytics,Voorraad Analyses,unreviewed,erpnext
-Stock and Account Value Comparison,Voorraad- en accountwaardevergelijking,unreviewed,erpnext
-Stock Assets,Voorraad Activa,unreviewed,erpnext
-Stock Available,Beschikbare voorraad,unreviewed,erpnext
-Stock Balance,Voorraad Saldo,unreviewed,erpnext
-Stock balance in Batch {0} will become negative {1} for Item {2} at Warehouse {3},Voorraadbalans in Batch {0} zal negatief worden {1} voor Artikel {2} in Magazijn {3},unreviewed,erpnext
-Stock Balance Report,Voorraadbalansrapport,unreviewed,erpnext
-Stock cannot be updated against Delivery Note {0},Voorraad kan niet worden bijgewerkt obv Vrachtbrief {0},unreviewed,erpnext
-Stock cannot be updated against Purchase Receipt {0},Stock kan niet worden bijgewerkt tegen Kwitantie {0},unreviewed,erpnext
-Stock cannot exist for Item {0} since has variants,Voorraad kan niet bestaan voor Artikel {0} omdat het varianten heeft.,unreviewed,erpnext
-Stock Closing Balance,Voorraadeindsaldo,unreviewed,custom
-Stock Closing Entry,Voorraadafsluiting,unreviewed,custom
-Stock Details,Voorraad Details,unreviewed,erpnext
-Stock Entries already created for Work Order,Voorraadinvoer al gemaakt voor werkorder,unreviewed,erpnext
-Stock Entry,Voorraadtransactie,unreviewed,erpnext
-Stock Entry (Outward GIT),Voorraadinvoer (uitgaande GIT),unreviewed,erpnext
-Stock Entry Child,Stock Entry Kind,unreviewed,erpnext
-Stock Entry Detail,Voorraadtransactie Detail,unreviewed,erpnext
-Stock Entry has been already created against this Pick List,Voorraadinvoer is al gemaakt op basis van deze keuzelijst,unreviewed,erpnext
-Stock Entry Type,Voorraadboekingstype,unreviewed,erpnext
-Stock Entry {0} created,Stock Entry {0} aangemaakt,unreviewed,erpnext
-Stock Entry {0} created and,Voorraadinvoer {0} gemaakt en,unreviewed,erpnext
-Stock Entry {0} is not submitted,Stock Entry {0} is niet ingediend,unreviewed,erpnext
-Stock Expenses,Voorraadkosten,unreviewed,erpnext
-Stock Frozen Upto,Voorraad Bevroren Tot,unreviewed,erpnext
-Stock In Hand,Voorraad in de hand,unreviewed,erpnext
-Stock Items,Stock items,unreviewed,erpnext
-Stock Ledger,Voorraad Dagboek,unreviewed,erpnext
-Stock Ledger Entries and GL Entries are reposted for the selected Purchase Receipts,Voorraad boekingen en Journaalposten worden opnieuw geboekt voor de geselecteerde Ontvangstbewijzen,unreviewed,erpnext
-Stock Ledger Entry,Voorraadgrootboekregel,unreviewed,erpnext
-Stock Liabilities,Voorraad Verplichtingen,unreviewed,erpnext
-Stock Projected Qty,Verwachte voorraad hoeveelheid,unreviewed,erpnext
-Stock Qty,Aantal voorraad,unreviewed,erpnext
-Stock Qty vs Serial No Count,Voorraadaantal versus serienummer,unreviewed,erpnext
-Stock quantity not enough for Item Code: {0} under warehouse {1}. Available quantity {2}.,Voorraadhoeveelheid niet genoeg voor artikelcode: {0} onder magazijn {1}. Beschikbare hoeveelheid {2}.,unreviewed,erpnext
-Stock quantity to start the Procedure is not available in the Warehouse {0}. Do you want to record a Stock Entry?,Voorraadhoeveelheid om de procedure te starten is niet beschikbaar in het magazijn {0}. Wilt u een voorraadinvoer vastleggen?,unreviewed,erpnext
-Stock Queue (FIFO),Voorraad rij (FIFO),unreviewed,erpnext
-Stock Received But Not Billed,Voorraad ontvangen maar nog niet gefactureerd,unreviewed,erpnext
-Stock Reconciliation,Voorraadafstemming,unreviewed,erpnext
-Stock Reconciliation Item,Voorraad Afletteren Artikel,unreviewed,erpnext
-Stock Reconciliations,Voorraadafstemmingen,unreviewed,erpnext
-Stock Reservation Entry,Voorraadreservering,unreviewed,custom
-Stock Settings,Voorraad Instellingen,unreviewed,erpnext
-Stock Summary,Stock Samenvatting,unreviewed,erpnext
-Stock transactions before {0} are frozen,Voorraadtransacties voor {0} zijn bevroren,unreviewed,erpnext
-Stock Transactions for Item {0} under warehouse {1} cannot be posted before this time.,Voorraadtransacties voor artikel {0} onder magazijn {1} kunnen vóór deze tijd niet worden geboekt.,unreviewed,erpnext
-Stock UOM,Voorradeenheid,unreviewed,erpnext
-Stock Uom,Voorraad Eenheid,unreviewed,erpnext
-Stock User,Aandeel Gebruiker,unreviewed,erpnext
-Stock Value,Voorraad Waarde,unreviewed,erpnext
-Stock Value ({0}) and Account Balance ({1}) are out of sync for account {2} and it's linked warehouses.,Voorraadwaarde ({0}) en Accountsaldo ({1}) lopen niet synchroon voor account {2} en de bijbehorende magazijnen.,unreviewed,erpnext
-Stock Value Difference,Voorraad Waarde Verschil,unreviewed,erpnext
-Stop,stoppen,unreviewed,erpnext
-stop,hou op,unreviewed,frappe
-Stop Birthday Reminders,Stop verjaardagsherinneringen,unreviewed,erpnext
-Stop Reason,Stop reden,unreviewed,erpnext
-Stopped,Gestopt,unreviewed,both
-"Stopped Work Order cannot be cancelled, Unstop it first to cancel","Stopped Work Order kan niet geannuleerd worden, laat het eerst annuleren om te annuleren",unreviewed,erpnext
-Storage Temperature,Bewaar temperatuur,unreviewed,erpnext
-Stores,Winkels,unreviewed,erpnext
-Stores - {0},Winkels - {0},unreviewed,erpnext
-Stores the JSON of last known versions of various installed apps. It is used to show release notes.,Slaat de JSON van de laatst bekende versies van de verschillende geïnstalleerde apps. Het wordt gebruikt om de release notes zien.,unreviewed,frappe
-Straight Line,Rechte lijn,unreviewed,erpnext
-Straight rows of keys are easy to guess,Rechte rijen van de toetsen zijn makkelijk te raden,unreviewed,frappe
-Strength,Kracht,unreviewed,erpnext
-Stripe payment gateway settings,Strip-gateway instellingen,unreviewed,frappe
-Stripe Settings,Streep instellingen,unreviewed,frappe
-Student Activity,Studentactiviteit,unreviewed,erpnext
-Student Address,Studentenadres,unreviewed,erpnext
-Student Admission,student Toelating,unreviewed,erpnext
-Student Admission Program,Studenten toelating programma,unreviewed,erpnext
-Student Admissions,studentenadministratie,unreviewed,erpnext
-Student and Guardian Contact Details,Student and Guardian Contactgegevens,unreviewed,erpnext
-Student Applicant,student Aanvrager,unreviewed,erpnext
-Student Attendance,student Attendance,unreviewed,erpnext
-Student Attendance record {0} already exists against the Student {1},Student aanwezigheidsrecord {0} bestaat al voor de student {1},unreviewed,erpnext
-Student Batch,student Batch,unreviewed,erpnext
-Student Batch Name,Student batchnaam,unreviewed,erpnext
-"Student Batches help you track attendance, assessments and fees for students","Student Batches helpen bijhouden opkomst, evaluaties en kosten voor studenten",unreviewed,erpnext
-Student Category,student Categorie,unreviewed,erpnext
-Student Email Address,Student e-mailadres,unreviewed,erpnext
-Student Group,student Group,unreviewed,erpnext
-Student Group Instructor,Student Groep Instructeur,unreviewed,erpnext
-Student Group is already updated.,Studentgroep is al bijgewerkt.,unreviewed,erpnext
-Student Group Strength,Studentengroep Sterkte,unreviewed,erpnext
-Student Group:,Studentengroep:,unreviewed,erpnext
-Student Guardian,student Guardian,unreviewed,erpnext
-Student ID,student ID,unreviewed,erpnext
-Student ID:,Student-ID:,unreviewed,erpnext
-Student is already enrolled via Course Enrollment {0},Student is al ingeschreven via cursusinschrijving {0},unreviewed,erpnext
-Student is already enrolled.,Student is reeds ingeschreven.,unreviewed,erpnext
-Student Language,student Taal,unreviewed,erpnext
-Student Leave Application,Student verlofaanvraag,unreviewed,erpnext
-Student LMS Activity,LMS-activiteit student,unreviewed,erpnext
-Student Log,student Log,unreviewed,erpnext
-Student Monthly Attendance Sheet,Student Maandelijkse presentielijst,unreviewed,erpnext
-Student Name,Studenten naam,unreviewed,erpnext
-Student Name:,Studenten naam:,unreviewed,erpnext
-Student Report Card,Studentenrapportkaart,unreviewed,erpnext
-Student Report Generation Tool,Studentenrapport-generatietool,unreviewed,erpnext
-Student Sibling,student Sibling,unreviewed,erpnext
-Student Siblings,student Broers en zussen,unreviewed,erpnext
-Student with email {0} does not exist,Student met e-mail {0} bestaat niet,unreviewed,erpnext
-Student {0} - {1} appears Multiple times in row {2} & {3},Student {0} - {1} meerdere keren in rij {2} en {3},unreviewed,erpnext
-Student {0} does not belong to group {1},Student {0} hoort niet bij groep {1},unreviewed,erpnext
-Student {0} exist against student applicant {1},Student {0} bestaat tegen student aanvrager {1},unreviewed,erpnext
-Student {0}: {1} does not belong to Student Group {2},Leerling {0}: {1} behoort niet tot leerlinggroep {2},unreviewed,erpnext
-Students,leerlingen,unreviewed,erpnext
-"Students are at the heart of the system, add all your students","Studenten worden in het hart van het systeem, voegt al jouw leerlingen",unreviewed,erpnext
-Students HTML,studenten HTML,unreviewed,erpnext
-Studying in Same Institute,Het bestuderen in hetzelfde instituut,unreviewed,erpnext
-Style,Stijl,unreviewed,frappe
-"Style represents the button color: Success - Green, Danger - Red, Inverse - Black, Primary - Dark Blue, Info - Light Blue, Warning - Orange","Stijl staat voor de kleur van de knoppen: Succes - Groen, Gevaar - Rood, Inverse - Zwart, Lager - Dark Blue, Info - Light Blue, Waarschuwing - Oranje",unreviewed,frappe
-Style Settings,Stijlinstellingen,unreviewed,frappe
-Stylesheets for Print Formats,Stylesheets voor afdrukformaten,unreviewed,frappe
-Sub Assemblies,Uitbesteed werk,unreviewed,erpnext
-Sub Procedure,Subprocedure,unreviewed,erpnext
-Sub Type,Subtype,unreviewed,erpnext
-Sub-assembly BOM Count,Stuklijsttelling van subassemblage,unreviewed,erpnext
-Sub-contracting,Uitbesteding,unreviewed,erpnext
-"Sub-currency. For e.g. ""Cent""",Sub-valuta. Voor bijvoorbeeld &quot;Cent&quot;,unreviewed,frappe
-Sub-domain provided by erpnext.com,Subdomein aangeleverd door erpnext.com,unreviewed,frappe
-Subcontract,subcontract,unreviewed,erpnext
-Subcontracted Item,Object in onderaanneming,unreviewed,erpnext
-Subcontracted Item To Be Received,Uitbesteed item ontvangen,unreviewed,erpnext
-Subcontracted Raw Materials To Be Transferred,Uitbestede grondstoffen worden overgedragen,unreviewed,erpnext
-Subcontracting BOM,Uitbesteding stuklijst,unreviewed,custom
-Subcontracting Inward Order,Uitbesteding inkomende order,unreviewed,custom
-Subcontracting Order,Uitbestedingsorder,unreviewed,custom
-Subcontracting Receipt,Uitbesteding ontvangstbon,unreviewed,custom
-Subdomain,Subdomein,unreviewed,frappe
-Subject,Onderwerp,unreviewed,both
-Subject Field,Onderwerp veld,unreviewed,frappe
-"Subject Field type should be Data, Text, Long Text, Small Text, Text Editor","Onderwerp Veldtype moet Data, Tekst, Lange tekst, Kleine tekst, Teksteditor zijn",unreviewed,frappe
+Standard roles cannot be renamed,Standaard rollen kan niet worden hernoemd,reviewed,frappe
+Standard Selling,Standaard Verkoop,reviewed,erpnext
+Standard Selling Rate should be greater than zero.,Het standaardverkooptarief moet groter zijn dan nul.,reviewed,erpnext
+"Standard tax template that can be applied to all Purchase Transactions. This template can contain list of tax heads and also other expense heads like ""Shipping"", ""Insurance"", ""Handling"" etc.\n\n#### Note\n\nThe tax rate you define here will be the standard tax rate for all **Items**. If there are **Items** that have different rates, they must be added in the **Item Tax** table in the **Item** master.\n\n#### Description of Columns\n\n1. Calculation Type: \n    - This can be on **Net Total** (that is the sum of basic amount).\n    - **On Previous Row Total / Amount** (for cumulative taxes or charges). If you select this option, the tax will be applied as a percentage of the previous row (in the tax table) amount or total.\n    - **Actual** (as mentioned).\n2. Account Head: The Account ledger under which this tax will be booked\n3. Cost Center: If the tax / charge is an income (like shipping) or expense it needs to be booked against a Cost Center.\n4. Description: Description of the tax (that will be printed in invoices / quotes).\n5. Rate: Tax rate.\n6. Amount: Tax amount.\n7. Total: Cumulative total to this point.\n8. Enter Row: If based on ""Previous Row Total"" you can select the row number which will be taken as a base for this calculation (default is the previous row).\n9. Consider Tax or Charge for: In this section you can specify if the tax / charge is only for valuation (not a part of total) or only for total (does not add value to the item) or for both.\n10. Add or Deduct: Whether you want to add or deduct the tax.","Standaard belasting sjabloon die kan worden toegepast op alle inkooptransacties. Deze sjabloon kan lijst van fiscale hoofden en ook andere kosten koppen als ""Verzenden"", ""Verzekering"" bevatten, ""Omgaan met"" enz \n\n #### Opmerking \n\n De belastingdruk die u hier definieert zal het normale belastingtarief voor alle ** Items worden **. Als er ** Items ** dat verschillende tarieven hebben, moeten ze worden toegevoegd in de ** Item Tax ** tafel in de ** Item ** meester.\n\n #### Beschrijving van Kolommen \n\n 1. Berekening Type: \n - Dit kan op ** Netto Totaal ** (dat is de som van het basisbedrag).\n - ** Op Vorige Row Total / Bedrag ** (voor cumulatieve belastingen of heffingen). Als u deze optie selecteert, zal de belasting worden berekend als een percentage van de vorige rij (in de fiscale tabel) bedrag of totaal.\n - ** Werkelijke ** (zoals vermeld).\n 2. Account Head: De Account grootboek waaronder deze belasting \n 3 zal worden geboekt. Cost Center: Als de belasting / heffing is een inkomen (zoals de scheepvaart) of kosten die het nodig heeft tegen een kostenplaats worden geboekt.\n 4. Beschrijving: Beschrijving van de belasting (die zullen worden afgedrukt in de facturen / offertes).\n 5. Rate: belastingtarief.\n 6. Bedrag: BTW bedrag.\n 7. Totaal: Cumulatief totaal op dit punt.\n 8. Voer Row: Als op basis van ""Vorige Row Total"" kunt u het rijnummer die zullen worden genomen als basis voor deze berekening (standaard is de vorige rij) te selecteren.\n 9. Overweeg Tax of Charge voor: In dit gedeelte kunt u aangeven of de belasting / heffing is alleen voor de waardering (geen deel uit van het totaal) of alleen voor de totale (voegt niets toe aan het item) of voor beide.\n 10. Toe te voegen of Trek: Of u wilt toevoegen of aftrekken van de belasting.",reviewed,erpnext
+"Standard tax template that can be applied to all Sales Transactions. This template can contain list of tax heads and also other expense / income heads like ""Shipping"", ""Insurance"", ""Handling"" etc.\n\n#### Note\n\nThe tax rate you define here will be the standard tax rate for all **Items**. If there are **Items** that have different rates, they must be added in the **Item Tax** table in the **Item** master.\n\n#### Description of Columns\n\n1. Calculation Type: \n    - This can be on **Net Total** (that is the sum of basic amount).\n    - **On Previous Row Total / Amount** (for cumulative taxes or charges). If you select this option, the tax will be applied as a percentage of the previous row (in the tax table) amount or total.\n    - **Actual** (as mentioned).\n2. Account Head: The Account ledger under which this tax will be booked\n3. Cost Center: If the tax / charge is an income (like shipping) or expense it needs to be booked against a Cost Center.\n4. Description: Description of the tax (that will be printed in invoices / quotes).\n5. Rate: Tax rate.\n6. Amount: Tax amount.\n7. Total: Cumulative total to this point.\n8. Enter Row: If based on ""Previous Row Total"" you can select the row number which will be taken as a base for this calculation (default is the previous row).\n9. Is this Tax included in Basic Rate?: If you check this, it means that this tax will not be shown below the item table, but will be included in the Basic Rate in your main item table. This is useful where you want give a flat price (inclusive of all taxes) price to customers.","Standaard belasting sjabloon die kan worden toegepast op alle verkooptransacties. Deze sjabloon kan lijst van fiscale hoofden en ook andere kosten / baten koppen als ""Verzenden"", ""Verzekering"" bevatten, ""Omgaan met"" enz \n\n #### Opmerking \n\n Het belastingtarief u definiëren hier zal het normale belastingtarief voor alle ** Items worden **. Als er ** Items ** dat verschillende tarieven hebben, moeten ze worden toegevoegd in de ** Item Tax ** tafel in de ** Item ** meester.\n\n #### Beschrijving van Kolommen \n\n 1. Berekening Type: \n - Dit kan op ** Netto Totaal ** (dat is de som van het basisbedrag).\n - ** Op Vorige Row Total / Bedrag ** (voor cumulatieve belastingen of heffingen). Als u deze optie selecteert, zal de belasting worden berekend als een percentage van de vorige rij (in de fiscale tabel) bedrag of totaal.\n - ** Werkelijke ** (zoals vermeld).\n 2. Account Head: De Account grootboek waaronder deze belasting \n 3 zal worden geboekt. Cost Center: Als de belasting / heffing is een inkomen (zoals de scheepvaart) of kosten die het nodig heeft tegen een kostenplaats worden geboekt.\n 4. Beschrijving: Beschrijving van de belasting (die zullen worden afgedrukt in de facturen / offertes).\n 5. Rate: belastingtarief.\n 6. Bedrag: BTW bedrag.\n 7. Totaal: Cumulatief totaal op dit punt.\n 8. Voer Row: Als op basis van ""Vorige Row Total"" kunt u het rijnummer die zullen worden genomen als basis voor deze berekening (standaard is de vorige rij) te selecteren.\n 9. Is dit inbegrepen in de Basic Rate ?: Indien u dit controleren, betekent dit dat deze belasting niet onder het item tafel zal worden getoond, maar zal worden opgenomen in het basistarief in uw belangrijkste punt tafel. Dit is handig wanneer u wilt geven een platte prijs (inclusief alle belastingen) prijs aan klanten.",reviewed,erpnext
+"Standard Terms and Conditions that can be added to Sales and Purchases.\n\nExamples:\n\n1. Validity of the offer.\n1. Payment Terms (In Advance, On Credit, part advance etc).\n1. What is extra (or payable by the Customer).\n1. Safety / usage warning.\n1. Warranty if any.\n1. Returns Policy.\n1. Terms of shipping, if applicable.\n1. Ways of addressing disputes, indemnity, liability, etc.\n1. Address and Contact of your Company.","Algemene Voorwaarden die kunnen worden toegevoegd aan de verkopen en aankopen.\n\n Voorbeelden: \n\n 1. Geldigheid van het aanbod.\n 1. Betalingscondities (In Advance, op krediet, een deel vooraf etc).\n 1. Wat is extra (of ten laste van de Klant).\n 1. Veiligheid / gebruik waarschuwing.\n 1. Garantie indien van toepassing.\n 1. Returns Policy '.\n 1. Termen van de scheepvaart, indien van toepassing.\n 1. Methoden voor het aanpakken geschillen, schadevergoeding, aansprakelijkheid, enz. \n 1. Adres en contactgegevens van uw bedrijf.",reviewed,erpnext
+Standing Name,Staande naam,reviewed,erpnext
+Standings,Standen,reviewed,frappe
+star,ster,reviewed,frappe
+star-empty,star-leeg,reviewed,frappe
+Start a conversation.,Een gesprek beginnen.,reviewed,frappe
+Start and End Dates,Begin- en einddatum,reviewed,erpnext
+Start Date,Startdatum,reviewed,both
+Start Date cannot be before the current date,Startdatum kan niet vóór de huidige datum liggen,reviewed,erpnext
+Start Date Field,Begindataveld,reviewed,frappe
+Start Date of Agreement can't be greater than or equal to End Date.,De startdatum van de overeenkomst kan niet groter zijn dan of gelijk zijn aan de einddatum.,reviewed,erpnext
+Start date of current invoice's period,Begindatum van de huidige factuurperiode,reviewed,erpnext
+Start date should be less than end date for Item {0},Startdatum moet kleiner zijn dan einddatum voor Artikel {0},reviewed,erpnext
+Start date should be less than end date for task {0},Startdatum moet minder zijn dan de einddatum voor taak {0},reviewed,erpnext
+Start Day,Start dag,reviewed,erpnext
+Start day is greater than end day in task '{0}',Startdag is groter dan einddag in taak &#39;{0}&#39;,reviewed,erpnext
+Start entering data below this line,Beginnen met het invoeren onder deze lijn,reviewed,frappe
+Start Import,Begin met importeren,reviewed,frappe
+Start new Format,Nieuw formaat starten,reviewed,frappe
+Start on,Begint op,reviewed,erpnext
+Start Time,Starttijd,reviewed,both
+Start Year,Start jaar,reviewed,erpnext
+Start Year and End Year are mandatory,Startjaar en eindjaar zijn verplicht,reviewed,erpnext
+Started,Begonnen,reviewed,frappe
+Started Time,Begonnen tijd,reviewed,erpnext
+Starting Frappe ...,Frappe starten ...,reviewed,frappe
+Starting location from left edge,Startlocatie van linkerrand,reviewed,erpnext
+Starting position from top edge,Uitgangspositie van bovenrand,reviewed,erpnext
+Starts on,Begint op,reviewed,frappe
+State,Status,reviewed,both
+State/Province,Staat / provincie,reviewed,frappe
+State/UT Tax,Staat / UT belasting,reviewed,erpnext
+Statement of Account,Rekeningafschrift,reviewed,erpnext
+Statement of Accounts,Rekeningoverzicht,reviewed,erpnext
+States,Statussen,reviewed,frappe
+"States for workflow (e.g. Draft, Approved, Cancelled).","Statussen voor workflow ( bijv. Draft , Goedgekeurd , Cancelled) .",reviewed,frappe
+Static Parameters,Statische Parameters,reviewed,frappe
+Stats,Statistieken,reviewed,frappe
+Stats based on last month's performance (from {0} to {1}),Statistieken gebaseerd op de prestaties van vorige maand (van {0} tot {1}),reviewed,frappe
+Stats based on last week's performance (from {0} to {1}),Statistieken gebaseerd op de prestaties van vorige week (van {0} tot {1}),reviewed,frappe
+Stats Time Interval,Statistieken Tijdsinterval,reviewed,frappe
+Status must be Cancelled or Completed,Status moet worden geannuleerd of voltooid,reviewed,erpnext
+Status must be one of {0},Status moet één zijn van {0},reviewed,erpnext
+Status Updated,Status bijgewerkt,reviewed,frappe
+Statutory info and other general information about your Supplier,Wettelijke info en andere algemene informatie over uw leverancier,reviewed,erpnext
+Step,Stap,reviewed,frappe
+step-backward,step-achteruit,reviewed,frappe
+step-forward,stap-vooruit,reviewed,frappe
+Steps,Stappen,reviewed,frappe
+Steps Table,Stappentabel,reviewed,erpnext
+Steps to verify your login,Stappen om uw login te verifiëren,reviewed,frappe
+Stock,Voorraad,reviewed,erpnext
+Stock Adjustment,Voorraad aanpassing,reviewed,erpnext
+Stock Adjustment Account,Voorraad Aanpassing Rekening,reviewed,erpnext
+Stock Ageing,Voorraadouderdom,reviewed,erpnext
+Stock Analytics,Voorraad Analyses,reviewed,erpnext
+Stock and Account Value Comparison,Voorraad- en accountwaardevergelijking,reviewed,erpnext
+Stock Assets,Voorraad Activa,reviewed,erpnext
+Stock Available,Beschikbare voorraad,reviewed,erpnext
+Stock Balance,Voorraadsaldo,reviewed,erpnext
+Stock balance in Batch {0} will become negative {1} for Item {2} at Warehouse {3},Voorraadbalans in Batch {0} zal negatief worden {1} voor Artikel {2} in Magazijn {3},reviewed,erpnext
+Stock Balance Report,Voorraadsaldorapport,reviewed,erpnext
+Stock cannot be updated against Delivery Note {0},Voorraad kan niet worden bijgewerkt voor afleverbon {0},reviewed,erpnext
+Stock cannot be updated against Purchase Receipt {0},Voorraad kan niet worden bijgewerkt voor inkoopontvangst {0},reviewed,erpnext
+Stock cannot exist for Item {0} since has variants,Voorraad kan niet bestaan voor Artikel {0} omdat het varianten heeft.,reviewed,erpnext
+Stock Closing Balance,Voorraadeindsaldo,reviewed,custom
+Stock Closing Entry,Voorraadafsluiting,reviewed,custom
+Stock Details,Voorraad Details,reviewed,erpnext
+Stock Entries already created for Work Order,Voorraadmutaties al aangemaakt voor werkorder,reviewed,erpnext
+Stock Entry,Voorraadmutatie,reviewed,erpnext
+Stock Entry (Outward GIT),Voorraadmutatie (uitgaande GIT),reviewed,erpnext
+Stock Entry Child,Voorraadmutatieregel,reviewed,erpnext
+Stock Entry Detail,Voorraadmutatie detail,reviewed,erpnext
+Stock Entry has been already created against this Pick List,Voorraadmutatie is al aangemaakt voor deze keuzelijst,reviewed,erpnext
+Stock Entry Type,Voorraadmutatietype,reviewed,erpnext
+Stock Entry {0} created,Voorraadmutatie {0} aangemaakt,reviewed,erpnext
+Stock Entry {0} created and,Voorraadmutatie {0} aangemaakt en,reviewed,erpnext
+Stock Entry {0} is not submitted,Voorraadmutatie {0} is niet ingediend,reviewed,erpnext
+Stock Expenses,Voorraadkosten,reviewed,erpnext
+Stock Frozen Upto,Voorraad Bevroren Tot,reviewed,erpnext
+Stock In Hand,Voorhanden voorraad,reviewed,erpnext
+Stock Items,Voorraadartikelen,reviewed,erpnext
+Stock Ledger,Voorraadgrootboek,reviewed,erpnext
+Stock Ledger Entries and GL Entries are reposted for the selected Purchase Receipts,Voorraad boekingen en Journaalposten worden opnieuw geboekt voor de geselecteerde Ontvangstbewijzen,reviewed,erpnext
+Stock Ledger Entry,Voorraadgrootboekregel,reviewed,erpnext
+Stock Liabilities,Voorraad Verplichtingen,reviewed,erpnext
+Stock Projected Qty,Verwachte voorraad hoeveelheid,reviewed,erpnext
+Stock Qty,Aantal voorraad,reviewed,erpnext
+Stock Qty vs Serial No Count,Voorraadaantal versus serienummer,reviewed,erpnext
+Stock quantity not enough for Item Code: {0} under warehouse {1}. Available quantity {2}.,Voorraadhoeveelheid niet genoeg voor artikelcode: {0} onder magazijn {1}. Beschikbare hoeveelheid {2}.,reviewed,erpnext
+Stock quantity to start the Procedure is not available in the Warehouse {0}. Do you want to record a Stock Entry?,Voorraadhoeveelheid om de procedure te starten is niet beschikbaar in het magazijn {0}. Wilt u een voorraadinvoer vastleggen?,reviewed,erpnext
+Stock Queue (FIFO),Voorraad rij (FIFO),reviewed,erpnext
+Stock Received But Not Billed,Voorraad ontvangen maar nog niet gefactureerd,reviewed,erpnext
+Stock Reconciliation,Voorraadafstemming,reviewed,erpnext
+Stock Reconciliation Item,Voorraad Afletteren Artikel,reviewed,erpnext
+Stock Reconciliations,Voorraadafstemmingen,reviewed,erpnext
+Stock Reservation Entry,Voorraadreservering,reviewed,custom
+Stock Settings,Voorraad Instellingen,reviewed,erpnext
+Stock Summary,Stock Samenvatting,reviewed,erpnext
+Stock transactions before {0} are frozen,Voorraadtransacties voor {0} zijn bevroren,reviewed,erpnext
+Stock Transactions for Item {0} under warehouse {1} cannot be posted before this time.,Voorraadtransacties voor artikel {0} onder magazijn {1} kunnen vóór deze tijd niet worden geboekt.,reviewed,erpnext
+Stock UOM,Voorradeenheid,reviewed,erpnext
+Stock Uom,Voorraad Eenheid,reviewed,erpnext
+Stock User,Aandeel Gebruiker,reviewed,erpnext
+Stock Value,Voorraad Waarde,reviewed,erpnext
+Stock Value ({0}) and Account Balance ({1}) are out of sync for account {2} and it's linked warehouses.,Voorraadwaarde ({0}) en Accountsaldo ({1}) lopen niet synchroon voor account {2} en de bijbehorende magazijnen.,reviewed,erpnext
+Stock Value Difference,Voorraad Waarde Verschil,reviewed,erpnext
+Stop,stoppen,reviewed,erpnext
+stop,hou op,reviewed,frappe
+Stop Birthday Reminders,Stop verjaardagsherinneringen,reviewed,erpnext
+Stop Reason,Stop reden,reviewed,erpnext
+Stopped,Gestopt,reviewed,both
+"Stopped Work Order cannot be cancelled, Unstop it first to cancel","Stopped Work Order kan niet geannuleerd worden, laat het eerst annuleren om te annuleren",reviewed,erpnext
+Storage Temperature,Bewaar temperatuur,reviewed,erpnext
+Stores,Winkels,reviewed,erpnext
+Stores - {0},Winkels - {0},reviewed,erpnext
+Stores the JSON of last known versions of various installed apps. It is used to show release notes.,Slaat de JSON van de laatst bekende versies van de verschillende geïnstalleerde apps. Het wordt gebruikt om de release notes zien.,reviewed,frappe
+Straight Line,Rechte lijn,reviewed,erpnext
+Straight rows of keys are easy to guess,Rechte rijen van de toetsen zijn makkelijk te raden,reviewed,frappe
+Strength,Kracht,reviewed,erpnext
+Stripe payment gateway settings,Strip-gateway instellingen,reviewed,frappe
+Stripe Settings,Streep instellingen,reviewed,frappe
+Student Activity,Studentactiviteit,reviewed,erpnext
+Student Address,Studentenadres,reviewed,erpnext
+Student Admission,student Toelating,reviewed,erpnext
+Student Admission Program,Studenten toelating programma,reviewed,erpnext
+Student Admissions,studentenadministratie,reviewed,erpnext
+Student and Guardian Contact Details,Student and Guardian Contactgegevens,reviewed,erpnext
+Student Applicant,student Aanvrager,reviewed,erpnext
+Student Attendance,student Attendance,reviewed,erpnext
+Student Attendance record {0} already exists against the Student {1},Student aanwezigheidsrecord {0} bestaat al voor de student {1},reviewed,erpnext
+Student Batch,student Batch,reviewed,erpnext
+Student Batch Name,Student batchnaam,reviewed,erpnext
+"Student Batches help you track attendance, assessments and fees for students","Student Batches helpen bijhouden opkomst, evaluaties en kosten voor studenten",reviewed,erpnext
+Student Category,student Categorie,reviewed,erpnext
+Student Email Address,Student e-mailadres,reviewed,erpnext
+Student Group,student Group,reviewed,erpnext
+Student Group Instructor,Student Groep Instructeur,reviewed,erpnext
+Student Group is already updated.,Studentgroep is al bijgewerkt.,reviewed,erpnext
+Student Group Strength,Studentengroep Sterkte,reviewed,erpnext
+Student Group:,Studentengroep:,reviewed,erpnext
+Student Guardian,student Guardian,reviewed,erpnext
+Student ID,student ID,reviewed,erpnext
+Student ID:,Student-ID:,reviewed,erpnext
+Student is already enrolled via Course Enrollment {0},Student is al ingeschreven via cursusinschrijving {0},reviewed,erpnext
+Student is already enrolled.,Student is reeds ingeschreven.,reviewed,erpnext
+Student Language,student Taal,reviewed,erpnext
+Student Leave Application,Student verlofaanvraag,reviewed,erpnext
+Student LMS Activity,LMS-activiteit student,reviewed,erpnext
+Student Log,student Log,reviewed,erpnext
+Student Monthly Attendance Sheet,Student Maandelijkse presentielijst,reviewed,erpnext
+Student Name,Studenten naam,reviewed,erpnext
+Student Name:,Studenten naam:,reviewed,erpnext
+Student Report Card,Studentenrapportkaart,reviewed,erpnext
+Student Report Generation Tool,Studentenrapport-generatietool,reviewed,erpnext
+Student Sibling,student Sibling,reviewed,erpnext
+Student Siblings,student Broers en zussen,reviewed,erpnext
+Student with email {0} does not exist,Student met e-mail {0} bestaat niet,reviewed,erpnext
+Student {0} - {1} appears Multiple times in row {2} & {3},Student {0} - {1} meerdere keren in rij {2} en {3},reviewed,erpnext
+Student {0} does not belong to group {1},Student {0} hoort niet bij groep {1},reviewed,erpnext
+Student {0} exist against student applicant {1},Student {0} bestaat tegen student aanvrager {1},reviewed,erpnext
+Student {0}: {1} does not belong to Student Group {2},Leerling {0}: {1} behoort niet tot leerlinggroep {2},reviewed,erpnext
+Students,leerlingen,reviewed,erpnext
+"Students are at the heart of the system, add all your students","Studenten worden in het hart van het systeem, voegt al jouw leerlingen",reviewed,erpnext
+Students HTML,studenten HTML,reviewed,erpnext
+Studying in Same Institute,Het bestuderen in hetzelfde instituut,reviewed,erpnext
+Style,Stijl,reviewed,frappe
+"Style represents the button color: Success - Green, Danger - Red, Inverse - Black, Primary - Dark Blue, Info - Light Blue, Warning - Orange","Stijl staat voor de kleur van de knoppen: Succes - Groen, Gevaar - Rood, Inverse - Zwart, Lager - Dark Blue, Info - Light Blue, Waarschuwing - Oranje",reviewed,frappe
+Style Settings,Stijlinstellingen,reviewed,frappe
+Stylesheets for Print Formats,Stylesheets voor afdrukformaten,reviewed,frappe
+Sub Assemblies,Uitbesteed werk,reviewed,erpnext
+Sub Procedure,Subprocedure,reviewed,erpnext
+Sub Type,Subtype,reviewed,erpnext
+Sub-assembly BOM Count,Stuklijsttelling van subassemblage,reviewed,erpnext
+Sub-contracting,Uitbesteding,reviewed,erpnext
+"Sub-currency. For e.g. ""Cent""",Sub-valuta. Voor bijvoorbeeld &quot;Cent&quot;,reviewed,frappe
+Sub-domain provided by erpnext.com,Subdomein aangeleverd door erpnext.com,reviewed,frappe
+Subcontract,subcontract,reviewed,erpnext
+Subcontracted Item,Object in onderaanneming,reviewed,erpnext
+Subcontracted Item To Be Received,Uitbesteed item ontvangen,reviewed,erpnext
+Subcontracted Raw Materials To Be Transferred,Uitbestede grondstoffen worden overgedragen,reviewed,erpnext
+Subcontracting BOM,Uitbesteding stuklijst,reviewed,custom
+Subcontracting Inward Order,Uitbesteding inkomende order,reviewed,custom
+Subcontracting Order,Uitbestedingsorder,reviewed,custom
+Subcontracting Receipt,Uitbesteding ontvangstbon,reviewed,custom
+Subdomain,Subdomein,reviewed,frappe
+Subject,Onderwerp,reviewed,both
+Subject Field,Onderwerp veld,reviewed,frappe
+"Subject Field type should be Data, Text, Long Text, Small Text, Text Editor","Onderwerp Veldtype moet Data, Tekst, Lange tekst, Kleine tekst, Teksteditor zijn",reviewed,frappe
 Submit,Indienen,unreviewed,both
 Submit After Import,Verzenden na importeren,unreviewed,frappe
 Submit after importing,Verzenden na importeren,unreviewed,frappe

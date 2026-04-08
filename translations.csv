@@ -4700,208 +4700,208 @@ Ignore XSS Filter,Negeer XSS-filter,reviewed,frappe
 Ignored Apps,Genegeerde apps,reviewed,frappe
 Ignored: {0} to {1},Genegeerd: {0} tot {1},reviewed,frappe
 IGST Account,IGST-account,reviewed,erpnext
-IGST Amount,IGST Bedrag,unreviewed,erpnext
-Illegal Access Token. Please try again,Illegale Access Token. Probeer het opnieuw,unreviewed,frappe
-Illegal Document Status for {0},Illegale documentstatus voor {0},unreviewed,frappe
-Illegal SQL Query,Illegale SQL-zoekopdracht,unreviewed,frappe
-Image,Afbeelding,unreviewed,both
-image,beeld,unreviewed,erpnext
-Image Description,Afbeeldingsomschrijving,unreviewed,erpnext
-Image Field,beeldveld,unreviewed,frappe
-Image field must be a valid fieldname,Afbeelding veld moet een geldige veldnaam te zijn,unreviewed,frappe
-Image field must be of type Attach Image,Afbeelding veld moet van het type zijn Attach Image,unreviewed,frappe
-Image Link,Afbeelding Link,unreviewed,frappe
-Image List,Afbeeldingenlijst,unreviewed,erpnext
+IGST Amount,IGST Bedrag,reviewed,erpnext
+Illegal Access Token. Please try again,Ongeldig toegangstoken. Probeer het opnieuw,reviewed,frappe
+Illegal Document Status for {0},Ongeldige documentstatus voor {0},reviewed,frappe
+Illegal SQL Query,Ongeldige SQL-query,reviewed,frappe
+Image,Afbeelding,reviewed,both
+image,afbeelding,reviewed,erpnext
+Image Description,Afbeeldingsomschrijving,reviewed,erpnext
+Image Field,Afbeeldingsveld,reviewed,frappe
+Image field must be a valid fieldname,Afbeelding veld moet een geldige veldnaam te zijn,reviewed,frappe
+Image field must be of type Attach Image,Afbeelding veld moet van het type zijn Attach Image,reviewed,frappe
+Image Link,Afbeeldingskoppeling,reviewed,frappe
+Image List,Afbeeldingenlijst,reviewed,erpnext
 Image View,Afbeeldingsweergave,reviewed,both
-Images,Afbeeldingen,unreviewed,frappe
-Implicit,stilzwijgend,unreviewed,frappe
-Import,Importeren,unreviewed,both
-Import Chart of Accounts from a csv file,Importeer rekeningschema uit een csv-bestand,unreviewed,erpnext
-Import Chart of Accounts from CSV / Excel files,Rekeningschema importeren vanuit CSV / Excel-bestanden,unreviewed,erpnext
-Import Data,Data importeren,unreviewed,both
-Import Data from CSV / Excel files.,Gegevens importeren uit CSV / Excel-bestanden.,unreviewed,both
-Import Day Book Data,Dagboekgegevens importeren,unreviewed,erpnext
-Import Delivery Notes from Shopify on Shipment,Verzendingsnota&#39;s importeren vanuit Shopify bij verzending,unreviewed,erpnext
-Import Email From,Import e-mail van,unreviewed,frappe
-Import File,Importeer bestand,unreviewed,frappe
-Import File Errors and Warnings,Importeer bestandsfouten en waarschuwingen,unreviewed,frappe
-Import from Google Sheets,Importeer vanuit Google Spreadsheets,unreviewed,frappe
-Import in Bulk,Import in bulk,unreviewed,erpnext
-Import Invoices,Facturen importeren,unreviewed,erpnext
-Import Italian Supplier Invoice.,Importeer Italiaanse leveranciersfactuur.,unreviewed,erpnext
-Import Log,Importeren Log,unreviewed,both
-Import Log Preview,Voorbeeld van logboek importeren,unreviewed,frappe
-Import Master Data,Stamgegevens importeren,unreviewed,erpnext
-Import Of Capital Goods,Import van kapitaalgoederen,unreviewed,erpnext
-Import of goods,Goederen importeren,unreviewed,erpnext
-Import Of Service,Import van service,unreviewed,erpnext
-Import of services,Import van diensten,unreviewed,erpnext
-Import Preview,Voorbeeld importeren,unreviewed,frappe
-Import Progress,Voortgang importeren,unreviewed,frappe
-Import Sales Invoice from Shopify if Payment is marked,Importeer de verkoopfactuur van Shopify als betaling is gemarkeerd,unreviewed,erpnext
-Import Status,Importstatus,unreviewed,frappe
-Import Subscribers,Abonnees Import,unreviewed,frappe
-Import Successful,Import succesvol,unreviewed,erpnext
-Import Supplier Invoice,Leveranciersfactuur importeren,unreviewed,erpnext
-"Import template should be of type .csv, .xlsx or .xls","Importsjabloon moet van het type .csv, .xlsx of .xls zijn",unreviewed,frappe
-Import template should contain a Header and atleast one row.,Importsjabloon moet een koptekst bevatten en minimaal één rij.,unreviewed,frappe
-Import Type,Type invoer,unreviewed,frappe
-Import Warnings,Waarschuwingen importeren,unreviewed,frappe
-Import Zip,Zip importeren,unreviewed,frappe
-Important,Belangrijk,unreviewed,frappe
-Importing Items and UOMs,Items en UOM&#39;s importeren,unreviewed,erpnext
-Importing Parties and Addresses,Partijen en adressen importeren,unreviewed,erpnext
-Importing {0} of {1},{0} van {1} importeren,unreviewed,frappe
-"Importing {0} of {1}, {2}","{0} van {1}, {2} importeren",unreviewed,frappe
-In Days,In dagen,unreviewed,frappe
-In List View,In lijstweergave,unreviewed,frappe
-In Maintenance,In onderhoud,unreviewed,erpnext
-In Mins,In minuten,unreviewed,erpnext
-In minutes,In minuten,unreviewed,erpnext
-in Minutes,In minuten,unreviewed,erpnext
-in minutes,in minuten,unreviewed,frappe
-in Minutes\nUpdated via 'Time Log',in Minuten \n Bijgewerkt via 'Time Log',unreviewed,erpnext
-In Percentage,In percentage,unreviewed,erpnext
-In points. Default is 9.,In punten. Standaard is 9.,unreviewed,frappe
-In Preview,In voorbeeld,unreviewed,frappe
-In print,In druk,unreviewed,erpnext
-In Production,In de maak,unreviewed,erpnext
-In Progress,Bezig,unreviewed,both
-In Qty,in Aantal,unreviewed,erpnext
-In Reply To,Als antwoord op,unreviewed,frappe
-In seconds,In seconden,unreviewed,frappe
-In Stock,Op voorraad,unreviewed,erpnext
-In stock,Op voorraad,unreviewed,erpnext
-In Stock Qty,Op voorraad Aantal,unreviewed,erpnext
-In Stock:,Op voorraad:,unreviewed,erpnext
-"In the case of multi-tier program, Customers will be auto assigned to the concerned tier as per their spent",In het geval van een meerlagig programma worden klanten automatisch toegewezen aan de betreffende laag op basis van hun bestede tijd,unreviewed,erpnext
+Images,Afbeeldingen,reviewed,frappe
+Implicit,Impliciet,reviewed,frappe
+Import,Importeren,reviewed,both
+Import Chart of Accounts from a csv file,Importeer rekeningschema uit een csv-bestand,reviewed,erpnext
+Import Chart of Accounts from CSV / Excel files,Rekeningschema importeren vanuit CSV / Excel-bestanden,reviewed,erpnext
+Import Data,Data importeren,reviewed,both
+Import Data from CSV / Excel files.,Gegevens importeren uit CSV / Excel-bestanden.,reviewed,both
+Import Day Book Data,Dagboekgegevens importeren,reviewed,erpnext
+Import Delivery Notes from Shopify on Shipment,Verzendingsnota&#39;s importeren vanuit Shopify bij verzending,reviewed,erpnext
+Import Email From,E-mail importeren van,reviewed,frappe
+Import File,Importeer bestand,reviewed,frappe
+Import File Errors and Warnings,Importeer bestandsfouten en waarschuwingen,reviewed,frappe
+Import from Google Sheets,Importeer vanuit Google Spreadsheets,reviewed,frappe
+Import in Bulk,Import in bulk,reviewed,erpnext
+Import Invoices,Facturen importeren,reviewed,erpnext
+Import Italian Supplier Invoice.,Importeer Italiaanse leveranciersfactuur.,reviewed,erpnext
+Import Log,Importlogboek,reviewed,both
+Import Log Preview,Voorbeeld importlogboek,reviewed,frappe
+Import Master Data,Stamgegevens importeren,reviewed,erpnext
+Import Of Capital Goods,Import van kapitaalgoederen,reviewed,erpnext
+Import of goods,Goederen importeren,reviewed,erpnext
+Import Of Service,Import van service,reviewed,erpnext
+Import of services,Import van diensten,reviewed,erpnext
+Import Preview,Voorbeeld importeren,reviewed,frappe
+Import Progress,Voortgang importeren,reviewed,frappe
+Import Sales Invoice from Shopify if Payment is marked,Importeer de verkoopfactuur van Shopify als betaling is gemarkeerd,reviewed,erpnext
+Import Status,Importstatus,reviewed,frappe
+Import Subscribers,Abonnees importeren,reviewed,frappe
+Import Successful,Import succesvol,reviewed,erpnext
+Import Supplier Invoice,Leveranciersfactuur importeren,reviewed,erpnext
+"Import template should be of type .csv, .xlsx or .xls","Importsjabloon moet van het type .csv, .xlsx of .xls zijn",reviewed,frappe
+Import template should contain a Header and atleast one row.,Importsjabloon moet een koptekst bevatten en minimaal één rij.,reviewed,frappe
+Import Type,Importtype,reviewed,frappe
+Import Warnings,Waarschuwingen importeren,reviewed,frappe
+Import Zip,Zip importeren,reviewed,frappe
+Important,Belangrijk,reviewed,frappe
+Importing Items and UOMs,Items en UOM&#39;s importeren,reviewed,erpnext
+Importing Parties and Addresses,Partijen en adressen importeren,reviewed,erpnext
+Importing {0} of {1},{0} van {1} importeren,reviewed,frappe
+"Importing {0} of {1}, {2}","{0} van {1}, {2} importeren",reviewed,frappe
+In Days,In dagen,reviewed,frappe
+In List View,In lijstweergave,reviewed,frappe
+In Maintenance,In onderhoud,reviewed,erpnext
+In Mins,In minuten,reviewed,erpnext
+In minutes,In minuten,reviewed,erpnext
+in Minutes,In minuten,reviewed,erpnext
+in minutes,in minuten,reviewed,frappe
+in Minutes\nUpdated via 'Time Log',in Minuten \n Bijgewerkt via 'Time Log',reviewed,erpnext
+In Percentage,In percentage,reviewed,erpnext
+In points. Default is 9.,In punten. Standaard is 9.,reviewed,frappe
+In Preview,In voorbeeld,reviewed,frappe
+In print,In druk,reviewed,erpnext
+In Production,In productie,reviewed,erpnext
+In Progress,Bezig,reviewed,both
+In Qty,in Aantal,reviewed,erpnext
+In Reply To,Als antwoord op,reviewed,frappe
+In seconds,In seconden,reviewed,frappe
+In Stock,Op voorraad,reviewed,erpnext
+In stock,Op voorraad,reviewed,erpnext
+In Stock Qty,Op voorraad Aantal,reviewed,erpnext
+In Stock:,Op voorraad:,reviewed,erpnext
+"In the case of multi-tier program, Customers will be auto assigned to the concerned tier as per their spent",In het geval van een meerlagig programma worden klanten automatisch toegewezen aan de betreffende laag op basis van hun bestede tijd,reviewed,erpnext
 In Transit,Onderweg,reviewed,erpnext
-In Valid Request,Ongeldig verzoek,unreviewed,frappe
-In Value,in Value,unreviewed,erpnext
+In Valid Request,Ongeldig verzoek,reviewed,frappe
+In Value,In waarde,reviewed,erpnext
 In Words,In woorden,reviewed,erpnext
-In Words (Company Currency),In Woorden (Bedrijfsvaluta),unreviewed,erpnext
-In Words (Export) will be visible once you save the Delivery Note.,In woorden (Export) wordt zichtbaar zodra u de vrachtbrief opslaat.,unreviewed,erpnext
-In Words will be visible once you save the Delivery Note.,In Woorden zijn zichtbaar zodra u de vrachtbrief opslaat.,unreviewed,erpnext
-In Words will be visible once you save the Purchase Order.,In Woorden zijn zichtbaar zodra u de Inkooporder opslaat,unreviewed,erpnext
-In Words will be visible once you save the Quotation.,In Woorden zijn zichtbaar zodra u de Offerte opslaat.,unreviewed,erpnext
-In Words will be visible once you save the Sales Invoice.,In Woorden zijn zichtbaar zodra u de Verkoopfactuur opslaat.,unreviewed,erpnext
-In Words will be visible once you save the Sales Order.,In Woorden zijn zichtbaar zodra u de Verkooporder opslaat.,unreviewed,erpnext
-Inactive,Inactief,unreviewed,both
-Inactive Customers,inactieve klanten,unreviewed,erpnext
-Inactive Sales Items,Inactieve verkoopartikelen,unreviewed,erpnext
-Inbox,Postvak IN,unreviewed,frappe
-inbox,Inbox,unreviewed,frappe
-Inbox User,Inbox-gebruiker,unreviewed,frappe
+In Words (Company Currency),In woorden (bedrijfsvaluta),reviewed,erpnext
+In Words (Export) will be visible once you save the Delivery Note.,In woorden (export) wordt zichtbaar zodra u de afleverbon opslaat.,reviewed,erpnext
+In Words will be visible once you save the Delivery Note.,In woorden worden zichtbaar zodra u de afleverbon opslaat.,reviewed,erpnext
+In Words will be visible once you save the Purchase Order.,In Woorden zijn zichtbaar zodra u de Inkooporder opslaat,reviewed,erpnext
+In Words will be visible once you save the Quotation.,In Woorden zijn zichtbaar zodra u de Offerte opslaat.,reviewed,erpnext
+In Words will be visible once you save the Sales Invoice.,In Woorden zijn zichtbaar zodra u de Verkoopfactuur opslaat.,reviewed,erpnext
+In Words will be visible once you save the Sales Order.,In Woorden zijn zichtbaar zodra u de Verkooporder opslaat.,reviewed,erpnext
+Inactive,Inactief,reviewed,both
+Inactive Customers,Inactieve klanten,reviewed,erpnext
+Inactive Sales Items,Inactieve verkoopartikelen,reviewed,erpnext
+Inbox,Postvak IN,reviewed,frappe
+inbox,Inbox,reviewed,frappe
+Inbox User,Inbox-gebruiker,reviewed,frappe
 Inbox View,Postvakweergave,reviewed,custom
-Include Ageing Summary,Voeg een samenvatting van de veroudering toe,unreviewed,erpnext
-Include All Assessment Group,Inclusief alle beoordelingsgroep,unreviewed,erpnext
-Include Attachments,Voeg bijlagen toe,unreviewed,frappe
-Include Default FB Entries,Standaard boekvermeldingen opnemen,unreviewed,erpnext
-Include Expired,Inclusief verlopen,unreviewed,erpnext
-Include Exploded Items,Exploded Items opnemen,unreviewed,erpnext
-Include in gross,Bruto opnemen,unreviewed,erpnext
-Include indentation,Inspringen opnemen,unreviewed,frappe
-Include Item In Manufacturing,Item opnemen in productie,unreviewed,erpnext
-Include Non Stock Items,Niet-voorraadartikelen opnemen,unreviewed,erpnext
-Include Payment,Inclusief betaling,unreviewed,erpnext
-Include Payment (POS),Inclusief Betaling (POS),unreviewed,erpnext
-Include POS Transactions,POS-transacties opnemen,unreviewed,erpnext
-Include Reconciled Entries,Omvatten Reconciled Entries,unreviewed,erpnext
-Include Search in Top Bar,Inclusief Zoeken in Top Bar,unreviewed,frappe
-Include Sub-assembly Raw Materials,Inclusief grondstoffen voor subassemblage,unreviewed,erpnext
-Include Subcontracted Items,Inclusief uitbestede items,unreviewed,erpnext
-"Include symbols, numbers and capital letters in the password","Inclusief symbolen, cijfers en hoofdletters in het wachtwoord",unreviewed,frappe
-Include Theme from Apps,Inclusief thema van apps,unreviewed,frappe
-Include UOM,Inclusief UOM,unreviewed,erpnext
-Include Web View Link in Email,Stuur document Web View-link in e-mail,unreviewed,frappe
-Included in Gross Profit,Opgenomen in brutowinst,unreviewed,erpnext
-Including items for sub assemblies,Inclusief items voor sub assemblies,unreviewed,erpnext
-Income,Inkomsten,unreviewed,erpnext
-Income Account,Inkomstenrekening,unreviewed,erpnext
-Income Tax,Inkomstenbelasting,unreviewed,erpnext
+Include Ageing Summary,Ouderdomsoverzicht opnemen,reviewed,erpnext
+Include All Assessment Group,Inclusief alle beoordelingsgroep,reviewed,erpnext
+Include Attachments,Voeg bijlagen toe,reviewed,frappe
+Include Default FB Entries,Standaard boekvermeldingen opnemen,reviewed,erpnext
+Include Expired,Inclusief verlopen,reviewed,erpnext
+Include Exploded Items,Exploded Items opnemen,reviewed,erpnext
+Include in gross,Bruto opnemen,reviewed,erpnext
+Include indentation,Inspringen opnemen,reviewed,frappe
+Include Item In Manufacturing,Item opnemen in productie,reviewed,erpnext
+Include Non Stock Items,Niet-voorraadartikelen opnemen,reviewed,erpnext
+Include Payment,Inclusief betaling,reviewed,erpnext
+Include Payment (POS),Inclusief Betaling (POS),reviewed,erpnext
+Include POS Transactions,POS-transacties opnemen,reviewed,erpnext
+Include Reconciled Entries,Omvatten Reconciled Entries,reviewed,erpnext
+Include Search in Top Bar,Inclusief Zoeken in Top Bar,reviewed,frappe
+Include Sub-assembly Raw Materials,Inclusief grondstoffen voor subassemblage,reviewed,erpnext
+Include Subcontracted Items,Inclusief uitbestede items,reviewed,erpnext
+"Include symbols, numbers and capital letters in the password","Inclusief symbolen, cijfers en hoofdletters in het wachtwoord",reviewed,frappe
+Include Theme from Apps,Inclusief thema van apps,reviewed,frappe
+Include UOM,Inclusief UOM,reviewed,erpnext
+Include Web View Link in Email,Stuur document Web View-link in e-mail,reviewed,frappe
+Included in Gross Profit,Opgenomen in brutowinst,reviewed,erpnext
+Including items for sub assemblies,Inclusief items voor sub assemblies,reviewed,erpnext
+Income,Inkomsten,reviewed,erpnext
+Income Account,Inkomstenrekening,reviewed,erpnext
+Income Tax,Inkomstenbelasting,reviewed,erpnext
 Income Tax Slab,Inkomstenbelastingschijf,reviewed,custom
-Incoming,inkomend,unreviewed,erpnext
-Incoming call from {0},Inkomende oproep van {0},unreviewed,erpnext
-Incoming Change,Inkomende wijziging,unreviewed,frappe
-Incoming email account not correct,Inkomende e-mailaccount niet correct,unreviewed,frappe
-Incoming Rate,Inkomende Rate,unreviewed,erpnext
-Incomplete login details,Onvolledige inloggegevens,unreviewed,frappe
-Incorrect Configuration,Onjuiste configuratie,unreviewed,frappe
-Incorrect Date,Onjuiste datum,unreviewed,erpnext
-Incorrect email or password. Please check your login credentials.,Incorrecte email of wachtwoord. Controleer uw inloggegevens.,unreviewed,frappe
-Incorrect number of General Ledger Entries found. You might have selected a wrong Account in the transaction.,Onjuist aantal Grootboekposten gevonden. U zou een verkeerde rekening kunnen hebben geselecteerd in de transactie.,unreviewed,erpnext
-Incorrect URL,Onjuiste URL,unreviewed,frappe
-Incorrect User or Password,Onjuiste gebruiker of wachtwoord,unreviewed,frappe
-Incorrect value in row {0}: {1} must be {2} {3},Onjuiste waarde in rij {0} : {1} moet zijn {2} {3},unreviewed,frappe
-Incorrect value: {0} must be {1} {2},Onjuiste waarde: {0}  moet zijn {1} {2},unreviewed,frappe
-Incorrect Verification code,Incorrecte Verificatiecode,unreviewed,frappe
-Incorrect Warehouse,Onjuist magazijn,unreviewed,erpnext
-Increment,Aanwas,unreviewed,erpnext
-Increment cannot be 0,Toename kan niet worden 0,unreviewed,erpnext
-Increment for Attribute {0} cannot be 0,Toename voor Attribute {0} kan niet worden 0,unreviewed,erpnext
-indent-left,inspringing-links,unreviewed,frappe
-indent-right,inspringing-rechts,unreviewed,frappe
-Index Web Pages for Search,Index-webpagina&#39;s voor zoeken,unreviewed,frappe
-Indexing Authorization Code,Autorisatiecode indexeren,unreviewed,frappe
-Indexing Refresh Token,Vernieuwingstoken indexeren,unreviewed,frappe
-Indicates that the package is a part of this delivery (Only Draft),Geeft aan dat het pakket een onderdeel is van deze levering (alleen concept),unreviewed,erpnext
-Indicator Color,Indicator Kleur,unreviewed,erpnext
-Indirect Expenses,Indirecte kosten,unreviewed,erpnext
-Indirect Income,Indirecte Inkomsten,unreviewed,erpnext
-Individual,Individueel,unreviewed,erpnext
-Industry,Industrie,unreviewed,erpnext
+Incoming,inkomend,reviewed,erpnext
+Incoming call from {0},Inkomende oproep van {0},reviewed,erpnext
+Incoming Change,Inkomende wijziging,reviewed,frappe
+Incoming email account not correct,Inkomende e-mailaccount niet correct,reviewed,frappe
+Incoming Rate,Inkomende Rate,reviewed,erpnext
+Incomplete login details,Onvolledige inloggegevens,reviewed,frappe
+Incorrect Configuration,Onjuiste configuratie,reviewed,frappe
+Incorrect Date,Onjuiste datum,reviewed,erpnext
+Incorrect email or password. Please check your login credentials.,Incorrecte email of wachtwoord. Controleer uw inloggegevens.,reviewed,frappe
+Incorrect number of General Ledger Entries found. You might have selected a wrong Account in the transaction.,Onjuist aantal Grootboekposten gevonden. U zou een verkeerde rekening kunnen hebben geselecteerd in de transactie.,reviewed,erpnext
+Incorrect URL,Onjuiste URL,reviewed,frappe
+Incorrect User or Password,Onjuiste gebruiker of wachtwoord,reviewed,frappe
+Incorrect value in row {0}: {1} must be {2} {3},Onjuiste waarde in rij {0} : {1} moet zijn {2} {3},reviewed,frappe
+Incorrect value: {0} must be {1} {2},Onjuiste waarde: {0}  moet zijn {1} {2},reviewed,frappe
+Incorrect Verification code,Incorrecte Verificatiecode,reviewed,frappe
+Incorrect Warehouse,Onjuist magazijn,reviewed,erpnext
+Increment,Aanwas,reviewed,erpnext
+Increment cannot be 0,Toename kan niet worden 0,reviewed,erpnext
+Increment for Attribute {0} cannot be 0,Toename voor Attribute {0} kan niet worden 0,reviewed,erpnext
+indent-left,inspringing-links,reviewed,frappe
+indent-right,inspringing-rechts,reviewed,frappe
+Index Web Pages for Search,Index-webpagina&#39;s voor zoeken,reviewed,frappe
+Indexing Authorization Code,Autorisatiecode indexeren,reviewed,frappe
+Indexing Refresh Token,Vernieuwingstoken indexeren,reviewed,frappe
+Indicates that the package is a part of this delivery (Only Draft),Geeft aan dat het pakket een onderdeel is van deze levering (alleen concept),reviewed,erpnext
+Indicator Color,Indicator Kleur,reviewed,erpnext
+Indirect Expenses,Indirecte kosten,reviewed,erpnext
+Indirect Income,Indirecte Inkomsten,reviewed,erpnext
+Individual,Individueel,reviewed,erpnext
+Industry,Industrie,reviewed,erpnext
 Industry Type,Branchetype,reviewed,erpnext
-Industry Type ID,Branchetype-ID,unreviewed,frappe
-Ineligible,Komt niet in aanmerking,unreviewed,erpnext
-Ineligible ITC,Niet in aanmerking komende ITC,unreviewed,erpnext
-info-sign,info-teken,unreviewed,frappe
-"Information to help easily interpret the test report, will be printed as part of the Lab Test result.","Informatie om het testrapport gemakkelijk te interpreteren, wordt afgedrukt als onderdeel van het laboratoriumtestresultaat.",unreviewed,erpnext
-Initial Email Notification Sent,E-mailkennisgeving verzonden,unreviewed,erpnext
-Initial Sync Count,Initial synchronisatietelketen,unreviewed,frappe
-Initiated,geïnitieerd,unreviewed,erpnext
-Initiator Name,Naam initiator,unreviewed,erpnext
-Inpatient Medication Entry,Invoer van medicatie voor intramurale patiënten,unreviewed,erpnext
-Inpatient Medication Entry Detail,Detail van invoer van medicatie voor intramurale patiënten,unreviewed,erpnext
-Inpatient Medication Order,Medicatiebestelling voor intramurale patiënten,unreviewed,erpnext
-Inpatient Medication Order Entry,Invoer van medicatiebestelling voor intramurale patiënten,unreviewed,erpnext
-Inpatient Medication Orders,Medicatiebestellingen voor intramurale patiënten,unreviewed,erpnext
-Inpatient Medication Orders updated successfully,Orders voor intramurale medicatie zijn bijgewerkt,unreviewed,erpnext
-Inpatient Occupancy,Inpatient Bezetting,unreviewed,erpnext
-Inpatient Status,Interne status,unreviewed,erpnext
-Inpatient Visit Charge Item,Vergoedingsitem voor inkomende patiëntenbezoek,unreviewed,erpnext
-Input Service Distributor,Input Service Distributeur,unreviewed,erpnext
-Insert,Plaats,unreviewed,frappe
-Insert Above,Insert Boven,unreviewed,frappe
-Insert After,Invoegen na,unreviewed,frappe
-Insert After cannot be set as {0},Steek Na kan niet worden ingesteld als {0},unreviewed,frappe
-"Insert After field '{0}' mentioned in Custom Field '{1}', with label '{2}', does not exist","Plaats Na veld &#39;{0}&#39; genoemd in Aangepast veld &#39;{1}&#39;, met label &#39;{2}&#39;, bestaat niet",unreviewed,frappe
-Insert Below,Hieronder invoegen,unreviewed,frappe
-Insert Column Before {0},Kolom invoegen vóór {0},unreviewed,frappe
-Insert New Records,Voeg nieuwe records in,unreviewed,frappe
-Insert new records,Voeg nieuwe records in,unreviewed,frappe
-Insert Style,Stijl invoegen,unreviewed,frappe
-Inspected By,Geïnspecteerd door,unreviewed,erpnext
-Inspection Criteria,Inspectie Criteria,unreviewed,erpnext
+Industry Type ID,Branchetype-ID,reviewed,frappe
+Ineligible,Komt niet in aanmerking,reviewed,erpnext
+Ineligible ITC,Niet in aanmerking komende ITC,reviewed,erpnext
+info-sign,info-teken,reviewed,frappe
+"Information to help easily interpret the test report, will be printed as part of the Lab Test result.","Informatie om het testrapport gemakkelijk te interpreteren, wordt afgedrukt als onderdeel van het laboratoriumtestresultaat.",reviewed,erpnext
+Initial Email Notification Sent,E-mailkennisgeving verzonden,reviewed,erpnext
+Initial Sync Count,Initial synchronisatietelketen,reviewed,frappe
+Initiated,geïnitieerd,reviewed,erpnext
+Initiator Name,Naam initiator,reviewed,erpnext
+Inpatient Medication Entry,Invoer van medicatie voor intramurale patiënten,reviewed,erpnext
+Inpatient Medication Entry Detail,Detail van invoer van medicatie voor intramurale patiënten,reviewed,erpnext
+Inpatient Medication Order,Medicatiebestelling voor intramurale patiënten,reviewed,erpnext
+Inpatient Medication Order Entry,Invoer van medicatiebestelling voor intramurale patiënten,reviewed,erpnext
+Inpatient Medication Orders,Medicatiebestellingen voor intramurale patiënten,reviewed,erpnext
+Inpatient Medication Orders updated successfully,Orders voor intramurale medicatie zijn bijgewerkt,reviewed,erpnext
+Inpatient Occupancy,Inpatient Bezetting,reviewed,erpnext
+Inpatient Status,Interne status,reviewed,erpnext
+Inpatient Visit Charge Item,Vergoedingsitem voor inkomende patiëntenbezoek,reviewed,erpnext
+Input Service Distributor,Input Service Distributeur,reviewed,erpnext
+Insert,Plaats,reviewed,frappe
+Insert Above,Insert Boven,reviewed,frappe
+Insert After,Invoegen na,reviewed,frappe
+Insert After cannot be set as {0},Steek Na kan niet worden ingesteld als {0},reviewed,frappe
+"Insert After field '{0}' mentioned in Custom Field '{1}', with label '{2}', does not exist","Plaats Na veld &#39;{0}&#39; genoemd in Aangepast veld &#39;{1}&#39;, met label &#39;{2}&#39;, bestaat niet",reviewed,frappe
+Insert Below,Hieronder invoegen,reviewed,frappe
+Insert Column Before {0},Kolom invoegen vóór {0},reviewed,frappe
+Insert New Records,Voeg nieuwe records in,reviewed,frappe
+Insert new records,Voeg nieuwe records in,reviewed,frappe
+Insert Style,Stijl invoegen,reviewed,frappe
+Inspected By,Geïnspecteerd door,reviewed,erpnext
+Inspection Criteria,Inspectie Criteria,reviewed,erpnext
 Inspection Required,Inspectie vereist,reviewed,erpnext
-Inspection Required before Delivery,Inspectie vereist voordat Delivery,unreviewed,erpnext
-Inspection Required before Purchase,Inspectie vereist voordat Purchase,unreviewed,erpnext
-Inspection Type,Inspectie Type,unreviewed,erpnext
-Installation Date,Installatie Datum,unreviewed,erpnext
-Installation date cannot be before delivery date for Item {0},De installatie mag niet vóór leveringsdatum voor post {0},unreviewed,erpnext
+Inspection Required before Delivery,Inspectie vereist voordat Delivery,reviewed,erpnext
+Inspection Required before Purchase,Inspectie vereist voordat Purchase,reviewed,erpnext
+Inspection Type,Inspectie Type,reviewed,erpnext
+Installation Date,Installatie Datum,reviewed,erpnext
+Installation date cannot be before delivery date for Item {0},De installatie mag niet vóór leveringsdatum voor post {0},reviewed,erpnext
 Installation Note,Installatierapport,reviewed,erpnext
-Installation Note Item,Installatie Opmerking Item,unreviewed,erpnext
-Installation Note {0} has already been submitted,Installatie Opmerking {0} is al ingediend,unreviewed,erpnext
-Installation Status,Installatie Status,unreviewed,erpnext
-Installation Time,Installatie Tijd,unreviewed,erpnext
-Installed Application,Geïnstalleerde applicatie,unreviewed,frappe
-Installed Applications,Geïnstalleerde applicaties,unreviewed,frappe
-Installed Qty,Aantal geïnstalleerd,unreviewed,erpnext
-Installing presets,Voorinstellingen installeren,unreviewed,erpnext
-Institute Abbreviation,Instituut afkorting,unreviewed,erpnext
-Institute Name,naam van het instituut,unreviewed,erpnext
-Institute's Bus,Instituut&#39;s Bus,unreviewed,erpnext
-Institution,Instelling,unreviewed,erpnext
-Instructions,Instructies,unreviewed,erpnext
+Installation Note Item,Installatie Opmerking Item,reviewed,erpnext
+Installation Note {0} has already been submitted,Installatie Opmerking {0} is al ingediend,reviewed,erpnext
+Installation Status,Installatie Status,reviewed,erpnext
+Installation Time,Installatie Tijd,reviewed,erpnext
+Installed Application,Geïnstalleerde applicatie,reviewed,frappe
+Installed Applications,Geïnstalleerde applicaties,reviewed,frappe
+Installed Qty,Aantal geïnstalleerd,reviewed,erpnext
+Installing presets,Voorinstellingen installeren,reviewed,erpnext
+Institute Abbreviation,Instituut afkorting,reviewed,erpnext
+Institute Name,naam van het instituut,reviewed,erpnext
+Institute's Bus,Instituut&#39;s Bus,reviewed,erpnext
+Institution,Instelling,reviewed,erpnext
+Instructions,Instructies,reviewed,erpnext
 Instructions Emailed,Instructies geüpload,unreviewed,frappe
 Instructions to be printed on the worksheet,Instructies die op het werkblad moeten worden afgedrukt,unreviewed,erpnext
 Instructor,Instructeur,unreviewed,erpnext

@@ -5105,206 +5105,206 @@ Is Featured,Is uitgelicht,reviewed,erpnext
 Is Finance Cost,Zijn financiële kosten,reviewed,erpnext
 Is Finance Cost Adjustment,Is aanpassing van financiële kosten,reviewed,erpnext
 Is First Startup,Is de eerste opstart,reviewed,frappe
-Is Fixed Asset,Is vaste activa,unreviewed,erpnext
-Is Free Item,Is gratis item,unreviewed,erpnext
-Is Frozen,Is bevroren,unreviewed,erpnext
-Is Global,Is wereldwijd,unreviewed,frappe
-Is Globally Pinned,Is wereldwijd gepind,unreviewed,frappe
+Is Fixed Asset,Is vaste activa,reviewed,erpnext
+Is Free Item,Is gratis item,reviewed,erpnext
+Is Frozen,Is bevroren,reviewed,erpnext
+Is Global,Is wereldwijd,reviewed,frappe
+Is Globally Pinned,Is wereldwijd gepind,reviewed,frappe
 Is Group,Is groep,reviewed,custom
-Is Home Folder,Is Thuis Folder,unreviewed,frappe
-Is Income Tax Expense,Is de inkomstenbelasting,unreviewed,erpnext
-Is Income Tax Liability,Is de aansprakelijkheid van de inkomstenbelasting,unreviewed,erpnext
-Is Inpatient,Is een patiënt,unreviewed,erpnext
-Is Internal Customer,Is interne klant,unreviewed,erpnext
-Is Internal Supplier,Is interne leverancier,unreviewed,erpnext
-Is Item from Hub,Is item van Hub,unreviewed,erpnext
-Is Mandatory,Is verplicht,unreviewed,erpnext
-Is Mandatory Field,Is Verplicht veld,unreviewed,frappe
-Is Master Data Imported,Wordt stamgegevens geïmporteerd,unreviewed,erpnext
-Is Master Data Processed,Wordt stamgegevens verwerkt,unreviewed,erpnext
-Is Nil Rated or Exempted,Is nul beoordeeld of vrijgesteld,unreviewed,erpnext
-Is Non GST,Is niet GST,unreviewed,erpnext
-Is Opening,Opent,unreviewed,erpnext
-Is Opening Entry,Wordt Opening Entry,unreviewed,erpnext
-Is Optional State,Is optionele staat,unreviewed,frappe
-Is Order Completed,Is de bestelling voltooid,unreviewed,erpnext
-Is Paid,Is betaald,unreviewed,erpnext
-Is Pinned,Is vastgezet,unreviewed,frappe
-Is Primary,Is primair,unreviewed,frappe
-Is Primary Contact,Is Primaire contactpersoon,unreviewed,frappe
-Is Primary Mobile,Is primair mobiel,unreviewed,frappe
-Is Primary Phone,Is primaire telefoon,unreviewed,frappe
-Is Public,Is openbaar,unreviewed,frappe
-Is Published,Is gepubliceerd,unreviewed,erpnext
-Is Published Field,Wordt gepubliceerd Field,unreviewed,frappe
-Is Published Field must be a valid fieldname,Wordt gepubliceerd Het gebied moet een geldige veldnaam,unreviewed,frappe
-Is Purchase Item,Is inkoopartikel,unreviewed,erpnext
-Is Purchase Order Required for Purchase Invoice & Receipt Creation?,Is een inkooporder vereist voor het aanmaken van inkoopfacturen en ontvangstbewijzen?,unreviewed,erpnext
-Is Purchase Receipt Required for Purchase Invoice Creation?,Is een aankoopbewijs vereist voor het maken van een aankoopfactuur?,unreviewed,erpnext
-Is Return (Debit Note),Is Return (Debet Note),unreviewed,erpnext
-Is Sales Item,Is verkoopartikel,unreviewed,erpnext
-Is Sales Order Required for Sales Invoice & Delivery Note Creation?,Is een verkooporder vereist voor het maken van verkoopfacturen en leveringsnota&#39;s?,unreviewed,erpnext
-Is Skipped,Wordt overgeslagen,unreviewed,frappe
-Is Spam,is Spam,unreviewed,frappe
-Is Standard,Is Standaard,unreviewed,frappe
-Is Subcontracted,Wordt uitbesteed,unreviewed,erpnext
-Is Submittable,Kan ingediend worden,unreviewed,frappe
-Is Table,is Table,unreviewed,frappe
-Is this Tax included in Basic Rate?,Is dit inbegrepen in de Basic Rate?,unreviewed,erpnext
-Is Tree,Is boom,unreviewed,frappe
-Is Unique,Is uniek,unreviewed,frappe
-Is Working Capital,Is werkkapitaal,unreviewed,erpnext
-Is Your Company Address,Is uw bedrijf Adres,unreviewed,frappe
-ISO 8601 standard,ISO 8601-norm,unreviewed,erpnext
-Issue,Kwestie,unreviewed,erpnext
-Issue Credit Note,Kredietnota uitgifte,unreviewed,erpnext
-Issue Date,Uitgiftedatum,unreviewed,erpnext
-"Issue detected with Mpesa configuration, check the error logs for more details","Probleem gedetecteerd met Mpesa-configuratie, controleer de foutenlogboeken voor meer details",unreviewed,erpnext
-Issue Material,Materiaal uitgeven,unreviewed,erpnext
-Issue Priority,Prioriteit uitgeven,unreviewed,erpnext
-Issue Priority.,Prioriteit uitgeven.,unreviewed,erpnext
-Issue Split From,Uitgave splitsen vanaf,unreviewed,erpnext
-Issue Type,Uitgiftetype,unreviewed,erpnext
-Issue Type.,Soort probleem.,unreviewed,erpnext
-Issued,Uitgegeven,unreviewed,erpnext
-Issued Items Against Work Order,Uitgegeven items tegen werkorder,unreviewed,erpnext
-Issues,Kwesties,unreviewed,erpnext
-Issuing Date,Afgifte datum,unreviewed,erpnext
-IT,HET,unreviewed,erpnext
-It is needed to fetch Item Details.,Het is nodig om Item Details halen.,unreviewed,erpnext
-It is risky to delete this file: {0}. Please contact your System Manager.,Het is riskant om dit bestand te verwijderen: {0}. Neem dan contact op met uw systeembeheerder.,unreviewed,frappe
-"It seems that there is an issue with the server's stripe configuration. In case of failure, the amount will get refunded to your account.","Het lijkt erop dat er een probleem is met de streepconfiguratie van de server. In het geval van een fout, wordt het bedrag teruggestort op uw account.",unreviewed,erpnext
-Italic,Cursief,unreviewed,erpnext
-italic,cursief,unreviewed,frappe
-ITC Available (whether in full op part),ITC beschikbaar (al dan niet volledig),unreviewed,erpnext
-ITC Reversed,ITC omgekeerd,unreviewed,erpnext
-Item,Artikel,unreviewed,erpnext
-Item 1,Punt 1,unreviewed,erpnext
-Item 2,Punt 2,unreviewed,erpnext
-Item 3,Punt 3,unreviewed,erpnext
-Item 4,Punt 4,unreviewed,erpnext
-Item 5,Punt 5,unreviewed,erpnext
+Is Home Folder,Is thuismap,reviewed,frappe
+Is Income Tax Expense,Is inkomstenbelastingkosten,reviewed,erpnext
+Is Income Tax Liability,Is inkomstenbelastingverplichting,reviewed,erpnext
+Is Inpatient,Is opgenomen,reviewed,erpnext
+Is Internal Customer,Is interne klant,reviewed,erpnext
+Is Internal Supplier,Is interne leverancier,reviewed,erpnext
+Is Item from Hub,Is item van Hub,reviewed,erpnext
+Is Mandatory,Is verplicht,reviewed,erpnext
+Is Mandatory Field,Is Verplicht veld,reviewed,frappe
+Is Master Data Imported,Wordt stamgegevens geïmporteerd,reviewed,erpnext
+Is Master Data Processed,Wordt stamgegevens verwerkt,reviewed,erpnext
+Is Nil Rated or Exempted,Is nultarief of vrijgesteld,reviewed,erpnext
+Is Non GST,Is niet GST,reviewed,erpnext
+Is Opening,Is openingspost,reviewed,erpnext
+Is Opening Entry,Is openingsboeking,reviewed,erpnext
+Is Optional State,Is optionele staat,reviewed,frappe
+Is Order Completed,Is de bestelling voltooid,reviewed,erpnext
+Is Paid,Is betaald,reviewed,erpnext
+Is Pinned,Is vastgezet,reviewed,frappe
+Is Primary,Is primair,reviewed,frappe
+Is Primary Contact,Is Primaire contactpersoon,reviewed,frappe
+Is Primary Mobile,Is primair mobiel,reviewed,frappe
+Is Primary Phone,Is primaire telefoon,reviewed,frappe
+Is Public,Is openbaar,reviewed,frappe
+Is Published,Is gepubliceerd,reviewed,erpnext
+Is Published Field,Is gepubliceerd veld,reviewed,frappe
+Is Published Field must be a valid fieldname,Gepubliceerd veld moet een geldige veldnaam zijn,reviewed,frappe
+Is Purchase Item,Is inkoopartikel,reviewed,erpnext
+Is Purchase Order Required for Purchase Invoice & Receipt Creation?,Is een inkooporder vereist voor het aanmaken van inkoopfacturen en ontvangstbewijzen?,reviewed,erpnext
+Is Purchase Receipt Required for Purchase Invoice Creation?,Is een aankoopbewijs vereist voor het maken van een aankoopfactuur?,reviewed,erpnext
+Is Return (Debit Note),Is retour (debetnota),reviewed,erpnext
+Is Sales Item,Is verkoopartikel,reviewed,erpnext
+Is Sales Order Required for Sales Invoice & Delivery Note Creation?,Is een verkooporder vereist voor het maken van verkoopfacturen en leveringsnota&#39;s?,reviewed,erpnext
+Is Skipped,Wordt overgeslagen,reviewed,frappe
+Is Spam,Is spam,reviewed,frappe
+Is Standard,Is Standaard,reviewed,frappe
+Is Subcontracted,Wordt uitbesteed,reviewed,erpnext
+Is Submittable,Kan ingediend worden,reviewed,frappe
+Is Table,Is tabel,reviewed,frappe
+Is this Tax included in Basic Rate?,Is dit inbegrepen in de Basic Rate?,reviewed,erpnext
+Is Tree,Is boom,reviewed,frappe
+Is Unique,Is uniek,reviewed,frappe
+Is Working Capital,Is werkkapitaal,reviewed,erpnext
+Is Your Company Address,Is uw bedrijfsadres,reviewed,frappe
+ISO 8601 standard,ISO 8601-norm,reviewed,erpnext
+Issue,Melding,reviewed,erpnext
+Issue Credit Note,Kredietnota uitgifte,reviewed,erpnext
+Issue Date,Uitgiftedatum,reviewed,erpnext
+"Issue detected with Mpesa configuration, check the error logs for more details","Probleem gedetecteerd met Mpesa-configuratie, controleer de foutenlogboeken voor meer details",reviewed,erpnext
+Issue Material,Materiaal uitgeven,reviewed,erpnext
+Issue Priority,Meldingsprioriteit,reviewed,erpnext
+Issue Priority.,Meldingsprioriteit.,reviewed,erpnext
+Issue Split From,Melding gesplitst van,reviewed,erpnext
+Issue Type,Meldingstype,reviewed,erpnext
+Issue Type.,Meldingstype.,reviewed,erpnext
+Issued,Uitgegeven,reviewed,erpnext
+Issued Items Against Work Order,Uitgegeven artikelen voor werkorder,reviewed,erpnext
+Issues,Meldingen,reviewed,erpnext
+Issuing Date,Afgiftedatum,reviewed,erpnext
+IT,IT,reviewed,erpnext
+It is needed to fetch Item Details.,Het is nodig om Item Details halen.,reviewed,erpnext
+It is risky to delete this file: {0}. Please contact your System Manager.,Het is riskant om dit bestand te verwijderen: {0}. Neem dan contact op met uw systeembeheerder.,reviewed,frappe
+"It seems that there is an issue with the server's stripe configuration. In case of failure, the amount will get refunded to your account.","Het lijkt erop dat er een probleem is met de streepconfiguratie van de server. In het geval van een fout, wordt het bedrag teruggestort op uw account.",reviewed,erpnext
+Italic,Cursief,reviewed,erpnext
+italic,cursief,reviewed,frappe
+ITC Available (whether in full op part),ITC beschikbaar (al dan niet volledig),reviewed,erpnext
+ITC Reversed,ITC omgekeerd,reviewed,erpnext
+Item,Artikel,reviewed,erpnext
+Item 1,Artikel 1,reviewed,erpnext
+Item 2,Artikel 2,reviewed,erpnext
+Item 3,Artikel 3,reviewed,erpnext
+Item 4,Artikel 4,reviewed,erpnext
+Item 5,Artikel 5,reviewed,erpnext
 Item Alternative,Alternatief artikel,reviewed,erpnext
-Item and Warranty Details,Item en garantie Details,unreviewed,erpnext
+Item and Warranty Details,Artikel en garantiegegevens,reviewed,erpnext
 Item Attribute,Artikelkenmerk,reviewed,custom
-Item Attribute Value,Item Atribuutwaarde,unreviewed,erpnext
-Item Attribute Values,Item Attribuutwaarden,unreviewed,erpnext
-Item Balance (Simple),Artikel saldo (eenvoudig),unreviewed,erpnext
-Item Barcode,Artikel Barcode,unreviewed,erpnext
-Item cannot be added to its own descendants,Artikel kan niet worden toegevoegd aan zijn eigen onderliggende artikelen.,unreviewed,frappe
-Item Cart,Item winkelwagen,unreviewed,erpnext
-Item Classification,Item Classificatie,unreviewed,erpnext
-Item Code,Artikelcode,unreviewed,erpnext
-Item Code (Drug),Artikelcode (medicijn),unreviewed,erpnext
-Item Code > Item Group > Brand,Artikelcode&gt; Artikelgroep&gt; Merk,unreviewed,erpnext
-Item Code cannot be changed for Serial No.,Artikelcode kan niet worden gewijzigd voor serienummer,unreviewed,erpnext
-Item Code required at Row No {0},Artikelcode vereist bij rijnummer {0},unreviewed,erpnext
-"Item Code, warehouse, quantity are required on row {0}","Artikelcode, magazijn, aantal zijn vereist op rij {0}",unreviewed,erpnext
-Item Code: {0} is not available under warehouse {1}.,Artikelcode: {0} is niet beschikbaar onder magazijn {1}.,unreviewed,erpnext
-Item Customer Detail,Artikel Klant Details,unreviewed,erpnext
-Item Default,Item Standaard,unreviewed,erpnext
-Item Defaults,Standaard instellingen,unreviewed,erpnext
-Item Description,Artikelomschrijving,unreviewed,erpnext
-Item Details,Artikel Details,unreviewed,erpnext
-Item Fields,Item velden,unreviewed,erpnext
-Item for row {0} does not match Material Request,Artikel voor rij {0} komt niet overeen met materiaalverzoek,unreviewed,erpnext
-Item Group,Artikelgroep,unreviewed,erpnext
-Item Group Defaults,Artikelgroep standaardinstellingen,unreviewed,erpnext
-Item Group Name,Artikel groepsnaam,unreviewed,erpnext
-Item Group not mentioned in item master for item {0},Artikelgroep niet genoemd in artikelstam voor artikel {0},unreviewed,erpnext
-Item Group Tree,Artikel groepstructuur,unreviewed,erpnext
-Item Groups,Item Groepen,unreviewed,erpnext
-Item has variants.,Item heeft varianten.,unreviewed,erpnext
-Item Image (if not slideshow),Artikel Afbeelding (indien niet diashow),unreviewed,erpnext
-Item Label,Artikellabel,unreviewed,frappe
+Item Attribute Value,Artikelattribuutwaarde,reviewed,erpnext
+Item Attribute Values,Artikelattribuutwaarden,reviewed,erpnext
+Item Balance (Simple),Artikelsaldo (eenvoudig),reviewed,erpnext
+Item Barcode,Artikelbarcode,reviewed,erpnext
+Item cannot be added to its own descendants,Artikel kan niet worden toegevoegd aan zijn eigen onderliggende artikelen.,reviewed,frappe
+Item Cart,Artikelwinkelmand,reviewed,erpnext
+Item Classification,Artikelclassificatie,reviewed,erpnext
+Item Code,Artikelcode,reviewed,erpnext
+Item Code (Drug),Artikelcode (medicijn),reviewed,erpnext
+Item Code > Item Group > Brand,Artikelcode&gt; Artikelgroep&gt; Merk,reviewed,erpnext
+Item Code cannot be changed for Serial No.,Artikelcode kan niet worden gewijzigd voor serienummer,reviewed,erpnext
+Item Code required at Row No {0},Artikelcode vereist bij rijnummer {0},reviewed,erpnext
+"Item Code, warehouse, quantity are required on row {0}","Artikelcode, magazijn, aantal zijn vereist op rij {0}",reviewed,erpnext
+Item Code: {0} is not available under warehouse {1}.,Artikelcode: {0} is niet beschikbaar onder magazijn {1}.,reviewed,erpnext
+Item Customer Detail,Artikelklantgegevens,reviewed,erpnext
+Item Default,Artikelstandaard,reviewed,erpnext
+Item Defaults,Standaard instellingen,reviewed,erpnext
+Item Description,Artikelomschrijving,reviewed,erpnext
+Item Details,Artikel Details,reviewed,erpnext
+Item Fields,Item velden,reviewed,erpnext
+Item for row {0} does not match Material Request,Artikel voor rij {0} komt niet overeen met materiaalverzoek,reviewed,erpnext
+Item Group,Artikelgroep,reviewed,erpnext
+Item Group Defaults,Artikelgroep standaardinstellingen,reviewed,erpnext
+Item Group Name,Artikel groepsnaam,reviewed,erpnext
+Item Group not mentioned in item master for item {0},Artikelgroep niet genoemd in artikelstam voor artikel {0},reviewed,erpnext
+Item Group Tree,Artikel groepstructuur,reviewed,erpnext
+Item Groups,Item Groepen,reviewed,erpnext
+Item has variants.,Item heeft varianten.,reviewed,erpnext
+Item Image (if not slideshow),Artikel Afbeelding (indien niet diashow),reviewed,erpnext
+Item Label,Artikellabel,reviewed,frappe
 Item Lead Time,Artikel levertijd,reviewed,custom
-Item listing removed,Itemvermelding verwijderd,unreviewed,erpnext
-Item Locations,Artikellocaties,unreviewed,erpnext
+Item listing removed,Itemvermelding verwijderd,reviewed,erpnext
+Item Locations,Artikellocaties,reviewed,erpnext
 Item Manufacturer,Artikelfabrikant,reviewed,custom
-Item must be added using 'Get Items from Purchase Receipts' button,Het punt moet worden toegevoegd met behulp van 'Get Items uit Aankoopfacturen' knop,unreviewed,erpnext
-Item Name,Itemnaam,unreviewed,erpnext
-Item name,Artikelnaam,unreviewed,erpnext
-Item Naming By,Artikel benoeming door,unreviewed,erpnext
-Item operation,Item bewerking,unreviewed,erpnext
-Item Price,Artikelprijs,unreviewed,erpnext
-Item Price added for {0} in Price List {1},Item Prijs toegevoegd {0} in de prijslijst {1},unreviewed,erpnext
-"Item Price appears multiple times based on Price List, Supplier/Customer, Currency, Item, UOM, Qty and Dates.","Artikel Prijs verschijnt meerdere keren op basis van prijslijst, leverancier / klant, valuta, artikel, UOM, aantal en datums.",unreviewed,erpnext
-Item Price Stock,Artikel Prijs Voorraad,unreviewed,erpnext
-Item Price updated for {0} in Price List {1},Item Prijs bijgewerkt voor {0} in prijslijst {1},unreviewed,erpnext
-Item Prices,Artikelprijzen,unreviewed,erpnext
-Item Quality Inspection Parameter,Artikel Kwaliteitsinspectie Parameter,unreviewed,erpnext
-Item Reorder,Artikel opnieuw ordenen,unreviewed,erpnext
-Item Reported,Artikel gemeld,unreviewed,erpnext
-Item Row {0}: {1} {2} does not exist in above '{1}' table,Artikelrij {0}: {1} {2} bestaat niet in bovenstaande tabel &#39;{1}&#39;,unreviewed,erpnext
-Item Serial No,Artikel Serienummer,unreviewed,erpnext
-Item Shortage Report,Artikel Tekort Rapport,unreviewed,erpnext
-Item Supplier,Artikel Leverancier,unreviewed,erpnext
-Item Tax,Artikel Belasting,unreviewed,erpnext
-Item Tax Amount Included in Value,Artikel Belastingbedrag inbegrepen in waarde,unreviewed,erpnext
-Item Tax Rate,Artikel BTW-tarief,unreviewed,erpnext
-Item Tax Row {0} must have account of type Tax or Income or Expense or Chargeable,Item Tax Rij {0} moet rekening houden met het type belasting of inkomsten of uitgaven of Chargeable,unreviewed,erpnext
+Item must be added using 'Get Items from Purchase Receipts' button,Het punt moet worden toegevoegd met behulp van 'Get Items uit Aankoopfacturen' knop,reviewed,erpnext
+Item Name,Itemnaam,reviewed,erpnext
+Item name,Artikelnaam,reviewed,erpnext
+Item Naming By,Artikel benoeming door,reviewed,erpnext
+Item operation,Item bewerking,reviewed,erpnext
+Item Price,Artikelprijs,reviewed,erpnext
+Item Price added for {0} in Price List {1},Item Prijs toegevoegd {0} in de prijslijst {1},reviewed,erpnext
+"Item Price appears multiple times based on Price List, Supplier/Customer, Currency, Item, UOM, Qty and Dates.","Artikel Prijs verschijnt meerdere keren op basis van prijslijst, leverancier / klant, valuta, artikel, UOM, aantal en datums.",reviewed,erpnext
+Item Price Stock,Artikel Prijs Voorraad,reviewed,erpnext
+Item Price updated for {0} in Price List {1},Item Prijs bijgewerkt voor {0} in prijslijst {1},reviewed,erpnext
+Item Prices,Artikelprijzen,reviewed,erpnext
+Item Quality Inspection Parameter,Artikel Kwaliteitsinspectie Parameter,reviewed,erpnext
+Item Reorder,Artikel opnieuw ordenen,reviewed,erpnext
+Item Reported,Artikel gemeld,reviewed,erpnext
+Item Row {0}: {1} {2} does not exist in above '{1}' table,Artikelrij {0}: {1} {2} bestaat niet in bovenstaande tabel &#39;{1}&#39;,reviewed,erpnext
+Item Serial No,Artikel Serienummer,reviewed,erpnext
+Item Shortage Report,Artikel Tekort Rapport,reviewed,erpnext
+Item Supplier,Artikel Leverancier,reviewed,erpnext
+Item Tax,Artikel Belasting,reviewed,erpnext
+Item Tax Amount Included in Value,Artikel Belastingbedrag inbegrepen in waarde,reviewed,erpnext
+Item Tax Rate,Artikel BTW-tarief,reviewed,erpnext
+Item Tax Row {0} must have account of type Tax or Income or Expense or Chargeable,Item Tax Rij {0} moet rekening houden met het type belasting of inkomsten of uitgaven of Chargeable,reviewed,erpnext
 Item Tax Template,Artikel belastingsjabloon,reviewed,erpnext
-Item Tax Template Detail,Detail BTW-sjabloon,unreviewed,erpnext
-Item taxes updated,Artikelbelastingen bijgewerkt,unreviewed,erpnext
-Item Template,Artikel sjabloon,unreviewed,erpnext
-Item to be manufactured or repacked,Artikel te vervaardigen of herverpakken,unreviewed,erpnext
-Item To Manufacture,Artikel te produceren,unreviewed,erpnext
-Item Type,Type voorwerp,unreviewed,frappe
-Item Unavailable,Item niet beschikbaar,unreviewed,erpnext
-Item UOM,Artikel Eenheid,unreviewed,erpnext
-Item valuation rate is recalculated considering landed cost voucher amount,Item waardering tarief wordt herberekend overweegt landde kosten voucherbedrag,unreviewed,erpnext
-Item Variant,Artikel Variant,unreviewed,erpnext
-Item Variant Attribute,Artikel Variant Kenmerk,unreviewed,erpnext
-Item Variant Details,Artikel Variant Details,unreviewed,erpnext
-Item Variant {0} already exists with same attributes,Artikel Variant {0} bestaat al met dezelfde kenmerken,unreviewed,erpnext
-Item variant {0} exists with same attributes,Artikel variant {0} bestaat met dezelfde kenmerken,unreviewed,erpnext
-Item Variants,Item Varianten,unreviewed,erpnext
-Item Variants updated,Artikelvarianten bijgewerkt,unreviewed,erpnext
-Item Website Specification,Artikel Website Specificatie,unreviewed,erpnext
-Item Weight Details,Item Gewicht Details,unreviewed,erpnext
-Item will be removed since no serial / batch no selected.,Artikel wordt verwijderd omdat er geen serie- / batchnummer is geselecteerd.,unreviewed,erpnext
-Item Wise Tax Detail,Artikelgebaseerde BTW Details,unreviewed,erpnext
-Item with Item Code {0} already exists,Artikel met artikelcode {0} bestaat al,unreviewed,erpnext
-Item {0} does not exist,Artikel {0} bestaat niet,unreviewed,erpnext
-Item {0} does not exist in the system or has expired,Artikel {0} bestaat niet in het systeem of is verlopen,unreviewed,erpnext
-Item {0} has already been returned,Artikel {0} is al geretourneerd,unreviewed,erpnext
-Item {0} has been disabled,Item {0} is uitgeschakeld,unreviewed,erpnext
-Item {0} has no Serial No. Only serilialized items can have delivery based on Serial No,Artikel {0} heeft geen serienummer. Alleen artikelen met serienummer kunnen worden geleverd op basis van serienummer,unreviewed,erpnext
-Item {0} has reached its end of life on {1},Artikel {0} heeft het einde van zijn levensduur bereikt op {1},unreviewed,erpnext
-Item {0} ignored since it is not a stock item,Artikel {0} genegeerd omdat het niet een voorraadartikel is,unreviewed,erpnext
-"Item {0} is a template, please select one of its variants","Item {0} is een sjabloon, selecteert u één van de varianten",unreviewed,erpnext
-Item {0} is cancelled,Artikel {0} is geannuleerd,unreviewed,erpnext
-Item {0} is disabled,Punt {0} is uitgeschakeld,unreviewed,erpnext
-Item {0} is not a serialized Item,Artikel {0} is geen seriegebonden artikel,unreviewed,erpnext
-Item {0} is not a stock Item,Artikel {0} is geen voorraadartikel,unreviewed,erpnext
-Item {0} is not active,Item {0} is niet actief,unreviewed,erpnext
-Item {0} is not active or end of life has been reached,ARtikel {0} is niet actief of heeft einde levensduur bereikt,unreviewed,erpnext
-Item {0} is not setup for Serial Nos. Check Item master,Artikel {0} is niet ingesteld voor serienummers. Controleer Artikelstam,unreviewed,erpnext
-Item {0} is not setup for Serial Nos. Column must be blank,Artikel {0} is niet ingesteld voor serienummers. Kolom moet leeg zijn,unreviewed,erpnext
-Item {0} must be a Fixed Asset Item,Item {0} moet een post der vaste activa zijn,unreviewed,erpnext
-Item {0} must be a non-stock item,Item {0} moet een niet-voorraad artikel zijn,unreviewed,erpnext
-Item {0} must be a stock Item,Artikel {0} moet een voorraadartikel zijn,unreviewed,erpnext
-Item {0} must be a Sub-contracted Item,Artikel {0} moet een uitbesteed artikel zijn,unreviewed,erpnext
-Item {0} not found,Artikel {0} niet gevonden,unreviewed,erpnext
-Item {0} not found in 'Raw Materials Supplied' table in Purchase Order {1},Item {0} niet gevonden in &#39;Raw Materials geleverd&#39; tafel in Purchase Order {1},unreviewed,erpnext
-Item {0} {1},Artikel {0} {1},unreviewed,erpnext
-Item {0}: Ordered qty {1} cannot be less than minimum order qty {2} (defined in Item).,Item {0}: Bestelde aantal {1} kan niet kleiner dan de minimale afname {2} (gedefinieerd in punt) zijn.,unreviewed,erpnext
-Item {0}: {1} qty produced.,Artikel {0}: {1} aantal geproduceerd.,unreviewed,erpnext
-Item-wise Price List Rate,Artikelgebaseerde Prijslijst Tarief,unreviewed,erpnext
-Item-wise Purchase History,Artikelgebaseerde Inkoop Geschiedenis,unreviewed,erpnext
-Item-wise Purchase Register,Artikelgebaseerde Inkoop Register,unreviewed,erpnext
-Item-wise Sales History,Artikelgebaseerde Verkoop Geschiedenis,unreviewed,erpnext
-Item-wise Sales Register,Artikelgebaseerde Verkoop Register,unreviewed,erpnext
-Item: {0} does not exist in the system,Item: {0} bestaat niet in het systeem,unreviewed,erpnext
-Items,Artikelen,unreviewed,erpnext
-Items and Pricing,Artikelen en prijzen,unreviewed,erpnext
-Items Filter,Items filteren,unreviewed,erpnext
-Items for Raw Material Request,Artikelen voor grondstofverzoek,unreviewed,erpnext
-Items Required,Items vereist,unreviewed,erpnext
-Items To Be Requested,Aan te vragen artikelen,unreviewed,erpnext
-Items to Manufacture are required to pull the Raw Materials associated with it.,Te vervaardigen artikelen zijn vereist om de bijbehorende grondstoffen te trekken.,unreviewed,erpnext
-Items under this warehouse will be suggested,Items onder dit magazijn worden voorgesteld,unreviewed,erpnext
-Items with higher weightage will be shown higher,Items met een hogere weightage hoger zal worden getoond,unreviewed,erpnext
+Item Tax Template Detail,Detail BTW-sjabloon,reviewed,erpnext
+Item taxes updated,Artikelbelastingen bijgewerkt,reviewed,erpnext
+Item Template,Artikel sjabloon,reviewed,erpnext
+Item to be manufactured or repacked,Artikel te vervaardigen of herverpakken,reviewed,erpnext
+Item To Manufacture,Artikel te produceren,reviewed,erpnext
+Item Type,Type voorwerp,reviewed,frappe
+Item Unavailable,Item niet beschikbaar,reviewed,erpnext
+Item UOM,Artikel Eenheid,reviewed,erpnext
+Item valuation rate is recalculated considering landed cost voucher amount,Item waardering tarief wordt herberekend overweegt landde kosten voucherbedrag,reviewed,erpnext
+Item Variant,Artikel Variant,reviewed,erpnext
+Item Variant Attribute,Artikel Variant Kenmerk,reviewed,erpnext
+Item Variant Details,Artikel Variant Details,reviewed,erpnext
+Item Variant {0} already exists with same attributes,Artikel Variant {0} bestaat al met dezelfde kenmerken,reviewed,erpnext
+Item variant {0} exists with same attributes,Artikel variant {0} bestaat met dezelfde kenmerken,reviewed,erpnext
+Item Variants,Item Varianten,reviewed,erpnext
+Item Variants updated,Artikelvarianten bijgewerkt,reviewed,erpnext
+Item Website Specification,Artikel Website Specificatie,reviewed,erpnext
+Item Weight Details,Item Gewicht Details,reviewed,erpnext
+Item will be removed since no serial / batch no selected.,Artikel wordt verwijderd omdat er geen serie- / batchnummer is geselecteerd.,reviewed,erpnext
+Item Wise Tax Detail,Artikelgebaseerde BTW Details,reviewed,erpnext
+Item with Item Code {0} already exists,Artikel met artikelcode {0} bestaat al,reviewed,erpnext
+Item {0} does not exist,Artikel {0} bestaat niet,reviewed,erpnext
+Item {0} does not exist in the system or has expired,Artikel {0} bestaat niet in het systeem of is verlopen,reviewed,erpnext
+Item {0} has already been returned,Artikel {0} is al geretourneerd,reviewed,erpnext
+Item {0} has been disabled,Item {0} is uitgeschakeld,reviewed,erpnext
+Item {0} has no Serial No. Only serilialized items can have delivery based on Serial No,Artikel {0} heeft geen serienummer. Alleen artikelen met serienummer kunnen worden geleverd op basis van serienummer,reviewed,erpnext
+Item {0} has reached its end of life on {1},Artikel {0} heeft het einde van zijn levensduur bereikt op {1},reviewed,erpnext
+Item {0} ignored since it is not a stock item,Artikel {0} genegeerd omdat het niet een voorraadartikel is,reviewed,erpnext
+"Item {0} is a template, please select one of its variants","Item {0} is een sjabloon, selecteert u één van de varianten",reviewed,erpnext
+Item {0} is cancelled,Artikel {0} is geannuleerd,reviewed,erpnext
+Item {0} is disabled,Punt {0} is uitgeschakeld,reviewed,erpnext
+Item {0} is not a serialized Item,Artikel {0} is geen seriegebonden artikel,reviewed,erpnext
+Item {0} is not a stock Item,Artikel {0} is geen voorraadartikel,reviewed,erpnext
+Item {0} is not active,Item {0} is niet actief,reviewed,erpnext
+Item {0} is not active or end of life has been reached,ARtikel {0} is niet actief of heeft einde levensduur bereikt,reviewed,erpnext
+Item {0} is not setup for Serial Nos. Check Item master,Artikel {0} is niet ingesteld voor serienummers. Controleer Artikelstam,reviewed,erpnext
+Item {0} is not setup for Serial Nos. Column must be blank,Artikel {0} is niet ingesteld voor serienummers. Kolom moet leeg zijn,reviewed,erpnext
+Item {0} must be a Fixed Asset Item,Item {0} moet een post der vaste activa zijn,reviewed,erpnext
+Item {0} must be a non-stock item,Item {0} moet een niet-voorraad artikel zijn,reviewed,erpnext
+Item {0} must be a stock Item,Artikel {0} moet een voorraadartikel zijn,reviewed,erpnext
+Item {0} must be a Sub-contracted Item,Artikel {0} moet een uitbesteed artikel zijn,reviewed,erpnext
+Item {0} not found,Artikel {0} niet gevonden,reviewed,erpnext
+Item {0} not found in 'Raw Materials Supplied' table in Purchase Order {1},Item {0} niet gevonden in &#39;Raw Materials geleverd&#39; tafel in Purchase Order {1},reviewed,erpnext
+Item {0} {1},Artikel {0} {1},reviewed,erpnext
+Item {0}: Ordered qty {1} cannot be less than minimum order qty {2} (defined in Item).,Item {0}: Bestelde aantal {1} kan niet kleiner dan de minimale afname {2} (gedefinieerd in punt) zijn.,reviewed,erpnext
+Item {0}: {1} qty produced.,Artikel {0}: {1} aantal geproduceerd.,reviewed,erpnext
+Item-wise Price List Rate,Artikelgebaseerde Prijslijst Tarief,reviewed,erpnext
+Item-wise Purchase History,Artikelgebaseerde Inkoop Geschiedenis,reviewed,erpnext
+Item-wise Purchase Register,Artikelgebaseerde Inkoop Register,reviewed,erpnext
+Item-wise Sales History,Artikelgebaseerde Verkoop Geschiedenis,reviewed,erpnext
+Item-wise Sales Register,Artikelgebaseerde Verkoop Register,reviewed,erpnext
+Item: {0} does not exist in the system,Item: {0} bestaat niet in het systeem,reviewed,erpnext
+Items,Artikelen,reviewed,erpnext
+Items and Pricing,Artikelen en prijzen,reviewed,erpnext
+Items Filter,Items filteren,reviewed,erpnext
+Items for Raw Material Request,Artikelen voor grondstofverzoek,reviewed,erpnext
+Items Required,Items vereist,reviewed,erpnext
+Items To Be Requested,Aan te vragen artikelen,reviewed,erpnext
+Items to Manufacture are required to pull the Raw Materials associated with it.,Te vervaardigen artikelen zijn vereist om de bijbehorende grondstoffen te trekken.,reviewed,erpnext
+Items under this warehouse will be suggested,Items onder dit magazijn worden voorgesteld,reviewed,erpnext
+Items with higher weightage will be shown higher,Items met een hogere weightage hoger zal worden getoond,reviewed,erpnext
 Itemwise Discount,Artikelgebaseerde Korting,unreviewed,erpnext
 Itemwise Recommended Reorder Level,Artikelgebaseerde Aanbevolen Bestelniveau,unreviewed,erpnext
 Jammu and Kashmir,Jammu en Kasjmir,unreviewed,frappe

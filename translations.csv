@@ -5917,207 +5917,207 @@ Maximum Points,Maximum aantal punten,reviewed,frappe
 Maximum points allowed after multiplying points with the multiplier value\n(Note: For no limit leave this field empty or set 0),Maximaal toegestane punten na het vermenigvuldigen van punten met de vermenigvuldigingswaarde (Opmerking: laat dit veld voor geen limiet leeg of stel 0 in),reviewed,frappe
 Maximum sample quantity that can be retained,Maximum aantal monsters dat kan worden bewaard,reviewed,erpnext
 Maximum Samples - {0} can be retained for Batch {1} and Item {2}.,Maximum aantal voorbeelden - {0} kan worden bewaard voor batch {1} en item {2}.,reviewed,erpnext
-Maximum Samples - {0} have already been retained for Batch {1} and Item {2} in Batch {3}.,Maximale voorbeelden - {0} zijn al bewaard voor Batch {1} en Item {2} in Batch {3}.,unreviewed,erpnext
-Maximum Score,maximum Score,unreviewed,erpnext
-Maximum Use,Maximaal gebruik,unreviewed,erpnext
-Maximum {0} rows allowed,Maximum {0} rijen toegestaan,unreviewed,frappe
-me-south-1,me-zuid-1,unreviewed,frappe
-"Meaning of Submit, Cancel, Amend","Betekenis van Indienen, Annuleren, Wijzigen",unreviewed,frappe
-Medical Code,Medisch code,unreviewed,erpnext
-Medical Code Standard,Medische Code Standaard,unreviewed,erpnext
-Medical Codes,Medische codes,unreviewed,erpnext
-Medical Coding,Medische codering,unreviewed,erpnext
-Medical Department,Medische afdeling,unreviewed,erpnext
-Medical History,Medische Geschiedenis,unreviewed,erpnext
-Medical Record,Medisch dossier,unreviewed,erpnext
-Medication,geneesmiddel,unreviewed,erpnext
-Medication Details,Medicatiegegevens,unreviewed,erpnext
-Medication Orders,Medicatiebestellingen,unreviewed,erpnext
-Medication Warehouse,Medicatie magazijn,unreviewed,erpnext
-Medications,Medicijnen,unreviewed,erpnext
-Meeting,Vergadering,unreviewed,frappe
-Meetup Embed HTML,Meetup HTML insluiten,unreviewed,erpnext
-Member Activity,Ledenactiviteit,unreviewed,erpnext
-Member ID,Gebruikers ID,unreviewed,erpnext
-Member information.,Informatie over leden.,unreviewed,erpnext
-Member Name,Lid Naam,unreviewed,erpnext
-Member Since,Lid sinds,unreviewed,erpnext
-Members,leden,unreviewed,erpnext
-Membership,Lidmaatschap,unreviewed,erpnext
-Membership Details,Lidmaatschap details,unreviewed,erpnext
-Membership Expiry Date,Vervaldatum lidmaatschap,unreviewed,erpnext
-Membership ID,Lidmaatschap ID,unreviewed,erpnext
-Membership Print Format,Afdrukformaat lidmaatschap,unreviewed,erpnext
-Membership Settings,Lidmaatschapsinstellingen,unreviewed,erpnext
-Membership Status,Lidmaatschapsstatus,unreviewed,erpnext
-Membership Type,soort lidmaatschap,unreviewed,erpnext
-Memebership Details,Gegevens over lidmaatschap,unreviewed,erpnext
-Memebership Type Details,Type details voor lidmaatschapstype,unreviewed,erpnext
-Mention,Vermelden,unreviewed,frappe
-Mention if non-standard payable account,Noem als niet-standaard betaalbaar account,unreviewed,erpnext
-Mention if non-standard receivable account,Vermelden of niet-standaard te ontvangen rekening,unreviewed,erpnext
-Mention if non-standard receivable account applicable,Vermeld als niet-standaard te ontvangen houdend met de toepasselijke,unreviewed,erpnext
-Mention transaction completion page URL,Vermeld transactie voltooiing URL,unreviewed,frappe
-Mention Valuation Rate in the Item master.,Vermeld waarderingspercentage in het artikelmodel.,unreviewed,erpnext
-Mentions,vermeldingen,unreviewed,frappe
-Merchant ID,Verkoper-ID,unreviewed,frappe
-Merchant Key,Handelaarssleutel,unreviewed,frappe
-Merge,samensmelten,unreviewed,erpnext
-Merge Account,Account samenvoegen,unreviewed,erpnext
-Merge not allowed,Samenvoegen niet toegestaan,unreviewed,erpnext
-Merge with existing,Samenvoegen met bestaande,unreviewed,both
-Merge with Existing Account,Samenvoegen met een bestaand account,unreviewed,erpnext
-merged {0} into {1},samengevoegd {0} tot {1},unreviewed,frappe
-Merging is only possible between Group-to-Group or Leaf Node-to-Leaf Node,Samenvoegen is alleen mogelijk tussen de Groepen of tussen Blad Nodes.,unreviewed,frappe
-"Merging is only possible if following properties are same in both records. Is Group, Root Type, Company","Samenvoegen kan alleen als volgende eigenschappen in beide registers. Is Group, Root Type, Company",unreviewed,erpnext
-Message,Bericht,unreviewed,both
-message,bericht,unreviewed,frappe
-Message (HTML),Bericht (HTML),unreviewed,frappe
-Message (Markdown),Bericht (Markdown),unreviewed,frappe
-Message clipped,Bericht afgekapt,unreviewed,frappe
-Message Count,Aantal berichten,unreviewed,frappe
-Message Examples,Bericht Voorbeelden,unreviewed,both
-Message for Supplier,Boodschap voor Supplier,unreviewed,erpnext
-Message from server: {0},Bericht van server: {0},unreviewed,frappe
-Message not setup,Bericht niet ingesteld,unreviewed,frappe
-Message Parameter,Bericht Parameter,unreviewed,frappe
-Message Preview,Bericht voorbeeld,unreviewed,frappe
-Message Sent,Bericht verzonden,unreviewed,erpnext
-Message to be displayed on successful completion (only for Guest users),Bericht wordt weergegeven bij succesvolle afhandeling (alleen voor gasten),unreviewed,frappe
-Message to show,Bericht om te laten zien,unreviewed,erpnext
-Message will be sent to the users to get their status on the Project,Er wordt een bericht naar de gebruikers gestuurd om hun status op het project te krijgen,unreviewed,erpnext
-Message-id,Bericht-id,unreviewed,frappe
-Messages greater than 160 characters will be split into multiple messages,Bericht van meer dan 160 tekens worden opgesplitst in meerdere berichten,unreviewed,erpnext
-Meta Data,Metagegevens,unreviewed,erpnext
-Meta Description,Meta omschrijving,unreviewed,frappe
-Meta Image,Meta afbeelding,unreviewed,frappe
-Meta Tags,Meta-tags,unreviewed,frappe
-Meta Title,Metatitel,unreviewed,frappe
-Meta title for SEO,Metatitel voor SEO,unreviewed,frappe
-Method,Methode,unreviewed,both
-Mg/K,Mg / K,unreviewed,erpnext
-MICR Code,MICR-code,unreviewed,erpnext
-Middle Income,Modaal Inkomen,unreviewed,erpnext
-Middle Name,Midden-naam,unreviewed,both
-Middle Name (Optional),Tussenvoegsel (optioneel),unreviewed,both
-Middle Name (optional),Tweede naam (optioneel),unreviewed,erpnext
-Milestone,Mijlpaal,unreviewed,frappe
-Min Amount,Min. Bedrag,unreviewed,erpnext
-Min Amt,Min. Amt,unreviewed,erpnext
-Min Amt can not be greater than Max Amt,Min Amt kan niet groter zijn dan Max Amt,unreviewed,erpnext
-Min Order Qty,Minimum Aantal,unreviewed,erpnext
-Min Qty,min Aantal,unreviewed,erpnext
-Min Qty can not be greater than Max Qty,Min Aantal kan niet groter zijn dan Max Aantal zijn,unreviewed,erpnext
-Minimum Age,Minimum leeftijd,unreviewed,erpnext
-Minimum Invoice Amount,Minimum Factuurbedrag,unreviewed,erpnext
-Minimum Lead Age (Days),Minimum leeftijd (dagen),unreviewed,erpnext
-Minimum Order Qty,Minimum bestel aantal,unreviewed,erpnext
-Minimum Order Quantity,Minimum bestelhoeveelheid,unreviewed,erpnext
-Minimum Password Score,Minimum wachtwoord score,unreviewed,frappe
-Minimum Permissible Value,Minimaal toelaatbare waarde,unreviewed,erpnext
-Minimum Qty,Minimum aantal,unreviewed,erpnext
-Minimum quantity should be as per Stock UOM,Minimale hoeveelheid moet zijn per voorraad UOM,unreviewed,erpnext
-Minimum Seating,Minimum aantal zitplaatsen,unreviewed,erpnext
-Minimum Total Spent,Minimaal totaal besteed,unreviewed,erpnext
-Mins,Min,unreviewed,erpnext
-minus-sign,min-teken,unreviewed,frappe
-Minute,minuut,unreviewed,erpnext
-Minutes,Notulen,unreviewed,erpnext
-Miscellaneous Expenses,Diverse Kosten,unreviewed,erpnext
-Miss,Missen,unreviewed,frappe
-Missed,gemiste,unreviewed,erpnext
-Missing Account,Account ontbreekt,unreviewed,erpnext
-Missing Configuration,Ontbrekende configuratie,unreviewed,erpnext
-Missing Currency Exchange Rates for {0},Ontbrekende Wisselkoersen voor {0},unreviewed,erpnext
-Missing email template for dispatch. Please set one in Delivery Settings.,Ontbrekende e-mailsjabloon voor verzending. Stel een in bij Delivery-instellingen.,unreviewed,erpnext
-Missing Fields,ontbrekende velden,unreviewed,frappe
-Missing parameter Kanban Board Name,Ontbrekende parameter Kanban-bordnaam,unreviewed,frappe
-Missing parameters for login,Ontbrekende parameters om in te loggen,unreviewed,frappe
-"Missing required details, did not create Inpatient Record","Vereiste details ontbreken, er is geen opname gemaakt",unreviewed,erpnext
-"Missing value for Password, API Key or Shopify URL","Ontbrekende waarde voor wachtwoord, API-sleutel of Shopify-URL",unreviewed,erpnext
-Missing Values Required,Ontbrekende waarden vereist,unreviewed,both
-Mixed Conditions,Gemengde voorwaarden,unreviewed,erpnext
-mm-dd-yyyy,mm-dd-jjjj,unreviewed,frappe
-mm/dd/yyyy,mm/dd/jjjj,unreviewed,frappe
-Mobile,mobiel,unreviewed,erpnext
-Mobile No,Mobiel nummer,unreviewed,both
-Mobile No.,Mobiel nummer,unreviewed,erpnext
+Maximum Samples - {0} have already been retained for Batch {1} and Item {2} in Batch {3}.,Maximale voorbeelden - {0} zijn al bewaard voor Batch {1} en Item {2} in Batch {3}.,reviewed,erpnext
+Maximum Score,maximum Score,reviewed,erpnext
+Maximum Use,Maximaal gebruik,reviewed,erpnext
+Maximum {0} rows allowed,Maximum {0} rijen toegestaan,reviewed,frappe
+me-south-1,me-south-1,reviewed,frappe
+"Meaning of Submit, Cancel, Amend","Betekenis van Indienen, Annuleren, Wijzigen",reviewed,frappe
+Medical Code,Medisch code,reviewed,erpnext
+Medical Code Standard,Medische Code Standaard,reviewed,erpnext
+Medical Codes,Medische codes,reviewed,erpnext
+Medical Coding,Medische codering,reviewed,erpnext
+Medical Department,Medische afdeling,reviewed,erpnext
+Medical History,Medische voorgeschiedenis,reviewed,erpnext
+Medical Record,Medisch dossier,reviewed,erpnext
+Medication,Medicatie,reviewed,erpnext
+Medication Details,Medicatiegegevens,reviewed,erpnext
+Medication Orders,Medicatiebestellingen,reviewed,erpnext
+Medication Warehouse,Medicatiemagazijn,reviewed,erpnext
+Medications,Medicijnen,reviewed,erpnext
+Meeting,Vergadering,reviewed,frappe
+Meetup Embed HTML,Meetup HTML insluiten,reviewed,erpnext
+Member Activity,Ledenactiviteit,reviewed,erpnext
+Member ID,Gebruikers ID,reviewed,erpnext
+Member information.,Informatie over leden.,reviewed,erpnext
+Member Name,Lidnaam,reviewed,erpnext
+Member Since,Lid sinds,reviewed,erpnext
+Members,leden,reviewed,erpnext
+Membership,Lidmaatschap,reviewed,erpnext
+Membership Details,Lidmaatschapsgegevens,reviewed,erpnext
+Membership Expiry Date,Vervaldatum lidmaatschap,reviewed,erpnext
+Membership ID,Lidmaatschaps-ID,reviewed,erpnext
+Membership Print Format,Afdrukformaat lidmaatschap,reviewed,erpnext
+Membership Settings,Lidmaatschapsinstellingen,reviewed,erpnext
+Membership Status,Lidmaatschapsstatus,reviewed,erpnext
+Membership Type,Soort lidmaatschap,reviewed,erpnext
+Memebership Details,Gegevens over lidmaatschap,reviewed,erpnext
+Memebership Type Details,Type details voor lidmaatschapstype,reviewed,erpnext
+Mention,Vermelden,reviewed,frappe
+Mention if non-standard payable account,Noem als niet-standaard betaalbaar account,reviewed,erpnext
+Mention if non-standard receivable account,Vermelden of niet-standaard te ontvangen rekening,reviewed,erpnext
+Mention if non-standard receivable account applicable,Vermeld als niet-standaard te ontvangen houdend met de toepasselijke,reviewed,erpnext
+Mention transaction completion page URL,Vermeld transactie voltooiing URL,reviewed,frappe
+Mention Valuation Rate in the Item master.,Vermeld het waarderingstarief in het artikelmodel.,reviewed,erpnext
+Mentions,vermeldingen,reviewed,frappe
+Merchant ID,Verkoper-ID,reviewed,frappe
+Merchant Key,Handelaarssleutel,reviewed,frappe
+Merge,Samenvoegen,reviewed,erpnext
+Merge Account,Account samenvoegen,reviewed,erpnext
+Merge not allowed,Samenvoegen niet toegestaan,reviewed,erpnext
+Merge with existing,Samenvoegen met bestaande,reviewed,both
+Merge with Existing Account,Samenvoegen met een bestaand account,reviewed,erpnext
+merged {0} into {1},samengevoegd {0} tot {1},reviewed,frappe
+Merging is only possible between Group-to-Group or Leaf Node-to-Leaf Node,Samenvoegen is alleen mogelijk tussen de Groepen of tussen Blad Nodes.,reviewed,frappe
+"Merging is only possible if following properties are same in both records. Is Group, Root Type, Company","Samenvoegen kan alleen als volgende eigenschappen in beide registers. Is Group, Root Type, Company",reviewed,erpnext
+Message,Bericht,reviewed,both
+message,bericht,reviewed,frappe
+Message (HTML),Bericht (HTML),reviewed,frappe
+Message (Markdown),Bericht (Markdown),reviewed,frappe
+Message clipped,Bericht afgekapt,reviewed,frappe
+Message Count,Aantal berichten,reviewed,frappe
+Message Examples,Berichtvoorbeelden,reviewed,both
+Message for Supplier,Bericht voor leverancier,reviewed,erpnext
+Message from server: {0},Bericht van server: {0},reviewed,frappe
+Message not setup,Bericht niet ingesteld,reviewed,frappe
+Message Parameter,Bericht Parameter,reviewed,frappe
+Message Preview,Bericht voorbeeld,reviewed,frappe
+Message Sent,Bericht verzonden,reviewed,erpnext
+Message to be displayed on successful completion (only for Guest users),Bericht wordt weergegeven bij succesvolle afhandeling (alleen voor gasten),reviewed,frappe
+Message to show,Bericht om te laten zien,reviewed,erpnext
+Message will be sent to the users to get their status on the Project,Er wordt een bericht naar de gebruikers gestuurd om hun status op het project te krijgen,reviewed,erpnext
+Message-id,Bericht-id,reviewed,frappe
+Messages greater than 160 characters will be split into multiple messages,Bericht van meer dan 160 tekens worden opgesplitst in meerdere berichten,reviewed,erpnext
+Meta Data,Metagegevens,reviewed,erpnext
+Meta Description,Meta omschrijving,reviewed,frappe
+Meta Image,Meta afbeelding,reviewed,frappe
+Meta Tags,Meta-tags,reviewed,frappe
+Meta Title,Metatitel,reviewed,frappe
+Meta title for SEO,Metatitel voor SEO,reviewed,frappe
+Method,Methode,reviewed,both
+Mg/K,Mg / K,reviewed,erpnext
+MICR Code,MICR-code,reviewed,erpnext
+Middle Income,Modaal Inkomen,reviewed,erpnext
+Middle Name,Tussenvoegsel,reviewed,both
+Middle Name (Optional),Tussenvoegsel (optioneel),reviewed,both
+Middle Name (optional),Tweede naam (optioneel),reviewed,erpnext
+Milestone,Mijlpaal,reviewed,frappe
+Min Amount,Min. Bedrag,reviewed,erpnext
+Min Amt,Min. bedrag,reviewed,erpnext
+Min Amt can not be greater than Max Amt,Min. bedrag kan niet groter zijn dan max. bedrag,reviewed,erpnext
+Min Order Qty,Minimum Aantal,reviewed,erpnext
+Min Qty,min Aantal,reviewed,erpnext
+Min Qty can not be greater than Max Qty,Min Aantal kan niet groter zijn dan Max Aantal zijn,reviewed,erpnext
+Minimum Age,Minimum leeftijd,reviewed,erpnext
+Minimum Invoice Amount,Minimum Factuurbedrag,reviewed,erpnext
+Minimum Lead Age (Days),Minimum leeftijd (dagen),reviewed,erpnext
+Minimum Order Qty,Minimale bestelhoeveelheid,reviewed,erpnext
+Minimum Order Quantity,Minimum bestelhoeveelheid,reviewed,erpnext
+Minimum Password Score,Minimale wachtwoordscore,reviewed,frappe
+Minimum Permissible Value,Minimaal toelaatbare waarde,reviewed,erpnext
+Minimum Qty,Minimum aantal,reviewed,erpnext
+Minimum quantity should be as per Stock UOM,Minimale hoeveelheid moet zijn per voorraad UOM,reviewed,erpnext
+Minimum Seating,Minimum aantal zitplaatsen,reviewed,erpnext
+Minimum Total Spent,Minimaal totaal besteed,reviewed,erpnext
+Mins,Min,reviewed,erpnext
+minus-sign,min-teken,reviewed,frappe
+Minute,minuut,reviewed,erpnext
+Minutes,Notulen,reviewed,erpnext
+Miscellaneous Expenses,Diverse Kosten,reviewed,erpnext
+Miss,Missen,reviewed,frappe
+Missed,gemiste,reviewed,erpnext
+Missing Account,Account ontbreekt,reviewed,erpnext
+Missing Configuration,Ontbrekende configuratie,reviewed,erpnext
+Missing Currency Exchange Rates for {0},Ontbrekende Wisselkoersen voor {0},reviewed,erpnext
+Missing email template for dispatch. Please set one in Delivery Settings.,Ontbrekende e-mailsjabloon voor verzending. Stel een in bij Delivery-instellingen.,reviewed,erpnext
+Missing Fields,ontbrekende velden,reviewed,frappe
+Missing parameter Kanban Board Name,Ontbrekende parameter Kanban-bordnaam,reviewed,frappe
+Missing parameters for login,Ontbrekende parameters om in te loggen,reviewed,frappe
+"Missing required details, did not create Inpatient Record","Vereiste details ontbreken, er is geen opname gemaakt",reviewed,erpnext
+"Missing value for Password, API Key or Shopify URL","Ontbrekende waarde voor wachtwoord, API-sleutel of Shopify-URL",reviewed,erpnext
+Missing Values Required,Ontbrekende waarden vereist,reviewed,both
+Mixed Conditions,Gemengde voorwaarden,reviewed,erpnext
+mm-dd-yyyy,mm-dd-jjjj,reviewed,frappe
+mm/dd/yyyy,mm/dd/jjjj,reviewed,frappe
+Mobile,mobiel,reviewed,erpnext
+Mobile No,Mobiel nummer,reviewed,both
+Mobile No.,Mobiel nummer,reviewed,erpnext
 Mobile Number,Mobiel nummer,reviewed,erpnext
-Mobile number,Mobiel nummer,unreviewed,frappe
-Mode Of Payment,Wijze van betaling,unreviewed,erpnext
+Mobile number,Mobiel nummer,reviewed,frappe
+Mode Of Payment,Wijze van betaling,reviewed,erpnext
 Mode of Payment,Betaalwijze,reviewed,erpnext
-Mode of Payment Account,Modus van Betaalrekening,unreviewed,erpnext
-Mode of Payments,Wijze van betalingen,unreviewed,erpnext
-Mode of Transport,Wijze van transport,unreviewed,erpnext
-Mode of Transportation,Wijze van vervoer,unreviewed,erpnext
-Models (building blocks) of the Application,Modellen (bouwstenen) van de Application,unreviewed,frappe
-Moderate Sensitivity,Gematigde gevoeligheid,unreviewed,erpnext
-Modes of Payment,Wijze van betaling,unreviewed,erpnext
-modified,gemodificeerde,unreviewed,erpnext
+Mode of Payment Account,Modus van Betaalrekening,reviewed,erpnext
+Mode of Payments,Wijze van betalingen,reviewed,erpnext
+Mode of Transport,Wijze van transport,reviewed,erpnext
+Mode of Transportation,Wijze van vervoer,reviewed,erpnext
+Models (building blocks) of the Application,Modellen (bouwstenen) van de Application,reviewed,frappe
+Moderate Sensitivity,Gematigde gevoeligheid,reviewed,erpnext
+Modes of Payment,Wijze van betaling,reviewed,erpnext
+modified,gemodificeerde,reviewed,erpnext
 Modified By,Gewijzigd door,reviewed,frappe
 Modified On,Gewijzigd op,reviewed,custom
-Module,module,unreviewed,frappe
-module,Module,unreviewed,frappe
-Module Name,Modulenaam,unreviewed,frappe
-module name...,module naam ...,unreviewed,frappe
-Module Not Found,Module niet gevonden,unreviewed,frappe
-Module Onboarding,Module onboarding,unreviewed,frappe
-Module Path,Module Pad,unreviewed,frappe
-Module to Export,Module exporteren,unreviewed,frappe
-Modules,modules,unreviewed,frappe
-Monday,Maandag,unreviewed,both
-Monitor Progress,Voortgang in de gaten houden,unreviewed,erpnext
-Monitoring Frequency,Monitoring frequentie,unreviewed,erpnext
-Month,Maand,unreviewed,both
-Month(s) after the end of the invoice month,Maand (en) na het einde van de factuurmaand,unreviewed,erpnext
-Monthly,Maandelijks,unreviewed,both
-Monthly Completed Work Orders,Maandelijks voltooide werkorders,unreviewed,erpnext
+Module,module,reviewed,frappe
+module,Module,reviewed,frappe
+Module Name,Modulenaam,reviewed,frappe
+module name...,module naam ...,reviewed,frappe
+Module Not Found,Module niet gevonden,reviewed,frappe
+Module Onboarding,Module onboarding,reviewed,frappe
+Module Path,Module Pad,reviewed,frappe
+Module to Export,Module exporteren,reviewed,frappe
+Modules,modules,reviewed,frappe
+Monday,Maandag,reviewed,both
+Monitor Progress,Voortgang in de gaten houden,reviewed,erpnext
+Monitoring Frequency,Monitoring frequentie,reviewed,erpnext
+Month,Maand,reviewed,both
+Month(s) after the end of the invoice month,Maand (en) na het einde van de factuurmaand,reviewed,erpnext
+Monthly,Maandelijks,reviewed,both
+Monthly Completed Work Orders,Maandelijks voltooide werkorders,reviewed,erpnext
 Monthly Distribution,Maandelijkse verdeling,reviewed,erpnext
-Monthly Distribution Percentage,Maandelijkse Verdeling Percentage,unreviewed,erpnext
-Monthly Distribution Percentages,Maandelijkse Verdeling Percentages,unreviewed,erpnext
-Monthly Long,Maandelijks lang,unreviewed,frappe
-Monthly Quality Inspections,Maandelijkse kwaliteitsinspecties,unreviewed,erpnext
-Monthly Rank:,Maandelijkse rangorde:,unreviewed,frappe
-Monthly Rate,Maandelijks tarief,unreviewed,erpnext
-Monthly Sales Target,Maandelijks verkooppunt,unreviewed,erpnext
-Monthly Therapy Sessions:,Maandelijkse therapiesessies:,unreviewed,erpnext
-Monthly Total Work Orders,Maandelijkse totale werkorders,unreviewed,erpnext
-Months,Maanden,unreviewed,erpnext
-More,Meer,unreviewed,both
-More articles on {0},Meer artikelen over {0},unreviewed,frappe
-More content for the bottom of the page.,Meer inhoud voor de onderkant van de pagina.,unreviewed,frappe
-More details,Meer details,unreviewed,erpnext
-More Info,Meer info,unreviewed,erpnext
+Monthly Distribution Percentage,Maandelijkse Verdeling Percentage,reviewed,erpnext
+Monthly Distribution Percentages,Maandelijkse Verdeling Percentages,reviewed,erpnext
+Monthly Long,Maandelijks lang,reviewed,frappe
+Monthly Quality Inspections,Maandelijkse kwaliteitsinspecties,reviewed,erpnext
+Monthly Rank:,Maandelijkse rangorde:,reviewed,frappe
+Monthly Rate,Maandelijks tarief,reviewed,erpnext
+Monthly Sales Target,Maandelijks verkooppunt,reviewed,erpnext
+Monthly Therapy Sessions:,Maandelijkse therapiesessies:,reviewed,erpnext
+Monthly Total Work Orders,Maandelijkse totale werkorders,reviewed,erpnext
+Months,Maanden,reviewed,erpnext
+More,Meer,reviewed,both
+More articles on {0},Meer artikelen over {0},reviewed,frappe
+More content for the bottom of the page.,Meer inhoud voor de onderkant van de pagina.,reviewed,frappe
+More details,Meer details,reviewed,erpnext
+More Info,Meer info,reviewed,erpnext
 More Information,Meer informatie,reviewed,both
-More...,Meer...,unreviewed,erpnext
-Morning,Ochtend,unreviewed,erpnext
-Most Used,Meest gebruikt,unreviewed,frappe
-Mother,Moeder,unreviewed,erpnext
-Motor Assessment Scale,Motor Assessment Schaal,unreviewed,erpnext
-Move,Verhuizing,unreviewed,both
-move,verhuizing,unreviewed,frappe
-Move Item,Item verplaatsen,unreviewed,erpnext
-Move To,Verplaatsen naar,unreviewed,frappe
-Move to Row Number,Ga naar rijnummer,unreviewed,frappe
-Move To Trash,Verplaatsen naar prullenbak,unreviewed,frappe
+More...,Meer...,reviewed,erpnext
+Morning,Ochtend,reviewed,erpnext
+Most Used,Meest gebruikt,reviewed,frappe
+Mother,Moeder,reviewed,erpnext
+Motor Assessment Scale,Motor Assessment Schaal,reviewed,erpnext
+Move,Verhuizing,reviewed,both
+move,verhuizing,reviewed,frappe
+Move Item,Item verplaatsen,reviewed,erpnext
+Move To,Verplaatsen naar,reviewed,frappe
+Move to Row Number,Ga naar rijnummer,reviewed,frappe
+Move To Trash,Verplaatsen naar prullenbak,reviewed,frappe
 Moving,Verplaatsen,reviewed,custom
-Mpesa Account Balance Processing Error,Mpesa Accountsaldo Verwerkingsfout,unreviewed,erpnext
-Mpesa Express Error,Mpesa Express-fout,unreviewed,erpnext
-Mpesa Express Transaction Error,Mpesa Express-transactiefout,unreviewed,erpnext
-Mpesa Settings,Mpesa-instellingen,unreviewed,erpnext
-Mr,De heer,unreviewed,frappe
-Mrs,Mvr,unreviewed,frappe
-Ms,Mevrouw,unreviewed,frappe
-Multi Currency,Valuta,unreviewed,erpnext
-Multiple Correct Answer,Meervoudig correct antwoord,unreviewed,erpnext
-Multiple fiscal years exist for the date {0}. Please set company in Fiscal Year,Meerdere fiscale jaar bestaan voor de datum {0}. Stel onderneming in het fiscale jaar,unreviewed,erpnext
-Multiple Item prices.,Meerdere Artikelprijzen .,unreviewed,erpnext
-Multiple Loyalty Program found for the Customer. Please select manually.,Meervoudig loyaliteitsprogramma gevonden voor de klant. Selecteer alstublieft handmatig.,unreviewed,erpnext
-"Multiple Price Rules exists with same criteria, please resolve conflict by assigning priority. Price Rules: {0}","Meerdere Prijs Regels bestaat met dezelfde criteria, dan kunt u conflicten op te lossen door het toekennen van prioriteit. Prijs Regels: {0}",unreviewed,erpnext
-Multiple root nodes not allowed.,Meerdere hoofdnodes niet toegestaan .,unreviewed,frappe
-Multiple Tier Program,Multiple Tier-programma,unreviewed,erpnext
-Multiple Variants,Meerdere varianten,unreviewed,erpnext
-Multiplier Field,Vermenigvuldiger veld,unreviewed,frappe
+Mpesa Account Balance Processing Error,Mpesa Accountsaldo Verwerkingsfout,reviewed,erpnext
+Mpesa Express Error,Mpesa Express-fout,reviewed,erpnext
+Mpesa Express Transaction Error,Mpesa Express-transactiefout,reviewed,erpnext
+Mpesa Settings,Mpesa-instellingen,reviewed,erpnext
+Mr,De heer,reviewed,frappe
+Mrs,Mvr,reviewed,frappe
+Ms,Mevrouw,reviewed,frappe
+Multi Currency,Valuta,reviewed,erpnext
+Multiple Correct Answer,Meervoudig correct antwoord,reviewed,erpnext
+Multiple fiscal years exist for the date {0}. Please set company in Fiscal Year,Meerdere fiscale jaar bestaan voor de datum {0}. Stel onderneming in het fiscale jaar,reviewed,erpnext
+Multiple Item prices.,Meerdere Artikelprijzen .,reviewed,erpnext
+Multiple Loyalty Program found for the Customer. Please select manually.,Meervoudig loyaliteitsprogramma gevonden voor de klant. Selecteer alstublieft handmatig.,reviewed,erpnext
+"Multiple Price Rules exists with same criteria, please resolve conflict by assigning priority. Price Rules: {0}","Meerdere Prijs Regels bestaat met dezelfde criteria, dan kunt u conflicten op te lossen door het toekennen van prioriteit. Prijs Regels: {0}",reviewed,erpnext
+Multiple root nodes not allowed.,Meerdere hoofdnodes niet toegestaan .,reviewed,frappe
+Multiple Tier Program,Multiple Tier-programma,reviewed,erpnext
+Multiple Variants,Meerdere varianten,reviewed,erpnext
+Multiplier Field,Vermenigvuldiger veld,reviewed,frappe
 Music,muziek,unreviewed,erpnext
 music,Muziek,unreviewed,frappe
 Must be a publicly accessible Google Sheets URL,Moet een openbaar toegankelijke URL van Google Spreadsheets zijn,unreviewed,frappe

@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NL Vertalingen - Live Review</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background: #0f0f0f;
+    color: #e0e0e0;
+    padding: 24px;
+    line-height: 1.5;
+  }
+  h1 { font-size: 24px; font-weight: 700; color: #fff; margin-bottom: 4px; }
+  .subtitle { color: #888; font-size: 13px; margin-bottom: 24px; }
+
+  .stats {
+    display: flex; gap: 12px; margin-bottom: 24px; flex-wrap: wrap;
+  }
+  .stat {
+    background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 10px;
+    padding: 12px 20px; min-width: 120px;
+  }
+  .stat-number { font-size: 28px; font-weight: 700; line-height: 1; }
+  .stat-label { font-size: 11px; color: #888; margin-top: 2px; }
+  .stat-approved .stat-number { color: #4ade80; }
+  .stat-corrected .stat-number { color: #facc15; }
+  .stat-english .stat-number { color: #60a5fa; }
+  .stat-remaining .stat-number { color: #f87171; }
+  .stat-total .stat-number { color: #fff; }
+
+  .progress-bar {
+    background: #1a1a1a; border-radius: 8px; height: 8px;
+    margin-bottom: 24px; overflow: hidden;
+  }
+  .progress-fill {
+    height: 100%; border-radius: 8px;
+    background: linear-gradient(90deg, #4ade80, #22d3ee);
+    transition: width 0.5s ease;
+  }
+
+  .current-batch {
+    background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 12px;
+    padding: 16px; margin-bottom: 16px;
+  }
+  .batch-header {
+    font-size: 13px; font-weight: 600; color: #888;
+    margin-bottom: 12px; display: flex; justify-content: space-between;
+  }
+  .batch-status { color: #facc15; }
+  .batch-status.done { color: #4ade80; }
+
+  .translation-list {
+    display: flex; flex-direction: column; gap: 6px;
+    max-height: 600px; overflow-y: auto;
+  }
+  .translation-item {
+    display: grid; grid-template-columns: 1fr 1fr 80px;
+    gap: 12px; padding: 8px 12px; border-radius: 8px;
+    font-size: 13px; align-items: center;
+    background: #111; border: 1px solid #222;
+    transition: all 0.3s ease;
+  }
+  .translation-item.new {
+    animation: slideIn 0.3s ease;
+  }
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .translation-item .source { color: #aaa; font-family: monospace; font-size: 12px; }
+  .translation-item .translated { color: #fff; }
+  .translation-item .action {
+    text-align: center; font-size: 11px; font-weight: 600;
+    padding: 3px 8px; border-radius: 4px;
+  }
+  .action-approve { background: #0a2e1a; color: #4ade80; }
+  .action-correct { background: #2e2a0a; color: #facc15; }
+  .action-keep_english { background: #0a1a2e; color: #60a5fa; }
+
+  .feed {
+    margin-top: 24px;
+  }
+  .feed-header {
+    font-size: 13px; font-weight: 600; color: #888; margin-bottom: 8px;
+  }
+  .feed-items {
+    display: flex; flex-direction: column; gap: 4px;
+    max-height: 300px; overflow-y: auto;
+  }
+  .feed-item {
+    font-size: 12px; padding: 6px 10px; border-radius: 6px;
+    background: #111; border: 1px solid #1a1a1a;
+  }
+  .feed-item .time { color: #555; margin-right: 8px; }
+  .feed-item .correction { color: #facc15; }
+  .feed-item .original { color: #666; text-decoration: line-through; }
+  .feed-item .arrow { color: #555; margin: 0 4px; }
+
+  .paused {
+    text-align: center; padding: 40px; color: #555;
+    font-size: 14px;
+  }
+  .paused .dot { animation: blink 1.5s infinite; }
+  @keyframes blink { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
+
+  .legend {
+    display: flex; gap: 16px; margin-top: 16px; font-size: 11px; color: #666;
+  }
+  .legend-item { display: flex; align-items: center; gap: 4px; }
+  .legend-dot {
+    width: 8px; height: 8px; border-radius: 50%;
+  }
+  .legend-dot.green { background: #4ade80; }
+  .legend-dot.yellow { background: #facc15; }
+  .legend-dot.blue { background: #60a5fa; }
+</style>
+</head>
+<body>
+
+<h1>NL Vertalingen - Live Review</h1>
+<div class="subtitle">ERPNext/Frappe Nederlandse vertalingen pipeline</div>
+
+<div class="stats">
+  <div class="stat stat-total"><div class="stat-number" id="total">0</div><div class="stat-label">Totaal verwerkt</div></div>
+  <div class="stat stat-approved"><div class="stat-number" id="approved">0</div><div class="stat-label">Goedgekeurd</div></div>
+  <div class="stat stat-corrected"><div class="stat-number" id="corrected">0</div><div class="stat-label">Gecorrigeerd</div></div>
+  <div class="stat stat-english"><div class="stat-number" id="english">0</div><div class="stat-label">Engels gehouden</div></div>
+  <div class="stat stat-remaining"><div class="stat-number" id="remaining">11776</div><div class="stat-label">Resterend</div></div>
+</div>
+
+<div class="progress-bar"><div class="progress-fill" id="progress" style="width: 0%"></div></div>
+
+<div class="current-batch" id="batchContainer">
+  <div class="batch-header">
+    <span id="batchLabel">Wacht op data...</span>
+    <span class="batch-status" id="batchStatus"><span class="dot">.</span><span class="dot">.</span><span class="dot">.</span></span>
+  </div>
+  <div class="translation-list" id="translationList">
+    <div class="paused">Start <code>python auto_review.py</code> om de pipeline te starten<br><br>
+    Of sleep een <code>.live_review.json</code> bestand hierheen</div>
+  </div>
+</div>
+
+<div class="feed">
+  <div class="feed-header">Correcties feed (laatste wijzigingen)</div>
+  <div class="feed-items" id="feedItems"></div>
+</div>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot green"></div> Goedgekeurd (vertaling klopt)</div>
+  <div class="legend-item"><div class="legend-dot yellow"></div> Gecorrigeerd (betere vertaling)</div>
+  <div class="legend-item"><div class="legend-dot blue"></div> Engels gehouden (vakjargon)</div>
+</div>
+
+<script>
+let lastData = null;
+let seenItems = new Set();
+let corrections = [];
+
+function formatTime() {
+  return new Date().toLocaleTimeString('nl-NL', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+}
+
+function updateDashboard(data) {
+  if (!data) return;
+
+  document.getElementById('total').textContent = data.total_processed || 0;
+  document.getElementById('approved').textContent = data.total_approved || 0;
+  document.getElementById('corrected').textContent = data.total_corrected || 0;
+  document.getElementById('english').textContent = data.total_kept_english || 0;
+  document.getElementById('remaining').textContent = (data.total_unreviewed || 11776) - (data.total_processed || 0);
+
+  const pct = data.total_unreviewed ? ((data.total_processed || 0) / data.total_unreviewed * 100) : 0;
+  document.getElementById('progress').style.width = pct.toFixed(1) + '%';
+
+  const batchLabel = document.getElementById('batchLabel');
+  const batchStatus = document.getElementById('batchStatus');
+
+  if (data.current_batch) {
+    batchLabel.textContent = `Batch ${data.current_batch.number}/${data.total_batches} (${data.current_batch.size} vertalingen)`;
+    batchStatus.className = data.current_batch.status === 'done' ? 'batch-status done' : 'batch-status';
+    batchStatus.textContent = data.current_batch.status === 'done' ? 'Afgerond' : 'Verwerken...';
+  }
+
+  if (data.current_batch && data.current_batch.items) {
+    const list = document.getElementById('translationList');
+    list.innerHTML = '';
+
+    for (const item of data.current_batch.items) {
+      const div = document.createElement('div');
+      const isNew = !seenItems.has(item.source);
+      div.className = 'translation-item' + (isNew ? ' new' : '');
+      seenItems.add(item.source);
+
+      const actionClass = 'action-' + (item.action || 'approve');
+      const actionLabel = item.action === 'correct' ? 'Gecorrigeerd' :
+                          item.action === 'keep_english' ? 'Engels' : 'OK';
+
+      div.innerHTML = `
+        <div class="source">${escapeHtml(item.source)}</div>
+        <div class="translated">${escapeHtml(item.translation)}</div>
+        <div class="action ${actionClass}">${actionLabel}</div>
+      `;
+      list.appendChild(div);
+
+      // Add corrections to feed
+      if (isNew && (item.action === 'correct' || item.action === 'keep_english')) {
+        corrections.unshift({
+          time: formatTime(),
+          source: item.source,
+          original: item.original_translation || '',
+          translation: item.translation,
+          action: item.action,
+        });
+        if (corrections.length > 50) corrections.pop();
+      }
+    }
+
+    updateFeed();
+  }
+}
+
+function updateFeed() {
+  const feed = document.getElementById('feedItems');
+  feed.innerHTML = '';
+  for (const c of corrections.slice(0, 30)) {
+    const div = document.createElement('div');
+    div.className = 'feed-item';
+    if (c.action === 'correct') {
+      div.innerHTML = `<span class="time">${c.time}</span>
+        <span class="original">${escapeHtml(c.original)}</span>
+        <span class="arrow">&rarr;</span>
+        <span class="correction">${escapeHtml(c.translation)}</span>
+        <span style="color:#555"> (${escapeHtml(c.source)})</span>`;
+    } else {
+      div.innerHTML = `<span class="time">${c.time}</span>
+        <span style="color:#60a5fa">${escapeHtml(c.source)}</span>
+        <span style="color:#555"> blijft Engels</span>`;
+    }
+    feed.appendChild(div);
+  }
+}
+
+function escapeHtml(text) {
+  const div = document.createElement('div');
+  div.textContent = text || '';
+  return div.innerHTML;
+}
+
+// Poll the live review JSON file
+async function pollData() {
+  try {
+    const resp = await fetch('.live_review.json?t=' + Date.now());
+    if (resp.ok) {
+      const data = await resp.json();
+      updateDashboard(data);
+    }
+  } catch (e) {
+    // File niet beschikbaar, geen probleem
+  }
+  setTimeout(pollData, 1000);
+}
+
+// Start polling
+pollData();
+</script>
+</body>
+</html>

@@ -3,3 +3,5 @@ __pycache__/
 .env
 PROMPTS.md
 SKILLS_LOG.md
+.live_review.json
+.auto_review_progress.json

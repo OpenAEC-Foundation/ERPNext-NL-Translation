@@ -4110,202 +4110,202 @@ From Pin Code,Van pincode,reviewed,erpnext
 From Place,Van plaats,reviewed,erpnext
 From Posting Date,Vanaf boekingsdatum,reviewed,erpnext
 From Range,Van Range,reviewed,erpnext
-From Range has to be less than To Range,Van Range moet kleiner zijn dan om het bereik,unreviewed,erpnext
-From Shareholder,Van aandeelhouder,unreviewed,erpnext
-From State,Van staat,unreviewed,erpnext
-From Template,Van sjabloon,unreviewed,erpnext
-From Time,Van Tijd,unreviewed,erpnext
-From Time cannot be after the current time.,Van tijd kan niet na de huidige tijd zijn.,unreviewed,erpnext
-From Time cannot be greater than To Time.,Van tijd kan niet groter zijn dan tot tijd.,unreviewed,erpnext
-From Time Should Be Less Than To Time,Van tijd moet minder zijn dan tijd,unreviewed,erpnext
-From User,Van gebruiker,unreviewed,frappe
-From Value,Van Waarde,unreviewed,erpnext
-From value must be less than to value in row {0},Van waarde moet minder zijn dan waarde in rij {0},unreviewed,erpnext
-From Warehouse,Van Warehouse,unreviewed,erpnext
-from {0},van {0},unreviewed,erpnext
-From {0} | {1} {2},Van {0} | {1} {2},unreviewed,erpnext
-Frozen,Bevroren,unreviewed,erpnext
-Fuel Type,Brandstoftype,unreviewed,erpnext
-Fulfilled,vervulde,unreviewed,erpnext
-Fulfillment,Vervulling,unreviewed,erpnext
-Fulfillment User,Vervul gebruiker,unreviewed,erpnext
-Fulfilment Deadline,Uiterste nalevingstermijn,unreviewed,erpnext
-Fulfilment Details,Fulfillment-gegevens,unreviewed,erpnext
-Fulfilment Status,Fulfillment-status,unreviewed,erpnext
-Fulfilment Terms,Fulfillment-voorwaarden,unreviewed,erpnext
-Fulfilment Terms and Conditions,Fulfilment Algemene voorwaarden,unreviewed,erpnext
-Full,vol,unreviewed,frappe
+From Range has to be less than To Range,Van bereik moet kleiner zijn dan tot bereik,reviewed,erpnext
+From Shareholder,Van aandeelhouder,reviewed,erpnext
+From State,Vanuit status,reviewed,erpnext
+From Template,Van sjabloon,reviewed,erpnext
+From Time,Begintijd,reviewed,erpnext
+From Time cannot be after the current time.,Begintijd mag niet na de huidige tijd liggen.,reviewed,erpnext
+From Time cannot be greater than To Time.,Begintijd mag niet groter zijn dan eindtijd.,reviewed,erpnext
+From Time Should Be Less Than To Time,Begintijd moet kleiner zijn dan eindtijd,reviewed,erpnext
+From User,Van gebruiker,reviewed,frappe
+From Value,Van waarde,reviewed,erpnext
+From value must be less than to value in row {0},Van waarde moet minder zijn dan waarde in rij {0},reviewed,erpnext
+From Warehouse,Van magazijn,reviewed,erpnext
+from {0},van {0},reviewed,erpnext
+From {0} | {1} {2},Van {0} | {1} {2},reviewed,erpnext
+Frozen,Bevroren,reviewed,erpnext
+Fuel Type,Brandstoftype,reviewed,erpnext
+Fulfilled,Vervuld,reviewed,erpnext
+Fulfillment,Nakoming,reviewed,erpnext
+Fulfillment User,Nakomingsgebruiker,reviewed,erpnext
+Fulfilment Deadline,Uiterste nalevingstermijn,reviewed,erpnext
+Fulfilment Details,Nakomingsgegevens,reviewed,erpnext
+Fulfilment Status,Nakomingsstatus,reviewed,erpnext
+Fulfilment Terms,Nakomingsvoorwaarden,reviewed,erpnext
+Fulfilment Terms and Conditions,Nakomingsvoorwaarden,reviewed,erpnext
+Full,vol,reviewed,frappe
 Full and Final Statement,Eindafrekening,reviewed,custom
-Full Name,Volledige naam,unreviewed,both
-Full Page,Volledige Pagina,unreviewed,frappe
-Full Width,Volle breedte,unreviewed,frappe
-fullscreen,volledig scherm,unreviewed,frappe
-Fully Billed,Volledig gefactureerd,unreviewed,erpnext
-Fully Completed,Volledig afgerond,unreviewed,erpnext
-Fully Delivered,Volledig geleverd,unreviewed,erpnext
-Fully Depreciated,volledig is afgeschreven,unreviewed,erpnext
+Full Name,Volledige naam,reviewed,both
+Full Page,Volledige pagina,reviewed,frappe
+Full Width,Volle breedte,reviewed,frappe
+fullscreen,volledig scherm,reviewed,frappe
+Fully Billed,Volledig gefactureerd,reviewed,erpnext
+Fully Completed,Volledig afgerond,reviewed,erpnext
+Fully Delivered,Volledig geleverd,reviewed,erpnext
+Fully Depreciated,Volledig afgeschreven,reviewed,erpnext
 Fully Paid,Volledig betaald,reviewed,custom
-Function,Functie,unreviewed,frappe
-Function Based On,Functie gebaseerd op,unreviewed,frappe
-Furnitures and Fixtures,Meubels en Wedstrijden,unreviewed,erpnext
-"Further accounts can be made under Groups, but entries can be made against non-Groups","Verdere accounts kan worden gemaakt onder groepen, maar items kunnen worden gemaakt tegen niet-Groepen",unreviewed,erpnext
-Further cost centers can be made under Groups but entries can be made against non-Groups,"Verdere kostenplaatsen kan in groepen worden gemaakt, maar items kunnen worden gemaakt tegen niet-Groepen",unreviewed,erpnext
-Further nodes can be only created under 'Group' type nodes,Verder nodes kunnen alleen worden gemaakt op grond van het type nodes 'Groep',unreviewed,both
-Future Payment Amount,Toekomstig betalingsbedrag,unreviewed,erpnext
-Future Payment Ref,Toekomstige betaling Ref,unreviewed,erpnext
-Future Payments,Toekomstige betalingen,unreviewed,erpnext
-Future Posting Not Allowed,Toekomstige plaatsing niet toegestaan,unreviewed,erpnext
-Gain/Loss,Winst / verlies,unreviewed,erpnext
-Gain/Loss Account on Asset Disposal,Winst / verliesrekening op de verkoop van activa,unreviewed,erpnext
-Gain/Loss on Asset Disposal,Winst / verlies op de verkoop van activa,unreviewed,erpnext
-gained by {0} via automatic rule {1},verkregen door {0} via automatische regel {1},unreviewed,frappe
-gained {0} points,behaalde {0} punten,unreviewed,frappe
-Gantt Chart,Gantt-diagram,unreviewed,erpnext
-Gantt chart of all tasks.,Gantt-diagram van alle taken.,unreviewed,erpnext
-Gateway,Poort,unreviewed,frappe
-Gateway Settings,Gateway-instellingen,unreviewed,frappe
-gave {0} points,gaf {0} punten,unreviewed,frappe
-Gender,Geslacht,unreviewed,both
-Gender:,Geslacht:,unreviewed,erpnext
-General,Algemeen,unreviewed,erpnext
-General Ledger,Grootboek,unreviewed,erpnext
-General Ledger Filters,Grootboekfilters,unreviewed,erpnext
-General Settings,Algemene Instellingen,unreviewed,erpnext
-Generate E-Way Bill JSON,Genereer E-Way Bill JSON,unreviewed,erpnext
-Generate Invoice At Beginning Of Period,Factuur aan het begin van de periode genereren,unreviewed,erpnext
-Generate Keys,Genereer sleutels,unreviewed,frappe
-Generate Material Requests (MRP) and Work Orders.,Generate Material Requests (MRP) en werkorders.,unreviewed,erpnext
-Generate New Invoices Past Due Date,Genereer nieuwe facturen na vervaldatum,unreviewed,erpnext
-Generate New Report,Genereer nieuw rapport,unreviewed,frappe
-"Generate packing slips for packages to be delivered. Used to notify package number, package contents and its weight.","Genereren van pakbonnen voor pakketten te leveren. Gebruikt voor pakket nummer, inhoud van de verpakking en het gewicht te melden.",unreviewed,erpnext
-Generate Schedule,Genereer Plan,unreviewed,erpnext
-Generate Secret,Genereer geheim,unreviewed,erpnext
-Generate Webhook Secret,Genereer webhookgeheim,unreviewed,erpnext
-Generated File,Gegenereerd bestand,unreviewed,frappe
-Geo,Geo-,unreviewed,frappe
-Get Account Balance,Krijg rekeningsaldo,unreviewed,erpnext
-Get Advances Paid,Get betaalde voorschotten,unreviewed,erpnext
-Get Advances Received,Get ontvangen voorschotten,unreviewed,erpnext
-Get Alerts for Today,Ontvang een alert voor vandaag,unreviewed,frappe
-Get Contacts,Contactpersonen ophalen,unreviewed,frappe
-Get Courses,krijg Cursussen,unreviewed,erpnext
-Get Current Stock,Get Huidige voorraad,unreviewed,erpnext
-Get customers from,Haal klanten uit,unreviewed,erpnext
-Get Entries,Ontvang inzendingen,unreviewed,erpnext
-Get Fields,Krijg velden,unreviewed,frappe
-Get financial breakup of Taxes and charges data by Amazon,Krijg financiële opsplitsing van Belastingen en kostengegevens door Amazon,unreviewed,erpnext
-Get from Patient Encounter,Haal uit Patient Encounter,unreviewed,erpnext
-Get Invocies,Krijg Invocies,unreviewed,erpnext
-Get Invoices,Ontvang facturen,unreviewed,erpnext
-Get Invoices based on Filters,Ontvang facturen op basis van filters,unreviewed,erpnext
-Get Item Locations,Zoek itemlocaties,unreviewed,erpnext
-Get Items For Work Order,Items voor werkorder ophalen,unreviewed,erpnext
-Get Items From,Krijgen items uit,unreviewed,erpnext
-Get Items from BOM,Artikelen ophalen van Stuklijst,unreviewed,erpnext
-Get Items from Healthcare Services,Items ophalen van zorgdiensten,unreviewed,erpnext
-Get Items from Material Requests against this Supplier,Artikelen ophalen van materiaalverzoeken tegen deze leverancier,unreviewed,erpnext
-Get Items from Open Material Requests,Krijg items van Open Materiaal Aanvragen,unreviewed,erpnext
-Get Items from Prescriptions,Items van recepten ophalen,unreviewed,erpnext
-Get Items from Product Bundle,Krijg Items uit Product Bundle,unreviewed,erpnext
-Get Items From Purchase Receipts,Krijg items uit Aankoopfacturen,unreviewed,erpnext
-Get Latest Query,Ontvang de nieuwste zoekopdracht,unreviewed,erpnext
-Get Material Request,Krijg Materiaal Request,unreviewed,erpnext
-Get Outstanding Documents,Ontvang uitstekende documenten,unreviewed,erpnext
-Get Outstanding Invoice,Ontvang een uitstekende factuur,unreviewed,erpnext
-Get Outstanding Invoices,Get openstaande facturen,unreviewed,erpnext
-Get Payment Entries,Krijg Betaling Entries,unreviewed,erpnext
-Get Payments from,Ontvang betalingen van,unreviewed,erpnext
-Get Pending Medication Orders,Ontvang lopende medicatiebestellingen,unreviewed,erpnext
-Get Prescribed Clinical Procedures,Krijg voorgeschreven klinische procedures,unreviewed,erpnext
-Get Prescribed Therapies,Krijg voorgeschreven therapieën,unreviewed,erpnext
-Get Raw Materials For Production,Krijg grondstoffen voor productie,unreviewed,erpnext
-Get Sales Orders,Krijg Verkooporders,unreviewed,erpnext
-Get Started Sections,Aan de slag Secties,unreviewed,erpnext
-Get Students,krijg Studenten,unreviewed,erpnext
-Get Students From,Krijgen studenten uit,unreviewed,erpnext
-Get Suppliers,Krijg leveranciers,unreviewed,erpnext
-Get Suppliers By,Ontvang leveranciers door,unreviewed,erpnext
-Get Unreconciled Entries,Haal onafgeletterde transacties op,unreviewed,erpnext
-Get Updates,Blijf op de hoogte,unreviewed,erpnext
-Get your globally recognized avatar from Gravatar.com,Maak uw wereldwijd erkende avatar bij Gravatar.com,unreviewed,frappe
-Getting Started,Ermee beginnen,unreviewed,erpnext
-Gift Card,Cadeaukaart,unreviewed,erpnext
-Github flavoured markdown syntax,Github-gearomatiseerde markdown-syntaxis,unreviewed,frappe
-Give number of days according to prior selection,Geef het aantal dagen op volgens voorafgaande selectie,unreviewed,erpnext
-Give Review Points,Geef beoordelingspunten,unreviewed,frappe
-glass,glas,unreviewed,frappe
-Global Defaults,Global Standaardwaarden,unreviewed,erpnext
-Global Search DocType,Globaal zoeken DocType,unreviewed,frappe
-Global Search Document Types Reset.,Globaal zoeken Documenttypen Reset.,unreviewed,frappe
-Global Search Settings,Algemene zoekinstellingen,unreviewed,frappe
-Global settings for all manufacturing processes.,Algemene instellingen voor alle productieprocessen.,unreviewed,erpnext
-Global Shortcuts,Wereldwijde sneltoetsen,unreviewed,frappe
-Global Unsubscribe,Global Afmelden,unreviewed,frappe
-globe,wereldbol,unreviewed,frappe
-Go,Gaan,unreviewed,frappe
-Go Back,Ga terug,unreviewed,frappe
-Go to next record,Ga naar het volgende record,unreviewed,frappe
-Go to Page,Ga naar pagina,unreviewed,frappe
-Go to previous record,Ga naar vorige record,unreviewed,frappe
-Go to the Desktop and start using ERPNext,Ga naar het bureaublad om aan de slag te gaan met ERPNext,unreviewed,erpnext
-Go to the document,Ga naar het document,unreviewed,frappe
-Go to this URL after completing the form (only for Guest users),Ga naar deze URL na het invullen van het formulier (alleen voor gastengebruikers),unreviewed,frappe
-Go to {0},Ga naar {0},unreviewed,frappe
-Go to {0} List,Ga naar {0} lijst,unreviewed,frappe
-Go to {0} Page,Ga naar {0} pagina,unreviewed,frappe
-Goal,Doel,unreviewed,both
-Goal and Procedure,Doel en procedure,unreviewed,erpnext
-Goals cannot be empty,Goals mag niet leeg zijn,unreviewed,erpnext
-GoCardless Customer,GoCardless klant,unreviewed,erpnext
-GoCardless payment gateway settings,GoCardless betalingsgateway-instellingen,unreviewed,erpnext
-GoCardless SEPA Mandate,GoCardless SEPA-mandaat,unreviewed,erpnext
-GoCardless Settings,GoCardless-instellingen,unreviewed,erpnext
-Good Work 🎉,Goed werk 🎉,unreviewed,frappe
-Goods and Services Tax (GST India),Goederen en Diensten Belasting (GST India),unreviewed,erpnext
-Goods are already received against the outward entry {0},Goederen zijn al ontvangen tegen de uitgaande invoer {0},unreviewed,erpnext
-Goods In Transit,Goederen onderweg,unreviewed,erpnext
-Goods Transferred,Goederen overgedragen,unreviewed,erpnext
-Google Analytics Anonymize IP,Google Analytics Anonimiseert IP,unreviewed,frappe
-Google API Settings.,Google API-instellingen.,unreviewed,frappe
-Google Calendar,Google kalender,unreviewed,frappe
-"Google Calendar - Could not create Calendar for {0}, error code {1}.","Google Agenda - Kan geen agenda maken voor {0}, foutcode {1}.",unreviewed,frappe
-"Google Calendar - Could not delete Event {0} from Google Calendar, error code {1}.","Google Agenda - Kon gebeurtenis {0} niet verwijderen uit Google Agenda, foutcode {1}.",unreviewed,frappe
-"Google Calendar - Could not fetch event from Google Calendar, error code {0}.","Google Agenda - Kan evenement niet ophalen uit Google Agenda, foutcode {0}.",unreviewed,frappe
-"Google Calendar - Could not insert contact in Google Contacts {0}, error code {1}.","Google Agenda - Kon contact niet invoegen in Google Contacten {0}, foutcode {1}.",unreviewed,frappe
-"Google Calendar - Could not insert event in Google Calendar {0}, error code {1}.","Google Agenda - Kan gebeurtenis niet invoegen in Google Agenda {0}, foutcode {1}.",unreviewed,frappe
-"Google Calendar - Could not update Event {0} in Google Calendar, error code {1}.","Google Agenda - Kon gebeurtenis {0} in Google Agenda, foutcode {1} niet bijwerken.",unreviewed,frappe
-Google Calendar Event ID,Google Agenda-gebeurtenis-ID,unreviewed,frappe
-Google Calendar has been configured.,Google Agenda is geconfigureerd.,unreviewed,frappe
-Google Calendar ID,Google Agenda-ID,unreviewed,frappe
-Google Calendar Integration.,Google Agenda-integratie.,unreviewed,frappe
-Google Contacts,Google Contacten,unreviewed,frappe
-"Google Contacts - Could not sync contacts from Google Contacts {0}, error code {1}.","Google Contacten - Kon contacten van Google Contacten {0}, foutcode {1} niet synchroniseren.",unreviewed,frappe
-"Google Contacts - Could not update contact in Google Contacts {0}, error code {1}.","Google Contacten - Kon contact in Google Contacten {0}, foutcode {1} niet bijwerken.",unreviewed,frappe
-Google Contacts has been configured.,Google Contacten is geconfigureerd.,unreviewed,frappe
-Google Contacts Id,Google Contacten-ID,unreviewed,frappe
-Google Contacts Integration is disabled.,Google Contacten-integratie is uitgeschakeld.,unreviewed,frappe
-Google Contacts Integration.,Google Contacten integratie.,unreviewed,frappe
-Google Drive - Could not create folder in Google Drive - Error Code {0},Google Drive - Kan geen map maken in Google Drive - Foutcode {0},unreviewed,frappe
-Google Drive - Could not find folder in Google Drive - Error Code {0},Google Drive - Kan map niet vinden in Google Drive - Foutcode {0},unreviewed,frappe
-Google Drive - Could not locate - {0},Google Drive - Kan niet vinden - {0},unreviewed,frappe
-Google Drive Backup Successful.,Google Drive Backup succesvol.,unreviewed,frappe
-Google Drive has been configured.,Google Drive is geconfigureerd.,unreviewed,frappe
-Google Drive Integration.,Google Drive-integratie.,unreviewed,frappe
-Google Font,Google-lettertype,unreviewed,frappe
-Google Indexing has been configured.,Google Indexing is geconfigureerd.,unreviewed,frappe
-Google Integration is disabled.,Google-integratie is uitgeschakeld.,unreviewed,frappe
-Google Services,Google-services,unreviewed,frappe
-Google Settings,Google instellingen,unreviewed,frappe
-Google Sheets URL is invalid or not publicly accessible.,De URL van Google Spreadsheets is ongeldig of niet openbaar toegankelijk.,unreviewed,frappe
-"Google Sheets URL must end with ""gid={number}"". Copy and paste the URL from the browser address bar and try again.",De URL van Google Spreadsheets moet eindigen op &quot;gid = {number}&quot;. Kopieer en plak de URL uit de adresbalk van de browser en probeer het opnieuw.,unreviewed,frappe
-Google Snippet Preview,Voorbeeld van Google-fragment,unreviewed,frappe
-Google Translation,Google Vertaling,unreviewed,frappe
-Government,Overheid,unreviewed,erpnext
-Grace Period,Genade periode,unreviewed,erpnext
-Grade,Rang,unreviewed,erpnext
-Grade Description,Grade Beschrijving,unreviewed,erpnext
-Grading Basis,Beoordelingsbasis,unreviewed,erpnext
-Grading Scale Intervals,Grading afleeseenheden,unreviewed,erpnext
+Function,Functie,reviewed,frappe
+Function Based On,Functie gebaseerd op,reviewed,frappe
+Furnitures and Fixtures,Meubels en inventaris,reviewed,erpnext
+"Further accounts can be made under Groups, but entries can be made against non-Groups","Verdere accounts kan worden gemaakt onder groepen, maar items kunnen worden gemaakt tegen niet-Groepen",reviewed,erpnext
+Further cost centers can be made under Groups but entries can be made against non-Groups,"Verdere kostenplaatsen kan in groepen worden gemaakt, maar items kunnen worden gemaakt tegen niet-Groepen",reviewed,erpnext
+Further nodes can be only created under 'Group' type nodes,Verder nodes kunnen alleen worden gemaakt op grond van het type nodes 'Groep',reviewed,both
+Future Payment Amount,Toekomstig betalingsbedrag,reviewed,erpnext
+Future Payment Ref,Toekomstige betaling Ref,reviewed,erpnext
+Future Payments,Toekomstige betalingen,reviewed,erpnext
+Future Posting Not Allowed,Toekomstige boeking niet toegestaan,reviewed,erpnext
+Gain/Loss,Winst / verlies,reviewed,erpnext
+Gain/Loss Account on Asset Disposal,Winst/verliesrekening bij activa-verkoop,reviewed,erpnext
+Gain/Loss on Asset Disposal,Winst / verlies op de verkoop van activa,reviewed,erpnext
+gained by {0} via automatic rule {1},verkregen door {0} via automatische regel {1},reviewed,frappe
+gained {0} points,behaalde {0} punten,reviewed,frappe
+Gantt Chart,Gantt-diagram,reviewed,erpnext
+Gantt chart of all tasks.,Gantt-diagram van alle taken.,reviewed,erpnext
+Gateway,Poort,reviewed,frappe
+Gateway Settings,Gateway-instellingen,reviewed,frappe
+gave {0} points,gaf {0} punten,reviewed,frappe
+Gender,Geslacht,reviewed,both
+Gender:,Geslacht:,reviewed,erpnext
+General,Algemeen,reviewed,erpnext
+General Ledger,Grootboek,reviewed,erpnext
+General Ledger Filters,Grootboekfilters,reviewed,erpnext
+General Settings,Algemene instellingen,reviewed,erpnext
+Generate E-Way Bill JSON,Genereer E-Way Bill JSON,reviewed,erpnext
+Generate Invoice At Beginning Of Period,Factuur aan het begin van de periode genereren,reviewed,erpnext
+Generate Keys,Genereer sleutels,reviewed,frappe
+Generate Material Requests (MRP) and Work Orders.,Genereer materiaalverzoeken (MRP) en werkorders.,reviewed,erpnext
+Generate New Invoices Past Due Date,Genereer nieuwe facturen na vervaldatum,reviewed,erpnext
+Generate New Report,Genereer nieuw rapport,reviewed,frappe
+"Generate packing slips for packages to be delivered. Used to notify package number, package contents and its weight.","Genereren van pakbonnen voor pakketten te leveren. Gebruikt voor pakket nummer, inhoud van de verpakking en het gewicht te melden.",reviewed,erpnext
+Generate Schedule,Genereer Plan,reviewed,erpnext
+Generate Secret,Genereer geheim,reviewed,erpnext
+Generate Webhook Secret,Genereer webhookgeheim,reviewed,erpnext
+Generated File,Gegenereerd bestand,reviewed,frappe
+Geo,Geo-,reviewed,frappe
+Get Account Balance,Rekeningsaldo ophalen,reviewed,erpnext
+Get Advances Paid,Betaalde voorschotten ophalen,reviewed,erpnext
+Get Advances Received,Ontvangen voorschotten ophalen,reviewed,erpnext
+Get Alerts for Today,Ontvang een alert voor vandaag,reviewed,frappe
+Get Contacts,Contactpersonen ophalen,reviewed,frappe
+Get Courses,Cursussen ophalen,reviewed,erpnext
+Get Current Stock,Huidige voorraad ophalen,reviewed,erpnext
+Get customers from,Haal klanten uit,reviewed,erpnext
+Get Entries,Boekingen ophalen,reviewed,erpnext
+Get Fields,Velden ophalen,reviewed,frappe
+Get financial breakup of Taxes and charges data by Amazon,Krijg financiële opsplitsing van Belastingen en kostengegevens door Amazon,reviewed,erpnext
+Get from Patient Encounter,Haal uit Patient Encounter,reviewed,erpnext
+Get Invocies,Facturen ophalen,reviewed,erpnext
+Get Invoices,Facturen ophalen,reviewed,erpnext
+Get Invoices based on Filters,Facturen ophalen op basis van filters,reviewed,erpnext
+Get Item Locations,Zoek itemlocaties,reviewed,erpnext
+Get Items For Work Order,Items voor werkorder ophalen,reviewed,erpnext
+Get Items From,Artikelen ophalen uit,reviewed,erpnext
+Get Items from BOM,Artikelen ophalen van Stuklijst,reviewed,erpnext
+Get Items from Healthcare Services,Items ophalen van zorgdiensten,reviewed,erpnext
+Get Items from Material Requests against this Supplier,Artikelen ophalen van materiaalverzoeken tegen deze leverancier,reviewed,erpnext
+Get Items from Open Material Requests,Artikelen ophalen uit open materiaalverzoeken,reviewed,erpnext
+Get Items from Prescriptions,Items van recepten ophalen,reviewed,erpnext
+Get Items from Product Bundle,Artikelen ophalen uit productbundel,reviewed,erpnext
+Get Items From Purchase Receipts,Artikelen ophalen uit inkoopontvangsten,reviewed,erpnext
+Get Latest Query,Ontvang de nieuwste zoekopdracht,reviewed,erpnext
+Get Material Request,Krijg Materiaal Request,reviewed,erpnext
+Get Outstanding Documents,Ontvang uitstekende documenten,reviewed,erpnext
+Get Outstanding Invoice,Ontvang een uitstekende factuur,reviewed,erpnext
+Get Outstanding Invoices,Get openstaande facturen,reviewed,erpnext
+Get Payment Entries,Krijg Betaling Entries,reviewed,erpnext
+Get Payments from,Ontvang betalingen van,reviewed,erpnext
+Get Pending Medication Orders,Ontvang lopende medicatiebestellingen,reviewed,erpnext
+Get Prescribed Clinical Procedures,Krijg voorgeschreven klinische procedures,reviewed,erpnext
+Get Prescribed Therapies,Krijg voorgeschreven therapieën,reviewed,erpnext
+Get Raw Materials For Production,Krijg grondstoffen voor productie,reviewed,erpnext
+Get Sales Orders,Krijg Verkooporders,reviewed,erpnext
+Get Started Sections,Aan de slag Secties,reviewed,erpnext
+Get Students,krijg Studenten,reviewed,erpnext
+Get Students From,Krijgen studenten uit,reviewed,erpnext
+Get Suppliers,Krijg leveranciers,reviewed,erpnext
+Get Suppliers By,Ontvang leveranciers door,reviewed,erpnext
+Get Unreconciled Entries,Haal onafgeletterde transacties op,reviewed,erpnext
+Get Updates,Blijf op de hoogte,reviewed,erpnext
+Get your globally recognized avatar from Gravatar.com,Maak uw wereldwijd erkende avatar bij Gravatar.com,reviewed,frappe
+Getting Started,Ermee beginnen,reviewed,erpnext
+Gift Card,Cadeaukaart,reviewed,erpnext
+Github flavoured markdown syntax,Github-gearomatiseerde markdown-syntaxis,reviewed,frappe
+Give number of days according to prior selection,Geef het aantal dagen op volgens voorafgaande selectie,reviewed,erpnext
+Give Review Points,Geef beoordelingspunten,reviewed,frappe
+glass,glas,reviewed,frappe
+Global Defaults,Global Standaardwaarden,reviewed,erpnext
+Global Search DocType,Globaal zoeken DocType,reviewed,frappe
+Global Search Document Types Reset.,Globaal zoeken Documenttypen Reset.,reviewed,frappe
+Global Search Settings,Algemene zoekinstellingen,reviewed,frappe
+Global settings for all manufacturing processes.,Algemene instellingen voor alle productieprocessen.,reviewed,erpnext
+Global Shortcuts,Wereldwijde sneltoetsen,reviewed,frappe
+Global Unsubscribe,Global Afmelden,reviewed,frappe
+globe,wereldbol,reviewed,frappe
+Go,Gaan,reviewed,frappe
+Go Back,Ga terug,reviewed,frappe
+Go to next record,Ga naar het volgende record,reviewed,frappe
+Go to Page,Ga naar pagina,reviewed,frappe
+Go to previous record,Ga naar vorige record,reviewed,frappe
+Go to the Desktop and start using ERPNext,Ga naar het bureaublad om aan de slag te gaan met ERPNext,reviewed,erpnext
+Go to the document,Ga naar het document,reviewed,frappe
+Go to this URL after completing the form (only for Guest users),Ga naar deze URL na het invullen van het formulier (alleen voor gastengebruikers),reviewed,frappe
+Go to {0},Ga naar {0},reviewed,frappe
+Go to {0} List,Ga naar {0} lijst,reviewed,frappe
+Go to {0} Page,Ga naar {0} pagina,reviewed,frappe
+Goal,Doel,reviewed,both
+Goal and Procedure,Doel en procedure,reviewed,erpnext
+Goals cannot be empty,Goals mag niet leeg zijn,reviewed,erpnext
+GoCardless Customer,GoCardless klant,reviewed,erpnext
+GoCardless payment gateway settings,GoCardless betalingsgateway-instellingen,reviewed,erpnext
+GoCardless SEPA Mandate,GoCardless SEPA-mandaat,reviewed,erpnext
+GoCardless Settings,GoCardless-instellingen,reviewed,erpnext
+Good Work 🎉,Goed werk 🎉,reviewed,frappe
+Goods and Services Tax (GST India),Goederen en Diensten Belasting (GST India),reviewed,erpnext
+Goods are already received against the outward entry {0},Goederen zijn al ontvangen tegen de uitgaande invoer {0},reviewed,erpnext
+Goods In Transit,Goederen onderweg,reviewed,erpnext
+Goods Transferred,Goederen overgedragen,reviewed,erpnext
+Google Analytics Anonymize IP,Google Analytics Anonimiseert IP,reviewed,frappe
+Google API Settings.,Google API-instellingen.,reviewed,frappe
+Google Calendar,Google kalender,reviewed,frappe
+"Google Calendar - Could not create Calendar for {0}, error code {1}.","Google Agenda - Kan geen agenda maken voor {0}, foutcode {1}.",reviewed,frappe
+"Google Calendar - Could not delete Event {0} from Google Calendar, error code {1}.","Google Agenda - Kon gebeurtenis {0} niet verwijderen uit Google Agenda, foutcode {1}.",reviewed,frappe
+"Google Calendar - Could not fetch event from Google Calendar, error code {0}.","Google Agenda - Kan evenement niet ophalen uit Google Agenda, foutcode {0}.",reviewed,frappe
+"Google Calendar - Could not insert contact in Google Contacts {0}, error code {1}.","Google Agenda - Kon contact niet invoegen in Google Contacten {0}, foutcode {1}.",reviewed,frappe
+"Google Calendar - Could not insert event in Google Calendar {0}, error code {1}.","Google Agenda - Kan gebeurtenis niet invoegen in Google Agenda {0}, foutcode {1}.",reviewed,frappe
+"Google Calendar - Could not update Event {0} in Google Calendar, error code {1}.","Google Agenda - Kon gebeurtenis {0} in Google Agenda, foutcode {1} niet bijwerken.",reviewed,frappe
+Google Calendar Event ID,Google Agenda-gebeurtenis-ID,reviewed,frappe
+Google Calendar has been configured.,Google Agenda is geconfigureerd.,reviewed,frappe
+Google Calendar ID,Google Agenda-ID,reviewed,frappe
+Google Calendar Integration.,Google Agenda-integratie.,reviewed,frappe
+Google Contacts,Google Contacten,reviewed,frappe
+"Google Contacts - Could not sync contacts from Google Contacts {0}, error code {1}.","Google Contacten - Kon contacten van Google Contacten {0}, foutcode {1} niet synchroniseren.",reviewed,frappe
+"Google Contacts - Could not update contact in Google Contacts {0}, error code {1}.","Google Contacten - Kon contact in Google Contacten {0}, foutcode {1} niet bijwerken.",reviewed,frappe
+Google Contacts has been configured.,Google Contacten is geconfigureerd.,reviewed,frappe
+Google Contacts Id,Google Contacten-ID,reviewed,frappe
+Google Contacts Integration is disabled.,Google Contacten-integratie is uitgeschakeld.,reviewed,frappe
+Google Contacts Integration.,Google Contacten integratie.,reviewed,frappe
+Google Drive - Could not create folder in Google Drive - Error Code {0},Google Drive - Kan geen map maken in Google Drive - Foutcode {0},reviewed,frappe
+Google Drive - Could not find folder in Google Drive - Error Code {0},Google Drive - Kan map niet vinden in Google Drive - Foutcode {0},reviewed,frappe
+Google Drive - Could not locate - {0},Google Drive - Kan niet vinden - {0},reviewed,frappe
+Google Drive Backup Successful.,Google Drive Backup succesvol.,reviewed,frappe
+Google Drive has been configured.,Google Drive is geconfigureerd.,reviewed,frappe
+Google Drive Integration.,Google Drive-integratie.,reviewed,frappe
+Google Font,Google-lettertype,reviewed,frappe
+Google Indexing has been configured.,Google Indexing is geconfigureerd.,reviewed,frappe
+Google Integration is disabled.,Google-integratie is uitgeschakeld.,reviewed,frappe
+Google Services,Google-services,reviewed,frappe
+Google Settings,Google instellingen,reviewed,frappe
+Google Sheets URL is invalid or not publicly accessible.,De URL van Google Spreadsheets is ongeldig of niet openbaar toegankelijk.,reviewed,frappe
+"Google Sheets URL must end with ""gid={number}"". Copy and paste the URL from the browser address bar and try again.",De URL van Google Spreadsheets moet eindigen op &quot;gid = {number}&quot;. Kopieer en plak de URL uit de adresbalk van de browser en probeer het opnieuw.,reviewed,frappe
+Google Snippet Preview,Voorbeeld van Google-fragment,reviewed,frappe
+Google Translation,Google Vertaling,reviewed,frappe
+Government,Overheid,reviewed,erpnext
+Grace Period,Genade periode,reviewed,erpnext
+Grade,Rang,reviewed,erpnext
+Grade Description,Grade Beschrijving,reviewed,erpnext
+Grading Basis,Beoordelingsbasis,reviewed,erpnext
+Grading Scale Intervals,Grading afleeseenheden,reviewed,erpnext
 Grading Scale Name,Grading Scale Naam,unreviewed,erpnext
 Graduate,Afstuderen,unreviewed,erpnext
 Grand Total,Algemeen totaal,unreviewed,erpnext

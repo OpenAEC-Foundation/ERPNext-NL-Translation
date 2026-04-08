@@ -7,9 +7,9 @@ Nederlandse vertalingen voor ERPNext / Frappe v15+.
 | Metriek | Aantal |
 |---------|--------|
 | Totaal vertalingen | 12.182 |
-| Reviewed | 6.905 (56,7%) |
-| Unreviewed | 5.277 |
-| Gedeployed naar KG | 6.905 |
+| Reviewed | 7.099 (58,3%) |
+| Unreviewed | 5.083 |
+| Gedeployed naar KG | 7.099 |
 
 *Laatst bijgewerkt: 2026-04-08*
 
@@ -112,7 +112,7 @@ Reviewed vertalingen worden gedeployed naar ERPNext instances via de
 .po vertalingen waar nodig.
 
 Actieve deployments:
-- **Kort Geytenbeek** (kortgeytenbeek-erp.prilk.cloud): 6.905 vertalingen
+- **Kort Geytenbeek** (kortgeytenbeek-erp.prilk.cloud): 7.099 vertalingen
 
 ## Herkomst
 

@@ -6710,213 +6710,213 @@ Open Quotations,Open offertes,reviewed,erpnext
 Open Reference Document,Open referentiedocument,reviewed,frappe
 Open Settings,Open instellingen,reviewed,frappe
 Open Source Applications for the Web,Open Source applicaties voor het web,reviewed,frappe
-Open To Do,Open om te doen,unreviewed,erpnext
-Open Translation,Open vertaling,unreviewed,frappe
-Open URL in a New Tab,Open URL in een nieuw tabblad,unreviewed,frappe
-Open Work Orders,Open werkorders,unreviewed,erpnext
-Open your authentication app on your mobile phone.,Open uw verificatieapparaat op uw mobiele telefoon.,unreviewed,frappe
-Opened,Geopend,unreviewed,frappe
-Opening (Cr),Opening ( Cr ),unreviewed,erpnext
-Opening (Dr),Opening ( Dr ),unreviewed,erpnext
-Opening Accounting Balance,Het openen van Accounting Balance,unreviewed,erpnext
-Opening Accumulated Depreciation,Het openen van de cumulatieve afschrijvingen,unreviewed,erpnext
-Opening Accumulated Depreciation must be less than equal to {0},Het openen van de cumulatieve afschrijvingen moet kleiner zijn dan gelijk aan {0},unreviewed,erpnext
-Opening Amount,Openingsbedrag,unreviewed,erpnext
-Opening and Closing,Openen en sluiten,unreviewed,erpnext
-Opening Balance,Beginsaldo,unreviewed,erpnext
-Opening Balance Details,Details beginsaldo,unreviewed,erpnext
-Opening Date,Openingsdatum,unreviewed,erpnext
-Opening Date and Closing Date should be within same Fiscal Year,Openingsdatum en de uiterste datum moet binnen dezelfde fiscale jaar,unreviewed,erpnext
-Opening Date should be before Closing Date,Openingsdatum moeten vóór Sluitingsdatum,unreviewed,erpnext
-Opening Entry Journal,Opening dagboek,unreviewed,erpnext
-Opening Invoice Creation In Progress,Aanmaak van factuur wordt geopend,unreviewed,erpnext
-Opening Invoice Creation Tool,Opening factuur creatie tool,unreviewed,erpnext
-Opening Invoice Creation Tool Item,Het item voor het creëren van facturen openen,unreviewed,erpnext
-Opening Invoice Item,Factuuritem openen,unreviewed,erpnext
-Opening Invoices,Facturen openen,unreviewed,erpnext
-Opening Invoices Summary,Factuuroverzicht openen,unreviewed,erpnext
-Opening Qty,Opening Aantal,unreviewed,erpnext
+Open To Do,Openstaande taak,reviewed,erpnext
+Open Translation,Open vertaling,reviewed,frappe
+Open URL in a New Tab,Open URL in een nieuw tabblad,reviewed,frappe
+Open Work Orders,Open werkorders,reviewed,erpnext
+Open your authentication app on your mobile phone.,Open uw verificatieapparaat op uw mobiele telefoon.,reviewed,frappe
+Opened,Geopend,reviewed,frappe
+Opening (Cr),Openingssaldo (Cr),reviewed,erpnext
+Opening (Dr),Openingssaldo (Dr),reviewed,erpnext
+Opening Accounting Balance,Openingssaldo boekhouding,reviewed,erpnext
+Opening Accumulated Depreciation,Openingswaarde cumulatieve afschrijvingen,reviewed,erpnext
+Opening Accumulated Depreciation must be less than equal to {0},Openingswaarde cumulatieve afschrijvingen moet kleiner dan of gelijk zijn aan {0},reviewed,erpnext
+Opening Amount,Openingsbedrag,reviewed,erpnext
+Opening and Closing,Openen en sluiten,reviewed,erpnext
+Opening Balance,Beginsaldo,reviewed,erpnext
+Opening Balance Details,Details beginsaldo,reviewed,erpnext
+Opening Date,Openingsdatum,reviewed,erpnext
+Opening Date and Closing Date should be within same Fiscal Year,Openingsdatum en de uiterste datum moet binnen dezelfde fiscale jaar,reviewed,erpnext
+Opening Date should be before Closing Date,Openingsdatum moeten vóór Sluitingsdatum,reviewed,erpnext
+Opening Entry Journal,Opening dagboek,reviewed,erpnext
+Opening Invoice Creation In Progress,Aanmaak van factuur wordt geopend,reviewed,erpnext
+Opening Invoice Creation Tool,Hulpmiddel openingsfacturen aanmaken,reviewed,erpnext
+Opening Invoice Creation Tool Item,Openingsfactuur aanmaken item,reviewed,erpnext
+Opening Invoice Item,Openingsfactuuritem,reviewed,erpnext
+Opening Invoices,Openingsfacturen,reviewed,erpnext
+Opening Invoices Summary,Overzicht openingsfacturen,reviewed,erpnext
+Opening Qty,Openingshoeveelheid,reviewed,erpnext
 Opening Stock,Beginvoorraad,reviewed,custom
-Opening Stock Balance,Het openen Stock Balance,unreviewed,erpnext
-Opening Time,Opening Tijd,unreviewed,erpnext
-Opening Value,opening Value,unreviewed,erpnext
-Opening {0} Invoice created,Opening {0} Factuur aangemaakt,unreviewed,erpnext
-Operating Cost,Operationele kosten,unreviewed,erpnext
-Operating Cost (Company Currency),Bedrijfskosten (Company Munt),unreviewed,erpnext
-Operating Cost as per Work Order / BOM,Bedrijfskosten per werkorder / stuklijst,unreviewed,erpnext
-Operating Cost(Company Currency),Bedrijfskosten (Company Munt),unreviewed,erpnext
-Operating Costs,Bedrijfskosten,unreviewed,erpnext
+Opening Stock Balance,Openingssaldo voorraad,reviewed,erpnext
+Opening Time,Begintijd,reviewed,erpnext
+Opening Value,Openingswaarde,reviewed,erpnext
+Opening {0} Invoice created,Openingsfactuur {0} aangemaakt,reviewed,erpnext
+Operating Cost,Operationele kosten,reviewed,erpnext
+Operating Cost (Company Currency),Bedrijfskosten (bedrijfsvaluta),reviewed,erpnext
+Operating Cost as per Work Order / BOM,Bedrijfskosten per werkorder / stuklijst,reviewed,erpnext
+Operating Cost(Company Currency),Bedrijfskosten (bedrijfsvaluta),reviewed,erpnext
+Operating Costs,Bedrijfskosten,reviewed,erpnext
 Operation,Bewerking,reviewed,both
-Operation completed for how many finished goods?,Operatie afgerond voor hoeveel eindproducten?,unreviewed,erpnext
-Operation Cost,Operatie Cost,unreviewed,erpnext
-Operation Description,Operatie Beschrijving,unreviewed,erpnext
-Operation ID,Bewerkings-ID,unreviewed,erpnext
-Operation Id,Operation ID,unreviewed,erpnext
-Operation Row Number,Bewerking rijnummer,unreviewed,erpnext
-Operation Time,Operatie Tijd,unreviewed,erpnext
-Operation Time must be greater than 0 for Operation {0},Operatie tijd moet groter zijn dan 0 voor de operatie zijn {0},unreviewed,erpnext
-Operation {0} added multiple times in the work order {1},Bewerking {0} meerdere keren toegevoegd aan de werkorder {1},unreviewed,erpnext
-Operation {0} does not belong to the work order {1},Bewerking {0} hoort niet bij de werkorder {1},unreviewed,erpnext
-"Operation {0} longer than any available working hours in workstation {1}, break down the operation into multiple operations","Operation {0} langer dan alle beschikbare werktijd in werkstation {1}, breken de operatie in meerdere operaties",unreviewed,erpnext
-Operations,Bewerkingen,unreviewed,erpnext
-Operations cannot be left blank,Operations kan niet leeg zijn,unreviewed,erpnext
-Operator must be one of {0},Operator moet een van {0} zijn,unreviewed,frappe
-Opp/Lead %,Opp / Lead%,unreviewed,erpnext
-Opportunities,Kansen,unreviewed,erpnext
-Opportunities by lead source,Kansen per leadbron,unreviewed,erpnext
-Opportunity Amount,Kansbedrag,unreviewed,erpnext
-Opportunity Date,Datum opportuniteit,unreviewed,erpnext
-Opportunity From,Opportuniteit Van,unreviewed,erpnext
-Opportunity Item,Opportuniteit artikel,unreviewed,erpnext
+Operation completed for how many finished goods?,Operatie afgerond voor hoeveel eindproducten?,reviewed,erpnext
+Operation Cost,Bewerkingskosten,reviewed,erpnext
+Operation Description,Bewerkingsomschrijving,reviewed,erpnext
+Operation ID,Bewerkings-ID,reviewed,erpnext
+Operation Id,Operation ID,reviewed,erpnext
+Operation Row Number,Bewerking rijnummer,reviewed,erpnext
+Operation Time,Bewerkingstijd,reviewed,erpnext
+Operation Time must be greater than 0 for Operation {0},Operatie tijd moet groter zijn dan 0 voor de operatie zijn {0},reviewed,erpnext
+Operation {0} added multiple times in the work order {1},Bewerking {0} meerdere keren toegevoegd aan de werkorder {1},reviewed,erpnext
+Operation {0} does not belong to the work order {1},Bewerking {0} hoort niet bij de werkorder {1},reviewed,erpnext
+"Operation {0} longer than any available working hours in workstation {1}, break down the operation into multiple operations","Operation {0} langer dan alle beschikbare werktijd in werkstation {1}, breken de operatie in meerdere operaties",reviewed,erpnext
+Operations,Bewerkingen,reviewed,erpnext
+Operations cannot be left blank,Operations kan niet leeg zijn,reviewed,erpnext
+Operator must be one of {0},Operator moet een van {0} zijn,reviewed,frappe
+Opp/Lead %,Opp / Lead%,reviewed,erpnext
+Opportunities,Kansen,reviewed,erpnext
+Opportunities by lead source,Kansen per leadbron,reviewed,erpnext
+Opportunity Amount,Kansbedrag,reviewed,erpnext
+Opportunity Date,Kansdatum,reviewed,erpnext
+Opportunity From,Kans van,reviewed,erpnext
+Opportunity Item,Kansartikel,reviewed,erpnext
 Opportunity Lost Reason,Reden verloren kans,reviewed,erpnext
-Opportunity Lost Reason Detail,Detail van gemiste kans,unreviewed,erpnext
+Opportunity Lost Reason Detail,Detail van gemiste kans,reviewed,erpnext
 Opportunity Type,Kanstype,reviewed,erpnext
-Opportunity {0} created,Mogelijkheid {0} gemaakt,unreviewed,erpnext
-Optimize Route,Route optimaliseren,unreviewed,erpnext
-Option,Keuze,unreviewed,erpnext
-Option 1,Optie 1,unreviewed,frappe
-Option 2,Optie 2,unreviewed,frappe
-Option 3,Optie 3,unreviewed,frappe
-Option {0} for field {1} is not a child table,Optie {0} voor veld {1} is geen onderliggende tabel,unreviewed,frappe
+Opportunity {0} created,Kans {0} aangemaakt,reviewed,erpnext
+Optimize Route,Route optimaliseren,reviewed,erpnext
+Option,Keuze,reviewed,erpnext
+Option 1,Optie 1,reviewed,frappe
+Option 2,Optie 2,reviewed,frappe
+Option 3,Optie 3,reviewed,frappe
+Option {0} for field {1} is not a child table,Optie {0} voor veld {1} is geen onderliggende tabel,reviewed,frappe
 Optional,Optioneel,reviewed,erpnext
-"Optional. Sets company's default currency, if not specified.","Optioneel. Stelt bedrijf prijslijst, indien niet opgegeven.",unreviewed,erpnext
-Optional. This setting will be used to filter in various transactions.,Optioneel. Deze instelling wordt gebruikt om te filteren op diverse transacties .,unreviewed,erpnext
-Optional: Always send to these ids. Each Email Address on a new row,Optioneel: Stuur altijd naar deze ids. Elke e-mail adres op een nieuwe rij,unreviewed,frappe
-Optional: The alert will be sent if this expression is true,Optioneel: De Alert zal worden verzonden als deze expressie waar is,unreviewed,frappe
-Options,Opties,unreviewed,both
-Options 'Dynamic Link' type of field must point to another Link Field with options as 'DocType',Opties 'Dynamic Link' type veld moet verwijzen naar een andere Linkeveld met opties als 'DocType',unreviewed,frappe
-Options for select. Each option on a new line.,Opties voor het selecteren. Elke optie op een nieuwe regel.,unreviewed,frappe
-Options for {0} must be set before setting the default value.,Opties voor {0} moeten worden ingesteld voordat u de standaardwaarde instelt.,unreviewed,frappe
-Options Help,Opties Help,unreviewed,frappe
-Options not set for link field {0},Opties niet ingesteld voor link veld {0},unreviewed,frappe
-or,of,unreviewed,both
-or attach a,of bevestig een,unreviewed,frappe
-or it is not the default inventory account,of het is niet de standaard voorraadrekening,unreviewed,erpnext
-Or login with,Of log in met,unreviewed,frappe
-Orange,Oranje,unreviewed,erpnext
-orange,oranje,unreviewed,frappe
-Order,Bestellen,unreviewed,frappe
-Order Admission,Bestel toelating,unreviewed,erpnext
-Order Amount,Orderbedrag,unreviewed,erpnext
-Order By,Bestel per,unreviewed,erpnext
-Order Confirmation Date,Bevestigingsdatum bestellen,unreviewed,erpnext
-Order Confirmation No,Orderbevestiging Nee,unreviewed,erpnext
-Order Discharge,Ontlading bestellen,unreviewed,erpnext
-Order Entry,Orderinvoer,unreviewed,erpnext
-"Order in which sections should appear. 0 is first, 1 is second and so on.","Volgorde waarin secties moeten verschijnen. 0 is eerste, 1 is tweede enzovoort.",unreviewed,erpnext
-Order Information,order informatie,unreviewed,erpnext
-Order Qty,Bestel aantal,unreviewed,erpnext
-Order rescheduled for sync,Bestelling opnieuw gepland voor synchronisatie,unreviewed,erpnext
-Order Value,Bestellingswaarde,unreviewed,erpnext
-Order/Quot %,Order / Quot%,unreviewed,erpnext
-Ordered,Besteld,unreviewed,erpnext
+"Optional. Sets company's default currency, if not specified.","Optioneel. Stelt bedrijf prijslijst, indien niet opgegeven.",reviewed,erpnext
+Optional. This setting will be used to filter in various transactions.,Optioneel. Deze instelling wordt gebruikt om te filteren op diverse transacties .,reviewed,erpnext
+Optional: Always send to these ids. Each Email Address on a new row,Optioneel: Stuur altijd naar deze ids. Elke e-mail adres op een nieuwe rij,reviewed,frappe
+Optional: The alert will be sent if this expression is true,Optioneel: De Alert zal worden verzonden als deze expressie waar is,reviewed,frappe
+Options,Opties,reviewed,both
+Options 'Dynamic Link' type of field must point to another Link Field with options as 'DocType',Opties 'Dynamic Link' type veld moet verwijzen naar een andere Linkeveld met opties als 'DocType',reviewed,frappe
+Options for select. Each option on a new line.,Opties voor het selecteren. Elke optie op een nieuwe regel.,reviewed,frappe
+Options for {0} must be set before setting the default value.,Opties voor {0} moeten worden ingesteld voordat u de standaardwaarde instelt.,reviewed,frappe
+Options Help,Opties Help,reviewed,frappe
+Options not set for link field {0},Opties niet ingesteld voor link veld {0},reviewed,frappe
+or,of,reviewed,both
+or attach a,of bevestig een,reviewed,frappe
+or it is not the default inventory account,of het is niet de standaard voorraadrekening,reviewed,erpnext
+Or login with,Of log in met,reviewed,frappe
+Orange,Oranje,reviewed,erpnext
+orange,oranje,reviewed,frappe
+Order,Bestellen,reviewed,frappe
+Order Admission,Orderopname,reviewed,erpnext
+Order Amount,Orderbedrag,reviewed,erpnext
+Order By,Sorteren op,reviewed,erpnext
+Order Confirmation Date,Bevestigingsdatum bestellen,reviewed,erpnext
+Order Confirmation No,Orderbevestigingsnr.,reviewed,erpnext
+Order Discharge,Orderontslag,reviewed,erpnext
+Order Entry,Orderinvoer,reviewed,erpnext
+"Order in which sections should appear. 0 is first, 1 is second and so on.","Volgorde waarin secties moeten verschijnen. 0 is eerste, 1 is tweede enzovoort.",reviewed,erpnext
+Order Information,Orderinformatie,reviewed,erpnext
+Order Qty,Bestelhoeveelheid,reviewed,erpnext
+Order rescheduled for sync,Bestelling opnieuw gepland voor synchronisatie,reviewed,erpnext
+Order Value,Bestellingswaarde,reviewed,erpnext
+Order/Quot %,Order / Quot%,reviewed,erpnext
+Ordered,Besteld,reviewed,erpnext
 Ordered Qty,Bestelde hoeveelheid,reviewed,erpnext
-"Ordered Qty: Quantity ordered for purchase, but not received.","Besteld Aantal: Hoeveelheid ingekocht , maar niet ontvangen.",unreviewed,erpnext
-Ordered Quantity,Bestelde hoeveelheid,unreviewed,erpnext
-Orders,bestellingen,unreviewed,erpnext
-Orders released for production.,Orders vrijgegeven voor productie.,unreviewed,erpnext
-Org History,org Geschiedenis,unreviewed,frappe
-Org History Heading,Org Geschiedenis rubriek,unreviewed,frappe
-Organism,Organisme,unreviewed,erpnext
-Organism Test Item,Organisme Testitem,unreviewed,erpnext
-Organism Test Result,Organisme Testresultaat,unreviewed,erpnext
-Organization,Organisatie,unreviewed,erpnext
-Organization Name,Naam van de Organisatie,unreviewed,erpnext
-Organizational Unit for Users,Organisatie-eenheid voor gebruikers,unreviewed,frappe
-Orientation,oriëntering,unreviewed,both
-Origin,Oorsprong,unreviewed,erpnext
-Original for Recipient,Origineel voor ontvanger,unreviewed,erpnext
-Original invoice should be consolidated before or along with the return invoice.,De originele factuur moet vóór of samen met de retourfactuur worden geconsolideerd.,unreviewed,erpnext
-Original Item,Origineel item,unreviewed,erpnext
-Original Value,Originele waarde,unreviewed,frappe
-Other,Ander,unreviewed,both
-Other Details,Andere details,unreviewed,erpnext
-Other details,Andere Details,unreviewed,erpnext
-"Other outward supplies(Nil rated,Exempted)","Andere uitgaande leveringen (nul, vrijgesteld)",unreviewed,erpnext
-Other Reports,Andere rapporten,unreviewed,erpnext
-Other Risk Factors,Andere risicofactoren,unreviewed,erpnext
-Other Settings,Andere instellingen,unreviewed,erpnext
-Other Territory,Ander territorium,unreviewed,frappe
-OTP Issuer Name,OTP Uitgeversnaam,unreviewed,frappe
-OTP secret can only be reset by the Administrator.,OTP-geheim kan alleen door de beheerder worden gereset.,unreviewed,frappe
-OTP Secret has been reset. Re-registration will be required on next login.,OTP Secret is opnieuw ingesteld. Herregistratie zal nodig zijn bij de volgende login.,unreviewed,frappe
-OTP setup using OTP App was not completed. Please contact Administrator.,OTP-instelling met OTP-app is niet voltooid. Neem contact op met de beheerder.,unreviewed,frappe
-out of,uit,unreviewed,erpnext
-Out of AMC,Uit AMC,unreviewed,erpnext
-Out of Stock,Niet op voorraad,unreviewed,erpnext
-Out of Warranty,Uit de garantie,unreviewed,erpnext
-out of {0},van {0},unreviewed,erpnext
-Out Patient Consulting Charge,Kosten voor advisering van de patiënt,unreviewed,erpnext
-Out Patient Consulting Charge Item,Out Patient Consulting Charge-item,unreviewed,erpnext
-Out Patient SMS alerts,Out Patient SMS-waarschuwingen,unreviewed,erpnext
-Out Qty,out Aantal,unreviewed,erpnext
-Out Value,out Value,unreviewed,erpnext
-Outgoing,uitgaande,unreviewed,erpnext
-Outgoing email account not correct,Uitgaande e-mailaccount niet correct,unreviewed,frappe
-Outgoing Rate,Uitgaande Rate,unreviewed,erpnext
-Output,uitgang,unreviewed,frappe
+"Ordered Qty: Quantity ordered for purchase, but not received.","Besteld Aantal: Hoeveelheid ingekocht , maar niet ontvangen.",reviewed,erpnext
+Ordered Quantity,Bestelde hoeveelheid,reviewed,erpnext
+Orders,bestellingen,reviewed,erpnext
+Orders released for production.,Orders vrijgegeven voor productie.,reviewed,erpnext
+Org History,org Geschiedenis,reviewed,frappe
+Org History Heading,Org Geschiedenis rubriek,reviewed,frappe
+Organism,Organisme,reviewed,erpnext
+Organism Test Item,Organisme Testitem,reviewed,erpnext
+Organism Test Result,Organisme Testresultaat,reviewed,erpnext
+Organization,Organisatie,reviewed,erpnext
+Organization Name,Naam van de Organisatie,reviewed,erpnext
+Organizational Unit for Users,Organisatie-eenheid voor gebruikers,reviewed,frappe
+Orientation,oriëntering,reviewed,both
+Origin,Oorsprong,reviewed,erpnext
+Original for Recipient,Origineel voor ontvanger,reviewed,erpnext
+Original invoice should be consolidated before or along with the return invoice.,De originele factuur moet vóór of samen met de retourfactuur worden geconsolideerd.,reviewed,erpnext
+Original Item,Origineel item,reviewed,erpnext
+Original Value,Originele waarde,reviewed,frappe
+Other,Ander,reviewed,both
+Other Details,Andere details,reviewed,erpnext
+Other details,Andere Details,reviewed,erpnext
+"Other outward supplies(Nil rated,Exempted)","Andere uitgaande leveringen (nul, vrijgesteld)",reviewed,erpnext
+Other Reports,Andere rapporten,reviewed,erpnext
+Other Risk Factors,Andere risicofactoren,reviewed,erpnext
+Other Settings,Andere instellingen,reviewed,erpnext
+Other Territory,Ander territorium,reviewed,frappe
+OTP Issuer Name,OTP Uitgeversnaam,reviewed,frappe
+OTP secret can only be reset by the Administrator.,OTP-geheim kan alleen door de beheerder worden gereset.,reviewed,frappe
+OTP Secret has been reset. Re-registration will be required on next login.,OTP Secret is opnieuw ingesteld. Herregistratie zal nodig zijn bij de volgende login.,reviewed,frappe
+OTP setup using OTP App was not completed. Please contact Administrator.,OTP-instelling met OTP-app is niet voltooid. Neem contact op met de beheerder.,reviewed,frappe
+out of,uit,reviewed,erpnext
+Out of AMC,Uit AMC,reviewed,erpnext
+Out of Stock,Niet op voorraad,reviewed,erpnext
+Out of Warranty,Uit de garantie,reviewed,erpnext
+out of {0},van {0},reviewed,erpnext
+Out Patient Consulting Charge,Kosten voor advisering van de patiënt,reviewed,erpnext
+Out Patient Consulting Charge Item,Out Patient Consulting Charge-item,reviewed,erpnext
+Out Patient SMS alerts,Out Patient SMS-waarschuwingen,reviewed,erpnext
+Out Qty,out Aantal,reviewed,erpnext
+Out Value,out Value,reviewed,erpnext
+Outgoing,uitgaande,reviewed,erpnext
+Outgoing email account not correct,Uitgaande e-mailaccount niet correct,reviewed,frappe
+Outgoing Rate,Uitgaande Rate,reviewed,erpnext
+Output,uitgang,reviewed,frappe
 Outstanding,Openstaand,reviewed,erpnext
-Outstanding Amount,Openstaand Bedrag,unreviewed,erpnext
-Outstanding Amt,Openstaande Amt,unreviewed,erpnext
-Outstanding Cheques and Deposits to clear,Uitstekende Cheques en Deposito&#39;s te ontruimen,unreviewed,erpnext
-Outstanding for {0} cannot be less than zero ({1}),Openstaand bedrag voor {0} mag niet kleiner zijn dan nul ({1}),unreviewed,erpnext
-Outward,naar buiten,unreviewed,erpnext
-"Outward taxable supplies(other than zero rated, nil rated and exempted)","Uitgaande belastbare prestaties (andere dan nultarief, nihil en vrijgesteld)",unreviewed,erpnext
-Outward taxable supplies(zero rated),Belastbare leveringen (nul),unreviewed,erpnext
-Over Billing Allowance (%),Overfactureringstoeslag (%),unreviewed,erpnext
-Over Delivery/Receipt Allowance (%),Overlevering / ontvangsttoeslag (%),unreviewed,erpnext
-Over Dimensional Cargo (ODC),Overdimensionale lading (ODC),unreviewed,erpnext
-Over Transfer Allowance (%),Overdrachtstoeslag (%),unreviewed,erpnext
+Outstanding Amount,Openstaand Bedrag,reviewed,erpnext
+Outstanding Amt,Openstaande Amt,reviewed,erpnext
+Outstanding Cheques and Deposits to clear,Uitstekende Cheques en Deposito&#39;s te ontruimen,reviewed,erpnext
+Outstanding for {0} cannot be less than zero ({1}),Openstaand bedrag voor {0} mag niet kleiner zijn dan nul ({1}),reviewed,erpnext
+Outward,naar buiten,reviewed,erpnext
+"Outward taxable supplies(other than zero rated, nil rated and exempted)","Uitgaande belastbare prestaties (andere dan nultarief, nihil en vrijgesteld)",reviewed,erpnext
+Outward taxable supplies(zero rated),Belastbare leveringen (nul),reviewed,erpnext
+Over Billing Allowance (%),Overfactureringstoeslag (%),reviewed,erpnext
+Over Delivery/Receipt Allowance (%),Overlevering / ontvangsttoeslag (%),reviewed,erpnext
+Over Dimensional Cargo (ODC),Overdimensionale lading (ODC),reviewed,erpnext
+Over Transfer Allowance (%),Overdrachtstoeslag (%),reviewed,erpnext
 Overdue,Achterstallig,reviewed,erpnext
-Overdue and Discounted,Achterstallig en afgeprijsd,unreviewed,erpnext
-Overdue Days,Achterstallige dagen,unreviewed,erpnext
-Overdue Interval,Achterstallig interval,unreviewed,erpnext
-Overlap in scoring between {0} and {1},Overlappen in scoren tussen {0} en {1},unreviewed,erpnext
-Overlapping conditions found between:,Overlappende voorwaarden gevonden tussen :,unreviewed,erpnext
-Overproduction for Sales and Work Order,Overproductie voor verkoop en werkorder,unreviewed,erpnext
-Overproduction Percentage For Sales Order,Overproductiepercentage voor klantorder,unreviewed,erpnext
-Overproduction Percentage For Work Order,Overproductiepercentage voor werkorder,unreviewed,erpnext
-Overseas,Overzee,unreviewed,erpnext
+Overdue and Discounted,Achterstallig en afgeprijsd,reviewed,erpnext
+Overdue Days,Achterstallige dagen,reviewed,erpnext
+Overdue Interval,Achterstallig interval,reviewed,erpnext
+Overlap in scoring between {0} and {1},Overlappen in scoren tussen {0} en {1},reviewed,erpnext
+Overlapping conditions found between:,Overlappende voorwaarden gevonden tussen :,reviewed,erpnext
+Overproduction for Sales and Work Order,Overproductie voor verkoop en werkorder,reviewed,erpnext
+Overproduction Percentage For Sales Order,Overproductiepercentage voor klantorder,reviewed,erpnext
+Overproduction Percentage For Work Order,Overproductiepercentage voor werkorder,reviewed,erpnext
+Overseas,Overzee,reviewed,erpnext
 Overtime Slip,Overwerkbon,reviewed,custom
 Overtime Type,Overwerktype,reviewed,custom
-Overwrite,Overschrijven,unreviewed,frappe
-Owned,Eigendom,unreviewed,erpnext
-Owner,eigenaar,unreviewed,both
-Package Document Type,Type pakketdocument,unreviewed,frappe
-Package Publish Target,Pakket publiceren doel,unreviewed,frappe
-Package Publish Tool,Hulpprogramma voor het publiceren van pakketten,unreviewed,frappe
-Package Weight Details,Pakket gewicht details,unreviewed,erpnext
-Packed Item,Levering Opmerking Verpakking Item,unreviewed,erpnext
-Packed Items,Verpakt Items,unreviewed,erpnext
-Packed quantity must equal quantity for Item {0} in row {1},Verpakt hoeveelheid moet hoeveelheid die gelijk is voor post {0} in rij {1},unreviewed,erpnext
-Packing List,Paklijst,unreviewed,erpnext
+Overwrite,Overschrijven,reviewed,frappe
+Owned,Eigendom,reviewed,erpnext
+Owner,eigenaar,reviewed,both
+Package Document Type,Type pakketdocument,reviewed,frappe
+Package Publish Target,Pakket publiceren doel,reviewed,frappe
+Package Publish Tool,Hulpprogramma voor het publiceren van pakketten,reviewed,frappe
+Package Weight Details,Pakket gewicht details,reviewed,erpnext
+Packed Item,Levering Opmerking Verpakking Item,reviewed,erpnext
+Packed Items,Verpakt Items,reviewed,erpnext
+Packed quantity must equal quantity for Item {0} in row {1},Verpakt hoeveelheid moet hoeveelheid die gelijk is voor post {0} in rij {1},reviewed,erpnext
+Packing List,Paklijst,reviewed,erpnext
 Packing Slip,Paklijst,reviewed,erpnext
-Packing Slip Item,Pakbon Artikel,unreviewed,erpnext
-Packing Slip(s) cancelled,Pakbon(nen) geannuleerd,unreviewed,erpnext
-Packing Unit,Verpakkingseenheid,unreviewed,erpnext
+Packing Slip Item,Pakbon Artikel,reviewed,erpnext
+Packing Slip(s) cancelled,Pakbon(nen) geannuleerd,reviewed,erpnext
+Packing Unit,Verpakkingseenheid,reviewed,erpnext
 Page,Pagina,reviewed,frappe
-page,Pagina,unreviewed,frappe
-Page Break,Pagina-einde,unreviewed,erpnext
-Page Building Blocks,Pagina-bouwstenen,unreviewed,frappe
-Page has expired!,Pagina is verlopen!,unreviewed,frappe
-Page HTML,Pagina HTML,unreviewed,frappe
-Page Length,Paginalengte,unreviewed,frappe
-Page Missing or Moved,Pagina ontbreekt of verplaatst,unreviewed,frappe
-Page not found,Pagina niet gevonden,unreviewed,frappe
-Page Settings,Pagina instellingen,unreviewed,frappe
-Page Shortcuts,Paginasnelkoppelingen,unreviewed,frappe
-Page to show on the website\n,Pagina om te laten zien op de website,unreviewed,frappe
-Page {0} of {1},Pagina {0} van {1},unreviewed,both
-Pages in Desk (place holders),Pagina&#39;s in Bureau (houders plaats),unreviewed,frappe
+page,Pagina,reviewed,frappe
+Page Break,Pagina-einde,reviewed,erpnext
+Page Building Blocks,Pagina-bouwstenen,reviewed,frappe
+Page has expired!,Pagina is verlopen!,reviewed,frappe
+Page HTML,Pagina HTML,reviewed,frappe
+Page Length,Paginalengte,reviewed,frappe
+Page Missing or Moved,Pagina ontbreekt of verplaatst,reviewed,frappe
+Page not found,Pagina niet gevonden,reviewed,frappe
+Page Settings,Pagina instellingen,reviewed,frappe
+Page Shortcuts,Paginasnelkoppelingen,reviewed,frappe
+Page to show on the website\n,Pagina om te laten zien op de website,reviewed,frappe
+Page {0} of {1},Pagina {0} van {1},reviewed,both
+Pages in Desk (place holders),Pagina&#39;s in Bureau (houders plaats),reviewed,frappe
 Paid,Betaald,reviewed,erpnext
-Paid Amount,Betaald bedrag,unreviewed,erpnext
-Paid Amount (Company Currency),Betaald bedrag (Bedrijfsvaluta),unreviewed,erpnext
-Paid amount + Write Off Amount can not be greater than Grand Total,Betaald bedrag + Afgeschreven bedrag kan niet groter zijn dan Eindtotaal,unreviewed,erpnext
-Paid Amount cannot be greater than total negative outstanding amount {0},Betaalde bedrag kan niet groter zijn dan de totale negatieve openstaande bedrag {0},unreviewed,erpnext
-Paid amount cannot be less than {0},Betaald bedrag kan niet lager zijn dan {0},unreviewed,erpnext
-Paid and Not Delivered,Betaald en niet geleverd,unreviewed,erpnext
-Paid Loan,Betaalde lening,unreviewed,erpnext
-PAN Details,PAN-gegevens,unreviewed,erpnext
+Paid Amount,Betaald bedrag,reviewed,erpnext
+Paid Amount (Company Currency),Betaald bedrag (Bedrijfsvaluta),reviewed,erpnext
+Paid amount + Write Off Amount can not be greater than Grand Total,Betaald bedrag + Afgeschreven bedrag kan niet groter zijn dan Eindtotaal,reviewed,erpnext
+Paid Amount cannot be greater than total negative outstanding amount {0},Betaalde bedrag kan niet groter zijn dan de totale negatieve openstaande bedrag {0},reviewed,erpnext
+Paid amount cannot be less than {0},Betaald bedrag kan niet lager zijn dan {0},reviewed,erpnext
+Paid and Not Delivered,Betaald en niet geleverd,reviewed,erpnext
+Paid Loan,Betaalde lening,reviewed,erpnext
+PAN Details,PAN-gegevens,reviewed,erpnext
 PAN No,PAN nr,unreviewed,erpnext
 Parameter Name,Parameter Naam,unreviewed,erpnext
 Parameters,parameters,unreviewed,erpnext

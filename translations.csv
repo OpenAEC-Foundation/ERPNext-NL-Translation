@@ -8344,208 +8344,208 @@ Registration Message,Registratie Bericht,reviewed,erpnext
 Regular,regelmatig,reviewed,erpnext
 Regular Payment,Reguliere betaling,reviewed,erpnext
 Rehabilitation,Rehabilitatie,reviewed,erpnext
-Reject,afwijzen,unreviewed,erpnext
-Rejected,Afgewezen,unreviewed,both
-Rejected Qty,afgewezen Aantal,unreviewed,erpnext
-Rejected Quantity,Afgewezen Aantal,unreviewed,erpnext
-Rejected Serial No,Afgewezen Serienummer,unreviewed,erpnext
-Rejected Warehouse,Afgewezen Magazijn,unreviewed,erpnext
-Relapsed,Recidiverend,unreviewed,frappe
-Relapses,Recidieven,unreviewed,frappe
-Related,Verwant,unreviewed,erpnext
-Relation,Relatie,unreviewed,erpnext
-Relation with Guardian1,Relatie met Guardian1,unreviewed,erpnext
-Relation with Guardian2,Relatie met Guardian2,unreviewed,erpnext
-Release Date,Datum van publicatie,unreviewed,erpnext
-Release date must be in the future,Releasedatum moet in de toekomst liggen,unreviewed,erpnext
-Relieving Date,Ontslagdatum,unreviewed,erpnext
-Relieving Date must be greater than or equal to Date of Joining,Ontlastingsdatum moet groter zijn dan of gelijk zijn aan de datum van toetreding,unreviewed,erpnext
-Relink,Opnieuw koppelen,unreviewed,frappe
-Relink Communication,Relink Communicatie,unreviewed,frappe
-Reload,Herladen,unreviewed,frappe
-Reload File,Bestand opnieuw laden,unreviewed,frappe
-Remaining,resterende,unreviewed,erpnext
-Remaining Balance,Resterende saldo,unreviewed,erpnext
-Remark,Opmerking,unreviewed,erpnext
+Reject,afwijzen,reviewed,erpnext
+Rejected,Afgewezen,reviewed,both
+Rejected Qty,Afgewezen hoeveelheid,reviewed,erpnext
+Rejected Quantity,Afgewezen hoeveelheid,reviewed,erpnext
+Rejected Serial No,Afgewezen Serienummer,reviewed,erpnext
+Rejected Warehouse,Afgewezen Magazijn,reviewed,erpnext
+Relapsed,Recidiverend,reviewed,frappe
+Relapses,Recidieven,reviewed,frappe
+Related,Verwant,reviewed,erpnext
+Relation,Relatie,reviewed,erpnext
+Relation with Guardian1,Relatie met Guardian1,reviewed,erpnext
+Relation with Guardian2,Relatie met Guardian2,reviewed,erpnext
+Release Date,Datum van publicatie,reviewed,erpnext
+Release date must be in the future,Releasedatum moet in de toekomst liggen,reviewed,erpnext
+Relieving Date,Ontslagdatum,reviewed,erpnext
+Relieving Date must be greater than or equal to Date of Joining,Ontheffingsdatum moet groter dan of gelijk zijn aan datum indiensttreding,reviewed,erpnext
+Relink,Opnieuw koppelen,reviewed,frappe
+Relink Communication,Communicatie opnieuw koppelen,reviewed,frappe
+Reload,Herladen,reviewed,frappe
+Reload File,Bestand opnieuw laden,reviewed,frappe
+Remaining,resterende,reviewed,erpnext
+Remaining Balance,Resterende saldo,reviewed,erpnext
+Remark,Opmerking,reviewed,erpnext
 Remarks,Opmerkingen,reviewed,erpnext
-Remember Last Selected Value,Vergeet Laatst geselecteerde Value,unreviewed,frappe
-Remember to set {field_label}. It is required by {regulation}.,Vergeet niet om {field_label} in te stellen. Het is vereist door {regelgeving}.,unreviewed,erpnext
-Reminder Message,Herinnering Bericht,unreviewed,erpnext
-Reminder to update GSTIN Sent,Herinnering om GSTIN verzonden te updaten,unreviewed,erpnext
-Remote,afgelegen,unreviewed,frappe
-Remote Document Type,Extern documenttype,unreviewed,frappe
-Remote Objectname,Objectnaam op afstand,unreviewed,frappe
-Remote Primary Key,Primaire sleutel op afstand,unreviewed,frappe
-Remote Value Filters,Filters voor externe waarden,unreviewed,frappe
-Remove,Verwijderen,unreviewed,frappe
-remove,verwijderen,unreviewed,frappe
-Remove all customizations?,Verwijder alle aanpassingen?,unreviewed,frappe
-Remove Field,Veld verwijderen,unreviewed,frappe
-Remove Filter,Verwijder filter,unreviewed,frappe
-Remove item if charges is not applicable to that item,Artikel verwijderen als de kosten niet van toepassing zijn op dat artikel,unreviewed,erpnext
-Remove Section,Verwijder Sectie,unreviewed,frappe
-Remove Tag,Tag verwijderen,unreviewed,frappe
-remove-circle,remove-cirkel,unreviewed,frappe
-remove-sign,remove-teken,unreviewed,frappe
-removed,verwijderd,unreviewed,frappe
-Removed items with no change in quantity or value.,Verwijderde items met geen verandering in de hoeveelheid of waarde.,unreviewed,erpnext
-Removed {0},Verwijderd {0},unreviewed,frappe
-Rename,Hernoemen,unreviewed,both
-Rename Attribute Value in Item Attribute.,Kenmerkwaarde in itemkenmerk wijzigen.,unreviewed,erpnext
-Rename Log,Hernoemen Log,unreviewed,erpnext
-Rename many items by uploading a .csv file.,Hernoemen van veel onderdelen door het uploaden van een .csv-bestand.,unreviewed,frappe
-Rename Not Allowed,Naam wijzigen niet toegestaan,unreviewed,erpnext
-Rename Tool,Hernoem Tool,unreviewed,erpnext
-Rename {0},Hernoemen {0},unreviewed,frappe
-"Renamed files and replaced code in controllers, please check!","Hernoemde bestanden en vervangen code in controllers, controleer dit!",unreviewed,frappe
-renamed from {0} to {1},hernoemd van {0} tot {1},unreviewed,frappe
+Remember Last Selected Value,Onthoud laatst geselecteerde waarde,reviewed,frappe
+Remember to set {field_label}. It is required by {regulation}.,Vergeet niet om {field_label} in te stellen. Het is vereist door {regelgeving}.,reviewed,erpnext
+Reminder Message,Herinneringsbericht,reviewed,erpnext
+Reminder to update GSTIN Sent,Herinnering om GSTIN verzonden te updaten,reviewed,erpnext
+Remote,Extern,reviewed,frappe
+Remote Document Type,Extern documenttype,reviewed,frappe
+Remote Objectname,Externe objectnaam,reviewed,frappe
+Remote Primary Key,Externe primaire sleutel,reviewed,frappe
+Remote Value Filters,Filters voor externe waarden,reviewed,frappe
+Remove,Verwijderen,reviewed,frappe
+remove,verwijderen,reviewed,frappe
+Remove all customizations?,Verwijder alle aanpassingen?,reviewed,frappe
+Remove Field,Veld verwijderen,reviewed,frappe
+Remove Filter,Verwijder filter,reviewed,frappe
+Remove item if charges is not applicable to that item,Artikel verwijderen als de kosten niet van toepassing zijn op dat artikel,reviewed,erpnext
+Remove Section,Verwijder Sectie,reviewed,frappe
+Remove Tag,Tag verwijderen,reviewed,frappe
+remove-circle,remove-cirkel,reviewed,frappe
+remove-sign,remove-teken,reviewed,frappe
+removed,verwijderd,reviewed,frappe
+Removed items with no change in quantity or value.,Verwijderde items met geen verandering in de hoeveelheid of waarde.,reviewed,erpnext
+Removed {0},Verwijderd {0},reviewed,frappe
+Rename,Hernoemen,reviewed,both
+Rename Attribute Value in Item Attribute.,Kenmerkwaarde in itemkenmerk wijzigen.,reviewed,erpnext
+Rename Log,Hernoemingslog,reviewed,erpnext
+Rename many items by uploading a .csv file.,Hernoemen van veel onderdelen door het uploaden van een .csv-bestand.,reviewed,frappe
+Rename Not Allowed,Naam wijzigen niet toegestaan,reviewed,erpnext
+Rename Tool,Hernoem Tool,reviewed,erpnext
+Rename {0},Hernoemen {0},reviewed,frappe
+"Renamed files and replaced code in controllers, please check!","Hernoemde bestanden en vervangen code in controllers, controleer dit!",reviewed,frappe
+renamed from {0} to {1},hernoemd van {0} tot {1},reviewed,frappe
 Renaming,Hernoemen,reviewed,custom
-"Renaming it is only allowed via parent company {0}, to avoid mismatch.","Hernoemen is alleen toegestaan via moederbedrijf {0}, om mismatch te voorkomen.",unreviewed,erpnext
-Rent Cost,Huurkosten,unreviewed,erpnext
-Rented,Verhuurd,unreviewed,erpnext
-Reopen,heropenen,unreviewed,both
-Reorder Level,Bestelniveau,unreviewed,erpnext
-Reorder level based on Warehouse,Bestelniveau gebaseerd op Warehouse,unreviewed,erpnext
-Reorder Qty,Bestelaantal,unreviewed,erpnext
-Repack,Herverpakken,unreviewed,erpnext
-Repair Cost,reparatiekosten,unreviewed,erpnext
-Repair Status,Reparatiestatus,unreviewed,erpnext
-Repay From Salary,Terugbetalen van Loon,unreviewed,erpnext
-Repay unclaimed amount from salary,Betaal niet-opgeëiste bedrag terug van salaris,unreviewed,erpnext
-Repeat,herhalen,unreviewed,frappe
-repeat,herhaling,unreviewed,frappe
-Repeat Customer Revenue,Terugkerende klanten Opbrengsten,unreviewed,erpnext
-Repeat Customers,Terugkerende klanten,unreviewed,erpnext
-Repeat Header and Footer in PDF,Herhaal kop- en voetteksten in PDF,unreviewed,frappe
-Repeat On,Herhaal op,unreviewed,frappe
-Repeat on Day,Herhaal op dag,unreviewed,frappe
-Repeat on Last Day of the Month,Herhaal dit op de laatste dag van de maand,unreviewed,frappe
-Repeat this Event,Herhaal dit evenement,unreviewed,frappe
-Repeat Till,Herhaal tot,unreviewed,frappe
-"Repeats like ""aaa"" are easy to guess",Herhalingen als &quot;aaa&quot; zijn makkelijk te raden,unreviewed,frappe
-"Repeats like ""abcabcabc"" are only slightly harder to guess than ""abc""",Herhalingen zoals &quot;abcabcabc&quot; zijn slechts iets moeilijker te raden dan &quot;abc&quot;,unreviewed,frappe
-Repeats {0},Herhaalt {0},unreviewed,frappe
-Replace,Vervang,unreviewed,erpnext
-"Replace a particular BOM in all other BOMs where it is used. It will replace the old BOM link, update cost and regenerate ""BOM Explosion Item"" table as per new BOM.\nIt also updates latest price in all the BOMs.","Vervang een bepaalde BOM in alle andere BOM&#39;s waar het wordt gebruikt. Het zal de oude BOM link vervangen, update kosten en regenereren &quot;BOM Explosion Item&quot; tabel zoals per nieuwe BOM. Ook wordt de laatste prijs bijgewerkt in alle BOM&#39;s.",unreviewed,erpnext
-Replace BOM,Vervang BOM,unreviewed,erpnext
-Replace BOM and update latest price in all BOMs,Vervang BOM en update de laatste prijs in alle BOM&#39;s,unreviewed,erpnext
-Replied,Beantwoord,unreviewed,both
-Reply,Antwoorden,unreviewed,frappe
-Reply All,Allen beantwoorden,unreviewed,frappe
-Report,Rapport,unreviewed,both
-Report Builder,Rapport Bouwer,unreviewed,frappe
-Report cannot be set for Single types,Rapport kan niet worden ingesteld voor Single types,unreviewed,frappe
-Report Column,Rapportkolom,unreviewed,frappe
-Report Date,Rapport datum,unreviewed,erpnext
-Report Description,Rapportbeschrijving,unreviewed,frappe
-Report Document Error,Rapporteer documentfout,unreviewed,frappe
-Report End Time,Eindtijd melden,unreviewed,frappe
-Report Filter,Rapportfilter,unreviewed,frappe
-Report Filters,rapport Filters,unreviewed,frappe
-"Report has no data, please modify the filters or change the Report Name",Rapport bevat geen gegevens. Wijzig de filters of wijzig de rapportnaam,unreviewed,frappe
-"Report has no numeric fields, please change the Report Name",Rapport heeft geen numerieke velden. Wijzig de rapportnaam,unreviewed,frappe
-Report Hide,Rapport Verbergen,unreviewed,frappe
-Report Information,Informatie melden,unreviewed,frappe
-Report Item,Meld item,unreviewed,erpnext
-Report Name,Rapportnaam,unreviewed,frappe
-Report of all document shares,Verslag van alle documenten aandelen,unreviewed,frappe
-Report Preference,Rapportvoorkeur,unreviewed,erpnext
-Report Reference Doctype,Rapportreferentie Doctype,unreviewed,frappe
-Report Settings,Rapportinstellingen,unreviewed,erpnext
-Report Start Time,Starttijd melden,unreviewed,frappe
-Report this Item,Meld dit item,unreviewed,erpnext
-Report Type,Rapport Type,unreviewed,both
-Report Type is mandatory,Rapport type is verplicht,unreviewed,erpnext
-Report updated successfully,Rapport succesvol bijgewerkt,unreviewed,frappe
+"Renaming it is only allowed via parent company {0}, to avoid mismatch.","Hernoemen is alleen toegestaan via moederbedrijf {0}, om mismatch te voorkomen.",reviewed,erpnext
+Rent Cost,Huurkosten,reviewed,erpnext
+Rented,Verhuurd,reviewed,erpnext
+Reopen,heropenen,reviewed,both
+Reorder Level,Bestelniveau,reviewed,erpnext
+Reorder level based on Warehouse,Herbestelniveau op basis van magazijn,reviewed,erpnext
+Reorder Qty,Bestelaantal,reviewed,erpnext
+Repack,Herverpakken,reviewed,erpnext
+Repair Cost,reparatiekosten,reviewed,erpnext
+Repair Status,Reparatiestatus,reviewed,erpnext
+Repay From Salary,Terugbetalen van Loon,reviewed,erpnext
+Repay unclaimed amount from salary,Betaal niet-opgeëiste bedrag terug van salaris,reviewed,erpnext
+Repeat,herhalen,reviewed,frappe
+repeat,herhaling,reviewed,frappe
+Repeat Customer Revenue,Terugkerende klanten Opbrengsten,reviewed,erpnext
+Repeat Customers,Terugkerende klanten,reviewed,erpnext
+Repeat Header and Footer in PDF,Herhaal kop- en voetteksten in PDF,reviewed,frappe
+Repeat On,Herhaal op,reviewed,frappe
+Repeat on Day,Herhaal op dag,reviewed,frappe
+Repeat on Last Day of the Month,Herhaal dit op de laatste dag van de maand,reviewed,frappe
+Repeat this Event,Herhaal deze gebeurtenis,reviewed,frappe
+Repeat Till,Herhaal tot,reviewed,frappe
+"Repeats like ""aaa"" are easy to guess",Herhalingen als &quot;aaa&quot; zijn makkelijk te raden,reviewed,frappe
+"Repeats like ""abcabcabc"" are only slightly harder to guess than ""abc""",Herhalingen zoals &quot;abcabcabc&quot; zijn slechts iets moeilijker te raden dan &quot;abc&quot;,reviewed,frappe
+Repeats {0},Herhaalt {0},reviewed,frappe
+Replace,Vervang,reviewed,erpnext
+"Replace a particular BOM in all other BOMs where it is used. It will replace the old BOM link, update cost and regenerate ""BOM Explosion Item"" table as per new BOM.\nIt also updates latest price in all the BOMs.","Vervang een bepaalde BOM in alle andere BOM&#39;s waar het wordt gebruikt. Het zal de oude BOM link vervangen, update kosten en regenereren &quot;BOM Explosion Item&quot; tabel zoals per nieuwe BOM. Ook wordt de laatste prijs bijgewerkt in alle BOM&#39;s.",reviewed,erpnext
+Replace BOM,Vervang BOM,reviewed,erpnext
+Replace BOM and update latest price in all BOMs,Vervang BOM en update de laatste prijs in alle BOM&#39;s,reviewed,erpnext
+Replied,Beantwoord,reviewed,both
+Reply,Antwoorden,reviewed,frappe
+Reply All,Allen beantwoorden,reviewed,frappe
+Report,Rapport,reviewed,both
+Report Builder,Rapportbouwer,reviewed,frappe
+Report cannot be set for Single types,Rapport kan niet worden ingesteld voor Single types,reviewed,frappe
+Report Column,Rapportkolom,reviewed,frappe
+Report Date,Rapportdatum,reviewed,erpnext
+Report Description,Rapportbeschrijving,reviewed,frappe
+Report Document Error,Rapporteer documentfout,reviewed,frappe
+Report End Time,Eindtijd melden,reviewed,frappe
+Report Filter,Rapportfilter,reviewed,frappe
+Report Filters,Rapportfilters,reviewed,frappe
+"Report has no data, please modify the filters or change the Report Name",Rapport bevat geen gegevens. Wijzig de filters of wijzig de rapportnaam,reviewed,frappe
+"Report has no numeric fields, please change the Report Name",Rapport heeft geen numerieke velden. Wijzig de rapportnaam,reviewed,frappe
+Report Hide,Rapport Verbergen,reviewed,frappe
+Report Information,Informatie melden,reviewed,frappe
+Report Item,Meld item,reviewed,erpnext
+Report Name,Rapportnaam,reviewed,frappe
+Report of all document shares,Verslag van alle documenten aandelen,reviewed,frappe
+Report Preference,Rapportvoorkeur,reviewed,erpnext
+Report Reference Doctype,Rapportreferentie Doctype,reviewed,frappe
+Report Settings,Rapportinstellingen,reviewed,erpnext
+Report Start Time,Starttijd melden,reviewed,frappe
+Report this Item,Meld dit item,reviewed,erpnext
+Report Type,Rapport Type,reviewed,both
+Report Type is mandatory,Rapport type is verplicht,reviewed,erpnext
+Report updated successfully,Rapport succesvol bijgewerkt,reviewed,frappe
 Report View,Rapportweergave,reviewed,custom
-Report was not saved (there were errors),Rapport is niet opgeslagen (er waren fouten),unreviewed,frappe
-Report with more than 10 columns looks better in Landscape mode.,Rapport met meer dan 10 kolommen ziet er beter uit in de liggende modus.,unreviewed,frappe
-Report {0} is disabled,Rapport {0} is uitgeschakeld,unreviewed,frappe
-Report:,Verslag doen van:,unreviewed,frappe
-Reports,rapporten,unreviewed,both
-Reports & Masters,Rapporten en masters,unreviewed,frappe
-Reports already in Queue,Rapporteert al in wachtrij,unreviewed,frappe
-Reports to,Rapporteert aan,unreviewed,erpnext
+Report was not saved (there were errors),Rapport is niet opgeslagen (er waren fouten),reviewed,frappe
+Report with more than 10 columns looks better in Landscape mode.,Rapport met meer dan 10 kolommen ziet er beter uit in de liggende modus.,reviewed,frappe
+Report {0} is disabled,Rapport {0} is uitgeschakeld,reviewed,frappe
+Report:,Verslag doen van:,reviewed,frappe
+Reports,rapporten,reviewed,both
+Reports & Masters,Rapporten en masters,reviewed,frappe
+Reports already in Queue,Rapporteert al in wachtrij,reviewed,frappe
+Reports to,Rapporteert aan,reviewed,erpnext
 Repost Accounting Ledger,Grootboek herboeken,reviewed,custom
 Repost Item Valuation,Artikelwaardering herboeken,reviewed,custom
 Repost Payment Ledger,Betalingsgrootboek herboeken,reviewed,custom
-Represents a User in the system.,Vertegenwoordigt een gebruiker in het systeem.,unreviewed,frappe
-Represents Company,Vertegenwoordigt bedrijf,unreviewed,erpnext
-Represents the states allowed in one document and role assigned to change the state.,Vertegenwoordigt de staten toegestaan in één document en de rol toegewezen aan de staat te veranderen.,unreviewed,frappe
-Reqd By Date,Benodigd op datum,unreviewed,erpnext
-Reqd by date,Op datum vereist,unreviewed,erpnext
-Reqd Qty,Gewenste hoeveelheid,unreviewed,erpnext
-Request Body consists of an invalid JSON structure,Request Body bestaat uit een ongeldige JSON-structuur,unreviewed,frappe
-Request Data,Verzoek om gegevens,unreviewed,frappe
-Request for,Verzoek tot,unreviewed,erpnext
-Request for Information,Informatieaanvraag,unreviewed,erpnext
-Request for purchase.,Inkoopaanvraag,unreviewed,erpnext
-Request For Quotation,Offerte aanvragen,unreviewed,erpnext
-Request for Quotation,Offerte-verzoek,unreviewed,erpnext
-Request for Quotation Item,Offerte Item,unreviewed,erpnext
-Request for Quotation Supplier,Offerte Supplier,unreviewed,erpnext
-Request for quotation.,Aanvraag voor een offerte.,unreviewed,erpnext
-Request for Quotations,Verzoek om offertes,unreviewed,erpnext
-Request for Raw Materials,Verzoek om grondstoffen,unreviewed,erpnext
-Request Structure,Verzoekstructuur,unreviewed,frappe
-Request Timed Out,Time-out,unreviewed,frappe
-Request Type,Aanvraag type,unreviewed,erpnext
-Request URL,URL aanvragen,unreviewed,frappe
-Requested,Aangevraagd,unreviewed,erpnext
-Requested Amount,Gevraagde bedrag,unreviewed,erpnext
-Requested Items To Be Transferred,Aangevraagde Artikelen te Verplaatsen,unreviewed,erpnext
-Requested Items to Order and Receive,Gevraagde artikelen om te bestellen en te ontvangen,unreviewed,erpnext
-Requested Numbers,Gevraagde Numbers,unreviewed,erpnext
-Requested Qty,Aangevraagde Hoeveelheid,unreviewed,erpnext
-"Requested Qty: Quantity requested for purchase, but not ordered.","Aangevraagd Hoeveelheid: Aantal gevraagd om in te kopen, maar nog niet besteld.",unreviewed,erpnext
-Requested Quantity,gevraagde hoeveelheid,unreviewed,erpnext
-Requesting Department,Verzoekende afdeling,unreviewed,erpnext
-Requesting payment against {0} {1} for amount {2},Betalingsverzoeken tegen {0} {1} van {2} bedrag,unreviewed,erpnext
-Requesting Practitioner,Verzoekende behandelaar,unreviewed,erpnext
-Requesting Site,Verzoekende site,unreviewed,erpnext
-Requestor,aanvrager,unreviewed,erpnext
-Require Result Value,Vereiste resultaatwaarde,unreviewed,erpnext
-Require Trusted Certificate,Vereist vertrouwd certificaat,unreviewed,frappe
+Represents a User in the system.,Vertegenwoordigt een gebruiker in het systeem.,reviewed,frappe
+Represents Company,Vertegenwoordigt bedrijf,reviewed,erpnext
+Represents the states allowed in one document and role assigned to change the state.,Vertegenwoordigt de staten toegestaan in één document en de rol toegewezen aan de staat te veranderen.,reviewed,frappe
+Reqd By Date,Benodigd op datum,reviewed,erpnext
+Reqd by date,Op datum vereist,reviewed,erpnext
+Reqd Qty,Gewenste hoeveelheid,reviewed,erpnext
+Request Body consists of an invalid JSON structure,Request Body bestaat uit een ongeldige JSON-structuur,reviewed,frappe
+Request Data,Verzoek om gegevens,reviewed,frappe
+Request for,Verzoek tot,reviewed,erpnext
+Request for Information,Informatieaanvraag,reviewed,erpnext
+Request for purchase.,Inkoopaanvraag,reviewed,erpnext
+Request For Quotation,Offerte aanvragen,reviewed,erpnext
+Request for Quotation,Offerte-verzoek,reviewed,erpnext
+Request for Quotation Item,Offerte Item,reviewed,erpnext
+Request for Quotation Supplier,Offerte Supplier,reviewed,erpnext
+Request for quotation.,Aanvraag voor een offerte.,reviewed,erpnext
+Request for Quotations,Verzoek om offertes,reviewed,erpnext
+Request for Raw Materials,Verzoek om grondstoffen,reviewed,erpnext
+Request Structure,Verzoekstructuur,reviewed,frappe
+Request Timed Out,Time-out,reviewed,frappe
+Request Type,Aanvraag type,reviewed,erpnext
+Request URL,URL aanvragen,reviewed,frappe
+Requested,Aangevraagd,reviewed,erpnext
+Requested Amount,Gevraagde bedrag,reviewed,erpnext
+Requested Items To Be Transferred,Aangevraagde Artikelen te Verplaatsen,reviewed,erpnext
+Requested Items to Order and Receive,Gevraagde artikelen om te bestellen en te ontvangen,reviewed,erpnext
+Requested Numbers,Gevraagde Numbers,reviewed,erpnext
+Requested Qty,Aangevraagde Hoeveelheid,reviewed,erpnext
+"Requested Qty: Quantity requested for purchase, but not ordered.","Aangevraagd Hoeveelheid: Aantal gevraagd om in te kopen, maar nog niet besteld.",reviewed,erpnext
+Requested Quantity,gevraagde hoeveelheid,reviewed,erpnext
+Requesting Department,Verzoekende afdeling,reviewed,erpnext
+Requesting payment against {0} {1} for amount {2},Betalingsverzoeken tegen {0} {1} van {2} bedrag,reviewed,erpnext
+Requesting Practitioner,Verzoekende behandelaar,reviewed,erpnext
+Requesting Site,Verzoekende site,reviewed,erpnext
+Requestor,aanvrager,reviewed,erpnext
+Require Result Value,Vereiste resultaatwaarde,reviewed,erpnext
+Require Trusted Certificate,Vereist vertrouwd certificaat,reviewed,frappe
 Required,Verplicht,reviewed,custom
-Required By,Benodigd op,unreviewed,erpnext
-Required Date,Benodigd op datum,unreviewed,erpnext
-Required Items,Vereiste items,unreviewed,erpnext
-Required On,Vereist op,unreviewed,erpnext
-Required only for sample item.,Alleen benodigd voor Artikelmonster.,unreviewed,erpnext
-Required Qty,Benodigde hoeveelheid,unreviewed,erpnext
-Required Quantity,Benodigde hoeveelheid,unreviewed,erpnext
-Required Skills,Benodigde vaardigheden,unreviewed,erpnext
-Requirement,eis,unreviewed,erpnext
-Requires Fulfilment,Voldoet aan fulfilment,unreviewed,erpnext
-Reschedule,Afspraak verzetten,unreviewed,erpnext
-Research,Onderzoek,unreviewed,erpnext
-Researcher,Onderzoeker,unreviewed,erpnext
-"Reselect, if the chosen address is edited after save","Selecteer opnieuw, als het gekozen adres is bewerkt na opslaan",unreviewed,erpnext
-"Reselect, if the chosen contact is edited after save","Selecteer opnieuw, als het gekozen contact is bewerkt na opslaan",unreviewed,erpnext
-Resend Payment Email,E-mail opnieuw te verzenden Betaling,unreviewed,erpnext
-Reservation End Time,Eindtijd van reservering,unreviewed,erpnext
-Reservation Time,Reservatietijd,unreviewed,erpnext
-Reserve Warehouse,Magazijn reserveren,unreviewed,erpnext
-Reserved,gereserveerd,unreviewed,erpnext
-Reserved Balance,Gereserveerd saldo,unreviewed,erpnext
-Reserved for manufacturing,Gereserveerd voor productie,unreviewed,erpnext
-Reserved for sale,Gereserveerd voor verkoop,unreviewed,erpnext
-Reserved for sub contracting,Gereserveerd voor onderaanneming,unreviewed,erpnext
+Required By,Benodigd op,reviewed,erpnext
+Required Date,Benodigd op datum,reviewed,erpnext
+Required Items,Vereiste items,reviewed,erpnext
+Required On,Vereist op,reviewed,erpnext
+Required only for sample item.,Alleen benodigd voor Artikelmonster.,reviewed,erpnext
+Required Qty,Benodigde hoeveelheid,reviewed,erpnext
+Required Quantity,Benodigde hoeveelheid,reviewed,erpnext
+Required Skills,Benodigde vaardigheden,reviewed,erpnext
+Requirement,eis,reviewed,erpnext
+Requires Fulfilment,Voldoet aan fulfilment,reviewed,erpnext
+Reschedule,Afspraak verzetten,reviewed,erpnext
+Research,Onderzoek,reviewed,erpnext
+Researcher,Onderzoeker,reviewed,erpnext
+"Reselect, if the chosen address is edited after save","Selecteer opnieuw, als het gekozen adres is bewerkt na opslaan",reviewed,erpnext
+"Reselect, if the chosen contact is edited after save","Selecteer opnieuw, als het gekozen contact is bewerkt na opslaan",reviewed,erpnext
+Resend Payment Email,E-mail opnieuw te verzenden Betaling,reviewed,erpnext
+Reservation End Time,Eindtijd van reservering,reviewed,erpnext
+Reservation Time,Reservatietijd,reviewed,erpnext
+Reserve Warehouse,Magazijn reserveren,reviewed,erpnext
+Reserved,gereserveerd,reviewed,erpnext
+Reserved Balance,Gereserveerd saldo,reviewed,erpnext
+Reserved for manufacturing,Gereserveerd voor productie,reviewed,erpnext
+Reserved for sale,Gereserveerd voor verkoop,reviewed,erpnext
+Reserved for sub contracting,Gereserveerd voor onderaanneming,reviewed,erpnext
 Reserved Qty,Gereserveerde hoeveelheid,reviewed,erpnext
-Reserved Qty for Production,Aantal voorbehouden voor productie,unreviewed,erpnext
-Reserved Qty for Production: Raw materials quantity to make manufacturing items.,Gereserveerde hoeveelheid voor productie: hoeveelheid grondstoffen om productieartikelen te maken.,unreviewed,erpnext
-Reserved Qty for sub contract,Gereserveerde hoeveelheid voor subcontract,unreviewed,erpnext
-Reserved Qty for Subcontract: Raw materials quantity to make subcontracted items.,Gereserveerde hoeveelheid voor uitbesteding: hoeveelheid grondstoffen om uitbestede artikelen te maken.,unreviewed,erpnext
-"Reserved Qty: Quantity ordered for sale, but not delivered.","Gereserveerde Hoeveelheid: Aantal toegewezen aan verkoop, maar nog niet geleverd.",unreviewed,erpnext
-Reserved Quantity,Gereserveerde Hoeveelheid,unreviewed,erpnext
-Reserved Quantity for Production,Gereserveerde hoeveelheid voor productie,unreviewed,erpnext
-Reserved Warehouse is mandatory for Item {0} in Raw Materials supplied,Gereserveerd magazijn is verplicht voor artikel {0} in geleverde grondstoffen,unreviewed,erpnext
-Reset Chart,Reset kaart,unreviewed,frappe
-Reset Fields,Reset velden,unreviewed,frappe
-Reset LDAP Password,Reset LDAP-wachtwoord,unreviewed,frappe
-Reset Permissions for {0}?,Reset Machtigingen voor {0} ?,unreviewed,frappe
-Reset to defaults,Teruggezet naar de standaardinstellingen,unreviewed,frappe
-Reset your password,Stel je wachtwoord opnieuw in,unreviewed,frappe
+Reserved Qty for Production,Aantal voorbehouden voor productie,reviewed,erpnext
+Reserved Qty for Production: Raw materials quantity to make manufacturing items.,Gereserveerde hoeveelheid voor productie: hoeveelheid grondstoffen om productieartikelen te maken.,reviewed,erpnext
+Reserved Qty for sub contract,Gereserveerde hoeveelheid voor subcontract,reviewed,erpnext
+Reserved Qty for Subcontract: Raw materials quantity to make subcontracted items.,Gereserveerde hoeveelheid voor uitbesteding: hoeveelheid grondstoffen om uitbestede artikelen te maken.,reviewed,erpnext
+"Reserved Qty: Quantity ordered for sale, but not delivered.","Gereserveerde Hoeveelheid: Aantal toegewezen aan verkoop, maar nog niet geleverd.",reviewed,erpnext
+Reserved Quantity,Gereserveerde Hoeveelheid,reviewed,erpnext
+Reserved Quantity for Production,Gereserveerde hoeveelheid voor productie,reviewed,erpnext
+Reserved Warehouse is mandatory for Item {0} in Raw Materials supplied,Gereserveerd magazijn is verplicht voor artikel {0} in geleverde grondstoffen,reviewed,erpnext
+Reset Chart,Reset kaart,reviewed,frappe
+Reset Fields,Reset velden,reviewed,frappe
+Reset LDAP Password,Reset LDAP-wachtwoord,reviewed,frappe
+Reset Permissions for {0}?,Reset Machtigingen voor {0} ?,reviewed,frappe
+Reset to defaults,Teruggezet naar de standaardinstellingen,reviewed,frappe
+Reset your password,Stel je wachtwoord opnieuw in,reviewed,frappe
 Resetting Service Level Agreement.,Service Level Agreement resetten.,unreviewed,erpnext
 Resignation Letter Date,Ontslagbrief Datum,unreviewed,erpnext
 resize-horizontal,resize-horizontale,unreviewed,frappe

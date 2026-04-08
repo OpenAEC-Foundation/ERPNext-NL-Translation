@@ -16750,167 +16750,167 @@ Download as XML,Als XML downloaden,reviewed,banking
 Download response files,Antwoordbestanden downloaden,reviewed,banking
 Downloaded,Gedownload,reviewed,banking
 "Due to Period Closing, you cannot reconcile unpaid vouchers with a Bank Transaction before {0}",Vanwege periode-afsluiting kunt u onbetaalde documenten niet afstemmen met een banktransactie vóór {0},reviewed,banking
-EBICS,,unreviewed,banking
-EBICS Configuration Missing,EBICS-configuratie ontbreekt,unreviewed,banking
-EBICS Host ID,EBICS Host-ID,unreviewed,banking
-EBICS Order ID,,unreviewed,banking
-EBICS Protocol Versions,EBICS-protocolversies,unreviewed,banking
-EBICS Request,,unreviewed,banking
-EBICS URL,,unreviewed,banking
-EBICS User,,unreviewed,banking
-EBICS User limit exceeded.,EBICS-gebruikerslimiet overschreden.,unreviewed,banking
-EBICS Users,EBICS-gebruikers,unreviewed,banking
-EBICS transactions re-imported successfully.,EBICS-transacties succesvol reimporteerd.,unreviewed,banking
-EREF,,unreviewed,banking
-Ebics 2.5 (H004),,unreviewed,banking
-Ebics 3.0 (H005),,unreviewed,banking
-Ebics Users,EBICS-gebruikers,unreviewed,banking
-Eg: https://banking.alyf.de,,unreviewed,banking
-Employee Bank Account,Werknemersbankrekening,unreviewed,banking
-Employee Bank Account was created.,Werknemersbankrekening is aangemaakt.,unreviewed,banking
-Employee Bank Account was not created.,Werknemersbankrekening is niet aangemaakt.,unreviewed,banking
-Enable EBICS (New),EBICS inschakelen (Nieuw),unreviewed,banking
-Enable this for EBICS accounts whose key management is based on certificates.,Schakel dit in voor EBICS-accounts waarvan het sleutelbeheer op certificaten is gebaseerd.,unreviewed,banking
-Enter Passphrase,Wachtwoord invoeren,unreviewed,banking
-Enter only if scheduled execution at the bank is desired.,Vul alleen in als geplande uitvoering bij de bank gewenst is.,unreviewed,banking
-Enter your passphrase,Voer uw wachtwoord in,unreviewed,banking
-"Enter your password to enable automated, regular syncing. Leave blank if you prefer to sync manually.","Voer uw wachtwoord in om geautomatiseerde, regelmatige synchronisatie in te schakelen. Laat leeg als u handmatig wilt synchroniseren.",unreviewed,banking
-Enter your signature passphrase,Voer uw handtekeningwachtwoord in,unreviewed,banking
-Error while fetching releases,Fout bij ophalen van releases,unreviewed,banking
-Execution Date,Uitvoeringsdatum,unreviewed,banking
-Failed to create {0} against {1},Aanmaken van {0} tegen {1} mislukt,unreviewed,banking
-Failed to re-import EBICS transactions.,Reimporteren van EBICS-transacties mislukt.,unreviewed,banking
-Failed to reconcile new {0} against {1},Afstemmen van nieuwe {0} tegen {1} mislukt,unreviewed,banking
-Failed to reconcile {0},Afstemmen van {0} mislukt,unreviewed,banking
-Failed to remove EBICS user registration.,Verwijderen van EBICS-gebruikersregistratie mislukt.,unreviewed,banking
-Failed to update {0},Bijwerken van {0} mislukt,unreviewed,banking
-Fetching Bank Transactions,Banktransacties ophalen,unreviewed,banking
-Field {} does not exist in {}. Please check the configuration in Banking Settings.,Veld {} bestaat niet in {}. Controleer de configuratie in Banking-instellingen.,unreviewed,banking
-Filter Required,Filter vereist,unreviewed,banking
-Fintech License Key,Fintech-licentiesleutel,unreviewed,banking
-Fintech Licensee Name,Fintech-licentiehouder,unreviewed,banking
-"For non-German IBANs, a Bank must be provided.",Voor niet-Duitse IBANs moet een bank worden opgegeven.,unreviewed,banking
-Get Bank Transactions,Banktransacties ophalen,unreviewed,banking
-H004,,unreviewed,banking
-H005,,unreviewed,banking
-Hidden field for alignment,,unreviewed,banking
-IBAN Warning: Not used in SEPA Payment Orders,IBAN-waarschuwing: Niet gebruikt in SEPA-betalingsopdrachten,unreviewed,banking
-IBAN on Employee is not used in SEPA Payment Orders. Please use Bank Account instead for payment processing.,IBAN op werknemer wordt niet gebruikt in SEPA-betalingsopdrachten. Gebruik in plaats daarvan Bankrekening voor betalingsverwerking.,unreviewed,banking
-IBAN {0} is invalid.,IBAN {0} is ongeldig.,unreviewed,banking
-"If enabled, <code>camt.052</code> transactions are downloaded four times a day. Otherwise <code>camt.053</code> transactions are downloaded once a day.",Indien ingeschakeld worden <code>camt.052</code>-transacties vier keer per dag gedownload. Anders worden <code>camt.053</code>-transacties één keer per dag gedownload.,unreviewed,banking
-"If enabled, <code>camt.054</code> files are downloaded and merged with <code>camt.052</code> or <code>camt.053</code> files.",Indien ingeschakeld worden <code>camt.054</code>-bestanden gedownload en samengevoegd met <code>camt.052</code>- of <code>camt.053</code>-bestanden.,unreviewed,banking
-"If enabled, a separate <b>Bank Transaction</b> will be created for each sub-transaction in a batch.",Indien ingeschakeld wordt voor elke subtransactie in een batch een aparte <b>Banktransactie</b> aangemaakt.,unreviewed,banking
-"If no <a href='/app/bank-transaction' target='_blank'>Bank Transactions</a> are created, please check the <a href='/app/error-log' target='_blank'>Error Logs</a>. If there are no errors, the bank likely did not provide any (new) bank statements for this period.","Als er geen <a href='/app/bank-transaction' target='_blank'>Banktransacties</a> zijn aangemaakt, controleer dan de <a href='/app/error-log' target='_blank'>Foutlogboeken</a>. Als er geen fouten zijn, heeft de bank waarschijnlijk geen (nieuwe) bankafschriften voor deze periode verstrekt.",unreviewed,banking
-Initialize,,unreviewed,banking
-Initialize EBICS User,EBICS-gebruiker initialiseren,unreviewed,banking
-Initialized,Geïnitialiseerd,unreviewed,banking
-Initializing...,Initialiseren...,unreviewed,banking
-Intraday Sync,Intradagsynchronisatie,unreviewed,banking
-Invalid Field,Ongeldig veld,unreviewed,banking
-Invalid data available for download.,Ongeldige gegevens beschikbaar voor downloaden.,unreviewed,banking
-Invalid data for re-import.,Ongeldige gegevens voor reimporteren.,unreviewed,banking
-It seems like the EBICS User lacks permissions for order type '{0}'. The permitted types are: {1}.,Het lijkt erop dat de EBICS-gebruiker geen toestemmingen heeft voor ordertype '{0}'. De toegestane typen zijn: {1}.,unreviewed,banking
-Keyring,Porte-clés,unreviewed,banking
-Klarna Kosma Integration,Klarna Kosma-integratie,unreviewed,banking
-Last Renewed On,Laatst vernieuwd op,unreviewed,banking
-License key not found. Please activate the checkbox 'Enable EBICS' in the {0} and ensure that your subscription is active.,Licentiesleutel niet gevonden. Activeer het selectievakje 'EBICS inschakelen' in de {0} en zorg ervoor dat uw abonnement actief is.,unreviewed,banking
-Match Voucher,Document koppelen,unreviewed,banking
-Needs Certificate,Certificaat vereist,unreviewed,banking
-No Data Available,Geen gegevens beschikbaar,unreviewed,banking
-No IBAN for {0} {1}.,Geen IBAN voor {0} {1}.,unreviewed,banking
-No Transactions found for the current filters.,Geen transacties gevonden voor de huidige filters.,unreviewed,banking
-No data available for download.,Geen gegevens beschikbaar voor downloaden.,unreviewed,banking
-No default bank account for Supplier {0}.,Geen standaardbankrekening voor Leverancier {0}.,unreviewed,banking
-No matches occurred via Auto Reconciliation,Geen overeenkomsten gevonden via automatische afstemming,unreviewed,banking
-Not available,Niet beschikbaar,unreviewed,banking
-"Note: When you lose these passwords, you will have to go through the initialization process with your bank again.","Let op: Als u deze wachtwoorden kwijtraakt, moet u het initialisatieproces met uw bank opnieuw doorlopen.",unreviewed,banking
-Only from {0},Alleen van {0},unreviewed,banking
-Only matching amounts,Alleen overeenkomende bedragen,unreviewed,banking
-Only unpaid vouchers,Alleen onbetaalde documenten,unreviewed,banking
-Open Billing Portal,Facturatieportaal openen,unreviewed,banking
-Overallocated Returns,Overgeboekte retouren,unreviewed,banking
-Partner ID,,unreviewed,banking
-Party Account Number,Partij rekeningnummer,unreviewed,banking
-Party IBAN,Partij IBAN,unreviewed,banking
-Passphrase,Wachtwoord,unreviewed,banking
-Payment Order has been sent to bank.,Betalingsopdracht is naar de bank verzonden.,unreviewed,banking
-Payment Order has not been sent to bank.,Betalingsopdracht is niet naar de bank verzonden.,unreviewed,banking
-Payment amounts have changed. Are you sure you want to submit without updating them first?,,unreviewed,banking
-Please activate the checkbox 'Enable EBICS' in the {0}.,Activeer het selectievakje 'EBICS inschakelen' in de {0}.,unreviewed,banking
-Please activate the checkbox 'Enabled' in the {0}.,Activeer het selectievakje 'Ingeschakeld' in de {0}.,unreviewed,banking
-Please add EBICS Host ID and URL to bank {0},Voeg EBICS Host-ID en URL toe aan bank {0},unreviewed,banking
-Please add a two-letter country code to country {0},Voeg een tweeletterige landcode toe aan land {0},unreviewed,banking
-Please confirm that the following keys are identical to the ones mentioned on your bank's letter:,Bevestig dat de volgende sleutels identiek zijn aan de sleutels op de brief van uw bank:,unreviewed,banking
-Please enter the values provided by your bank.,Voer de waarden in die door uw bank zijn verstrekt.,unreviewed,banking
-"Please print the attached INI letter, send it to your bank and wait for confirmation. Then verify the bank keys.","Print de bijgevoegde INI-brief, stuur deze naar uw bank en wacht op bevestiging. Verifieer vervolgens de banksleutels.",unreviewed,banking
-Please select a Bank Account to start reconciling.,Selecteer een bankrekening om te beginnen met afstemmen.,unreviewed,banking
-Please select at least one voucher to reconcile,Selecteer minimaal één document om af te stemmen,unreviewed,banking
-Please select vouchers of the same type to reconcile,Selecteer documenten van hetzelfde type om af te stemmen,unreviewed,banking
-Please set the 'Bank Account' filter,Stel het filter 'Bankrekening' in,unreviewed,banking
-Portal API Token,,unreviewed,banking
-Process as batch,Als batch verwerken,unreviewed,banking
-Process individually,Individueel verwerken,unreviewed,banking
-Protocol Version,Protocolversie,unreviewed,banking
-Re-Import,Reimporteren,unreviewed,banking
-Re-import cancelled.,,unreviewed,banking
-Re-importing EBICS transactions ...,Reimporteren van EBICS-transacties ...,unreviewed,banking
-Reconciling ...,Afstemmen ...,unreviewed,banking
-Reconciling multiple multi-currency invoices at once is not supported. Please reconcile one invoice at a time.,,unreviewed,banking
-Redirecting to Customer Portal ...,Doorverwijzen naar klantportaal ...,unreviewed,banking
-Reference Fields,Referentievelden,unreviewed,banking
-Reference Row Name,Referentierownaam,unreviewed,banking
-Row {0}: Currency {1} does not match bank account currency {2}.,Rij {0}: Valuta {1} komt niet overeen met bankrekeningvaluta {2}.,unreviewed,banking
-Row {0}: IBAN {1} is invalid.,Rij {0}: IBAN {1} is ongeldig.,unreviewed,banking
-SENT_VIA_EBICS,VIA_EBICS_GESENDET,unreviewed,banking
-SEPA Payment,SEPA-betaling,unreviewed,banking
-SEPA Payment Order,SEPA-betalingsopdracht,unreviewed,banking
-SEPA Payment Order Status,SEPA-betalingsopdrachtstatus,unreviewed,banking
-SEPA Payment Orders,SEPA-betalingsopdrachten,unreviewed,banking
-SHAR,,unreviewed,banking
-Sent via EBICS,Verzonden via EBICS,unreviewed,banking
-Set a new password for downloading bank statements from your bank.,Stel een nieuw wachtwoord in voor het downloaden van bankafschriften van uw bank.,unreviewed,banking
-Set a new password for uploading transactions to your bank.,Stel een nieuw wachtwoord in voor het uploaden van transacties naar uw bank.,unreviewed,banking
-Show Protocol Versions,Toon protocolversies,unreviewed,banking
-Signature Passphrase,Handtekeningwachtwoord,unreviewed,banking
-Signup for Banking,Aanmelden voor Banking,unreviewed,banking
-Something went wrong. Please retry in a while.,Er is iets misgegaan. Probeer het over een tijdje opnieuw.,unreviewed,banking
-Sort By,Sorteren op,unreviewed,banking
-Split Batch Transactions,Batchtransacties splitsen,unreviewed,banking
-Store Passphrase,Wachtwoord opslaan,unreviewed,banking
-"Store the passphrase in the ERPNext database to enable automated, regular download of bank statements.","Sla het wachtwoord op in de ERPNext-database om geautomatiseerde, regelmatige download van bankafschriften in te schakelen.",unreviewed,banking
-Subscriber,,unreviewed,banking
-Subscription Details,,unreviewed,banking
-Subtransaction ID,,unreviewed,banking
-Supplier Bank Account,Leveranciersbankrekening,unreviewed,banking
-Supplier Bank Account was created.,Leveranciersbankrekening is aangemaakt.,unreviewed,banking
-Supplier Bank Account was not created.,Leveranciersbankrekening is niet aangemaakt.,unreviewed,banking
-The Bank Transaction is over-allocated by {0} at row {1}.,De banktransactie is overgeboekt met {0} op rij {1}.,unreviewed,banking
-The allocated amount cannot be negative. Please adjust the selected return vouchers.,Het toegewezen bedrag kan niet negatief zijn. Pas de geselecteerde retourdocumenten aan.,unreviewed,banking
-The currency of the second account ({0} : {1}) must be the same as of the bank account ({2} : {3}),De valuta van de tweede rekening ({0} : {1}) moet hetzelfde zijn als die van de bankrekening ({2} : {3}),unreviewed,banking
-The currency of the second account ({0}) must be the same as of the bank account ({1}),De valuta van de tweede rekening ({0}) moet hetzelfde zijn als die van de bankrekening ({1}),unreviewed,banking
-The scheduler is inactive. Please activate it to continue auto-syncing bank transactions.,De scheduler is inactief. Activeer deze om automatische synchronisatie van banktransacties voort te zetten.,unreviewed,banking
-The server has errored. Please retry in some time.,De server heeft een fout. Probeer het later opnieuw.,unreviewed,banking
-These DocTypes are pre-enabled in the 'Match Voucher' tab.,Deze documenttypen zijn standaard ingeschakeld in de tab 'Beleidsmatching'.,unreviewed,banking
-To Allocate,Te alloceren,unreviewed,banking
-"To use protocol version H005, please activate the checkbox 'Needs Certificates'.","Om protocolversie H005 te gebruiken, activeer het selectievakje 'Vereist certificaten'.",unreviewed,banking
-Transmission Datetime,Transmissiedatum,unreviewed,banking
-Transmission Type,Transmissietype,unreviewed,banking
-Unable to resolve batch transaction: camt.054 not available. Please try again later.,,unreviewed,banking
-Update Amounts,,unreviewed,banking
-Updating ...,Bijwerken ...,unreviewed,banking
-Upload CAMT file,CAMT-bestand uploaden,unreviewed,banking
-Upload CSV / Excel file,CSV/Excel-bestand uploaden,unreviewed,banking
-Upload MT940 file,MT940-bestand uploaden,unreviewed,banking
-Upload XML (CAMT.053) file,XML (CAMT.053)-bestand uploaden,unreviewed,banking
-Usage,Gebruik,unreviewed,banking
-User ID not available.,Gebruikers-ID niet beschikbaar.,unreviewed,banking
-Verify Bank Keys,Banksleutels verifiëren,unreviewed,banking
-View EBICS Users,EBICS-gebruikers bekijken,unreviewed,banking
-Voucher Matching Default,Document koppeling standaard,unreviewed,banking
-Voucher Matching Defaults,Document koppeling standaarden,unreviewed,banking
-"We'll try to download all transactions of completed days in the selected period, using <code>camt.053</code>.",We proberen alle transacties van voltooide dagen in de geselecteerde periode te downloaden met <code>camt.053</code>.,unreviewed,banking
-"We'll try to download new transactions from today, using <code>camt.052</code>.",We proberen nieuwe transacties van vandaag te downloaden met <code>camt.052</code>.,unreviewed,banking
-"You selected protocol version {0}, but the bank {1} only supports {2}.","U heeft protocolversie {0} geselecteerd, maar bank {1} ondersteunt alleen {2}.",unreviewed,banking
-to import bank transactions for {0}.,om banktransacties voor {0} te importeren.,unreviewed,banking
-{0} {1} {2},,unreviewed,banking
-{} Unreconciled,{} Niet afgestemd,unreviewed,banking
+EBICS,EBICS,reviewed,banking
+EBICS Configuration Missing,EBICS-configuratie ontbreekt,reviewed,banking
+EBICS Host ID,EBICS Host-ID,reviewed,banking
+EBICS Order ID,EBICS-order-ID,reviewed,banking
+EBICS Protocol Versions,EBICS-protocolversies,reviewed,banking
+EBICS Request,EBICS-aanvraag,reviewed,banking
+EBICS URL,EBICS URL,reviewed,banking
+EBICS User,EBICS-gebruiker,reviewed,banking
+EBICS User limit exceeded.,EBICS-gebruikerslimiet overschreden.,reviewed,banking
+EBICS Users,EBICS-gebruikers,reviewed,banking
+EBICS transactions re-imported successfully.,EBICS-transacties succesvol geherimporteerd.,reviewed,banking
+EREF,EREF,reviewed,banking
+Ebics 2.5 (H004),Ebics 2.5 (H004),reviewed,banking
+Ebics 3.0 (H005),Ebics 3.0 (H005),reviewed,banking
+Ebics Users,EBICS-gebruikers,reviewed,banking
+Eg: https://banking.alyf.de,Bijv.: https://banking.alyf.de,reviewed,banking
+Employee Bank Account,Werknemersbankrekening,reviewed,banking
+Employee Bank Account was created.,Werknemersbankrekening is aangemaakt.,reviewed,banking
+Employee Bank Account was not created.,Werknemersbankrekening is niet aangemaakt.,reviewed,banking
+Enable EBICS (New),EBICS inschakelen (Nieuw),reviewed,banking
+Enable this for EBICS accounts whose key management is based on certificates.,Schakel dit in voor EBICS-accounts waarvan het sleutelbeheer op certificaten is gebaseerd.,reviewed,banking
+Enter Passphrase,Wachtwoordzin invoeren,reviewed,banking
+Enter only if scheduled execution at the bank is desired.,Vul alleen in als geplande uitvoering bij de bank gewenst is.,reviewed,banking
+Enter your passphrase,Voer uw wachtwoordzin in,reviewed,banking
+"Enter your password to enable automated, regular syncing. Leave blank if you prefer to sync manually.","Voer uw wachtwoord in om geautomatiseerde, regelmatige synchronisatie in te schakelen. Laat leeg als u handmatig wilt synchroniseren.",reviewed,banking
+Enter your signature passphrase,Voer uw handtekeningwachtwoordzin in,reviewed,banking
+Error while fetching releases,Fout bij ophalen van releases,reviewed,banking
+Execution Date,Uitvoeringsdatum,reviewed,banking
+Failed to create {0} against {1},Aanmaken van {0} voor {1} mislukt,reviewed,banking
+Failed to re-import EBICS transactions.,Herimporteren van EBICS-transacties mislukt.,reviewed,banking
+Failed to reconcile new {0} against {1},Reconciliatie van nieuwe {0} met {1} mislukt,reviewed,banking
+Failed to reconcile {0},Reconciliatie van {0} mislukt,reviewed,banking
+Failed to remove EBICS user registration.,Verwijderen van EBICS-gebruikersregistratie mislukt.,reviewed,banking
+Failed to update {0},Bijwerken van {0} mislukt,reviewed,banking
+Fetching Bank Transactions,Banktransacties ophalen,reviewed,banking
+Field {} does not exist in {}. Please check the configuration in Banking Settings.,Veld {} bestaat niet in {}. Controleer de configuratie in Banking-instellingen.,reviewed,banking
+Filter Required,Filter vereist,reviewed,banking
+Fintech License Key,Fintech-licentiesleutel,reviewed,banking
+Fintech Licensee Name,Naam fintech-licentiehouder,reviewed,banking
+"For non-German IBANs, a Bank must be provided.",Voor niet-Duitse IBANs moet een bank worden opgegeven.,reviewed,banking
+Get Bank Transactions,Banktransacties ophalen,reviewed,banking
+H004,H004,reviewed,banking
+H005,H005,reviewed,banking
+Hidden field for alignment,Verborgen veld voor uitlijning,reviewed,banking
+IBAN Warning: Not used in SEPA Payment Orders,IBAN-waarschuwing: Niet gebruikt in SEPA-betalingsopdrachten,reviewed,banking
+IBAN on Employee is not used in SEPA Payment Orders. Please use Bank Account instead for payment processing.,IBAN op werknemer wordt niet gebruikt in SEPA-betalingsopdrachten. Gebruik in plaats daarvan Bankrekening voor betalingsverwerking.,reviewed,banking
+IBAN {0} is invalid.,IBAN {0} is ongeldig.,reviewed,banking
+"If enabled, <code>camt.052</code> transactions are downloaded four times a day. Otherwise <code>camt.053</code> transactions are downloaded once a day.",Indien ingeschakeld worden <code>camt.052</code>-transacties vier keer per dag gedownload. Anders worden <code>camt.053</code>-transacties één keer per dag gedownload.,reviewed,banking
+"If enabled, <code>camt.054</code> files are downloaded and merged with <code>camt.052</code> or <code>camt.053</code> files.",Indien ingeschakeld worden <code>camt.054</code>-bestanden gedownload en samengevoegd met <code>camt.052</code>- of <code>camt.053</code>-bestanden.,reviewed,banking
+"If enabled, a separate <b>Bank Transaction</b> will be created for each sub-transaction in a batch.",Indien ingeschakeld wordt voor elke subtransactie in een batch een aparte <b>Banktransactie</b> aangemaakt.,reviewed,banking
+"If no <a href='/app/bank-transaction' target='_blank'>Bank Transactions</a> are created, please check the <a href='/app/error-log' target='_blank'>Error Logs</a>. If there are no errors, the bank likely did not provide any (new) bank statements for this period.","Als er geen <a href='/app/bank-transaction' target='_blank'>Banktransacties</a> zijn aangemaakt, controleer dan de <a href='/app/error-log' target='_blank'>Foutlogboeken</a>. Als er geen fouten zijn, heeft de bank waarschijnlijk geen (nieuwe) bankafschriften voor deze periode verstrekt.",reviewed,banking
+Initialize,Initialiseren,reviewed,banking
+Initialize EBICS User,EBICS-gebruiker initialiseren,reviewed,banking
+Initialized,Geïnitialiseerd,reviewed,banking
+Initializing...,Initialiseren...,reviewed,banking
+Intraday Sync,Intradagsynchronisatie,reviewed,banking
+Invalid Field,Ongeldig veld,reviewed,banking
+Invalid data available for download.,Ongeldige gegevens beschikbaar voor downloaden.,reviewed,banking
+Invalid data for re-import.,Ongeldige gegevens voor herimporteren.,reviewed,banking
+It seems like the EBICS User lacks permissions for order type '{0}'. The permitted types are: {1}.,Het lijkt erop dat de EBICS-gebruiker geen machtigingen heeft voor ordertype '{0}'. De toegestane typen zijn: {1}.,reviewed,banking
+Keyring,Sleutelhanger,reviewed,banking
+Klarna Kosma Integration,Klarna Kosma-integratie,reviewed,banking
+Last Renewed On,Laatst vernieuwd op,reviewed,banking
+License key not found. Please activate the checkbox 'Enable EBICS' in the {0} and ensure that your subscription is active.,Licentiesleutel niet gevonden. Activeer het selectievakje 'EBICS inschakelen' in de {0} en zorg ervoor dat uw abonnement actief is.,reviewed,banking
+Match Voucher,Document koppelen,reviewed,banking
+Needs Certificate,Certificaat vereist,reviewed,banking
+No Data Available,Geen gegevens beschikbaar,reviewed,banking
+No IBAN for {0} {1}.,Geen IBAN voor {0} {1}.,reviewed,banking
+No Transactions found for the current filters.,Geen transacties gevonden voor de huidige filters.,reviewed,banking
+No data available for download.,Geen gegevens beschikbaar voor downloaden.,reviewed,banking
+No default bank account for Supplier {0}.,Geen standaardbankrekening voor Leverancier {0}.,reviewed,banking
+No matches occurred via Auto Reconciliation,Geen overeenkomsten gevonden via automatische reconciliatie,reviewed,banking
+Not available,Niet beschikbaar,reviewed,banking
+"Note: When you lose these passwords, you will have to go through the initialization process with your bank again.","Let op: Als u deze wachtwoorden kwijtraakt, moet u het initialisatieproces met uw bank opnieuw doorlopen.",reviewed,banking
+Only from {0},Alleen van {0},reviewed,banking
+Only matching amounts,Alleen overeenkomende bedragen,reviewed,banking
+Only unpaid vouchers,Alleen onbetaalde documenten,reviewed,banking
+Open Billing Portal,Facturatieportaal openen,reviewed,banking
+Overallocated Returns,Overgeboekte retouren,reviewed,banking
+Partner ID,Partner ID,reviewed,banking
+Party Account Number,Rekeningnummer tegenpartij,reviewed,banking
+Party IBAN,IBAN tegenpartij,reviewed,banking
+Passphrase,Wachtwoordzin,reviewed,banking
+Payment Order has been sent to bank.,Betalingsopdracht is naar de bank verzonden.,reviewed,banking
+Payment Order has not been sent to bank.,Betalingsopdracht is niet naar de bank verzonden.,reviewed,banking
+Payment amounts have changed. Are you sure you want to submit without updating them first?,De betalingsbedragen zijn gewijzigd. Weet u zeker dat u wilt indienen zonder ze eerst bij te werken?,reviewed,banking
+Please activate the checkbox 'Enable EBICS' in the {0}.,Activeer het selectievakje 'EBICS inschakelen' in de {0}.,reviewed,banking
+Please activate the checkbox 'Enabled' in the {0}.,Activeer het selectievakje 'Ingeschakeld' in de {0}.,reviewed,banking
+Please add EBICS Host ID and URL to bank {0},Voeg EBICS Host-ID en URL toe aan bank {0},reviewed,banking
+Please add a two-letter country code to country {0},Voeg een tweeletterige landcode toe aan land {0},reviewed,banking
+Please confirm that the following keys are identical to the ones mentioned on your bank's letter:,Bevestig dat de volgende sleutels identiek zijn aan de sleutels op de brief van uw bank:,reviewed,banking
+Please enter the values provided by your bank.,Voer de waarden in die door uw bank zijn verstrekt.,reviewed,banking
+"Please print the attached INI letter, send it to your bank and wait for confirmation. Then verify the bank keys.","Print de bijgevoegde INI-brief, stuur deze naar uw bank en wacht op bevestiging. Verifieer vervolgens de banksleutels.",reviewed,banking
+Please select a Bank Account to start reconciling.,Selecteer een bankrekening om te beginnen met reconciliëren.,reviewed,banking
+Please select at least one voucher to reconcile,Selecteer minimaal één document om te reconciliëren,reviewed,banking
+Please select vouchers of the same type to reconcile,Selecteer documenten van hetzelfde type om te reconciliëren,reviewed,banking
+Please set the 'Bank Account' filter,Stel het filter 'Bankrekening' in,reviewed,banking
+Portal API Token,Portal API Token,reviewed,banking
+Process as batch,Als batch verwerken,reviewed,banking
+Process individually,Individueel verwerken,reviewed,banking
+Protocol Version,Protocolversie,reviewed,banking
+Re-Import,Opnieuw importeren,reviewed,banking
+Re-import cancelled.,Opnieuw importeren geannuleerd.,reviewed,banking
+Re-importing EBICS transactions ...,Opnieuw importeren van EBICS-transacties ...,reviewed,banking
+Reconciling ...,Reconciliëren ...,reviewed,banking
+Reconciling multiple multi-currency invoices at once is not supported. Please reconcile one invoice at a time.,Het gelijktijdig reconciliëren van meerdere facturen in meerdere valuta's wordt niet ondersteund. Reconcilieer één factuur tegelijk.,reviewed,banking
+Redirecting to Customer Portal ...,Doorverwijzen naar klantportaal ...,reviewed,banking
+Reference Fields,Referentievelden,reviewed,banking
+Reference Row Name,Naam referentierij,reviewed,banking
+Row {0}: Currency {1} does not match bank account currency {2}.,Rij {0}: Valuta {1} komt niet overeen met bankrekeningvaluta {2}.,reviewed,banking
+Row {0}: IBAN {1} is invalid.,Rij {0}: IBAN {1} is ongeldig.,reviewed,banking
+SENT_VIA_EBICS,VERZONDEN_VIA_EBICS,reviewed,banking
+SEPA Payment,SEPA-betaling,reviewed,banking
+SEPA Payment Order,SEPA-betalingsopdracht,reviewed,banking
+SEPA Payment Order Status,Status SEPA-betalingsopdracht,reviewed,banking
+SEPA Payment Orders,SEPA-betalingsopdrachten,reviewed,banking
+SHAR,SHAR,reviewed,banking
+Sent via EBICS,Verzonden via EBICS,reviewed,banking
+Set a new password for downloading bank statements from your bank.,Stel een nieuw wachtwoord in voor het downloaden van bankafschriften van uw bank.,reviewed,banking
+Set a new password for uploading transactions to your bank.,Stel een nieuw wachtwoord in voor het uploaden van transacties naar uw bank.,reviewed,banking
+Show Protocol Versions,Toon protocolversies,reviewed,banking
+Signature Passphrase,Handtekeningwachtwoord,reviewed,banking
+Signup for Banking,Aanmelden voor Banking,reviewed,banking
+Something went wrong. Please retry in a while.,Er is iets misgegaan. Probeer het over een tijdje opnieuw.,reviewed,banking
+Sort By,Sorteren op,reviewed,banking
+Split Batch Transactions,Batchtransacties splitsen,reviewed,banking
+Store Passphrase,Wachtwoord opslaan,reviewed,banking
+"Store the passphrase in the ERPNext database to enable automated, regular download of bank statements.","Sla het wachtwoord op in de ERPNext-database om geautomatiseerde, regelmatige download van bankafschriften in te schakelen.",reviewed,banking
+Subscriber,Abonnee,reviewed,banking
+Subscription Details,Abonnementsgegevens,reviewed,banking
+Subtransaction ID,Subtransactie-ID,reviewed,banking
+Supplier Bank Account,Leveranciersbankrekening,reviewed,banking
+Supplier Bank Account was created.,Leveranciersbankrekening is aangemaakt.,reviewed,banking
+Supplier Bank Account was not created.,Leveranciersbankrekening is niet aangemaakt.,reviewed,banking
+The Bank Transaction is over-allocated by {0} at row {1}.,De banktransactie is te veel toegewezen met {0} op rij {1}.,reviewed,banking
+The allocated amount cannot be negative. Please adjust the selected return vouchers.,Het toegewezen bedrag kan niet negatief zijn. Pas de geselecteerde retourdocumenten aan.,reviewed,banking
+The currency of the second account ({0} : {1}) must be the same as of the bank account ({2} : {3}),De valuta van de tweede rekening ({0} : {1}) moet hetzelfde zijn als die van de bankrekening ({2} : {3}),reviewed,banking
+The currency of the second account ({0}) must be the same as of the bank account ({1}),De valuta van de tweede rekening ({0}) moet hetzelfde zijn als die van de bankrekening ({1}),reviewed,banking
+The scheduler is inactive. Please activate it to continue auto-syncing bank transactions.,De scheduler is inactief. Activeer deze om automatische synchronisatie van banktransacties voort te zetten.,reviewed,banking
+The server has errored. Please retry in some time.,De server heeft een fout. Probeer het later opnieuw.,reviewed,banking
+These DocTypes are pre-enabled in the 'Match Voucher' tab.,Deze documenttypen zijn standaard ingeschakeld op het tabblad 'Document koppelen'.,reviewed,banking
+To Allocate,Te alloceren,reviewed,banking
+"To use protocol version H005, please activate the checkbox 'Needs Certificates'.","Om protocolversie H005 te gebruiken, activeer het selectievakje 'Vereist certificaten'.",reviewed,banking
+Transmission Datetime,Transmissiedatum en -tijd,reviewed,banking
+Transmission Type,Transmissietype,reviewed,banking
+Unable to resolve batch transaction: camt.054 not available. Please try again later.,Batchtransactie kan niet worden verwerkt: camt.054 niet beschikbaar. Probeer het later opnieuw.,reviewed,banking
+Update Amounts,Bedragen bijwerken,reviewed,banking
+Updating ...,Bijwerken ...,reviewed,banking
+Upload CAMT file,CAMT-bestand uploaden,reviewed,banking
+Upload CSV / Excel file,CSV/Excel-bestand uploaden,reviewed,banking
+Upload MT940 file,MT940-bestand uploaden,reviewed,banking
+Upload XML (CAMT.053) file,XML (CAMT.053)-bestand uploaden,reviewed,banking
+Usage,Gebruik,reviewed,banking
+User ID not available.,Gebruikers-ID niet beschikbaar.,reviewed,banking
+Verify Bank Keys,Banksleutels verifiëren,reviewed,banking
+View EBICS Users,EBICS-gebruikers bekijken,reviewed,banking
+Voucher Matching Default,Standaard documentkoppeling,reviewed,banking
+Voucher Matching Defaults,Standaard documentkoppelingen,reviewed,banking
+"We'll try to download all transactions of completed days in the selected period, using <code>camt.053</code>.",We proberen alle transacties van voltooide dagen in de geselecteerde periode te downloaden met <code>camt.053</code>.,reviewed,banking
+"We'll try to download new transactions from today, using <code>camt.052</code>.",We proberen nieuwe transacties van vandaag te downloaden met <code>camt.052</code>.,reviewed,banking
+"You selected protocol version {0}, but the bank {1} only supports {2}.","U heeft protocolversie {0} geselecteerd, maar bank {1} ondersteunt alleen {2}.",reviewed,banking
+to import bank transactions for {0}.,om banktransacties voor {0} te importeren.,reviewed,banking
+{0} {1} {2},{0} {1} {2},reviewed,banking
+{} Unreconciled,{} Niet gereconcilieerd,reviewed,banking

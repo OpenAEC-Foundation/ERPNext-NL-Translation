@@ -13745,304 +13745,304 @@ Retry Failed Allocations,Mislukte toewijzingen opnieuw proberen,reviewed,hrms
 Retry Successful,Opnieuw proberen geslaagd,reviewed,hrms
 Retrying allocations,Toewijzingen worden opnieuw geprobeerd,reviewed,hrms
 Return amount cannot be greater than unclaimed amount,Het terug te betalen bedrag mag niet groter zijn dan het niet-geclaimde bedrag,reviewed,hrms
-Review various other settings related to Employee Leaves and Expense Claim,,unreviewed,hrms
-Reviewer,,unreviewed,hrms
-Reviewer Name,,unreviewed,hrms
-Revised CTC,,unreviewed,hrms
-Role Allowed to Create Backdated Leave Application,,unreviewed,hrms
-Roster,,unreviewed,hrms
-Roster Color,,unreviewed,hrms
-Round Name,,unreviewed,hrms
-Round off Work Experience,,unreviewed,hrms
-Round to the Nearest Integer,,unreviewed,hrms
-Rounding,,unreviewed,hrms
-Route to the custom Job Application Webform,,unreviewed,hrms
-Row #{0}: Cannot set amount or formula for Salary Component {1} with Variable Based On Taxable Salary,,unreviewed,hrms
-Row #{0}: The {1} Component has the options {2} and {3} enabled.,,unreviewed,hrms
-Row #{0}: Timesheet amount will overwrite the Earning component amount for the Salary Component {1},,unreviewed,hrms
-Row No {0}: Amount cannot be greater than the Outstanding Amount against Expense Claim {1}. Outstanding Amount is {2},,unreviewed,hrms
-Row {0}# Allocated amount {1} cannot be greater than unclaimed amount {2},,unreviewed,hrms
-Row {0}# Paid Amount cannot be greater than Encashment amount,,unreviewed,hrms
-Row {0}# Paid Amount cannot be greater than Total amount,,unreviewed,hrms
-Row {0}# Paid Amount cannot be greater than requested advance amount,,unreviewed,hrms
-Row {0}: From (Year) can not be greater than To (Year),,unreviewed,hrms
-Row {0}: Goal Score cannot be greater than {1},,unreviewed,hrms
-Row {0}: Paid amount {1} is greater than pending accrued amount {2} against loan {3},,unreviewed,hrms
-Row {0}: {1},,unreviewed,hrms
-Row {0}: {1} is required in the expenses table to book an expense claim.,,unreviewed,hrms
-Salary Component,,unreviewed,hrms
-Salary Component ,,unreviewed,hrms
-Salary Component Account,,unreviewed,hrms
-Salary Component Based,,unreviewed,hrms
-Salary Component Type,,unreviewed,hrms
-Salary Component for timesheet based payroll.,,unreviewed,hrms
-Salary Component {0} cannot be selected more than once in Employee Benefits,,unreviewed,hrms
-Salary Component {0} is currently not used in any Salary Structure.,,unreviewed,hrms
-Salary Component {0} must be of type 'Earning' to be used in Employee Benefit Ledger,,unreviewed,hrms
-Salary Detail,,unreviewed,hrms
-Salary Details,,unreviewed,hrms
-Salary Expectation,,unreviewed,hrms
-Salary Information,,unreviewed,hrms
-Salary Paid Per,,unreviewed,hrms
-Salary Payments Based On Payment Mode,,unreviewed,hrms
-Salary Payments via ECS,,unreviewed,hrms
-Salary Range,,unreviewed,hrms
-Salary Register,,unreviewed,hrms
-Salary Slip Based on Timesheet,,unreviewed,hrms
-Salary Slip ID,,unreviewed,hrms
-Salary Slip Leave,,unreviewed,hrms
-Salary Slip Loan,,unreviewed,hrms
-Salary Slip Reference,,unreviewed,hrms
-Salary Slip Timesheet,,unreviewed,hrms
-Salary Slip already exists for {0} for the given dates,,unreviewed,hrms
-Salary Slip creation is queued. It may take a few minutes,,unreviewed,hrms
-Salary Slip not found.,,unreviewed,hrms
-Salary Slip of employee {0} already created for this period,,unreviewed,hrms
-Salary Slip of employee {0} already created for time sheet {1},,unreviewed,hrms
-Salary Slip submission is queued. It may take a few minutes,,unreviewed,hrms
-Salary Slip {0} failed for Payroll Entry {1},,unreviewed,hrms
-Salary Slip {0} failed. You can resolve the {1} and retry {0}.,,unreviewed,hrms
-Salary Slips,,unreviewed,hrms
-Salary Slips Created,,unreviewed,hrms
-Salary Slips Submitted,,unreviewed,hrms
-"Salary Slips already exist for employees {}, and will not be processed by this payroll.",,unreviewed,hrms
-Salary Slips submitted for period from {0} to {1},,unreviewed,hrms
-Salary Structure,,unreviewed,hrms
-Salary Structure Assignment,,unreviewed,hrms
-Salary Structure Assignment field,,unreviewed,hrms
-Salary Structure Assignment for Employee already exists,,unreviewed,hrms
-Salary Structure Assignment not found for employee {0} on date {1},,unreviewed,hrms
-Salary Structure Missing,,unreviewed,hrms
-Salary Structure must be submitted before submission of {0},,unreviewed,hrms
-Salary Structure not assigned for employee {0} for date {1},,unreviewed,hrms
-Salary Structure {0} does not belong to company {1},,unreviewed,hrms
-Salary Structures updated successfully,,unreviewed,hrms
-Salary Withholding Cycle,,unreviewed,hrms
-Salary Withholding {0} already exists for employee {1} for the selected period,,unreviewed,hrms
-"Salary already processed for period between {0} and {1}, Leave application period cannot be between this date range.",,unreviewed,hrms
-Salary breakup based on Earning and Deduction.,,unreviewed,hrms
-"Salary components of type Provident Fund, Additional Provident Fund or Provident Fund Loan are not set up.",,unreviewed,hrms
-Salary components should be part of the Salary Structure.,,unreviewed,hrms
-Salary slip emails have been enqueued for sending. Check {0} for status.,,unreviewed,hrms
-Sanctioned Amount,,unreviewed,hrms
-Sanctioned Amount (Company Currency),,unreviewed,hrms
-Sanctioned Amount cannot be greater than Claim Amount in Row {0}.,,unreviewed,hrms
-Scheduled On,,unreviewed,hrms
-Score Earned,,unreviewed,hrms
-Score must be less than or equal to 5,,unreviewed,hrms
-Scores,,unreviewed,hrms
-Search for Jobs,,unreviewed,hrms
-Select Applicable Components for Overtime Type,,unreviewed,hrms
-Select Interview Round First,,unreviewed,hrms
-Select Interview first,,unreviewed,hrms
-Select Month for LWP Reversal,,unreviewed,hrms
-Select Payment Account to make Bank Entry,,unreviewed,hrms
-Select Payroll Frequency.,,unreviewed,hrms
-Select Property,,unreviewed,hrms
-Select Shift Requests,,unreviewed,hrms
-Select Terms and Conditions,,unreviewed,hrms
-Select Users,,unreviewed,hrms
-Select an employee to get the employee advance.,,unreviewed,hrms
-Select the Employee for which you want to allocate leaves.,,unreviewed,hrms
-Select the Employee.,,unreviewed,hrms
-"Select the Leave Type like Sick leave, Privilege Leave, Casual Leave, etc.",,unreviewed,hrms
-Select the date after which this Leave Allocation will expire.,,unreviewed,hrms
-Select the date from which this Leave Allocation will be valid.,,unreviewed,hrms
-Select the end date for your Leave Application.,,unreviewed,hrms
-Select the salary components whose total will be used from the salary slip to calculate the hourly overtime rate.,,unreviewed,hrms
-Select the start date for your Leave Application.,,unreviewed,hrms
-Select this if you want shift assignments to be automatically created indefinitely.,,unreviewed,hrms
-"Select type of leave the employee wants to apply for, like Sick Leave, Privilege Leave, Casual Leave, etc.",,unreviewed,hrms
-Select your Leave Approver i.e. the person who approves or rejects your leaves.,,unreviewed,hrms
-Self Appraisal,,unreviewed,hrms
-Self Appraisal Pending: {0},,unreviewed,hrms
-Self Appraisal Score,,unreviewed,hrms
-Self Score,,unreviewed,hrms
-Self-Study,,unreviewed,hrms
-Self-approval for Expense Claims is not allowed,,unreviewed,hrms
-Self-approval for leaves is not allowed,,unreviewed,hrms
-Seminar,,unreviewed,hrms
-Send Emails At,,unreviewed,hrms
-Send Exit Questionnaire,,unreviewed,hrms
-Send Exit Questionnaires,,unreviewed,hrms
-Send Interview Feedback Reminder,,unreviewed,hrms
-Send Interview Reminder,,unreviewed,hrms
-Send Leave Notification,,unreviewed,hrms
-Sender Copy,,unreviewed,hrms
-Sending Failed due to missing email information for employee(s): {1},,unreviewed,hrms
-Sent Successfully: {0},,unreviewed,hrms
-Sep,,unreviewed,hrms
-Separation Activities,,unreviewed,hrms
-Separation Begins On,,unreviewed,hrms
-Service Details,,unreviewed,hrms
-Service Expense,,unreviewed,hrms
-"Set ""From(Year)"" and ""To(Year)"" to 0 for no upper and lower limit.",,unreviewed,hrms
-Set Assignment Details,,unreviewed,hrms
-Set Leave Details,,unreviewed,hrms
-Set Relieving Date for Employee: {0},,unreviewed,hrms
-Set filters to fetch employees,,unreviewed,hrms
-Set opening balances for earnings and taxes from the previous employer,,unreviewed,hrms
-Set optional filters to fetch employees in the appraisee list,,unreviewed,hrms
-Set the default account for the {0} {1},,unreviewed,hrms
-Set the frequency for holiday reminders,,unreviewed,hrms
-Set the properties that should be updated in the Employee master on promotion submission,,unreviewed,hrms
-Set the status to {0} if required.,,unreviewed,hrms
-Set {0} for selected employees,,unreviewed,hrms
-Settings Missing,,unreviewed,hrms
-Settle against Advances,,unreviewed,hrms
-Settle all Payables and Receivables before submission,,unreviewed,hrms
-Shared document with the user {0} with 'Submit' permission,,unreviewed,hrms
-Shift & Attendance,,unreviewed,hrms
-Shift Actual End,,unreviewed,hrms
-Shift Actual End Time,,unreviewed,hrms
-Shift Actual Start,,unreviewed,hrms
-Shift Actual Start Time,,unreviewed,hrms
-Shift Assignment,,unreviewed,hrms
-Shift Assignment Details,,unreviewed,hrms
-Shift Assignment History,,unreviewed,hrms
-Shift Assignment Tool,,unreviewed,hrms
-Shift Assignment: {0} created for Employee: {1},,unreviewed,hrms
-Shift Assignments created for the schedule between {0} and {1} via background job,,unreviewed,hrms
-Shift Attendance,,unreviewed,hrms
-Shift Details,,unreviewed,hrms
-Shift End,,unreviewed,hrms
-Shift End Time,,unreviewed,hrms
-Shift Request Approver,,unreviewed,hrms
-Shift Request Filters,,unreviewed,hrms
-Shift Requests ending before this date will be excluded.,,unreviewed,hrms
-Shift Requests starting after this date will be excluded.,,unreviewed,hrms
-Shift Settings,,unreviewed,hrms
-Shift Start,,unreviewed,hrms
-Shift Start Time,,unreviewed,hrms
-Shift Status,,unreviewed,hrms
-Shift Timings,,unreviewed,hrms
-Shift Tools,,unreviewed,hrms
-Shift Type,,unreviewed,hrms
-Shift and Attendance,,unreviewed,hrms
-Shift assignments for {0} after {1} are already created. Please change {2} date to a date later than {3} {4},,unreviewed,hrms
-Shift has been successfully updated to {0}.,,unreviewed,hrms
-Shifts,,unreviewed,hrms
-Show Employee,,unreviewed,hrms
-Show Leave Balances in Salary Slip,,unreviewed,hrms
-Show Leaves Of All Department Members In Calendar,,unreviewed,hrms
-Show Salary Slip,,unreviewed,hrms
-Showing,,unreviewed,hrms
-Sick Leave,,unreviewed,hrms
-Single Assignment,,unreviewed,hrms
-Skill Assessment,,unreviewed,hrms
-Skill Name,,unreviewed,hrms
-Skip Auto Attendance,,unreviewed,hrms
-"Skipping Salary Structure Assignment for the following employees, as Salary Structure Assignment records already exists against them. {0}",,unreviewed,hrms
-Source and Rating,,unreviewed,hrms
-Source and target shifts cannot be the same,,unreviewed,hrms
-Sponsored Amount,,unreviewed,hrms
-Staffing Details,,unreviewed,hrms
-Staffing Plan,,unreviewed,hrms
-Staffing Plan Detail,,unreviewed,hrms
-Staffing Plan {0} already exist for designation {1},,unreviewed,hrms
-Standard Multiplier,,unreviewed,hrms
-Standard Tax Exemption Amount,,unreviewed,hrms
-Standard Working Hours,,unreviewed,hrms
-"Start and end dates not in a valid Payroll Period, cannot calculate {0}.",,unreviewed,hrms
-Start date cannot be greater than end date,,unreviewed,hrms
-Start date cannot be greater than end date.,,unreviewed,hrms
-Start date: {0},,unreviewed,hrms
-Start time and end time cannot be same.,,unreviewed,hrms
-Statistical Component,,unreviewed,hrms
-Status for Other Half,,unreviewed,hrms
-Stock Options,,unreviewed,hrms
-Stop users from making Leave Applications on following days.,,unreviewed,hrms
-Strictly based on Log Type in Employee Checkin,,unreviewed,hrms
-Structures have been assigned successfully,,unreviewed,hrms
-Submission Date,,unreviewed,hrms
-Submission Failed,,unreviewed,hrms
-Submission of {0} before {1} is not allowed,,unreviewed,hrms
-Submit Feedback,,unreviewed,hrms
-Submit Now,,unreviewed,hrms
-Submit Overtime Slips,,unreviewed,hrms
-Submit Proof,,unreviewed,hrms
-Submit Salary Slip,,unreviewed,hrms
-Submit this Leave Application to confirm.,,unreviewed,hrms
-Submit this to create the Employee record,,unreviewed,hrms
-Submitted via Payroll Entry,,unreviewed,hrms
-Submitting Salary Slips and creating Journal Entry...,,unreviewed,hrms
-Submitting Salary Slips...,,unreviewed,hrms
-Subsidiary companies have already planned for {1} vacancies at a budget of {2}. Staffing Plan for {0} should allocate more vacancies and budget for {3} than planned for its subsidiary companies,,unreviewed,hrms
-Successfully created {0} for employees:,,unreviewed,hrms
-Successfully {0} {1} for the following employees:,,unreviewed,hrms
-Sum of all previous slabs,,unreviewed,hrms
-Sum of benefit amounts {0} exceeds maximum limit of {1},,unreviewed,hrms
-Summarized View,,unreviewed,hrms
-Sync {0},,unreviewed,hrms
-Syntax error,,unreviewed,hrms
-Syntax error in condition: {0} in Income Tax Slab,,unreviewed,hrms
-Take Exact Completed Years,,unreviewed,hrms
-Tax & Benefits,,unreviewed,hrms
-Tax Deducted Till Date,,unreviewed,hrms
-Tax Exemption Category,,unreviewed,hrms
-Tax Exemption Declaration,,unreviewed,hrms
-Tax Exemption Proofs,,unreviewed,hrms
-Tax Setup,,unreviewed,hrms
-Tax on additional salary,,unreviewed,hrms
-Tax on flexible benefit,,unreviewed,hrms
-Taxable Earnings Till Date,,unreviewed,hrms
-Taxable Income Relief Threshold Limit,,unreviewed,hrms
-Taxable Salary Slab,,unreviewed,hrms
-Taxable Salary Slabs,,unreviewed,hrms
-Taxes & Charges,,unreviewed,hrms
-Taxes and Charges on Income Tax,,unreviewed,hrms
-Taxi,,unreviewed,hrms
-Team Advances,,unreviewed,hrms
-Team Claims,,unreviewed,hrms
-Team Leaves,,unreviewed,hrms
-Team Requests,,unreviewed,hrms
-Team Updates,,unreviewed,hrms
-Tenure,,unreviewed,hrms
-Thank you for applying.,,unreviewed,hrms
-The currency of {0} should be same as the company's default currency. Please select another account.,,unreviewed,hrms
-The date on which Salary Component with Amount will contribute for Earnings/Deduction in Salary Slip. ,,unreviewed,hrms
-The day of the month when leaves should be allocated,,unreviewed,hrms
-The day(s) on which you are applying for leave are holidays. You need not apply for leave.,,unreviewed,hrms
-The days between {0} to {1} are not valid holidays.,,unreviewed,hrms
-The fraction of Daily Salary per Leave should be between 0 and 1,,unreviewed,hrms
-The fraction of daily wages to be paid for half-day attendance,,unreviewed,hrms
-The metrics for this report are calculated based on the {0}. Please set {0} in {1}.,,unreviewed,hrms
-The metrics for this report are calculated based on {0}. Please set {0} in {1}.,,unreviewed,hrms
-"The salary slip emailed to the employee will be password protected, the password will be generated based on the password policy.",,unreviewed,hrms
-The time after the shift start time when check-in is considered as late (in minutes).,,unreviewed,hrms
-The time before the shift end time when check-out is considered as early (in minutes).,,unreviewed,hrms
-The time before the shift start time during which Employee Check-in is considered for attendance.,,unreviewed,hrms
-Theory,,unreviewed,hrms
-There are more holidays than working days this month.,,unreviewed,hrms
-There are no arrear differences between existing and new salary structure components.,,unreviewed,hrms
-There are no vacancies under staffing plan {0},,unreviewed,hrms
-There is no Salary Structure assigned to {0}. First assign a Salary Structure.,,unreviewed,hrms
-There's no Employee with Salary Structure: {0}. Assign {1} to an Employee to preview Salary Slip,,unreviewed,hrms
-"These leaves are holidays permitted by the company however, availing it is optional for an Employee.",,unreviewed,hrms
-This action will prevent making changes to the linked appraisal feedback/goals.,,unreviewed,hrms
-"This check-in is outside assigned shift hours and will not be considered for attendance. If a shift is assigned, adjust its time window and Fetch Shift again.",,unreviewed,hrms
-This compensatory leave will be applicable from {0}.,,unreviewed,hrms
-This employee already has a log with the same timestamp.{0},,unreviewed,hrms
-This error can be due to invalid formula or condition.,,unreviewed,hrms
-This error can be due to invalid syntax.,,unreviewed,hrms
-This error can be due to missing or deleted field.,,unreviewed,hrms
-This field allows you to set the maximum number of consecutive leaves an Employee can apply for.,,unreviewed,hrms
-This field allows you to set the maximum number of leaves that can be allocated annually for this Leave Type while creating the Leave Policy,,unreviewed,hrms
-This is based on the attendance of this Employee,,unreviewed,hrms
-This method is only meant for developer mode,,unreviewed,hrms
-This will overwrite the tax component {0} in the salary slip and tax won't be calculated based on the Income Tax Slabs,,unreviewed,hrms
-This will submit Salary Slips and create accrual Journal Entry. Do you want to proceed?,,unreviewed,hrms
-Time after the end of shift during which check-out is considered for attendance.,,unreviewed,hrms
-Time taken to fill the open positions,,unreviewed,hrms
-Time to Fill,,unreviewed,hrms
-Timelines,,unreviewed,hrms
-Timesheet Details,,unreviewed,hrms
-Timing,,unreviewed,hrms
-To Amount,,unreviewed,hrms
-To Date should be greater than From Date,,unreviewed,hrms
-"To allow this, enable {0} under {1}.",,unreviewed,hrms
-To apply for a Half Day check 'Half Day' and select the Half Day Date,,unreviewed,hrms
-To date can not be equal or less than from date,,unreviewed,hrms
+Review various other settings related to Employee Leaves and Expense Claim,Bekijk diverse andere instellingen met betrekking tot werknemersverlof en declaraties,reviewed,hrms
+Reviewer,Beoordelaar,reviewed,hrms
+Reviewer Name,Naam beoordelaar,reviewed,hrms
+Revised CTC,Herzien CTC,reviewed,hrms
+Role Allowed to Create Backdated Leave Application,Rol die teruggedateerde verlofaanvragen mag aanmaken,reviewed,hrms
+Roster,Rooster,reviewed,hrms
+Roster Color,Roosterkleur,reviewed,hrms
+Round Name,Naam gespreksronde,reviewed,hrms
+Round off Work Experience,Werkervaring afronden,reviewed,hrms
+Round to the Nearest Integer,Afronden naar het dichtstbijzijnde gehele getal,reviewed,hrms
+Rounding,Afronding,reviewed,hrms
+Route to the custom Job Application Webform,Verwijzen naar het aangepaste sollicitatiewebformulier,reviewed,hrms
+Row #{0}: Cannot set amount or formula for Salary Component {1} with Variable Based On Taxable Salary,Rij #{0}: Kan geen bedrag of formule instellen voor salariscomponent {1} met variabele op basis van belastbaar salaris,reviewed,hrms
+Row #{0}: The {1} Component has the options {2} and {3} enabled.,Rij #{0}: De component {1} heeft de opties {2} en {3} ingeschakeld.,reviewed,hrms
+Row #{0}: Timesheet amount will overwrite the Earning component amount for the Salary Component {1},Rij #{0}: Het urenstaaatbedrag overschrijft het bedrag van de verdienstecomponent voor salariscomponent {1},reviewed,hrms
+Row No {0}: Amount cannot be greater than the Outstanding Amount against Expense Claim {1}. Outstanding Amount is {2},Rij nr. {0}: Bedrag mag niet groter zijn dan het openstaande bedrag bij declaratie {1}. Openstaand bedrag is {2},reviewed,hrms
+Row {0}# Allocated amount {1} cannot be greater than unclaimed amount {2},Rij {0}# Toegewezen bedrag {1} mag niet groter zijn dan het niet-gedeclareerde bedrag {2},reviewed,hrms
+Row {0}# Paid Amount cannot be greater than Encashment amount,Rij {0}# Betaald bedrag mag niet groter zijn dan het uitbetalingsbedrag,reviewed,hrms
+Row {0}# Paid Amount cannot be greater than Total amount,Rij {0}# Betaald bedrag mag niet groter zijn dan het totaalbedrag,reviewed,hrms
+Row {0}# Paid Amount cannot be greater than requested advance amount,Rij {0}# Betaald bedrag mag niet groter zijn dan het gevraagde voorschotbedrag,reviewed,hrms
+Row {0}: From (Year) can not be greater than To (Year),Rij {0}: Van (jaar) mag niet groter zijn dan Tot (jaar),reviewed,hrms
+Row {0}: Goal Score cannot be greater than {1},Rij {0}: Doelscore mag niet groter zijn dan {1},reviewed,hrms
+Row {0}: Paid amount {1} is greater than pending accrued amount {2} against loan {3},Rij {0}: Betaald bedrag {1} is groter dan het openstaande opgebouwde bedrag {2} bij lening {3},reviewed,hrms
+Row {0}: {1},Rij {0}: {1},reviewed,hrms
+Row {0}: {1} is required in the expenses table to book an expense claim.,Rij {0}: {1} is verplicht in de declaratietabel om een declaratie te boeken.,reviewed,hrms
+Salary Component,Salariscomponent,reviewed,hrms
+Salary Component ,Salariscomponent,reviewed,hrms
+Salary Component Account,Rekening salariscomponent,reviewed,hrms
+Salary Component Based,Op salariscomponent gebaseerd,reviewed,hrms
+Salary Component Type,Type salariscomponent,reviewed,hrms
+Salary Component for timesheet based payroll.,Salariscomponent voor op urenregistratie gebaseerde salarisadministratie.,reviewed,hrms
+Salary Component {0} cannot be selected more than once in Employee Benefits,Salariscomponent {0} kan niet meer dan eenmaal worden geselecteerd in werknemersvoordelen,reviewed,hrms
+Salary Component {0} is currently not used in any Salary Structure.,Salariscomponent {0} wordt momenteel niet gebruikt in een salarisstructuur.,reviewed,hrms
+Salary Component {0} must be of type 'Earning' to be used in Employee Benefit Ledger,Salariscomponent {0} moet van het type 'Verdienste' zijn om te worden gebruikt in het werknemersvoordelengrootboek,reviewed,hrms
+Salary Detail,Salarisdetail,reviewed,hrms
+Salary Details,Salarisdetails,reviewed,hrms
+Salary Expectation,Salarisverwachting,reviewed,hrms
+Salary Information,Salarisgegevens,reviewed,hrms
+Salary Paid Per,Salaris betaald per,reviewed,hrms
+Salary Payments Based On Payment Mode,Salarisbetalingen op basis van betalingswijze,reviewed,hrms
+Salary Payments via ECS,Salarisbetalingen via ECS,reviewed,hrms
+Salary Range,Salarisschaal,reviewed,hrms
+Salary Register,Salarisregister,reviewed,hrms
+Salary Slip Based on Timesheet,Salarisstrook op basis van urenregistratie,reviewed,hrms
+Salary Slip ID,Salarisstrook-ID,reviewed,hrms
+Salary Slip Leave,Verlof op salarisstrook,reviewed,hrms
+Salary Slip Loan,Lening op salarisstrook,reviewed,hrms
+Salary Slip Reference,Referentie salarisstrook,reviewed,hrms
+Salary Slip Timesheet,Urenregistratie salarisstrook,reviewed,hrms
+Salary Slip already exists for {0} for the given dates,Salarisstrook bestaat al voor {0} voor de opgegeven datums,reviewed,hrms
+Salary Slip creation is queued. It may take a few minutes,Aanmaken van salarisstrook staat in de wachtrij. Dit kan enkele minuten duren,reviewed,hrms
+Salary Slip not found.,Salarisstrook niet gevonden.,reviewed,hrms
+Salary Slip of employee {0} already created for this period,Salarisstrook van werknemer {0} is al aangemaakt voor deze periode,reviewed,hrms
+Salary Slip of employee {0} already created for time sheet {1},Salarisstrook van werknemer {0} is al aangemaakt voor urenregistratie {1},reviewed,hrms
+Salary Slip submission is queued. It may take a few minutes,Indienen van salarisstrook staat in de wachtrij. Dit kan enkele minuten duren,reviewed,hrms
+Salary Slip {0} failed for Payroll Entry {1},Salarisstrook {0} is mislukt voor salarisadministratiepost {1},reviewed,hrms
+Salary Slip {0} failed. You can resolve the {1} and retry {0}.,Salarisstrook {0} is mislukt. U kunt {1} oplossen en {0} opnieuw proberen.,reviewed,hrms
+Salary Slips,Salarisstroken,reviewed,hrms
+Salary Slips Created,Salarisstroken aangemaakt,reviewed,hrms
+Salary Slips Submitted,Salarisstroken ingediend,reviewed,hrms
+"Salary Slips already exist for employees {}, and will not be processed by this payroll.",Salarisstroken bestaan al voor werknemers {} en worden niet verwerkt door deze salarisadministratie.,reviewed,hrms
+Salary Slips submitted for period from {0} to {1},Salarisstroken ingediend voor de periode van {0} tot {1},reviewed,hrms
+Salary Structure,Salarisstructuur,reviewed,hrms
+Salary Structure Assignment,Salarisstructuurtoewijzing,reviewed,hrms
+Salary Structure Assignment field,Veld salarisstructuurtoewijzing,reviewed,hrms
+Salary Structure Assignment for Employee already exists,Salarisstructuurtoewijzing voor werknemer bestaat al,reviewed,hrms
+Salary Structure Assignment not found for employee {0} on date {1},Salarisstructuurtoewijzing niet gevonden voor werknemer {0} op datum {1},reviewed,hrms
+Salary Structure Missing,Salarisstructuur ontbreekt,reviewed,hrms
+Salary Structure must be submitted before submission of {0},Salarisstructuur moet ingediend zijn voordat {0} kan worden ingediend,reviewed,hrms
+Salary Structure not assigned for employee {0} for date {1},Salarisstructuur niet toegewezen aan werknemer {0} voor datum {1},reviewed,hrms
+Salary Structure {0} does not belong to company {1},Salarisstructuur {0} behoort niet tot bedrijf {1},reviewed,hrms
+Salary Structures updated successfully,Salarisstructuren succesvol bijgewerkt,reviewed,hrms
+Salary Withholding Cycle,Salarisinhoudingscyclus,reviewed,hrms
+Salary Withholding {0} already exists for employee {1} for the selected period,Salarisinhouding {0} bestaat al voor werknemer {1} voor de geselecteerde periode,reviewed,hrms
+"Salary already processed for period between {0} and {1}, Leave application period cannot be between this date range.",Salaris is al verwerkt voor de periode van {0} tot {1}. De verlofaanvraagperiode mag niet binnen dit datumbereik vallen.,reviewed,hrms
+Salary breakup based on Earning and Deduction.,Salarisopbouw op basis van verdiensten en inhoudingen.,reviewed,hrms
+"Salary components of type Provident Fund, Additional Provident Fund or Provident Fund Loan are not set up.","Salariscomponenten van het type Provident Fund, Aanvullend Provident Fund of Provident Fund Lening zijn niet ingesteld.",reviewed,hrms
+Salary components should be part of the Salary Structure.,Salariscomponenten moeten onderdeel zijn van de salarisstructuur.,reviewed,hrms
+Salary slip emails have been enqueued for sending. Check {0} for status.,E-mails met salarisstroken staan in de wachtrij voor verzending. Controleer {0} voor de status.,reviewed,hrms
+Sanctioned Amount,Goedgekeurd bedrag,reviewed,hrms
+Sanctioned Amount (Company Currency),Goedgekeurd bedrag (bedrijfsvaluta),reviewed,hrms
+Sanctioned Amount cannot be greater than Claim Amount in Row {0}.,Goedgekeurd bedrag mag niet groter zijn dan het declaratiebedrag in rij {0}.,reviewed,hrms
+Scheduled On,Gepland op,reviewed,hrms
+Score Earned,Behaalde score,reviewed,hrms
+Score must be less than or equal to 5,Score moet kleiner dan of gelijk zijn aan 5,reviewed,hrms
+Scores,Scores,reviewed,hrms
+Search for Jobs,Zoeken naar vacatures,reviewed,hrms
+Select Applicable Components for Overtime Type,Selecteer van toepassing zijnde componenten voor overwerktype,reviewed,hrms
+Select Interview Round First,Selecteer eerst een gespreksronde,reviewed,hrms
+Select Interview first,Selecteer eerst een gesprek,reviewed,hrms
+Select Month for LWP Reversal,Selecteer maand voor LWP-terugboeking,reviewed,hrms
+Select Payment Account to make Bank Entry,Selecteer betaalrekening om een bankboeking te maken,reviewed,hrms
+Select Payroll Frequency.,Selecteer salarisfrequentie.,reviewed,hrms
+Select Property,Selecteer eigenschap,reviewed,hrms
+Select Shift Requests,Selecteer dienstverzoeken,reviewed,hrms
+Select Terms and Conditions,Selecteer algemene voorwaarden,reviewed,hrms
+Select Users,Selecteer gebruikers,reviewed,hrms
+Select an employee to get the employee advance.,Selecteer een werknemer om het werknemersvoorschot op te halen.,reviewed,hrms
+Select the Employee for which you want to allocate leaves.,Selecteer de werknemer voor wie u verlof wilt toewijzen.,reviewed,hrms
+Select the Employee.,Selecteer de werknemer.,reviewed,hrms
+"Select the Leave Type like Sick leave, Privilege Leave, Casual Leave, etc.","Selecteer het verloftype, zoals ziekteverlof, buitengewoon verlof, gewoon verlof, enz.",reviewed,hrms
+Select the date after which this Leave Allocation will expire.,Selecteer de datum waarna deze verloeftoewijzing vervalt.,reviewed,hrms
+Select the date from which this Leave Allocation will be valid.,Selecteer de datum vanaf wanneer deze verloftoewijzing geldig is.,reviewed,hrms
+Select the end date for your Leave Application.,Selecteer de einddatum voor uw verlofaanvraag.,reviewed,hrms
+Select the salary components whose total will be used from the salary slip to calculate the hourly overtime rate.,Selecteer de salariscomponenten waarvan het totaal uit de salarisstrook wordt gebruikt om het uurloon voor overwerk te berekenen.,reviewed,hrms
+Select the start date for your Leave Application.,Selecteer de startdatum voor uw verlofaanvraag.,reviewed,hrms
+Select this if you want shift assignments to be automatically created indefinitely.,Selecteer dit als u wilt dat diensttoewijzingen automatisch voor onbepaalde tijd worden aangemaakt.,reviewed,hrms
+"Select type of leave the employee wants to apply for, like Sick Leave, Privilege Leave, Casual Leave, etc.","Selecteer het verloftype waarvoor de werknemer een aanvraag wil indienen, zoals ziekteverlof, buitengewoon verlof, gewoon verlof, enz.",reviewed,hrms
+Select your Leave Approver i.e. the person who approves or rejects your leaves.,"Selecteer uw verlofgoedkeurder, de persoon die uw verlofaanvragen goedkeurt of afwijst.",reviewed,hrms
+Self Appraisal,Zelfbeoordeling,reviewed,hrms
+Self Appraisal Pending: {0},Zelfbeoordeling in behandeling: {0},reviewed,hrms
+Self Appraisal Score,Score zelfbeoordeling,reviewed,hrms
+Self Score,Eigen score,reviewed,hrms
+Self-Study,Zelfstudie,reviewed,hrms
+Self-approval for Expense Claims is not allowed,Zelfgoedkeuring van declaraties is niet toegestaan,reviewed,hrms
+Self-approval for leaves is not allowed,Zelfgoedkeuring van verlof is niet toegestaan,reviewed,hrms
+Seminar,Seminar,reviewed,hrms
+Send Emails At,E-mails verzenden om,reviewed,hrms
+Send Exit Questionnaire,Exitvragenlijst verzenden,reviewed,hrms
+Send Exit Questionnaires,Exitvragenlijsten verzenden,reviewed,hrms
+Send Interview Feedback Reminder,Herinnering sollicitatiegesprekfeedback verzenden,reviewed,hrms
+Send Interview Reminder,Herinnering sollicitatiegesprek verzenden,reviewed,hrms
+Send Leave Notification,Verlofmelding verzenden,reviewed,hrms
+Sender Copy,Kopie afzender,reviewed,hrms
+Sending Failed due to missing email information for employee(s): {1},Verzenden mislukt vanwege ontbrekende e-mailgegevens voor werknemer(s): {1},reviewed,hrms
+Sent Successfully: {0},Succesvol verzonden: {0},reviewed,hrms
+Sep,Sep,reviewed,hrms
+Separation Activities,Uitdienstactiviteiten,reviewed,hrms
+Separation Begins On,Uitdiensttreding begint op,reviewed,hrms
+Service Details,Dienstgegevens,reviewed,hrms
+Service Expense,Dienstdeclaratie,reviewed,hrms
+"Set ""From(Year)"" and ""To(Year)"" to 0 for no upper and lower limit.","Stel ""Van(jaar)"" en ""Tot(jaar)"" in op 0 voor geen onder- en bovengrens.",reviewed,hrms
+Set Assignment Details,Toewijzingsgegevens instellen,reviewed,hrms
+Set Leave Details,Verlofgegevens instellen,reviewed,hrms
+Set Relieving Date for Employee: {0},Uitdienstdatum instellen voor werknemer: {0},reviewed,hrms
+Set filters to fetch employees,Stel filters in om werknemers op te halen,reviewed,hrms
+Set opening balances for earnings and taxes from the previous employer,Stel beginsaldi in voor inkomsten en belastingen van de vorige werkgever,reviewed,hrms
+Set optional filters to fetch employees in the appraisee list,Stel optionele filters in om werknemers op te halen in de beoordeeldenlijst,reviewed,hrms
+Set the default account for the {0} {1},Stel de standaardrekening in voor {0} {1},reviewed,hrms
+Set the frequency for holiday reminders,Stel de frequentie voor vakantieherinneringen in,reviewed,hrms
+Set the properties that should be updated in the Employee master on promotion submission,Stel de eigenschappen in die in het werknemersstamblad moeten worden bijgewerkt bij het indienen van een promotie,reviewed,hrms
+Set the status to {0} if required.,Stel indien nodig de status in op {0}.,reviewed,hrms
+Set {0} for selected employees,Stel {0} in voor geselecteerde werknemers,reviewed,hrms
+Settings Missing,Instellingen ontbreken,reviewed,hrms
+Settle against Advances,Verrekenen met voorschotten,reviewed,hrms
+Settle all Payables and Receivables before submission,Vereken alle crediteuren en debiteuren voor indiening,reviewed,hrms
+Shared document with the user {0} with 'Submit' permission,Document gedeeld met gebruiker {0} met de machtiging 'Indienen',reviewed,hrms
+Shift & Attendance,Dienst en aanwezigheid,reviewed,hrms
+Shift Actual End,Werkelijke diensteinde,reviewed,hrms
+Shift Actual End Time,Werkelijke eindtijd dienst,reviewed,hrms
+Shift Actual Start,Werkelijke dienststart,reviewed,hrms
+Shift Actual Start Time,Werkelijke starttijd dienst,reviewed,hrms
+Shift Assignment,Diensttoewijzing,reviewed,hrms
+Shift Assignment Details,Diensttoewijzingsgegevens,reviewed,hrms
+Shift Assignment History,Diensttoewijzingsgeschiedenis,reviewed,hrms
+Shift Assignment Tool,Diensttoewijzingstool,reviewed,hrms
+Shift Assignment: {0} created for Employee: {1},Diensttoewijzing: {0} aangemaakt voor werknemer: {1},reviewed,hrms
+Shift Assignments created for the schedule between {0} and {1} via background job,Diensttoewijzingen aangemaakt voor het schema tussen {0} en {1} via achtergrondtaak,reviewed,hrms
+Shift Attendance,Dienstregistratie,reviewed,hrms
+Shift Details,Dienstgegevens,reviewed,hrms
+Shift End,Diensteinde,reviewed,hrms
+Shift End Time,Eindtijd dienst,reviewed,hrms
+Shift Request Approver,Dienstverzoekgoedkeurder,reviewed,hrms
+Shift Request Filters,Filters dienstverzoek,reviewed,hrms
+Shift Requests ending before this date will be excluded.,Dienstverzoeken die eindigen voor deze datum worden uitgesloten.,reviewed,hrms
+Shift Requests starting after this date will be excluded.,Dienstverzoeken die beginnen na deze datum worden uitgesloten.,reviewed,hrms
+Shift Settings,Dienstinstellingen,reviewed,hrms
+Shift Start,Dienststart,reviewed,hrms
+Shift Start Time,Starttijd dienst,reviewed,hrms
+Shift Status,Dienststatus,reviewed,hrms
+Shift Timings,Diensttijden,reviewed,hrms
+Shift Tools,Diensttools,reviewed,hrms
+Shift Type,Diensttype,reviewed,hrms
+Shift and Attendance,Dienst en aanwezigheid,reviewed,hrms
+Shift assignments for {0} after {1} are already created. Please change {2} date to a date later than {3} {4},Diensttoewijzingen voor {0} na {1} zijn al aangemaakt. Wijzig de datum van {2} naar een datum later dan {3} {4},reviewed,hrms
+Shift has been successfully updated to {0}.,De dienst is succesvol bijgewerkt naar {0}.,reviewed,hrms
+Shifts,Diensten,reviewed,hrms
+Show Employee,Werknemer tonen,reviewed,hrms
+Show Leave Balances in Salary Slip,Verlofsaldi tonen in salarisstrook,reviewed,hrms
+Show Leaves Of All Department Members In Calendar,Verlof van alle afdelingsleden tonen in kalender,reviewed,hrms
+Show Salary Slip,Salarisstrook tonen,reviewed,hrms
+Showing,Weergave,reviewed,hrms
+Sick Leave,Ziekteverlof,reviewed,hrms
+Single Assignment,Enkele toewijzing,reviewed,hrms
+Skill Assessment,Vaardigheidsbeoordeling,reviewed,hrms
+Skill Name,Naam vaardigheid,reviewed,hrms
+Skip Auto Attendance,Automatische aanwezigheidsregistratie overslaan,reviewed,hrms
+"Skipping Salary Structure Assignment for the following employees, as Salary Structure Assignment records already exists against them. {0}","Salarisstructuurtoewijzing wordt overgeslagen voor de volgende werknemers, omdat er al salarisstructuurtoewijzingsrecords voor hen bestaan. {0}",reviewed,hrms
+Source and Rating,Bron en beoordeling,reviewed,hrms
+Source and target shifts cannot be the same,Bron- en doeldienst mogen niet hetzelfde zijn,reviewed,hrms
+Sponsored Amount,Gesponsord bedrag,reviewed,hrms
+Staffing Details,Personeelsgegevens,reviewed,hrms
+Staffing Plan,Personeelsplan,reviewed,hrms
+Staffing Plan Detail,Personeelsplandetail,reviewed,hrms
+Staffing Plan {0} already exist for designation {1},Personeelsplan {0} bestaat al voor de functie {1},reviewed,hrms
+Standard Multiplier,Standaard vermenigvuldiger,reviewed,hrms
+Standard Tax Exemption Amount,Standaard belastingvrijstellingsbedrag,reviewed,hrms
+Standard Working Hours,Standaard werkuren,reviewed,hrms
+"Start and end dates not in a valid Payroll Period, cannot calculate {0}.","Start- en einddatum vallen niet binnen een geldig salarisperiode, kan {0} niet berekenen.",reviewed,hrms
+Start date cannot be greater than end date,Startdatum kan niet later zijn dan einddatum,reviewed,hrms
+Start date cannot be greater than end date.,Startdatum kan niet later zijn dan einddatum.,reviewed,hrms
+Start date: {0},Startdatum: {0},reviewed,hrms
+Start time and end time cannot be same.,Begintijd en eindtijd mogen niet hetzelfde zijn.,reviewed,hrms
+Statistical Component,Statistisch component,reviewed,hrms
+Status for Other Half,Status voor andere helft,reviewed,hrms
+Stock Options,Aandelenopties,reviewed,hrms
+Stop users from making Leave Applications on following days.,Voorkom dat gebruikers verlofaanvragen indienen op de volgende dagen.,reviewed,hrms
+Strictly based on Log Type in Employee Checkin,Strikt gebaseerd op logtype bij inchecken van werknemer,reviewed,hrms
+Structures have been assigned successfully,Structuren zijn succesvol toegewezen,reviewed,hrms
+Submission Date,Inzendingsdatum,reviewed,hrms
+Submission Failed,Indienen mislukt,reviewed,hrms
+Submission of {0} before {1} is not allowed,Indienen van {0} voor {1} is niet toegestaan,reviewed,hrms
+Submit Feedback,Feedback indienen,reviewed,hrms
+Submit Now,Nu indienen,reviewed,hrms
+Submit Overtime Slips,Overwerkstroken indienen,reviewed,hrms
+Submit Proof,Bewijs indienen,reviewed,hrms
+Submit Salary Slip,Salarisstrook indienen,reviewed,hrms
+Submit this Leave Application to confirm.,Dien deze verlofaanvraag in om te bevestigen.,reviewed,hrms
+Submit this to create the Employee record,Dien dit in om het werknemersdossier aan te maken,reviewed,hrms
+Submitted via Payroll Entry,Ingediend via salarisrun,reviewed,hrms
+Submitting Salary Slips and creating Journal Entry...,Salarisstroken indienen en journaalpost aanmaken...,reviewed,hrms
+Submitting Salary Slips...,Salarisstroken indienen...,reviewed,hrms
+Subsidiary companies have already planned for {1} vacancies at a budget of {2}. Staffing Plan for {0} should allocate more vacancies and budget for {3} than planned for its subsidiary companies,Dochtermaatschappijen hebben al {1} vacatures gepland met een Budget van {2}. Het personeelsplan voor {0} moet meer vacatures en Budget toewijzen voor {3} dan gepland voor de dochtermaatschappijen,reviewed,hrms
+Successfully created {0} for employees:,Succesvol {0} aangemaakt voor werknemers:,reviewed,hrms
+Successfully {0} {1} for the following employees:,Succesvol {0} {1} voor de volgende werknemers:,reviewed,hrms
+Sum of all previous slabs,Som van alle vorige schijven,reviewed,hrms
+Sum of benefit amounts {0} exceeds maximum limit of {1},Som van vergoedingsbedragen {0} overschrijdt het maximumlimiet van {1},reviewed,hrms
+Summarized View,Samengevatte weergave,reviewed,hrms
+Sync {0},Synchroniseer {0},reviewed,hrms
+Syntax error,Syntaxisfout,reviewed,hrms
+Syntax error in condition: {0} in Income Tax Slab,Syntaxisfout in voorwaarde: {0} in inkomstenbelastingschijf,reviewed,hrms
+Take Exact Completed Years,Exacte voltooide jaren gebruiken,reviewed,hrms
+Tax & Benefits,Belasting en vergoedingen,reviewed,hrms
+Tax Deducted Till Date,Ingehouden belasting tot heden,reviewed,hrms
+Tax Exemption Category,Belastingvrijstellingscategorie,reviewed,hrms
+Tax Exemption Declaration,Belastingvrijstellingsverklaring,reviewed,hrms
+Tax Exemption Proofs,Bewijsstukken belastingvrijstelling,reviewed,hrms
+Tax Setup,Belastinginstellingen,reviewed,hrms
+Tax on additional salary,Belasting over aanvullend salaris,reviewed,hrms
+Tax on flexible benefit,Belasting over flexibele vergoeding,reviewed,hrms
+Taxable Earnings Till Date,Belastbaar inkomen tot heden,reviewed,hrms
+Taxable Income Relief Threshold Limit,Drempelgrens belastingvrij inkomen,reviewed,hrms
+Taxable Salary Slab,Belastbare salarisschijf,reviewed,hrms
+Taxable Salary Slabs,Belastbare salarisschijven,reviewed,hrms
+Taxes & Charges,Belastingen en heffingen,reviewed,hrms
+Taxes and Charges on Income Tax,Belastingen en heffingen op inkomstenbelasting,reviewed,hrms
+Taxi,Taxi,reviewed,hrms
+Team Advances,Teamvoorschotten,reviewed,hrms
+Team Claims,Teamdeclaraties,reviewed,hrms
+Team Leaves,Teamverlof,reviewed,hrms
+Team Requests,Teamverzoeken,reviewed,hrms
+Team Updates,Teamupdates,reviewed,hrms
+Tenure,Dienstverband,reviewed,hrms
+Thank you for applying.,Bedankt voor uw aanmelding.,reviewed,hrms
+The currency of {0} should be same as the company's default currency. Please select another account.,De valuta van {0} moet overeenkomen met de standaardvaluta van het bedrijf. Selecteer een andere rekening.,reviewed,hrms
+The date on which Salary Component with Amount will contribute for Earnings/Deduction in Salary Slip. ,De datum waarop het salariscomponent met bedrag bijdraagt aan inkomsten of inhoudingen op de salarisstrook. ,reviewed,hrms
+The day of the month when leaves should be allocated,De dag van de maand waarop verlof toegewezen moet worden,reviewed,hrms
+The day(s) on which you are applying for leave are holidays. You need not apply for leave.,"De dag(en) waarvoor u verlof aanvraagt, zijn feestdagen. U hoeft geen verlof aan te vragen.",reviewed,hrms
+The days between {0} to {1} are not valid holidays.,De dagen tussen {0} en {1} zijn geen geldige feestdagen.,reviewed,hrms
+The fraction of Daily Salary per Leave should be between 0 and 1,De breuk van het dagloon per verlofdag moet tussen 0 en 1 liggen,reviewed,hrms
+The fraction of daily wages to be paid for half-day attendance,Het deel van het dagloon dat uitbetaald wordt bij halve-dagaanwezigheid,reviewed,hrms
+The metrics for this report are calculated based on the {0}. Please set {0} in {1}.,De statistieken voor dit rapport worden berekend op basis van {0}. Stel {0} in bij {1}.,reviewed,hrms
+The metrics for this report are calculated based on {0}. Please set {0} in {1}.,De statistieken voor dit rapport worden berekend op basis van {0}. Stel {0} in bij {1}.,reviewed,hrms
+"The salary slip emailed to the employee will be password protected, the password will be generated based on the password policy.",De per e-mail verstuurde salarisstrook is beveiligd met een wachtwoord dat gegenereerd wordt op basis van het wachtwoordbeleid.,reviewed,hrms
+The time after the shift start time when check-in is considered as late (in minutes).,De tijd na de begintijd van de dienst waarna inchecken als te laat wordt beschouwd (in minuten).,reviewed,hrms
+The time before the shift end time when check-out is considered as early (in minutes).,De tijd voor de eindtijd van de dienst waarvoor uitchecken als te vroeg wordt beschouwd (in minuten).,reviewed,hrms
+The time before the shift start time during which Employee Check-in is considered for attendance.,De tijd voor de begintijd van de dienst waarbinnen inchecken van de werknemer meetelt voor aanwezigheid.,reviewed,hrms
+Theory,Theorie,reviewed,hrms
+There are more holidays than working days this month.,Er zijn meer feestdagen dan werkdagen deze maand.,reviewed,hrms
+There are no arrear differences between existing and new salary structure components.,Er zijn geen nabetalingsverschillen tussen bestaande en nieuwe salarisstructuurcomponenten.,reviewed,hrms
+There are no vacancies under staffing plan {0},Er zijn geen vacatures onder personeelsplan {0},reviewed,hrms
+There is no Salary Structure assigned to {0}. First assign a Salary Structure.,Er is geen salarisstructuur toegewezen aan {0}. Wijs eerst een salarisstructuur toe.,reviewed,hrms
+There's no Employee with Salary Structure: {0}. Assign {1} to an Employee to preview Salary Slip,Er is geen werknemer met salarisstructuur: {0}. Wijs {1} toe aan een werknemer om de salarisstrook te bekijken,reviewed,hrms
+"These leaves are holidays permitted by the company however, availing it is optional for an Employee.","Dit verlof betreft vrije dagen die het bedrijf toestaat, maar het gebruik ervan is optioneel voor een werknemer.",reviewed,hrms
+This action will prevent making changes to the linked appraisal feedback/goals.,Deze actie voorkomt dat wijzigingen aangebracht worden aan de gekoppelde beoordelingsfeedback of doelstellingen.,reviewed,hrms
+"This check-in is outside assigned shift hours and will not be considered for attendance. If a shift is assigned, adjust its time window and Fetch Shift again.","Deze inchecking valt buiten de toegewezen diensturen en telt niet mee voor aanwezigheid. Als er een dienst is toegewezen, pas het tijdvenster aan en haal de dienst opnieuw op.",reviewed,hrms
+This compensatory leave will be applicable from {0}.,Dit compensatieverlof is van toepassing vanaf {0}.,reviewed,hrms
+This employee already has a log with the same timestamp.{0},Deze werknemer heeft al een logboekregel met dezelfde tijdstempel.{0},reviewed,hrms
+This error can be due to invalid formula or condition.,Deze fout kan worden veroorzaakt door een ongeldige formule of voorwaarde.,reviewed,hrms
+This error can be due to invalid syntax.,Deze fout kan worden veroorzaakt door een ongeldige syntaxis.,reviewed,hrms
+This error can be due to missing or deleted field.,Deze fout kan worden veroorzaakt door een ontbrekend of verwijderd veld.,reviewed,hrms
+This field allows you to set the maximum number of consecutive leaves an Employee can apply for.,In dit veld kunt u het maximale aantal aaneengesloten verlofdagen instellen dat een werknemer kan aanvragen.,reviewed,hrms
+This field allows you to set the maximum number of leaves that can be allocated annually for this Leave Type while creating the Leave Policy,In dit veld kunt u het maximale aantal verlofdagen instellen dat jaarlijks toegewezen kan worden voor dit verloftype bij het aanmaken van het verlofbeleid,reviewed,hrms
+This is based on the attendance of this Employee,Dit is gebaseerd op de aanwezigheid van deze werknemer,reviewed,hrms
+This method is only meant for developer mode,Deze methode is alleen bedoeld voor de ontwikkelaarsmodus,reviewed,hrms
+This will overwrite the tax component {0} in the salary slip and tax won't be calculated based on the Income Tax Slabs,Dit overschrijft het belastingcomponent {0} in de salarisstrook en belasting wordt niet berekend op basis van de inkomstenbelastingschijven,reviewed,hrms
+This will submit Salary Slips and create accrual Journal Entry. Do you want to proceed?,Dit dient de salarisstroken in en maakt een transitorische journaalpost aan. Wilt u doorgaan?,reviewed,hrms
+Time after the end of shift during which check-out is considered for attendance.,Tijd na het einde van de dienst waarbinnen uitchecken meetelt voor aanwezigheid.,reviewed,hrms
+Time taken to fill the open positions,Tijd die nodig is om openstaande vacatures in te vullen,reviewed,hrms
+Time to Fill,Tijd om in te vullen,reviewed,hrms
+Timelines,Tijdlijnen,reviewed,hrms
+Timesheet Details,Urenstaatdetails,reviewed,hrms
+Timing,Tijdstelling,reviewed,hrms
+To Amount,Tot bedrag,reviewed,hrms
+To Date should be greater than From Date,Einddatum moet later zijn dan begindatum,reviewed,hrms
+"To allow this, enable {0} under {1}.","Om dit toe te staan, activeer {0} onder {1}.",reviewed,hrms
+To apply for a Half Day check 'Half Day' and select the Half Day Date,"Om een halve dag aan te vragen, vink 'Halve dag' aan en selecteer de datum van de halve dag",reviewed,hrms
+To date can not be equal or less than from date,Einddatum mag niet gelijk aan of eerder zijn dan begindatum,reviewed,hrms
 To date can not be greater than employee's relieving date.,,unreviewed,hrms
 To date can not be less than from date,,unreviewed,hrms
 To date can not greater than employee's relieving date,,unreviewed,hrms

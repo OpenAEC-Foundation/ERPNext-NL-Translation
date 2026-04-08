@@ -2399,306 +2399,306 @@ Credit Balance,Creditsaldo,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Credit Card,Creditcard,reviewed,erpnext,0.93,0.9,0.95,0.9,0.95,1.0,ok
 Credit Card Entry,Creditcardboeking,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Credit Days,Kredietdagen,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
-Credit Days cannot be a negative number,Kredietdagen mogen geen negatief getal zijn,reviewed,erpnext,,,,,,,
-Credit in Company Currency,Credit in bedrijfsvaluta,reviewed,erpnext,,,,,,,
-Credit Limit,Kredietlimiet,reviewed,erpnext,,,,,,,
-Credit Limit and Payment Terms,Kredietlimiet en betalingsvoorwaarden,reviewed,erpnext,,,,,,,
-Credit limit has been crossed for customer {0} ({1}/{2}),Kredietlimiet overschreden voor klant {0} ({1}/{2}),reviewed,erpnext,,,,,,,
-Credit limit is already defined for the Company {0},Kredietlimiet al gedefinieerd voor bedrijf {0},reviewed,erpnext,,,,,,,
-Credit limit reached for customer {0},Kredietlimiet bereikt voor klant {0},reviewed,erpnext,,,,,,,
-Credit Limits,Kredietlimieten,reviewed,erpnext,,,,,,,
-Credit Months,Kredietmaanden,reviewed,erpnext,,,,,,,
-Credit Note,Creditnota,reviewed,erpnext,,,,,,,
-Credit Note Amount,Credit Note Bedrag,reviewed,erpnext,,,,,,,
-Credit Note Issued,Creditnota uitgegeven,reviewed,erpnext,,,,,,,
-Credit Note {0} has been created automatically,Kredietnota {0} is automatisch aangemaakt,reviewed,erpnext,,,,,,,
-Credit To,Met dank aan,reviewed,erpnext,,,,,,,
-Creditors,crediteuren,reviewed,erpnext,,,,,,,
-Creditors Account set in Tally,Schuldeisersrekening ingesteld in Tally,reviewed,erpnext,,,,,,,
-Criteria,criteria,reviewed,erpnext,,,,,,,
-Criteria Formula,Criteria Formule,reviewed,erpnext,,,,,,,
-Criteria Name,Criteria Naam,reviewed,erpnext,,,,,,,
-Criteria Weight,Criteria Gewicht,reviewed,erpnext,,,,,,,
-Criteria weights must add up to 100%,Criteriumgewichten moeten maximaal 100%,reviewed,erpnext,,,,,,,
-Criticism,Kritiek,reviewed,frappe,,,,,,,
-Criticize,Bekritiseren,reviewed,frappe,,,,,,,
-Cron,cron,reviewed,frappe,,,,,,,
-Cron Format,Cron-indeling,reviewed,frappe,,,,,,,
-Crop,Gewas,reviewed,frappe,,,,,,,
-Crop Name,Gewasnaam,reviewed,erpnext,,,,,,,
-Crop Spacing,Uitsnede bijsnijden,reviewed,erpnext,,,,,,,
-Crop Spacing UOM,Gewasafstand UOM,reviewed,erpnext,,,,,,,
-Crops & Lands,Gewassen en land,reviewed,erpnext,,,,,,,
-Cross Listing of Item in multiple groups,Kruis Notering van Punt in meerdere groepen,reviewed,erpnext,,,,,,,
-CSS Class,CSS-klasse,reviewed,frappe,,,,,,,
-CTA Label,CTA-label,reviewed,frappe,,,,,,,
-CTA URL,CTA-URL,reviewed,frappe,,,,,,,
-Ctrl + Down,Ctrl + Omlaag,reviewed,frappe,,,,,,,
-Ctrl + Enter to submit,Ctrl + Enter om in te dienen,reviewed,erpnext,,,,,,,
-Ctrl + Up,Ctrl + Omhoog,reviewed,frappe,,,,,,,
-Ctrl+Enter to add comment,Ctrl + Enter om commentaar toe te voegen,reviewed,frappe,,,,,,,
-Ctrl+Enter to submit,Ctrl + Enter om te verzenden,reviewed,erpnext,,,,,,,
-Cumulative Transaction Threshold,Cumulatieve transactiedrempel,reviewed,erpnext,,,,,,,
-Currency,Valuta,reviewed,both,,,,,,,
-Currency and Price List,Valuta en Prijslijst,reviewed,erpnext,,,,,,,
-Currency can not be changed after making entries using some other currency,Valuta kan niet na het maken van data met behulp van een andere valuta worden veranderd,reviewed,erpnext,,,,,,,
-Currency Exchange,Wisselkoers,reviewed,erpnext,,,,,,,
-Currency Exchange must be applicable for Buying or for Selling.,Valutawissel moet van toepassing zijn voor Kopen of Verkopen.,reviewed,erpnext,,,,,,,
-Currency exchange rate master.,Wisselkoers stam.,reviewed,erpnext,,,,,,,
-Currency Exchange Settings,Valutaveursinstellingen,reviewed,erpnext,,,,,,,
-Currency for {0} must be {1},Munt voor {0} moet {1},reviewed,erpnext,,,,,,,
-Currency is required for Price List {0},Munt is nodig voor prijslijst {0},reviewed,erpnext,,,,,,,
-Currency Name,Valutanaam,reviewed,frappe,,,,,,,
-Currency of the Closing Account must be {0},Valuta van de Closing rekening moet worden {0},reviewed,erpnext,,,,,,,
-Currency of the price list {0} must be {1} or {2},Valuta van de prijslijst {0} moet {1} of {2} zijn,reviewed,erpnext,,,,,,,
-Currency Precision,Valuta Precisie,reviewed,frappe,,,,,,,
-Currency should be same as Price List Currency: {0},Valuta moet hetzelfde zijn als prijsvaluta: {0},reviewed,erpnext,,,,,,,
-Current,Actueel,reviewed,frappe,,,,,,,
-Current Academic Term,Huidige academische term,reviewed,erpnext,,,,,,,
-Current Academic Year,Huidig Academisch Jaar,reviewed,erpnext,,,,,,,
-Current Address,Huidige adres,reviewed,erpnext,,,,,,,
-Current Address Is,Huidige adres is,reviewed,erpnext,,,,,,,
-Current Amount,Huidige hoeveelheid,reviewed,erpnext,,,,,,,
-Current Asset Value,Huidige activawaarde,reviewed,erpnext,,,,,,,
-Current Assets,Vlottende Activa,reviewed,erpnext,,,,,,,
-Current Balance,Huidig saldo,reviewed,erpnext,,,,,,,
-Current BOM,Huidige Stuklijst,reviewed,erpnext,,,,,,,
-Current BOM and New BOM can not be same,Huidige stuklijst en nieuwe stuklijst kunnen niet hetzelfde zijn,reviewed,erpnext,,,,,,,
-Current Exchange Rate,Huidige wisselkoers,reviewed,erpnext,,,,,,,
-Current Fiscal Year,Huidige fiscale jaar,reviewed,erpnext,,,,,,,
-Current Invoice End Date,Huidige factuur einddatum,reviewed,erpnext,,,,,,,
-Current Invoice Start Date,Huidige startdatum factuur,reviewed,erpnext,,,,,,,
-Current invoice {0} is missing,Huidige factuur {0} ontbreekt,reviewed,erpnext,,,,,,,
-Current Liabilities,Kortlopende Schulden,reviewed,erpnext,,,,,,,
-Current Mapping,Huidige toewijzing,reviewed,frappe,,,,,,,
-Current Mapping Action,Huidige toewijzingsactie,reviewed,frappe,,,,,,,
-Current Mapping Delete Start,Huidige toewijzing Start verwijderen,reviewed,frappe,,,,,,,
-Current Mapping Start,Huidige toewijzingstart,reviewed,frappe,,,,,,,
-Current Mapping Type,Huidige toewijzingstype,reviewed,frappe,,,,,,,
-Current Order,Huidige bestelling,reviewed,erpnext,,,,,,,
-Current Qty,Huidige aantal,reviewed,erpnext,,,,,,,
-Current Serial No,Huidig serienummer,reviewed,erpnext,,,,,,,
-Current State,Huidige toestand,reviewed,erpnext,,,,,,,
-Current Status,Actuele status,reviewed,erpnext,,,,,,,
-Current status,Huidige status,reviewed,frappe,,,,,,,
-Current Stock,Huidige voorraad,reviewed,erpnext,,,,,,,
-Current Time,Huidige tijd,reviewed,erpnext,,,,,,,
-Current Valuation Rate,Huidige Valuation Rate,reviewed,erpnext,,,,,,,
-Currently no stock available in any warehouse,Momenteel geen voorraad beschikbaar in een magazijn,reviewed,erpnext,,,,,,,
-Currently Replying,Momenteel aan het beantwoorden,reviewed,frappe,,,,,,,
-Currently updating {0},Momenteel wordt {0} bijgewerkt,reviewed,frappe,,,,,,,
-Currently Viewing,Momenteel wordt bekeken,reviewed,frappe,,,,,,,
-Currently you have {0} review points,Momenteel heb je {0} beoordelingspunten,reviewed,frappe,,,,,,,
-Custodian,Bewaarder,reviewed,erpnext,,,,,,,
-Custody,Hechtenis,reviewed,erpnext,,,,,,,
-Custom,Aangepast,reviewed,frappe,,,,,,,
-Custom Base URL,Aangepaste basis-URL,reviewed,frappe,,,,,,,
-Custom Configuration,Aangepaste configuratie,reviewed,frappe,,,,,,,
-Custom CSS,Aangepaste CSS,reviewed,frappe,,,,,,,
-Custom Data,Aangepaste gegevens,reviewed,erpnext,,,,,,,
-Custom Documents,Aangepaste documenten,reviewed,frappe,,,,,,,
-Custom Field,Aangepast veld,reviewed,frappe,,,,,,,
-Custom Field {0} is created by the Administrator and can only be deleted through the Administrator account.,Aangepast veld {0} wordt gemaakt door de beheerder en kan alleen worden verwijderd via de beheerdersaccount.,reviewed,frappe,,,,,,,
-Custom Fields can only be added to a standard DocType.,Aangepaste velden kunnen alleen worden toegevoegd aan een standaard DocType.,reviewed,frappe,,,,,,,
-Custom Fields cannot be added to core DocTypes.,Aangepaste velden kunnen niet worden toegevoegd aan kern DocTypes.,reviewed,frappe,,,,,,,
-Custom Format,Aangepast formaat,reviewed,frappe,,,,,,,
-Custom HTML,Aangepaste HTML,reviewed,both,,,,,,,
-Custom HTML Help,Aangepaste HTML Help,reviewed,frappe,,,,,,,
-Custom JS,Aangepaste JS,reviewed,frappe,,,,,,,
-Custom Menu Items,Aangepaste menu-items,reviewed,frappe,,,,,,,
-Custom Options,Aangepaste opties,reviewed,frappe,,,,,,,
-Custom Overrides,Aangepaste overschrijvingen,reviewed,frappe,,,,,,,
-Custom Remarks,Aangepaste opmerkingen,reviewed,erpnext,,,,,,,
-Custom Report,Aangepast rapport,reviewed,frappe,,,,,,,
-Custom Reports,Aangepaste rapporten,reviewed,frappe,,,,,,,
-Custom Result,Aangepast resultaat,reviewed,erpnext,,,,,,,
-Custom Role,Aangepaste rol,reviewed,custom,,,,,,,
-Custom Script,Aangepast script,reviewed,frappe,,,,,,,
-Custom SCSS,Aangepaste SCSS,reviewed,frappe,,,,,,,
-Custom Signature in Print,Aangepaste handtekening in afdrukken,reviewed,erpnext,,,,,,,
-Custom Translations,Aangepaste vertalingen,reviewed,frappe,,,,,,,
-Custom?,Aangepast?,reviewed,both,,,,,,,
-Customer,Klant,reviewed,erpnext,,,,,,,
-Customer / Item Name,Klant / artikelnaam,reviewed,erpnext,,,,,,,
-Customer / Lead Address,Klant / lead-adres,reviewed,erpnext,,,,,,,
-Customer / Lead Name,Klant / leadnaam,reviewed,erpnext,,,,,,,
-Customer > Customer Group > Territory,Klant&gt; Klantengroep&gt; Gebied,reviewed,erpnext,,,,,,,
-Customer Acquisition and Loyalty,Klantenwerving en behoud,reviewed,erpnext,,,,,,,
-Customer Address,Klantadres,reviewed,erpnext,,,,,,,
-Customer Addresses And Contacts,Klantadressen en contacten,reviewed,erpnext,,,,,,,
-Customer and Supplier,Klant en leverancier,reviewed,erpnext,,,,,,,
-Customer Code,Klantcode,reviewed,erpnext,,,,,,,
-Customer Contact,Klantcontact,reviewed,erpnext,,,,,,,
-Customer Contact Email,E-mail klantcontact,reviewed,erpnext,,,,,,,
-Customer contact updated successfully.,Klantcontact succesvol bijgewerkt.,reviewed,erpnext,,,,,,,
-Customer Credit Balance,Creditsaldo klant,reviewed,erpnext,,,,,,,
-Customer Credit Limit,Kredietlimiet klant,reviewed,erpnext,,,,,,,
-Customer Database.,Klantenbestand.,reviewed,erpnext,,,,,,,
-Customer database.,Klantendatabase.,reviewed,erpnext,,,,,,,
-Customer Details,Klantgegevens,reviewed,erpnext,,,,,,,
-Customer Feedback,Klantenfeedback,reviewed,erpnext,,,,,,,
-Customer Group,Klantgroep,reviewed,erpnext,,,,,,,
-Customer Group Name,Naam klantengroep,reviewed,erpnext,,,,,,,
-Customer Group will set to selected group while syncing customers from Shopify,Klantgroep stelt de geselecteerde groep in terwijl klanten van Shopify worden gesynchroniseerd,reviewed,erpnext,,,,,,,
-Customer Groups,Klantengroepen,reviewed,erpnext,,,,,,,
-Customer GSTIN,Klant GSTIN,reviewed,erpnext,,,,,,,
-Customer ID,Klant-ID,reviewed,erpnext,,,,,,,
-Customer is required,Klant is verplicht,reviewed,erpnext,,,,,,,
-Customer isn't enrolled in any Loyalty Program,Klant is niet ingeschreven in een loyaliteitsprogramma,reviewed,erpnext,,,,,,,
-Customer Items,Klantartikelen,reviewed,erpnext,,,,,,,
-Customer Ledger Summary,Overzicht klantenboek,reviewed,erpnext,,,,,,,
-Customer LPO,Klant-LPO,reviewed,erpnext,,,,,,,
-Customer LPO No.,LPO-nummer klant,reviewed,erpnext,,,,,,,
-Customer Mobile No,Mobiel nummer klant,reviewed,erpnext,,,,,,,
-Customer Name,Klantnaam,reviewed,erpnext,,,,,,,
-Customer Naming By,Klantnaamgeving op basis van,reviewed,erpnext,,,,,,,
-Customer Not Found,Klant niet gevonden,reviewed,erpnext,,,,,,,
-Customer or Item,Klant of artikel,reviewed,erpnext,,,,,,,
-Customer or Supplier Details,Klant- of leveranciersgegevens,reviewed,erpnext,,,,,,,
-Customer PO,Inkoopordernr. klant,reviewed,erpnext,,,,,,,
-Customer PO Details,Inkoopordergegevens klant,reviewed,erpnext,,,,,,,
-Customer POS Id,Kassasysteem-ID klant,reviewed,erpnext,,,,,,,
-Customer POS id,Kassasysteem-ID klant,reviewed,erpnext,,,,,,,
-Customer Primary Address,Primair adres van klant,reviewed,erpnext,,,,,,,
-Customer Primary Contact,Hoofdcontactpersoon klant,reviewed,erpnext,,,,,,,
-Customer Provided,Door klant verstrekt,reviewed,erpnext,,,,,,,
-Customer required for 'Customerwise Discount',Klant nodig voor 'Klantgebaseerde Korting',reviewed,erpnext,,,,,,,
-Customer Service,Klantenservice,reviewed,erpnext,,,,,,,
-Customer Settings,Klantinstellingen,reviewed,erpnext,,,,,,,
-Customer Territory,Klantengebied,reviewed,erpnext,,,,,,,
-Customer Type,Klanttype,reviewed,erpnext,,,,,,,
-Customer Warehouse (Optional),Klantmagazijn (optioneel),reviewed,erpnext,,,,,,,
-Customer {0} does not belong to project {1},Klant {0} behoort niet tot project {1},reviewed,erpnext,,,,,,,
-Customer {0} is created.,Klant {0} is aangemaakt.,reviewed,erpnext,,,,,,,
-Customer's Item Code,Artikelcode van klant,reviewed,erpnext,,,,,,,
-Customer's Purchase Order,Inkooporder van klant,reviewed,erpnext,,,,,,,
-Customer's Purchase Order Date,Datum inkooporder klant,reviewed,erpnext,,,,,,,
-Customer's Purchase Order No,Inkoopordernummer van Klant,reviewed,erpnext,,,,,,,
-Customer-wise Item Price,Artikelprijs per klant,reviewed,erpnext,,,,,,,
-Customer/Lead Name,Naam klant / lead,reviewed,erpnext,,,,,,,
-Customers,Klanten,reviewed,erpnext,,,,,,,
-Customers in Queue,Klanten in de wachtrij,reviewed,erpnext,,,,,,,
-Customers not selected.,Klanten niet geselecteerd.,reviewed,erpnext,,,,,,,
-Customers Without Any Sales Transactions,Klanten zonder enige verkooptransacties,reviewed,erpnext,,,,,,,
-Customerwise Discount,Korting per klant,reviewed,erpnext,,,,,,,
-Customization,Maatwerk,reviewed,frappe,,,,,,,
-Customizations for <b>{0}</b> exported to:<br>{1},Aanpassingen voor <b>{0}</b> geëxporteerd naar: <br> {1},reviewed,frappe,,,,,,,
-Customizations Reset,Aanpassingen hersteld,reviewed,frappe,,,,,,,
-Customizations Saved Successfully,Aanpassingen succesvol opgeslagen,reviewed,frappe,,,,,,,
-Customize,Aanpassen,reviewed,frappe,,,,,,,
-Customize Form,Formulier aanpassen,reviewed,frappe,,,,,,,
-Customize Form Field,Formulierveld aanpassen,reviewed,frappe,,,,,,,
-Customize Homepage Sections,Homepage secties aanpassen,reviewed,erpnext,,,,,,,
-"Customize Label, Print Hide, Default etc.","Aanpassen Label, Print verbergen, Standaard, enz.",reviewed,frappe,,,,,,,
-Customize Workspace,Werkruimte aanpassen,reviewed,frappe,,,,,,,
-Customize...,Aanpassen...,reviewed,frappe,,,,,,,
-"Customized Formats for Printing, Email","Aangepaste Formaten voor afdrukken, e-mail",reviewed,frappe,,,,,,,
-Customized HTML Templates for printing transactions.,Aangepaste HTML sjablonen voor het afdrukken van transacties.,reviewed,frappe,,,,,,,
-Customizing Forms,Formulieren aanpassen,reviewed,erpnext,,,,,,,
-Customs Tariff Number,Douanetariefnummer,reviewed,erpnext,,,,,,,
-Cut,Knippen,reviewed,frappe,,,,,,,
-CWIP Account,CWIP-account,reviewed,erpnext,,,,,,,
-Cycle Type,Type cyclus,reviewed,erpnext,,,,,,,
-Dadra and Nagar Haveli,Dadra en Nagar Haveli,reviewed,frappe,,,,,,,
-Daily,Dagelijks,reviewed,both,,,,,,,
-Daily Event Digest is sent for Calendar Events where reminders are set.,Dagelijkse gebeurtenis Digest wordt gestuurd voor Agenda Events waar herinneringen worden ingesteld.,reviewed,frappe,,,,,,,
-Daily Events should finish on the Same Day.,Dagelijkse evenementen moeten op dezelfde dag eindigen.,reviewed,frappe,,,,,,,
-Daily Long,Dagelijks lang,reviewed,frappe,,,,,,,
-Daily Project Summary for {0},Dagelijkse projectsamenvatting voor {0},reviewed,erpnext,,,,,,,
-Daily Reminders,Dagelijkse herinneringen,reviewed,erpnext,,,,,,,
-Daily Timesheet Summary,Dagelijks Timesheet Samenvatting,reviewed,erpnext,,,,,,,
-Daily Work Summary,Dagelijks werkoverzicht,reviewed,custom,,,,,,,
-Daman and Diu,Daman en Diu,reviewed,frappe,,,,,,,
-Danger,Gevaar,reviewed,frappe,,,,,,,
-danger,Gevaar,reviewed,frappe,,,,,,,
-Dark Color,Donkere kleur,reviewed,frappe,,,,,,,
-darkgrey,donker grijs,reviewed,frappe,,,,,,,
-Dashboard Chart,Dashboardgrafiek,reviewed,frappe,,,,,,,
-Dashboard Chart Field,Dashboardgrafiekveld,reviewed,frappe,,,,,,,
-Dashboard Chart Link,Link naar dashboarddiagram,reviewed,frappe,,,,,,,
-Dashboard Chart Source,Bron van dashboarddiagram,reviewed,frappe,,,,,,,
-Dashboard Manager,Dashboardbeheerder,reviewed,frappe,,,,,,,
-Dashboard Name,Dashboardnaam,reviewed,frappe,,,,,,,
-Dashboard Settings,Dashboard-instellingen,reviewed,frappe,,,,,,,
-Dashboards,dashboards,reviewed,frappe,,,,,,,
-Data Export,Gegevens exporteren,reviewed,frappe,,,,,,,
-"Data exported from Tally that consists of the Chart of Accounts, Customers, Suppliers, Addresses, Items and UOMs","Uit Tally geëxporteerde gegevens die bestaan uit het rekeningschema, klanten, leveranciers, adressen, artikelen en maateenheden",reviewed,erpnext,,,,,,,
-Data Import,Gegevens importeren,reviewed,frappe,,,,,,,
-Data Import and Export,Gegevens importeren en exporteren,reviewed,erpnext,,,,,,,
-Data Import and Settings,Gegevens importeren en instellingen,reviewed,erpnext,,,,,,,
-Data Import Configuration,Gegevens importeren configuratie,reviewed,erpnext,,,,,,,
-Data Import Legacy,Gegevens importeren verouderd,reviewed,frappe,,,,,,,
-Data Import Log,Gegevensimport log,reviewed,custom,,,,,,,
-Data Import Template,Data Import Sjabloon,reviewed,frappe,,,,,,,
-Data Migration,Data migratie,reviewed,frappe,,,,,,,
-Data Migration Mapping,Mapping van gegevensmigratie,reviewed,frappe,,,,,,,
-Data Migration Plan,Gegevensmigratieplan,reviewed,frappe,,,,,,,
-Data Migration Plan Mapping,Mapping van gegevensmigratieplannen,reviewed,frappe,,,,,,,
-Data missing in table,Data ontbreekt in tabel,reviewed,frappe,,,,,,,
-Data Too Long,Gegevens te lang,reviewed,frappe,,,,,,,
-Database Name,Database naam,reviewed,frappe,,,,,,,
-Database of potential customers.,Database van potentiële klanten.,reviewed,erpnext,,,,,,,
-Date,Datum,reviewed,both,,,,,,,
-Date and Number Format,Datum en Nummer Formaat,reviewed,frappe,,,,,,,
-Date Based On,Datum gebaseerd op,reviewed,erpnext,,,,,,,
-Date Format,Datumnotatie,reviewed,both,,,,,,,
-Date of Birth,Geboortedatum,reviewed,erpnext,,,,,,,
-Date of birth,Geboortedatum,reviewed,erpnext,,,,,,,
-Date of Birth cannot be greater than Joining Date.,Geboortedatum kan niet groter zijn dan de datum van toetreding.,reviewed,erpnext,,,,,,,
-Date of Birth cannot be greater than today.,Geboortedatum mag niet groter zijn dan vandaag.,reviewed,erpnext,,,,,,,
-Date of Commencement,Aanvangsdatum,reviewed,erpnext,,,,,,,
-Date of Commencement should be greater than Date of Incorporation,Aanvangsdatum moet groter zijn dan de datum van oprichting,reviewed,erpnext,,,,,,,
-Date of Establishment,datum van oprichting,reviewed,erpnext,,,,,,,
-Date of Incorporation,Datum van oprichting,reviewed,erpnext,,,,,,,
-Date of Issue,Datum van afgifte,reviewed,erpnext,,,,,,,
-Date of Joining,Datum van indiensttreding,reviewed,erpnext,,,,,,,
-Date of Joining must be greater than Date of Birth,Datum van indiensttreding moet groter zijn dan geboortedatum,reviewed,erpnext,,,,,,,
-Date of Leaving,Datum waarop het vaartuig,reviewed,erpnext,,,,,,,
-Date Of Retirement,Pensioneringsdatum,reviewed,erpnext,,,,,,,
-Date Of Retirement must be greater than Date of Joining,Pensioneringsdatum moet groter zijn dan datum van indiensttreding,reviewed,erpnext,,,,,,,
-Date of Transaction,Transactiedatum,reviewed,erpnext,,,,,,,
-Date on which this component is applied,Datum waarop dit onderdeel wordt toegepast,reviewed,erpnext,,,,,,,
-Date Settings,date Settings,reviewed,erpnext,,,,,,,
-Date {0} must be in format: {1},Datum {0} moet de indeling hebben: {1},reviewed,frappe,,,,,,,
-Dates are often easy to guess.,Data zijn vaak gemakkelijk te raden.,reviewed,frappe,,,,,,,
-DATEV Settings,DATEV-instellingen,reviewed,erpnext,,,,,,,
-Day,Dag,reviewed,both,,,,,,,
-Day Book Data,Dagboekgegevens,reviewed,erpnext,,,,,,,
-Day Book Data exported from Tally that consists of all historic transactions,Uit Tally geëxporteerde dagboekgegevens die bestaan uit alle historische transacties,reviewed,erpnext,,,,,,,
-Day Of Week,Dag van de week,reviewed,erpnext,,,,,,,
-Day of Week,Dag van de week,reviewed,both,,,,,,,
-Day to Send,Dag om te verzenden,reviewed,erpnext,,,,,,,
-Day(s) after invoice date,Dag (en) na factuurdatum,reviewed,erpnext,,,,,,,
-Day(s) after the end of the invoice month,Dag (en) na het einde van de factuurmaand,reviewed,erpnext,,,,,,,
-Days,Dagen,reviewed,erpnext,,,,,,,
-Days After,Dagen na,reviewed,frappe,,,,,,,
-Days Before,Dagen voor,reviewed,frappe,,,,,,,
-Days Before or After,Dagen voor of na,reviewed,frappe,,,,,,,
-Days for which Holidays are blocked for this department.,Dagen waarvoor feestdagen zijn geblokkeerd voor deze afdeling.,reviewed,erpnext,,,,,,,
-Days Since Last Order,Dagen sinds laatste bestelling,reviewed,erpnext,,,,,,,
-Days Since Last order,Dagen sinds laatste Order,reviewed,erpnext,,,,,,,
-Days Until Due,Dagen tot Due,reviewed,erpnext,,,,,,,
-days.,dagen.,reviewed,erpnext,,,,,,,
-dd-mm-yyyy,dd-mm-jjjj,reviewed,frappe,,,,,,,
-dd.mm.yyyy,dd.mm.jjjj,reviewed,frappe,,,,,,,
-dd/mm/yyyy,dd/mm/jjjj,reviewed,frappe,,,,,,,
-Dear,Geachte,reviewed,both,,,,,,,
-"Dear System Manager,","Geachte Systeemmanager,",reviewed,both,,,,,,,
-"Dear User,","Beste gebruiker,",reviewed,frappe,,,,,,,
-Dear {0},Beste {0},reviewed,frappe,,,,,,,
-Debit,Debet,reviewed,erpnext,,,,,,,
-Debit ({0}),Debet ({0}),reviewed,erpnext,,,,,,,
-Debit Account,Debetrekening,reviewed,erpnext,,,,,,,
-Debit Amount,Debet Bedrag,reviewed,erpnext,,,,,,,
-Debit Amount in Account Currency,Debet Bedrag in account Valuta,reviewed,erpnext,,,,,,,
-Debit and Credit not equal for {0} #{1}. Difference is {2}.,Debet en Credit niet gelijk voor {0} # {1}. Verschil {2}.,reviewed,erpnext,,,,,,,
-Debit in Company Currency,Debet in Company Valuta,reviewed,erpnext,,,,,,,
-Debit Note,Debetnota,reviewed,erpnext,,,,,,,
-Debit Note Amount,Debietnota Bedrag,reviewed,erpnext,,,,,,,
-Debit Note Issued,Debetnota uitgegeven,reviewed,erpnext,,,,,,,
-Debit To,Debitering van,reviewed,erpnext,,,,,,,
-Debit to,Debiteren naar,reviewed,erpnext,,,,,,,
-Debit To is required,Debet Om vereist,reviewed,erpnext,,,,,,,
+Credit Days cannot be a negative number,Kredietdagen mogen geen negatief getal zijn,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Credit in Company Currency,Credit in bedrijfsvaluta,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Credit Limit,Kredietlimiet,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Credit Limit and Payment Terms,Kredietlimiet en betalingsvoorwaarden,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Credit limit has been crossed for customer {0} ({1}/{2}),Kredietlimiet overschreden voor klant {0} ({1}/{2}),reviewed,erpnext,0.85,0.85,0.8,0.85,0.8,1.0,ok
+Credit limit is already defined for the Company {0},Kredietlimiet al gedefinieerd voor bedrijf {0},reviewed,erpnext,0.81,0.8,0.75,0.85,0.75,1.0,ok
+Credit limit reached for customer {0},Kredietlimiet bereikt voor klant {0},reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Credit Limits,Kredietlimieten,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Credit Months,Kredietmaanden,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Credit Note,Creditnota,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Credit Note Amount,Credit Note Bedrag,reviewed,erpnext,0.33,0.3,0.3,0.2,0.5,0.8,rewrite
+Credit Note Issued,Creditnota uitgegeven,reviewed,erpnext,0.88,0.9,0.85,0.85,0.9,1.0,ok
+Credit Note {0} has been created automatically,Kredietnota {0} is automatisch aangemaakt,reviewed,erpnext,0.76,0.75,0.75,0.65,0.85,1.0,review
+Credit To,Met dank aan,reviewed,erpnext,0.28,0.2,0.2,0.2,0.6,0.8,rewrite
+Creditors,crediteuren,reviewed,erpnext,0.7,0.75,0.7,0.6,0.5,1.0,review
+Creditors Account set in Tally,Schuldeisersrekening ingesteld in Tally,reviewed,erpnext,0.72,0.75,0.65,0.65,0.7,1.0,review
+Criteria,criteria,reviewed,erpnext,0.69,0.75,0.7,0.6,0.5,1.0,review
+Criteria Formula,Criteria Formule,reviewed,erpnext,0.55,0.55,0.5,0.5,0.5,1.0,review
+Criteria Name,Criteria Naam,reviewed,erpnext,0.55,0.55,0.5,0.5,0.5,1.0,review
+Criteria Weight,Criteria Gewicht,reviewed,erpnext,0.55,0.55,0.5,0.5,0.5,1.0,review
+Criteria weights must add up to 100%,Criteriumgewichten moeten maximaal 100%,reviewed,erpnext,0.54,0.6,0.45,0.55,0.4,0.7,review
+Criticism,Kritiek,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Criticize,Bekritiseren,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Cron,cron,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Cron Format,Cron-indeling,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Crop,Gewas,reviewed,frappe,0.72,0.7,0.65,0.65,0.9,1.0,review
+Crop Name,Gewasnaam,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Crop Spacing,Uitsnede bijsnijden,reviewed,erpnext,0.15,0.15,0.1,0.1,0.2,0.5,rewrite
+Crop Spacing UOM,Gewasafstand UOM,reviewed,erpnext,0.8,0.8,0.75,0.75,0.8,1.0,ok
+Crops & Lands,Gewassen en land,reviewed,erpnext,0.75,0.75,0.7,0.7,0.8,0.9,review
+Cross Listing of Item in multiple groups,Kruis Notering van Punt in meerdere groepen,reviewed,erpnext,0.22,0.2,0.15,0.15,0.2,0.8,rewrite
+CSS Class,CSS-klasse,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
+CTA Label,CTA-label,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+CTA URL,CTA-URL,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Ctrl + Down,Ctrl + Omlaag,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Ctrl + Enter to submit,Ctrl + Enter om in te dienen,reviewed,erpnext,0.68,0.7,0.6,0.65,0.7,1.0,review
+Ctrl + Up,Ctrl + Omhoog,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Ctrl+Enter to add comment,Ctrl + Enter om commentaar toe te voegen,reviewed,frappe,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Ctrl+Enter to submit,Ctrl + Enter om te verzenden,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Cumulative Transaction Threshold,Cumulatieve transactiedrempel,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Currency,Valuta,reviewed,both,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Currency and Price List,Valuta en Prijslijst,reviewed,erpnext,0.78,0.8,0.75,0.75,0.7,1.0,review
+Currency can not be changed after making entries using some other currency,Valuta kan niet na het maken van data met behulp van een andere valuta worden veranderd,reviewed,erpnext,0.63,0.65,0.55,0.6,0.55,1.0,review
+Currency Exchange,Wisselkoers,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Currency Exchange must be applicable for Buying or for Selling.,Valutawissel moet van toepassing zijn voor Kopen of Verkopen.,reviewed,erpnext,0.72,0.75,0.65,0.65,0.7,1.0,review
+Currency exchange rate master.,Wisselkoers stam.,reviewed,erpnext,0.53,0.55,0.45,0.5,0.5,1.0,review
+Currency Exchange Settings,Valutaveursinstellingen,reviewed,erpnext,0.18,0.2,0.15,0.15,0.1,0.7,rewrite
+Currency for {0} must be {1},Munt voor {0} moet {1},reviewed,erpnext,0.6,0.65,0.55,0.55,0.5,0.8,review
+Currency is required for Price List {0},Munt is nodig voor prijslijst {0},reviewed,erpnext,0.63,0.65,0.6,0.55,0.6,0.9,review
+Currency Name,Valutanaam,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Currency of the Closing Account must be {0},Valuta van de Closing rekening moet worden {0},reviewed,erpnext,0.52,0.55,0.45,0.5,0.4,0.9,review
+Currency of the price list {0} must be {1} or {2},Valuta van de prijslijst {0} moet {1} of {2} zijn,reviewed,erpnext,0.86,0.85,0.85,0.85,0.85,1.0,ok
+Currency Precision,Valuta Precisie,reviewed,frappe,0.73,0.75,0.7,0.7,0.65,1.0,review
+Currency should be same as Price List Currency: {0},Valuta moet hetzelfde zijn als prijsvaluta: {0},reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,0.9,review
+Current,Actueel,reviewed,frappe,0.82,0.8,0.8,0.75,0.9,1.0,ok
+Current Academic Term,Huidige academische term,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Current Academic Year,Huidig Academisch Jaar,reviewed,erpnext,0.72,0.75,0.7,0.65,0.65,1.0,review
+Current Address,Huidige adres,reviewed,erpnext,0.67,0.7,0.65,0.65,0.6,1.0,review
+Current Address Is,Huidige adres is,reviewed,erpnext,0.67,0.7,0.65,0.65,0.6,1.0,review
+Current Amount,Huidige hoeveelheid,reviewed,erpnext,0.61,0.6,0.55,0.55,0.6,1.0,review
+Current Asset Value,Huidige activawaarde,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Current Assets,Vlottende Activa,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Current Balance,Huidig saldo,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Current BOM,Huidige Stuklijst,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Current BOM and New BOM can not be same,Huidige stuklijst en nieuwe stuklijst kunnen niet hetzelfde zijn,reviewed,erpnext,0.86,0.85,0.85,0.85,0.85,1.0,ok
+Current Exchange Rate,Huidige wisselkoers,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Current Fiscal Year,Huidige fiscale jaar,reviewed,erpnext,0.67,0.7,0.65,0.65,0.6,1.0,review
+Current Invoice End Date,Huidige factuur einddatum,reviewed,erpnext,0.73,0.75,0.7,0.7,0.7,1.0,review
+Current Invoice Start Date,Huidige startdatum factuur,reviewed,erpnext,0.73,0.75,0.7,0.7,0.7,1.0,review
+Current invoice {0} is missing,Huidige factuur {0} ontbreekt,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Current Liabilities,Kortlopende Schulden,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Current Mapping,Huidige toewijzing,reviewed,frappe,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Current Mapping Action,Huidige toewijzingsactie,reviewed,frappe,0.79,0.8,0.75,0.75,0.8,1.0,review
+Current Mapping Delete Start,Huidige toewijzing Start verwijderen,reviewed,frappe,0.62,0.65,0.55,0.55,0.55,1.0,review
+Current Mapping Start,Huidige toewijzingstart,reviewed,frappe,0.67,0.7,0.65,0.65,0.6,1.0,review
+Current Mapping Type,Huidige toewijzingstype,reviewed,frappe,0.73,0.75,0.7,0.7,0.7,1.0,review
+Current Order,Huidige bestelling,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Current Qty,Huidige aantal,reviewed,erpnext,0.67,0.7,0.65,0.65,0.6,1.0,review
+Current Serial No,Huidig serienummer,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Current State,Huidige toestand,reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,1.0,review
+Current Status,Actuele status,reviewed,erpnext,0.77,0.8,0.75,0.65,0.8,1.0,review
+Current status,Huidige status,reviewed,frappe,0.85,0.85,0.85,0.8,0.9,1.0,ok
+Current Stock,Huidige voorraad,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Current Time,Huidige tijd,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Current Valuation Rate,Huidige Valuation Rate,reviewed,erpnext,0.33,0.35,0.3,0.25,0.3,0.6,rewrite
+Currently no stock available in any warehouse,Momenteel geen voorraad beschikbaar in een magazijn,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Currently Replying,Momenteel aan het beantwoorden,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Currently updating {0},Momenteel wordt {0} bijgewerkt,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Currently Viewing,Momenteel wordt bekeken,reviewed,frappe,0.73,0.75,0.7,0.7,0.65,1.0,review
+Currently you have {0} review points,Momenteel heb je {0} beoordelingspunten,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Custodian,Bewaarder,reviewed,erpnext,0.75,0.75,0.7,0.7,0.8,1.0,review
+Custody,Hechtenis,reviewed,erpnext,0.42,0.4,0.35,0.35,0.6,0.8,review
+Custom,Aangepast,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Custom Base URL,Aangepaste basis-URL,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Custom Configuration,Aangepaste configuratie,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Custom CSS,Aangepaste CSS,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Custom Data,Aangepaste gegevens,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Custom Documents,Aangepaste documenten,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Custom Field,Aangepast veld,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Custom Field {0} is created by the Administrator and can only be deleted through the Administrator account.,Aangepast veld {0} wordt gemaakt door de beheerder en kan alleen worden verwijderd via de beheerdersaccount.,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Custom Fields can only be added to a standard DocType.,Aangepaste velden kunnen alleen worden toegevoegd aan een standaard DocType.,reviewed,frappe,0.89,0.85,0.85,0.9,0.95,1.0,ok
+Custom Fields cannot be added to core DocTypes.,Aangepaste velden kunnen niet worden toegevoegd aan kern DocTypes.,reviewed,frappe,0.78,0.75,0.7,0.8,0.9,1.0,review
+Custom Format,Aangepast formaat,reviewed,frappe,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Custom HTML,Aangepaste HTML,reviewed,both,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Custom HTML Help,Aangepaste HTML Help,reviewed,frappe,0.88,0.85,0.8,0.85,1.0,1.0,ok
+Custom JS,Aangepaste JS,reviewed,frappe,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Custom Menu Items,Aangepaste menu-items,reviewed,frappe,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Custom Options,Aangepaste opties,reviewed,frappe,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Custom Overrides,Aangepaste overschrijvingen,reviewed,frappe,0.74,0.7,0.65,0.75,0.9,1.0,review
+Custom Remarks,Aangepaste opmerkingen,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Custom Report,Aangepast rapport,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Custom Reports,Aangepaste rapporten,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Custom Result,Aangepast resultaat,reviewed,erpnext,0.85,0.8,0.8,0.8,1.0,1.0,ok
+Custom Role,Aangepaste rol,reviewed,custom,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Custom Script,Aangepast script,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Custom SCSS,Aangepaste SCSS,reviewed,frappe,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Custom Signature in Print,Aangepaste handtekening in afdrukken,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Custom Translations,Aangepaste vertalingen,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Custom?,Aangepast?,reviewed,both,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer,Klant,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Customer / Item Name,Klant / artikelnaam,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Customer / Lead Address,Klant / lead-adres,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Customer / Lead Name,Klant / leadnaam,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Customer > Customer Group > Territory,Klant&gt; Klantengroep&gt; Gebied,reviewed,erpnext,0.49,0.5,0.4,0.5,0.4,0.8,rewrite
+Customer Acquisition and Loyalty,Klantenwerving en behoud,reviewed,erpnext,0.79,0.8,0.75,0.75,0.85,0.9,review
+Customer Address,Klantadres,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer Addresses And Contacts,Klantadressen en contacten,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer and Supplier,Klant en leverancier,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer Code,Klantcode,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer Contact,Klantcontact,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer Contact Email,E-mail klantcontact,reviewed,erpnext,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Customer contact updated successfully.,Klantcontact succesvol bijgewerkt.,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer Credit Balance,Creditsaldo klant,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer Credit Limit,Kredietlimiet klant,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer Database.,Klantenbestand.,reviewed,erpnext,0.79,0.75,0.75,0.75,0.9,1.0,review
+Customer database.,Klantendatabase.,reviewed,erpnext,0.7,0.65,0.65,0.65,0.8,1.0,review
+Customer Details,Klantgegevens,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer Feedback,Klantenfeedback,reviewed,erpnext,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Customer Group,Klantgroep,reviewed,erpnext,0.82,0.8,0.8,0.7,1.0,1.0,ok
+Customer Group Name,Naam klantengroep,reviewed,erpnext,0.75,0.75,0.7,0.65,0.9,1.0,review
+Customer Group will set to selected group while syncing customers from Shopify,Klantgroep stelt de geselecteerde groep in terwijl klanten van Shopify worden gesynchroniseerd,reviewed,erpnext,0.63,0.65,0.55,0.6,0.65,0.9,review
+Customer Groups,Klantengroepen,reviewed,erpnext,0.83,0.8,0.8,0.7,1.0,1.0,ok
+Customer GSTIN,Klant GSTIN,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer ID,Klant-ID,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer is required,Klant is verplicht,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer isn't enrolled in any Loyalty Program,Klant is niet ingeschreven in een loyaliteitsprogramma,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Customer Items,Klantartikelen,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer Ledger Summary,Overzicht klantenboek,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer LPO,Klant-LPO,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer LPO No.,LPO-nummer klant,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer Mobile No,Mobiel nummer klant,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer Name,Klantnaam,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Customer Naming By,Klantnaamgeving op basis van,reviewed,erpnext,0.76,0.75,0.7,0.7,0.8,1.0,review
+Customer Not Found,Klant niet gevonden,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer or Item,Klant of artikel,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer or Supplier Details,Klant- of leveranciersgegevens,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer PO,Inkoopordernr. klant,reviewed,erpnext,0.77,0.75,0.7,0.7,0.85,1.0,review
+Customer PO Details,Inkoopordergegevens klant,reviewed,erpnext,0.77,0.75,0.7,0.7,0.85,1.0,review
+Customer POS Id,Kassasysteem-ID klant,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Customer POS id,Kassasysteem-ID klant,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Customer Primary Address,Primair adres van klant,reviewed,erpnext,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Customer Primary Contact,Hoofdcontactpersoon klant,reviewed,erpnext,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Customer Provided,Door klant verstrekt,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer required for 'Customerwise Discount',Klant nodig voor 'Klantgebaseerde Korting',reviewed,erpnext,0.66,0.65,0.6,0.6,0.7,0.9,review
+Customer Service,Klantenservice,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer Settings,Klantinstellingen,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer Territory,Klantengebied,reviewed,erpnext,0.84,0.8,0.8,0.75,1.0,1.0,ok
+Customer Type,Klanttype,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer Warehouse (Optional),Klantmagazijn (optioneel),reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer {0} does not belong to project {1},Klant {0} behoort niet tot project {1},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer {0} is created.,Klant {0} is aangemaakt.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer's Item Code,Artikelcode van klant,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer's Purchase Order,Inkooporder van klant,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer's Purchase Order Date,Datum inkooporder klant,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer's Purchase Order No,Inkoopordernummer van Klant,reviewed,erpnext,0.8,0.8,0.75,0.75,0.85,1.0,ok
+Customer-wise Item Price,Artikelprijs per klant,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customer/Lead Name,Naam klant / lead,reviewed,erpnext,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Customers,Klanten,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Customers in Queue,Klanten in de wachtrij,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customers not selected.,Klanten niet geselecteerd.,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customers Without Any Sales Transactions,Klanten zonder enige verkooptransacties,reviewed,erpnext,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Customerwise Discount,Korting per klant,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customization,Maatwerk,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customizations for <b>{0}</b> exported to:<br>{1},Aanpassingen voor <b>{0}</b> geëxporteerd naar: <br> {1},reviewed,frappe,0.71,0.7,0.65,0.7,0.75,0.9,review
+Customizations Reset,Aanpassingen hersteld,reviewed,frappe,0.79,0.75,0.75,0.75,0.9,1.0,review
+Customizations Saved Successfully,Aanpassingen succesvol opgeslagen,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customize,Aanpassen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customize Form,Formulier aanpassen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customize Form Field,Formulierveld aanpassen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customize Homepage Sections,Homepage secties aanpassen,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
+"Customize Label, Print Hide, Default etc.","Aanpassen Label, Print verbergen, Standaard, enz.",reviewed,frappe,0.58,0.55,0.5,0.55,0.55,0.9,review
+Customize Workspace,Werkruimte aanpassen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customize...,Aanpassen...,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Customized Formats for Printing, Email","Aangepaste Formaten voor afdrukken, e-mail",reviewed,frappe,0.78,0.75,0.7,0.75,0.8,1.0,review
+Customized HTML Templates for printing transactions.,Aangepaste HTML sjablonen voor het afdrukken van transacties.,reviewed,frappe,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Customizing Forms,Formulieren aanpassen,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Customs Tariff Number,Douanetariefnummer,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cut,Knippen,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
+CWIP Account,CWIP-account,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cycle Type,Type cyclus,reviewed,erpnext,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Dadra and Nagar Haveli,Dadra en Nagar Haveli,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Daily,Dagelijks,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Daily Event Digest is sent for Calendar Events where reminders are set.,Dagelijkse gebeurtenis Digest wordt gestuurd voor Agenda Events waar herinneringen worden ingesteld.,reviewed,frappe,0.51,0.5,0.4,0.5,0.5,0.8,review
+Daily Events should finish on the Same Day.,Dagelijkse evenementen moeten op dezelfde dag eindigen.,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Daily Long,Dagelijks lang,reviewed,frappe,0.62,0.6,0.5,0.6,0.8,0.8,review
+Daily Project Summary for {0},Dagelijkse projectsamenvatting voor {0},reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Daily Reminders,Dagelijkse herinneringen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Daily Timesheet Summary,Dagelijks Timesheet Samenvatting,reviewed,erpnext,0.63,0.7,0.5,0.6,0.5,0.9,review
+Daily Work Summary,Dagelijks werkoverzicht,reviewed,custom,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Daman and Diu,Daman en Diu,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Danger,Gevaar,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+danger,Gevaar,reviewed,frappe,0.76,0.7,0.8,0.7,0.9,0.9,review
+Dark Color,Donkere kleur,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+darkgrey,donker grijs,reviewed,frappe,0.65,0.6,0.6,0.6,0.7,0.9,review
+Dashboard Chart,Dashboardgrafiek,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Dashboard Chart Field,Dashboardgrafiekveld,reviewed,frappe,0.9,0.9,0.8,0.9,0.9,1.0,ok
+Dashboard Chart Link,Link naar dashboarddiagram,reviewed,frappe,0.81,0.8,0.8,0.7,0.9,1.0,ok
+Dashboard Chart Source,Bron van dashboarddiagram,reviewed,frappe,0.8,0.8,0.8,0.7,0.9,1.0,ok
+Dashboard Manager,Dashboardbeheerder,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Dashboard Name,Dashboardnaam,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Dashboard Settings,Dashboard-instellingen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Dashboards,dashboards,reviewed,frappe,0.65,0.6,0.7,0.6,0.5,0.9,review
+Data Export,Gegevens exporteren,reviewed,frappe,0.81,0.8,0.7,0.8,0.9,1.0,ok
+"Data exported from Tally that consists of the Chart of Accounts, Customers, Suppliers, Addresses, Items and UOMs","Uit Tally geëxporteerde gegevens die bestaan uit het rekeningschema, klanten, leveranciers, adressen, artikelen en maateenheden",reviewed,erpnext,0.99,1.0,0.95,1.0,1.0,1.0,ok
+Data Import,Gegevens importeren,reviewed,frappe,0.81,0.8,0.7,0.8,0.9,1.0,ok
+Data Import and Export,Gegevens importeren en exporteren,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
+Data Import and Settings,Gegevens importeren en instellingen,reviewed,erpnext,0.72,0.7,0.6,0.7,0.7,1.0,review
+Data Import Configuration,Gegevens importeren configuratie,reviewed,erpnext,0.5,0.5,0.4,0.5,0.4,0.9,review
+Data Import Legacy,Gegevens importeren verouderd,reviewed,frappe,0.5,0.5,0.4,0.5,0.4,0.9,review
+Data Import Log,Gegevensimport log,reviewed,custom,0.79,0.8,0.7,0.8,0.7,1.0,review
+Data Import Template,Data Import Sjabloon,reviewed,frappe,0.59,0.6,0.5,0.5,0.6,0.9,review
+Data Migration,Data migratie,reviewed,frappe,0.66,0.7,0.6,0.6,0.6,0.9,review
+Data Migration Mapping,Mapping van gegevensmigratie,reviewed,frappe,0.78,0.8,0.7,0.7,0.8,1.0,review
+Data Migration Plan,Gegevensmigratieplan,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Data Migration Plan Mapping,Mapping van gegevensmigratieplannen,reviewed,frappe,0.69,0.7,0.6,0.6,0.7,0.9,review
+Data missing in table,Data ontbreekt in tabel,reviewed,frappe,0.72,0.7,0.7,0.6,0.8,1.0,review
+Data Too Long,Gegevens te lang,reviewed,frappe,0.93,0.9,0.9,0.9,0.9,1.0,ok
+Database Name,Database naam,reviewed,frappe,0.74,0.8,0.7,0.7,0.6,1.0,review
+Database of potential customers.,Database van potentiële klanten.,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date,Datum,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date and Number Format,Datum en Nummer Formaat,reviewed,frappe,0.62,0.6,0.5,0.6,0.5,1.0,review
+Date Based On,Datum gebaseerd op,reviewed,erpnext,0.83,0.8,0.8,0.8,0.8,1.0,ok
+Date Format,Datumnotatie,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date of Birth,Geboortedatum,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date of birth,Geboortedatum,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date of Birth cannot be greater than Joining Date.,Geboortedatum kan niet groter zijn dan de datum van toetreding.,reviewed,erpnext,0.78,0.8,0.6,0.8,0.8,1.0,review
+Date of Birth cannot be greater than today.,Geboortedatum mag niet groter zijn dan vandaag.,reviewed,erpnext,0.76,0.8,0.6,0.8,0.7,1.0,review
+Date of Commencement,Aanvangsdatum,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date of Commencement should be greater than Date of Incorporation,Aanvangsdatum moet groter zijn dan de datum van oprichting,reviewed,erpnext,0.76,0.8,0.6,0.8,0.7,1.0,review
+Date of Establishment,datum van oprichting,reviewed,erpnext,0.67,0.7,0.7,0.6,0.5,0.9,review
+Date of Incorporation,Datum van oprichting,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date of Issue,Datum van afgifte,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date of Joining,Datum van indiensttreding,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date of Joining must be greater than Date of Birth,Datum van indiensttreding moet groter zijn dan geboortedatum,reviewed,erpnext,0.76,0.8,0.6,0.8,0.7,1.0,review
+Date of Leaving,Datum waarop het vaartuig,reviewed,erpnext,0.0,0.0,0.0,0.0,0.0,0.0,rewrite
+Date Of Retirement,Pensioneringsdatum,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date Of Retirement must be greater than Date of Joining,Pensioneringsdatum moet groter zijn dan datum van indiensttreding,reviewed,erpnext,0.76,0.8,0.6,0.8,0.7,1.0,review
+Date of Transaction,Transactiedatum,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date on which this component is applied,Datum waarop dit onderdeel wordt toegepast,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Date Settings,date Settings,reviewed,erpnext,0.08,0.0,0.0,0.0,0.0,0.5,rewrite
+Date {0} must be in format: {1},Datum {0} moet de indeling hebben: {1},reviewed,frappe,0.98,1.0,0.9,1.0,1.0,1.0,ok
+Dates are often easy to guess.,Data zijn vaak gemakkelijk te raden.,reviewed,frappe,0.93,0.9,0.9,0.9,0.9,1.0,ok
+DATEV Settings,DATEV-instellingen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Day,Dag,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Day Book Data,Dagboekgegevens,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Day Book Data exported from Tally that consists of all historic transactions,Uit Tally geëxporteerde dagboekgegevens die bestaan uit alle historische transacties,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Day Of Week,Dag van de week,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Day of Week,Dag van de week,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Day to Send,Dag om te verzenden,reviewed,erpnext,0.72,0.7,0.6,0.7,0.7,1.0,review
+Day(s) after invoice date,Dag (en) na factuurdatum,reviewed,erpnext,0.67,0.7,0.6,0.6,0.6,0.9,review
+Day(s) after the end of the invoice month,Dag (en) na het einde van de factuurmaand,reviewed,erpnext,0.67,0.7,0.6,0.6,0.6,0.9,review
+Days,Dagen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Days After,Dagen na,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Days Before,Dagen voor,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Days Before or After,Dagen voor of na,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Days for which Holidays are blocked for this department.,Dagen waarvoor feestdagen zijn geblokkeerd voor deze afdeling.,reviewed,erpnext,0.9,0.9,0.8,0.9,0.9,1.0,ok
+Days Since Last Order,Dagen sinds laatste bestelling,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Days Since Last order,Dagen sinds laatste Order,reviewed,erpnext,0.67,0.7,0.6,0.6,0.6,0.9,review
+Days Until Due,Dagen tot Due,reviewed,erpnext,0.3,0.3,0.2,0.3,0.2,0.6,rewrite
+days.,dagen.,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+dd-mm-yyyy,dd-mm-jjjj,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+dd.mm.yyyy,dd.mm.jjjj,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+dd/mm/yyyy,dd/mm/jjjj,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Dear,Geachte,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+"Dear System Manager,","Geachte Systeemmanager,",reviewed,both,0.9,0.9,0.8,0.9,0.9,1.0,ok
+"Dear User,","Beste gebruiker,",reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Dear {0},Beste {0},reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Debit,Debet,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Debit ({0}),Debet ({0}),reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Debit Account,Debetrekening,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Debit Amount,Debet Bedrag,reviewed,erpnext,0.71,0.7,0.6,0.7,0.6,1.0,review
+Debit Amount in Account Currency,Debet Bedrag in account Valuta,reviewed,erpnext,0.51,0.5,0.4,0.5,0.4,0.9,review
+Debit and Credit not equal for {0} #{1}. Difference is {2}.,Debet en Credit niet gelijk voor {0} # {1}. Verschil {2}.,reviewed,erpnext,0.71,0.7,0.6,0.8,0.6,0.9,review
+Debit in Company Currency,Debet in Company Valuta,reviewed,erpnext,0.51,0.5,0.4,0.5,0.4,0.9,review
+Debit Note,Debetnota,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Debit Note Amount,Debietnota Bedrag,reviewed,erpnext,0.38,0.4,0.3,0.3,0.3,0.8,rewrite
+Debit Note Issued,Debetnota uitgegeven,reviewed,erpnext,0.93,0.9,0.9,0.9,0.9,1.0,ok
+Debit To,Debitering van,reviewed,erpnext,0.59,0.6,0.5,0.5,0.6,0.8,review
+Debit to,Debiteren naar,reviewed,erpnext,0.59,0.6,0.5,0.5,0.6,0.8,review
+Debit To is required,Debet Om vereist,reviewed,erpnext,0.09,0.1,0.0,0.1,0.0,0.3,rewrite
 Debtors,debiteuren,reviewed,erpnext,,,,,,,
 Debtors ({0}),Debiteuren ({0}),reviewed,erpnext,,,,,,,
 Debtors Account set in Tally,Debiteurenrekening ingesteld in Tally,reviewed,erpnext,,,,,,,

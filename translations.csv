@@ -4306,204 +4306,204 @@ Grade,Rang,reviewed,erpnext
 Grade Description,Grade Beschrijving,reviewed,erpnext
 Grading Basis,Beoordelingsbasis,reviewed,erpnext
 Grading Scale Intervals,Grading afleeseenheden,reviewed,erpnext
-Grading Scale Name,Grading Scale Naam,unreviewed,erpnext
-Graduate,Afstuderen,unreviewed,erpnext
-Grand Total,Algemeen totaal,unreviewed,erpnext
-Grand Total (Company Currency),Grand Total (Company Munt),unreviewed,erpnext
-Grant,Verlenen,unreviewed,erpnext
-Grant Application,Subsidieaanvraag,unreviewed,erpnext
-Grant Application Details,Aanvraagdetails toekennen,unreviewed,erpnext
-Grant information.,Informatie verstrekken.,unreviewed,erpnext
+Grading Scale Name,Naam beoordelingsschaal,reviewed,erpnext
+Graduate,Afgestudeerde,reviewed,erpnext
+Grand Total,Eindtotaal,reviewed,erpnext
+Grand Total (Company Currency),Eindtotaal (bedrijfsvaluta),reviewed,erpnext
+Grant,Verlenen,reviewed,erpnext
+Grant Application,Subsidieaanvraag,reviewed,erpnext
+Grant Application Details,Subsidieaanvraagdetails,reviewed,erpnext
+Grant information.,Subsidie-informatie.,reviewed,erpnext
 Gratuity,Gratificatie,reviewed,custom
 Gratuity Rule,Gratificatieregel,reviewed,custom
-Great,Super goed,unreviewed,frappe
-Great Job,Goed werk,unreviewed,frappe
-Greater Than Amount,Groter dan bedrag,unreviewed,erpnext
-Green,Groen,unreviewed,erpnext
-green,groen,unreviewed,frappe
-Greeting Subtitle,Begroeting ondertitel,unreviewed,erpnext
-Greeting Title,Begroetingstitel,unreviewed,erpnext
-Greetings Section,Groeten Sectie,unreviewed,erpnext
-Grocery,kruidenierswinkel,unreviewed,erpnext
-Gross and Net Profit Report,Bruto- en nettowinstrapport,unreviewed,erpnext
-Gross Margin,Bruto Marge,unreviewed,erpnext
-Gross Margin %,Bruto marge %,unreviewed,erpnext
-Gross Pay - Total Deduction - Loan Repayment,Brutoloon - Total Aftrek - aflossing van de lening,unreviewed,erpnext
-Gross Profit,Bruto Winst,unreviewed,erpnext
-Gross Profit %,Brutowinst%,unreviewed,erpnext
-Gross Profit / Loss,Bruto winst / verlies,unreviewed,erpnext
-Gross Purchase Amount,Gross Aankoopbedrag,unreviewed,erpnext
-Gross Purchase Amount is mandatory,Gross Aankoopbedrag is verplicht,unreviewed,erpnext
-Gross Weight,Bruto Gewicht,unreviewed,erpnext
-Gross Weight UOM,Bruto Gewicht Eenheid,unreviewed,erpnext
-Group,Groep,unreviewed,both
-Group Based On,Groep gebaseerd op,unreviewed,erpnext
-Group Based on,Groep Gebaseerd op,unreviewed,erpnext
-Group By,Groeperen op,unreviewed,both
-Group by,Groeperen volgens,unreviewed,erpnext
-Group by Account,Groeperen volgens Rekening,unreviewed,erpnext
-Group By Based On,Groeperen op basis van,unreviewed,frappe
-Group By Customer,Groeperen op klant,unreviewed,erpnext
-Group By field is required to create a dashboard chart,Groeperen op veld is vereist om een dashboarddiagram te maken,unreviewed,frappe
-Group by Item,Groeperen op item,unreviewed,erpnext
-Group by Material Request,Groeperen op materiaalverzoek,unreviewed,erpnext
-Group by Party,Groeperen op partij,unreviewed,erpnext
-Group by Purchase Order,Groeperen op inkooporder,unreviewed,erpnext
-Group by Sales Order,Groeperen op verkooporder,unreviewed,erpnext
-Group By Supplier,Groeperen op leverancier,unreviewed,erpnext
-Group by Supplier,Groeperen op leverancier,unreviewed,erpnext
-Group By Type,Groeperen op type,unreviewed,frappe
-Group by Voucher,Groep volgens Voucher,unreviewed,erpnext
-Group by Voucher (Consolidated),Groeperen op tegoedbon (geconsolideerd),unreviewed,erpnext
-Group Name,Groepsnaam,unreviewed,frappe
-Group name cannot be empty.,Groepsnaam mag niet leeg zijn.,unreviewed,frappe
-Group Node,Groeperingsnode,unreviewed,both
-Group node warehouse is not allowed to select for transactions,Groep knooppunt magazijn is niet toegestaan om te kiezen voor transacties,unreviewed,erpnext
-Group Roll No,Groepsrol nr,unreviewed,erpnext
-Group Roll Number,Groepsrolnummer,unreviewed,erpnext
-Group same items,Groep dezelfde items,unreviewed,erpnext
-Group Tests,Groepstests,unreviewed,erpnext
-Group to Non-Group,Groep om Non-groep,unreviewed,erpnext
-Group Warehouses cannot be used in transactions. Please change the value of {0},Groepsmagazijnen kunnen niet worden gebruikt in transacties. Wijzig de waarde van {0},unreviewed,erpnext
-Group your students in batches,Groep uw leerlingen in batches,unreviewed,erpnext
-Grouped,gegroepeerd,unreviewed,erpnext
-Groups,groepen,unreviewed,erpnext
-Groups of DocTypes,Groepen DocTypes,unreviewed,frappe
-GST Account,GST-account,unreviewed,erpnext
-GST Accounts,GST-accounts,unreviewed,erpnext
-GST Category,GST-categorie,unreviewed,erpnext
-GST Details,GST-gegevens,unreviewed,erpnext
-GST HSN Code,GST HSN-code,unreviewed,erpnext
-GST HSN Code does not exist for one or more items,GST HSN-code bestaat niet voor een of meer items,unreviewed,erpnext
-GST Itemised Purchase Register,GST Itemized Purchase Register,unreviewed,erpnext
-GST Itemised Sales Register,GST Itemized Sales Register,unreviewed,erpnext
-GST Purchase Register,GST Aankoopregister,unreviewed,erpnext
-GST Settings,GST instellingen,unreviewed,erpnext
-GST State,GST-staat,unreviewed,frappe
-GST State Number,GST-staatnummer,unreviewed,frappe
-GST Summary,GST Samenvatting,unreviewed,erpnext
-GST Transporter ID,GST Transporter-ID,unreviewed,erpnext
-GST Vehicle Type,GST-voertuigtype,unreviewed,erpnext
-GSTR 3B Report,GSTR 3B-rapport,unreviewed,erpnext
-Guardian,Voogd,unreviewed,erpnext
-Guardian Interests,Guardian Interesses,unreviewed,erpnext
-Guardian Name,Naam pleegouder,unreviewed,erpnext
-Guardian Of,Beschermer van,unreviewed,erpnext
-Guardian1 Name,Guardian1 Naam,unreviewed,erpnext
-Guardian2 Name,Guardian2 Naam,unreviewed,erpnext
-Guest,Gast,unreviewed,frappe
-Guest Name,Gast naam,unreviewed,erpnext
-Half,Voor de helft,unreviewed,frappe
-Half Day,Halve dag,unreviewed,frappe
-Half Yearly,Halfjaarlijkse,unreviewed,both
-Half-Yearly,Halfjaarlijks,unreviewed,erpnext
-Half-yearly,Halfjaarlijks,unreviewed,frappe
-hand-down,hand-neer,unreviewed,frappe
-hand-left,hand-links,unreviewed,frappe
-hand-right,hand-rechts,unreviewed,frappe
-hand-up,hand-op,unreviewed,frappe
-Has  Attachment,Heeft bijlage,unreviewed,frappe
-Has any past Grant Record,Heeft een eerdere Grant Record,unreviewed,erpnext
-Has Attachments,Heeft bijlagen,unreviewed,frappe
-Has Batch No,Heeft Batch nr.,unreviewed,erpnext
-Has Certificate,Heeft certificaat,unreviewed,erpnext
-Has Domain,Heeft domein,unreviewed,frappe
-Has Expiry Date,Heeft vervaldatum,unreviewed,erpnext
-Has Mapping,Heeft mapping,unreviewed,frappe
-Has Print Format,Heeft Print Format,unreviewed,erpnext
-Has Role,Heeft Rol,unreviewed,frappe
-Has Serial No,Heeft Serienummer,unreviewed,erpnext
-Has Variants,Heeft Varianten,unreviewed,erpnext
-Has Web View,Heeft Webweergave,unreviewed,frappe
-Have an account? Login,Bestaande account? Aanmelden,unreviewed,frappe
-Head of Marketing and Sales,Hoofd marketing en verkoop,unreviewed,erpnext
-Header,hoofd,unreviewed,frappe
-Header and Breadcrumbs,Koptekst en paneermeel,unreviewed,frappe
-Header HTML,HTML koptekst,unreviewed,frappe
-Header HTML set from attachment {0},HTML-koptekst ingesteld vanuit bijlage {0},unreviewed,frappe
-Header Image,Header afbeelding,unreviewed,frappe
-Headers,headers,unreviewed,frappe
-Heading,titel,unreviewed,frappe
-headphones,hoofdtelefoon,unreviewed,frappe
-Heads (or groups) against which Accounting Entries are made and balances are maintained.,Hoofden (of groepen) waartegen de boekingen worden gemaakt en saldi worden gehandhaafd.,unreviewed,erpnext
-Health Care,Gezondheidszorg,unreviewed,erpnext
-Health Details,Gezondheid Details,unreviewed,erpnext
-Health Insurance,Ziektekostenverzekering,unreviewed,erpnext
-Health Insurance No,Ziektekostenverzekering Nee,unreviewed,erpnext
-Health Insurance Provider,Zorgverzekeraar,unreviewed,erpnext
-Healthcare,Gezondheidszorg,unreviewed,erpnext
-Healthcare (beta),Gezondheidszorg (bèta),unreviewed,erpnext
-Healthcare Administrator,Gezondheidszorg Administrator,unreviewed,erpnext
-Healthcare Practitioner,Gezondheidszorg beoefenaar,unreviewed,erpnext
-Healthcare Practitioner (Primary),Gezondheidszorgbeoefenaar (primair),unreviewed,erpnext
-Healthcare Practitioner (Secondary),Gezondheidszorgbeoefenaar (secundair),unreviewed,erpnext
-Healthcare Practitioner not available on {0},Zorgverlener niet beschikbaar op {0},unreviewed,erpnext
-Healthcare Practitioner {0} not available on {1},Zorgverlener {0} niet beschikbaar op {1},unreviewed,erpnext
-Healthcare Practitioner:,Zorgverlener:,unreviewed,erpnext
-Healthcare Schedule Time Slot,Tijdschema voor gezondheidszorgplanning,unreviewed,erpnext
-Healthcare Service Items,Artikelen voor gezondheidszorg,unreviewed,erpnext
-Healthcare Service Unit,Service-eenheid voor de gezondheidszorg,unreviewed,erpnext
-Healthcare Service Unit Tree,Gezondheidszorg Service Eenheidsboom,unreviewed,erpnext
-Healthcare Service Unit Type,Type zorgeenheid gezondheidszorg,unreviewed,erpnext
-Healthcare Service Unit Type cannot have both {0} and {1},Type zorgeenheid kan niet zowel {0} als {1} hebben,unreviewed,erpnext
-Healthcare Service Unit Type must allow atleast one among {0} and {1},Het type zorgeenheid moet ten minste één van de {0} en {1},unreviewed,erpnext
-Healthcare Service Units,Zorgafdelingen,unreviewed,erpnext
-Healthcare Services,Gezondheidszorg,unreviewed,erpnext
-Healthcare Settings,Gezondheidszorginstellingen,unreviewed,erpnext
-heart,hart,unreviewed,frappe
-Heart Rate / Pulse,Hartslag / Pulse,unreviewed,erpnext
-Height (In Meter),Hoogte (in meter),unreviewed,erpnext
-Hello {0},Hallo {0},unreviewed,frappe
-Hello!,Hallo!,unreviewed,frappe
+Great,Goed zo,reviewed,frappe
+Great Job,Goed werk,reviewed,frappe
+Greater Than Amount,Groter dan bedrag,reviewed,erpnext
+Green,Groen,reviewed,erpnext
+green,groen,reviewed,frappe
+Greeting Subtitle,Ondertitel begroeting,reviewed,erpnext
+Greeting Title,Begroetingstitel,reviewed,erpnext
+Greetings Section,Sectie begroeting,reviewed,erpnext
+Grocery,kruidenierswinkel,reviewed,erpnext
+Gross and Net Profit Report,Bruto- en nettowinstrapport,reviewed,erpnext
+Gross Margin,Bruto Marge,reviewed,erpnext
+Gross Margin %,Bruto marge %,reviewed,erpnext
+Gross Pay - Total Deduction - Loan Repayment,Brutoloon - Totale aftrek - Leningaflossing,reviewed,erpnext
+Gross Profit,Bruto Winst,reviewed,erpnext
+Gross Profit %,Brutowinst %,reviewed,erpnext
+Gross Profit / Loss,Bruto winst / verlies,reviewed,erpnext
+Gross Purchase Amount,Bruto aankoopbedrag,reviewed,erpnext
+Gross Purchase Amount is mandatory,Bruto aankoopbedrag is verplicht,reviewed,erpnext
+Gross Weight,Bruto Gewicht,reviewed,erpnext
+Gross Weight UOM,Eenheid bruto gewicht,reviewed,erpnext
+Group,Groep,reviewed,both
+Group Based On,Groeperen op basis van,reviewed,erpnext
+Group Based on,Groeperen op basis van,reviewed,erpnext
+Group By,Groeperen op,reviewed,both
+Group by,Groeperen volgens,reviewed,erpnext
+Group by Account,Groeperen volgens Rekening,reviewed,erpnext
+Group By Based On,Groeperen op basis van,reviewed,frappe
+Group By Customer,Groeperen op klant,reviewed,erpnext
+Group By field is required to create a dashboard chart,Groeperen op veld is vereist om een dashboarddiagram te maken,reviewed,frappe
+Group by Item,Groeperen op item,reviewed,erpnext
+Group by Material Request,Groeperen op materiaalverzoek,reviewed,erpnext
+Group by Party,Groeperen op partij,reviewed,erpnext
+Group by Purchase Order,Groeperen op inkooporder,reviewed,erpnext
+Group by Sales Order,Groeperen op verkooporder,reviewed,erpnext
+Group By Supplier,Groeperen op leverancier,reviewed,erpnext
+Group by Supplier,Groeperen op leverancier,reviewed,erpnext
+Group By Type,Groeperen op type,reviewed,frappe
+Group by Voucher,Groeperen op boekstuk,reviewed,erpnext
+Group by Voucher (Consolidated),Groeperen op boekstuk (geconsolideerd),reviewed,erpnext
+Group Name,Groepsnaam,reviewed,frappe
+Group name cannot be empty.,Groepsnaam mag niet leeg zijn.,reviewed,frappe
+Group Node,Groeperingsnode,reviewed,both
+Group node warehouse is not allowed to select for transactions,Groep knooppunt magazijn is niet toegestaan om te kiezen voor transacties,reviewed,erpnext
+Group Roll No,Groepsrol nr,reviewed,erpnext
+Group Roll Number,Groepsrolnummer,reviewed,erpnext
+Group same items,Gelijke artikelen groeperen,reviewed,erpnext
+Group Tests,Groepstests,reviewed,erpnext
+Group to Non-Group,Groep naar niet-groep,reviewed,erpnext
+Group Warehouses cannot be used in transactions. Please change the value of {0},Groepsmagazijnen kunnen niet worden gebruikt in transacties. Wijzig de waarde van {0},reviewed,erpnext
+Group your students in batches,Groep uw leerlingen in batches,reviewed,erpnext
+Grouped,gegroepeerd,reviewed,erpnext
+Groups,groepen,reviewed,erpnext
+Groups of DocTypes,Groepen DocTypes,reviewed,frappe
+GST Account,GST-account,reviewed,erpnext
+GST Accounts,GST-accounts,reviewed,erpnext
+GST Category,GST-categorie,reviewed,erpnext
+GST Details,GST-gegevens,reviewed,erpnext
+GST HSN Code,GST HSN-code,reviewed,erpnext
+GST HSN Code does not exist for one or more items,GST HSN-code bestaat niet voor een of meer items,reviewed,erpnext
+GST Itemised Purchase Register,GST Itemized Purchase Register,reviewed,erpnext
+GST Itemised Sales Register,GST Itemized Sales Register,reviewed,erpnext
+GST Purchase Register,GST Aankoopregister,reviewed,erpnext
+GST Settings,GST instellingen,reviewed,erpnext
+GST State,GST-staat,reviewed,frappe
+GST State Number,GST-staatnummer,reviewed,frappe
+GST Summary,GST Samenvatting,reviewed,erpnext
+GST Transporter ID,GST Transporter-ID,reviewed,erpnext
+GST Vehicle Type,GST-voertuigtype,reviewed,erpnext
+GSTR 3B Report,GSTR 3B-rapport,reviewed,erpnext
+Guardian,Voogd,reviewed,erpnext
+Guardian Interests,Interesses voogd,reviewed,erpnext
+Guardian Name,Naam voogd,reviewed,erpnext
+Guardian Of,Voogd van,reviewed,erpnext
+Guardian1 Name,Naam voogd 1,reviewed,erpnext
+Guardian2 Name,Naam voogd 2,reviewed,erpnext
+Guest,Gast,reviewed,frappe
+Guest Name,Gastnaam,reviewed,erpnext
+Half,Half,reviewed,frappe
+Half Day,Halve dag,reviewed,frappe
+Half Yearly,Halfjaarlijks,reviewed,both
+Half-Yearly,Halfjaarlijks,reviewed,erpnext
+Half-yearly,Halfjaarlijks,reviewed,frappe
+hand-down,hand-neer,reviewed,frappe
+hand-left,hand-links,reviewed,frappe
+hand-right,hand-rechts,reviewed,frappe
+hand-up,hand-op,reviewed,frappe
+Has  Attachment,Heeft bijlage,reviewed,frappe
+Has any past Grant Record,Heeft eerdere subsidierecord,reviewed,erpnext
+Has Attachments,Heeft bijlagen,reviewed,frappe
+Has Batch No,Heeft Batch nr.,reviewed,erpnext
+Has Certificate,Heeft certificaat,reviewed,erpnext
+Has Domain,Heeft domein,reviewed,frappe
+Has Expiry Date,Heeft vervaldatum,reviewed,erpnext
+Has Mapping,Heeft mapping,reviewed,frappe
+Has Print Format,Heeft Print Format,reviewed,erpnext
+Has Role,Heeft Rol,reviewed,frappe
+Has Serial No,Heeft Serienummer,reviewed,erpnext
+Has Variants,Heeft Varianten,reviewed,erpnext
+Has Web View,Heeft Webweergave,reviewed,frappe
+Have an account? Login,Bestaande account? Aanmelden,reviewed,frappe
+Head of Marketing and Sales,Hoofd marketing en verkoop,reviewed,erpnext
+Header,hoofd,reviewed,frappe
+Header and Breadcrumbs,Koptekst en paneermeel,reviewed,frappe
+Header HTML,HTML koptekst,reviewed,frappe
+Header HTML set from attachment {0},HTML-koptekst ingesteld vanuit bijlage {0},reviewed,frappe
+Header Image,Header afbeelding,reviewed,frappe
+Headers,headers,reviewed,frappe
+Heading,titel,reviewed,frappe
+headphones,hoofdtelefoon,reviewed,frappe
+Heads (or groups) against which Accounting Entries are made and balances are maintained.,Hoofden (of groepen) waartegen de boekingen worden gemaakt en saldi worden gehandhaafd.,reviewed,erpnext
+Health Care,Gezondheidszorg,reviewed,erpnext
+Health Details,Gezondheid Details,reviewed,erpnext
+Health Insurance,Ziektekostenverzekering,reviewed,erpnext
+Health Insurance No,Ziektekostenverzekering Nee,reviewed,erpnext
+Health Insurance Provider,Zorgverzekeraar,reviewed,erpnext
+Healthcare,Gezondheidszorg,reviewed,erpnext
+Healthcare (beta),Gezondheidszorg (bèta),reviewed,erpnext
+Healthcare Administrator,Gezondheidszorg Administrator,reviewed,erpnext
+Healthcare Practitioner,Gezondheidszorg beoefenaar,reviewed,erpnext
+Healthcare Practitioner (Primary),Gezondheidszorgbeoefenaar (primair),reviewed,erpnext
+Healthcare Practitioner (Secondary),Gezondheidszorgbeoefenaar (secundair),reviewed,erpnext
+Healthcare Practitioner not available on {0},Zorgverlener niet beschikbaar op {0},reviewed,erpnext
+Healthcare Practitioner {0} not available on {1},Zorgverlener {0} niet beschikbaar op {1},reviewed,erpnext
+Healthcare Practitioner:,Zorgverlener:,reviewed,erpnext
+Healthcare Schedule Time Slot,Tijdschema voor gezondheidszorgplanning,reviewed,erpnext
+Healthcare Service Items,Artikelen voor gezondheidszorg,reviewed,erpnext
+Healthcare Service Unit,Service-eenheid voor de gezondheidszorg,reviewed,erpnext
+Healthcare Service Unit Tree,Gezondheidszorg Service Eenheidsboom,reviewed,erpnext
+Healthcare Service Unit Type,Type zorgeenheid gezondheidszorg,reviewed,erpnext
+Healthcare Service Unit Type cannot have both {0} and {1},Type zorgeenheid kan niet zowel {0} als {1} hebben,reviewed,erpnext
+Healthcare Service Unit Type must allow atleast one among {0} and {1},Het type zorgeenheid moet ten minste één van de {0} en {1},reviewed,erpnext
+Healthcare Service Units,Zorgafdelingen,reviewed,erpnext
+Healthcare Services,Gezondheidszorg,reviewed,erpnext
+Healthcare Settings,Gezondheidszorginstellingen,reviewed,erpnext
+heart,hart,reviewed,frappe
+Heart Rate / Pulse,Hartslag / Pulse,reviewed,erpnext
+Height (In Meter),Hoogte (in meter),reviewed,erpnext
+Hello {0},Hallo {0},reviewed,frappe
+Hello!,Hallo!,reviewed,frappe
 Help Article,Helpartikel,reviewed,both
-Help Articles,Help Artikelen,unreviewed,both
+Help Articles,Help Artikelen,reviewed,both
 Help Category,Helpcategorie,reviewed,frappe
-Help on Search,Hulp bij zoeken,unreviewed,frappe
-Help Results for,Help resultaten voor,unreviewed,erpnext
-Help Section,Help sectie,unreviewed,erpnext
-Help Text,hulp tekst,unreviewed,erpnext
-"Help: To link to another record in the system, use ""#Form/Note/[Note Name]"" as the Link URL. (don't use ""http://"")","Help: Om te linken naar een andere record in het systeem, gebruikt ""#Form/Note/[Note Name]"", als de Link URL. (Gebruik geen ""http://"")",unreviewed,frappe
-"Helps you keep tracks of Contracts based on Supplier, Customer and Employee","Helpt u bij het bijhouden van contracten op basis van leverancier, klant en werknemer",unreviewed,erpnext
-Helps you manage appointments with your leads,Helpt u bij het beheren van afspraken met uw leads,unreviewed,erpnext
-Here are the options to proceed:,Hier zijn de opties om door te gaan:,unreviewed,erpnext
-"Here is your webhook secret, this will be shown to you only once.","Hier is uw webhookgeheim, dit wordt slechts één keer aan u getoond.",unreviewed,erpnext
-"Here you can maintain family details like name and occupation of parent, spouse and children","Hier kunt u onderhouden familie gegevens zoals naam en beroep van de ouder, echtgenoot en kinderen",unreviewed,erpnext
-"Here you can maintain height, weight, allergies, medical concerns etc","Hier kunt u onderhouden lengte, gewicht, allergieën, medische zorgen, enz.",unreviewed,erpnext
-Hero Image,Heldenafbeelding,unreviewed,erpnext
-Hero Section,Heldensectie,unreviewed,erpnext
-Hero Section Based On,Heldensectie gebaseerd op,unreviewed,erpnext
-HH:mm,HH: mm,unreviewed,frappe
-HH:mm:ss,HH: mm: ss,unreviewed,frappe
-Hi {0},Hoi {0},unreviewed,frappe
-Hidden,Verborgen,unreviewed,frappe
-hidden,verborgen,unreviewed,erpnext
-Hidden list maintaining the list of contacts linked to Shareholder,Verborgen lijst met de lijst met contacten gekoppeld aan Shareholder,unreviewed,erpnext
-Hide,Zich verstoppen,unreviewed,frappe
-Hide Block,Verberg blok,unreviewed,frappe
-Hide Border,Rand verbergen,unreviewed,frappe
-Hide Copy,Verberg Copy,unreviewed,frappe
-Hide CTA,Verberg CTA,unreviewed,frappe
-Hide Currency Symbol,Verberg Valutasymbool,unreviewed,erpnext
-Hide Custom DocTypes and Reports,Verberg aangepaste documenttypen en rapporten,unreviewed,frappe
-Hide Customer's Tax ID from Sales Transactions,Verberg het btw-nummer van de klant voor verkooptransacties,unreviewed,erpnext
-Hide Days,Dagen verbergen,unreviewed,frappe
-Hide details,Verbergen Details,unreviewed,frappe
-Hide footer in auto email reports,Voettekst verbergen in automatische e-mailrapporten,unreviewed,frappe
-Hide Footer Signup,Verberg Footer Inschrijven,unreviewed,frappe
-Hide Login,Login verbergen,unreviewed,frappe
-Hide Seconds,Verberg seconden,unreviewed,frappe
-Hide Sidebar and Menu,Zijbalk en menu verbergen,unreviewed,frappe
-Hide Traceback,Verberg Traceback,unreviewed,frappe
-Hide Unavailable Items,Verberg niet-beschikbare items,unreviewed,erpnext
-Hide Variants,Varianten verbergen,unreviewed,erpnext
-Hide Weekends,Weekends verbergen,unreviewed,frappe
-High,Hoog,unreviewed,both
-High Sensitivity,Hoge gevoeligheid,unreviewed,erpnext
-Higher priority rule will be applied first,Regel met hogere prioriteit wordt eerst toegepast,unreviewed,frappe
-"Higher the number, higher the priority","Hoe hoger het getal, hoe hoger de prioriteit",unreviewed,erpnext
-Highlight,Markeer,unreviewed,frappe
-"Hint: Include symbols, numbers and capital letters in the password","Hint: Inclusief symbolen, cijfers en hoofdletters in het wachtwoord",unreviewed,frappe
-History In Company,Geschiedenis In Bedrijf,unreviewed,erpnext
+Help on Search,Hulp bij zoeken,reviewed,frappe
+Help Results for,Help resultaten voor,reviewed,erpnext
+Help Section,Help sectie,reviewed,erpnext
+Help Text,hulp tekst,reviewed,erpnext
+"Help: To link to another record in the system, use ""#Form/Note/[Note Name]"" as the Link URL. (don't use ""http://"")","Help: Om te linken naar een andere record in het systeem, gebruikt ""#Form/Note/[Note Name]"", als de Link URL. (Gebruik geen ""http://"")",reviewed,frappe
+"Helps you keep tracks of Contracts based on Supplier, Customer and Employee","Helpt u bij het bijhouden van contracten op basis van leverancier, klant en werknemer",reviewed,erpnext
+Helps you manage appointments with your leads,Helpt u bij het beheren van afspraken met uw leads,reviewed,erpnext
+Here are the options to proceed:,Hier zijn de opties om door te gaan:,reviewed,erpnext
+"Here is your webhook secret, this will be shown to you only once.","Hier is uw webhookgeheim, dit wordt slechts één keer aan u getoond.",reviewed,erpnext
+"Here you can maintain family details like name and occupation of parent, spouse and children","Hier kunt u onderhouden familie gegevens zoals naam en beroep van de ouder, echtgenoot en kinderen",reviewed,erpnext
+"Here you can maintain height, weight, allergies, medical concerns etc","Hier kunt u onderhouden lengte, gewicht, allergieën, medische zorgen, enz.",reviewed,erpnext
+Hero Image,Heldenafbeelding,reviewed,erpnext
+Hero Section,Heldensectie,reviewed,erpnext
+Hero Section Based On,Heldensectie gebaseerd op,reviewed,erpnext
+HH:mm,HH: mm,reviewed,frappe
+HH:mm:ss,HH: mm: ss,reviewed,frappe
+Hi {0},Hoi {0},reviewed,frappe
+Hidden,Verborgen,reviewed,frappe
+hidden,verborgen,reviewed,erpnext
+Hidden list maintaining the list of contacts linked to Shareholder,Verborgen lijst met de lijst met contacten gekoppeld aan Shareholder,reviewed,erpnext
+Hide,Zich verstoppen,reviewed,frappe
+Hide Block,Verberg blok,reviewed,frappe
+Hide Border,Rand verbergen,reviewed,frappe
+Hide Copy,Verberg Copy,reviewed,frappe
+Hide CTA,Verberg CTA,reviewed,frappe
+Hide Currency Symbol,Verberg Valutasymbool,reviewed,erpnext
+Hide Custom DocTypes and Reports,Verberg aangepaste documenttypen en rapporten,reviewed,frappe
+Hide Customer's Tax ID from Sales Transactions,Verberg het btw-nummer van de klant voor verkooptransacties,reviewed,erpnext
+Hide Days,Dagen verbergen,reviewed,frappe
+Hide details,Verbergen Details,reviewed,frappe
+Hide footer in auto email reports,Voettekst verbergen in automatische e-mailrapporten,reviewed,frappe
+Hide Footer Signup,Verberg Footer Inschrijven,reviewed,frappe
+Hide Login,Login verbergen,reviewed,frappe
+Hide Seconds,Verberg seconden,reviewed,frappe
+Hide Sidebar and Menu,Zijbalk en menu verbergen,reviewed,frappe
+Hide Traceback,Verberg Traceback,reviewed,frappe
+Hide Unavailable Items,Verberg niet-beschikbare items,reviewed,erpnext
+Hide Variants,Varianten verbergen,reviewed,erpnext
+Hide Weekends,Weekends verbergen,reviewed,frappe
+High,Hoog,reviewed,both
+High Sensitivity,Hoge gevoeligheid,reviewed,erpnext
+Higher priority rule will be applied first,Regel met hogere prioriteit wordt eerst toegepast,reviewed,frappe
+"Higher the number, higher the priority","Hoe hoger het getal, hoe hoger de prioriteit",reviewed,erpnext
+Highlight,Markeer,reviewed,frappe
+"Hint: Include symbols, numbers and capital letters in the password","Hint: Inclusief symbolen, cijfers en hoofdletters in het wachtwoord",reviewed,frappe
+History In Company,Geschiedenis In Bedrijf,reviewed,erpnext
 HLC-APP-.YYYY.-,HLC-APP-.JJJJ.-,unreviewed,erpnext
 HLC-IME-.YYYY.-,HLC-IME-.JJJJ.-,unreviewed,erpnext
 HLC-LAB-.YYYY.-,HLC-LAB-.JJJJ.-,unreviewed,erpnext

@@ -3599,306 +3599,306 @@ Error! Failed to get access token.,Fout! Het verkrijgen van toegangstoken is mis
 Error! Failed to get request token.,Fout! Kan aanvraagtoken niet ophalen.,reviewed,erpnext,0.77,0.75,0.7,0.75,0.8,1.0,review
 Error: Document has been modified after you have opened it,Fout: Document is gewijzigd nadat u het hebt geopend,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
 Error: Not a valid id?,Fout: geen geldig id?,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Error: Value missing for {0}: {1},Fout: Waarde ontbreekt voor {0}: {1},reviewed,frappe,,,,,,,
-Error: {0} is mandatory field,Fout: {0} is verplicht veld,reviewed,erpnext,,,,,,,
-Errors in Background Events,Fouten in Achtergrond Events,reviewed,frappe,,,,,,,
-Estimated Arrival,Geschatte aankomst,reviewed,erpnext,,,,,,,
-Estimated Cost,Geschatte kosten,reviewed,erpnext,,,,,,,
-Estimated Time and Cost,Geschatte tijd en kosten,reviewed,erpnext,,,,,,,
-eu-central-1,eu-central-1,reviewed,frappe,,,,,,,
-eu-north-1,eu-north-1,reviewed,frappe,,,,,,,
-eu-south-1,eu-south-1,reviewed,frappe,,,,,,,
-Evaluate,Evalueren,reviewed,erpnext,,,,,,,
-Evaluation Period,Evaluatieperiode,reviewed,erpnext,,,,,,,
-"Even if there are multiple Pricing Rules with highest priority, then following internal priorities are applied:","Als er meerdere Prijsbepalings Regels zijn met de hoogste prioriteit, dan wordt de volgende interene prioriteit gehanteerd:",reviewed,erpnext,,,,,,,
-Evening,Avond,reviewed,erpnext,,,,,,,
-Event,Gebeurtenis,reviewed,frappe,,,,,,,
-Event and other calendars.,Event en andere kalenders.,reviewed,frappe,,,,,,,
-Event Category,Gebeurteniscategorie,reviewed,frappe,,,,,,,
-Event Configurations,Gebeurtenisconfiguraties,reviewed,frappe,,,,,,,
-Event Consumer,Gebeurtenisconsument,reviewed,frappe,,,,,,,
-Event Consumer Document Type,Documenttype gebeurtenisconsument,reviewed,frappe,,,,,,,
-Event Consumer Document Types,Soorten consumptiedocumenten voor evenementen,reviewed,frappe,,,,,,,
-Event Participants,Deelnemers aan het evenement,reviewed,frappe,,,,,,,
-Event Producer,Producent van evenementen,reviewed,frappe,,,,,,,
-Event Producer Document Type,Documenttype producent van evenementen,reviewed,frappe,,,,,,,
-Event Producer Document Types,Soorten evenementproducenten,reviewed,frappe,,,,,,,
-Event Producer Last Update,Laatste update van evenementproducent,reviewed,frappe,,,,,,,
-Event Streaming,Evenement streaming,reviewed,frappe,,,,,,,
-Event Subscriber,Abonnee van evenement,reviewed,frappe,,,,,,,
-Event Subscriber has to be a System Manager.,Evenementabonnement moet een systeembeheerder zijn.,reviewed,frappe,,,,,,,
-Event Sync Log,Logboek voor gebeurtenissynchronisatie,reviewed,frappe,,,,,,,
-Event Synced with Google Calendar.,Evenement gesynchroniseerd met Google Agenda.,reviewed,frappe,,,,,,,
-Event Type,Gebeurtenis Type,reviewed,frappe,,,,,,,
-Event Update Log,Gebeurtenis-updatelogboek,reviewed,frappe,,,,,,,
-Events in Today's Calendar,Gebeurtenissen Vandaag,reviewed,frappe,,,,,,,
-Everyone,Iedereen,reviewed,frappe,,,,,,,
-"Ex: ""colors"": [""#d1d8dd"", ""#ff5858""]","Voorbeeld: &quot;kleuren&quot;: [&quot;# d1d8dd&quot;, &quot;# ff5858&quot;]",reviewed,frappe,,,,,,,
-Examiner,Examinator,reviewed,erpnext,,,,,,,
-Examiner Name,Examinator Naam,reviewed,erpnext,,,,,,,
-Example,Voorbeeld,reviewed,frappe,,,,,,,
-Example Email Address,Voorbeeld E-mailadres,reviewed,frappe,,,,,,,
-"Example: ""/desk""",Voorbeeld: &quot;/ desk&quot;,reviewed,frappe,,,,,,,
-Example: #Tree/Account,Voorbeeld: # Tree / Account,reviewed,frappe,,,,,,,
-Example: 00001,Voorbeeld: 00001,reviewed,frappe,,,,,,,
-"Example: ABCD.#####. If series is set and Batch No is not mentioned in transactions, then automatic batch number will be created based on this series. If you always want to explicitly mention Batch No for this item, leave this blank. Note: this setting will take priority over the Naming Series Prefix in Stock Settings.","Voorbeeld: ABCD. #####. Als reeks is ingesteld en Batch-nummer niet in transacties wordt vermeld, wordt op basis van deze reeks automatisch batchnummer gemaakt. Als u Batch-nummer voor dit artikel altijd expliciet wilt vermelden, laat dit veld dan leeg. Opmerking: deze instelling heeft voorrang boven het voorvoegsel Naamgevingsreeks in Voorraadinstellingen.",reviewed,erpnext,,,,,,,
-"Example: ABCD.#####\nIf series is set and Serial No is not mentioned in transactions, then automatic serial number will be created based on this series. If you always want to explicitly mention Serial Nos for this item. leave this blank.","Voorbeeld: ABCD.##### Als reeks is ingesteld en het serienummer is niet vermeld in een transactie, dan zal een serienummer automatisch worden aangemaakt, op basis van deze reeks. Als u altijd expliciet een serienummer wilt vemelden voor dit artikel bij een transatie, laat dan dit veld leeg.",reviewed,erpnext,,,,,,,
-example: Next Day Shipping,Bijvoorbeeld: Next Day Shipping,reviewed,erpnext,,,,,,,
-Example: {{ subject }},Voorbeeld: {{subject}},reviewed,frappe,,,,,,,
-Excel,uitmunten,reviewed,frappe,,,,,,,
-Exception,Uitzondering,reviewed,frappe,,,,,,,
-Exception Budget Approver Role,Uitzondering Budget Approver Role,reviewed,erpnext,,,,,,,
-Exception occurred while reconciling {0},Er is een uitzondering opgetreden tijdens het afstemmen van {0},reviewed,erpnext,,,,,,,
-Exception Type,Uitzondering Type,reviewed,frappe,,,,,,,
-Excessive machine set up time,Overmatige opstarttijd van de machine,reviewed,erpnext,,,,,,,
-Exchange Gain / Loss Account,Exchange winst / verliesrekening,reviewed,erpnext,,,,,,,
-Exchange Gain/Loss,Exchange winst / verlies,reviewed,erpnext,,,,,,,
-Exchange Rate,Wisselkoers,reviewed,erpnext,,,,,,,
-Exchange Rate must be same as {0} {1} ({2}),Wisselkoers moet hetzelfde zijn als zijn {0} {1} ({2}),reviewed,erpnext,,,,,,,
-Exchange Rate Revaluation,Wisselkoersherwaardering,reviewed,erpnext,,,,,,,
-Exchange Rate Revaluation Account,Wisselkoersherwaarderingsaccount,reviewed,erpnext,,,,,,,
-Exchange Rate Revaluation master.,Koers herwaarderingsmeester.,reviewed,erpnext,,,,,,,
-Excise Entry,Accijnzen Boeking,reviewed,erpnext,,,,,,,
-Excise Invoice,Accijnzen Factuur,reviewed,erpnext,,,,,,,
-Excise Page Number,Accijnzen Paginanummer,reviewed,erpnext,,,,,,,
-exclamation-sign,uitroepteken,reviewed,frappe,,,,,,,
-Execute,Uitvoeren,reviewed,frappe,,,,,,,
-Execute Console script,Voer het consolescript uit,reviewed,frappe,,,,,,,
-Execution,Uitvoering,reviewed,erpnext,,,,,,,
-Execution Time: {0} sec,Uitvoeringstijd: {0} sec,reviewed,frappe,,,,,,,
-Exercise,Oefening,reviewed,erpnext,,,,,,,
-Exercise Difficulty Level,Oefening moeilijkheidsniveau,reviewed,erpnext,,,,,,,
-Exercise Instructions,Instructies voor oefeningen,reviewed,erpnext,,,,,,,
-Exercise Name,Oefening Naam,reviewed,erpnext,,,,,,,
-Exercise Steps,Oefening stappen,reviewed,erpnext,,,,,,,
-Exercise Type,Oefeningstype,reviewed,erpnext,,,,,,,
-Exercise Type Step,Oefeningstype Stap,reviewed,erpnext,,,,,,,
-Exercise Video,Oefenvideo,reviewed,erpnext,,,,,,,
-Exercises,Opdrachten,reviewed,erpnext,,,,,,,
-Existing Company,bestaande Company,reviewed,erpnext,,,,,,,
-Exit,Uitgang,reviewed,erpnext,,,,,,,
-Exit Interview,Exitgesprek,reviewed,custom,,,,,,,
-Exit Interview Held On,Exit Interview aangehouden,reviewed,erpnext,,,,,,,
-Exotel Settings,Exotel-instellingen,reviewed,erpnext,,,,,,,
-Expand,Uitbreiden,reviewed,frappe,,,,,,,
-Expand All,Alles uitvouwen,reviewed,both,,,,,,,
-Expand all,Alles uitklappen,reviewed,custom,,,,,,,
-Expected Amount,Verwacht bedrag,reviewed,erpnext,,,,,,,
-Expected and Discharge dates cannot be less than Admission Schedule date,Verwachte en kwijtingdata kunnen niet minder zijn dan de datum van het toelatingsschema,reviewed,erpnext,,,,,,,
-Expected Arrival Date,Verwachte aankomstdatum,reviewed,erpnext,,,,,,,
-Expected Closing Date,Verwachte sluitingsdatum,reviewed,erpnext,,,,,,,
-Expected Delivery Date,Verwachte leverdatum,reviewed,erpnext,,,,,,,
-Expected Delivery Date should be after Sales Order Date,Verwachte leveringsdatum moet na verkoopdatum zijn,reviewed,erpnext,,,,,,,
-Expected Discharge,Verwachte kwijting,reviewed,erpnext,,,,,,,
-Expected End Date,Verwachte einddatum,reviewed,erpnext,,,,,,,
-Expected Hrs,Verwachte uren,reviewed,erpnext,,,,,,,
-Expected Length of Stay,Verwachte verblijfsduur,reviewed,erpnext,,,,,,,
-Expected Result Date,Verwachte resultaatdatum,reviewed,erpnext,,,,,,,
-Expected Result Time,Verwachte resultaattijd,reviewed,erpnext,,,,,,,
-Expected Start Date,Verwachte startdatum,reviewed,erpnext,,,,,,,
-Expected Time (in hours),Verwachte Tijd (in uren),reviewed,erpnext,,,,,,,
-Expected Value After Useful Life,Verwachte waarde Na Nuttig Life,reviewed,erpnext,,,,,,,
-Expense,Kosten,reviewed,erpnext,,,,,,,
-Expense / Difference account ({0}) must be a 'Profit or Loss' account,Kosten- / Verschillenrekening ({0}) moet een 'Winst of Verlies' rekening zijn.,reviewed,erpnext,,,,,,,
-Expense Account,Kostenrekening,reviewed,erpnext,,,,,,,
-Expense account is mandatory for item {0},Kostenrekening is verplicht voor artikel {0},reviewed,erpnext,,,,,,,
-Expense Account Missing,Onkostenrekening ontbreekt,reviewed,erpnext,,,,,,,
-Expense Approver,Onkosten Goedkeurder,reviewed,erpnext,,,,,,,
-Expense Claim,Kostendeclaratie,reviewed,erpnext,,,,,,,
-Expense Claims,Declaraties,reviewed,erpnext,,,,,,,
-Expense Head,Kosten Hoofd,reviewed,erpnext,,,,,,,
-Expense Head Changed,Uitgavenhoofd gewijzigd,reviewed,erpnext,,,,,,,
-Expenses,uitgaven,reviewed,erpnext,,,,,,,
-Expenses Included In Asset Valuation,Kosten opgenomen in inventariswaardering,reviewed,erpnext,,,,,,,
-Expenses Included In Valuation,Kosten inbegrepen in waardering,reviewed,erpnext,,,,,,,
-Expert,Deskundige,reviewed,frappe,,,,,,,
-Expiration time,vervaltijd,reviewed,frappe,,,,,,,
-Expire Notification On,Verlopen Notification On,reviewed,frappe,,,,,,,
-Expired,Verlopen,reviewed,both,,,,,,,
-Expired Batches,Verlopen batches,reviewed,erpnext,,,,,,,
-Expires In,Verloopt in,reviewed,frappe,,,,,,,
-Expires On,Verloopt op,reviewed,erpnext,,,,,,,
-Expiring Memberships,Verlopen Lidmaatschappen,reviewed,erpnext,,,,,,,
-Expiring On,Vervalt op,reviewed,erpnext,,,,,,,
-Expiry (In Days),Vervallen (in dagen),reviewed,erpnext,,,,,,,
-Expiry Date,Vervaldatum,reviewed,erpnext,,,,,,,
-Expiry Date Mandatory,Vervaldatum verplicht,reviewed,erpnext,,,,,,,
-Expiry Duration (in days),Vervaltijd (in dagen),reviewed,erpnext,,,,,,,
-Expiry time of QR Code Image Page,Vervaldatum van QR Code Image Page,reviewed,frappe,,,,,,,
-Exploded Items,Uitgeklapte artikelen,reviewed,erpnext,,,,,,,
-Explore,Verkennen,reviewed,erpnext,,,,,,,
-Exponential Smoothing Forecasting,Exponentiële afvlakkingsvoorspelling,reviewed,erpnext,,,,,,,
-Export,Exporteren,reviewed,both,,,,,,,
-Export 1 record,1 record exporteren,reviewed,frappe,,,,,,,
-Export All {0} rows?,Alle {0} rijen exporteren?,reviewed,frappe,,,,,,,
-Export Custom Permissions,Aangepaste machtigingen exporteren,reviewed,frappe,,,,,,,
-Export Customizations,Aanpassingen exporteren,reviewed,frappe,,,,,,,
-Export Data,Gegevens exporteren,reviewed,frappe,,,,,,,
-Export Data in CSV / Excel format.,Gegevens exporteren in CSV / Excel-indeling.,reviewed,frappe,,,,,,,
-Export E-Invoices,E-facturen exporteren,reviewed,erpnext,,,,,,,
-Export Errored Rows,Rijen met fouten exporteren,reviewed,frappe,,,,,,,
-Export From,Exporteren van,reviewed,frappe,,,,,,,
-Export not allowed. You need {0} role to export.,Exporteren niet toegestaan. Je hebt rol {0} nodig om te kunnen exporteren .,reviewed,both,,,,,,,
-Export Report: {0},Exportrapport: {0},reviewed,frappe,,,,,,,
-Export Type,Exporttype,reviewed,frappe,,,,,,,
-Export {0} records,Exporteer {0} records,reviewed,frappe,,,,,,,
-Expose Recipients,Ontvangers tonen,reviewed,frappe,,,,,,,
-"Expression, Optional","Uitdrukking, Optioneel",reviewed,frappe,,,,,,,
-Extends,Verlengt,reviewed,frappe,,,,,,,
-Extends Another Page,Breidt een andere pagina uit,reviewed,frappe,,,,,,,
-External Work History,Externe werkervaring,reviewed,erpnext,,,,,,,
-Extra Bed Capacity,Extra bedcapaciteit,reviewed,erpnext,,,,,,,
-Extra Large,Extra groot,reviewed,erpnext,,,,,,,
-eye-close,oog-gesloten,reviewed,frappe,,,,,,,
-eye-open,oog-open,reviewed,frappe,,,,,,,
-facetime-video,FaceTime-video,reviewed,frappe,,,,,,,
-Fail,Mislukken,reviewed,both,,,,,,,
-Failed,Mislukt,reviewed,both,,,,,,,
-Failed Import Log,Mislukt importlogboek,reviewed,erpnext,,,,,,,
-Failed to add Domain,Kan domein niet toevoegen,reviewed,erpnext,,,,,,,
-Failed to Authenticate the API key.,Het verifiëren van de API-sleutel is mislukt.,reviewed,erpnext,,,,,,,
-Failed to change password.,Wachtwoord wijzigen is mislukt.,reviewed,frappe,,,,,,,
-Failed to complete setup,De installatie kon niet worden voltooid,reviewed,frappe,,,,,,,
-Failed to connect to server,Kan geen verbinding maken met de server,reviewed,frappe,,,,,,,
-Failed to connect to the Event Producer site. Retry after some time.,Kan geen verbinding maken met de Event Producer-site. Probeer het na enige tijd opnieuw.,reviewed,frappe,,,,,,,
-Failed to create an Event Consumer or an Event Consumer for the current site is already registered.,Het is niet gelukt om een Event Consumer of een Event Consumer voor de huidige site te maken.,reviewed,frappe,,,,,,,
-Failed to create website,Kan website niet maken,reviewed,erpnext,,,,,,,
-"Failed to decode token, please provide a valid base64-encoded token.",Kan token niet decoderen. Geef een geldig base64-gecodeerd token op.,reviewed,frappe,,,,,,,
-Failed to install presets,Kan presets niet installeren,reviewed,erpnext,,,,,,,
-Failed to login,Inloggen mislukt,reviewed,erpnext,,,,,,,
-Failed to send {0} Auto Email Report,Verzenden van {0} automatisch e-mailrapport is mislukt,reviewed,frappe,,,,,,,
-Failed to setup company,Kan bedrijf niet instellen,reviewed,erpnext,,,,,,,
-Failed to setup defaults,Kan standaardinstellingen niet instellen,reviewed,erpnext,,,,,,,
-Failed to setup defaults for country {0}. Please contact support@erpnext.com,Kan de standaardinstellingen voor land {0} niet instellen. Neem contact op met support@erpnext.com,reviewed,erpnext,,,,,,,
-Failed to setup post company fixtures,Het instellen van postbedrijf-fixtures is mislukt,reviewed,erpnext,,,,,,,
-Failed Transactions,Mislukte transacties,reviewed,frappe,,,,,,,
-Failed while amending subscription,Mislukt tijdens het wijzigen van het abonnement,reviewed,frappe,,,,,,,
-Failure,Mislukking,reviewed,frappe,,,,,,,
-Family,Familie,reviewed,erpnext,,,,,,,
-Family Background,Familieachtergrond,reviewed,erpnext,,,,,,,
-fast-backward,snel achteruit,reviewed,frappe,,,,,,,
-fast-forward,snel vooruit,reviewed,frappe,,,,,,,
-Father,Vader,reviewed,erpnext,,,,,,,
-Featured,Uitgelicht,reviewed,frappe,,,,,,,
-February,februari,reviewed,erpnext,,,,,,,
-Fee,Vergoeding,reviewed,erpnext,,,,,,,
-Fee Breakup for each student,Vergoedingsspecificatie voor elke student,reviewed,erpnext,,,,,,,
-Fee Category,Vergoedingscategorie,reviewed,erpnext,,,,,,,
-Fee Component,Vergoedingscomponent,reviewed,erpnext,,,,,,,
-Fee Created,Vergoeding aangemaakt,reviewed,erpnext,,,,,,,
-Fee Creation Failed,Aanmaken vergoeding mislukt,reviewed,erpnext,,,,,,,
-Fee Creation Pending,Aanmaken vergoeding in behandeling,reviewed,erpnext,,,,,,,
-Fee Records Created - {0},Vergoedingsrecords aangemaakt - {0},reviewed,erpnext,,,,,,,
-Fee Schedule,Vergoedingsschema,reviewed,erpnext,,,,,,,
-Fee Schedule Program,Vergoedingsschema programma,reviewed,erpnext,,,,,,,
-Fee Structure,Vergoedingsstructuur,reviewed,erpnext,,,,,,,
-Fee Validity,Vergoedingsgeldigheid,reviewed,erpnext,,,,,,,
-Fee Validity Reference,Referentie vergoedingsgeldigheid,reviewed,erpnext,,,,,,,
-Fee Validity {0} updated.,Vergoedingsgeldigheid {0} bijgewerkt.,reviewed,erpnext,,,,,,,
-Feedback,Feedback,reviewed,both,,,,,,,
-Feedback By,Feedback door,reviewed,erpnext,,,,,,,
-Feedback Request,Feedbackverzoek,reviewed,frappe,,,,,,,
-Fees,Vergoedingen,reviewed,erpnext,,,,,,,
-Fees Category,Vergoedingscategorie,reviewed,erpnext,,,,,,,
-Fees Collected,Vergoedingen geïnd,reviewed,erpnext,,,,,,,
-Female,Vrouwelijk,reviewed,both,,,,,,,
-Fertilizer,Kunstmest,reviewed,erpnext,,,,,,,
-Fertilizer Content,Kunstmestinhoud,reviewed,erpnext,,,,,,,
-Fertilizer Contents,Kunstmestinhoud,reviewed,erpnext,,,,,,,
-Fertilizer Name,Meststofnaam,reviewed,erpnext,,,,,,,
-Fetch attached images from document,Haal bijgevoegde afbeeldingen uit het document,reviewed,frappe,,,,,,,
-Fetch Customers,Haal klanten op,reviewed,erpnext,,,,,,,
-Fetch Data,Gegevens ophalen,reviewed,erpnext,,,,,,,
-Fetch exploded BOM (including sub-assemblies),Haal uitgeklapte Stuklijst op (inclusief onderdelen),reviewed,erpnext,,,,,,,
-Fetch From,Ophalen van,reviewed,frappe,,,,,,,
-Fetch If Empty,Ophalen indien leeg,reviewed,frappe,,,,,,,
-Fetch Images,Afbeeldingen ophalen,reviewed,frappe,,,,,,,
-Fetch items based on Default Supplier.,Haal items op op basis van standaardleverancier.,reviewed,erpnext,,,,,,,
-Fetch Items from Warehouse,Items ophalen uit magazijn,reviewed,erpnext,,,,,,,
-Fetch Serial Numbers based on FIFO,Haal serienummers op op basis van FIFO,reviewed,erpnext,,,,,,,
-Fetch Subscription Updates,Abonnementsupdates ophalen,reviewed,erpnext,,,,,,,
-Fetched only {0} available serial numbers.,Alleen {0} beschikbare serienummers opgehaald.,reviewed,erpnext,,,,,,,
-Fetching default Global Search documents.,Standaard Global Search-documenten ophalen.,reviewed,frappe,,,,,,,
-Fetching Pending Medication Orders,Medicatiebestellingen ophalen die in behandeling zijn,reviewed,erpnext,,,,,,,
-Fetching posts...,Berichten ophalen ...,reviewed,frappe,,,,,,,
-Fetching records......,Records ophalen ...,reviewed,erpnext,,,,,,,
-Fetching Template Details,Sjabloondetails ophalen,reviewed,erpnext,,,,,,,
-Fetching...,Ophalen ...,reviewed,erpnext,,,,,,,
-Field,Veld,reviewed,both,,,,,,,
-"Field ""route"" is mandatory for Web Views",Veld &quot;route&quot; is verplicht voor webweergaven,reviewed,frappe,,,,,,,
-"Field ""value"" is mandatory. Please specify value to be updated",Field &quot;waarde&quot; is verplicht. Gelieve te specificeren waarde worden bijgewerkt,reviewed,frappe,,,,,,,
-Field Description,Veld Omschrijving,reviewed,frappe,,,,,,,
-Field in Bank Transaction,Veld in banktransactie,reviewed,erpnext,,,,,,,
-Field Mapping,Veldtoewijzing,reviewed,erpnext,,,,,,,
-Field Maps,Veldkaarten,reviewed,frappe,,,,,,,
-Field Name,Veldnaam,reviewed,both,,,,,,,
-"Field that represents the Workflow State of the transaction (if field is not present, a new hidden Custom Field will be created)","Veld dat de workflow-status van de transactie vertegenwoordigt (indien veld niet aanwezig is, een nieuwe verborgen Aangepast veld wordt aangemaakt)",reviewed,frappe,,,,,,,
-Field To Check,Te controleren veld,reviewed,frappe,,,,,,,
-Field to Track,Veld om te volgen,reviewed,frappe,,,,,,,
-Field Type,Veldtype,reviewed,frappe,,,,,,,
-Field type cannot be changed for {0},Veldtype kan niet worden gewijzigd voor {0},reviewed,frappe,,,,,,,
-Field {0} not found.,Veld {0} niet gevonden.,reviewed,frappe,,,,,,,
-Fieldname,Veldnaam,reviewed,both,,,,,,,
-Fieldname is limited to 64 characters ({0}),Veldnaam is beperkt tot 64 tekens ({0}),reviewed,frappe,,,,,,,
-Fieldname not set for Custom Field,Veldnaam niet ingesteld op Aangepast veld,reviewed,frappe,,,,,,,
-Fieldname which will be the DocType for this link field.,Veldnaam die de DocType voor deze link veld zal zijn.,reviewed,frappe,,,,,,,
-Fieldname {0} cannot have special characters like {1},"Veldnaam {0} kan geen speciale tekens, zoals hebben {1}",reviewed,frappe,,,,,,,
-Fieldname {0} conflicting with meta object,Veldnaam {0} strijdig met meta-object,reviewed,frappe,,,,,,,
-Fieldname {0} is restricted,Veldnaam {0} is beperkt,reviewed,frappe,,,,,,,
-Fields,Velden,reviewed,both,,,,,,,
-Fields Multicheck,Velden Multicheck,reviewed,frappe,,,,,,,
-"Fields separated by comma (,) will be included in the ""Search By"" list of Search dialog box","Velden gescheiden door een komma (,) zal worden opgenomen in de &quot;Zoek Per&quot; lijst van Search dialoogvenster",reviewed,frappe,,,,,,,
-Fields will be copied over only at time of creation.,Velden worden alleen gekopieerd op het moment van creatie.,reviewed,erpnext,,,,,,,
-Fieldtype,Veldtype,reviewed,both,,,,,,,
-Fieldtype cannot be changed from {0} to {1} in row {2},FieldType kan niet worden veranderd van {0} tot {1} in rij {2},reviewed,frappe,,,,,,,
-File,Bestand,reviewed,frappe,,,,,,,
-file,bestand,reviewed,frappe,,,,,,,
-File '{0}' not found,Bestand &#39;{0}&#39; niet gevonden,reviewed,frappe,,,,,,,
-File Backup,Bestandsback-up,reviewed,frappe,,,,,,,
-File backup is ready,Bestandskopie is klaar,reviewed,frappe,,,,,,,
-File Information,Bestandsinformatie,reviewed,frappe,,,,,,,
-File Manager,Bestandsbeheer,reviewed,frappe,,,,,,,
-File Name,Bestandsnaam,reviewed,frappe,,,,,,,
-File name cannot have {0},Bestandsnaam mag geen {0} hebben,reviewed,frappe,,,,,,,
-File not attached,Bestand niet bijgevoegd,reviewed,frappe,,,,,,,
-File Size,Bestandsgrootte,reviewed,frappe,,,,,,,
-File size exceeded the maximum allowed size of {0} MB,Bestandsgrootte heeft de maximaal toegestane grootte van {0} MB overschreden,reviewed,frappe,,,,,,,
-File to Rename,Bestand naar hernoemen,reviewed,erpnext,,,,,,,
-File too big,Bestand te groot,reviewed,frappe,,,,,,,
-File Type,Bestandstype,reviewed,frappe,,,,,,,
-File Upload,Bestand upload,reviewed,frappe,,,,,,,
-File Upload Disconnected. Please try again.,File Upload Disconnected. Probeer het opnieuw.,reviewed,frappe,,,,,,,
-File Upload in Progress. Please try again in a few moments.,Bestand uploaden in gang. Probeer het nog een paar minuten opnieuw.,reviewed,frappe,,,,,,,
-File URL,File-URL,reviewed,frappe,,,,,,,
-File {0} does not exist,Bestand {0} bestaat niet,reviewed,frappe,,,,,,,
-Files,bestanden,reviewed,frappe,,,,,,,
-Filter Based On,Filter gebaseerd op,reviewed,erpnext,,,,,,,
-Filter By,Filteren op,reviewed,frappe,,,,,,,
-Filter by invoice status,Filter op factuurstatus,reviewed,erpnext,,,,,,,
-Filter Data,Filter data,reviewed,frappe,,,,,,,
-Filter Duration (Months),Filterduur (maanden),reviewed,erpnext,,,,,,,
-"Filter Fields Row #{0}: Fieldname <b>{1}</b> must be of type ""Link"" or ""Table MultiSelect""",Filtervelden Rij # {0}: veldnaam <b>{1}</b> moet van het type &quot;Link&quot; of &quot;Table MultiSelect&quot; zijn,reviewed,erpnext,,,,,,,
-Filter List,Filterlijst,reviewed,frappe,,,,,,,
-Filter must be a tuple or list (in a list),Filter moet een tupel of een lijst zijn (in een lijst),reviewed,frappe,,,,,,,
-"Filter must have 4 values (doctype, fieldname, operator, value): {0}","Filter moet 4 waarden hebben (doctype, veldnaam, operator, waarde): {0}",reviewed,frappe,,,,,,,
-Filter Name,Naam filteren,reviewed,frappe,,,,,,,
-Filter Total Zero Qty,Filter totaal aantal nul,reviewed,erpnext,,,,,,,
-Filter Values,Filterwaarden,reviewed,frappe,,,,,,,
-Filter...,Filter ...,reviewed,frappe,,,,,,,
-"Filtered by ""{0}""",Gefilterd op &quot;{0}&quot;,reviewed,frappe,,,,,,,
-Filtered Records,Gefilterde records,reviewed,frappe,,,,,,,
-Filters applied for {0},Filters toegepast op {0},reviewed,frappe,,,,,,,
-Filters Configuration,Filters Configuratie,reviewed,frappe,,,,,,,
-Filters Display,filters weergeven,reviewed,frappe,,,,,,,
-Filters saved,filters gered,reviewed,frappe,,,,,,,
-Filters Section,Filters Sectie,reviewed,frappe,,,,,,,
-"Filters will be accessible via <code>filters</code>. <br><br>Send output as <code>result = [result]</code>, or for old style <code>data = [columns], [result]</code>","Filters zijn toegankelijk via <code>filters</code> .<br><br> Stuur uitvoer als <code>result = [result]</code> , of voor oude stijl <code>data = [columns], [result]</code>",reviewed,frappe,,,,,,,
-Final Assessment Grades,Eindbeoordeling,reviewed,erpnext,,,,,,,
-Finance Book,Financieel boek,reviewed,custom,,,,,,,
-Finance Book Detail,Financiën Boek Detail,reviewed,erpnext,,,,,,,
-Finance Book Id,Finance Boek-ID,reviewed,erpnext,,,,,,,
-Finance Books,Financiën Boeken,reviewed,erpnext,,,,,,,
-Financial / accounting year.,Financiële / boekjaar .,reviewed,erpnext,,,,,,,
+Error: Value missing for {0}: {1},Fout: Waarde ontbreekt voor {0}: {1},reviewed,frappe,0.93,0.95,0.9,0.9,0.95,1.0,ok
+Error: {0} is mandatory field,Fout: {0} is verplicht veld,reviewed,erpnext,0.75,0.8,0.65,0.8,0.6,1.0,review
+Errors in Background Events,Fouten in Achtergrond Events,reviewed,frappe,0.61,0.6,0.5,0.55,0.8,1.0,review
+Estimated Arrival,Geschatte aankomst,reviewed,erpnext,0.95,0.95,0.95,0.9,1.0,1.0,ok
+Estimated Cost,Geschatte kosten,reviewed,erpnext,0.95,0.95,0.95,0.9,1.0,1.0,ok
+Estimated Time and Cost,Geschatte tijd en kosten,reviewed,erpnext,0.94,0.95,0.9,0.9,1.0,1.0,ok
+eu-central-1,eu-central-1,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+eu-north-1,eu-north-1,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+eu-south-1,eu-south-1,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Evaluate,Evalueren,reviewed,erpnext,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Evaluation Period,Evaluatieperiode,reviewed,erpnext,0.96,0.95,0.95,0.9,1.0,1.0,ok
+"Even if there are multiple Pricing Rules with highest priority, then following internal priorities are applied:","Als er meerdere Prijsbepalings Regels zijn met de hoogste prioriteit, dan wordt de volgende interene prioriteit gehanteerd:",reviewed,erpnext,0.75,0.85,0.65,0.75,0.55,0.9,review
+Evening,Avond,reviewed,erpnext,0.95,0.95,0.95,0.9,1.0,1.0,ok
+Event,Gebeurtenis,reviewed,frappe,0.61,0.55,0.55,0.4,1.0,1.0,review
+Event and other calendars.,Event en andere kalenders.,reviewed,frappe,0.52,0.4,0.45,0.35,0.8,1.0,review
+Event Category,Gebeurteniscategorie,reviewed,frappe,0.81,0.8,0.8,0.65,1.0,1.0,ok
+Event Configurations,Gebeurtenisconfiguraties,reviewed,frappe,0.8,0.8,0.75,0.65,1.0,1.0,ok
+Event Consumer,Gebeurtenisconsument,reviewed,frappe,0.57,0.55,0.4,0.45,0.8,1.0,review
+Event Consumer Document Type,Documenttype gebeurtenisconsument,reviewed,frappe,0.72,0.7,0.65,0.6,0.9,1.0,review
+Event Consumer Document Types,Soorten consumptiedocumenten voor evenementen,reviewed,frappe,0.4,0.35,0.3,0.3,0.7,0.8,rewrite
+Event Participants,Deelnemers aan het evenement,reviewed,frappe,0.65,0.65,0.55,0.55,0.75,1.0,review
+Event Producer,Producent van evenementen,reviewed,frappe,0.58,0.55,0.45,0.45,0.75,1.0,review
+Event Producer Document Type,Documenttype producent van evenementen,reviewed,frappe,0.65,0.65,0.55,0.55,0.75,1.0,review
+Event Producer Document Types,Soorten evenementproducenten,reviewed,frappe,0.63,0.6,0.55,0.5,0.75,1.0,review
+Event Producer Last Update,Laatste update van evenementproducent,reviewed,frappe,0.72,0.75,0.65,0.6,0.8,1.0,review
+Event Streaming,Evenement streaming,reviewed,frappe,0.75,0.75,0.7,0.65,0.85,1.0,review
+Event Subscriber,Abonnee van evenement,reviewed,frappe,0.62,0.6,0.5,0.5,0.75,1.0,review
+Event Subscriber has to be a System Manager.,Evenementabonnement moet een systeembeheerder zijn.,reviewed,frappe,0.55,0.65,0.45,0.45,0.4,0.8,review
+Event Sync Log,Logboek voor gebeurtenissynchronisatie,reviewed,frappe,0.79,0.8,0.7,0.7,0.9,1.0,review
+Event Synced with Google Calendar.,Evenement gesynchroniseerd met Google Agenda.,reviewed,frappe,0.88,0.9,0.85,0.85,0.9,1.0,ok
+Event Type,Gebeurtenis Type,reviewed,frappe,0.71,0.75,0.65,0.6,0.7,1.0,review
+Event Update Log,Gebeurtenis-updatelogboek,reviewed,frappe,0.8,0.8,0.75,0.7,0.9,1.0,ok
+Events in Today's Calendar,Gebeurtenissen Vandaag,reviewed,frappe,0.77,0.75,0.75,0.7,0.9,0.85,review
+Everyone,Iedereen,reviewed,frappe,0.95,0.95,0.95,0.9,1.0,1.0,ok
+"Ex: ""colors"": [""#d1d8dd"", ""#ff5858""]","Voorbeeld: &quot;kleuren&quot;: [&quot;# d1d8dd&quot;, &quot;# ff5858&quot;]",reviewed,frappe,0.22,0.2,0.15,0.2,0.2,0.6,rewrite
+Examiner,Examinator,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Examiner Name,Examinator Naam,reviewed,erpnext,0.77,0.8,0.7,0.75,0.7,1.0,review
+Example,Voorbeeld,reviewed,frappe,0.95,0.95,0.95,0.9,1.0,1.0,ok
+Example Email Address,Voorbeeld E-mailadres,reviewed,frappe,0.77,0.8,0.7,0.75,0.7,1.0,review
+"Example: ""/desk""",Voorbeeld: &quot;/ desk&quot;,reviewed,frappe,0.49,0.5,0.4,0.45,0.4,0.8,rewrite
+Example: #Tree/Account,Voorbeeld: # Tree / Account,reviewed,frappe,0.49,0.5,0.4,0.45,0.4,0.8,rewrite
+Example: 00001,Voorbeeld: 00001,reviewed,frappe,0.95,0.95,0.95,0.9,1.0,1.0,ok
+"Example: ABCD.#####. If series is set and Batch No is not mentioned in transactions, then automatic batch number will be created based on this series. If you always want to explicitly mention Batch No for this item, leave this blank. Note: this setting will take priority over the Naming Series Prefix in Stock Settings.","Voorbeeld: ABCD. #####. Als reeks is ingesteld en Batch-nummer niet in transacties wordt vermeld, wordt op basis van deze reeks automatisch batchnummer gemaakt. Als u Batch-nummer voor dit artikel altijd expliciet wilt vermelden, laat dit veld dan leeg. Opmerking: deze instelling heeft voorrang boven het voorvoegsel Naamgevingsreeks in Voorraadinstellingen.",reviewed,erpnext,0.82,0.85,0.75,0.8,0.75,0.95,ok
+"Example: ABCD.#####\nIf series is set and Serial No is not mentioned in transactions, then automatic serial number will be created based on this series. If you always want to explicitly mention Serial Nos for this item. leave this blank.","Voorbeeld: ABCD.##### Als reeks is ingesteld en het serienummer is niet vermeld in een transactie, dan zal een serienummer automatisch worden aangemaakt, op basis van deze reeks. Als u altijd expliciet een serienummer wilt vemelden voor dit artikel bij een transatie, laat dan dit veld leeg.",reviewed,erpnext,0.76,0.8,0.7,0.75,0.65,0.9,review
+example: Next Day Shipping,Bijvoorbeeld: Next Day Shipping,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Example: {{ subject }},Voorbeeld: {{subject}},reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Excel,uitmunten,reviewed,frappe,0.13,0.1,0.05,0.1,0.1,0.5,rewrite
+Exception,Uitzondering,reviewed,frappe,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Exception Budget Approver Role,Uitzondering Budget Approver Role,reviewed,erpnext,0.59,0.6,0.5,0.5,0.65,0.85,review
+Exception occurred while reconciling {0},Er is een uitzondering opgetreden tijdens het afstemmen van {0},reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Exception Type,Uitzondering Type,reviewed,frappe,0.75,0.8,0.65,0.7,0.7,1.0,review
+Excessive machine set up time,Overmatige opstarttijd van de machine,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Exchange Gain / Loss Account,Exchange winst / verliesrekening,reviewed,erpnext,0.65,0.7,0.55,0.55,0.6,1.0,review
+Exchange Gain/Loss,Exchange winst / verlies,reviewed,erpnext,0.65,0.7,0.55,0.55,0.6,1.0,review
+Exchange Rate,Wisselkoers,reviewed,erpnext,0.95,0.95,0.95,0.9,1.0,1.0,ok
+Exchange Rate must be same as {0} {1} ({2}),Wisselkoers moet hetzelfde zijn als zijn {0} {1} ({2}),reviewed,erpnext,0.69,0.75,0.55,0.7,0.5,1.0,review
+Exchange Rate Revaluation,Wisselkoersherwaardering,reviewed,erpnext,0.89,0.9,0.85,0.85,1.0,1.0,ok
+Exchange Rate Revaluation Account,Wisselkoersherwaarderingsaccount,reviewed,erpnext,0.84,0.85,0.75,0.8,0.9,1.0,ok
+Exchange Rate Revaluation master.,Koers herwaarderingsmeester.,reviewed,erpnext,0.41,0.4,0.3,0.35,0.5,0.8,rewrite
+Excise Entry,Accijnzen Boeking,reviewed,erpnext,0.76,0.8,0.7,0.7,0.7,1.0,review
+Excise Invoice,Accijnzen Factuur,reviewed,erpnext,0.76,0.8,0.7,0.7,0.7,1.0,review
+Excise Page Number,Accijnzen Paginanummer,reviewed,erpnext,0.76,0.8,0.7,0.7,0.7,1.0,review
+exclamation-sign,uitroepteken,reviewed,frappe,0.73,0.7,0.65,0.65,0.8,1.0,review
+Execute,Uitvoeren,reviewed,frappe,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Execute Console script,Voer het consolescript uit,reviewed,frappe,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Execution,Uitvoering,reviewed,erpnext,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Execution Time: {0} sec,Uitvoeringstijd: {0} sec,reviewed,frappe,0.94,0.95,0.9,0.9,1.0,1.0,ok
+Exercise,Oefening,reviewed,erpnext,0.87,0.85,0.85,0.8,1.0,1.0,ok
+Exercise Difficulty Level,Oefening moeilijkheidsniveau,reviewed,erpnext,0.77,0.8,0.7,0.75,0.7,1.0,review
+Exercise Instructions,Instructies voor oefeningen,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Exercise Name,Oefening Naam,reviewed,erpnext,0.77,0.8,0.7,0.75,0.7,1.0,review
+Exercise Steps,Oefening stappen,reviewed,erpnext,0.79,0.8,0.75,0.75,0.75,1.0,review
+Exercise Type,Oefeningstype,reviewed,erpnext,0.87,0.85,0.85,0.8,1.0,1.0,ok
+Exercise Type Step,Oefeningstype Stap,reviewed,erpnext,0.77,0.8,0.7,0.75,0.7,1.0,review
+Exercise Video,Oefenvideo,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Exercises,Opdrachten,reviewed,erpnext,0.55,0.5,0.45,0.4,0.8,0.9,review
+Existing Company,bestaande Company,reviewed,erpnext,0.65,0.75,0.55,0.6,0.5,0.9,review
+Exit,Uitgang,reviewed,erpnext,0.68,0.65,0.55,0.6,0.8,1.0,review
+Exit Interview,Exitgesprek,reviewed,custom,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Exit Interview Held On,Exit Interview aangehouden,reviewed,erpnext,0.44,0.45,0.35,0.4,0.35,0.85,rewrite
+Exotel Settings,Exotel-instellingen,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Expand,Uitbreiden,reviewed,frappe,0.87,0.85,0.85,0.8,1.0,1.0,ok
+Expand All,Alles uitvouwen,reviewed,both,0.87,0.85,0.85,0.8,1.0,1.0,ok
+Expand all,Alles uitklappen,reviewed,custom,0.87,0.85,0.85,0.8,1.0,1.0,ok
+Expected Amount,Verwacht bedrag,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Expected and Discharge dates cannot be less than Admission Schedule date,Verwachte en kwijtingdata kunnen niet minder zijn dan de datum van het toelatingsschema,reviewed,erpnext,0.58,0.65,0.45,0.5,0.45,0.9,review
+Expected Arrival Date,Verwachte aankomstdatum,reviewed,erpnext,0.95,0.95,0.95,0.9,1.0,1.0,ok
+Expected Closing Date,Verwachte sluitingsdatum,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Expected Delivery Date,Verwachte leverdatum,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Expected Delivery Date should be after Sales Order Date,Verwachte leveringsdatum moet na verkoopdatum zijn,reviewed,erpnext,0.81,0.85,0.75,0.8,0.75,0.9,ok
+Expected Discharge,Verwachte kwijting,reviewed,erpnext,0.58,0.55,0.45,0.5,0.65,1.0,review
+Expected End Date,Verwachte einddatum,reviewed,erpnext,0.95,0.95,0.95,0.9,1.0,1.0,ok
+Expected Hrs,Verwachte uren,reviewed,erpnext,0.86,0.85,0.85,0.8,0.9,1.0,ok
+Expected Length of Stay,Verwachte verblijfsduur,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Expected Result Date,Verwachte resultaatdatum,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Expected Result Time,Verwachte resultaattijd,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Expected Start Date,Verwachte startdatum,reviewed,erpnext,0.95,0.95,0.95,0.9,1.0,1.0,ok
+Expected Time (in hours),Verwachte Tijd (in uren),reviewed,erpnext,0.77,0.8,0.7,0.75,0.7,1.0,review
+Expected Value After Useful Life,Verwachte waarde Na Nuttig Life,reviewed,erpnext,0.58,0.65,0.45,0.55,0.4,0.9,review
+Expense,Kosten,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Expense / Difference account ({0}) must be a 'Profit or Loss' account,Kosten- / Verschillenrekening ({0}) moet een 'Winst of Verlies' rekening zijn.,reviewed,erpnext,0.73,0.8,0.65,0.6,0.75,0.9,review
+Expense Account,Kostenrekening,reviewed,erpnext,0.91,0.9,0.9,0.85,0.95,1.0,ok
+Expense account is mandatory for item {0},Kostenrekening is verplicht voor artikel {0},reviewed,erpnext,0.91,0.9,0.9,0.85,0.9,1.0,ok
+Expense Account Missing,Onkostenrekening ontbreekt,reviewed,erpnext,0.74,0.75,0.8,0.5,0.9,1.0,review
+Expense Approver,Onkosten Goedkeurder,reviewed,erpnext,0.6,0.7,0.45,0.5,0.5,1.0,review
+Expense Claim,Kostendeclaratie,reviewed,erpnext,0.91,0.9,0.9,0.85,0.95,1.0,ok
+Expense Claims,Declaraties,reviewed,erpnext,0.65,0.55,0.8,0.55,0.9,0.6,review
+Expense Head,Kosten Hoofd,reviewed,erpnext,0.5,0.6,0.3,0.5,0.4,0.9,review
+Expense Head Changed,Uitgavenhoofd gewijzigd,reviewed,erpnext,0.6,0.65,0.55,0.4,0.7,0.9,review
+Expenses,uitgaven,reviewed,erpnext,0.73,0.75,0.8,0.55,0.6,1.0,review
+Expenses Included In Asset Valuation,Kosten opgenomen in inventariswaardering,reviewed,erpnext,0.73,0.65,0.75,0.7,0.8,0.9,review
+Expenses Included In Valuation,Kosten inbegrepen in waardering,reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Expert,Deskundige,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Expiration time,vervaltijd,reviewed,frappe,0.79,0.8,0.8,0.75,0.7,1.0,review
+Expire Notification On,Verlopen Notification On,reviewed,frappe,0.25,0.3,0.1,0.2,0.2,0.5,rewrite
+Expired,Verlopen,reviewed,both,0.91,0.9,0.9,0.85,0.95,1.0,ok
+Expired Batches,Verlopen batches,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Expires In,Verloopt in,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Expires On,Verloopt op,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Expiring Memberships,Verlopen Lidmaatschappen,reviewed,erpnext,0.72,0.75,0.6,0.7,0.65,1.0,review
+Expiring On,Vervalt op,reviewed,erpnext,0.86,0.85,0.85,0.8,0.9,1.0,ok
+Expiry (In Days),Vervallen (in dagen),reviewed,erpnext,0.7,0.7,0.65,0.6,0.65,1.0,review
+Expiry Date,Vervaldatum,reviewed,erpnext,0.95,0.95,0.95,0.9,0.95,1.0,ok
+Expiry Date Mandatory,Vervaldatum verplicht,reviewed,erpnext,0.89,0.9,0.85,0.9,0.85,1.0,ok
+Expiry Duration (in days),Vervaltijd (in dagen),reviewed,erpnext,0.86,0.85,0.85,0.8,0.9,1.0,ok
+Expiry time of QR Code Image Page,Vervaldatum van QR Code Image Page,reviewed,frappe,0.55,0.5,0.5,0.55,0.65,0.6,review
+Exploded Items,Uitgeklapte artikelen,reviewed,erpnext,0.79,0.75,0.7,0.75,0.85,1.0,review
+Explore,Verkennen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Exponential Smoothing Forecasting,Exponentiële afvlakkingsvoorspelling,reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Export,Exporteren,reviewed,both,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Export 1 record,1 record exporteren,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Export All {0} rows?,Alle {0} rijen exporteren?,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Export Custom Permissions,Aangepaste machtigingen exporteren,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Export Customizations,Aanpassingen exporteren,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Export Data,Gegevens exporteren,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Export Data in CSV / Excel format.,Gegevens exporteren in CSV / Excel-indeling.,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Export E-Invoices,E-facturen exporteren,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Export Errored Rows,Rijen met fouten exporteren,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Export From,Exporteren van,reviewed,frappe,0.83,0.8,0.8,0.8,0.8,1.0,ok
+Export not allowed. You need {0} role to export.,Exporteren niet toegestaan. Je hebt rol {0} nodig om te kunnen exporteren .,reviewed,both,0.81,0.85,0.8,0.8,0.65,1.0,ok
+Export Report: {0},Exportrapport: {0},reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Export Type,Exporttype,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Export {0} records,Exporteer {0} records,reviewed,frappe,0.86,0.85,0.85,0.8,0.85,1.0,ok
+Expose Recipients,Ontvangers tonen,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+"Expression, Optional","Uitdrukking, Optioneel",reviewed,frappe,0.82,0.8,0.75,0.8,0.8,1.0,ok
+Extends,Verlengt,reviewed,frappe,0.83,0.8,0.75,0.8,0.85,1.0,ok
+Extends Another Page,Breidt een andere pagina uit,reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
+External Work History,Externe werkervaring,reviewed,erpnext,0.89,0.85,0.9,0.85,0.9,1.0,ok
+Extra Bed Capacity,Extra bedcapaciteit,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Extra Large,Extra groot,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+eye-close,oog-gesloten,reviewed,frappe,0.32,0.2,0.3,0.2,0.6,1.0,rewrite
+eye-open,oog-open,reviewed,frappe,0.32,0.2,0.3,0.2,0.6,1.0,rewrite
+facetime-video,FaceTime-video,reviewed,frappe,0.44,0.3,0.5,0.3,0.7,1.0,rewrite
+Fail,Mislukken,reviewed,both,0.65,0.7,0.5,0.6,0.6,1.0,review
+Failed,Mislukt,reviewed,both,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Failed Import Log,Mislukt importlogboek,reviewed,erpnext,0.72,0.75,0.6,0.7,0.65,1.0,review
+Failed to add Domain,Kan domein niet toevoegen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Failed to Authenticate the API key.,Het verifiëren van de API-sleutel is mislukt.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Failed to change password.,Wachtwoord wijzigen is mislukt.,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Failed to complete setup,De installatie kon niet worden voltooid,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Failed to connect to server,Kan geen verbinding maken met de server,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Failed to connect to the Event Producer site. Retry after some time.,Kan geen verbinding maken met de Event Producer-site. Probeer het na enige tijd opnieuw.,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Failed to create an Event Consumer or an Event Consumer for the current site is already registered.,Het is niet gelukt om een Event Consumer of een Event Consumer voor de huidige site te maken.,reviewed,frappe,0.74,0.75,0.75,0.75,0.8,0.65,review
+Failed to create website,Kan website niet maken,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+"Failed to decode token, please provide a valid base64-encoded token.",Kan token niet decoderen. Geef een geldig base64-gecodeerd token op.,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Failed to install presets,Kan presets niet installeren,reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+Failed to login,Inloggen mislukt,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Failed to send {0} Auto Email Report,Verzenden van {0} automatisch e-mailrapport is mislukt,reviewed,frappe,0.84,0.85,0.8,0.8,0.8,1.0,ok
+Failed to setup company,Kan bedrijf niet instellen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Failed to setup defaults,Kan standaardinstellingen niet instellen,reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+Failed to setup defaults for country {0}. Please contact support@erpnext.com,Kan de standaardinstellingen voor land {0} niet instellen. Neem contact op met support@erpnext.com,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Failed to setup post company fixtures,Het instellen van postbedrijf-fixtures is mislukt,reviewed,erpnext,0.52,0.5,0.35,0.5,0.6,0.9,review
+Failed Transactions,Mislukte transacties,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Failed while amending subscription,Mislukt tijdens het wijzigen van het abonnement,reviewed,frappe,0.86,0.85,0.85,0.85,0.85,1.0,ok
+Failure,Mislukking,reviewed,frappe,0.83,0.8,0.75,0.8,0.85,1.0,ok
+Family,Familie,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Family Background,Familieachtergrond,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+fast-backward,snel achteruit,reviewed,frappe,0.32,0.2,0.3,0.2,0.6,1.0,rewrite
+fast-forward,snel vooruit,reviewed,frappe,0.32,0.2,0.3,0.2,0.6,1.0,rewrite
+Father,Vader,reviewed,erpnext,0.93,0.9,0.95,0.9,0.95,1.0,ok
+Featured,Uitgelicht,reviewed,frappe,0.89,0.85,0.9,0.85,0.9,1.0,ok
+February,februari,reviewed,erpnext,0.93,0.9,0.95,0.9,0.95,1.0,ok
+Fee,Vergoeding,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Fee Breakup for each student,Vergoedingsspecificatie voor elke student,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Fee Category,Vergoedingscategorie,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Fee Component,Vergoedingscomponent,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Fee Created,Vergoeding aangemaakt,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Fee Creation Failed,Aanmaken vergoeding mislukt,reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+Fee Creation Pending,Aanmaken vergoeding in behandeling,reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+Fee Records Created - {0},Vergoedingsrecords aangemaakt - {0},reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+Fee Schedule,Vergoedingsschema,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Fee Schedule Program,Vergoedingsschema programma,reviewed,erpnext,0.75,0.75,0.65,0.75,0.65,1.0,review
+Fee Structure,Vergoedingsstructuur,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Fee Validity,Vergoedingsgeldigheid,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Fee Validity Reference,Referentie vergoedingsgeldigheid,reviewed,erpnext,0.78,0.8,0.7,0.75,0.7,1.0,review
+Fee Validity {0} updated.,Vergoedingsgeldigheid {0} bijgewerkt.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Feedback,Feedback,reviewed,both,0.9,0.85,0.9,0.85,0.95,1.0,ok
+Feedback By,Feedback door,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+Feedback Request,Feedbackverzoek,reviewed,frappe,0.89,0.85,0.9,0.85,0.9,1.0,ok
+Fees,Vergoedingen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Fees Category,Vergoedingscategorie,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Fees Collected,Vergoedingen geïnd,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
+Female,Vrouwelijk,reviewed,both,0.91,0.9,0.85,0.85,1.0,1.0,ok
+Fertilizer,Kunstmest,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Fertilizer Content,Kunstmestinhoud,reviewed,erpnext,0.52,0.5,0.4,0.5,0.6,0.8,review
+Fertilizer Contents,Kunstmestinhoud,reviewed,erpnext,0.52,0.5,0.4,0.5,0.6,0.8,review
+Fertilizer Name,Meststofnaam,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Fetch attached images from document,Haal bijgevoegde afbeeldingen uit het document,reviewed,frappe,0.74,0.7,0.65,0.7,0.8,1.0,review
+Fetch Customers,Haal klanten op,reviewed,erpnext,0.68,0.65,0.6,0.6,0.8,1.0,review
+Fetch Data,Gegevens ophalen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Fetch exploded BOM (including sub-assemblies),Haal uitgeklapte Stuklijst op (inclusief onderdelen),reviewed,erpnext,0.76,0.75,0.65,0.7,0.8,1.0,review
+Fetch From,Ophalen van,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Fetch If Empty,Ophalen indien leeg,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Fetch Images,Afbeeldingen ophalen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Fetch items based on Default Supplier.,Haal items op op basis van standaardleverancier.,reviewed,erpnext,0.68,0.65,0.55,0.6,0.7,1.0,review
+Fetch Items from Warehouse,Items ophalen uit magazijn,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Fetch Serial Numbers based on FIFO,Haal serienummers op op basis van FIFO,reviewed,erpnext,0.67,0.65,0.55,0.6,0.7,1.0,review
+Fetch Subscription Updates,Abonnementsupdates ophalen,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Fetched only {0} available serial numbers.,Alleen {0} beschikbare serienummers opgehaald.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Fetching default Global Search documents.,Standaard Global Search-documenten ophalen.,reviewed,frappe,0.74,0.7,0.65,0.7,0.8,1.0,review
+Fetching Pending Medication Orders,Medicatiebestellingen ophalen die in behandeling zijn,reviewed,erpnext,0.62,0.55,0.45,0.55,0.7,1.0,review
+Fetching posts...,Berichten ophalen ...,reviewed,frappe,0.79,0.75,0.7,0.75,0.85,1.0,review
+Fetching records......,Records ophalen ...,reviewed,erpnext,0.79,0.75,0.7,0.75,0.85,1.0,review
+Fetching Template Details,Sjabloondetails ophalen,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Fetching...,Ophalen ...,reviewed,erpnext,0.78,0.75,0.7,0.75,0.85,1.0,review
+Field,Veld,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Field ""route"" is mandatory for Web Views",Veld &quot;route&quot; is verplicht voor webweergaven,reviewed,frappe,0.74,0.7,0.65,0.7,0.8,0.9,review
+"Field ""value"" is mandatory. Please specify value to be updated",Field &quot;waarde&quot; is verplicht. Gelieve te specificeren waarde worden bijgewerkt,reviewed,frappe,0.24,0.2,0.15,0.2,0.2,0.6,rewrite
+Field Description,Veld Omschrijving,reviewed,frappe,0.74,0.7,0.65,0.7,0.8,1.0,review
+Field in Bank Transaction,Veld in banktransactie,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Field Mapping,Veldtoewijzing,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Field Maps,Veldkaarten,reviewed,frappe,0.36,0.3,0.25,0.3,0.4,0.8,rewrite
+Field Name,Veldnaam,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Field that represents the Workflow State of the transaction (if field is not present, a new hidden Custom Field will be created)","Veld dat de workflow-status van de transactie vertegenwoordigt (indien veld niet aanwezig is, een nieuwe verborgen Aangepast veld wordt aangemaakt)",reviewed,frappe,0.62,0.6,0.5,0.6,0.6,0.9,review
+Field To Check,Te controleren veld,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Field to Track,Veld om te volgen,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Field Type,Veldtype,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Field type cannot be changed for {0},Veldtype kan niet worden gewijzigd voor {0},reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Field {0} not found.,Veld {0} niet gevonden.,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Fieldname,Veldnaam,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Fieldname is limited to 64 characters ({0}),Veldnaam is beperkt tot 64 tekens ({0}),reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Fieldname not set for Custom Field,Veldnaam niet ingesteld op Aangepast veld,reviewed,frappe,0.74,0.7,0.65,0.7,0.8,1.0,review
+Fieldname which will be the DocType for this link field.,Veldnaam die de DocType voor deze link veld zal zijn.,reviewed,frappe,0.6,0.55,0.45,0.55,0.55,0.9,review
+Fieldname {0} cannot have special characters like {1},"Veldnaam {0} kan geen speciale tekens, zoals hebben {1}",reviewed,frappe,0.31,0.25,0.2,0.25,0.25,0.8,rewrite
+Fieldname {0} conflicting with meta object,Veldnaam {0} strijdig met meta-object,reviewed,frappe,0.76,0.75,0.65,0.7,0.75,1.0,review
+Fieldname {0} is restricted,Veldnaam {0} is beperkt,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Fields,Velden,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Fields Multicheck,Velden Multicheck,reviewed,frappe,0.77,0.75,0.7,0.7,0.8,1.0,review
+"Fields separated by comma (,) will be included in the ""Search By"" list of Search dialog box","Velden gescheiden door een komma (,) zal worden opgenomen in de &quot;Zoek Per&quot; lijst van Search dialoogvenster",reviewed,frappe,0.4,0.35,0.25,0.35,0.35,0.7,rewrite
+Fields will be copied over only at time of creation.,Velden worden alleen gekopieerd op het moment van creatie.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Fieldtype,Veldtype,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Fieldtype cannot be changed from {0} to {1} in row {2},FieldType kan niet worden veranderd van {0} tot {1} in rij {2},reviewed,frappe,0.37,0.3,0.25,0.3,0.3,0.8,rewrite
+File,Bestand,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+file,bestand,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+File '{0}' not found,Bestand &#39;{0}&#39; niet gevonden,reviewed,frappe,0.78,0.75,0.7,0.75,0.85,0.9,review
+File Backup,Bestandsback-up,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+File backup is ready,Bestandskopie is klaar,reviewed,frappe,0.81,0.8,0.75,0.8,0.85,1.0,ok
+File Information,Bestandsinformatie,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+File Manager,Bestandsbeheer,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+File Name,Bestandsnaam,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+File name cannot have {0},Bestandsnaam mag geen {0} hebben,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+File not attached,Bestand niet bijgevoegd,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+File Size,Bestandsgrootte,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+File size exceeded the maximum allowed size of {0} MB,Bestandsgrootte heeft de maximaal toegestane grootte van {0} MB overschreden,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+File to Rename,Bestand naar hernoemen,reviewed,erpnext,0.44,0.35,0.25,0.35,0.35,1.0,rewrite
+File too big,Bestand te groot,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+File Type,Bestandstype,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+File Upload,Bestand upload,reviewed,frappe,0.7,0.65,0.6,0.6,0.7,1.0,review
+File Upload Disconnected. Please try again.,File Upload Disconnected. Probeer het opnieuw.,reviewed,frappe,0.32,0.25,0.2,0.25,0.25,0.7,rewrite
+File Upload in Progress. Please try again in a few moments.,Bestand uploaden in gang. Probeer het nog een paar minuten opnieuw.,reviewed,frappe,0.65,0.6,0.55,0.6,0.65,0.9,review
+File URL,File-URL,reviewed,frappe,0.63,0.55,0.5,0.55,0.65,1.0,review
+File {0} does not exist,Bestand {0} bestaat niet,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Files,bestanden,reviewed,frappe,0.71,0.65,0.6,0.65,0.7,1.0,review
+Filter Based On,Filter gebaseerd op,reviewed,erpnext,0.74,0.7,0.65,0.7,0.8,1.0,review
+Filter By,Filteren op,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Filter by invoice status,Filter op factuurstatus,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Filter Data,Filter data,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Filter Duration (Months),Filterduur (maanden),reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+"Filter Fields Row #{0}: Fieldname <b>{1}</b> must be of type ""Link"" or ""Table MultiSelect""",Filtervelden Rij # {0}: veldnaam <b>{1}</b> moet van het type &quot;Link&quot; of &quot;Table MultiSelect&quot; zijn,reviewed,erpnext,0.74,0.7,0.65,0.7,0.75,0.9,review
+Filter List,Filterlijst,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Filter must be a tuple or list (in a list),Filter moet een tupel of een lijst zijn (in een lijst),reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+"Filter must have 4 values (doctype, fieldname, operator, value): {0}","Filter moet 4 waarden hebben (doctype, veldnaam, operator, waarde): {0}",reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Filter Name,Naam filteren,reviewed,frappe,0.71,0.65,0.6,0.65,0.7,1.0,review
+Filter Total Zero Qty,Filter totaal aantal nul,reviewed,erpnext,0.61,0.55,0.45,0.55,0.6,0.9,review
+Filter Values,Filterwaarden,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Filter...,Filter ...,reviewed,frappe,0.78,0.75,0.7,0.75,0.85,1.0,review
+"Filtered by ""{0}""",Gefilterd op &quot;{0}&quot;,reviewed,frappe,0.74,0.7,0.65,0.7,0.8,0.9,review
+Filtered Records,Gefilterde records,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Filters applied for {0},Filters toegepast op {0},reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Filters Configuration,Filters Configuratie,reviewed,frappe,0.71,0.65,0.6,0.65,0.7,1.0,review
+Filters Display,filters weergeven,reviewed,frappe,0.42,0.35,0.3,0.35,0.35,0.8,rewrite
+Filters saved,filters gered,reviewed,frappe,0.42,0.35,0.3,0.35,0.35,0.8,rewrite
+Filters Section,Filters Sectie,reviewed,frappe,0.71,0.65,0.6,0.65,0.7,1.0,review
+"Filters will be accessible via <code>filters</code>. <br><br>Send output as <code>result = [result]</code>, or for old style <code>data = [columns], [result]</code>","Filters zijn toegankelijk via <code>filters</code> .<br><br> Stuur uitvoer als <code>result = [result]</code> , of voor oude stijl <code>data = [columns], [result]</code>",reviewed,frappe,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Final Assessment Grades,Eindbeoordeling,reviewed,erpnext,0.7,0.65,0.6,0.65,0.7,0.8,review
+Finance Book,Financieel boek,reviewed,custom,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Finance Book Detail,Financiën Boek Detail,reviewed,erpnext,0.57,0.5,0.4,0.5,0.55,0.9,review
+Finance Book Id,Finance Boek-ID,reviewed,erpnext,0.62,0.55,0.45,0.55,0.6,1.0,review
+Finance Books,Financiën Boeken,reviewed,erpnext,0.57,0.5,0.4,0.5,0.55,0.9,review
+Financial / accounting year.,Financiële / boekjaar .,reviewed,erpnext,0.45,0.4,0.3,0.4,0.4,0.8,rewrite
 Financial Report Template,Financieel rapportsjabloon,reviewed,custom,,,,,,,
 Financial Services,Financiële Dienstverlening,reviewed,erpnext,,,,,,,
 Financial Statements,Jaarrekening,reviewed,erpnext,,,,,,,

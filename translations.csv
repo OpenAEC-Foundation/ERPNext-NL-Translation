@@ -1199,206 +1199,206 @@ Backup public and private files along with the database.,Maak samen met de datab
 backward,achterwaarts,reviewed,frappe,0.73,0.7,0.6,0.7,0.9,1.0,review
 Balance,Saldo,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Balance (Dr - Cr),Saldo (Db - Cr),reviewed,erpnext,0.87,0.9,0.8,0.8,0.9,1.0,ok
-Balance ({0}),Saldo ({0}),reviewed,erpnext,,,,,,,
-Balance Details,Saldogegevens,reviewed,erpnext,,,,,,,
-Balance for Account {0} must always be {1},Saldo van rekening {0} moet altijd {1} zijn,reviewed,erpnext,,,,,,,
-Balance In Account Currency,Saldo in rekeningvaluta,reviewed,erpnext,,,,,,,
-Balance In Base Currency,Saldo in basisvaluta,reviewed,erpnext,,,,,,,
-Balance must be,Saldo moet worden,reviewed,erpnext,,,,,,,
-Balance Qty,Saldohoeveelheid,reviewed,erpnext,,,,,,,
-Balance Serial No,Saldo serienr.,reviewed,erpnext,,,,,,,
-Balance Sheet,Balans,reviewed,erpnext,,,,,,,
-Balance Value,Balans Waarde,reviewed,erpnext,,,,,,,
-ban-circle,ban-cirkel,reviewed,frappe,,,,,,,
-Bank / Cash Account,Bank- / Kasrekening,reviewed,erpnext,,,,,,,
-Bank A/C No.,Bank A / C nr.,reviewed,erpnext,,,,,,,
-Bank Account,Bankrekening,reviewed,erpnext,,,,,,,
-Bank account '{0}' has been synchronized,Bankrekening &#39;{0}&#39; is gesynchroniseerd,reviewed,erpnext,,,,,,,
-Bank account cannot be named as {0},Bankrekening kan niet worden genoemd als {0},reviewed,erpnext,,,,,,,
-Bank Account Details,Bankgegevens,reviewed,erpnext,,,,,,,
-Bank Account Info,Bankrekeninggegevens,reviewed,erpnext,,,,,,,
-Bank Account No,Bankrekening nummer,reviewed,erpnext,,,,,,,
-Bank Account No.,Bankrekeningnummer,reviewed,erpnext,,,,,,,
-Bank Account Subtype,Bankrekeningsubtype,reviewed,erpnext,,,,,,,
-Bank Account Type,Bankrekeningtype,reviewed,erpnext,,,,,,,
-Bank account {0} already exists and could not be created again,Bankrekening {0} bestaat al en kon niet opnieuw worden aangemaakt,reviewed,erpnext,,,,,,,
-Bank Accounts,Bankrekeningen,reviewed,erpnext,,,,,,,
-Bank accounts added,Bankrekeningen toegevoegd,reviewed,erpnext,,,,,,,
-Bank Balance,Banksaldo,reviewed,erpnext,,,,,,,
-Bank Charges,Bancaire kosten,reviewed,erpnext,,,,,,,
-Bank Charges Account,Bankkostenrekening,reviewed,erpnext,,,,,,,
-Bank Clearance,Bankvereffening,reviewed,erpnext,,,,,,,
-Bank Clearance Detail,Bankvereffeningsdetails,reviewed,erpnext,,,,,,,
-Bank Clearance Summary,Bankbewaring samenvatting,reviewed,erpnext,,,,,,,
-Bank Credit Balance,Bankkredietsaldo,reviewed,erpnext,,,,,,,
-Bank Data,Bankgegevens,reviewed,erpnext,,,,,,,
-Bank Data mapper doesn't exist,Bankgegevensmap bestaat niet,reviewed,erpnext,,,,,,,
-Bank Details,Bankgegevens,reviewed,erpnext,,,,,,,
-Bank Draft,Bankcheque,reviewed,erpnext,,,,,,,
-Bank Entry,Bank Invoer,reviewed,erpnext,,,,,,,
-Bank Guarantee,Bankgarantie,reviewed,erpnext,,,,,,,
-Bank Guarantee Number,Bankgarantie Nummer,reviewed,erpnext,,,,,,,
-Bank Guarantee Type,Type bankgarantie,reviewed,erpnext,,,,,,,
-Bank Header,Bankkop,reviewed,erpnext,,,,,,,
-Bank Name,Banknaam,reviewed,erpnext,,,,,,,
-Bank Overdraft Account,Bank Kredietrekening,reviewed,erpnext,,,,,,,
-Bank Reconciliation,Bank Aflettering,reviewed,erpnext,,,,,,,
-Bank Reconciliation Detail,Bank Aflettering Detail,reviewed,erpnext,,,,,,,
-Bank Reconciliation Statement,Bank Aflettering Statement,reviewed,erpnext,,,,,,,
-Bank Statement,Bankafschrift,reviewed,erpnext,,,,,,,
-Bank Statement balance as per General Ledger,Bankafschrift saldo per General Ledger,reviewed,erpnext,,,,,,,
-Bank Statement Import,Bankafschrift importeren,reviewed,custom,,,,,,,
-Bank Statement Settings,Instellingen bankafschriften,reviewed,erpnext,,,,,,,
-Bank Statement Settings Item,Instellingen voor bankafschriftinstellingen,reviewed,erpnext,,,,,,,
-Bank Statement Transaction Entry,Rekeningoverzichtstransactie,reviewed,erpnext,,,,,,,
-Bank Statement Transaction Invoice Item,Rekeningoverzicht Transactie Rekening Item,reviewed,erpnext,,,,,,,
-Bank Statement Transaction Payment Item,Betalingstransactie voor bankafschrift,reviewed,erpnext,,,,,,,
-Bank Statement Transaction Settings Item,Bankafschrift Transaction Settings Item,reviewed,erpnext,,,,,,,
-Bank Transaction,Banktransactie,reviewed,erpnext,,,,,,,
-Bank transaction creation error,Fout bij maken van banktransactie,reviewed,erpnext,,,,,,,
-Bank Transaction Entries,Banktransactieposten,reviewed,erpnext,,,,,,,
-Bank Transaction Mapping,Mapping van banktransacties,reviewed,erpnext,,,,,,,
-Bank Transaction Payments,Betalingen via banktransacties,reviewed,erpnext,,,,,,,
-Bank/Cash transactions against party or for internal transfer,Bank / Cash-transacties tegen de partij of voor interne overplaatsing,reviewed,erpnext,,,,,,,
-Banking,Bankieren,reviewed,erpnext,,,,,,,
-Banking and Payments,Bank en betalingen,reviewed,erpnext,,,,,,,
-Banner Image,Banner Afbeelding,reviewed,frappe,,,,,,,
-Banner is above the Top Menu Bar.,Banner is boven de top menubalk.,reviewed,frappe,,,,,,,
-Barcode Type,Streepjescodetype,reviewed,erpnext,,,,,,,
-Barcode {0} already used in Item {1},Barcode {0} is al gebruikt in het Item {1},reviewed,erpnext,,,,,,,
-Barcode {0} is not a valid {1} code,Barcode {0} is geen geldige {1} code,reviewed,erpnext,,,,,,,
-Base Amount (Company Currency),Basisbedrag (Company Munt),reviewed,erpnext,,,,,,,
-Base Change Amount (Company Currency),Base Change Bedrag (Company Munt),reviewed,erpnext,,,,,,,
-Base Hour Rate(Company Currency),Base Uur Rate (Company Munt),reviewed,erpnext,,,,,,,
-Base URL,Basis-URL,reviewed,both,,,,,,,
-Based On,Gebaseerd op,reviewed,both,,,,,,,
-Based On Data ( in years ),Gebaseerd op gegevens (in jaren),reviewed,erpnext,,,,,,,
-Based On Document,Gebaseerd op document,reviewed,erpnext,,,,,,,
-Based on Field,Gebaseerd op veld,reviewed,frappe,,,,,,,
-Based On Payment Terms,Op basis van betalingsvoorwaarden,reviewed,erpnext,,,,,,,
-Based on Permissions For User,Op basis van de machtigingen voor de gebruiker,reviewed,frappe,,,,,,,
-Based On Price List,Gebaseerd op prijslijst,reviewed,erpnext,,,,,,,
-based_on,gebaseerd op,reviewed,erpnext,,,,,,,
-Basic,Basis,reviewed,frappe,,,,,,,
-Basic Amount,Basisbedrag,reviewed,erpnext,,,,,,,
-Basic Amount (Company Currency),Basisbedrag (Company Munt),reviewed,erpnext,,,,,,,
-Basic Component,Basiscomponent,reviewed,erpnext,,,,,,,
-Basic Details,Basisgegevens,reviewed,erpnext,,,,,,,
-Basic Rate,Basis Tarief,reviewed,erpnext,,,,,,,
-Basic Rate (as per Stock UOM),Basistarief (per eenheid),reviewed,erpnext,,,,,,,
-Basic Rate (Company Currency),Basis Tarief (Bedrijfs Valuta),reviewed,erpnext,,,,,,,
-Batch,Partij,reviewed,erpnext,,,,,,,
-Batch Description,Batch Beschrijving,reviewed,erpnext,,,,,,,
-Batch Details,Batchgegevens,reviewed,erpnext,,,,,,,
-Batch Entries,Batchvermeldingen,reviewed,erpnext,,,,,,,
-Batch ID,Partij ID,reviewed,erpnext,,,,,,,
-Batch ID is mandatory,Batch ID is verplicht,reviewed,erpnext,,,,,,,
-Batch Identification,Batchidentificatie,reviewed,erpnext,,,,,,,
-Batch Item Expiry Status,Batch Item Vervaldatum Status,reviewed,erpnext,,,,,,,
-Batch Name,batch Naam,reviewed,erpnext,,,,,,,
-Batch No,Partij nr.,reviewed,erpnext,,,,,,,
-Batch no is required for batched item {0},Batch-nummer is vereist voor batch-artikel {0},reviewed,erpnext,,,,,,,
-Batch number is mandatory for Item {0},Partij nummer is verplicht voor artikel {0},reviewed,erpnext,,,,,,,
-Batch Number Series,Batchnummerserie,reviewed,erpnext,,,,,,,
-Batch Quantity,Batchhoeveelheid,reviewed,erpnext,,,,,,,
-Batch Size,Seriegrootte,reviewed,erpnext,,,,,,,
-Batch UOM,Batch maateenheid,reviewed,erpnext,,,,,,,
-Batch {0} already selected.,Batch {0} is al geselecteerd.,reviewed,erpnext,,,,,,,
-Batch {0} of Item {1} has expired.,Batch {0} van item {1} is verlopen.,reviewed,erpnext,,,,,,,
-Batch {0} of Item {1} is disabled.,Batch {0} van item {1} is uitgeschakeld.,reviewed,erpnext,,,,,,,
-Batch-Wise Balance History,Batchgewijze balansgeschiedenis,reviewed,erpnext,,,,,,,
-Batch:,Partij:,reviewed,erpnext,,,,,,,
-Batches,batches,reviewed,erpnext,,,,,,,
-because account {} is not linked to warehouse {},omdat account {} niet is gekoppeld aan magazijn {},reviewed,erpnext,,,,,,,
-because expense is booked against this account in Purchase Receipt {},omdat onkosten worden geboekt op deze rekening in inkoopontvangst {},reviewed,erpnext,,,,,,,
-Become a Seller,Word een verkoper,reviewed,erpnext,,,,,,,
-Before Cancel,Voor annuleren,reviewed,frappe,,,,,,,
-Before Delete,Voor verwijderen,reviewed,frappe,,,,,,,
-Before Insert,Voor invoegen,reviewed,frappe,,,,,,,
-Before reconciliation,Voor afstemming,reviewed,erpnext,,,,,,,
-Before Save,Voor opslaan,reviewed,frappe,,,,,,,
-Before Save (Submitted Document),Voor opslaan (ingediend document),reviewed,frappe,,,,,,,
-Before Submit,Voor indienen,reviewed,frappe,,,,,,,
-Begin On (Days),Begin op (dagen),reviewed,erpnext,,,,,,,
-Beginning with,Beginnend met,reviewed,frappe,,,,,,,
-beginning with,beginnend met,reviewed,frappe,,,,,,,
-bell,bel,reviewed,frappe,,,,,,,
-Benefit Type and Amount,Voordeeltype en bedrag,reviewed,erpnext,,,,,,,
-Benefits Applied,Toegepaste voordelen,reviewed,erpnext,,,,,,,
-Beta,Beta,reviewed,frappe,,,,,,,
-Better add a few more letters or another word,Voeg nog een paar letters of een ander woord toe,reviewed,frappe,,,,,,,
-Between,Tussen,reviewed,frappe,,,,,,,
-Biennial,Tweejaarlijks,reviewed,erpnext,,,,,,,
-Bill Date,Factuurdatum,reviewed,erpnext,,,,,,,
-Bill No,Factuurnr.,reviewed,erpnext,,,,,,,
-Bill of Materials,Stuklijst,reviewed,erpnext,,,,,,,
-Bill of Materials (BOM),Stuklijst (BOM),reviewed,erpnext,,,,,,,
-Billable,Factureerbaar,reviewed,erpnext,,,,,,,
-Billable Hours,Factureerbare uren,reviewed,erpnext,,,,,,,
-Billed,Gefactureerd,reviewed,erpnext,,,,,,,
-Billed Amount,Gefactureerd bedrag,reviewed,erpnext,,,,,,,
-Billed Amt,Gefact. bedr.,reviewed,erpnext,,,,,,,
-Billed Qty,Gefact. aantal,reviewed,erpnext,,,,,,,
-Billing,Facturering,reviewed,frappe,,,,,,,
-Billing Address,Factuuradres,reviewed,erpnext,,,,,,,
-Billing Address GSTIN,Factuuradres GSTIN,reviewed,erpnext,,,,,,,
-Billing Address is same as Shipping Address,Factuuradres is gelijk aan verzendadres,reviewed,erpnext,,,,,,,
-Billing Address Name,Naam factuuradres,reviewed,erpnext,,,,,,,
-Billing Amount,Factuurbedrag,reviewed,erpnext,,,,,,,
-Billing and Delivery Status,Factuur- en leverstatus,reviewed,erpnext,,,,,,,
-Billing City,Factuurstad,reviewed,erpnext,,,,,,,
-Billing Country,Factuurland,reviewed,erpnext,,,,,,,
-Billing Currency,Factuurvaluta,reviewed,erpnext,,,,,,,
-Billing currency must be equal to either default company's currency or party account currency,Factuurvaluta moet gelijk zijn aan de standaardvaluta van het bedrijf of de rekeningvaluta van de partij,reviewed,erpnext,,,,,,,
-Billing Cycle,Factureringscyclus,reviewed,erpnext,,,,,,,
-Billing Date,Factuurdatum,reviewed,erpnext,,,,,,,
-Billing Email,Factuur-e-mail,reviewed,erpnext,,,,,,,
-Billing Frequency,Factureringsfrequentie,reviewed,erpnext,,,,,,,
-Billing Interval,Factuurinterval,reviewed,erpnext,,,,,,,
-Billing Interval Count,Aantal factuurintervallen,reviewed,erpnext,,,,,,,
-Billing Interval Count cannot be less than 1,Aantal factuurintervallen kan niet minder dan 1 zijn,reviewed,erpnext,,,,,,,
-Billing Item,Factuurregel,reviewed,erpnext,,,,,,,
-Billing Status,Factuurstatus,reviewed,erpnext,,,,,,,
-Billing Zipcode,Factuur postcode,reviewed,erpnext,,,,,,,
-Bills raised by Suppliers.,Facturen van leveranciers.,reviewed,erpnext,,,,,,,
-Bills raised to Customers.,Facturen aan klanten.,reviewed,erpnext,,,,,,,
-Bin,Voorraadlocatie,reviewed,erpnext,,,,,,,
-Bio / Cover Letter,Bio / sollicitatiebrief,reviewed,erpnext,,,,,,,
-Biotechnology,Biotechnologie,reviewed,erpnext,,,,,,,
-Birth Date,Geboortedatum,reviewed,frappe,,,,,,,
-Black,Zwart,reviewed,erpnext,,,,,,,
-Blank Template,Leeg sjabloon,reviewed,frappe,,,,,,,
-Blanket Order,Raamovereenkomst,reviewed,erpnext,,,,,,,
-Blanket Order Item,Raamovereenkomstregel,reviewed,erpnext,,,,,,,
-Blanket Order Rate,Raamovereenkomsttarief,reviewed,erpnext,,,,,,,
-Blanket Orders from Costumers.,Raamovereenkomsten van klanten.,reviewed,erpnext,,,,,,,
-Bloated,Overbelast,reviewed,erpnext,,,,,,,
-Block Invoice,Factuur blokkeren,reviewed,erpnext,,,,,,,
-Block Supplier,Leverancier blokkeren,reviewed,erpnext,,,,,,,
-Blocked,Geblokkeerd,reviewed,frappe,,,,,,,
-Blog Category,Blog categorie,reviewed,frappe,,,,,,,
-Blog Introduction,Blog inleiding,reviewed,frappe,,,,,,,
-Blog Settings,Blog instellingen,reviewed,frappe,,,,,,,
-Blog Subscriber,Blog abonnee,reviewed,erpnext,,,,,,,
-Blog Title,Blog titel,reviewed,frappe,,,,,,,
-Blood Group,Bloedgroep,reviewed,erpnext,,,,,,,
-Blood Pressure,Bloeddruk,reviewed,erpnext,,,,,,,
-Blood Pressure (diastolic),Bloeddruk (diastolisch),reviewed,erpnext,,,,,,,
-Blood Pressure (systolic),Bloeddruk (systolisch),reviewed,erpnext,,,,,,,
-Blue,Blauw,reviewed,erpnext,,,,,,,
-blue,blauw,reviewed,frappe,,,,,,,
-Board View,Bordweergave,reviewed,custom,,,,,,,
-Body,Inhoud,reviewed,erpnext,,,,,,,
-Body and Closing Text Help,Hoofdtekst en afsluitende tekst Help,reviewed,erpnext,,,,,,,
-Body Part,Lichaamsdeel,reviewed,erpnext,,,,,,,
-Body Part Link,Lichaamsdeel link,reviewed,erpnext,,,,,,,
-Body Parts,Lichaamsdelen,reviewed,erpnext,,,,,,,
-Body Temperature,Lichaamstemperatuur,reviewed,erpnext,,,,,,,
-Body Text,Hoofdtekst,reviewed,erpnext,,,,,,,
-Bold,Vet,reviewed,frappe,,,,,,,
-bold,Vet,reviewed,frappe,,,,,,,
-BOM 1 {0} and BOM 2 {1} should not be same,BOM 1 {0} en BOM 2 {1} mogen niet hetzelfde zijn,reviewed,erpnext,,,,,,,
-BOM and Manufacturing Quantity are required,BOM en productiehoeveelheid zijn verplicht,reviewed,erpnext,,,,,,,
+Balance ({0}),Saldo ({0}),reviewed,erpnext,0.95,0.9,0.95,0.95,1.0,1.0,ok
+Balance Details,Saldogegevens,reviewed,erpnext,0.91,0.85,0.9,0.9,1.0,1.0,ok
+Balance for Account {0} must always be {1},Saldo van rekening {0} moet altijd {1} zijn,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Balance In Account Currency,Saldo in rekeningvaluta,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Balance In Base Currency,Saldo in basisvaluta,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Balance must be,Saldo moet worden,reviewed,erpnext,0.52,0.5,0.4,0.6,0.5,0.7,review
+Balance Qty,Saldohoeveelheid,reviewed,erpnext,0.63,0.6,0.5,0.6,0.8,0.9,review
+Balance Serial No,Saldo serienr.,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,0.9,review
+Balance Sheet,Balans,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Balance Value,Balans Waarde,reviewed,erpnext,0.64,0.65,0.55,0.6,0.7,0.9,review
+ban-circle,ban-cirkel,reviewed,frappe,0.31,0.2,0.2,0.3,0.5,0.8,rewrite
+Bank / Cash Account,Bank- / Kasrekening,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Bank A/C No.,Bank A / C nr.,reviewed,erpnext,0.34,0.3,0.25,0.3,0.4,0.7,rewrite
+Bank Account,Bankrekening,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Bank account '{0}' has been synchronized,Bankrekening &#39;{0}&#39; is gesynchroniseerd,reviewed,erpnext,0.39,0.4,0.3,0.4,0.3,0.8,rewrite
+Bank account cannot be named as {0},Bankrekening kan niet worden genoemd als {0},reviewed,erpnext,0.64,0.65,0.55,0.65,0.6,0.9,review
+Bank Account Details,Bankgegevens,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Bank Account Info,Bankrekeninggegevens,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,0.9,review
+Bank Account No,Bankrekening nummer,reviewed,erpnext,0.59,0.55,0.5,0.55,0.6,0.9,review
+Bank Account No.,Bankrekeningnummer,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Bank Account Subtype,Bankrekeningsubtype,reviewed,erpnext,0.66,0.65,0.55,0.65,0.7,0.9,review
+Bank Account Type,Bankrekeningtype,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Bank account {0} already exists and could not be created again,Bankrekening {0} bestaat al en kon niet opnieuw worden aangemaakt,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Bank Accounts,Bankrekeningen,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Bank accounts added,Bankrekeningen toegevoegd,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Bank Balance,Banksaldo,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Bank Charges,Bancaire kosten,reviewed,erpnext,0.87,0.85,0.8,0.85,0.95,1.0,ok
+Bank Charges Account,Bankkostenrekening,reviewed,erpnext,0.87,0.85,0.8,0.85,0.95,1.0,ok
+Bank Clearance,Bankvereffening,reviewed,erpnext,0.83,0.8,0.75,0.8,0.9,1.0,ok
+Bank Clearance Detail,Bankvereffeningsdetails,reviewed,erpnext,0.72,0.7,0.65,0.7,0.75,0.9,review
+Bank Clearance Summary,Bankbewaring samenvatting,reviewed,erpnext,0.32,0.3,0.25,0.3,0.3,0.6,rewrite
+Bank Credit Balance,Bankkredietsaldo,reviewed,erpnext,0.83,0.8,0.75,0.8,0.9,1.0,ok
+Bank Data,Bankgegevens,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Bank Data mapper doesn't exist,Bankgegevensmap bestaat niet,reviewed,erpnext,0.32,0.3,0.25,0.3,0.3,0.6,rewrite
+Bank Details,Bankgegevens,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Bank Draft,Bankcheque,reviewed,erpnext,0.78,0.75,0.7,0.75,0.85,1.0,review
+Bank Entry,Bank Invoer,reviewed,erpnext,0.62,0.6,0.55,0.6,0.65,0.9,review
+Bank Guarantee,Bankgarantie,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Bank Guarantee Number,Bankgarantie Nummer,reviewed,erpnext,0.67,0.65,0.6,0.65,0.7,0.9,review
+Bank Guarantee Type,Type bankgarantie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Bank Header,Bankkop,reviewed,erpnext,0.58,0.55,0.5,0.55,0.65,0.8,review
+Bank Name,Banknaam,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Bank Overdraft Account,Bank Kredietrekening,reviewed,erpnext,0.48,0.45,0.4,0.45,0.55,0.7,rewrite
+Bank Reconciliation,Bank Aflettering,reviewed,erpnext,0.63,0.6,0.55,0.6,0.65,0.9,review
+Bank Reconciliation Detail,Bank Aflettering Detail,reviewed,erpnext,0.58,0.55,0.5,0.55,0.6,0.8,review
+Bank Reconciliation Statement,Bank Aflettering Statement,reviewed,erpnext,0.53,0.5,0.45,0.5,0.55,0.75,review
+Bank Statement,Bankafschrift,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Bank Statement balance as per General Ledger,Bankafschrift saldo per General Ledger,reviewed,erpnext,0.58,0.55,0.5,0.55,0.6,0.8,review
+Bank Statement Import,Bankafschrift importeren,reviewed,custom,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Bank Statement Settings,Instellingen bankafschriften,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Bank Statement Settings Item,Instellingen voor bankafschriftinstellingen,reviewed,erpnext,0.32,0.3,0.25,0.3,0.35,0.6,rewrite
+Bank Statement Transaction Entry,Rekeningoverzichtstransactie,reviewed,erpnext,0.57,0.55,0.5,0.55,0.6,0.75,review
+Bank Statement Transaction Invoice Item,Rekeningoverzicht Transactie Rekening Item,reviewed,erpnext,0.37,0.35,0.3,0.35,0.4,0.6,rewrite
+Bank Statement Transaction Payment Item,Betalingstransactie voor bankafschrift,reviewed,erpnext,0.77,0.75,0.7,0.75,0.8,0.9,review
+Bank Statement Transaction Settings Item,Bankafschrift Transaction Settings Item,reviewed,erpnext,0.47,0.45,0.4,0.45,0.5,0.65,rewrite
+Bank Transaction,Banktransactie,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Bank transaction creation error,Fout bij maken van banktransactie,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Bank Transaction Entries,Banktransactieposten,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Bank Transaction Mapping,Mapping van banktransacties,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Bank Transaction Payments,Betalingen via banktransacties,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Bank/Cash transactions against party or for internal transfer,Bank / Cash-transacties tegen de partij of voor interne overplaatsing,reviewed,erpnext,0.33,0.3,0.25,0.3,0.3,0.7,rewrite
+Banking,Bankieren,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,0.9,review
+Banking and Payments,Bank en betalingen,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Banner Image,Banner Afbeelding,reviewed,frappe,0.62,0.6,0.55,0.6,0.65,0.9,review
+Banner is above the Top Menu Bar.,Banner is boven de top menubalk.,reviewed,frappe,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Barcode Type,Streepjescodetype,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Barcode {0} already used in Item {1},Barcode {0} is al gebruikt in het Item {1},reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Barcode {0} is not a valid {1} code,Barcode {0} is geen geldige {1} code,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Base Amount (Company Currency),Basisbedrag (Company Munt),reviewed,erpnext,0.48,0.45,0.4,0.45,0.5,0.75,rewrite
+Base Change Amount (Company Currency),Base Change Bedrag (Company Munt),reviewed,erpnext,0.31,0.3,0.25,0.3,0.3,0.6,rewrite
+Base Hour Rate(Company Currency),Base Uur Rate (Company Munt),reviewed,erpnext,0.31,0.3,0.25,0.3,0.3,0.6,rewrite
+Base URL,Basis-URL,reviewed,both,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Based On,Gebaseerd op,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Based On Data ( in years ),Gebaseerd op gegevens (in jaren),reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Based On Document,Gebaseerd op document,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Based on Field,Gebaseerd op veld,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Based On Payment Terms,Op basis van betalingsvoorwaarden,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Based on Permissions For User,Op basis van de machtigingen voor de gebruiker,reviewed,frappe,0.83,0.8,0.75,0.8,0.9,1.0,ok
+Based On Price List,Gebaseerd op prijslijst,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+based_on,gebaseerd op,reviewed,erpnext,0.72,0.7,0.65,0.7,0.75,0.9,review
+Basic,Basis,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Basic Amount,Basisbedrag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Basic Amount (Company Currency),Basisbedrag (Company Munt),reviewed,erpnext,0.48,0.45,0.4,0.45,0.5,0.75,rewrite
+Basic Component,Basiscomponent,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Basic Details,Basisgegevens,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Basic Rate,Basis Tarief,reviewed,erpnext,0.67,0.65,0.6,0.65,0.7,0.9,review
+Basic Rate (as per Stock UOM),Basistarief (per eenheid),reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Basic Rate (Company Currency),Basis Tarief (Bedrijfs Valuta),reviewed,erpnext,0.42,0.4,0.35,0.4,0.45,0.65,rewrite
+Batch,Partij,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Batch Description,Batch Beschrijving,reviewed,erpnext,0.59,0.55,0.5,0.55,0.65,0.85,review
+Batch Details,Batchgegevens,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Batch Entries,Batchvermeldingen,reviewed,erpnext,0.83,0.8,0.75,0.8,0.9,1.0,ok
+Batch ID,Partij ID,reviewed,erpnext,0.68,0.65,0.6,0.65,0.75,0.9,review
+Batch ID is mandatory,Batch ID is verplicht,reviewed,erpnext,0.62,0.6,0.55,0.6,0.65,0.85,review
+Batch Identification,Batchidentificatie,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Batch Item Expiry Status,Batch Item Vervaldatum Status,reviewed,erpnext,0.43,0.4,0.35,0.4,0.45,0.65,rewrite
+Batch Name,batch Naam,reviewed,erpnext,0.49,0.5,0.45,0.5,0.35,0.8,rewrite
+Batch No,Partij nr.,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Batch no is required for batched item {0},Batch-nummer is vereist voor batch-artikel {0},reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Batch number is mandatory for Item {0},Partij nummer is verplicht voor artikel {0},reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Batch Number Series,Batchnummerserie,reviewed,erpnext,0.84,0.85,0.7,0.85,0.9,1.0,ok
+Batch Quantity,Batchhoeveelheid,reviewed,erpnext,0.83,0.85,0.65,0.85,0.9,1.0,ok
+Batch Size,Seriegrootte,reviewed,erpnext,0.54,0.5,0.55,0.45,0.8,0.8,review
+Batch UOM,Batch maateenheid,reviewed,erpnext,0.79,0.8,0.75,0.7,0.8,1.0,review
+Batch {0} already selected.,Batch {0} is al geselecteerd.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Batch {0} of Item {1} has expired.,Batch {0} van item {1} is verlopen.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Batch {0} of Item {1} is disabled.,Batch {0} van item {1} is uitgeschakeld.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Batch-Wise Balance History,Batchgewijze balansgeschiedenis,reviewed,erpnext,0.78,0.8,0.6,0.8,0.85,1.0,review
+Batch:,Partij:,reviewed,erpnext,0.57,0.5,0.7,0.35,0.95,1.0,review
+Batches,batches,reviewed,erpnext,0.74,0.8,0.75,0.7,0.5,1.0,review
+because account {} is not linked to warehouse {},omdat account {} niet is gekoppeld aan magazijn {},reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+because expense is booked against this account in Purchase Receipt {},omdat onkosten worden geboekt op deze rekening in inkoopontvangst {},reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Become a Seller,Word een verkoper,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Before Cancel,Voor annuleren,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Before Delete,Voor verwijderen,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Before Insert,Voor invoegen,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Before reconciliation,Voor afstemming,reviewed,erpnext,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Before Save,Voor opslaan,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Before Save (Submitted Document),Voor opslaan (ingediend document),reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Before Submit,Voor indienen,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Begin On (Days),Begin op (dagen),reviewed,erpnext,0.83,0.8,0.8,0.8,0.85,1.0,ok
+Beginning with,Beginnend met,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+beginning with,beginnend met,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+bell,bel,reviewed,frappe,0.86,0.8,0.85,0.85,0.95,1.0,ok
+Benefit Type and Amount,Voordeeltype en bedrag,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Benefits Applied,Toegepaste voordelen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Beta,Beta,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Better add a few more letters or another word,Voeg nog een paar letters of een ander woord toe,reviewed,frappe,0.86,0.85,0.85,0.8,0.9,0.9,ok
+Between,Tussen,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Biennial,Tweejaarlijks,reviewed,erpnext,0.91,0.9,0.9,0.85,0.95,1.0,ok
+Bill Date,Factuurdatum,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Bill No,Factuurnr.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Bill of Materials,Stuklijst,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Bill of Materials (BOM),Stuklijst (BOM),reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billable,Factureerbaar,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billable Hours,Factureerbare uren,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billed,Gefactureerd,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billed Amount,Gefactureerd bedrag,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billed Amt,Gefact. bedr.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Billed Qty,Gefact. aantal,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Billing,Facturering,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billing Address,Factuuradres,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Billing Address GSTIN,Factuuradres GSTIN,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Billing Address is same as Shipping Address,Factuuradres is gelijk aan verzendadres,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billing Address Name,Naam factuuradres,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Billing Amount,Factuurbedrag,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billing and Delivery Status,Factuur- en leverstatus,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Billing City,Factuurstad,reviewed,erpnext,0.75,0.75,0.65,0.75,0.8,1.0,review
+Billing Country,Factuurland,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billing Currency,Factuurvaluta,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billing currency must be equal to either default company's currency or party account currency,Factuurvaluta moet gelijk zijn aan de standaardvaluta van het bedrijf of de rekeningvaluta van de partij,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Billing Cycle,Factureringscyclus,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Billing Date,Factuurdatum,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billing Email,Factuur-e-mail,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Billing Frequency,Factureringsfrequentie,reviewed,erpnext,0.84,0.85,0.75,0.85,0.9,1.0,ok
+Billing Interval,Factuurinterval,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Billing Interval Count,Aantal factuurintervallen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Billing Interval Count cannot be less than 1,Aantal factuurintervallen kan niet minder dan 1 zijn,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Billing Item,Factuurregel,reviewed,erpnext,0.75,0.7,0.7,0.7,0.9,1.0,review
+Billing Status,Factuurstatus,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Billing Zipcode,Factuur postcode,reviewed,erpnext,0.78,0.8,0.75,0.75,0.75,1.0,review
+Bills raised by Suppliers.,Facturen van leveranciers.,reviewed,erpnext,0.88,0.85,0.9,0.85,0.95,0.95,ok
+Bills raised to Customers.,Facturen aan klanten.,reviewed,erpnext,0.88,0.85,0.9,0.85,0.95,0.95,ok
+Bin,Voorraadlocatie,reviewed,erpnext,0.76,0.75,0.75,0.7,0.95,0.8,review
+Bio / Cover Letter,Bio / sollicitatiebrief,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Biotechnology,Biotechnologie,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Birth Date,Geboortedatum,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Black,Zwart,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Blank Template,Leeg sjabloon,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Blanket Order,Raamovereenkomst,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Blanket Order Item,Raamovereenkomstregel,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Blanket Order Rate,Raamovereenkomsttarief,reviewed,erpnext,0.83,0.85,0.75,0.85,0.85,1.0,ok
+Blanket Orders from Costumers.,Raamovereenkomsten van klanten.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Bloated,Overbelast,reviewed,erpnext,0.72,0.65,0.65,0.65,0.9,1.0,review
+Block Invoice,Factuur blokkeren,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Block Supplier,Leverancier blokkeren,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Blocked,Geblokkeerd,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Blog Category,Blog categorie,reviewed,frappe,0.82,0.85,0.8,0.8,0.75,1.0,ok
+Blog Introduction,Blog inleiding,reviewed,frappe,0.82,0.85,0.8,0.8,0.75,1.0,ok
+Blog Settings,Blog instellingen,reviewed,frappe,0.82,0.85,0.8,0.8,0.75,1.0,ok
+Blog Subscriber,Blog abonnee,reviewed,erpnext,0.82,0.85,0.8,0.8,0.75,1.0,ok
+Blog Title,Blog titel,reviewed,frappe,0.82,0.85,0.8,0.8,0.75,1.0,ok
+Blood Group,Bloedgroep,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Blood Pressure,Bloeddruk,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Blood Pressure (diastolic),Bloeddruk (diastolisch),reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Blood Pressure (systolic),Bloeddruk (systolisch),reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Blue,Blauw,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+blue,blauw,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Board View,Bordweergave,reviewed,custom,0.8,0.8,0.7,0.8,0.9,1.0,ok
+Body,Inhoud,reviewed,erpnext,0.79,0.75,0.75,0.7,0.95,1.0,review
+Body and Closing Text Help,Hoofdtekst en afsluitende tekst Help,reviewed,erpnext,0.72,0.7,0.6,0.7,0.75,1.0,review
+Body Part,Lichaamsdeel,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Body Part Link,Lichaamsdeel link,reviewed,erpnext,0.77,0.8,0.7,0.75,0.75,1.0,review
+Body Parts,Lichaamsdelen,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Body Temperature,Lichaamstemperatuur,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Body Text,Hoofdtekst,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Bold,Vet,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+bold,Vet,reviewed,frappe,0.83,0.85,0.85,0.8,0.75,1.0,ok
+BOM 1 {0} and BOM 2 {1} should not be same,BOM 1 {0} en BOM 2 {1} mogen niet hetzelfde zijn,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+BOM and Manufacturing Quantity are required,BOM en productiehoeveelheid zijn verplicht,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 BOM Comparison Tool,BOM-vergelijkingstool,reviewed,erpnext,,,,,,,
 BOM Creator,Stuklijst aanmaken,reviewed,custom,,,,,,,
 BOM Detail No,Stuklijst Detail nr.,reviewed,erpnext,,,,,,,

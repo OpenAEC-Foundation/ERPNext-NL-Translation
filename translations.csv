@@ -3111,203 +3111,203 @@ Document Type is not importable,Documenttype kan niet worden geïmporteerd,revie
 Document Type is not submittable,Documenttype kan niet worden ingediend,reviewed,frappe
 Document type is required to create a dashboard chart,Documenttype is vereist om een dashboarddiagram te maken,reviewed,frappe
 Document Type Mapping,Documenttype Mapping,reviewed,frappe
-Document Type to Track,Te volgen documenttype,unreviewed,frappe
-Document Type {0} has been repeated.,Documenttype {0} is herhaald.,unreviewed,frappe
-"document type..., e.g. customer","documenttype ..., bijvoorbeeld klant",unreviewed,frappe
-Document {0} Already Restored,Document {0} is al hersteld,unreviewed,frappe
-Document {0} has been set to state {1} by {2},Document {0} is ingesteld op staat {1} op {2},unreviewed,frappe
-Document {0} successfully uncleared,Document {0} is succesvol gewist,unreviewed,erpnext
-Documentation Link,Documentatielink,unreviewed,frappe
-Documentation URL,Documentatie-URL,unreviewed,frappe
-Documents,Documenten,unreviewed,frappe
-Documents assigned to you and by you.,Documenten aan u toegewezen en door u.,unreviewed,frappe
-Documents restored successfully,Documenten zijn hersteld,unreviewed,frappe
-Documents that failed to restore,Documenten die niet kunnen worden hersteld,unreviewed,frappe
-Documents that were already restored,Documenten die al zijn hersteld,unreviewed,frappe
-Domain,Domein,unreviewed,both
-domain name,domeinnaam,unreviewed,frappe
-Domain Settings,Domeininstellingen,unreviewed,frappe
-Domains,Domeinen,unreviewed,both
-Domains HTML,Domeinen HTML,unreviewed,frappe
-Don't create new records,Maak geen nieuwe records,unreviewed,frappe
-Don't have an account? Sign up,Heb je nog geen account? Aanmelden,unreviewed,frappe
-"Don't HTML Encode HTML tags like &lt;script&gt; or just characters like &lt; or &gt;, as they could be intentionally used in this field","Doe geen HTML coderen HTML-tags zoals &lt;script&gt; of gewoon tekens zoals &lt;en&gt;, omdat ze bewust kunnen worden gebruikt in dit gebied",unreviewed,frappe
-Don't Import,Niet importeren,unreviewed,frappe
-"Don't know, ask 'help'","Ik weet het niet, vraag &#39;help&#39;",unreviewed,frappe
-Don't Override Status,Niet overschrijven Status,unreviewed,frappe
-Don't Send Emails,Stuur geen e-mails,unreviewed,frappe
-Don't send employee birthday reminders,Stuur geen verjaardagsherinneringen van werknemers,unreviewed,erpnext
-Done,Afgerond,unreviewed,erpnext
-Donor,schenker,unreviewed,erpnext
-Donor information.,Donorinformatie.,unreviewed,erpnext
-Donor Name,Donornaam,unreviewed,erpnext
-Donor Type information.,Donor Type informatie.,unreviewed,erpnext
-Doors,deuren,unreviewed,erpnext
-Dosage,Dosering,unreviewed,erpnext
-Dosage by Time Interval,Dosering per tijdsinterval,unreviewed,erpnext
-Dosage Form,Doseringsformulier,unreviewed,erpnext
-Dosage Strength,Dosis Sterkte,unreviewed,erpnext
-Double Declining Balance,Double degressief,unreviewed,erpnext
-Download,Downloaden,unreviewed,both
-download,Download,unreviewed,frappe
-Download as JSON,Downloaden als JSON,unreviewed,erpnext
-Download Data,Gegevens downloaden,unreviewed,frappe
-Download DATEV File,Download DATEV-bestand,unreviewed,erpnext
-Download Files Backup,Bestanden Backup downloaden,unreviewed,frappe
-Download JSON,JSON downloaden,unreviewed,erpnext
-Download Link,Download link,unreviewed,frappe
-Download link for your backup will be emailed on the following email address: {0},Download link voor uw back-up zal worden gemaild op het volgende e-mailadres: {0},unreviewed,frappe
-Download Report,Rapport downloaden,unreviewed,frappe
-Download Required Materials,Benodigde materialen downloaden,unreviewed,erpnext
-Download template,Sjabloon downloaden,unreviewed,frappe
-Download with Data,Download met data,unreviewed,frappe
-Download Your Data,Download uw gegevens,unreviewed,frappe
-Downtime,uitvaltijd,unreviewed,erpnext
-Downtime (In Hours),Downtime (in uren),unreviewed,erpnext
-Downtime Analysis,Downtime-analyse,unreviewed,erpnext
+Document Type to Track,Te volgen documenttype,reviewed,frappe
+Document Type {0} has been repeated.,Documenttype {0} is herhaald.,reviewed,frappe
+"document type..., e.g. customer","documenttype ..., bijvoorbeeld klant",reviewed,frappe
+Document {0} Already Restored,Document {0} is al hersteld,reviewed,frappe
+Document {0} has been set to state {1} by {2},Document {0} is ingesteld op status {1} door {2},reviewed,frappe
+Document {0} successfully uncleared,Document {0} is succesvol vrijgegeven,reviewed,erpnext
+Documentation Link,Documentatielink,reviewed,frappe
+Documentation URL,Documentatie-URL,reviewed,frappe
+Documents,Documenten,reviewed,frappe
+Documents assigned to you and by you.,Documenten aan u toegewezen en door u.,reviewed,frappe
+Documents restored successfully,Documenten zijn hersteld,reviewed,frappe
+Documents that failed to restore,Documenten die niet kunnen worden hersteld,reviewed,frappe
+Documents that were already restored,Documenten die al zijn hersteld,reviewed,frappe
+Domain,Domein,reviewed,both
+domain name,domeinnaam,reviewed,frappe
+Domain Settings,Domeininstellingen,reviewed,frappe
+Domains,Domeinen,reviewed,both
+Domains HTML,Domeinen HTML,reviewed,frappe
+Don't create new records,Maak geen nieuwe records,reviewed,frappe
+Don't have an account? Sign up,Heb je nog geen account? Aanmelden,reviewed,frappe
+"Don't HTML Encode HTML tags like &lt;script&gt; or just characters like &lt; or &gt;, as they could be intentionally used in this field","Doe geen HTML coderen HTML-tags zoals &lt;script&gt; of gewoon tekens zoals &lt;en&gt;, omdat ze bewust kunnen worden gebruikt in dit gebied",reviewed,frappe
+Don't Import,Niet importeren,reviewed,frappe
+"Don't know, ask 'help'","Ik weet het niet, vraag &#39;help&#39;",reviewed,frappe
+Don't Override Status,Status niet overschrijven,reviewed,frappe
+Don't Send Emails,Stuur geen e-mails,reviewed,frappe
+Don't send employee birthday reminders,Stuur geen verjaardagsherinneringen voor medewerkers,reviewed,erpnext
+Done,Afgerond,reviewed,erpnext
+Donor,Donor,reviewed,erpnext
+Donor information.,Donorinformatie.,reviewed,erpnext
+Donor Name,Donornaam,reviewed,erpnext
+Donor Type information.,Donortypeinformatie.,reviewed,erpnext
+Doors,deuren,reviewed,erpnext
+Dosage,Dosering,reviewed,erpnext
+Dosage by Time Interval,Dosering per tijdsinterval,reviewed,erpnext
+Dosage Form,Doseringsvorm,reviewed,erpnext
+Dosage Strength,Doseringssterkte,reviewed,erpnext
+Double Declining Balance,Dubbel degressief,reviewed,erpnext
+Download,Downloaden,reviewed,both
+download,downloaden,reviewed,frappe
+Download as JSON,Downloaden als JSON,reviewed,erpnext
+Download Data,Gegevens downloaden,reviewed,frappe
+Download DATEV File,Download DATEV-bestand,reviewed,erpnext
+Download Files Backup,Bestandsback-up downloaden,reviewed,frappe
+Download JSON,JSON downloaden,reviewed,erpnext
+Download Link,Download link,reviewed,frappe
+Download link for your backup will be emailed on the following email address: {0},De downloadlink voor uw back-up wordt gemaild naar: {0},reviewed,frappe
+Download Report,Rapport downloaden,reviewed,frappe
+Download Required Materials,Benodigde materialen downloaden,reviewed,erpnext
+Download template,Sjabloon downloaden,reviewed,frappe
+Download with Data,Download met data,reviewed,frappe
+Download Your Data,Download uw gegevens,reviewed,frappe
+Downtime,Uitvaltijd,reviewed,erpnext
+Downtime (In Hours),Uitvaltijd (in uren),reviewed,erpnext
+Downtime Analysis,Uitvaltijdanalyse,reviewed,erpnext
 Downtime Entry,Stilstandregistratie,reviewed,erpnext
-Downtime Reason,Reden van uitvaltijd,unreviewed,erpnext
-DRAFT,Ontwerp,unreviewed,frappe
-Draft,Concept,unreviewed,both
-"Drag and drop files,","Bestanden slepen en neerzetten,",unreviewed,frappe
-Drag and Drop tool to build and customize Print Formats.,Drag and Drop tool om op te bouwen en aan te passen Print Formaten.,unreviewed,frappe
-Drag elements from the sidebar to add. Drag them back to trash.,Sleep elementen uit de zijbalk toe te voegen. Sleep ze terug naar de prullenbak.,unreviewed,frappe
-Driver,Bestuurder,unreviewed,erpnext
-Driver Address,Bestuurdersadres,unreviewed,erpnext
-Driver Email,E-mail stuurprogramma,unreviewed,erpnext
-Driver licence class,Rijbewijsklasse,unreviewed,erpnext
-Driver Name,Naam van de bestuurder,unreviewed,erpnext
-Driving License Categories,Rijbewijscategorieën,unreviewed,erpnext
-Driving License Category,Rijbewijscategorie,unreviewed,erpnext
-Drop,Laten vallen,unreviewed,frappe
-Drop files here,Zet hier bestanden neer,unreviewed,frappe
-Drop Here,Laat hier vallen,unreviewed,frappe
-Dropbox access is approved!,toegang Dropbox is goedgekeurd!,unreviewed,frappe
-Dropbox Access Secret,Dropbox Toegang Secret,unreviewed,frappe
-Dropbox backup settings,Dropbox back-instellingen,unreviewed,frappe
-Dropbox Settings,Dropbox-instellingen,unreviewed,frappe
-Dropdowns,Dropdown-menu&#39;s,unreviewed,frappe
-Drug,drug,unreviewed,erpnext
-Drug Code,Medicijncode,unreviewed,erpnext
-Drug Name,Medicijnnaam,unreviewed,erpnext
-Drug Name / Description,Medicijnnaam / beschrijving,unreviewed,erpnext
-Drug(s) Prescribed.,Geneesmiddel (en) voorgeschreven.,unreviewed,erpnext
-Due / Reference Date cannot be after {0},Verval- / Referentiedatum kan niet na {0} zijn,unreviewed,erpnext
-Due Date,Vervaldatum,unreviewed,both
-Due Date Based On,Vervaldatum op basis van,unreviewed,both
-Due Date cannot be before Posting / Supplier Invoice Date,De vervaldatum kan niet eerder zijn dan de boekingsdatum / factuurdatum van de leverancier,unreviewed,erpnext
-Due Date is mandatory,Vervaldatum is verplicht,unreviewed,erpnext
-DUNN-.MM.-.YY.-,DUNN-.MM .-. YY.-,unreviewed,erpnext
+Downtime Reason,Reden van uitvaltijd,reviewed,erpnext
+DRAFT,CONCEPT,reviewed,frappe
+Draft,Concept,reviewed,both
+"Drag and drop files,","Bestanden slepen en neerzetten,",reviewed,frappe
+Drag and Drop tool to build and customize Print Formats.,Drag and Drop tool om op te bouwen en aan te passen Print Formaten.,reviewed,frappe
+Drag elements from the sidebar to add. Drag them back to trash.,Sleep elementen uit de zijbalk toe te voegen. Sleep ze terug naar de prullenbak.,reviewed,frappe
+Driver,Bestuurder,reviewed,erpnext
+Driver Address,Bestuurdersadres,reviewed,erpnext
+Driver Email,E-mail bestuurder,reviewed,erpnext
+Driver licence class,Rijbewijsklasse,reviewed,erpnext
+Driver Name,Naam bestuurder,reviewed,erpnext
+Driving License Categories,Rijbewijscategorieën,reviewed,erpnext
+Driving License Category,Rijbewijscategorie,reviewed,erpnext
+Drop,Neerzetten,reviewed,frappe
+Drop files here,Zet hier bestanden neer,reviewed,frappe
+Drop Here,Hier neerzetten,reviewed,frappe
+Dropbox access is approved!,Dropbox-toegang is goedgekeurd!,reviewed,frappe
+Dropbox Access Secret,Dropbox-toegangssleutel,reviewed,frappe
+Dropbox backup settings,Dropbox back-upinstellingen,reviewed,frappe
+Dropbox Settings,Dropbox-instellingen,reviewed,frappe
+Dropdowns,Dropdown-menu&#39;s,reviewed,frappe
+Drug,Medicijn,reviewed,erpnext
+Drug Code,Medicijncode,reviewed,erpnext
+Drug Name,Medicijnnaam,reviewed,erpnext
+Drug Name / Description,Medicijnnaam / omschrijving,reviewed,erpnext
+Drug(s) Prescribed.,Voorgeschreven medicijn(en).,reviewed,erpnext
+Due / Reference Date cannot be after {0},Verval- / Referentiedatum kan niet na {0} zijn,reviewed,erpnext
+Due Date,Vervaldatum,reviewed,both
+Due Date Based On,Vervaldatum op basis van,reviewed,both
+Due Date cannot be before Posting / Supplier Invoice Date,De vervaldatum kan niet eerder zijn dan de boekingsdatum / factuurdatum van de leverancier,reviewed,erpnext
+Due Date is mandatory,Vervaldatum is verplicht,reviewed,erpnext
+DUNN-.MM.-.YY.-,DUNN-.MM .-. YY.-,reviewed,erpnext
 Dunning,Aanmaning,reviewed,custom
-Dunning Amount,Aanmaningsbedrag,unreviewed,erpnext
-Dunning Fee,Aanmaningskosten,unreviewed,erpnext
-Dunning Letter,Aanmaningsbrief,unreviewed,erpnext
-Dunning Letter Text,Aanmaningsbrieftekst,unreviewed,erpnext
+Dunning Amount,Aanmaningsbedrag,reviewed,erpnext
+Dunning Fee,Aanmaningskosten,reviewed,erpnext
+Dunning Letter,Aanmaningsbrief,reviewed,erpnext
+Dunning Letter Text,Aanmaningsbrieftekst,reviewed,erpnext
 Dunning Type,Aanmaningstype,reviewed,erpnext
-Duplicate,Dupliceer,unreviewed,both
-Duplicate customer group found in the cutomer group table,Duplicate klantengroep in de cutomer groep tafel,unreviewed,erpnext
-Duplicate entry,Dubbele invoer,unreviewed,erpnext
-Duplicate entry against the item code {0} and manufacturer {1},Dubbele invoer tegen de artikelcode {0} en fabrikant {1},unreviewed,erpnext
-Duplicate Entry. Please check Authorization Rule {0},Dubbele invoer. Controleer Autorisatie Regel {0},unreviewed,erpnext
-Duplicate Filter Name,Dubbele filternaam,unreviewed,frappe
-Duplicate for Supplier,Duplicaat voor leverancier,unreviewed,erpnext
-Duplicate for Transporter,Dupliceren voor Transporter,unreviewed,erpnext
-Duplicate item group found in the item group table,Duplicate artikelgroep gevonden in de artikelgroep tafel,unreviewed,erpnext
-Duplicate Name,Dubbele naam,unreviewed,frappe
-Duplicate project has been created,Dubbel project is gemaakt,unreviewed,erpnext
-Duplicate Project with Tasks,Dubbel project met taken,unreviewed,erpnext
-Duplicate roll number for student {0},Dubbele rolnummer voor student {0},unreviewed,erpnext
-Duplicate row {0} with same {1},Dubbele rij {0} met dezelfde {1},unreviewed,erpnext
-Duplicate Serial No entered for Item {0},Dubbel Serienummer ingevoerd voor Artikel {0},unreviewed,erpnext
-Duplicate {0} found in the table,Duplicaat {0} gevonden in de tabel,unreviewed,erpnext
-Duration,Looptijd,unreviewed,both
-Duration (Days),Duur (dagen),unreviewed,erpnext
-Duration (In Minutes),Duur (in minuten),unreviewed,erpnext
-Duration in Days,Duur in dagen,unreviewed,erpnext
-Duties and Taxes,Invoerrechten en Belastingen,unreviewed,erpnext
-Dynamic Filters,Dynamische filters,unreviewed,frappe
-Dynamic Filters JSON,Dynamische filters JSON,unreviewed,frappe
-Dynamic Filters Section,Dynamische filters sectie,unreviewed,frappe
-Dynamic Link,Dynamische Link,unreviewed,frappe
-Dynamic Report Filters,Dynamische rapportfilters,unreviewed,frappe
-Dynamic Route,dynamische route,unreviewed,frappe
-Dynamic Template,Dynamische sjabloon,unreviewed,frappe
-E-Invoicing Information Missing,Informatie over e-facturering ontbreekt,unreviewed,erpnext
-e-Way Bill already exists for this document,e-Way Bill bestaat al voor dit document,unreviewed,erpnext
-E-Way Bill JSON can only be generated from a submitted document,E-Way Bill JSON kan alleen worden gegenereerd op basis van een ingediend document,unreviewed,erpnext
-E-Way Bill JSON can only be generated from submitted document,E-Way Bill JSON kan alleen worden gegenereerd op basis van een ingediend document,unreviewed,erpnext
-E-Way Bill JSON cannot be generated for Sales Return as of now,E-Way Bill JSON kan vanaf nu niet worden gegenereerd voor Sales Return,unreviewed,erpnext
-E-Way Bill No.,E-Way Bill nr.,unreviewed,erpnext
-e.g Adjustments for:,bijv. aanpassingen voor:,unreviewed,erpnext
-"e.g. ""Build tools for builders""","bijv. ""Bouwgereedschap voor bouwers """,unreviewed,erpnext
-"e.g. ""Primary School"" or ""University""",bijvoorbeeld &quot;Primary School&quot; of &quot;University&quot;,unreviewed,erpnext
-"e.g. ""Summer Holiday 2019 Offer 20""",bijv. &quot;Zomervakantie 2019 Aanbieding 20&quot;,unreviewed,erpnext
-"e.g. ""Support"", ""Sales"", ""Jerry Yang""","bijv. ""Ondersteuning "","" Verkoop "",""Henk de Vries""",unreviewed,frappe
-e.g. (55 + 434) / 4 or =Math.sin(Math.PI/2)...,bijv (55 + 434) / 4 = of Math.sin (Math.PI / 2) ...,unreviewed,frappe
-"e.g. Bank, Cash, Credit Card","bijv. Bank, Kas, Credit Card",unreviewed,erpnext
-e.g. pop.gmail.com / imap.gmail.com,bv pop.gmail.com / imap.gmail.com,unreviewed,frappe
-e.g. replies@yourcomany.com. All replies will come to this inbox.,bijv. antwoord@uwbedrijf.nl. Alle antwoorden zullen op deze inbox binnenkomen.,unreviewed,frappe
-e.g. smtp.gmail.com,bv smtp.gmail.com,unreviewed,frappe
-e.g.:,bijvoorbeeld:,unreviewed,frappe
-Each Transaction,Elke transactie,unreviewed,erpnext
-Earliest,Vroegst,unreviewed,erpnext
-Earliest Age,Vroegste leeftijd,unreviewed,erpnext
-Earnest Money,Onderpand,unreviewed,erpnext
-Earning & Deduction,Verdienen &amp; Aftrek,unreviewed,erpnext
-Edit,Bewerk,unreviewed,both
-edit,Bewerken,unreviewed,frappe
-Edit Auto Email Report Settings,Bewerk instellingen voor automatische e-mailberichten,unreviewed,frappe
-Edit Chart,Bewerk grafiek,unreviewed,frappe
-Edit Custom HTML,Bewerken maatwerk HTML,unreviewed,frappe
-Edit Details,Details bewerken,unreviewed,erpnext
-Edit DocType,bewerken DocType,unreviewed,frappe
-Edit Exercise Step,Trainingsstap bewerken,unreviewed,erpnext
-Edit Filter,Filter bewerken,unreviewed,frappe
-Edit Format,Bewerken Formaat,unreviewed,frappe
-Edit Heading,Bewerken Koptekst,unreviewed,frappe
-Edit HTML,Bewerken HTML,unreviewed,frappe
-Edit in Full Page,Bewerken op volledige pagina,unreviewed,frappe
-Edit in full page,Bewerken in volledige pagina,unreviewed,frappe
-"Edit in full page for more options like assets, serial nos, batches etc.","Bewerken op de volledige pagina voor meer opties zoals activa, serienummers, batches etc.",unreviewed,erpnext
-Edit Not Allowed,Bewerken niet toegestaan,unreviewed,erpnext
-Edit Posting Date and Time,Wijzig Posting Datum en tijd,unreviewed,erpnext
-Edit Profile,Bewerk profiel,unreviewed,frappe
-Edit Properties,Eigenschappen bewerken,unreviewed,frappe
-Edit Publishing Details,Bewerk publicatie details,unreviewed,erpnext
-Edit Receipt,Bewerk ontvangstbewijs,unreviewed,erpnext
-Edit Shortcut,Snelkoppeling bewerken,unreviewed,frappe
-Edit to add content,Bewerken om inhoud toe te voegen,unreviewed,frappe
-Edit Values,Waarden bewerken,unreviewed,frappe
-Edit {0},Bewerk {0},unreviewed,frappe
-Editable Grid,bewerkbare Grid,unreviewed,frappe
-Editing Row,Rij bewerken,unreviewed,frappe
-Education,Onderwijs,unreviewed,erpnext
-Education Settings,Onderwijsinstellingen,unreviewed,erpnext
-Educational Qualification,Educatieve Kwalificatie,unreviewed,erpnext
-Eg. smsgateway.com/api/send_sms.cgi,Bijv. smsgateway.com / api / send_sms.cgi,unreviewed,frappe
-eg: frappe.myshopify.com,bijvoorbeeld: frappe.myshopify.com,unreviewed,erpnext
-Either GST Transporter ID or Vehicle No is required if Mode of Transport is Road,GST Transporter ID of voertuignummer is niet vereist als de vervoerswijze op de weg is,unreviewed,erpnext
-Either location or employee must be required,Plaats of werknemer moet verplicht zijn,unreviewed,erpnext
-Either target qty or target amount is mandatory,Ofwel doelwit aantal of streefbedrag is verplicht,unreviewed,erpnext
-Either target qty or target amount is mandatory.,Ofwel doelwit aantal of streefbedrag is verplicht.,unreviewed,erpnext
-eject,uitwerpen,unreviewed,frappe
-Electric,elektrisch,unreviewed,erpnext
-Electrical,Elektrisch,unreviewed,erpnext
-Electricity Cost,elektriciteitskosten,unreviewed,erpnext
-Electricity down,Elektriciteit naar beneden,unreviewed,erpnext
-Electronic Equipments,Elektronische apparatuur,unreviewed,erpnext
-Electronic Invoice Register,Elektronisch factuurregister,unreviewed,erpnext
-Electronics,Elektronica,unreviewed,erpnext
-Eligibility and Details,Geschiktheid en details,unreviewed,erpnext
-Eligibility For ITC,Geschiktheid voor ITC,unreviewed,erpnext
-Eligible ITC,In aanmerking komende ITC,unreviewed,erpnext
-EMail,E-mail,unreviewed,frappe
-Email,E-mail,unreviewed,both
-email,e-mail,unreviewed,frappe
-Email / Notifications,E-mail notificaties,unreviewed,frappe
-Email Account,E-mail account,unreviewed,both
-Email Account added multiple times,E-mail account meerdere keren toegevoegd,unreviewed,frappe
-Email Account Name,E-mail Account Naam,unreviewed,frappe
+Duplicate,Dupliceer,reviewed,both
+Duplicate customer group found in the cutomer group table,Dubbele klantengroep gevonden in de klantengroeptabel,reviewed,erpnext
+Duplicate entry,Dubbele invoer,reviewed,erpnext
+Duplicate entry against the item code {0} and manufacturer {1},Dubbele invoer tegen de artikelcode {0} en fabrikant {1},reviewed,erpnext
+Duplicate Entry. Please check Authorization Rule {0},Dubbele invoer. Controleer autorisatieregel {0},reviewed,erpnext
+Duplicate Filter Name,Dubbele filternaam,reviewed,frappe
+Duplicate for Supplier,Duplicaat voor leverancier,reviewed,erpnext
+Duplicate for Transporter,Dupliceren voor Transporter,reviewed,erpnext
+Duplicate item group found in the item group table,Duplicate artikelgroep gevonden in de artikelgroep tafel,reviewed,erpnext
+Duplicate Name,Dubbele naam,reviewed,frappe
+Duplicate project has been created,Dubbel project is gemaakt,reviewed,erpnext
+Duplicate Project with Tasks,Dubbel project met taken,reviewed,erpnext
+Duplicate roll number for student {0},Dubbele rolnummer voor student {0},reviewed,erpnext
+Duplicate row {0} with same {1},Dubbele rij {0} met dezelfde {1},reviewed,erpnext
+Duplicate Serial No entered for Item {0},Dubbel Serienummer ingevoerd voor Artikel {0},reviewed,erpnext
+Duplicate {0} found in the table,Duplicaat {0} gevonden in de tabel,reviewed,erpnext
+Duration,Looptijd,reviewed,both
+Duration (Days),Duur (dagen),reviewed,erpnext
+Duration (In Minutes),Duur (in minuten),reviewed,erpnext
+Duration in Days,Duur in dagen,reviewed,erpnext
+Duties and Taxes,Invoerrechten en Belastingen,reviewed,erpnext
+Dynamic Filters,Dynamische filters,reviewed,frappe
+Dynamic Filters JSON,Dynamische filters JSON,reviewed,frappe
+Dynamic Filters Section,Dynamische filters sectie,reviewed,frappe
+Dynamic Link,Dynamische Link,reviewed,frappe
+Dynamic Report Filters,Dynamische rapportfilters,reviewed,frappe
+Dynamic Route,dynamische route,reviewed,frappe
+Dynamic Template,Dynamische sjabloon,reviewed,frappe
+E-Invoicing Information Missing,Informatie over e-facturering ontbreekt,reviewed,erpnext
+e-Way Bill already exists for this document,e-Way Bill bestaat al voor dit document,reviewed,erpnext
+E-Way Bill JSON can only be generated from a submitted document,E-Way Bill JSON kan alleen worden gegenereerd op basis van een ingediend document,reviewed,erpnext
+E-Way Bill JSON can only be generated from submitted document,E-Way Bill JSON kan alleen worden gegenereerd op basis van een ingediend document,reviewed,erpnext
+E-Way Bill JSON cannot be generated for Sales Return as of now,E-Way Bill JSON kan vanaf nu niet worden gegenereerd voor Sales Return,reviewed,erpnext
+E-Way Bill No.,E-Way Bill nr.,reviewed,erpnext
+e.g Adjustments for:,bijv. aanpassingen voor:,reviewed,erpnext
+"e.g. ""Build tools for builders""","bijv. ""Bouwgereedschap voor bouwers """,reviewed,erpnext
+"e.g. ""Primary School"" or ""University""",bijvoorbeeld &quot;Primary School&quot; of &quot;University&quot;,reviewed,erpnext
+"e.g. ""Summer Holiday 2019 Offer 20""",bijv. &quot;Zomervakantie 2019 Aanbieding 20&quot;,reviewed,erpnext
+"e.g. ""Support"", ""Sales"", ""Jerry Yang""","bijv. ""Ondersteuning "","" Verkoop "",""Henk de Vries""",reviewed,frappe
+e.g. (55 + 434) / 4 or =Math.sin(Math.PI/2)...,bijv (55 + 434) / 4 = of Math.sin (Math.PI / 2) ...,reviewed,frappe
+"e.g. Bank, Cash, Credit Card","bijv. Bank, Kas, Credit Card",reviewed,erpnext
+e.g. pop.gmail.com / imap.gmail.com,bv pop.gmail.com / imap.gmail.com,reviewed,frappe
+e.g. replies@yourcomany.com. All replies will come to this inbox.,bijv. antwoord@uwbedrijf.nl. Alle antwoorden zullen op deze inbox binnenkomen.,reviewed,frappe
+e.g. smtp.gmail.com,bv smtp.gmail.com,reviewed,frappe
+e.g.:,bijvoorbeeld:,reviewed,frappe
+Each Transaction,Elke transactie,reviewed,erpnext
+Earliest,Vroegst,reviewed,erpnext
+Earliest Age,Vroegste leeftijd,reviewed,erpnext
+Earnest Money,Onderpand,reviewed,erpnext
+Earning & Deduction,Verdienen &amp; Aftrek,reviewed,erpnext
+Edit,Bewerk,reviewed,both
+edit,Bewerken,reviewed,frappe
+Edit Auto Email Report Settings,Bewerk instellingen voor automatische e-mailberichten,reviewed,frappe
+Edit Chart,Bewerk grafiek,reviewed,frappe
+Edit Custom HTML,Bewerken maatwerk HTML,reviewed,frappe
+Edit Details,Details bewerken,reviewed,erpnext
+Edit DocType,bewerken DocType,reviewed,frappe
+Edit Exercise Step,Trainingsstap bewerken,reviewed,erpnext
+Edit Filter,Filter bewerken,reviewed,frappe
+Edit Format,Bewerken Formaat,reviewed,frappe
+Edit Heading,Bewerken Koptekst,reviewed,frappe
+Edit HTML,Bewerken HTML,reviewed,frappe
+Edit in Full Page,Bewerken op volledige pagina,reviewed,frappe
+Edit in full page,Bewerken in volledige pagina,reviewed,frappe
+"Edit in full page for more options like assets, serial nos, batches etc.","Bewerken op de volledige pagina voor meer opties zoals activa, serienummers, batches etc.",reviewed,erpnext
+Edit Not Allowed,Bewerken niet toegestaan,reviewed,erpnext
+Edit Posting Date and Time,Wijzig Posting Datum en tijd,reviewed,erpnext
+Edit Profile,Bewerk profiel,reviewed,frappe
+Edit Properties,Eigenschappen bewerken,reviewed,frappe
+Edit Publishing Details,Bewerk publicatie details,reviewed,erpnext
+Edit Receipt,Bewerk ontvangstbewijs,reviewed,erpnext
+Edit Shortcut,Snelkoppeling bewerken,reviewed,frappe
+Edit to add content,Bewerken om inhoud toe te voegen,reviewed,frappe
+Edit Values,Waarden bewerken,reviewed,frappe
+Edit {0},Bewerk {0},reviewed,frappe
+Editable Grid,bewerkbare Grid,reviewed,frappe
+Editing Row,Rij bewerken,reviewed,frappe
+Education,Onderwijs,reviewed,erpnext
+Education Settings,Onderwijsinstellingen,reviewed,erpnext
+Educational Qualification,Educatieve Kwalificatie,reviewed,erpnext
+Eg. smsgateway.com/api/send_sms.cgi,Bijv. smsgateway.com / api / send_sms.cgi,reviewed,frappe
+eg: frappe.myshopify.com,bijvoorbeeld: frappe.myshopify.com,reviewed,erpnext
+Either GST Transporter ID or Vehicle No is required if Mode of Transport is Road,GST Transporter ID of voertuignummer is niet vereist als de vervoerswijze op de weg is,reviewed,erpnext
+Either location or employee must be required,Plaats of werknemer moet verplicht zijn,reviewed,erpnext
+Either target qty or target amount is mandatory,Ofwel doelwit aantal of streefbedrag is verplicht,reviewed,erpnext
+Either target qty or target amount is mandatory.,Ofwel doelwit aantal of streefbedrag is verplicht.,reviewed,erpnext
+eject,uitwerpen,reviewed,frappe
+Electric,elektrisch,reviewed,erpnext
+Electrical,Elektrisch,reviewed,erpnext
+Electricity Cost,elektriciteitskosten,reviewed,erpnext
+Electricity down,Elektriciteit naar beneden,reviewed,erpnext
+Electronic Equipments,Elektronische apparatuur,reviewed,erpnext
+Electronic Invoice Register,Elektronisch factuurregister,reviewed,erpnext
+Electronics,Elektronica,reviewed,erpnext
+Eligibility and Details,Geschiktheid en details,reviewed,erpnext
+Eligibility For ITC,Geschiktheid voor ITC,reviewed,erpnext
+Eligible ITC,In aanmerking komende ITC,reviewed,erpnext
+EMail,E-mail,reviewed,frappe
+Email,E-mail,reviewed,both
+email,e-mail,reviewed,frappe
+Email / Notifications,E-mail notificaties,reviewed,frappe
+Email Account,E-mail account,reviewed,both
+Email Account added multiple times,E-mail account meerdere keren toegevoegd,reviewed,frappe
+Email Account Name,E-mail Account Naam,reviewed,frappe
 Email Account not setup. Please create a new Email Account from Setup > Email > Email Account,E-mailaccount niet ingesteld. Maak een nieuw e-mailaccount aan via Instellingen&gt; E-mail&gt; E-mailaccount,unreviewed,frappe
 Email Account setup please enter your password for: {0},E-mailaccount instellen Voer uw wachtwoord in voor: {0},unreviewed,frappe
 Email Address,E-mailadres,reviewed,both

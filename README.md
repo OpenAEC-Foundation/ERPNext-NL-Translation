@@ -134,7 +134,7 @@ pip install requests anthropic
 Reviewed vertalingen worden gedeployed naar ERPNext instances via het `Translation` doctype. Dit overschrijft de ingebouwde .po vertalingen waar nodig.
 
 **Actieve deployments:**
-- Kort Geytenbeek Architecten (16.797 vertalingen, 7 apps)
+- Meerdere architectenbureaus in Nederland (16.797 vertalingen, 7 apps)
 
 ## Herkomst
 

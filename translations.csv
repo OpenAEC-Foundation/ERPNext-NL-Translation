@@ -3308,218 +3308,218 @@ Email / Notifications,E-mail notificaties,reviewed,frappe
 Email Account,E-mail account,reviewed,both
 Email Account added multiple times,E-mail account meerdere keren toegevoegd,reviewed,frappe
 Email Account Name,E-mail Account Naam,reviewed,frappe
-Email Account not setup. Please create a new Email Account from Setup > Email > Email Account,E-mailaccount niet ingesteld. Maak een nieuw e-mailaccount aan via Instellingen&gt; E-mail&gt; E-mailaccount,unreviewed,frappe
-Email Account setup please enter your password for: {0},E-mailaccount instellen Voer uw wachtwoord in voor: {0},unreviewed,frappe
+Email Account not setup. Please create a new Email Account from Setup > Email > Email Account,E-mailaccount niet ingesteld. Maak een nieuw e-mailaccount aan via Instellingen&gt; E-mail&gt; E-mailaccount,reviewed,frappe
+Email Account setup please enter your password for: {0},E-mailaccount instellen Voer uw wachtwoord in voor: {0},reviewed,frappe
 Email Address,E-mailadres,reviewed,both
-Email address,E-mailadres,unreviewed,frappe
-"Email Address must be unique, already exists for {0}","E-mailadres moet uniek zijn, bestaat al voor {0}",unreviewed,erpnext
-Email Address whose Google Contacts are to be synced.,E-mailadres waarvan Google-contacten moeten worden gesynchroniseerd.,unreviewed,frappe
-Email Addresses,E-mailadressen,unreviewed,frappe
+Email address,E-mailadres,reviewed,frappe
+"Email Address must be unique, already exists for {0}","E-mailadres moet uniek zijn, bestaat al voor {0}",reviewed,erpnext
+Email Address whose Google Contacts are to be synced.,E-mailadres waarvan Google-contacten moeten worden gesynchroniseerd.,reviewed,frappe
+Email Addresses,E-mailadressen,reviewed,frappe
 Email Campaign,E-mailcampagne,reviewed,erpnext
-Email Campaign For,E-mailcampagne voor,unreviewed,erpnext
-Email Campaigns,E-mailcampagnes,unreviewed,erpnext
-Email Details,E-mailgegevens,unreviewed,erpnext
+Email Campaign For,E-mailcampagne voor,reviewed,erpnext
+Email Campaigns,E-mailcampagnes,reviewed,erpnext
+Email Details,E-mailgegevens,reviewed,erpnext
 Email Digest,E-mail samenvatting,reviewed,erpnext
-Email Digest Settings,E-mail Digest Instellingen,unreviewed,erpnext
-Email Digest:,E-mail Digest:,unreviewed,erpnext
-Email Domain,email Domain,unreviewed,frappe
-"Email Domain not configured for this account, Create one?","E-mail Domein niet geconfigureerd voor deze account, Maak er een?",unreviewed,frappe
-Email Flag Queue,E-mail Flag Queue,unreviewed,frappe
-Email Footer Address,Email Footer Adres,unreviewed,frappe
-Email Group,E-mail Group,unreviewed,both
-Email Group List,E-mail Group List,unreviewed,frappe
-Email Group Member,E-mail Groepslid,unreviewed,frappe
-Email has been marked as spam,E-mail is gemarkeerd als spam,unreviewed,frappe
-Email has been moved to trash,E-mail is verplaatst naar de prullenbak,unreviewed,frappe
-Email ID,E-mail identiteit,unreviewed,frappe
-Email Id,E-mail-ID,unreviewed,both
-"Email ID must be unique, Email Account already exists for {0}","E-mail-ID moet uniek zijn, e-mailaccount bestaat al voor {0}",unreviewed,frappe
-Email IDs,E-mail Ids,unreviewed,frappe
-email inbox,Email Inbox,unreviewed,frappe
-Email Login ID,E-mail Login ID,unreviewed,frappe
-Email not found in default contact,E-mailadres niet gevonden in standaardcontact,unreviewed,erpnext
-Email not sent to {0} (unsubscribed / disabled),Geen e-mail verstuurd naar {0} (uitgeschreven / uitgeschakeld),unreviewed,both
-Email not verified with {0},E-mail niet geverifieerd met {0},unreviewed,frappe
-Email Notification Sent,E-mailmelding verzonden,unreviewed,erpnext
-Email Queue,E-mail Queue,unreviewed,frappe
-Email Queue Recipient,E-mail wachtrij Ontvanger,unreviewed,frappe
-Email Queue records.,E-mail Queue verslagen.,unreviewed,frappe
-Email queued to {0} recipients,E-mail in de wachtrij voor {0} ontvangers,unreviewed,frappe
-Email Reminders will be sent to all parties with email contacts,E-mailherinneringen worden verzonden naar alle partijen met e-mailcontacten,unreviewed,erpnext
-Email Rule,E-mail Rule,unreviewed,frappe
-Email Sent,E-mail verzonden,unreviewed,both
-Email sent successfully.,E-mail succesvol verzonden.,unreviewed,erpnext
-Email sent to,Email verzonden naar,unreviewed,erpnext
-Email Sent to Supplier {0},E-mail verzonden naar leverancier {0},unreviewed,erpnext
-Email sent to {0},E-mail verzonden naar {0},unreviewed,erpnext
-Email Settings,E-mail Instellingen,unreviewed,both
-Email Signature,E-mail Handtekening,unreviewed,frappe
-Email Status,E-mail Status,unreviewed,frappe
-Email Sync Option,E-mail Sync Option,unreviewed,frappe
-Email Template,Email sjabloon,unreviewed,both
-Email Templates for common queries.,E-mailsjablonen voor veelgestelde vragen.,unreviewed,frappe
-Email To,Email naar,unreviewed,frappe
-Email Unsubscribe,E-mail Afmelden,unreviewed,frappe
-Emails are muted,E-mails zijn gedempt,unreviewed,frappe
-Emails Queued,E-mails in de wachtrij,unreviewed,erpnext
-Emails will be sent with next possible workflow actions,E-mails worden verzonden met de volgende mogelijke workflow-acties,unreviewed,frappe
-Embed image slideshows in website pages.,Diavoorstellingen in website pagina's opnemen.,unreviewed,frappe
-Emergency Contact,Noodgeval Contact,unreviewed,erpnext
-Emergency Contact Name,Contact in geval van nood,unreviewed,erpnext
-Emergency Phone,Noodgeval Telefoonnummer,unreviewed,erpnext
-Employee,Werknemer,unreviewed,erpnext
-Employee (Lab Technician),Medewerker (Labtechnicus),unreviewed,erpnext
-Employee Advance,Medewerker Advance,unreviewed,erpnext
-Employee Advances,Voorschotten voor werknemers,unreviewed,erpnext
-Employee Analytics,Werknemersanalyse,unreviewed,erpnext
-Employee and User Details,Werknemer- en gebruikersgegevens,unreviewed,erpnext
+Email Digest Settings,E-mailoverzichtinstellingen,reviewed,erpnext
+Email Digest:,E-mailoverzicht:,reviewed,erpnext
+Email Domain,E-maildomein,reviewed,frappe
+"Email Domain not configured for this account, Create one?","E-mail Domein niet geconfigureerd voor deze account, Maak er een?",reviewed,frappe
+Email Flag Queue,E-mailflagwachtrij,reviewed,frappe
+Email Footer Address,E-mailvoettekstadres,reviewed,frappe
+Email Group,E-mailgroep,reviewed,both
+Email Group List,E-mailgroeplijst,reviewed,frappe
+Email Group Member,E-mailgroepslid,reviewed,frappe
+Email has been marked as spam,E-mail is gemarkeerd als spam,reviewed,frappe
+Email has been moved to trash,E-mail is verplaatst naar de prullenbak,reviewed,frappe
+Email ID,E-mail-ID,reviewed,frappe
+Email Id,E-mail-ID,reviewed,both
+"Email ID must be unique, Email Account already exists for {0}","E-mail-ID moet uniek zijn, e-mailaccount bestaat al voor {0}",reviewed,frappe
+Email IDs,E-mail-ID's,reviewed,frappe
+email inbox,E-mailpostvak,reviewed,frappe
+Email Login ID,E-mailinlog-ID,reviewed,frappe
+Email not found in default contact,E-mailadres niet gevonden in standaardcontact,reviewed,erpnext
+Email not sent to {0} (unsubscribed / disabled),Geen e-mail verstuurd naar {0} (uitgeschreven / uitgeschakeld),reviewed,both
+Email not verified with {0},E-mail niet geverifieerd met {0},reviewed,frappe
+Email Notification Sent,E-mailmelding verzonden,reviewed,erpnext
+Email Queue,E-mailwachtrij,reviewed,frappe
+Email Queue Recipient,E-mailwachtrij-ontvanger,reviewed,frappe
+Email Queue records.,E-mailwachtrijrecords.,reviewed,frappe
+Email queued to {0} recipients,E-mail in de wachtrij voor {0} ontvangers,reviewed,frappe
+Email Reminders will be sent to all parties with email contacts,E-mailherinneringen worden verzonden naar alle partijen met e-mailcontacten,reviewed,erpnext
+Email Rule,E-mailregel,reviewed,frappe
+Email Sent,E-mail verzonden,reviewed,both
+Email sent successfully.,E-mail succesvol verzonden.,reviewed,erpnext
+Email sent to,Email verzonden naar,reviewed,erpnext
+Email Sent to Supplier {0},E-mail verzonden naar leverancier {0},reviewed,erpnext
+Email sent to {0},E-mail verzonden naar {0},reviewed,erpnext
+Email Settings,E-mailinstellingen,reviewed,both
+Email Signature,E-mailhandtekening,reviewed,frappe
+Email Status,E-mailstatus,reviewed,frappe
+Email Sync Option,E-mailsynchronisatieoptie,reviewed,frappe
+Email Template,E-mailsjabloon,reviewed,both
+Email Templates for common queries.,E-mailsjablonen voor veelgestelde vragen.,reviewed,frappe
+Email To,E-mail aan,reviewed,frappe
+Email Unsubscribe,E-mailuitschrijving,reviewed,frappe
+Emails are muted,E-mails zijn gedempt,reviewed,frappe
+Emails Queued,E-mails in de wachtrij,reviewed,erpnext
+Emails will be sent with next possible workflow actions,E-mails worden verzonden met de volgende mogelijke workflow-acties,reviewed,frappe
+Embed image slideshows in website pages.,Diavoorstellingen in website pagina's opnemen.,reviewed,frappe
+Emergency Contact,Contactpersoon bij noodgeval,reviewed,erpnext
+Emergency Contact Name,Naam contactpersoon bij noodgeval,reviewed,erpnext
+Emergency Phone,Telefoonnummer bij noodgeval,reviewed,erpnext
+Employee,Werknemer,reviewed,erpnext
+Employee (Lab Technician),Werknemer (labtechnicus),reviewed,erpnext
+Employee Advance,Werknemersvoorschot,reviewed,erpnext
+Employee Advances,Werknemersvoorschotten,reviewed,erpnext
+Employee Analytics,Werknemersanalyse,reviewed,erpnext
+Employee and User Details,Werknemer- en gebruikersgegevens,reviewed,erpnext
 Employee Benefit Claim,Uitkeringsaanvraag,reviewed,custom
 Employee Benefit Ledger,Uitkeringsgrootboek,reviewed,custom
-Employee Billing Summary,Factuuroverzicht werknemer,unreviewed,erpnext
-Employee Birthday,Werknemer Verjaardag,unreviewed,erpnext
-Employee cannot report to himself.,Werknemer kan niet rapporteren aan zichzelf.,unreviewed,erpnext
-Employee Detail,werknemer Detail,unreviewed,erpnext
-Employee Education,Werknemer Opleidingen,unreviewed,erpnext
-Employee External Work History,Werknemer Externe Werk Geschiedenis,unreviewed,erpnext
+Employee Billing Summary,Factuuroverzicht werknemer,reviewed,erpnext
+Employee Birthday,Verjaardag werknemer,reviewed,erpnext
+Employee cannot report to himself.,Werknemer kan niet rapporteren aan zichzelf.,reviewed,erpnext
+Employee Detail,Werknemergegevens,reviewed,erpnext
+Employee Education,Opleiding werknemer,reviewed,erpnext
+Employee External Work History,Externe werkgeschiedenis werknemer,reviewed,erpnext
 Employee Feedback Criteria,Medewerker feedbackcriteria,reviewed,custom
 Employee Grade,Medewerker salarisschaal,reviewed,custom
-Employee Group,Werknemersgroep,unreviewed,erpnext
-Employee Group Table,Werknemersgroepstabel,unreviewed,erpnext
+Employee Group,Werknemersgroep,reviewed,erpnext
+Employee Group Table,Werknemersgroepstabel,reviewed,erpnext
 Employee Health Insurance,Medewerker ziektekostenverzekering,reviewed,custom
-Employee ID,Werknemer ID,unreviewed,erpnext
-Employee ID is linked with another instructor,Werknemer-ID is gekoppeld aan een andere instructeur,unreviewed,erpnext
+Employee ID,Werknemers-ID,reviewed,erpnext
+Employee ID is linked with another instructor,Werknemer-ID is gekoppeld aan een andere instructeur,reviewed,erpnext
 Employee Incentive,Medewerker bonus,reviewed,custom
-Employee Information,Werknemer Informatie,unreviewed,erpnext
-Employee Internal Work History,Werknemer Interne Werk Geschiedenis,unreviewed,erpnext
-Employee is required while issuing Asset {0},Werknemer is verplicht bij het uitgeven van activum {0},unreviewed,erpnext
-Employee Leave Balance,Werknemer Verlof Balans,unreviewed,erpnext
-Employee Leave Balance Summary,Werknemersverlofsaldo Samenvatting,unreviewed,erpnext
-Employee Loan,werknemer Loan,unreviewed,erpnext
-Employee Name,Werknemer Naam,unreviewed,erpnext
-Employee name and designation in print,Werknemer naam en aanduiding in print,unreviewed,erpnext
-Employee Number,Werknemer Nummer,unreviewed,erpnext
+Employee Information,Werknemersinformatie,reviewed,erpnext
+Employee Internal Work History,Interne werkgeschiedenis werknemer,reviewed,erpnext
+Employee is required while issuing Asset {0},Werknemer is verplicht bij het uitgeven van activum {0},reviewed,erpnext
+Employee Leave Balance,Verlofsaldo werknemer,reviewed,erpnext
+Employee Leave Balance Summary,Samenvatting verlofsaldo werknemer,reviewed,erpnext
+Employee Loan,Werknemerslening,reviewed,erpnext
+Employee Name,Werknemersnaam,reviewed,erpnext
+Employee name and designation in print,Werknemersnaam en functie in afdruk,reviewed,erpnext
+Employee Number,Werknemersnummer,reviewed,erpnext
 Employee Onboarding Template,Inwerksjabloon,reviewed,custom
-Employee Onboarding: {0} is already for Job Applicant: {1},Onboarding van werknemer: {0} is al voor sollicitant: {1},unreviewed,erpnext
+Employee Onboarding: {0} is already for Job Applicant: {1},Onboarding van werknemer: {0} is al voor sollicitant: {1},reviewed,erpnext
 Employee Other Income,Medewerker overig inkomen,reviewed,custom
 Employee Performance Feedback,Medewerker prestatiefeedback,reviewed,custom
-Employee Promotion cannot be submitted before Promotion Date,Werknemersbevordering kan niet worden ingediend vóór de promotiedatum,unreviewed,erpnext
-Employee Promotion Detail,Detail medewerkerbevordering,unreviewed,erpnext
-Employee records are created using the selected field,Werknemersrecords worden gemaakt met behulp van het geselecteerde veld,unreviewed,erpnext
-Employee Records to Be Created By,Werknemersrecords die moeten worden aangemaakt door,unreviewed,erpnext
+Employee Promotion cannot be submitted before Promotion Date,Werknemersbevordering kan niet worden ingediend vóór de promotiedatum,reviewed,erpnext
+Employee Promotion Detail,Detail werknemersbevordering,reviewed,erpnext
+Employee records are created using the selected field,Werknemersrecords worden gemaakt met behulp van het geselecteerde veld,reviewed,erpnext
+Employee Records to Be Created By,Werknemersrecords die moeten worden aangemaakt door,reviewed,erpnext
 Employee Referral,Medewerkerverwijzing,reviewed,custom
 Employee Separation Template,Uitdiensttreding sjabloon,reviewed,custom
-Employee Tax and Benefits,Werknemersbelasting en voordelen,unreviewed,erpnext
+Employee Tax and Benefits,Werknemersbelasting en voordelen,reviewed,erpnext
 Employee Tax Exemption Category,Belastingvrijstelling categorie,reviewed,custom
 Employee Tax Exemption Proof Submission,Belastingvrijstelling bewijsstuk,reviewed,custom
 Employee Tax Exemption Sub Category,Belastingvrijstelling subcategorie,reviewed,custom
-Employee Transfer cannot be submitted before Transfer Date,Overdracht van werknemers kan niet vóór overdrachtsdatum worden ingediend,unreviewed,erpnext
-Employee Transfer Property,Overdracht van medewerkers,unreviewed,erpnext
-Employee {0} already has Active Shift {1}: {2},Werknemer {0} heeft al actieve dienst {1}: {2},unreviewed,erpnext
-Employee {0} does not belongs to the company {1},Werknemer {0} behoort niet tot het bedrijf {1},unreviewed,erpnext
-Employee {0} has already applied for {1} between {2} and {3} :,Werknemer {0} heeft al een aanvraag ingediend voor {1} tussen {2} en {3}:,unreviewed,erpnext
-Employee {0} of grade {1} have no default leave policy,Werknemer {0} van rang {1} heeft geen standaard verlofbeleid,unreviewed,erpnext
-Employment Type,Dienstverband Type,unreviewed,erpnext
-Empty,Leeg,unreviewed,erpnext
-empty,leeg,unreviewed,frappe
-Enable,in staat stellen,unreviewed,frappe
-Enable / disable currencies.,In- / uitschakelen valuta .,unreviewed,erpnext
-Enable / Disable Domains,Domeinen in- / uitschakelen,unreviewed,frappe
-Enable Admission Application,Toelatingsaanvraag inschakelen,unreviewed,erpnext
-Enable Allow Auto Repeat for the doctype {0} in Customize Form,Schakel Automatisch herhalen in voor doctype {0} in Aanpassen formulier,unreviewed,frappe
-Enable Amazon,Schakel Amazon in,unreviewed,erpnext
-Enable Appointment Scheduling,Afspraakplanning inschakelen,unreviewed,erpnext
-Enable Attribute Filters,Schakel kenmerkfilters in,unreviewed,erpnext
-Enable Auto Email,Schakel automatische e-mail in,unreviewed,erpnext
-Enable Auto Invoicing,Schakel automatische facturering in,unreviewed,erpnext
-Enable Auto Re-Order,Automatisch opnieuw bestellen inschakelen,unreviewed,erpnext
-Enable Auto Reply,Inschakelen Automatisch Antwoord,unreviewed,frappe
-Enable Auto-deletion of Prepared Reports,Schakel automatische verwijdering van voorbereide rapporten in,unreviewed,frappe
-Enable Automatic Backup,Schakel Automatische back-up in,unreviewed,frappe
-Enable Automatic Linking in Documents,Schakel automatisch koppelen in documenten in,unreviewed,frappe
-Enable Capital Work in Progress Accounting,Kapitaalwerk in uitvoering Accounting inschakelen,unreviewed,erpnext
-Enable Chat,Chat inschakelen,unreviewed,frappe
-Enable Checkout,inschakelen Afrekenen,unreviewed,erpnext
-Enable Comments,Inschakelen Reacties,unreviewed,frappe
-Enable Deferred Expense,Uitgestelde kosten inschakelen,unreviewed,erpnext
-Enable Deferred Revenue,Uitgestelde inkomsten inschakelen,unreviewed,erpnext
-Enable developer mode to create a standard Web Template,Schakel de ontwikkelaarsmodus in om een standaard websjabloon te maken,unreviewed,frappe
-Enable Distributed Cost Center,Schakel Gedistribueerde kostenplaats in,unreviewed,erpnext
-Enable Email Notifications,E-mailmeldingen inschakelen,unreviewed,frappe
-Enable European Access,Schakel Europese toegang in,unreviewed,erpnext
-Enable Field Filters,Veldfilters inschakelen,unreviewed,erpnext
-Enable Free Follow-ups,Schakel gratis follow-ups in,unreviewed,erpnext
-Enable Google API in Google Settings.,Schakel Google API in Google Instellingen in.,unreviewed,frappe
-Enable Google Indexing,Schakel Google Indexing in,unreviewed,frappe
-Enable In App Website Tracking,In-app-website volgen inschakelen,unreviewed,frappe
-Enable Incoming,Inschakelen Binnenkomend,unreviewed,frappe
-Enable Learning Management System,Schakel het leerbeheersysteem in,unreviewed,erpnext
-Enable Onboarding,Schakel onboarding in,unreviewed,frappe
-Enable Outgoing,Inschakelen Uitgaand,unreviewed,frappe
-Enable Password Policy,Wachtwoordbeleid inschakelen,unreviewed,frappe
-Enable Perpetual Inventory,Perpetual Inventory inschakelen,unreviewed,erpnext
-Enable Perpetual Inventory For Non Stock Items,Schakel permanente voorraad in voor niet-voorraadartikelen,unreviewed,erpnext
-Enable Print Server,Schakel afdrukserver in,unreviewed,frappe
-Enable Raw Printing,Schakel Raw Printing in,unreviewed,frappe
-Enable RazorPay For Memberships,Schakel RazorPay in voor lidmaatschappen,unreviewed,erpnext
-Enable Report,Inschakelen Rapport,unreviewed,frappe
-Enable Scheduled Jobs,Inschakelen Geplande Jobs,unreviewed,frappe
-Enable Scheduled Sync,Schakel Geplande synchronisatie in,unreviewed,erpnext
-Enable Security,Schakel beveiliging in,unreviewed,frappe
-Enable Shopify,Activeer Shopify,unreviewed,erpnext
-Enable Shopping Cart,Inschakelen Winkelwagen,unreviewed,erpnext
-Enable Social Login,Schakel sociale login in,unreviewed,frappe
-Enable Social Sharing,Schakel sociaal delen in,unreviewed,frappe
-Enable Sync,Synchronisatie inschakelen,unreviewed,erpnext
-Enable Tax Calculation,Schakel belastingberekening in,unreviewed,erpnext
-Enable Tracking Page Views,Schakel het bijhouden van paginaweergaven in,unreviewed,frappe
-Enable Two Factor Auth,Schakel twee factoren automatisch in,unreviewed,frappe
-Enable Variants,Schakel varianten in,unreviewed,erpnext
-Enable YouTube Tracking,Schakel YouTube-tracking in,unreviewed,erpnext
+Employee Transfer cannot be submitted before Transfer Date,Overdracht van werknemers kan niet vóór overdrachtsdatum worden ingediend,reviewed,erpnext
+Employee Transfer Property,Overdracht van medewerkers,reviewed,erpnext
+Employee {0} already has Active Shift {1}: {2},Werknemer {0} heeft al actieve dienst {1}: {2},reviewed,erpnext
+Employee {0} does not belongs to the company {1},Werknemer {0} behoort niet tot het bedrijf {1},reviewed,erpnext
+Employee {0} has already applied for {1} between {2} and {3} :,Werknemer {0} heeft al een aanvraag ingediend voor {1} tussen {2} en {3}:,reviewed,erpnext
+Employee {0} of grade {1} have no default leave policy,Werknemer {0} van rang {1} heeft geen standaard verlofbeleid,reviewed,erpnext
+Employment Type,Dienstverband Type,reviewed,erpnext
+Empty,Leeg,reviewed,erpnext
+empty,leeg,reviewed,frappe
+Enable,in staat stellen,reviewed,frappe
+Enable / disable currencies.,In- / uitschakelen valuta .,reviewed,erpnext
+Enable / Disable Domains,Domeinen in- / uitschakelen,reviewed,frappe
+Enable Admission Application,Toelatingsaanvraag inschakelen,reviewed,erpnext
+Enable Allow Auto Repeat for the doctype {0} in Customize Form,Schakel Automatisch herhalen in voor doctype {0} in Aanpassen formulier,reviewed,frappe
+Enable Amazon,Schakel Amazon in,reviewed,erpnext
+Enable Appointment Scheduling,Afspraakplanning inschakelen,reviewed,erpnext
+Enable Attribute Filters,Schakel kenmerkfilters in,reviewed,erpnext
+Enable Auto Email,Schakel automatische e-mail in,reviewed,erpnext
+Enable Auto Invoicing,Schakel automatische facturering in,reviewed,erpnext
+Enable Auto Re-Order,Automatisch opnieuw bestellen inschakelen,reviewed,erpnext
+Enable Auto Reply,Inschakelen Automatisch Antwoord,reviewed,frappe
+Enable Auto-deletion of Prepared Reports,Schakel automatische verwijdering van voorbereide rapporten in,reviewed,frappe
+Enable Automatic Backup,Schakel Automatische back-up in,reviewed,frappe
+Enable Automatic Linking in Documents,Schakel automatisch koppelen in documenten in,reviewed,frappe
+Enable Capital Work in Progress Accounting,Kapitaalwerk in uitvoering Accounting inschakelen,reviewed,erpnext
+Enable Chat,Chat inschakelen,reviewed,frappe
+Enable Checkout,inschakelen Afrekenen,reviewed,erpnext
+Enable Comments,Inschakelen Reacties,reviewed,frappe
+Enable Deferred Expense,Uitgestelde kosten inschakelen,reviewed,erpnext
+Enable Deferred Revenue,Uitgestelde inkomsten inschakelen,reviewed,erpnext
+Enable developer mode to create a standard Web Template,Schakel de ontwikkelaarsmodus in om een standaard websjabloon te maken,reviewed,frappe
+Enable Distributed Cost Center,Schakel Gedistribueerde kostenplaats in,reviewed,erpnext
+Enable Email Notifications,E-mailmeldingen inschakelen,reviewed,frappe
+Enable European Access,Schakel Europese toegang in,reviewed,erpnext
+Enable Field Filters,Veldfilters inschakelen,reviewed,erpnext
+Enable Free Follow-ups,Schakel gratis follow-ups in,reviewed,erpnext
+Enable Google API in Google Settings.,Schakel Google API in Google Instellingen in.,reviewed,frappe
+Enable Google Indexing,Schakel Google Indexing in,reviewed,frappe
+Enable In App Website Tracking,In-app-website volgen inschakelen,reviewed,frappe
+Enable Incoming,Inschakelen Binnenkomend,reviewed,frappe
+Enable Learning Management System,Schakel het leerbeheersysteem in,reviewed,erpnext
+Enable Onboarding,Schakel onboarding in,reviewed,frappe
+Enable Outgoing,Inschakelen Uitgaand,reviewed,frappe
+Enable Password Policy,Wachtwoordbeleid inschakelen,reviewed,frappe
+Enable Perpetual Inventory,Perpetual Inventory inschakelen,reviewed,erpnext
+Enable Perpetual Inventory For Non Stock Items,Schakel permanente voorraad in voor niet-voorraadartikelen,reviewed,erpnext
+Enable Print Server,Schakel afdrukserver in,reviewed,frappe
+Enable Raw Printing,Schakel Raw Printing in,reviewed,frappe
+Enable RazorPay For Memberships,Schakel RazorPay in voor lidmaatschappen,reviewed,erpnext
+Enable Report,Inschakelen Rapport,reviewed,frappe
+Enable Scheduled Jobs,Inschakelen Geplande Jobs,reviewed,frappe
+Enable Scheduled Sync,Schakel Geplande synchronisatie in,reviewed,erpnext
+Enable Security,Schakel beveiliging in,reviewed,frappe
+Enable Shopify,Activeer Shopify,reviewed,erpnext
+Enable Shopping Cart,Inschakelen Winkelwagen,reviewed,erpnext
+Enable Social Login,Schakel sociale login in,reviewed,frappe
+Enable Social Sharing,Schakel sociaal delen in,reviewed,frappe
+Enable Sync,Synchronisatie inschakelen,reviewed,erpnext
+Enable Tax Calculation,Schakel belastingberekening in,reviewed,erpnext
+Enable Tracking Page Views,Schakel het bijhouden van paginaweergaven in,reviewed,frappe
+Enable Two Factor Auth,Schakel twee factoren automatisch in,reviewed,frappe
+Enable Variants,Schakel varianten in,reviewed,erpnext
+Enable YouTube Tracking,Schakel YouTube-tracking in,reviewed,erpnext
 Enabled,Ingeschakeld,reviewed,both
-Enabled email inbox for user {0},Inbox voor e-mail ingeschakeld voor gebruiker {0},unreviewed,frappe
-Enabled scheduled execution for script {0},Geplande uitvoering ingeschakeld voor script {0},unreviewed,frappe
-"Enabling 'Use for Shopping Cart', as Shopping Cart is enabled and there should be at least one Tax Rule for Shopping Cart","Inschakelen &quot;Gebruik voor Winkelwagen &#39;, zoals Winkelwagen is ingeschakeld en er moet minstens één Tax Rule voor Winkelwagen zijn",unreviewed,erpnext
-Encashment Date,Betalingsdatum,unreviewed,erpnext
-"Encryption key is invalid, Please check site_config.json","Encryptiesleutel is ongeldig, controleer site_config.json",unreviewed,frappe
-End Date,Einddatum,unreviewed,both
-End Date can not be less than Start Date,Einddatum kan niet minder zijn dan Startdatum,unreviewed,erpnext
-End date can not be less than start date,Einddatum kan niet vroeger zijn dan startdatum,unreviewed,erpnext
-End date cannot be before start date,De einddatum kan niet vóór de startdatum liggen,unreviewed,erpnext
-End Date cannot be before Start Date!,Einddatum kan niet vóór startdatum zijn!,unreviewed,frappe
-End Date cannot be before Start Date.,Einddatum kan niet vóór Startdatum zijn.,unreviewed,erpnext
-End Date Field,Einddatum veld,unreviewed,frappe
-End Date must not be lesser than Start Date,De einddatum mag niet lager zijn dan de startdatum,unreviewed,erpnext
-End Date of Agreement can't be less than today.,Einddatum van overeenkomst kan niet minder zijn dan vandaag.,unreviewed,erpnext
-End date of current invoice's period,Einddatum van de huidige factuurperiode,unreviewed,erpnext
-End Day,Einde dag,unreviewed,erpnext
-End on,Eindigt op,unreviewed,erpnext
-End Time,Eindtijd,unreviewed,erpnext
-End Year,Eindjaar,unreviewed,erpnext
-End Year cannot be before Start Year,Eindjaar kan niet voor Start Jaar,unreviewed,erpnext
-Endpoint URL,Eindpunt-URL,unreviewed,frappe
-Endpoints,Eindpunten,unreviewed,erpnext
-Ends On,Eindigt op,unreviewed,erpnext
-Ends on,Eindigt op,unreviewed,frappe
-Ends On date cannot be before Next Contact Date.,Eindigt op datum kan niet eerder zijn dan volgende contactdatum.,unreviewed,erpnext
-Energy,Energie,unreviewed,erpnext
-Energy Point,Energiepunt,unreviewed,frappe
-Energy Point Leaderboard,Leaderboard voor energiepunten,unreviewed,erpnext
-Energy Point Log,Energiepuntlogboek,unreviewed,frappe
-Energy Point Rule,Energiepuntregel,unreviewed,frappe
-Energy Point Settings,Instellingen energiepunt,unreviewed,frappe
-Energy Point Update on {0},Energiepuntupdate op {0},unreviewed,frappe
-Energy Points,Energiepunten,unreviewed,frappe
-Energy Points:,Energiepunten:,unreviewed,frappe
-Engineer,Ingenieur,unreviewed,erpnext
-Enough Parts to Build,Genoeg Parts te bouwen,unreviewed,erpnext
-Enroll,Inschrijven,unreviewed,erpnext
-Enroll Students,inschrijven Studenten,unreviewed,erpnext
-Enrolled,Ingeschreven,unreviewed,erpnext
-Enrolled courses,Ingeschreven cursussen,unreviewed,erpnext
-Enrolling student,student die zich inschrijft,unreviewed,erpnext
-Enrolling students,Studenten inschrijven,unreviewed,erpnext
-Enrolling...,Inschrijven ...,unreviewed,erpnext
-Enrollment,Inschrijving,unreviewed,erpnext
+Enabled email inbox for user {0},Inbox voor e-mail ingeschakeld voor gebruiker {0},reviewed,frappe
+Enabled scheduled execution for script {0},Geplande uitvoering ingeschakeld voor script {0},reviewed,frappe
+"Enabling 'Use for Shopping Cart', as Shopping Cart is enabled and there should be at least one Tax Rule for Shopping Cart","Inschakelen &quot;Gebruik voor Winkelwagen &#39;, zoals Winkelwagen is ingeschakeld en er moet minstens één Tax Rule voor Winkelwagen zijn",reviewed,erpnext
+Encashment Date,Betalingsdatum,reviewed,erpnext
+"Encryption key is invalid, Please check site_config.json","Encryptiesleutel is ongeldig, controleer site_config.json",reviewed,frappe
+End Date,Einddatum,reviewed,both
+End Date can not be less than Start Date,Einddatum kan niet minder zijn dan Startdatum,reviewed,erpnext
+End date can not be less than start date,Einddatum kan niet vroeger zijn dan startdatum,reviewed,erpnext
+End date cannot be before start date,De einddatum kan niet vóór de startdatum liggen,reviewed,erpnext
+End Date cannot be before Start Date!,Einddatum kan niet vóór startdatum zijn!,reviewed,frappe
+End Date cannot be before Start Date.,Einddatum kan niet vóór Startdatum zijn.,reviewed,erpnext
+End Date Field,Einddatum veld,reviewed,frappe
+End Date must not be lesser than Start Date,De einddatum mag niet lager zijn dan de startdatum,reviewed,erpnext
+End Date of Agreement can't be less than today.,Einddatum van overeenkomst kan niet minder zijn dan vandaag.,reviewed,erpnext
+End date of current invoice's period,Einddatum van de huidige factuurperiode,reviewed,erpnext
+End Day,Einde dag,reviewed,erpnext
+End on,Eindigt op,reviewed,erpnext
+End Time,Eindtijd,reviewed,erpnext
+End Year,Eindjaar,reviewed,erpnext
+End Year cannot be before Start Year,Eindjaar kan niet voor Start Jaar,reviewed,erpnext
+Endpoint URL,Eindpunt-URL,reviewed,frappe
+Endpoints,Eindpunten,reviewed,erpnext
+Ends On,Eindigt op,reviewed,erpnext
+Ends on,Eindigt op,reviewed,frappe
+Ends On date cannot be before Next Contact Date.,Eindigt op datum kan niet eerder zijn dan volgende contactdatum.,reviewed,erpnext
+Energy,Energie,reviewed,erpnext
+Energy Point,Energiepunt,reviewed,frappe
+Energy Point Leaderboard,Leaderboard voor energiepunten,reviewed,erpnext
+Energy Point Log,Energiepuntlogboek,reviewed,frappe
+Energy Point Rule,Energiepuntregel,reviewed,frappe
+Energy Point Settings,Instellingen energiepunt,reviewed,frappe
+Energy Point Update on {0},Energiepuntupdate op {0},reviewed,frappe
+Energy Points,Energiepunten,reviewed,frappe
+Energy Points:,Energiepunten:,reviewed,frappe
+Engineer,Ingenieur,reviewed,erpnext
+Enough Parts to Build,Genoeg Parts te bouwen,reviewed,erpnext
+Enroll,Inschrijven,reviewed,erpnext
+Enroll Students,inschrijven Studenten,reviewed,erpnext
+Enrolled,Ingeschreven,reviewed,erpnext
+Enrolled courses,Ingeschreven cursussen,reviewed,erpnext
+Enrolling student,student die zich inschrijft,reviewed,erpnext
+Enrolling students,Studenten inschrijven,reviewed,erpnext
+Enrolling...,Inschrijven ...,reviewed,erpnext
+Enrollment,Inschrijving,reviewed,erpnext
 Enrollment Date,inschrijfdatum,unreviewed,erpnext
 Enrollment Date cannot be after the End Date of the Academic Term {0},Inschrijvingsdatum mag niet na de einddatum van de academische periode zijn {0},unreviewed,erpnext
 Enrollment Date cannot be before the Start Date of the Academic Term {0},Inschrijvingsdatum mag niet voor de startdatum van de academische periode liggen {0},unreviewed,erpnext

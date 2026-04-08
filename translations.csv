@@ -8844,200 +8844,200 @@ Row {0}: {1} Serial numbers required for Item {2}. You have provided {3}.,Rij {0
 Row {0}: {1} {2} does not match with {3},Rij {0}: {1} {2} niet overeenkomt met {3},reviewed,erpnext
 Row {0}:Sibling Date of Birth cannot be greater than today.,Rij {0}: Geboortedatum broer of zus kan niet groter zijn dan vandaag.,reviewed,erpnext
 Row {0}:Start Date must be before End Date,Rij {0} : Start Datum moet voor Einddatum zijn,reviewed,erpnext
-"Row {1}: Quantity ({0}) cannot be a fraction. To allow this, disable '{2}' in UOM {3}.",Rij {1}: hoeveelheid ({0}) mag geen breuk zijn. Schakel &#39;{2}&#39; uit in maateenheid {3} om dit toe te staan.,unreviewed,erpnext
-Row {}: Asset Naming Series is mandatory for the auto creation for item {},Rij {}: Serie voor naamgeving van items is verplicht voor het automatisch maken van item {},unreviewed,erpnext
-Row {}: Expense Head changed to {},Rij {}: uitgavenkop gewijzigd in {},unreviewed,erpnext
-Row({0}): {1} is already discounted in {2},Rij ({0}): {1} is al verdisconteerd in {2},unreviewed,erpnext
-Rows Added,rijen Toegevoegd,unreviewed,frappe
-Rows Added in {0},Rijen toegevoegd in {0},unreviewed,erpnext
-Rows Removed,rijen verwijderd,unreviewed,frappe
-Rows Removed in {0},Rijen verwijderd in {0},unreviewed,erpnext
-Rows with duplicate due dates in other rows were found: {0},Rijen met dubbele vervaldatums in andere rijen zijn gevonden: {0},unreviewed,erpnext
-Rule,Regel,unreviewed,frappe
-Rule Applied,Regel toegepast,unreviewed,erpnext
-Rule Conditions,Regelvoorwaarden,unreviewed,frappe
-Rule Description,Regelbeschrijving,unreviewed,erpnext
-Rule Name,Regelnaam,unreviewed,frappe
-Rules defining transition of state in the workflow.,Regels met betrekking tot de overgang van de staat in de workflow.,unreviewed,frappe
-Rules for adding shipping costs.,Regels voor het toevoegen van verzendkosten.,unreviewed,erpnext
-Rules for applying different promotional schemes.,Regels voor het toepassen van verschillende promotieregelingen.,unreviewed,erpnext
-Rules for applying pricing and discount.,Regels voor de toepassing van prijzen en kortingen .,unreviewed,erpnext
-"Rules for how states are transitions, like next state and which role is allowed to change state etc.","Regels voor de manier waarop stadia overgaan, zoals 'volgend stadium' en welke rol dit stadium mag veranderen, etc.",unreviewed,frappe
-Rules with higher priority number will be applied first.,Regels met een hoger prioriteitsnummer worden eerst toegepast.,unreviewed,frappe
-Run,Rennen,unreviewed,frappe
-Run Jobs only Daily if Inactive For (Days),Taken alleen dagelijks uitvoeren indien inactief gedurende (dagen),unreviewed,frappe
-Run scheduled jobs only if checked,Run geplande taken alleen als aangevinkt.,unreviewed,frappe
-S.O. No.,VO nr,unreviewed,erpnext
-S3 Backup complete!,S3 Back-up voltooid!,unreviewed,frappe
-S3 Backup Settings,S3 Back-upinstellingen,unreviewed,frappe
-S3 Bucket Details,S3-emmergegevens,unreviewed,frappe
-sa-east-1,sa-oost-1,unreviewed,frappe
-Safety Stock,Veiligheidsvoorraad,unreviewed,erpnext
-Salary,Salaris,unreviewed,erpnext
-Salary Mode,Salaris Modus,unreviewed,erpnext
-Salary Slip,Salarisstrook,unreviewed,erpnext
-Salary Slip submitted for period from {0} to {1},Salarisslip ingediend voor een periode van {0} tot {1},unreviewed,erpnext
-Salary Structure must be submitted before submission of Tax Ememption Declaration,De salarisstructuur moet worden ingediend voordat de belastingemissieverklaring wordt ingediend,unreviewed,erpnext
-Salary Withholding,Salarisinhouding,unreviewed,custom
-Sales,verkoop,unreviewed,erpnext
-Sales Account,Verkoopaccount,unreviewed,erpnext
-Sales Analytics,Verkoop analyse,unreviewed,erpnext
-Sales and Returns,Verkoop en retourneren,unreviewed,erpnext
-Sales campaigns.,Verkoop campagnes,unreviewed,erpnext
-Sales Contributions and Incentives,Verkoopbijdragen en incentives,unreviewed,erpnext
-Sales Defaults,Standaard verkoopwaarden,unreviewed,erpnext
-Sales Details,Verkoop Details,unreviewed,erpnext
-Sales Expenses,Verkoopkosten,unreviewed,erpnext
-Sales Forecast,Verkoopprognose,unreviewed,custom
-Sales Funnel,Verkoop Trechter,unreviewed,erpnext
-Sales Invoice,Verkoopfactuur,unreviewed,erpnext
-Sales Invoice Advance,Verkoopfactuur Voorschot,unreviewed,erpnext
-Sales Invoice Item,Verkoopfactuur Artikel,unreviewed,erpnext
-Sales Invoice No,Verkoopfactuur nr.,unreviewed,erpnext
-Sales Invoice or Patient Encounter is required to create Lab Tests,Een verkoopfactuur of een ontmoeting met de patiënt is vereist om laboratoriumtests te maken,unreviewed,erpnext
-Sales Invoice Payment,Sales Invoice Betaling,unreviewed,erpnext
-Sales Invoice Series,Verkoopfactuurserie,unreviewed,erpnext
-Sales Invoice Trends,Verkoopfactuur Trends,unreviewed,erpnext
-Sales Invoice {0} has already been submitted,Verkoopfactuur {0} is al ingediend,unreviewed,erpnext
-Sales Invoice {0} must be cancelled before cancelling this Sales Order,Verkoopfactuur {0} moet worden geannuleerd voordat deze verkooporder kan worden geannuleerd.,unreviewed,erpnext
-Sales Manager,Verkoopsmanager,unreviewed,both
-Sales Monthly History,Verkoop Maandelijkse Geschiedenis,unreviewed,erpnext
-Sales Order,Verkooporder,unreviewed,erpnext
-Sales Order Analysis,Analyse van verkooporders,unreviewed,erpnext
-Sales Order Date,Verkooporder Datum,unreviewed,erpnext
-Sales Order Item,Verkooporder Artikel,unreviewed,erpnext
-Sales Order required for Item {0},Verkooporder nodig voor Artikel {0},unreviewed,erpnext
-Sales Order Series,Verkooporderreeks,unreviewed,erpnext
-Sales Order to Payment,Sales om de betaling,unreviewed,erpnext
-Sales Order Trends,Verkooporder Trends,unreviewed,erpnext
-"Sales Order {0} has reservation for the item {1}, you can only deliver reserved {1} against {0}.","Verkooporder {0} heeft een reservering voor het artikel {1}, u kunt alleen gereserveerd leveren {1} tegen {0}.",unreviewed,erpnext
-Sales Order {0} is not submitted,Verkooporder {0} is niet ingediend,unreviewed,erpnext
-Sales Order {0} is not valid,Verkooporder {0} is niet geldig,unreviewed,erpnext
-Sales Orders,Verkooporders,unreviewed,erpnext
-Sales orders are not available for production,Verkooporders zijn niet beschikbaar voor productie,unreviewed,erpnext
-Sales Orders Required,Verkooporders vereist,unreviewed,erpnext
-Sales Orders to Bill,Verkooporders aan Bill,unreviewed,erpnext
-Sales Orders to Deliver,Verkooporders om te bezorgen,unreviewed,erpnext
-Sales Partner,Verkoop Partner,unreviewed,erpnext
-Sales Partner and Commission,Sales Partner en de Commissie,unreviewed,erpnext
-Sales Partner Commission Summary,Verkooppartner Commissie Samenvatting,unreviewed,erpnext
-Sales Partner Name,Verkoop Partner Naam,unreviewed,erpnext
-Sales Partner Target,Verkoop Partner Doel,unreviewed,erpnext
-Sales Partner Target Variance based on Item Group,Doelafhankelijke verkooppartner op basis van artikelgroep,unreviewed,erpnext
-Sales Partner Transaction Summary,Verkooppartner Transactieoverzicht,unreviewed,erpnext
-Sales Partner Type,Verkooppartnertype,unreviewed,erpnext
-Sales Partners Commission,Verkoop Partners Commissie,unreviewed,erpnext
-Sales Payment Summary,Samenvatting verkoopbetaling,unreviewed,erpnext
-Sales Person,Verkoper,unreviewed,erpnext
-Sales person,Verkoper,unreviewed,erpnext
-Sales Person Commission Summary,Verkooppersoon Samenvatting van de Commissie,unreviewed,erpnext
-Sales Person Name,Verkoper Naam,unreviewed,erpnext
-Sales Person Target Variance Based On Item Group,Doelgroepvariant verkoper op basis van artikelgroep,unreviewed,erpnext
-Sales Person Targets,Verkoper Doelen,unreviewed,erpnext
-Sales Person-wise Transaction Summary,Verkopergebaseerd Transactie Overzicht,unreviewed,erpnext
-Sales Price List,Sales Prijslijst,unreviewed,erpnext
-Sales Register,Verkoopregister,unreviewed,erpnext
-Sales Return,Terugkerende verkoop,unreviewed,erpnext
-Sales Settings,Verkoopinstellingen,unreviewed,erpnext
-Sales Stage,Verkoopfase,unreviewed,erpnext
-Sales Summary,Verkoopoverzicht,unreviewed,erpnext
-Sales Taxes and Charges,Verkoop Belasting en Toeslagen,unreviewed,erpnext
-Sales Taxes and Charges Template,Verkoopbelasting- en kostensjabloon,unreviewed,erpnext
-Sales Team,Verkoop team,unreviewed,erpnext
-Sales Team Details,Verkoop Team Details,unreviewed,erpnext
-Sales Team1,Verkoop Team1,unreviewed,erpnext
-Sales Update Frequency,Frequentie van verkoopupdates,unreviewed,erpnext
-Sales User,Sales Gebruiker,unreviewed,both
-Sales Value,Verkoopwaarde,unreviewed,erpnext
-"Sales, Purchase, Accounting Defaults","Verkoop, Aankoop, Accountingstandaards",unreviewed,erpnext
-Salesforce,Verkoopsteam,unreviewed,frappe
-Salutation,Aanhef,unreviewed,both
-Same Company is entered more than once,Hetzelfde bedrijf is meer dan één keer ingevoerd,unreviewed,erpnext
-Same Field is entered more than once,Hetzelfde veld is meer dan één keer ingevoerd,unreviewed,frappe
-Same Item,Zelfde item,unreviewed,erpnext
-Same item cannot be entered multiple times.,Hetzelfde item kan niet meerdere keren worden ingevoerd.,unreviewed,erpnext
-Same supplier has been entered multiple times,Dezelfde leverancier is meerdere keren ingevoerd,unreviewed,erpnext
-Sample,Monster,unreviewed,frappe
-Sample Collection {0} has been created,Sample Collection {0} is gemaakt,unreviewed,erpnext
-Sample Details,Voorbeelddetails,unreviewed,erpnext
-Sample ID,Voorbeeld ID,unreviewed,erpnext
-Sample Quantity,Monsterhoeveelheid,unreviewed,erpnext
-Sample Quantity cannot be negative or 0,De steekproefhoeveelheid kan niet negatief of 0 zijn,unreviewed,erpnext
-Sample quantity {0} cannot be more than received quantity {1},Voorbeeldhoeveelheid {0} kan niet meer dan ontvangen aantal {1} zijn,unreviewed,erpnext
-Sample Size,Monster grootte,unreviewed,erpnext
-Sample UOM,Voorbeeld maateenheid,unreviewed,erpnext
-Sand,Zand,unreviewed,erpnext
-Sand Composition (%),Zandsamenstelling (%),unreviewed,erpnext
-sandbox,zandbak,unreviewed,erpnext
-Sandbox API Key,Sandbox API-sleutel,unreviewed,erpnext
-Sandbox Mode,Sandbox-modus,unreviewed,erpnext
-Sandy Clay,Zanderige klei,unreviewed,erpnext
-Sandy Loam,Zandige leem,unreviewed,erpnext
-Saturday,Zaterdag,unreviewed,both
-Save,bewaren,unreviewed,both
-Save Anyway,Hoe dan ook opslaan,unreviewed,frappe
-Save As,Opslaan als,unreviewed,frappe
-Save as Draft,Opslaan als concept,unreviewed,erpnext
-Save Filter,Filter opslaan,unreviewed,frappe
-Save filters,Filters opslaan,unreviewed,frappe
-Save Item,Item opslaan,unreviewed,erpnext
-Save Quotations as Draft,Bewaar offertes als concept,unreviewed,erpnext
-Save Report,Rapport opslaan,unreviewed,frappe
-Saved,Opgeslagen,unreviewed,frappe
-Saved Filters,Opgeslagen filters,unreviewed,custom
-Saved Items,Opgeslagen items,unreviewed,erpnext
-Saved Successfully,Met succes opgeslagen,unreviewed,frappe
-Saving,Opslaan,unreviewed,frappe
-Saving {0},{0} opslaan,unreviewed,erpnext
-Saving...,Besparing...,unreviewed,frappe
-Scale Max,Schaal Max,unreviewed,erpnext
-Scale Maximum,Schaal Maximaal,unreviewed,erpnext
-Scale Min,Schaal Min,unreviewed,erpnext
-Scale Minimum,Schaal Minimum,unreviewed,erpnext
-Scan Barcode,Scan barcode,unreviewed,erpnext
-Scan the QR Code and enter the resulting code displayed.,Scan de QR-code en voer de weergegeven code in.,unreviewed,frappe
-Scanned Cheque,gescande Cheque,unreviewed,erpnext
-Schedule,Plan,unreviewed,erpnext
-Schedule Admission,Plan toegang,unreviewed,erpnext
-Schedule Date,Plan datum,unreviewed,erpnext
-Schedule Details,Planning Details,unreviewed,erpnext
-Schedule Discharge,Scheiding plannen,unreviewed,erpnext
-Schedule Name,Schema Naam,unreviewed,erpnext
-Schedule Send,Plan verzenden,unreviewed,frappe
-Schedule Sending,Plan verzending,unreviewed,frappe
-Scheduled,Geplande,unreviewed,both
-Scheduled Date,Geplande Datum,unreviewed,erpnext
-Scheduled execution for script {0} has updated,Geplande uitvoering voor script {0} is bijgewerkt,unreviewed,frappe
-Scheduled Job,Geplande taak,unreviewed,frappe
-Scheduled Job Log,Gepland takenlogboek,unreviewed,frappe
-Scheduled Job Type,Type geplande taak,unreviewed,frappe
-Scheduled Time,Geplande tijd,unreviewed,erpnext
-Scheduled To Send,Gepland voor sturen,unreviewed,frappe
-Scheduled to send,Gepland om te verzenden,unreviewed,frappe
-Scheduled Upto,Geplande Tot,unreviewed,erpnext
-Scheduler Event,Scheduler-evenement,unreviewed,frappe
-Scheduler Inactive,Planner Inactief,unreviewed,both
-Scheduler is inactive. Cannot import data.,Planner is inactief. Kan gegevens niet importeren.,unreviewed,both
-Schedules,Schema,unreviewed,erpnext
-"Schedules for {0} overlaps, do you want to proceed after skiping overlaped slots ?","Plannen voor overlappende {0}, wilt u doorgaan na het overslaan van overlappende slots?",unreviewed,erpnext
-Scheduling Patient Admission,Opname van patiënten plannen,unreviewed,erpnext
-School/University,School / Universiteit,unreviewed,erpnext
-Scientific Name,Wetenschappelijke naam,unreviewed,erpnext
-Scope,strekking,unreviewed,erpnext
-Scopes,scopes,unreviewed,frappe
-Score,partituur,unreviewed,erpnext
-Score cannot be greater than Maximum Score,Score kan niet groter zijn dan de maximale score te zijn,unreviewed,erpnext
-Score Obtained,Score behaald,unreviewed,erpnext
-Score out of 100,Score uit 100,unreviewed,erpnext
-Scorecard Actions,Scorecard Acties,unreviewed,erpnext
-"Scorecard variables can be used, as well as:\n{total_score} (the total score from that period),\n{period_number} (the number of periods to present day)\n","Scorecard variabelen kunnen worden gebruikt, evenals: {total_score} (de totale score van die periode), {period_number} (het aantal dagen dat de dag is)",unreviewed,erpnext
-Scorecards,scorecards,unreviewed,erpnext
-Scoring Setup,Scoring instellen,unreviewed,erpnext
-Scrap,stukje,unreviewed,erpnext
-Scrap %,Scrap%,unreviewed,erpnext
-Scrap Items,Scrap items,unreviewed,erpnext
-Scrap Material Cost,Scrap Materiaal Cost,unreviewed,erpnext
-Scrap Material Cost(Company Currency),Scrap Materiaal Kosten (Company Munt),unreviewed,erpnext
+"Row {1}: Quantity ({0}) cannot be a fraction. To allow this, disable '{2}' in UOM {3}.",Rij {1}: hoeveelheid ({0}) mag geen breuk zijn. Schakel &#39;{2}&#39; uit in maateenheid {3} om dit toe te staan.,reviewed,erpnext
+Row {}: Asset Naming Series is mandatory for the auto creation for item {},Rij {}: Serie voor naamgeving van items is verplicht voor het automatisch maken van item {},reviewed,erpnext
+Row {}: Expense Head changed to {},Rij {}: uitgavenkop gewijzigd in {},reviewed,erpnext
+Row({0}): {1} is already discounted in {2},Rij ({0}): {1} is al verdisconteerd in {2},reviewed,erpnext
+Rows Added,Rijen toegevoegd,reviewed,frappe
+Rows Added in {0},Rijen toegevoegd in {0},reviewed,erpnext
+Rows Removed,Rijen verwijderd,reviewed,frappe
+Rows Removed in {0},Rijen verwijderd in {0},reviewed,erpnext
+Rows with duplicate due dates in other rows were found: {0},Rijen met dubbele vervaldatums in andere rijen zijn gevonden: {0},reviewed,erpnext
+Rule,Regel,reviewed,frappe
+Rule Applied,Regel toegepast,reviewed,erpnext
+Rule Conditions,Regelvoorwaarden,reviewed,frappe
+Rule Description,Regelbeschrijving,reviewed,erpnext
+Rule Name,Regelnaam,reviewed,frappe
+Rules defining transition of state in the workflow.,Regels met betrekking tot de overgang van de staat in de workflow.,reviewed,frappe
+Rules for adding shipping costs.,Regels voor het toevoegen van verzendkosten.,reviewed,erpnext
+Rules for applying different promotional schemes.,Regels voor het toepassen van verschillende promotieregelingen.,reviewed,erpnext
+Rules for applying pricing and discount.,Regels voor de toepassing van prijzen en kortingen .,reviewed,erpnext
+"Rules for how states are transitions, like next state and which role is allowed to change state etc.","Regels voor de manier waarop stadia overgaan, zoals 'volgend stadium' en welke rol dit stadium mag veranderen, etc.",reviewed,frappe
+Rules with higher priority number will be applied first.,Regels met een hoger prioriteitsnummer worden eerst toegepast.,reviewed,frappe
+Run,Uitvoeren,reviewed,frappe
+Run Jobs only Daily if Inactive For (Days),Taken alleen dagelijks uitvoeren indien inactief gedurende (dagen),reviewed,frappe
+Run scheduled jobs only if checked,Run geplande taken alleen als aangevinkt.,reviewed,frappe
+S.O. No.,VO nr.,reviewed,erpnext
+S3 Backup complete!,S3 Back-up voltooid!,reviewed,frappe
+S3 Backup Settings,S3 Back-upinstellingen,reviewed,frappe
+S3 Bucket Details,S3-bucketgegevens,reviewed,frappe
+sa-east-1,sa-east-1,reviewed,frappe
+Safety Stock,Veiligheidsvoorraad,reviewed,erpnext
+Salary,Salaris,reviewed,erpnext
+Salary Mode,Salaris Modus,reviewed,erpnext
+Salary Slip,Salarisstrook,reviewed,erpnext
+Salary Slip submitted for period from {0} to {1},Salarisslip ingediend voor een periode van {0} tot {1},reviewed,erpnext
+Salary Structure must be submitted before submission of Tax Ememption Declaration,De salarisstructuur moet worden ingediend voordat de belastingemissieverklaring wordt ingediend,reviewed,erpnext
+Salary Withholding,Salarisinhouding,reviewed,custom
+Sales,verkoop,reviewed,erpnext
+Sales Account,Verkooprekening,reviewed,erpnext
+Sales Analytics,Verkoopanalyse,reviewed,erpnext
+Sales and Returns,Verkoop en retourneren,reviewed,erpnext
+Sales campaigns.,Verkoop campagnes,reviewed,erpnext
+Sales Contributions and Incentives,Verkoopbijdragen en incentives,reviewed,erpnext
+Sales Defaults,Standaard verkoopwaarden,reviewed,erpnext
+Sales Details,Verkoopgegevens,reviewed,erpnext
+Sales Expenses,Verkoopkosten,reviewed,erpnext
+Sales Forecast,Verkoopprognose,reviewed,custom
+Sales Funnel,Verkoop Trechter,reviewed,erpnext
+Sales Invoice,Verkoopfactuur,reviewed,erpnext
+Sales Invoice Advance,Verkoopfactuur Voorschot,reviewed,erpnext
+Sales Invoice Item,Verkoopfactuur Artikel,reviewed,erpnext
+Sales Invoice No,Verkoopfactuur nr.,reviewed,erpnext
+Sales Invoice or Patient Encounter is required to create Lab Tests,Een verkoopfactuur of een ontmoeting met de patiënt is vereist om laboratoriumtests te maken,reviewed,erpnext
+Sales Invoice Payment,Verkoopfactuurbetaling,reviewed,erpnext
+Sales Invoice Series,Verkoopfactuurserie,reviewed,erpnext
+Sales Invoice Trends,Verkoopfactuur Trends,reviewed,erpnext
+Sales Invoice {0} has already been submitted,Verkoopfactuur {0} is al ingediend,reviewed,erpnext
+Sales Invoice {0} must be cancelled before cancelling this Sales Order,Verkoopfactuur {0} moet worden geannuleerd voordat deze verkooporder kan worden geannuleerd.,reviewed,erpnext
+Sales Manager,Verkoopmanager,reviewed,both
+Sales Monthly History,Maandelijks verkoopoverzicht,reviewed,erpnext
+Sales Order,Verkooporder,reviewed,erpnext
+Sales Order Analysis,Analyse van verkooporders,reviewed,erpnext
+Sales Order Date,Verkooporder Datum,reviewed,erpnext
+Sales Order Item,Verkooporder Artikel,reviewed,erpnext
+Sales Order required for Item {0},Verkooporder nodig voor Artikel {0},reviewed,erpnext
+Sales Order Series,Verkooporderreeks,reviewed,erpnext
+Sales Order to Payment,Van verkooporder tot betaling,reviewed,erpnext
+Sales Order Trends,Verkooporder Trends,reviewed,erpnext
+"Sales Order {0} has reservation for the item {1}, you can only deliver reserved {1} against {0}.","Verkooporder {0} heeft een reservering voor het artikel {1}, u kunt alleen gereserveerd leveren {1} tegen {0}.",reviewed,erpnext
+Sales Order {0} is not submitted,Verkooporder {0} is niet ingediend,reviewed,erpnext
+Sales Order {0} is not valid,Verkooporder {0} is niet geldig,reviewed,erpnext
+Sales Orders,Verkooporders,reviewed,erpnext
+Sales orders are not available for production,Verkooporders zijn niet beschikbaar voor productie,reviewed,erpnext
+Sales Orders Required,Verkooporders vereist,reviewed,erpnext
+Sales Orders to Bill,Te factureren verkooporders,reviewed,erpnext
+Sales Orders to Deliver,Verkooporders om te bezorgen,reviewed,erpnext
+Sales Partner,Verkooppartner,reviewed,erpnext
+Sales Partner and Commission,Verkooppartner en provisie,reviewed,erpnext
+Sales Partner Commission Summary,Verkooppartner Commissie Samenvatting,reviewed,erpnext
+Sales Partner Name,Verkooppartnernaam,reviewed,erpnext
+Sales Partner Target,Verkoop Partner Doel,reviewed,erpnext
+Sales Partner Target Variance based on Item Group,Doelafhankelijke verkooppartner op basis van artikelgroep,reviewed,erpnext
+Sales Partner Transaction Summary,Verkooppartner Transactieoverzicht,reviewed,erpnext
+Sales Partner Type,Verkooppartnertype,reviewed,erpnext
+Sales Partners Commission,Verkoop Partners Commissie,reviewed,erpnext
+Sales Payment Summary,Samenvatting verkoopbetaling,reviewed,erpnext
+Sales Person,Verkoopmedewerker,reviewed,erpnext
+Sales person,Verkoopmedewerker,reviewed,erpnext
+Sales Person Commission Summary,Verkooppersoon Samenvatting van de Commissie,reviewed,erpnext
+Sales Person Name,Naam verkoopmedewerker,reviewed,erpnext
+Sales Person Target Variance Based On Item Group,Doelgroepvariant verkoper op basis van artikelgroep,reviewed,erpnext
+Sales Person Targets,Verkoper Doelen,reviewed,erpnext
+Sales Person-wise Transaction Summary,Verkopergebaseerd Transactie Overzicht,reviewed,erpnext
+Sales Price List,Verkoopprijslijst,reviewed,erpnext
+Sales Register,Verkoopregister,reviewed,erpnext
+Sales Return,Verkoopretour,reviewed,erpnext
+Sales Settings,Verkoopinstellingen,reviewed,erpnext
+Sales Stage,Verkoopfase,reviewed,erpnext
+Sales Summary,Verkoopoverzicht,reviewed,erpnext
+Sales Taxes and Charges,Verkoop Belasting en Toeslagen,reviewed,erpnext
+Sales Taxes and Charges Template,Verkoopbelasting- en kostensjabloon,reviewed,erpnext
+Sales Team,Verkoop team,reviewed,erpnext
+Sales Team Details,Verkoop Team Details,reviewed,erpnext
+Sales Team1,Verkoop Team1,reviewed,erpnext
+Sales Update Frequency,Frequentie van verkoopupdates,reviewed,erpnext
+Sales User,Sales Gebruiker,reviewed,both
+Sales Value,Verkoopwaarde,reviewed,erpnext
+"Sales, Purchase, Accounting Defaults","Verkoop, Aankoop, Accountingstandaards",reviewed,erpnext
+Salesforce,Verkoopsteam,reviewed,frappe
+Salutation,Aanhef,reviewed,both
+Same Company is entered more than once,Hetzelfde bedrijf is meer dan één keer ingevoerd,reviewed,erpnext
+Same Field is entered more than once,Hetzelfde veld is meer dan één keer ingevoerd,reviewed,frappe
+Same Item,Zelfde item,reviewed,erpnext
+Same item cannot be entered multiple times.,Hetzelfde item kan niet meerdere keren worden ingevoerd.,reviewed,erpnext
+Same supplier has been entered multiple times,Dezelfde leverancier is meerdere keren ingevoerd,reviewed,erpnext
+Sample,Monster,reviewed,frappe
+Sample Collection {0} has been created,Sample Collection {0} is gemaakt,reviewed,erpnext
+Sample Details,Voorbeelddetails,reviewed,erpnext
+Sample ID,Voorbeeld ID,reviewed,erpnext
+Sample Quantity,Monsterhoeveelheid,reviewed,erpnext
+Sample Quantity cannot be negative or 0,De steekproefhoeveelheid kan niet negatief of 0 zijn,reviewed,erpnext
+Sample quantity {0} cannot be more than received quantity {1},Voorbeeldhoeveelheid {0} kan niet meer dan ontvangen aantal {1} zijn,reviewed,erpnext
+Sample Size,Monster grootte,reviewed,erpnext
+Sample UOM,Voorbeeld maateenheid,reviewed,erpnext
+Sand,Zand,reviewed,erpnext
+Sand Composition (%),Zandsamenstelling (%),reviewed,erpnext
+sandbox,zandbak,reviewed,erpnext
+Sandbox API Key,Sandbox API-sleutel,reviewed,erpnext
+Sandbox Mode,Sandbox-modus,reviewed,erpnext
+Sandy Clay,Zanderige klei,reviewed,erpnext
+Sandy Loam,Zandige leem,reviewed,erpnext
+Saturday,Zaterdag,reviewed,both
+Save,bewaren,reviewed,both
+Save Anyway,Hoe dan ook opslaan,reviewed,frappe
+Save As,Opslaan als,reviewed,frappe
+Save as Draft,Opslaan als concept,reviewed,erpnext
+Save Filter,Filter opslaan,reviewed,frappe
+Save filters,Filters opslaan,reviewed,frappe
+Save Item,Item opslaan,reviewed,erpnext
+Save Quotations as Draft,Bewaar offertes als concept,reviewed,erpnext
+Save Report,Rapport opslaan,reviewed,frappe
+Saved,Opgeslagen,reviewed,frappe
+Saved Filters,Opgeslagen filters,reviewed,custom
+Saved Items,Opgeslagen items,reviewed,erpnext
+Saved Successfully,Met succes opgeslagen,reviewed,frappe
+Saving,Opslaan,reviewed,frappe
+Saving {0},{0} opslaan,reviewed,erpnext
+Saving...,Besparing...,reviewed,frappe
+Scale Max,Schaal Max,reviewed,erpnext
+Scale Maximum,Schaal Maximaal,reviewed,erpnext
+Scale Min,Schaal Min,reviewed,erpnext
+Scale Minimum,Schaal Minimum,reviewed,erpnext
+Scan Barcode,Scan barcode,reviewed,erpnext
+Scan the QR Code and enter the resulting code displayed.,Scan de QR-code en voer de weergegeven code in.,reviewed,frappe
+Scanned Cheque,gescande Cheque,reviewed,erpnext
+Schedule,Plan,reviewed,erpnext
+Schedule Admission,Plan toegang,reviewed,erpnext
+Schedule Date,Plan datum,reviewed,erpnext
+Schedule Details,Planning Details,reviewed,erpnext
+Schedule Discharge,Scheiding plannen,reviewed,erpnext
+Schedule Name,Schema Naam,reviewed,erpnext
+Schedule Send,Plan verzenden,reviewed,frappe
+Schedule Sending,Plan verzending,reviewed,frappe
+Scheduled,Geplande,reviewed,both
+Scheduled Date,Geplande Datum,reviewed,erpnext
+Scheduled execution for script {0} has updated,Geplande uitvoering voor script {0} is bijgewerkt,reviewed,frappe
+Scheduled Job,Geplande taak,reviewed,frappe
+Scheduled Job Log,Gepland takenlogboek,reviewed,frappe
+Scheduled Job Type,Type geplande taak,reviewed,frappe
+Scheduled Time,Geplande tijd,reviewed,erpnext
+Scheduled To Send,Gepland voor sturen,reviewed,frappe
+Scheduled to send,Gepland om te verzenden,reviewed,frappe
+Scheduled Upto,Geplande Tot,reviewed,erpnext
+Scheduler Event,Scheduler-evenement,reviewed,frappe
+Scheduler Inactive,Planner Inactief,reviewed,both
+Scheduler is inactive. Cannot import data.,Planner is inactief. Kan gegevens niet importeren.,reviewed,both
+Schedules,Schema,reviewed,erpnext
+"Schedules for {0} overlaps, do you want to proceed after skiping overlaped slots ?","Plannen voor overlappende {0}, wilt u doorgaan na het overslaan van overlappende slots?",reviewed,erpnext
+Scheduling Patient Admission,Opname van patiënten plannen,reviewed,erpnext
+School/University,School / Universiteit,reviewed,erpnext
+Scientific Name,Wetenschappelijke naam,reviewed,erpnext
+Scope,strekking,reviewed,erpnext
+Scopes,scopes,reviewed,frappe
+Score,partituur,reviewed,erpnext
+Score cannot be greater than Maximum Score,Score kan niet groter zijn dan de maximale score te zijn,reviewed,erpnext
+Score Obtained,Score behaald,reviewed,erpnext
+Score out of 100,Score uit 100,reviewed,erpnext
+Scorecard Actions,Scorecard Acties,reviewed,erpnext
+"Scorecard variables can be used, as well as:\n{total_score} (the total score from that period),\n{period_number} (the number of periods to present day)\n","Scorecard variabelen kunnen worden gebruikt, evenals: {total_score} (de totale score van die periode), {period_number} (het aantal dagen dat de dag is)",reviewed,erpnext
+Scorecards,scorecards,reviewed,erpnext
+Scoring Setup,Scoring instellen,reviewed,erpnext
+Scrap,stukje,reviewed,erpnext
+Scrap %,Scrap%,reviewed,erpnext
+Scrap Items,Scrap items,reviewed,erpnext
+Scrap Material Cost,Scrap Materiaal Cost,reviewed,erpnext
+Scrap Material Cost(Company Currency),Scrap Materiaal Kosten (Company Munt),reviewed,erpnext
 Scrapped,gesloopt,unreviewed,erpnext
 Script Manager,Scriptbeheer,unreviewed,frappe
 Script or Query reports,Script of Query-rapporten,unreviewed,frappe

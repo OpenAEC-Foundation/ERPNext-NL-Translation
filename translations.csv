@@ -11948,236 +11948,236 @@ zoom-out,uitzoomen,reviewed,frappe
 {0} criticism point for {1} {2},{0} kritiekpunt voor {1} {2},reviewed,frappe
 {0} criticism points for {1} {2},{0} kritiekpunten voor {1} {2},reviewed,frappe
 {0} criticized on {1},{0} bekritiseerd op {1},reviewed,frappe
-{0} criticized your work on {1} with {2} point,{0} bekritiseerde uw werk op {1} met {2} punt,unreviewed,frappe
-{0} criticized your work on {1} with {2} points,{0} bekritiseerde uw werk op {1} met {2} punten,unreviewed,frappe
-{0} criticized {1},{0} bekritiseerd {1},unreviewed,frappe
-"{0} currently has a {1} Supplier Scorecard standing, and Purchase Orders to this supplier should be issued with caution.","{0} heeft momenteel een {1} Leveranciersscorekaart, en er dienen voorzichtige waarborgen te worden uitgegeven bij inkooporders.",unreviewed,erpnext
-"{0} currently has a {1} Supplier Scorecard standing, and RFQs to this supplier should be issued with caution.","{0} heeft momenteel een {1} leverancierscorekaart, en RFQs aan deze leverancier moeten met voorzichtigheid worden uitgegeven.",unreviewed,erpnext
-{0} days ago,{0} dagen geleden,unreviewed,frappe
-{0} Digest,{0} Samenvatting,unreviewed,erpnext
-{0} does not belong to Company {1},{0} behoort niet tot Bedrijf {1},unreviewed,erpnext
-{0} does not exist in row {1},{0} bestaat niet in rij {1},unreviewed,frappe
-{0} does not have a Healthcare Practitioner Schedule. Add it in Healthcare Practitioner,{0} heeft geen schema voor zorgverleners. Voeg het toe in Healthcare Practitioner,unreviewed,erpnext
-{0} does not have a Healthcare Practitioner Schedule. Add it in Healthcare Practitioner master,{0} heeft geen schema voor zorgverleners. Voeg het toe aan de meester van de zorgverlener,unreviewed,erpnext
-{0} entered twice in Item Tax,{0} twee keer opgenomen in Artikel BTW,unreviewed,erpnext
-"{0} field cannot be set as unique in {1}, as there are non-unique existing values","{0} veld kan niet worden ingesteld als uniek {1}, omdat er niet uniek bestaande waarden",unreviewed,frappe
-{0} Fields,{0} Velden,unreviewed,frappe
-{0} for {1},{0} voor {1},unreviewed,erpnext
-{0} gained {1} point for {2} {3},{0} behaalde {1} punt voor {2} {3},unreviewed,frappe
-{0} gained {1} points for {2} {3},{0} behaalde {1} punten voor {2} {3},unreviewed,frappe
-{0} Google Calendar Events synced.,{0} Google Agenda-evenementen gesynchroniseerd.,unreviewed,frappe
-{0} Google Contacts synced.,{0} Google Contacten gesynchroniseerd.,unreviewed,frappe
-{0} h,{0} u,unreviewed,frappe
-{0} has already assigned default value for {1}.,{0} heeft al een standaardwaarde toegewezen voor {1}.,unreviewed,frappe
-{0} has appointment scheduled with {1} at {2} having {3} minute(s) duration.,{0} heeft een afspraak gepland met {1} om {2} met een duur van {3} minuten.,unreviewed,erpnext
-{0} has been submitted successfully,{0} is succesvol ingediend,unreviewed,erpnext
-{0} has been successfully added to the Email Group.,{0} is succesvol toegevoegd aan de e-mail Group.,unreviewed,frappe
-{0} has fee validity till {1},{0} heeft geldigheid tot {1},unreviewed,erpnext
-{0} has left the conversation in {1} {2},{0} heeft het gesprek verlaten in {1} {2},unreviewed,frappe
-{0} has no versions tracked.,{0} heeft geen versies bijgehouden.,unreviewed,frappe
-{0} hours,{0} uren,unreviewed,erpnext
-{0} hours ago,{0} uur geleden,unreviewed,frappe
-{0} in row {1},{0} in rij {1},unreviewed,erpnext
-{0} in row {1} cannot have both URL and child items,{0} in rij {1} kan niet zowel URL en onderliggende items bevatten,unreviewed,frappe
-{0} is a mandatory field,{0} is een verplicht veld,unreviewed,frappe
-{0} is a mandatory field asdadsf,{0} is een verplicht veld asdadsf,unreviewed,frappe
-{0} is an invalid Data field.,{0} is een ongeldig gegevensveld.,unreviewed,frappe
-{0} is an invalid email address in 'Recipients',{0} is een ongeldig e-mailadres in &#39;Ontvangers&#39;,unreviewed,frappe
-{0} is blocked so this transaction cannot proceed,"{0} is geblokkeerd, dus deze transactie kan niet doorgaan",unreviewed,erpnext
-{0} is currently {1},{0} is momenteel {1},unreviewed,frappe
-{0} is mandatory,{0} is verplicht,unreviewed,both
-{0} is mandatory for Item {1},{0} is verplicht voor Artikel {1},unreviewed,erpnext
-{0} is mandatory. Maybe Currency Exchange record is not created for {1} to {2},{0} is verplicht. Misschien is er geen valutawisselrecord gemaakt voor {1} tot {2},unreviewed,erpnext
-{0} is mandatory. Maybe Currency Exchange record is not created for {1} to {2}.,{0} is verplicht. Misschien is Valuta Koers record niet gemaakt voor {1} naar {2}.,unreviewed,erpnext
-{0} is not a company bank account,{0} is geen zakelijke bankrekening,unreviewed,erpnext
-{0} is not a group node. Please select a group node as parent cost center,{0} is geen groepsknooppunt. Selecteer een groepsknooppunt als bovenliggende kostenplaats,unreviewed,erpnext
-{0} is not a raw printing format.,{0} is geen raw-afdrukindeling.,unreviewed,frappe
-{0} is not a stock Item,{0} is geen voorraad artikel,unreviewed,erpnext
-{0} is not a valid Batch Number for Item {1},{0} is geen geldig batchnummer voor Artikel {1},unreviewed,erpnext
-{0} is not a valid DocType for Dynamic Link,{0} is geen geldig DocType voor Dynamic Link,unreviewed,frappe
-{0} is not a valid Email Address,{0} is geen geldig e-mailadres,unreviewed,frappe
-{0} is not a valid file url,{0} is geen geldige bestands-URL,unreviewed,frappe
-{0} is not a valid Name,{0} is geen geldige naam,unreviewed,frappe
-{0} is not a valid Phone Number,{0} is geen geldig telefoonnummer,unreviewed,frappe
-{0} is not a valid report format. Report format should one of the following {1},{0} is geen geldige rapportindeling. Rapportindeling moet een van de volgende {1} zijn,unreviewed,frappe
-{0} is not a valid state! Check for typos or enter the ISO code for your state.,{0} is geen geldige staat! Controleer op typefouten of voer de ISO-code voor uw staat in.,unreviewed,erpnext
-{0} is not a valid Value for Attribute {1} of Item {2}.,{0} is geen geldige waarde voor kenmerk {1} van artikel {2}.,unreviewed,erpnext
-{0} is not a valid Workflow State. Please update your Workflow and try again.,{0} is geen geldige workflowstatus. Werk uw Workflow bij en probeer het opnieuw.,unreviewed,frappe
-{0} is not added in the table,{0} is niet toegevoegd aan de tabel,unreviewed,erpnext
-{0} is not enabled in {1},{0} is niet ingeschakeld in {1},unreviewed,erpnext
-{0} is not the default supplier for any items.,{0} is niet de standaardleverancier voor artikelen.,unreviewed,erpnext
-{0} is now default print format for {1} doctype,{0} is nu standaard afdrukformaat voor {1} doctype,unreviewed,frappe
-{0} is now the default Fiscal Year. Please refresh your browser for the change to take effect.,{0} is nu het standaard Boekjaar. Ververs uw browser om de wijziging door te voeren .,unreviewed,erpnext
-{0} is on a Half day Leave on {1},{0} heeft een halve dag verlof op {1},unreviewed,erpnext
-{0} is on hold till {1},{0} staat in de wacht totdat {1},unreviewed,erpnext
-{0} is on Leave on {1},{0} heeft verlof op {1},unreviewed,erpnext
-{0} is required,{0} is verplicht,unreviewed,both
-{0} is saved,{0} is opgeslagen,unreviewed,frappe
-{0} item found.,{0} item gevonden.,unreviewed,erpnext
-{0} items found.,{0} items gevonden.,unreviewed,erpnext
-{0} items produced,{0} items geproduceerd,unreviewed,erpnext
-{0} items selected,{0} items geselecteerd,unreviewed,frappe
-{0} List,{0} Lijst,unreviewed,frappe
-{0} logged in,{0} ingelogd,unreviewed,frappe
-{0} logged out: {1},{0} afgemeld: {1},unreviewed,frappe
-{0} medication order completed,{0} medicatiebestelling voltooid,unreviewed,erpnext
-{0} medication orders completed,{0} medicatiebestellingen voltooid,unreviewed,erpnext
-{0} mentioned you in a comment in {1} {2},{0} heeft je genoemd in een reactie in {1} {2},unreviewed,frappe
-{0} minutes ago,{0} minuten geleden,unreviewed,frappe
-{0} months ago,{0} maanden geleden,unreviewed,frappe
-{0} must appear only once,{0} mag slechts eenmaal voorkomen,unreviewed,erpnext
-{0} must be after {1},{0} moet na {1} zijn,unreviewed,frappe
-{0} must be negative in return document,{0} moet negatief zijn in teruggave document,unreviewed,erpnext
-{0} must be one of {1},{0} moet een van {1} zijn,unreviewed,frappe
-{0} must be set first,{0} moet eerst worden ingesteld,unreviewed,frappe
-{0} must be unique,{0} moet uniek zijn,unreviewed,frappe
-{0} Name,{0} Naam,unreviewed,frappe
-{0} not a valid State,{0} geen geldig Status,unreviewed,frappe
-{0} not allowed to be renamed,{0} mag niet worden hernoemd,unreviewed,frappe
-{0} not allowed to transact with {1}. Please change the Company.,{0} mag niet transacties uitvoeren met {1}. Wijzig het bedrijf.,unreviewed,erpnext
-{0} not found,{0} niet gevonden,unreviewed,frappe
-{0} not found for item {1},{0} niet gevonden voor item {1},unreviewed,erpnext
-{0} Number {1} is already used in {2} {3},{0} Nummer {1} wordt al gebruikt in {2} {3},unreviewed,erpnext
-{0} of {1},{0} van {1},unreviewed,frappe
-{0} of {1} ({2} rows with children),{0} van {1} ({2} rijen met kinderen),unreviewed,frappe
-{0} on {1},{0} op {1},unreviewed,erpnext
-{0} Operations: {1},{0} Bewerkingen: {1},unreviewed,erpnext
-{0} or {1},{0} of {1},unreviewed,frappe
-{0} or {1} is mandatory,{0} of {1} is verplicht,unreviewed,erpnext
-{0} out of {1},{0} van {1},unreviewed,erpnext
-{0} parameter is invalid,{0} parameter is ongeldig,unreviewed,erpnext
-{0} payment entries can not be filtered by {1},{0} betaling items kunnen niet worden gefilterd door {1},unreviewed,erpnext
-{0} record deleted,{0} record verwijderd,unreviewed,frappe
-{0} records deleted,{0} records verwijderd,unreviewed,frappe
-{0} records will be exported,{0} records worden geëxporteerd,unreviewed,frappe
-{0} Report,{0} Rapport,unreviewed,frappe
-{0} Reports,{0} Rapporten,unreviewed,frappe
-{0} Request for {1},{0} Verzoek om {1},unreviewed,erpnext
-{0} Result submittted,{0} Resultaat ingediend,unreviewed,erpnext
-"{0} Retain Sample is based on batch, please check Has Batch No to retain sample of item",{0} Bewaar monster is gebaseerd op batch. Controleer Heeft batchnummer om een monster van het artikel te behouden,unreviewed,erpnext
-{0} reverted your point on {1},{0} heeft uw punt teruggezet op {1},unreviewed,frappe
-{0} reverted your points on {1},{0} heeft uw punten teruggezet op {1},unreviewed,frappe
-{0} reverted {1},{0} keerde terug {1},unreviewed,frappe
-{0} room must have atmost one user.,{0} ruimte moet minimaal één gebruiker hebben.,unreviewed,frappe
-{0} rows for {1},{0} rijen voor {1},unreviewed,frappe
-{0} saved successfully,{0} succesvol opgeslagen,unreviewed,frappe
-{0} self assigned this task: {1},{0} heeft deze taak zelf toegewezen: {1},unreviewed,frappe
-{0} Serial No {1} cannot be delivered,{0} Serienummer {1} kan niet worden geleverd,unreviewed,erpnext
-{0} Serial Numbers required for Item {1}. You have provided {2}.,{0} serienummers vereist voor post {1}. U hebt verstrekt {2}.,unreviewed,erpnext
-{0} session completed,{0} sessie voltooid,unreviewed,erpnext
-{0} sessions completed,{0} sessies voltooid,unreviewed,erpnext
-{0} Settings,{0} Instellingen,unreviewed,frappe
-{0} Settings not found,{0} Instellingen niet gevonden,unreviewed,frappe
-{0} shared a document {1} {2} with you,{0} heeft een document {1} {2} met u gedeeld,unreviewed,frappe
-{0} shared this document with everyone,{0} deelde dit document met iedereen,unreviewed,frappe
-{0} shared this document with {1},{0} deelde dit document met {1},unreviewed,frappe
-{0} should be a value between 0 and 100,{0} moet een waarde tussen 0 en 100 zijn,unreviewed,erpnext
-{0} should not be same as {1},{0} mag niet hetzelfde zijn als {1},unreviewed,frappe
-{0} Student Groups created.,{0} Studentgroepen aangemaakt.,unreviewed,erpnext
-{0} Students have been enrolled,{0} Studenten zijn ingeschreven,unreviewed,erpnext
-{0} subscribers added,{0} abonnees toegevoegd,unreviewed,frappe
-{0} to stop receiving emails of this type,{0} om te stoppen met het ontvangen van e-mails van dit type,unreviewed,frappe
-{0} to {1},{0} tot {1},unreviewed,frappe
-{0} translations pending,{0} vertalingen in behandeling,unreviewed,frappe
-{0} Tree,{0} Boom,unreviewed,frappe
-{0} un-shared this document with {1},{0} maakte de deling van dit document met {1} ongedaan,unreviewed,frappe
-{0} units of [{1}](#Form/Item/{1}) found in [{2}](#Form/Warehouse/{2}),{0} eenheden van [{1}] (#Vorm/Item/{1}) gevonden in [{2}](#Vorm/Magazijn/{2}),unreviewed,erpnext
-{0} units of Item {1} is not available.,{0} eenheden van artikel {1} is niet beschikbaar.,unreviewed,erpnext
-{0} units of {1} needed in {2} on {3} {4} for {5} to complete this transaction.,{0} eenheden van {1} die nodig zijn in {2} op {3} {4} te {5} om deze transactie te voltooien.,unreviewed,erpnext
-{0} units of {1} needed in {2} to complete this transaction.,{0} eenheden van {1} die nodig zijn in {2} om deze transactie te voltooien.,unreviewed,erpnext
-{0} updated,{0} bijgewerkt,unreviewed,frappe
-{0} valid serial nos for Item {1},{0} geldig serienummers voor Artikel {1},unreviewed,erpnext
-{0} values selected,{0} waarden geselecteerd,unreviewed,frappe
-{0} variants created.,{0} varianten gemaakt.,unreviewed,erpnext
-{0} Web page views,{0} paginaweergaven,unreviewed,frappe
-{0} weeks ago,{0} weken geleden,unreviewed,frappe
-{0} with {1},{0} met {1},unreviewed,erpnext
-{0} y,{0} j,unreviewed,frappe
-{0} years ago,{0} jaar geleden,unreviewed,frappe
-{0} {1} added,{0} {1} toegevoegd,unreviewed,frappe
-{0} {1} added to Dashboard {2},{0} {1} toegevoegd aan Dashboard {2},unreviewed,frappe
-{0} {1} already exists,{0} {1} bestaat al,unreviewed,frappe
-"{0} {1} cannot be ""{2}"". It should be one of ""{3}""","{0} {1} kan niet ""{2}"" worden. Het moet één zijn van ""{3}""",unreviewed,frappe
-{0} {1} cannot be a leaf node as it has children,"{0} {1} kan geen leaf node zijn, want hij is vertakt",unreviewed,frappe
-{0} {1} created,{0} {1} aangemaakt,unreviewed,erpnext
-{0} {1} does not exist,{0} {1} bestaat niet,unreviewed,erpnext
-"{0} {1} does not exist, select a new target to merge","{0} {1} bestaat niet, kies een nieuw doel om samen te voegen",unreviewed,frappe
-{0} {1} has accounting entries in currency {2} for company {3}. Please select a receivable or payable account with currency {2}.,{0} {1} heeft boekhoudgegevens in valuta {2} voor bedrijf {3}. Selecteer een te ontvangen of te betalen rekening met valuta {2}.,unreviewed,erpnext
-{0} {1} has been added to all the selected topics successfully.,{0} {1} is met succes toegevoegd aan alle geselecteerde onderwerpen.,unreviewed,erpnext
-{0} {1} has been modified. Please refresh.,{0} {1} is gewijzigd. Vernieuw aub.,unreviewed,erpnext
-{0} {1} has not been submitted so the action cannot be completed,{0} {1} is niet ingediend dus de actie kan niet voltooid worden,unreviewed,erpnext
-"{0} {1} is associated with {2}, but Party Account is {3}","{0} {1} is geassocieerd met {2}, maar relatie Account is {3}",unreviewed,erpnext
-{0} {1} is cancelled or closed,{0} {1} is geannuleerd of gesloten,unreviewed,erpnext
-{0} {1} is cancelled or stopped,{0} {1} is geannuleerd of gestopt,unreviewed,erpnext
-{0} {1} is cancelled so the action cannot be completed,{0} {1} is geannuleerd dus de actie kan niet voltooid worden,unreviewed,erpnext
-{0} {1} is closed,{0} {1} is gesloten,unreviewed,erpnext
-{0} {1} is disabled,{0} {1} is uitgeschakeld,unreviewed,erpnext
-{0} {1} is frozen,{0} {1} is bevroren,unreviewed,erpnext
-{0} {1} is fully billed,{0} {1} is volledig gefactureerd,unreviewed,erpnext
-{0} {1} is linked with the following submitted documents: {2},{0} {1} is gekoppeld aan de volgende ingediende documenten: {2},unreviewed,frappe
-{0} {1} is not active,{0} {1} is niet actief,unreviewed,erpnext
-{0} {1} is not associated with {2} {3},{0} {1} is niet gekoppeld aan {2} {3},unreviewed,erpnext
-{0} {1} is not present in the parent company,{0} {1} is niet aanwezig in het moederbedrijf,unreviewed,erpnext
-{0} {1} is not submitted,{0} {1} is niet ingediend,unreviewed,erpnext
-{0} {1} must be submitted,{0} {1} moet worden ingediend,unreviewed,erpnext
-{0} {1} not found,{0} {1} niet gevonden,unreviewed,frappe
-{0} {1} not in any active Fiscal Year.,{0} {1} in geen enkel actief fiscale jaar.,unreviewed,erpnext
-{0} {1} status is {2},{0} {1} status {2},unreviewed,erpnext
-{0} {1} to {2},{0} {1} tot {2},unreviewed,frappe
-{0} {1}: 'Profit and Loss' type account {2} not allowed in Opening Entry,"{0} {1}: ""winst- en verliesrekening"" type account {2} niet toegestaan in Opening opgave",unreviewed,erpnext
-{0} {1}: Account {2} does not belong to Company {3},{0} {1}: Account {2} behoort niet tot Company {3},unreviewed,erpnext
-{0} {1}: Account {2} is inactive,{0} {1}: Account {2} is niet actief,unreviewed,erpnext
-{0} {1}: Accounting Entry for {2} can only be made in currency: {3},{0} {1}: Accounting Entry voor {2} kan alleen worden gemaakt in valuta: {3},unreviewed,erpnext
-{0} {1}: Cost Center is mandatory for Item {2},{0} {1}: kostenplaats is verplicht voor artikel {2},unreviewed,erpnext
-{0} {1}: Cost Center is required for 'Profit and Loss' account {2}. Please set up a default Cost Center for the Company.,{0} {1}: kostenplaats is nodig voor 'Winst- en verliesrekening' account {2}. Gelieve een standaard kostenplaats voor de onderneming op te zetten.,unreviewed,erpnext
-{0} {1}: Cost Center {2} does not belong to Company {3},{0} {1}: kostenplaats {2} behoort niet tot Company {3},unreviewed,erpnext
-{0} {1}: Customer is required against Receivable account {2},{0} {1}: een klant is vereist voor Te Ontvangen rekening {2},unreviewed,erpnext
-{0} {1}: Either debit or credit amount is required for {2},{0} {1}: Ofwel debet of credit bedrag is vereist voor {2},unreviewed,erpnext
-{0} {1}: Submitted Record cannot be deleted. You must {2} Cancel {3} it first.,{0} {1}: Ingediend record kan niet worden verwijderd. U moet het eerst {2} annuleren {3}.,unreviewed,frappe
-{0} {1}: Supplier is required against Payable account {2},{0} {1}: Leverancier is vereist tegen Te Betalen account {2},unreviewed,erpnext
-{0}% Billed,{0}% gefactureerd,unreviewed,erpnext
-{0}% Delivered,{0}% Geleverd,unreviewed,erpnext
-"{0}, complete the operation {1} before the operation {2}.","{0}, voltooi de bewerking {1} vóór de bewerking {2}.",unreviewed,erpnext
-"{0}, Row {1}","{0}, Rij {1}",unreviewed,frappe
-"{0}: '{1}' ({3}) will get truncated, as max characters allowed is {2}","{0}: {1} &#39;({3}) zal afgekapt krijgen, als maximum toegestane tekens is {2}",unreviewed,frappe
-{0}: Cannot set Amend without Cancel,{0} : Kan niet Wijzigen zonder te Annuleren,unreviewed,frappe
-{0}: Cannot set Assign Amend if not Submittable,{0}: Kan wijziging niet doorvoeren indien niet indienbaar,unreviewed,frappe
-{0}: Cannot set Assign Submit if not Submittable,"{0} : Kan niet op ""In te dienen"" gezet worden indien niet indienbaar",unreviewed,frappe
-{0}: Cannot set Cancel without Submit,{0} : Kan niet Annuleren zonder in te dienen,unreviewed,frappe
-{0}: Cannot set import as {1} is not importable,{0} : Kan niet Importeren omdat {1} niet importeerbaar is,unreviewed,frappe
-{0}: Cannot set Import without Create,{0} : Kan niet importeren zonder aan te maken,unreviewed,frappe
-"{0}: Cannot set Submit, Cancel, Amend without Write","{0} : Kan niet Indienen, Annuleren, Wijzigen zonder te Schrijven",unreviewed,frappe
-"{0}: Failed to attach new recurring document. To enable attaching document in the auto repeat notification email, enable {1} in Print Settings",{0}: kan geen nieuw terugkerend document bijvoegen. Schakel {1} in Afdrukinstellingen in om het bijvoegen van een document in de e-mail voor automatisch herhalen in te schakelen,unreviewed,frappe
-{0}: Field '{1}' cannot be set as Unique as it has non-unique values,{0}: Veld &#39;{1}&#39; kan niet als Uniek worden ingesteld omdat het niet-unieke waarden heeft,unreviewed,frappe
-{0}: Field {1} in row {2} cannot be hidden and mandatory without default,{0}: Veld {1} in rij {2} kan niet standaard worden verborgen en verplicht,unreviewed,frappe
-{0}: Field {1} of type {2} cannot be mandatory,{0}: Veld {1} van type {2} kan niet verplicht zijn,unreviewed,frappe
-{0}: Fieldname cannot be one of {1},{0}: Veldnaam mag geen van {1} zijn,unreviewed,frappe
-{0}: Fieldname {1} appears multiple times in rows {2},{0}: Veldnaam {1} verschijnt meerdere keren in rijen {2},unreviewed,frappe
-{0}: Fieldtype {1} for {2} cannot be unique,{0}: Veldtype {1} voor {2} kan niet uniek zijn,unreviewed,frappe
-{0}: From {1},{0}: Van {1},unreviewed,erpnext
-{0}: No basic permissions set,{0} : Geen basis machtigingen ingesteld,unreviewed,frappe
-"{0}: Only one rule allowed with the same Role, Level and {1}","{0}: Slechts één regel toegestaan met dezelfde rol, niveau en {1}",unreviewed,frappe
-{0}: Options must be a valid DocType for field {1} in row {2},{0}: Opties moeten een geldig DocType zijn voor veld {1} in rij {2},unreviewed,frappe
-{0}: Options required for Link or Table type field {1} in row {2},{0}: opties vereist voor het veld Link of Tabeltype {1} in rij {2},unreviewed,frappe
-{0}: Options {1} must be the same as doctype name {2} for the field {3},{0}: Opties {1} moeten hetzelfde zijn als doctype naam {2} voor het veld {3},unreviewed,frappe
-{0}: Other permission rules may also apply,{0}: er kunnen ook andere toestemmingsregels van toepassing zijn,unreviewed,frappe
-{0}: Permission at level 0 must be set before higher levels are set,{0}: Toestemming op niveau 0 moet worden ingesteld voordat hogere niveaus worden ingesteld,unreviewed,frappe
-{0}: {1} does not exists,{0}: {1} bestaat niet,unreviewed,erpnext
-{0}: {1} in {2},{0}: {1} van {2},unreviewed,frappe
-{0}: {1} is set to state {2},{0}: {1} is ingesteld op staat {2},unreviewed,frappe
-{0}: {1} must be less than {2},{0}: {1} moet kleiner zijn dan {2},unreviewed,erpnext
-{0}: {1} not found in Invoice Details table,{0}: {1} niet gevonden in Factuur Details tabel,unreviewed,erpnext
-{0}: {1} vs {2},{0}: {1} versus {2},unreviewed,frappe
-{0}:Fieldtype {1} for {2} cannot be indexed,{0}: Veldtype {1} voor {2} kan niet worden geïndexeerd,unreviewed,frappe
-{0}{1} Did you rename the item? Please contact Administrator / Tech support,{0} {1} Heeft u de naam van het item gewijzigd? Neem contact op met de beheerder / technische ondersteuning,unreviewed,erpnext
-{1} Not in Stock,{1} Niet op voorraad,unreviewed,erpnext
-{function} of {fieldlabel},{function} van {fieldlabel},unreviewed,frappe
-{{{0}}} is not a valid fieldname pattern. It should be {{field_name}}.,{{{0}}} is een ongeldig veldnaampatroon. Gebruik {{field_name}}.,unreviewed,frappe
-{} Assets created for {},{} Activa gemaakt voor {},unreviewed,erpnext
-{} can't be cancelled since the Loyalty Points earned has been redeemed. First cancel the {} No {},{} kan niet worden geannuleerd omdat de verdiende loyaliteitspunten zijn ingewisseld. Annuleer eerst de {} Nee {},unreviewed,erpnext
-{} Complete,{} Compleet,unreviewed,frappe
-{} has submitted assets linked to it. You need to cancel the assets to create purchase return.,{} heeft items ingediend die eraan zijn gekoppeld. U moet de activa annuleren om een inkoopretour te creëren.,unreviewed,erpnext
-{} is not a valid date string.,{} is geen geldige datumtekenreeks.,unreviewed,frappe
-{} is required to generate E-Way Bill JSON,{} is vereist om E-Way Bill JSON te genereren,unreviewed,erpnext
-{} of {},{} van {},unreviewed,erpnext
-← Back to upload files,← Terug naar bestanden uploaden,unreviewed,frappe
+{0} criticized your work on {1} with {2} point,{0} bekritiseerde uw werk op {1} met {2} punt,reviewed,frappe
+{0} criticized your work on {1} with {2} points,{0} bekritiseerde uw werk op {1} met {2} punten,reviewed,frappe
+{0} criticized {1},{0} bekritiseerd {1},reviewed,frappe
+"{0} currently has a {1} Supplier Scorecard standing, and Purchase Orders to this supplier should be issued with caution.","{0} heeft momenteel een {1} Leveranciersscorekaart, en er dienen voorzichtige waarborgen te worden uitgegeven bij inkooporders.",reviewed,erpnext
+"{0} currently has a {1} Supplier Scorecard standing, and RFQs to this supplier should be issued with caution.","{0} heeft momenteel een {1} leverancierscorekaart, en RFQs aan deze leverancier moeten met voorzichtigheid worden uitgegeven.",reviewed,erpnext
+{0} days ago,{0} dagen geleden,reviewed,frappe
+{0} Digest,{0} Samenvatting,reviewed,erpnext
+{0} does not belong to Company {1},{0} behoort niet tot Bedrijf {1},reviewed,erpnext
+{0} does not exist in row {1},{0} bestaat niet in rij {1},reviewed,frappe
+{0} does not have a Healthcare Practitioner Schedule. Add it in Healthcare Practitioner,{0} heeft geen schema voor zorgverleners. Voeg het toe in Healthcare Practitioner,reviewed,erpnext
+{0} does not have a Healthcare Practitioner Schedule. Add it in Healthcare Practitioner master,{0} heeft geen schema voor zorgverleners. Voeg het toe aan de meester van de zorgverlener,reviewed,erpnext
+{0} entered twice in Item Tax,{0} twee keer opgenomen in Artikel BTW,reviewed,erpnext
+"{0} field cannot be set as unique in {1}, as there are non-unique existing values","{0} veld kan niet worden ingesteld als uniek {1}, omdat er niet uniek bestaande waarden",reviewed,frappe
+{0} Fields,{0} Velden,reviewed,frappe
+{0} for {1},{0} voor {1},reviewed,erpnext
+{0} gained {1} point for {2} {3},{0} behaalde {1} punt voor {2} {3},reviewed,frappe
+{0} gained {1} points for {2} {3},{0} behaalde {1} punten voor {2} {3},reviewed,frappe
+{0} Google Calendar Events synced.,{0} Google Agenda-evenementen gesynchroniseerd.,reviewed,frappe
+{0} Google Contacts synced.,{0} Google Contacten gesynchroniseerd.,reviewed,frappe
+{0} h,{0} u,reviewed,frappe
+{0} has already assigned default value for {1}.,{0} heeft al een standaardwaarde toegewezen voor {1}.,reviewed,frappe
+{0} has appointment scheduled with {1} at {2} having {3} minute(s) duration.,{0} heeft een afspraak gepland met {1} om {2} met een duur van {3} minuten.,reviewed,erpnext
+{0} has been submitted successfully,{0} is succesvol ingediend,reviewed,erpnext
+{0} has been successfully added to the Email Group.,{0} is succesvol toegevoegd aan de e-mail Group.,reviewed,frappe
+{0} has fee validity till {1},{0} heeft geldigheid tot {1},reviewed,erpnext
+{0} has left the conversation in {1} {2},{0} heeft het gesprek verlaten in {1} {2},reviewed,frappe
+{0} has no versions tracked.,{0} heeft geen versies bijgehouden.,reviewed,frappe
+{0} hours,{0} uren,reviewed,erpnext
+{0} hours ago,{0} uur geleden,reviewed,frappe
+{0} in row {1},{0} in rij {1},reviewed,erpnext
+{0} in row {1} cannot have both URL and child items,{0} in rij {1} kan niet zowel URL en onderliggende items bevatten,reviewed,frappe
+{0} is a mandatory field,{0} is een verplicht veld,reviewed,frappe
+{0} is a mandatory field asdadsf,{0} is een verplicht veld asdadsf,reviewed,frappe
+{0} is an invalid Data field.,{0} is een ongeldig gegevensveld.,reviewed,frappe
+{0} is an invalid email address in 'Recipients',{0} is een ongeldig e-mailadres in &#39;Ontvangers&#39;,reviewed,frappe
+{0} is blocked so this transaction cannot proceed,"{0} is geblokkeerd, dus deze transactie kan niet doorgaan",reviewed,erpnext
+{0} is currently {1},{0} is momenteel {1},reviewed,frappe
+{0} is mandatory,{0} is verplicht,reviewed,both
+{0} is mandatory for Item {1},{0} is verplicht voor Artikel {1},reviewed,erpnext
+{0} is mandatory. Maybe Currency Exchange record is not created for {1} to {2},{0} is verplicht. Misschien is er geen valutawisselrecord gemaakt voor {1} tot {2},reviewed,erpnext
+{0} is mandatory. Maybe Currency Exchange record is not created for {1} to {2}.,{0} is verplicht. Misschien is Valuta Koers record niet gemaakt voor {1} naar {2}.,reviewed,erpnext
+{0} is not a company bank account,{0} is geen zakelijke bankrekening,reviewed,erpnext
+{0} is not a group node. Please select a group node as parent cost center,{0} is geen groepsknooppunt. Selecteer een groepsknooppunt als bovenliggende kostenplaats,reviewed,erpnext
+{0} is not a raw printing format.,{0} is geen raw-afdrukindeling.,reviewed,frappe
+{0} is not a stock Item,{0} is geen voorraad artikel,reviewed,erpnext
+{0} is not a valid Batch Number for Item {1},{0} is geen geldig batchnummer voor Artikel {1},reviewed,erpnext
+{0} is not a valid DocType for Dynamic Link,{0} is geen geldig DocType voor Dynamic Link,reviewed,frappe
+{0} is not a valid Email Address,{0} is geen geldig e-mailadres,reviewed,frappe
+{0} is not a valid file url,{0} is geen geldige bestands-URL,reviewed,frappe
+{0} is not a valid Name,{0} is geen geldige naam,reviewed,frappe
+{0} is not a valid Phone Number,{0} is geen geldig telefoonnummer,reviewed,frappe
+{0} is not a valid report format. Report format should one of the following {1},{0} is geen geldige rapportindeling. Rapportindeling moet een van de volgende {1} zijn,reviewed,frappe
+{0} is not a valid state! Check for typos or enter the ISO code for your state.,{0} is geen geldige staat! Controleer op typefouten of voer de ISO-code voor uw staat in.,reviewed,erpnext
+{0} is not a valid Value for Attribute {1} of Item {2}.,{0} is geen geldige waarde voor kenmerk {1} van artikel {2}.,reviewed,erpnext
+{0} is not a valid Workflow State. Please update your Workflow and try again.,{0} is geen geldige workflowstatus. Werk uw Workflow bij en probeer het opnieuw.,reviewed,frappe
+{0} is not added in the table,{0} is niet toegevoegd aan de tabel,reviewed,erpnext
+{0} is not enabled in {1},{0} is niet ingeschakeld in {1},reviewed,erpnext
+{0} is not the default supplier for any items.,{0} is niet de standaardleverancier voor artikelen.,reviewed,erpnext
+{0} is now default print format for {1} doctype,{0} is nu standaard afdrukformaat voor {1} doctype,reviewed,frappe
+{0} is now the default Fiscal Year. Please refresh your browser for the change to take effect.,{0} is nu het standaard Boekjaar. Ververs uw browser om de wijziging door te voeren .,reviewed,erpnext
+{0} is on a Half day Leave on {1},{0} heeft een halve dag verlof op {1},reviewed,erpnext
+{0} is on hold till {1},{0} staat in de wacht totdat {1},reviewed,erpnext
+{0} is on Leave on {1},{0} heeft verlof op {1},reviewed,erpnext
+{0} is required,{0} is verplicht,reviewed,both
+{0} is saved,{0} is opgeslagen,reviewed,frappe
+{0} item found.,{0} item gevonden.,reviewed,erpnext
+{0} items found.,{0} items gevonden.,reviewed,erpnext
+{0} items produced,{0} items geproduceerd,reviewed,erpnext
+{0} items selected,{0} items geselecteerd,reviewed,frappe
+{0} List,{0} Lijst,reviewed,frappe
+{0} logged in,{0} ingelogd,reviewed,frappe
+{0} logged out: {1},{0} afgemeld: {1},reviewed,frappe
+{0} medication order completed,{0} medicatiebestelling voltooid,reviewed,erpnext
+{0} medication orders completed,{0} medicatiebestellingen voltooid,reviewed,erpnext
+{0} mentioned you in a comment in {1} {2},{0} heeft je genoemd in een reactie in {1} {2},reviewed,frappe
+{0} minutes ago,{0} minuten geleden,reviewed,frappe
+{0} months ago,{0} maanden geleden,reviewed,frappe
+{0} must appear only once,{0} mag slechts eenmaal voorkomen,reviewed,erpnext
+{0} must be after {1},{0} moet na {1} zijn,reviewed,frappe
+{0} must be negative in return document,{0} moet negatief zijn in teruggave document,reviewed,erpnext
+{0} must be one of {1},{0} moet een van {1} zijn,reviewed,frappe
+{0} must be set first,{0} moet eerst worden ingesteld,reviewed,frappe
+{0} must be unique,{0} moet uniek zijn,reviewed,frappe
+{0} Name,{0} Naam,reviewed,frappe
+{0} not a valid State,{0} geen geldig Status,reviewed,frappe
+{0} not allowed to be renamed,{0} mag niet worden hernoemd,reviewed,frappe
+{0} not allowed to transact with {1}. Please change the Company.,{0} mag niet transacties uitvoeren met {1}. Wijzig het bedrijf.,reviewed,erpnext
+{0} not found,{0} niet gevonden,reviewed,frappe
+{0} not found for item {1},{0} niet gevonden voor item {1},reviewed,erpnext
+{0} Number {1} is already used in {2} {3},{0} Nummer {1} wordt al gebruikt in {2} {3},reviewed,erpnext
+{0} of {1},{0} van {1},reviewed,frappe
+{0} of {1} ({2} rows with children),{0} van {1} ({2} rijen met onderliggende items),reviewed,frappe
+{0} on {1},{0} op {1},reviewed,erpnext
+{0} Operations: {1},{0} Bewerkingen: {1},reviewed,erpnext
+{0} or {1},{0} of {1},reviewed,frappe
+{0} or {1} is mandatory,{0} of {1} is verplicht,reviewed,erpnext
+{0} out of {1},{0} van {1},reviewed,erpnext
+{0} parameter is invalid,{0} parameter is ongeldig,reviewed,erpnext
+{0} payment entries can not be filtered by {1},{0} betaling items kunnen niet worden gefilterd door {1},reviewed,erpnext
+{0} record deleted,{0} record verwijderd,reviewed,frappe
+{0} records deleted,{0} records verwijderd,reviewed,frappe
+{0} records will be exported,{0} records worden geëxporteerd,reviewed,frappe
+{0} Report,{0} Rapport,reviewed,frappe
+{0} Reports,{0} Rapporten,reviewed,frappe
+{0} Request for {1},{0} Verzoek om {1},reviewed,erpnext
+{0} Result submittted,{0} Resultaat ingediend,reviewed,erpnext
+"{0} Retain Sample is based on batch, please check Has Batch No to retain sample of item",{0} Bewaar monster is gebaseerd op batch. Controleer Heeft batchnummer om een monster van het artikel te behouden,reviewed,erpnext
+{0} reverted your point on {1},{0} heeft uw punt teruggezet op {1},reviewed,frappe
+{0} reverted your points on {1},{0} heeft uw punten teruggezet op {1},reviewed,frappe
+{0} reverted {1},{0} heeft {1} teruggedraaid,reviewed,frappe
+{0} room must have atmost one user.,{0} ruimte mag maximaal een gebruiker hebben.,reviewed,frappe
+{0} rows for {1},{0} rijen voor {1},reviewed,frappe
+{0} saved successfully,{0} succesvol opgeslagen,reviewed,frappe
+{0} self assigned this task: {1},{0} heeft deze taak zelf toegewezen: {1},reviewed,frappe
+{0} Serial No {1} cannot be delivered,{0} Serienummer {1} kan niet worden geleverd,reviewed,erpnext
+{0} Serial Numbers required for Item {1}. You have provided {2}.,{0} serienummers vereist voor artikel {1}. U hebt {2} opgegeven.,reviewed,erpnext
+{0} session completed,{0} sessie voltooid,reviewed,erpnext
+{0} sessions completed,{0} sessies voltooid,reviewed,erpnext
+{0} Settings,{0} Instellingen,reviewed,frappe
+{0} Settings not found,{0} Instellingen niet gevonden,reviewed,frappe
+{0} shared a document {1} {2} with you,{0} heeft een document {1} {2} met u gedeeld,reviewed,frappe
+{0} shared this document with everyone,{0} deelde dit document met iedereen,reviewed,frappe
+{0} shared this document with {1},{0} deelde dit document met {1},reviewed,frappe
+{0} should be a value between 0 and 100,{0} moet een waarde tussen 0 en 100 zijn,reviewed,erpnext
+{0} should not be same as {1},{0} mag niet hetzelfde zijn als {1},reviewed,frappe
+{0} Student Groups created.,{0} Studentgroepen aangemaakt.,reviewed,erpnext
+{0} Students have been enrolled,{0} Studenten zijn ingeschreven,reviewed,erpnext
+{0} subscribers added,{0} abonnees toegevoegd,reviewed,frappe
+{0} to stop receiving emails of this type,{0} om te stoppen met het ontvangen van e-mails van dit type,reviewed,frappe
+{0} to {1},{0} tot {1},reviewed,frappe
+{0} translations pending,{0} vertalingen in behandeling,reviewed,frappe
+{0} Tree,{0} Boom,reviewed,frappe
+{0} un-shared this document with {1},{0} maakte de deling van dit document met {1} ongedaan,reviewed,frappe
+{0} units of [{1}](#Form/Item/{1}) found in [{2}](#Form/Warehouse/{2}),{0} eenheden van [{1}] (#Vorm/Item/{1}) gevonden in [{2}](#Vorm/Magazijn/{2}),reviewed,erpnext
+{0} units of Item {1} is not available.,{0} eenheden van artikel {1} is niet beschikbaar.,reviewed,erpnext
+{0} units of {1} needed in {2} on {3} {4} for {5} to complete this transaction.,{0} eenheden van {1} die nodig zijn in {2} op {3} {4} te {5} om deze transactie te voltooien.,reviewed,erpnext
+{0} units of {1} needed in {2} to complete this transaction.,{0} eenheden van {1} die nodig zijn in {2} om deze transactie te voltooien.,reviewed,erpnext
+{0} updated,{0} bijgewerkt,reviewed,frappe
+{0} valid serial nos for Item {1},{0} geldig serienummers voor Artikel {1},reviewed,erpnext
+{0} values selected,{0} waarden geselecteerd,reviewed,frappe
+{0} variants created.,{0} varianten gemaakt.,reviewed,erpnext
+{0} Web page views,{0} paginaweergaven,reviewed,frappe
+{0} weeks ago,{0} weken geleden,reviewed,frappe
+{0} with {1},{0} met {1},reviewed,erpnext
+{0} y,{0} j,reviewed,frappe
+{0} years ago,{0} jaar geleden,reviewed,frappe
+{0} {1} added,{0} {1} toegevoegd,reviewed,frappe
+{0} {1} added to Dashboard {2},{0} {1} toegevoegd aan Dashboard {2},reviewed,frappe
+{0} {1} already exists,{0} {1} bestaat al,reviewed,frappe
+"{0} {1} cannot be ""{2}"". It should be one of ""{3}""","{0} {1} kan niet ""{2}"" worden. Het moet één zijn van ""{3}""",reviewed,frappe
+{0} {1} cannot be a leaf node as it has children,"{0} {1} kan geen leaf node zijn, want hij is vertakt",reviewed,frappe
+{0} {1} created,{0} {1} aangemaakt,reviewed,erpnext
+{0} {1} does not exist,{0} {1} bestaat niet,reviewed,erpnext
+"{0} {1} does not exist, select a new target to merge","{0} {1} bestaat niet, kies een nieuw doel om samen te voegen",reviewed,frappe
+{0} {1} has accounting entries in currency {2} for company {3}. Please select a receivable or payable account with currency {2}.,{0} {1} heeft boekhoudgegevens in valuta {2} voor bedrijf {3}. Selecteer een te ontvangen of te betalen rekening met valuta {2}.,reviewed,erpnext
+{0} {1} has been added to all the selected topics successfully.,{0} {1} is met succes toegevoegd aan alle geselecteerde onderwerpen.,reviewed,erpnext
+{0} {1} has been modified. Please refresh.,{0} {1} is gewijzigd. Vernieuw aub.,reviewed,erpnext
+{0} {1} has not been submitted so the action cannot be completed,{0} {1} is niet ingediend dus de actie kan niet voltooid worden,reviewed,erpnext
+"{0} {1} is associated with {2}, but Party Account is {3}","{0} {1} is geassocieerd met {2}, maar relatie Account is {3}",reviewed,erpnext
+{0} {1} is cancelled or closed,{0} {1} is geannuleerd of gesloten,reviewed,erpnext
+{0} {1} is cancelled or stopped,{0} {1} is geannuleerd of gestopt,reviewed,erpnext
+{0} {1} is cancelled so the action cannot be completed,{0} {1} is geannuleerd dus de actie kan niet voltooid worden,reviewed,erpnext
+{0} {1} is closed,{0} {1} is gesloten,reviewed,erpnext
+{0} {1} is disabled,{0} {1} is uitgeschakeld,reviewed,erpnext
+{0} {1} is frozen,{0} {1} is bevroren,reviewed,erpnext
+{0} {1} is fully billed,{0} {1} is volledig gefactureerd,reviewed,erpnext
+{0} {1} is linked with the following submitted documents: {2},{0} {1} is gekoppeld aan de volgende ingediende documenten: {2},reviewed,frappe
+{0} {1} is not active,{0} {1} is niet actief,reviewed,erpnext
+{0} {1} is not associated with {2} {3},{0} {1} is niet gekoppeld aan {2} {3},reviewed,erpnext
+{0} {1} is not present in the parent company,{0} {1} is niet aanwezig in het moederbedrijf,reviewed,erpnext
+{0} {1} is not submitted,{0} {1} is niet ingediend,reviewed,erpnext
+{0} {1} must be submitted,{0} {1} moet worden ingediend,reviewed,erpnext
+{0} {1} not found,{0} {1} niet gevonden,reviewed,frappe
+{0} {1} not in any active Fiscal Year.,{0} {1} in geen enkel actief fiscale jaar.,reviewed,erpnext
+{0} {1} status is {2},{0} {1} status {2},reviewed,erpnext
+{0} {1} to {2},{0} {1} tot {2},reviewed,frappe
+{0} {1}: 'Profit and Loss' type account {2} not allowed in Opening Entry,{0} {1}: Account van het type winst- en verliesrekening {2} niet toegestaan in openingspost,reviewed,erpnext
+{0} {1}: Account {2} does not belong to Company {3},{0} {1}: Rekening {2} behoort niet tot bedrijf {3},reviewed,erpnext
+{0} {1}: Account {2} is inactive,{0} {1}: Rekening {2} is niet actief,reviewed,erpnext
+{0} {1}: Accounting Entry for {2} can only be made in currency: {3},{0} {1}: Boeking voor {2} kan alleen worden gemaakt in valuta: {3},reviewed,erpnext
+{0} {1}: Cost Center is mandatory for Item {2},{0} {1}: kostenplaats is verplicht voor artikel {2},reviewed,erpnext
+{0} {1}: Cost Center is required for 'Profit and Loss' account {2}. Please set up a default Cost Center for the Company.,{0} {1}: Kostenplaats is vereist voor de winst- en verliesrekening {2}. Stel een standaard kostenplaats in voor het bedrijf.,reviewed,erpnext
+{0} {1}: Cost Center {2} does not belong to Company {3},{0} {1}: Kostenplaats {2} behoort niet tot bedrijf {3},reviewed,erpnext
+{0} {1}: Customer is required against Receivable account {2},{0} {1}: Klant is vereist bij debiteurenrekening {2},reviewed,erpnext
+{0} {1}: Either debit or credit amount is required for {2},{0} {1}: Ofwel debet of credit bedrag is vereist voor {2},reviewed,erpnext
+{0} {1}: Submitted Record cannot be deleted. You must {2} Cancel {3} it first.,{0} {1}: Ingediend record kan niet worden verwijderd. U moet het eerst {2} annuleren {3}.,reviewed,frappe
+{0} {1}: Supplier is required against Payable account {2},{0} {1}: Leverancier is vereist bij crediteurenrekening {2},reviewed,erpnext
+{0}% Billed,{0}% gefactureerd,reviewed,erpnext
+{0}% Delivered,{0}% Geleverd,reviewed,erpnext
+"{0}, complete the operation {1} before the operation {2}.","{0}, voltooi de bewerking {1} vóór de bewerking {2}.",reviewed,erpnext
+"{0}, Row {1}","{0}, Rij {1}",reviewed,frappe
+"{0}: '{1}' ({3}) will get truncated, as max characters allowed is {2}","{0}: {1} &#39;({3}) zal afgekapt krijgen, als maximum toegestane tekens is {2}",reviewed,frappe
+{0}: Cannot set Amend without Cancel,{0} : Kan niet Wijzigen zonder te Annuleren,reviewed,frappe
+{0}: Cannot set Assign Amend if not Submittable,{0}: Kan wijziging niet doorvoeren indien niet indienbaar,reviewed,frappe
+{0}: Cannot set Assign Submit if not Submittable,"{0} : Kan niet op ""In te dienen"" gezet worden indien niet indienbaar",reviewed,frappe
+{0}: Cannot set Cancel without Submit,{0} : Kan niet Annuleren zonder in te dienen,reviewed,frappe
+{0}: Cannot set import as {1} is not importable,{0} : Kan niet Importeren omdat {1} niet importeerbaar is,reviewed,frappe
+{0}: Cannot set Import without Create,{0} : Kan niet importeren zonder aan te maken,reviewed,frappe
+"{0}: Cannot set Submit, Cancel, Amend without Write","{0} : Kan niet Indienen, Annuleren, Wijzigen zonder te Schrijven",reviewed,frappe
+"{0}: Failed to attach new recurring document. To enable attaching document in the auto repeat notification email, enable {1} in Print Settings",{0}: kan geen nieuw terugkerend document bijvoegen. Schakel {1} in Afdrukinstellingen in om het bijvoegen van een document in de e-mail voor automatisch herhalen in te schakelen,reviewed,frappe
+{0}: Field '{1}' cannot be set as Unique as it has non-unique values,{0}: Veld &#39;{1}&#39; kan niet als Uniek worden ingesteld omdat het niet-unieke waarden heeft,reviewed,frappe
+{0}: Field {1} in row {2} cannot be hidden and mandatory without default,{0}: Veld {1} in rij {2} kan niet standaard worden verborgen en verplicht,reviewed,frappe
+{0}: Field {1} of type {2} cannot be mandatory,{0}: Veld {1} van type {2} kan niet verplicht zijn,reviewed,frappe
+{0}: Fieldname cannot be one of {1},{0}: Veldnaam mag geen van {1} zijn,reviewed,frappe
+{0}: Fieldname {1} appears multiple times in rows {2},{0}: Veldnaam {1} verschijnt meerdere keren in rijen {2},reviewed,frappe
+{0}: Fieldtype {1} for {2} cannot be unique,{0}: Veldtype {1} voor {2} kan niet uniek zijn,reviewed,frappe
+{0}: From {1},{0}: Van {1},reviewed,erpnext
+{0}: No basic permissions set,{0} : Geen basis machtigingen ingesteld,reviewed,frappe
+"{0}: Only one rule allowed with the same Role, Level and {1}","{0}: Slechts één regel toegestaan met dezelfde rol, niveau en {1}",reviewed,frappe
+{0}: Options must be a valid DocType for field {1} in row {2},{0}: Opties moeten een geldig DocType zijn voor veld {1} in rij {2},reviewed,frappe
+{0}: Options required for Link or Table type field {1} in row {2},{0}: opties vereist voor het veld Link of Tabeltype {1} in rij {2},reviewed,frappe
+{0}: Options {1} must be the same as doctype name {2} for the field {3},{0}: Opties {1} moeten hetzelfde zijn als doctype naam {2} voor het veld {3},reviewed,frappe
+{0}: Other permission rules may also apply,{0}: er kunnen ook andere toestemmingsregels van toepassing zijn,reviewed,frappe
+{0}: Permission at level 0 must be set before higher levels are set,{0}: Toestemming op niveau 0 moet worden ingesteld voordat hogere niveaus worden ingesteld,reviewed,frappe
+{0}: {1} does not exists,{0}: {1} bestaat niet,reviewed,erpnext
+{0}: {1} in {2},{0}: {1} van {2},reviewed,frappe
+{0}: {1} is set to state {2},{0}: {1} is ingesteld op staat {2},reviewed,frappe
+{0}: {1} must be less than {2},{0}: {1} moet kleiner zijn dan {2},reviewed,erpnext
+{0}: {1} not found in Invoice Details table,{0}: {1} niet gevonden in Factuur Details tabel,reviewed,erpnext
+{0}: {1} vs {2},{0}: {1} versus {2},reviewed,frappe
+{0}:Fieldtype {1} for {2} cannot be indexed,{0}: Veldtype {1} voor {2} kan niet worden geïndexeerd,reviewed,frappe
+{0}{1} Did you rename the item? Please contact Administrator / Tech support,{0} {1} Heeft u de naam van het item gewijzigd? Neem contact op met de beheerder / technische ondersteuning,reviewed,erpnext
+{1} Not in Stock,{1} Niet op voorraad,reviewed,erpnext
+{function} of {fieldlabel},{function} van {fieldlabel},reviewed,frappe
+{{{0}}} is not a valid fieldname pattern. It should be {{field_name}}.,{{{0}}} is een ongeldig veldnaampatroon. Gebruik {{field_name}}.,reviewed,frappe
+{} Assets created for {},{} Activa gemaakt voor {},reviewed,erpnext
+{} can't be cancelled since the Loyalty Points earned has been redeemed. First cancel the {} No {},{} kan niet worden geannuleerd omdat de verdiende loyaliteitspunten zijn ingewisseld. Annuleer eerst de {} Nee {},reviewed,erpnext
+{} Complete,{} Compleet,reviewed,frappe
+{} has submitted assets linked to it. You need to cancel the assets to create purchase return.,{} heeft items ingediend die eraan zijn gekoppeld. U moet de activa annuleren om een inkoopretour te creëren.,reviewed,erpnext
+{} is not a valid date string.,{} is geen geldige datumtekenreeks.,reviewed,frappe
+{} is required to generate E-Way Bill JSON,{} is vereist om E-Way Bill JSON te genereren,reviewed,erpnext
+{} of {},{} van {},reviewed,erpnext
+← Back to upload files,← Terug naar bestanden uploaden,reviewed,frappe

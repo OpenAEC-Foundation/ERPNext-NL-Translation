@@ -505,202 +505,202 @@ After Delete,Na verwijderen,reviewed,frappe
 After payment completion redirect user to selected page.,Na betaling voltooiing omleiden gebruiker geselecteerde pagina.,reviewed,erpnext
 After Save,Na opslaan,reviewed,frappe
 After Save (Submitted Document),Na opslaan (ingediend document),reviewed,frappe
-After Submit,Na verzenden,unreviewed,frappe
-Afternoon,Middag,unreviewed,erpnext
+After Submit,Na indienen,reviewed,frappe
+Afternoon,Middag,reviewed,erpnext
 Against,Tegen,reviewed,erpnext
-Against Account,Tegen Rekening,unreviewed,erpnext
-Against Blanket Order,Tegen algemene bestelling,unreviewed,erpnext
-Against Default Supplier,Tegen standaardleverancier,unreviewed,erpnext
-Against Delivery Note Item,Tegen pakbonitem,unreviewed,erpnext
-Against Docname,Tegen Docname,unreviewed,erpnext
-Against Doctype,Tegen Doctype,unreviewed,erpnext
-Against Document Detail No,Tegen Document Detail nr,unreviewed,erpnext
-Against Document No,Tegen Document nr.,unreviewed,erpnext
-Against Expense Account,Tegen Kostenrekening,unreviewed,erpnext
-Against Income Account,Tegen Inkomstenrekening,unreviewed,erpnext
-Against Inpatient Medication Order,Tegen intramurale medicatie,unreviewed,erpnext
-Against Inpatient Medication Order Entry,Tegen het invoeren van intramurale medicatie,unreviewed,erpnext
-Against Journal Entry {0} does not have any unmatched {1} entry,Tegen Journal Entry {0} heeft geen ongeëvenaarde {1} binnenkomst hebben,unreviewed,erpnext
-Against Journal Entry {0} is already adjusted against some other voucher,Tegen Journal Entry {0} is al aangepast tegen enkele andere voucher,unreviewed,erpnext
-Against Sales Invoice,Tegen Sales Invoice,unreviewed,erpnext
-Against Sales Invoice Item,Tegen Sales Invoice Item,unreviewed,erpnext
-Against Sales Order,Tegen klantorder,unreviewed,erpnext
-Against Sales Order Item,Tegen Sales Order Item,unreviewed,erpnext
-Against Stock Entry,Tegen aandeleninvoer,unreviewed,erpnext
-Against Supplier Invoice {0} dated {1},Tegen Leverancier Factuur {0} gedateerd {1},unreviewed,erpnext
-Against Voucher,Tegen voucher,unreviewed,erpnext
-Against Voucher Type,Tegen Voucher Type,unreviewed,erpnext
-Age,Leeftijd,unreviewed,erpnext
-Age (Days),Leeftijd (dagen),unreviewed,erpnext
-Ageing Based On,Vergrijzing Based On,unreviewed,erpnext
-Ageing Range 1,Vergrijzing Range 1,unreviewed,erpnext
-Ageing Range 2,Vergrijzing Range 2,unreviewed,erpnext
-Ageing Range 3,Vergrijzing Range 3,unreviewed,erpnext
-Ageing Range 4,Verouderingsbereik 4,unreviewed,erpnext
-Ageing Report Based On,Verouderingsrapport gebaseerd op,unreviewed,erpnext
-Agent Details,Agentgegevens,unreviewed,erpnext
-Agents,agenten,unreviewed,erpnext
-Aggregate Function Based On,Totale functie gebaseerd op,unreviewed,frappe
-Aggregate Function field is required to create a dashboard chart,Het veld Aggregatiefunctie is vereist om een dashboarddiagram te maken,unreviewed,frappe
-"Aggregate group of **Items** into another **Item**. This is useful if you are bundling a certain **Items** into a package and you maintain stock of the packed **Items** and not the aggregate **Item**. \n\nThe package **Item** will have ""Is Stock Item"" as ""No"" and ""Is Sales Item"" as ""Yes"".\n\nFor Example: If you are selling Laptops and Backpacks separately and have a special price if the customer buys both, then the Laptop + Backpack will be a new Product Bundle Item.\n\nNote: BOM = Bill of Materials","Aggregate groep ** Items ** in een ander ** Item **. Dit is handig als u bundelen een bepaald ** Items ** in een pakket en je onderhouden voorraad van de verpakte ** Items ** en niet de totale ** Item **. Het pakket ** Item ** zal hebben &quot;Is Stock Item&quot; als &quot;Nee&quot; en &quot;Is Sales Item&quot; als &quot;Ja&quot;. Bijvoorbeeld: Als u verkoopt laptops en rugzakken los en hebben een speciale prijs als de klant beide koopt, dan is de laptop + rugzak zal een nieuw product Bundel Item zijn. Opmerking: BOM = stuklijst",unreviewed,erpnext
-Agreement Details,Overeenkomst details,unreviewed,erpnext
-Agriculture,landbouw,unreviewed,erpnext
-Agriculture (beta),Landbouw (bèta),unreviewed,erpnext
-Agriculture Analysis Criteria,Criteria voor landbouwanalyse,unreviewed,erpnext
-Agriculture Manager,Landbouwmanager,unreviewed,erpnext
-Agriculture Task,Landbouwtaak,unreviewed,erpnext
-Agriculture User,Landbouw Gebruiker,unreviewed,erpnext
-Air,Lucht,unreviewed,erpnext
-Airline,vliegmaatschappij,unreviewed,erpnext
-Alcohol Consumption (Past),Alcoholconsumptie (verleden),unreviewed,erpnext
-Alcohol Consumption (Present),Alcoholconsumptie (heden),unreviewed,erpnext
-Align Labels to the Right,Richt Labels naar rechts,unreviewed,frappe
-Align Right,Rechts uitlijnen,unreviewed,frappe
-Align Value,Lijn Waarde,unreviewed,frappe
-ALL,Alle,unreviewed,frappe
-All,Allemaal,unreviewed,both
-All Accounts,Alle accounts,unreviewed,erpnext
-All Addresses.,Alle adressen.,unreviewed,erpnext
-All Assessment Groups,Alle Assessment Groepen,unreviewed,erpnext
-All bank transactions have been created,Alle banktransacties zijn gecreëerd,unreviewed,erpnext
-All BOMs,Alle stuklijsten,unreviewed,erpnext
-All communications including and above this shall be moved into the new Issue,"Alle communicatie, inclusief en daarboven, wordt verplaatst naar de nieuwe uitgave",unreviewed,erpnext
-All Contact,Alle Contact,unreviewed,erpnext
-All Contacts.,Alle contactpersonen.,unreviewed,erpnext
-All Customer Contact,Alle Customer Contact,unreviewed,erpnext
-All Customer Groups,Alle Doelgroepen,unreviewed,erpnext
-All customizations will be removed. Please confirm.,Alle aanpassingen zullen worden verwijderd. Gelieve te bevestigen.,unreviewed,frappe
-All Day,Gehele dag,unreviewed,both
-All Departments,Alle afdelingen,unreviewed,erpnext
-All Employee (Active),Alle medewerkers (Actief),unreviewed,erpnext
-All Healthcare Service Units,Alle Healthcare Service Units,unreviewed,erpnext
-All Images attached to Website Slideshow should be public,"Alle afbeeldingen die bij de website dia&#39;s zijn gekoppeld, moeten publiek zijn",unreviewed,frappe
-All Item Groups,Alle Artikel Groepen,unreviewed,erpnext
-All items have already been Invoiced/Returned,Alle items zijn al gefactureerd / geretourneerd,unreviewed,erpnext
-All items have already been transferred for this Work Order.,Alle items zijn al overgedragen voor deze werkbon.,unreviewed,erpnext
-All Lead (Open),Alle Leads (Open),unreviewed,erpnext
-All Other ITC,Alle andere ITC,unreviewed,erpnext
-All other ITC,Alle overige ITC,unreviewed,erpnext
-"All possible Workflow States and roles of the workflow. Docstatus Options: 0 is""Saved"", 1 is ""Submitted"" and 2 is ""Cancelled""","Alle mogelijke Workflow Staten en de rol van de workflow. Docstatus Opties: 0 is &quot;Opgeslagen&quot;, 1 &quot;Submitted&quot; en 2 wordt &quot;geannuleerd&quot;",unreviewed,frappe
-All Products,Alle producten,unreviewed,erpnext
-All Products or Services.,Alle producten of diensten.,unreviewed,erpnext
-All Records,Alle records,unreviewed,frappe
-All Sales Partner Contact,Alle Sales Partner Contact,unreviewed,erpnext
-All Sales Person,Alle Sales Person,unreviewed,erpnext
-All Sales Transactions can be tagged against multiple **Sales Persons** so that you can set and monitor targets.,"Alle Verkoop Transacties kunnen worden gelabeld tegen meerdere ** Sales Personen **, zodat u kunt instellen en controleren doelen.",unreviewed,erpnext
-All Student Admissions,Alle studentenadministratie,unreviewed,erpnext
-All Supplier Contact,Alle Leverancier Contact,unreviewed,erpnext
-All Supplier Groups,Alle leveranciersgroepen,unreviewed,erpnext
-All Supplier scorecards.,Alle leveranciers scorecards.,unreviewed,erpnext
-All Territories,Alle gebieden,unreviewed,erpnext
-All the depreciations has been booked,Alle afschrijvingen zijn geboekt,unreviewed,erpnext
-All the mandatory Task for employee creation hasn't been done yet.,Alle verplichte taken voor het maken van medewerkers zijn nog niet gedaan.,unreviewed,erpnext
-All these items have already been Invoiced/Returned,Al deze items zijn al gefactureerd / geretourneerd,unreviewed,erpnext
-All Time,Altijd,unreviewed,frappe
-All Warehouses,Alle magazijnen,unreviewed,erpnext
-All-uppercase is almost as easy to guess as all-lowercase.,All-in hoofdletters is bijna net zo makkelijk te raden als alle kleine letters.,unreviewed,frappe
-Allergies,allergieën,unreviewed,erpnext
-"Allergies, Medical and Surgical History","Allergieën, Medische en Chirurgische Geschiedenis",unreviewed,erpnext
-Allocate,Toewijzen,unreviewed,erpnext
-Allocate Advances Automatically (FIFO),Wijs automatisch vooruit (FIFO),unreviewed,erpnext
-Allocate Payment Amount,Toewijzen Betaling Bedrag,unreviewed,erpnext
-Allocate Payment Based On Payment Terms,Wijs betalingen toe op basis van betalingsvoorwaarden,unreviewed,erpnext
+Against Account,Tegenrekening,reviewed,erpnext
+Against Blanket Order,Tegen raambestelling,reviewed,erpnext
+Against Default Supplier,Tegen standaardleverancier,reviewed,erpnext
+Against Delivery Note Item,Tegen pakbonregel,reviewed,erpnext
+Against Docname,Tegen documentnaam,reviewed,erpnext
+Against Doctype,Tegen documenttype,reviewed,erpnext
+Against Document Detail No,Tegen documentdetail nr.,reviewed,erpnext
+Against Document No,Tegen document nr.,reviewed,erpnext
+Against Expense Account,Tegen kostenrekening,reviewed,erpnext
+Against Income Account,Tegen inkomstenrekening,reviewed,erpnext
+Against Inpatient Medication Order,Tegen klinische medicatieorder,reviewed,erpnext
+Against Inpatient Medication Order Entry,Tegen klinische medicatieorderboeking,reviewed,erpnext
+Against Journal Entry {0} does not have any unmatched {1} entry,Journaalboeking {0} heeft geen onvereffende {1} boeking,reviewed,erpnext
+Against Journal Entry {0} is already adjusted against some other voucher,Journaalboeking {0} is al verrekend met een ander boekstuk,reviewed,erpnext
+Against Sales Invoice,Tegen verkoopfactuur,reviewed,erpnext
+Against Sales Invoice Item,Tegen verkoopfactuurregel,reviewed,erpnext
+Against Sales Order,Tegen verkooporder,reviewed,erpnext
+Against Sales Order Item,Tegen verkooporderregel,reviewed,erpnext
+Against Stock Entry,Tegen voorraadmutatie,reviewed,erpnext
+Against Supplier Invoice {0} dated {1},Tegen leveranciersfactuur {0} gedateerd {1},reviewed,erpnext
+Against Voucher,Tegen boekstuk,reviewed,erpnext
+Against Voucher Type,Tegen boekstuktype,reviewed,erpnext
+Age,Leeftijd,reviewed,erpnext
+Age (Days),Leeftijd (dagen),reviewed,erpnext
+Ageing Based On,Ouderdomsanalyse op basis van,reviewed,erpnext
+Ageing Range 1,Ouderdomsbereik 1,reviewed,erpnext
+Ageing Range 2,Ouderdomsbereik 2,reviewed,erpnext
+Ageing Range 3,Ouderdomsbereik 3,reviewed,erpnext
+Ageing Range 4,Ouderdomsbereik 4,reviewed,erpnext
+Ageing Report Based On,Ouderdomsrapport op basis van,reviewed,erpnext
+Agent Details,Agentgegevens,reviewed,erpnext
+Agents,Agenten,reviewed,erpnext
+Aggregate Function Based On,Totaalfunctie op basis van,reviewed,frappe
+Aggregate Function field is required to create a dashboard chart,Het veld Aggregatiefunctie is vereist om een dashboarddiagram te maken,reviewed,frappe
+"Aggregate group of **Items** into another **Item**. This is useful if you are bundling a certain **Items** into a package and you maintain stock of the packed **Items** and not the aggregate **Item**. \n\nThe package **Item** will have ""Is Stock Item"" as ""No"" and ""Is Sales Item"" as ""Yes"".\n\nFor Example: If you are selling Laptops and Backpacks separately and have a special price if the customer buys both, then the Laptop + Backpack will be a new Product Bundle Item.\n\nNote: BOM = Bill of Materials","Aggregate groep ** Items ** in een ander ** Item **. Dit is handig als u bundelen een bepaald ** Items ** in een pakket en je onderhouden voorraad van de verpakte ** Items ** en niet de totale ** Item **. Het pakket ** Item ** zal hebben &quot;Is Stock Item&quot; als &quot;Nee&quot; en &quot;Is Sales Item&quot; als &quot;Ja&quot;. Bijvoorbeeld: Als u verkoopt laptops en rugzakken los en hebben een speciale prijs als de klant beide koopt, dan is de laptop + rugzak zal een nieuw product Bundel Item zijn. Opmerking: BOM = stuklijst",reviewed,erpnext
+Agreement Details,Overeenkomstgegevens,reviewed,erpnext
+Agriculture,Landbouw,reviewed,erpnext
+Agriculture (beta),Landbouw (bèta),reviewed,erpnext
+Agriculture Analysis Criteria,Criteria voor landbouwanalyse,reviewed,erpnext
+Agriculture Manager,Landbouwmanager,reviewed,erpnext
+Agriculture Task,Landbouwtaak,reviewed,erpnext
+Agriculture User,Landbouwgebruiker,reviewed,erpnext
+Air,Lucht,reviewed,erpnext
+Airline,Luchtvaartmaatschappij,reviewed,erpnext
+Alcohol Consumption (Past),Alcoholconsumptie (verleden),reviewed,erpnext
+Alcohol Consumption (Present),Alcoholconsumptie (heden),reviewed,erpnext
+Align Labels to the Right,Labels rechts uitlijnen,reviewed,frappe
+Align Right,Rechts uitlijnen,reviewed,frappe
+Align Value,Waarde uitlijnen,reviewed,frappe
+ALL,Alle,reviewed,frappe
+All,Alle,reviewed,both
+All Accounts,Alle rekeningen,reviewed,erpnext
+All Addresses.,Alle adressen.,reviewed,erpnext
+All Assessment Groups,Alle beoordelingsgroepen,reviewed,erpnext
+All bank transactions have been created,Alle banktransacties zijn aangemaakt,reviewed,erpnext
+All BOMs,Alle stuklijsten,reviewed,erpnext
+All communications including and above this shall be moved into the new Issue,"Alle communicatie, inclusief en daarboven, wordt verplaatst naar de nieuwe uitgave",reviewed,erpnext
+All Contact,Alle contactpersonen,reviewed,erpnext
+All Contacts.,Alle contactpersonen.,reviewed,erpnext
+All Customer Contact,Alle klantcontacten,reviewed,erpnext
+All Customer Groups,Alle klantengroepen,reviewed,erpnext
+All customizations will be removed. Please confirm.,Alle aanpassingen zullen worden verwijderd. Gelieve te bevestigen.,reviewed,frappe
+All Day,Gehele dag,reviewed,both
+All Departments,Alle afdelingen,reviewed,erpnext
+All Employee (Active),Alle medewerkers (actief),reviewed,erpnext
+All Healthcare Service Units,Alle zorgservice-eenheden,reviewed,erpnext
+All Images attached to Website Slideshow should be public,"Alle afbeeldingen die bij de website dia&#39;s zijn gekoppeld, moeten publiek zijn",reviewed,frappe
+All Item Groups,Alle artikelgroepen,reviewed,erpnext
+All items have already been Invoiced/Returned,Alle items zijn al gefactureerd of geretourneerd,reviewed,erpnext
+All items have already been transferred for this Work Order.,Alle items zijn al overgedragen voor deze werkorder.,reviewed,erpnext
+All Lead (Open),Alle leads (open),reviewed,erpnext
+All Other ITC,Alle andere ITC,reviewed,erpnext
+All other ITC,Alle overige ITC,reviewed,erpnext
+"All possible Workflow States and roles of the workflow. Docstatus Options: 0 is""Saved"", 1 is ""Submitted"" and 2 is ""Cancelled""","Alle mogelijke Workflow Staten en de rol van de workflow. Docstatus Opties: 0 is &quot;Opgeslagen&quot;, 1 &quot;Submitted&quot; en 2 wordt &quot;geannuleerd&quot;",reviewed,frappe
+All Products,Alle producten,reviewed,erpnext
+All Products or Services.,Alle producten of diensten.,reviewed,erpnext
+All Records,Alle records,reviewed,frappe
+All Sales Partner Contact,Alle verkooppartnercontacten,reviewed,erpnext
+All Sales Person,Alle verkoopmedewerkers,reviewed,erpnext
+All Sales Transactions can be tagged against multiple **Sales Persons** so that you can set and monitor targets.,"Alle Verkoop Transacties kunnen worden gelabeld tegen meerdere ** Sales Personen **, zodat u kunt instellen en controleren doelen.",reviewed,erpnext
+All Student Admissions,Alle studenteninschrijvingen,reviewed,erpnext
+All Supplier Contact,Alle leverancierscontacten,reviewed,erpnext
+All Supplier Groups,Alle leveranciersgroepen,reviewed,erpnext
+All Supplier scorecards.,Alle leveranciersscorecards.,reviewed,erpnext
+All Territories,Alle gebieden,reviewed,erpnext
+All the depreciations has been booked,Alle afschrijvingen zijn geboekt,reviewed,erpnext
+All the mandatory Task for employee creation hasn't been done yet.,Alle verplichte taken voor het maken van medewerkers zijn nog niet gedaan.,reviewed,erpnext
+All these items have already been Invoiced/Returned,Al deze items zijn al gefactureerd of geretourneerd,reviewed,erpnext
+All Time,Altijd,reviewed,frappe
+All Warehouses,Alle magazijnen,reviewed,erpnext
+All-uppercase is almost as easy to guess as all-lowercase.,All-in hoofdletters is bijna net zo makkelijk te raden als alle kleine letters.,reviewed,frappe
+Allergies,allergieën,reviewed,erpnext
+"Allergies, Medical and Surgical History","Allergieën, Medische en Chirurgische Geschiedenis",reviewed,erpnext
+Allocate,Toewijzen,reviewed,erpnext
+Allocate Advances Automatically (FIFO),Wijs automatisch vooruit (FIFO),reviewed,erpnext
+Allocate Payment Amount,Toewijzen Betaling Bedrag,reviewed,erpnext
+Allocate Payment Based On Payment Terms,Wijs betalingen toe op basis van betalingsvoorwaarden,reviewed,erpnext
 Allocated,Toegewezen,reviewed,erpnext
-Allocated Amount,Toegewezen bedrag,unreviewed,erpnext
-Allocated amount,Toegewezen bedrag,unreviewed,erpnext
-Allocated amount cannot be greater than unadjusted amount,Toegewezen bedrag kan niet groter zijn dan niet-aangepast bedrag,unreviewed,erpnext
-Allocated amount cannot be negative,Toegewezen bedrag kan niet negatief zijn,unreviewed,erpnext
-Allocated To,Toegewezen aan,unreviewed,frappe
-Allocating leaves...,Bladeren toewijzen ...,unreviewed,erpnext
-Allocation,Toewijzing,unreviewed,erpnext
-Allot Points To Assigned Users,Wijs punten toe aan toegewezen gebruikers,unreviewed,frappe
-Allotted Qty,Toegewezen aantal,unreviewed,erpnext
-Allow,Toestaan,unreviewed,frappe
-Allow Account Creation Against Child Company,Account aanmaken tegen kinderbedrijf toestaan,unreviewed,erpnext
-Allow Alternative Item,Toestaan alternatief item,unreviewed,erpnext
-Allow API Indexing Access,Toegang tot API-indexering toestaan,unreviewed,frappe
-Allow Appointments,Afspraken toestaan,unreviewed,erpnext
-Allow approval for creator of the document,Sta goedkeuring toe voor maker van het document,unreviewed,frappe
-Allow Auto Repeat,Automatisch herhalen toestaan,unreviewed,frappe
-Allow Blank,Blanco toestaan,unreviewed,erpnext
-Allow Bulk Edit,Laat Bulk Bewerken toe,unreviewed,frappe
-Allow Comments,Laat Reacties,unreviewed,frappe
-Allow Consecutive Login Attempts,Sta opeenvolgende inlogpogingen toe,unreviewed,frappe
-Allow Delete,Laat Verwijderen,unreviewed,frappe
-Allow document creation via Email,Sta documentcreatie via e-mail toe,unreviewed,frappe
-Allow Dropbox Access,Laat Dropbox Access,unreviewed,frappe
-Allow Edit,Laat bewerken,unreviewed,frappe
-Allow events in timeline,Laat gebeurtenissen toe in de tijdlijn,unreviewed,frappe
-Allow Google Calendar Access,Google Agenda-toegang toestaan,unreviewed,frappe
-Allow Google Contacts Access,Google Contacten toegang toestaan,unreviewed,frappe
-Allow Google Drive Access,Laat Google Drive Access,unreviewed,frappe
-Allow Google Indexing Access,Sta Google Indexing Access toe,unreviewed,frappe
-Allow Guest,Gast toestaan,unreviewed,frappe
-Allow Guest to View,Laat Gast te bekijken,unreviewed,frappe
-Allow Guests to Upload Files,Sta gasten toe bestanden te uploaden,unreviewed,frappe
-Allow Import (via Data Import Tool),Laat Import (via gegevens importeren Tool),unreviewed,frappe
-Allow in Quick Entry,Toestaan bij snel invoeren,unreviewed,frappe
-Allow In Returns,Sta in retouren toe,unreviewed,erpnext
-Allow Incomplete Forms,Laat Onvolledig ingevulde formulieren,unreviewed,frappe
-Allow Item To Be Added Multiple Times in a Transaction,Toestaan dat item meerdere keren aan een transactie wordt toegevoegd,unreviewed,erpnext
-Allow Item to Be Added Multiple Times in a Transaction,Toestaan dat item meerdere keren aan een transactie wordt toegevoegd,unreviewed,erpnext
-Allow items not in stock to be added to cart,Toestaan dat artikelen die niet op voorraad zijn aan winkelwagen worden toegevoegd,unreviewed,erpnext
-Allow Login After Fail,Aanmelden na mislukken toestaan,unreviewed,frappe
-Allow Login using Mobile Number,Log in met Mobielnummer,unreviewed,frappe
-Allow Login using User Name,Log in met gebruikersnaam,unreviewed,frappe
-Allow Material Transfer from Delivery Note to Sales Invoice,Materiaaloverdracht van afleveringsbon naar verkoopfactuur toestaan,unreviewed,erpnext
-Allow Material Transfer from Purchase Receipt to Purchase Invoice,Materiaaloverdracht van inkoopontvangst naar inkoopfactuur toestaan,unreviewed,erpnext
-Allow Modules,Modules toestaan,unreviewed,frappe
-Allow Monthly Depreciation,Maandelijkse afschrijving toestaan,unreviewed,erpnext
-Allow Multiple,Laat Meerdere,unreviewed,frappe
-Allow Multiple Material Consumption,Sta meerdere materiaalconsumptie toe,unreviewed,erpnext
-Allow multiple material consumptions against a Work Order,Sta meerdere materiaalconsumptie toe op basis van een werkorder,unreviewed,erpnext
-Allow Multiple Sales Orders Against a Customer's Purchase Order,Meerdere verkooporders toestaan tegen de inkooporder van een klant,unreviewed,erpnext
-Allow Negative Stock,Laat Negatieve voorraad,unreviewed,erpnext
-Allow on Submit,Laat op Submit,unreviewed,frappe
-Allow only one session per user,Laat slechts één sessie per gebruiker,unreviewed,frappe
-Allow Overlap,Overlap toestaan,unreviewed,erpnext
-Allow Overtime,Laat Overwerk,unreviewed,erpnext
-Allow page break inside tables,Laat pagina-einde in tabellen,unreviewed,frappe
-Allow Print,laat Print,unreviewed,frappe
-Allow Print for Cancelled,Laat Print voor Geannuleerde,unreviewed,frappe
-Allow Print for Draft,Laat Print voor Draft,unreviewed,frappe
-Allow Production on Holidays,Laat Productie op vakantie,unreviewed,erpnext
-Allow Purchase Invoice Creation Without Purchase Order,Sta het aanmaken van een inkoopfactuur toe zonder inkooporder,unreviewed,erpnext
-Allow Purchase Invoice Creation Without Purchase Receipt,Aanmaak van inkoopfacturen toestaan zonder aankoopbewijs,unreviewed,erpnext
-Allow Read On All Link Options,Lees verder over alle linkopties,unreviewed,frappe
-Allow Rename,Laat hernoemen,unreviewed,frappe
-Allow Rename Attribute Value,Toestaan Rename attribuutwaarde toestaan,unreviewed,erpnext
-Allow Resetting Service Level Agreement,Sta resetten Service Level Agreement toe,unreviewed,erpnext
-Allow Resetting Service Level Agreement from Support Settings.,Sta Resetten Service Level Agreement toe vanuit ondersteuningsinstellingen.,unreviewed,erpnext
-Allow Roles,laat Rollen,unreviewed,frappe
-Allow Sales Invoice Creation Without Delivery Note,Maken van verkoopfacturen mogelijk zonder leveringsnota,unreviewed,erpnext
-Allow Sales Invoice Creation Without Sales Order,Maken van verkoopfacturen mogelijk zonder verkooporder,unreviewed,erpnext
-Allow saving if mandatory fields are not filled,Laat het opslaan als verplichte velden niet zijn ingevuld,unreviewed,frappe
-Allow Self Approval,Toestaan zelf-goedkeuring,unreviewed,frappe
-Allow Self Enroll,Zelfinschrijving toestaan,unreviewed,erpnext
-Allow Stale Exchange Rates,Staale wisselkoersen toestaan,unreviewed,erpnext
-Allow Stock Consumption,Voorraadconsumptie toestaan,unreviewed,erpnext
-Allow User to Edit Price List Rate in Transactions,Gebruiker toestaan prijslijsttarief in transacties te bewerken,unreviewed,erpnext
-Allow user to login only after this hour (0-24),Gebruiker mag alleen inloggen na dit uur (0-24),unreviewed,frappe
-Allow user to login only before this hour (0-24),Gebruiker mag alleen inloggen voor dit uur (0-24),unreviewed,frappe
-Allow Zero Valuation Rate,Zero waarderingspercentage toestaan,unreviewed,erpnext
-Allowed,Toegestaan,unreviewed,frappe
-Allowed In Mentions,Toegestaan in vermeldingen,unreviewed,frappe
-Allowed To Transact With,Toegestaan om mee te handelen,unreviewed,erpnext
-"Allowing DocType, DocType. Be careful!","Het toestaan DocType , DocType . Wees voorzichtig !",unreviewed,frappe
-already exists,bestaat al,unreviewed,erpnext
-Already in the following Users ToDo list:{0},Staat al in de volgende takenlijst van gebruikers: {0},unreviewed,frappe
-Already record exists for the item {0},Er bestaat al record voor het item {0},unreviewed,erpnext
-Already Registered,Reeds geregistreerd,unreviewed,frappe
-"Already set default in pos profile {0} for user {1}, kindly disabled default","Al ingesteld standaard in pos profiel {0} voor gebruiker {1}, vriendelijk uitgeschakeld standaard",unreviewed,erpnext
-Also adding the dependent currency field {0},Ook het afhankelijke valutaveld {0} toevoegen,unreviewed,frappe
-Also adding the status dependency field {0},Ook wordt het statusafhankelijkheidsveld {0} toegevoegd,unreviewed,frappe
-Alternate Item,Alternatief item,unreviewed,erpnext
-Alternative Item Code,Alternatieve artikelcode,unreviewed,erpnext
-Alternative item must not be same as item code,Alternatief artikel mag niet hetzelfde zijn als artikelcode,unreviewed,erpnext
-Alternative Item Name,Alternatieve artikelnaam,unreviewed,erpnext
-"Always add ""Draft"" Heading for printing draft documents",Voeg altijd &quot;Concept&quot; Heading for printing conceptdocumenten,unreviewed,frappe
+Allocated Amount,Toegewezen bedrag,reviewed,erpnext
+Allocated amount,Toegewezen bedrag,reviewed,erpnext
+Allocated amount cannot be greater than unadjusted amount,Toegewezen bedrag kan niet groter zijn dan niet-aangepast bedrag,reviewed,erpnext
+Allocated amount cannot be negative,Toegewezen bedrag kan niet negatief zijn,reviewed,erpnext
+Allocated To,Toegewezen aan,reviewed,frappe
+Allocating leaves...,Bladeren toewijzen ...,reviewed,erpnext
+Allocation,Toewijzing,reviewed,erpnext
+Allot Points To Assigned Users,Wijs punten toe aan toegewezen gebruikers,reviewed,frappe
+Allotted Qty,Toegewezen aantal,reviewed,erpnext
+Allow,Toestaan,reviewed,frappe
+Allow Account Creation Against Child Company,Account aanmaken tegen kinderbedrijf toestaan,reviewed,erpnext
+Allow Alternative Item,Toestaan alternatief item,reviewed,erpnext
+Allow API Indexing Access,Toegang tot API-indexering toestaan,reviewed,frappe
+Allow Appointments,Afspraken toestaan,reviewed,erpnext
+Allow approval for creator of the document,Sta goedkeuring toe voor maker van het document,reviewed,frappe
+Allow Auto Repeat,Automatisch herhalen toestaan,reviewed,frappe
+Allow Blank,Blanco toestaan,reviewed,erpnext
+Allow Bulk Edit,Laat Bulk Bewerken toe,reviewed,frappe
+Allow Comments,Laat Reacties,reviewed,frappe
+Allow Consecutive Login Attempts,Sta opeenvolgende inlogpogingen toe,reviewed,frappe
+Allow Delete,Laat Verwijderen,reviewed,frappe
+Allow document creation via Email,Sta documentcreatie via e-mail toe,reviewed,frappe
+Allow Dropbox Access,Laat Dropbox Access,reviewed,frappe
+Allow Edit,Laat bewerken,reviewed,frappe
+Allow events in timeline,Laat gebeurtenissen toe in de tijdlijn,reviewed,frappe
+Allow Google Calendar Access,Google Agenda-toegang toestaan,reviewed,frappe
+Allow Google Contacts Access,Google Contacten toegang toestaan,reviewed,frappe
+Allow Google Drive Access,Laat Google Drive Access,reviewed,frappe
+Allow Google Indexing Access,Sta Google Indexing Access toe,reviewed,frappe
+Allow Guest,Gast toestaan,reviewed,frappe
+Allow Guest to View,Laat Gast te bekijken,reviewed,frappe
+Allow Guests to Upload Files,Sta gasten toe bestanden te uploaden,reviewed,frappe
+Allow Import (via Data Import Tool),Laat Import (via gegevens importeren Tool),reviewed,frappe
+Allow in Quick Entry,Toestaan bij snel invoeren,reviewed,frappe
+Allow In Returns,Sta in retouren toe,reviewed,erpnext
+Allow Incomplete Forms,Laat Onvolledig ingevulde formulieren,reviewed,frappe
+Allow Item To Be Added Multiple Times in a Transaction,Toestaan dat item meerdere keren aan een transactie wordt toegevoegd,reviewed,erpnext
+Allow Item to Be Added Multiple Times in a Transaction,Toestaan dat item meerdere keren aan een transactie wordt toegevoegd,reviewed,erpnext
+Allow items not in stock to be added to cart,Toestaan dat artikelen die niet op voorraad zijn aan winkelwagen worden toegevoegd,reviewed,erpnext
+Allow Login After Fail,Aanmelden na mislukken toestaan,reviewed,frappe
+Allow Login using Mobile Number,Log in met Mobielnummer,reviewed,frappe
+Allow Login using User Name,Log in met gebruikersnaam,reviewed,frappe
+Allow Material Transfer from Delivery Note to Sales Invoice,Materiaaloverdracht van afleveringsbon naar verkoopfactuur toestaan,reviewed,erpnext
+Allow Material Transfer from Purchase Receipt to Purchase Invoice,Materiaaloverdracht van inkoopontvangst naar inkoopfactuur toestaan,reviewed,erpnext
+Allow Modules,Modules toestaan,reviewed,frappe
+Allow Monthly Depreciation,Maandelijkse afschrijving toestaan,reviewed,erpnext
+Allow Multiple,Laat Meerdere,reviewed,frappe
+Allow Multiple Material Consumption,Sta meerdere materiaalconsumptie toe,reviewed,erpnext
+Allow multiple material consumptions against a Work Order,Sta meerdere materiaalconsumptie toe op basis van een werkorder,reviewed,erpnext
+Allow Multiple Sales Orders Against a Customer's Purchase Order,Meerdere verkooporders toestaan tegen de inkooporder van een klant,reviewed,erpnext
+Allow Negative Stock,Laat Negatieve voorraad,reviewed,erpnext
+Allow on Submit,Laat op Submit,reviewed,frappe
+Allow only one session per user,Laat slechts één sessie per gebruiker,reviewed,frappe
+Allow Overlap,Overlap toestaan,reviewed,erpnext
+Allow Overtime,Laat Overwerk,reviewed,erpnext
+Allow page break inside tables,Laat pagina-einde in tabellen,reviewed,frappe
+Allow Print,laat Print,reviewed,frappe
+Allow Print for Cancelled,Laat Print voor Geannuleerde,reviewed,frappe
+Allow Print for Draft,Laat Print voor Draft,reviewed,frappe
+Allow Production on Holidays,Laat Productie op vakantie,reviewed,erpnext
+Allow Purchase Invoice Creation Without Purchase Order,Sta het aanmaken van een inkoopfactuur toe zonder inkooporder,reviewed,erpnext
+Allow Purchase Invoice Creation Without Purchase Receipt,Aanmaak van inkoopfacturen toestaan zonder aankoopbewijs,reviewed,erpnext
+Allow Read On All Link Options,Lees verder over alle linkopties,reviewed,frappe
+Allow Rename,Laat hernoemen,reviewed,frappe
+Allow Rename Attribute Value,Toestaan Rename attribuutwaarde toestaan,reviewed,erpnext
+Allow Resetting Service Level Agreement,Sta resetten Service Level Agreement toe,reviewed,erpnext
+Allow Resetting Service Level Agreement from Support Settings.,Sta Resetten Service Level Agreement toe vanuit ondersteuningsinstellingen.,reviewed,erpnext
+Allow Roles,laat Rollen,reviewed,frappe
+Allow Sales Invoice Creation Without Delivery Note,Maken van verkoopfacturen mogelijk zonder leveringsnota,reviewed,erpnext
+Allow Sales Invoice Creation Without Sales Order,Maken van verkoopfacturen mogelijk zonder verkooporder,reviewed,erpnext
+Allow saving if mandatory fields are not filled,Laat het opslaan als verplichte velden niet zijn ingevuld,reviewed,frappe
+Allow Self Approval,Toestaan zelf-goedkeuring,reviewed,frappe
+Allow Self Enroll,Zelfinschrijving toestaan,reviewed,erpnext
+Allow Stale Exchange Rates,Staale wisselkoersen toestaan,reviewed,erpnext
+Allow Stock Consumption,Voorraadconsumptie toestaan,reviewed,erpnext
+Allow User to Edit Price List Rate in Transactions,Gebruiker toestaan prijslijsttarief in transacties te bewerken,reviewed,erpnext
+Allow user to login only after this hour (0-24),Gebruiker mag alleen inloggen na dit uur (0-24),reviewed,frappe
+Allow user to login only before this hour (0-24),Gebruiker mag alleen inloggen voor dit uur (0-24),reviewed,frappe
+Allow Zero Valuation Rate,Zero waarderingspercentage toestaan,reviewed,erpnext
+Allowed,Toegestaan,reviewed,frappe
+Allowed In Mentions,Toegestaan in vermeldingen,reviewed,frappe
+Allowed To Transact With,Toegestaan om mee te handelen,reviewed,erpnext
+"Allowing DocType, DocType. Be careful!","Het toestaan DocType , DocType . Wees voorzichtig !",reviewed,frappe
+already exists,bestaat al,reviewed,erpnext
+Already in the following Users ToDo list:{0},Staat al in de volgende takenlijst van gebruikers: {0},reviewed,frappe
+Already record exists for the item {0},Er bestaat al record voor het item {0},reviewed,erpnext
+Already Registered,Reeds geregistreerd,reviewed,frappe
+"Already set default in pos profile {0} for user {1}, kindly disabled default","Al ingesteld standaard in pos profiel {0} voor gebruiker {1}, vriendelijk uitgeschakeld standaard",reviewed,erpnext
+Also adding the dependent currency field {0},Ook het afhankelijke valutaveld {0} toevoegen,reviewed,frappe
+Also adding the status dependency field {0},Ook wordt het statusafhankelijkheidsveld {0} toegevoegd,reviewed,frappe
+Alternate Item,Alternatief item,reviewed,erpnext
+Alternative Item Code,Alternatieve artikelcode,reviewed,erpnext
+Alternative item must not be same as item code,Alternatief artikel mag niet hetzelfde zijn als artikelcode,reviewed,erpnext
+Alternative Item Name,Alternatieve artikelnaam,reviewed,erpnext
+"Always add ""Draft"" Heading for printing draft documents",Voeg altijd &quot;Concept&quot; Heading for printing conceptdocumenten,reviewed,frappe
 Always sync your products from Amazon MWS before synching the Orders details,Synchroniseer altijd uw producten van Amazon MWS voordat u de bestelgegevens synchroniseert,unreviewed,erpnext
 Always use Account's Email Address as Sender,Gebruik altijd Account E-mailadres als afzender,unreviewed,frappe
 Always use Account's Name as Sender's Name,Gebruik altijd de accountnaam als afzendernaam,unreviewed,frappe

@@ -8650,104 +8650,104 @@ Review Levels,Beoordeling niveaus,reviewed,frappe
 Review Points,Review punten,reviewed,frappe
 Review Points:,Beoordelingspunten:,reviewed,frappe
 Reviews,beoordelingen,reviewed,both
-Revoke,Intrekken,reviewed,frappe
-Revoke <Key></Key>,Intrekken&lt;Key&gt;&lt;/Key&gt;,reviewed,erpnext
-Revoked,herroepen,reviewed,frappe
-RFQs are not allowed for {0} due to a scorecard standing of {1},RFQ&#39;s zijn niet toegestaan voor {0} door een scorecard van {1},reviewed,erpnext
-rgt,RGT,reviewed,erpnext
-Right,Rechts,reviewed,frappe
-Right Index,Rechter Index,reviewed,erpnext
-Ringing,rinkelen,reviewed,erpnext
-Risk Factors,Risicofactoren,reviewed,erpnext
-Road,Weg,reviewed,erpnext
-road,weg,reviewed,frappe
-Robots.txt,robots.txt,reviewed,frappe
-Role,Rol,reviewed,frappe
-Role Allowed to Edit Frozen Stock,Rol toegestaan om bevroren voorraad te bewerken,reviewed,erpnext
-Role Allowed to Set Frozen Accounts and Edit Frozen Entries,Rol toegestaan om bevroren accounts in te stellen en bevroren items te bewerken,reviewed,erpnext
-Role and Level,Rol en Niveau,reviewed,frappe
-Role Name,Rolnaam,reviewed,frappe
-Role Permission for Page and Report,Rol Toestemming voor pagina en het verslag,reviewed,frappe
-Role Permissions,Rol Machtigingen,reviewed,frappe
-Role Permissions Manager,Rol Machtigingen Manager,reviewed,frappe
-Role Profile,Rolprofiel,reviewed,frappe
-Roles,Rollen,reviewed,frappe
-Roles Assigned,Toegewezen Rollen,reviewed,frappe
-Roles can be set for users from their User page.,Rollen kunnen worden ingesteld voor gebruikers vanaf hun gebruikers pagina .,reviewed,frappe
-Roles HTML,Rollen HTML,reviewed,frappe
-Roles Html,Rollen Html,reviewed,frappe
-Room,Kamer,reviewed,both
-Room Name,Kamer naam,reviewed,erpnext
-Room Number,Kamernummer,reviewed,erpnext
-Room Type,Kamertype,reviewed,both
-Rooms Booked,Kamers geboekt,reviewed,erpnext
-Root cannot be edited.,Root kan niet worden bewerkt .,reviewed,erpnext
-Root cannot have a parent cost center,Root kan niet een bovenliggende kostenplaats hebben,reviewed,erpnext
-Root Type,Hoofdtype,reviewed,custom
-Root Type is mandatory,Root Type is verplicht,reviewed,erpnext
-Root {0} cannot be deleted,Root {0} kan niet worden verwijderd,reviewed,frappe
-Round Off,Afronden,reviewed,erpnext
-Round Off Account,Afronden Account,reviewed,erpnext
-Round Off Cost Center,Afronden kostenplaats,reviewed,erpnext
-Round Robin,Rond Robin,reviewed,frappe
-Rounded Total,Afgerond totaal,reviewed,erpnext
-Rounded Total (Company Currency),Afgerond Totaal (Bedrijfsvaluta),reviewed,erpnext
-Rounding Adjustment,Afrondingsverschil,reviewed,erpnext
-Rounding Adjustment (Company Currency,Afronding aanpassing (bedrijfsmunt,reviewed,erpnext
-Rounding Adjustment (Company Currency),Afronding aanpassing (bedrijfsmunt),reviewed,erpnext
-Route History,Route geschiedenis,reviewed,frappe
-Route Redirects,Route omleidingen,reviewed,frappe
-Route to Success Link,Route naar succeskoppeling,reviewed,frappe
-"Route: Example ""/desk""",Route: Voorbeeld &quot;/ desk&quot;,reviewed,frappe
-Routing Name,Naam van routering,reviewed,erpnext
-Row,Rij,reviewed,frappe
-Row #,Rij #,reviewed,both
-Row # {0}:,Rij # {0}:,reviewed,erpnext
-Row # {0}: Batch No must be same as {1} {2},Rij # {0}: Batch Geen moet hetzelfde zijn als zijn {1} {2},reviewed,erpnext
-Row # {0}: Cannot return more than {1} for Item {2},Rij # {0}: Kan niet meer dan terugkeren {1} voor post {2},reviewed,erpnext
-Row # {0}: Rate cannot be greater than the rate used in {1} {2},Rij # {0}: De tarief kan niet groter zijn dan de tarief die wordt gebruikt in {1} {2},reviewed,erpnext
-Row # {0}: Returned Item {1} does not exist in {2} {3},Rij # {0}: geretourneerd item {1} bestaat niet in {2} {3},reviewed,erpnext
-Row # {0}: Serial No is mandatory,Rij # {0}: serienummer is verplicht,reviewed,erpnext
-Row # {0}: Serial No {1} does not match with {2} {3},Rij # {0}: Serienummer {1} komt niet overeen met {2} {3},reviewed,erpnext
-Row #{0} (Payment Table): Amount must be negative,Rij # {0} (betalingstabel): bedrag moet negatief zijn,reviewed,erpnext
-Row #{0} (Payment Table): Amount must be positive,Rij # {0} (betalingstabel): bedrag moet positief zijn,reviewed,erpnext
-Row #{0}:,Rij # {0}:,reviewed,frappe
-Row #{0}: Accepted Warehouse and Supplier Warehouse cannot be same,Rij # {0}: Geaccepteerd magazijn en leveranciersmagazijn kunnen niet hetzelfde zijn,reviewed,erpnext
-Row #{0}: Account {1} does not belong to company {2},Rij # {0}: account {1} hoort niet bij bedrijf {2},reviewed,erpnext
-Row #{0}: Allocated Amount cannot be greater than outstanding amount.,Rij # {0}: Toegewezen bedrag mag niet groter zijn dan het uitstaande bedrag.,reviewed,erpnext
-"Row #{0}: Asset {1} cannot be submitted, it is already {2}","Rij # {0}: Asset {1} kan niet worden ingediend, is het al {2}",reviewed,erpnext
-Row #{0}: Cannot delete item {1} which has already been billed.,Rij # {0}: kan item {1} dat al is gefactureerd niet verwijderen.,reviewed,erpnext
-Row #{0}: Cannot delete item {1} which has already been delivered,Rij # {0}: kan item {1} dat al is afgeleverd niet verwijderen,reviewed,erpnext
-Row #{0}: Cannot delete item {1} which has already been received,Rij # {0}: kan item {1} dat al is ontvangen niet verwijderen,reviewed,erpnext
-Row #{0}: Cannot delete item {1} which has work order assigned to it.,Rij # {0}: kan item {1} niet verwijderen waaraan een werkorder is toegewezen.,reviewed,erpnext
-Row #{0}: Cannot delete item {1} which is assigned to customer's purchase order.,Rij # {0}: kan item {1} dat is toegewezen aan de bestelling van de klant niet verwijderen.,reviewed,erpnext
-Row #{0}: Cannot select Supplier Warehouse while suppling raw materials to subcontractor,Rij # {0}: Kan leveranciersmagazijn niet selecteren tijdens het leveren van grondstoffen aan onderaannemer,reviewed,erpnext
-Row #{0}: Cannot set Rate if amount is greater than billed amount for Item {1}.,Rij # {0}: kan Tarief niet instellen als het bedrag groter is dan het gefactureerde bedrag voor artikel {1}.,reviewed,erpnext
-Row #{0}: Check Out datetime cannot be less than Check In datetime,Rij # {0}: datetime voor uitchecken kan niet minder zijn dan datetime voor inchecken,reviewed,erpnext
-Row #{0}: Child Item should not be a Product Bundle. Please remove Item {1} and Save,Rij # {0}: onderliggend item mag geen productbundel zijn. Verwijder item {1} en sla het op,reviewed,erpnext
-Row #{0}: Clearance date {1} cannot be before Cheque Date {2},Rij # {0}: Clearance date {1} kan niet vóór Cheque Date {2},reviewed,erpnext
-Row #{0}: Conversion Factor is mandatory,Rij # {0}: conversiefactor is verplicht,reviewed,erpnext
-Row #{0}: Cost Center {1} does not belong to company {2},Rij # {0}: Kostenplaats {1} hoort niet bij bedrijf {2},reviewed,erpnext
-Row #{0}: Duplicate entry in References {1} {2},Rij # {0}: Duplicate entry in Referenties {1} {2},reviewed,erpnext
-Row #{0}: Expected Delivery Date cannot be before Purchase Order Date,Rij # {0}: Verwachte Afleverdatum kan niet vóór de Aankoopdatum zijn,reviewed,erpnext
-Row #{0}: Invalid Local Fieldname,Rij # {0}: ongeldige lokale veldnaam,reviewed,frappe
-Row #{0}: Item added,Rij # {0}: item toegevoegd,reviewed,erpnext
-Row #{0}: Item {1} is already fully received in Purchase Order {2},Rij # {0}: artikel {1} is al volledig ontvangen in inkooporder {2},reviewed,erpnext
-Row #{0}: Item {1} is not a Serialized/Batched Item. It cannot have a Serial No/Batch No against it.,Rij # {0}: artikel {1} is geen geserialiseerd / batch artikel. Het kan geen serienummer / batchnummer hebben.,reviewed,erpnext
-Row #{0}: Journal Entry {1} does not have account {2} or already matched against another voucher,Rij # {0}: Journal Entry {1} heeft geen account {2} of al vergeleken met een ander voucher,reviewed,erpnext
-Row #{0}: Not allowed to change Supplier as Purchase Order already exists,Rij # {0}: Niet toegestaan om van leverancier te veranderen als bestelling al bestaat,reviewed,erpnext
-Row #{0}: Operation {1} is not completed for {2} qty of finished goods in Work Order {3}. Please update operation status via Job Card {4}.,Rij # {0}: bewerking {1} is niet voltooid voor {2} aantal voltooide goederen in werkorder {3}. Werk de bedieningsstatus bij via opdrachtkaart {4}.,reviewed,erpnext
-Row #{0}: Payment document is required to complete the transaction,Rij # {0}: Betalingsdocument is vereist om de transactie te voltooien,reviewed,erpnext
-Row #{0}: Please enter the result value for {1},Rij # {0}: voer de resultaatwaarde in voor {1},reviewed,erpnext
-Row #{0}: Please set Mapping or Default Value for the field {1} since its a dependency field,Rij # {0}: stel de toewijzing of standaardwaarde in voor het veld {1} aangezien het een afhankelijkheidsveld is,reviewed,frappe
-Row #{0}: Please set remote value filters for the field {1} to fetch the unique remote dependency document,Rij # {0}: stel filters voor externe waarden in voor het veld {1} om het unieke externe afhankelijkheidsdocument op te halen,reviewed,frappe
-Row #{0}: Please set reorder quantity,Rij # {0}: Stel nabestelling hoeveelheid,reviewed,erpnext
-Row #{0}: Please specify Serial No for Item {1},Rij #{0}: Voer serienummer in voor artikel {1},reviewed,erpnext
-Row #{0}: Qty increased by 1,Rij # {0}: aantal verhoogd met 1,reviewed,erpnext
-Row #{0}: Quantity for Item {1} cannot be zero.,Rij # {0}: Artikelhoeveelheid voor item {1} kan niet nul zijn.,reviewed,erpnext
-Row #{0}: Rate must be same as {1}: {2} ({3} / {4}),Rij # {0}: Beoordeel moet hetzelfde zijn als zijn {1}: {2} ({3} / {4}),reviewed,erpnext
-Row #{0}: Reference Document Type must be one of Expense Claim or Journal Entry,Rij # {0}: Referentiedocumenttype moet één van de kostenrekening of het journaalboekje zijn,reviewed,erpnext
-"Row #{0}: Reference Document Type must be one of Purchase Order, Purchase Invoice or Journal Entry","Rij # {0}: Reference document moet een van Purchase Order, Purchase Invoice of Inboeken zijn",reviewed,erpnext
+Revoke,Intrekken,unreviewed,frappe
+Revoke <Key></Key>,Intrekken&lt;Key&gt;&lt;/Key&gt;,unreviewed,erpnext
+Revoked,herroepen,unreviewed,frappe
+RFQs are not allowed for {0} due to a scorecard standing of {1},RFQ&#39;s zijn niet toegestaan voor {0} door een scorecard van {1},unreviewed,erpnext
+rgt,RGT,unreviewed,erpnext
+Right,Rechts,unreviewed,frappe
+Right Index,Rechter Index,unreviewed,erpnext
+Ringing,rinkelen,unreviewed,erpnext
+Risk Factors,Risicofactoren,unreviewed,erpnext
+Road,Weg,unreviewed,erpnext
+road,weg,unreviewed,frappe
+Robots.txt,robots.txt,unreviewed,frappe
+Role,Rol,unreviewed,frappe
+Role Allowed to Edit Frozen Stock,Rol toegestaan om bevroren voorraad te bewerken,unreviewed,erpnext
+Role Allowed to Set Frozen Accounts and Edit Frozen Entries,Rol toegestaan om bevroren accounts in te stellen en bevroren items te bewerken,unreviewed,erpnext
+Role and Level,Rol en Niveau,unreviewed,frappe
+Role Name,Rolnaam,unreviewed,frappe
+Role Permission for Page and Report,Rol Toestemming voor pagina en het verslag,unreviewed,frappe
+Role Permissions,Rol Machtigingen,unreviewed,frappe
+Role Permissions Manager,Rol Machtigingen Manager,unreviewed,frappe
+Role Profile,Rolprofiel,unreviewed,frappe
+Roles,Rollen,unreviewed,frappe
+Roles Assigned,Toegewezen Rollen,unreviewed,frappe
+Roles can be set for users from their User page.,Rollen kunnen worden ingesteld voor gebruikers vanaf hun gebruikers pagina .,unreviewed,frappe
+Roles HTML,Rollen HTML,unreviewed,frappe
+Roles Html,Rollen Html,unreviewed,frappe
+Room,Kamer,unreviewed,both
+Room Name,Kamer naam,unreviewed,erpnext
+Room Number,Kamernummer,unreviewed,erpnext
+Room Type,Kamertype,unreviewed,both
+Rooms Booked,Kamers geboekt,unreviewed,erpnext
+Root cannot be edited.,Root kan niet worden bewerkt .,unreviewed,erpnext
+Root cannot have a parent cost center,Root kan niet een bovenliggende kostenplaats hebben,unreviewed,erpnext
+Root Type,Hoofdtype,unreviewed,custom
+Root Type is mandatory,Root Type is verplicht,unreviewed,erpnext
+Root {0} cannot be deleted,Root {0} kan niet worden verwijderd,unreviewed,frappe
+Round Off,Afronden,unreviewed,erpnext
+Round Off Account,Afronden Account,unreviewed,erpnext
+Round Off Cost Center,Afronden kostenplaats,unreviewed,erpnext
+Round Robin,Rond Robin,unreviewed,frappe
+Rounded Total,Afgerond totaal,unreviewed,erpnext
+Rounded Total (Company Currency),Afgerond Totaal (Bedrijfsvaluta),unreviewed,erpnext
+Rounding Adjustment,Afrondingsverschil,unreviewed,erpnext
+Rounding Adjustment (Company Currency,Afronding aanpassing (bedrijfsmunt,unreviewed,erpnext
+Rounding Adjustment (Company Currency),Afronding aanpassing (bedrijfsmunt),unreviewed,erpnext
+Route History,Route geschiedenis,unreviewed,frappe
+Route Redirects,Route omleidingen,unreviewed,frappe
+Route to Success Link,Route naar succeskoppeling,unreviewed,frappe
+"Route: Example ""/desk""",Route: Voorbeeld &quot;/ desk&quot;,unreviewed,frappe
+Routing Name,Naam van routering,unreviewed,erpnext
+Row,Rij,unreviewed,frappe
+Row #,Rij #,unreviewed,both
+Row # {0}:,Rij # {0}:,unreviewed,erpnext
+Row # {0}: Batch No must be same as {1} {2},Rij # {0}: Batch Geen moet hetzelfde zijn als zijn {1} {2},unreviewed,erpnext
+Row # {0}: Cannot return more than {1} for Item {2},Rij # {0}: Kan niet meer dan terugkeren {1} voor post {2},unreviewed,erpnext
+Row # {0}: Rate cannot be greater than the rate used in {1} {2},Rij # {0}: De tarief kan niet groter zijn dan de tarief die wordt gebruikt in {1} {2},unreviewed,erpnext
+Row # {0}: Returned Item {1} does not exist in {2} {3},Rij # {0}: geretourneerd item {1} bestaat niet in {2} {3},unreviewed,erpnext
+Row # {0}: Serial No is mandatory,Rij # {0}: serienummer is verplicht,unreviewed,erpnext
+Row # {0}: Serial No {1} does not match with {2} {3},Rij # {0}: Serienummer {1} komt niet overeen met {2} {3},unreviewed,erpnext
+Row #{0} (Payment Table): Amount must be negative,Rij # {0} (betalingstabel): bedrag moet negatief zijn,unreviewed,erpnext
+Row #{0} (Payment Table): Amount must be positive,Rij # {0} (betalingstabel): bedrag moet positief zijn,unreviewed,erpnext
+Row #{0}:,Rij # {0}:,unreviewed,frappe
+Row #{0}: Accepted Warehouse and Supplier Warehouse cannot be same,Rij # {0}: Geaccepteerd magazijn en leveranciersmagazijn kunnen niet hetzelfde zijn,unreviewed,erpnext
+Row #{0}: Account {1} does not belong to company {2},Rij # {0}: account {1} hoort niet bij bedrijf {2},unreviewed,erpnext
+Row #{0}: Allocated Amount cannot be greater than outstanding amount.,Rij # {0}: Toegewezen bedrag mag niet groter zijn dan het uitstaande bedrag.,unreviewed,erpnext
+"Row #{0}: Asset {1} cannot be submitted, it is already {2}","Rij # {0}: Asset {1} kan niet worden ingediend, is het al {2}",unreviewed,erpnext
+Row #{0}: Cannot delete item {1} which has already been billed.,Rij # {0}: kan item {1} dat al is gefactureerd niet verwijderen.,unreviewed,erpnext
+Row #{0}: Cannot delete item {1} which has already been delivered,Rij # {0}: kan item {1} dat al is afgeleverd niet verwijderen,unreviewed,erpnext
+Row #{0}: Cannot delete item {1} which has already been received,Rij # {0}: kan item {1} dat al is ontvangen niet verwijderen,unreviewed,erpnext
+Row #{0}: Cannot delete item {1} which has work order assigned to it.,Rij # {0}: kan item {1} niet verwijderen waaraan een werkorder is toegewezen.,unreviewed,erpnext
+Row #{0}: Cannot delete item {1} which is assigned to customer's purchase order.,Rij # {0}: kan item {1} dat is toegewezen aan de bestelling van de klant niet verwijderen.,unreviewed,erpnext
+Row #{0}: Cannot select Supplier Warehouse while suppling raw materials to subcontractor,Rij # {0}: Kan leveranciersmagazijn niet selecteren tijdens het leveren van grondstoffen aan onderaannemer,unreviewed,erpnext
+Row #{0}: Cannot set Rate if amount is greater than billed amount for Item {1}.,Rij # {0}: kan Tarief niet instellen als het bedrag groter is dan het gefactureerde bedrag voor artikel {1}.,unreviewed,erpnext
+Row #{0}: Check Out datetime cannot be less than Check In datetime,Rij # {0}: datetime voor uitchecken kan niet minder zijn dan datetime voor inchecken,unreviewed,erpnext
+Row #{0}: Child Item should not be a Product Bundle. Please remove Item {1} and Save,Rij # {0}: onderliggend item mag geen productbundel zijn. Verwijder item {1} en sla het op,unreviewed,erpnext
+Row #{0}: Clearance date {1} cannot be before Cheque Date {2},Rij # {0}: Clearance date {1} kan niet vóór Cheque Date {2},unreviewed,erpnext
+Row #{0}: Conversion Factor is mandatory,Rij # {0}: conversiefactor is verplicht,unreviewed,erpnext
+Row #{0}: Cost Center {1} does not belong to company {2},Rij # {0}: Kostenplaats {1} hoort niet bij bedrijf {2},unreviewed,erpnext
+Row #{0}: Duplicate entry in References {1} {2},Rij # {0}: Duplicate entry in Referenties {1} {2},unreviewed,erpnext
+Row #{0}: Expected Delivery Date cannot be before Purchase Order Date,Rij # {0}: Verwachte Afleverdatum kan niet vóór de Aankoopdatum zijn,unreviewed,erpnext
+Row #{0}: Invalid Local Fieldname,Rij # {0}: ongeldige lokale veldnaam,unreviewed,frappe
+Row #{0}: Item added,Rij # {0}: item toegevoegd,unreviewed,erpnext
+Row #{0}: Item {1} is already fully received in Purchase Order {2},Rij # {0}: artikel {1} is al volledig ontvangen in inkooporder {2},unreviewed,erpnext
+Row #{0}: Item {1} is not a Serialized/Batched Item. It cannot have a Serial No/Batch No against it.,Rij # {0}: artikel {1} is geen geserialiseerd / batch artikel. Het kan geen serienummer / batchnummer hebben.,unreviewed,erpnext
+Row #{0}: Journal Entry {1} does not have account {2} or already matched against another voucher,Rij # {0}: Journal Entry {1} heeft geen account {2} of al vergeleken met een ander voucher,unreviewed,erpnext
+Row #{0}: Not allowed to change Supplier as Purchase Order already exists,Rij # {0}: Niet toegestaan om van leverancier te veranderen als bestelling al bestaat,unreviewed,erpnext
+Row #{0}: Operation {1} is not completed for {2} qty of finished goods in Work Order {3}. Please update operation status via Job Card {4}.,Rij # {0}: bewerking {1} is niet voltooid voor {2} aantal voltooide goederen in werkorder {3}. Werk de bedieningsstatus bij via opdrachtkaart {4}.,unreviewed,erpnext
+Row #{0}: Payment document is required to complete the transaction,Rij # {0}: Betalingsdocument is vereist om de transactie te voltooien,unreviewed,erpnext
+Row #{0}: Please enter the result value for {1},Rij # {0}: voer de resultaatwaarde in voor {1},unreviewed,erpnext
+Row #{0}: Please set Mapping or Default Value for the field {1} since its a dependency field,Rij # {0}: stel de toewijzing of standaardwaarde in voor het veld {1} aangezien het een afhankelijkheidsveld is,unreviewed,frappe
+Row #{0}: Please set remote value filters for the field {1} to fetch the unique remote dependency document,Rij # {0}: stel filters voor externe waarden in voor het veld {1} om het unieke externe afhankelijkheidsdocument op te halen,unreviewed,frappe
+Row #{0}: Please set reorder quantity,Rij # {0}: Stel nabestelling hoeveelheid,unreviewed,erpnext
+Row #{0}: Please specify Serial No for Item {1},Rij #{0}: Voer serienummer in voor artikel {1},unreviewed,erpnext
+Row #{0}: Qty increased by 1,Rij # {0}: aantal verhoogd met 1,unreviewed,erpnext
+Row #{0}: Quantity for Item {1} cannot be zero.,Rij # {0}: Artikelhoeveelheid voor item {1} kan niet nul zijn.,unreviewed,erpnext
+Row #{0}: Rate must be same as {1}: {2} ({3} / {4}),Rij # {0}: Beoordeel moet hetzelfde zijn als zijn {1}: {2} ({3} / {4}),unreviewed,erpnext
+Row #{0}: Reference Document Type must be one of Expense Claim or Journal Entry,Rij # {0}: Referentiedocumenttype moet één van de kostenrekening of het journaalboekje zijn,unreviewed,erpnext
+"Row #{0}: Reference Document Type must be one of Purchase Order, Purchase Invoice or Journal Entry","Rij # {0}: Reference document moet een van Purchase Order, Purchase Invoice of Inboeken zijn",unreviewed,erpnext
 "Row #{0}: Reference Document Type must be one of Sales Order, Sales Invoice, Journal Entry or Dunning","Rij # {0}: het type referentiedocument moet een verkooporder, verkoopfactuur, journaalboeking of aanmaning zijn",unreviewed,erpnext
 Row #{0}: Rejected Qty can not be entered in Purchase Return,Rij # {0}: Afgekeurd Aantal niet in Purchase Return kunnen worden ingevoerd,unreviewed,erpnext
 Row #{0}: Rejected Warehouse is mandatory against rejected Item {1},Rij # {0}: Afgekeurd Warehouse is verplicht tegen verworpen Item {1},unreviewed,erpnext
@@ -8878,7 +8878,7 @@ Salary Mode,Salaris Modus,unreviewed,erpnext
 Salary Slip,Salarisstrook,unreviewed,erpnext
 Salary Slip submitted for period from {0} to {1},Salarisslip ingediend voor een periode van {0} tot {1},unreviewed,erpnext
 Salary Structure must be submitted before submission of Tax Ememption Declaration,De salarisstructuur moet worden ingediend voordat de belastingemissieverklaring wordt ingediend,unreviewed,erpnext
-Salary Withholding,Salarisinhouding,reviewed,custom
+Salary Withholding,Salarisinhouding,unreviewed,custom
 Sales,verkoop,unreviewed,erpnext
 Sales Account,Verkoopaccount,unreviewed,erpnext
 Sales Analytics,Verkoop analyse,unreviewed,erpnext
@@ -8888,7 +8888,7 @@ Sales Contributions and Incentives,Verkoopbijdragen en incentives,unreviewed,erp
 Sales Defaults,Standaard verkoopwaarden,unreviewed,erpnext
 Sales Details,Verkoop Details,unreviewed,erpnext
 Sales Expenses,Verkoopkosten,unreviewed,erpnext
-Sales Forecast,Verkoopprognose,reviewed,custom
+Sales Forecast,Verkoopprognose,unreviewed,custom
 Sales Funnel,Verkoop Trechter,unreviewed,erpnext
 Sales Invoice,Verkoopfactuur,unreviewed,erpnext
 Sales Invoice Advance,Verkoopfactuur Voorschot,unreviewed,erpnext
@@ -8925,10 +8925,10 @@ Sales Partner Name,Verkoop Partner Naam,unreviewed,erpnext
 Sales Partner Target,Verkoop Partner Doel,unreviewed,erpnext
 Sales Partner Target Variance based on Item Group,Doelafhankelijke verkooppartner op basis van artikelgroep,unreviewed,erpnext
 Sales Partner Transaction Summary,Verkooppartner Transactieoverzicht,unreviewed,erpnext
-Sales Partner Type,Verkooppartnertype,reviewed,erpnext
+Sales Partner Type,Verkooppartnertype,unreviewed,erpnext
 Sales Partners Commission,Verkoop Partners Commissie,unreviewed,erpnext
 Sales Payment Summary,Samenvatting verkoopbetaling,unreviewed,erpnext
-Sales Person,Verkoper,reviewed,erpnext
+Sales Person,Verkoper,unreviewed,erpnext
 Sales person,Verkoper,unreviewed,erpnext
 Sales Person Commission Summary,Verkooppersoon Samenvatting van de Commissie,unreviewed,erpnext
 Sales Person Name,Verkoper Naam,unreviewed,erpnext
@@ -8939,10 +8939,10 @@ Sales Price List,Sales Prijslijst,unreviewed,erpnext
 Sales Register,Verkoopregister,unreviewed,erpnext
 Sales Return,Terugkerende verkoop,unreviewed,erpnext
 Sales Settings,Verkoopinstellingen,unreviewed,erpnext
-Sales Stage,Verkoopfase,reviewed,erpnext
+Sales Stage,Verkoopfase,unreviewed,erpnext
 Sales Summary,Verkoopoverzicht,unreviewed,erpnext
 Sales Taxes and Charges,Verkoop Belasting en Toeslagen,unreviewed,erpnext
-Sales Taxes and Charges Template,Verkoopbelasting- en kostensjabloon,reviewed,erpnext
+Sales Taxes and Charges Template,Verkoopbelasting- en kostensjabloon,unreviewed,erpnext
 Sales Team,Verkoop team,unreviewed,erpnext
 Sales Team Details,Verkoop Team Details,unreviewed,erpnext
 Sales Team1,Verkoop Team1,unreviewed,erpnext
@@ -8984,7 +8984,7 @@ Save Item,Item opslaan,unreviewed,erpnext
 Save Quotations as Draft,Bewaar offertes als concept,unreviewed,erpnext
 Save Report,Rapport opslaan,unreviewed,frappe
 Saved,Opgeslagen,unreviewed,frappe
-Saved Filters,Opgeslagen filters,reviewed,custom
+Saved Filters,Opgeslagen filters,unreviewed,custom
 Saved Items,Opgeslagen items,unreviewed,erpnext
 Saved Successfully,Met succes opgeslagen,unreviewed,frappe
 Saving,Opslaan,unreviewed,frappe
@@ -9060,7 +9060,7 @@ Search Help,Zoek hulp,unreviewed,frappe
 Search in a document type,Zoek in een documenttype,unreviewed,frappe
 Search Items ...,Zoek items ...,unreviewed,erpnext
 Search or Create a New Chat,Zoek of maak een nieuwe chat,unreviewed,frappe
-Search or type a command,Zoek of typ een commando,reviewed,frappe
+Search or type a command,Zoek of typ een commando,unreviewed,frappe
 Search Priorities,Zoek prioriteiten,unreviewed,frappe
 Search Results,Zoekresultaten,unreviewed,erpnext
 Search Results for,Zoekresultaten voor,unreviewed,frappe
@@ -9068,7 +9068,7 @@ Search results for,zoekresultaten voor,unreviewed,both
 Search Source Text,Zoek brontekst,unreviewed,frappe
 Search Sub Assemblies,Zoeken Sub Assemblies,unreviewed,erpnext
 Search Term Param Name,Zoekterm Paramaam,unreviewed,erpnext
-Search...,Zoeken...,reviewed,frappe
+Search...,Zoeken...,unreviewed,frappe
 Searching,Zoeken,unreviewed,frappe
 Searching ...,Zoeken ...,unreviewed,frappe
 "Seasonality for setting budgets, targets etc.","Seizoensgebondenheid voor het vaststellen van budgetten, doelstellingen etc.",unreviewed,erpnext
@@ -9111,7 +9111,7 @@ Seems Publishable Key or Secret Key is wrong !!!,Lijkt Publicable Key of Secret 
 Seems token you are using is invalid!,Het lijkt erop dat het token dat u gebruikt ongeldig is!,unreviewed,frappe
 Seen By,Gezien door,unreviewed,frappe
 Seen By Table,Gezien door Table,unreviewed,frappe
-Select,Selecteren,reviewed,both
+Select,Selecteren,unreviewed,both
 Select a Brand Image first.,Selecteer eerst een merk Image.,unreviewed,frappe
 Select a chat to start messaging.,Selecteer een chat om berichten te verzenden.,unreviewed,frappe
 Select a Company,Selecteer een bedrijf,unreviewed,erpnext
@@ -9225,7 +9225,7 @@ Select your Domains,Selecteer uw domeinen,unreviewed,erpnext
 Select Your Region,Selecteer uw regio,unreviewed,frappe
 Select {0},Selecteer {0},unreviewed,frappe
 "Select, to make the customer searchable with these fields","Selecteer, om de klant doorzoekbaar te maken met deze velden",unreviewed,erpnext
-Selected,Geselecteerd,reviewed,custom
+Selected,Geselecteerd,unreviewed,custom
 Selected Option,Geselecteerde optie,unreviewed,erpnext
 Selected POS Opening Entry should be open.,Het geselecteerde POS-openingsitem moet open zijn.,unreviewed,erpnext
 Selected Price List should have buying and selling fields checked.,In de geselecteerde prijslijst moeten de velden voor kopen en verkopen worden gecontroleerd.,unreviewed,erpnext
@@ -9307,7 +9307,7 @@ Separator,Scheidingsteken,unreviewed,frappe
 September,september,unreviewed,erpnext
 Sequence ID,Volgorde-ID,unreviewed,erpnext
 Sequence Id,Volgorde-ID,unreviewed,erpnext
-Serial and Batch Bundle,Serie- en partijbundel,reviewed,custom
+Serial and Batch Bundle,Serie- en partijbundel,unreviewed,custom
 Serial No,Serienummer,unreviewed,erpnext
 Serial No / Batch,Serienummer / Batch,unreviewed,erpnext
 Serial No and Batch,Serienummer en batch,unreviewed,erpnext
@@ -9510,8 +9510,8 @@ share,aandeel,unreviewed,frappe
 Share Ledger,Deel Ledger,unreviewed,erpnext
 Share On,Delen op,unreviewed,erpnext
 Share this document with,Deel dit document met,unreviewed,frappe
-Share Transfer,Aandelenoverdracht,reviewed,erpnext
-Share Type,Aandeeltype,reviewed,erpnext
+Share Transfer,Aandelenoverdracht,unreviewed,erpnext
+Share Type,Aandeeltype,unreviewed,erpnext
 Share URL,Deel URL,unreviewed,frappe
 Share With,Delen met,unreviewed,frappe
 Share {0} with,Delen {0} met,unreviewed,frappe
@@ -9522,16 +9522,16 @@ Shared With,Gedeeld met,unreviewed,frappe
 Shared with everyone,Gedeeld met iedereen,unreviewed,frappe
 Shared with the following Users with Read access:{0},Gedeeld met de volgende gebruikers met leestoegang: {0},unreviewed,frappe
 Shared with {0},Gedeeld met {0},unreviewed,frappe
-Shareholder,Aandeelhouder,reviewed,erpnext
+Shareholder,Aandeelhouder,unreviewed,erpnext
 Shelf Life In Days,Houdbaarheid in dagen,unreviewed,erpnext
-Shift Location,Dienstlocatie,reviewed,custom
-Shift Request,Dienstaanvraag,reviewed,custom
-Shift Schedule,Dienstrooster,reviewed,custom
-Shift Schedule Assignment,Dienstrooster toewijzing,reviewed,custom
+Shift Location,Dienstlocatie,unreviewed,custom
+Shift Request,Dienstaanvraag,unreviewed,custom
+Shift Schedule,Dienstrooster,unreviewed,custom
+Shift Schedule Assignment,Dienstrooster toewijzing,unreviewed,custom
 Ship,Schip,unreviewed,erpnext
 Ship To State,Verzenden naar staat,unreviewed,erpnext
-Shipment,Zending,reviewed,custom
-Shipment Parcel Template,Zendingspakket sjabloon,reviewed,custom
+Shipment,Zending,unreviewed,custom
+Shipment Parcel Template,Zendingspakket sjabloon,unreviewed,custom
 Shipments,zendingen,unreviewed,erpnext
 Shipping,Logistiek,unreviewed,frappe
 Shipping Account,Verzending Rekening,unreviewed,erpnext
@@ -9545,7 +9545,7 @@ Shipping Bill Number,Verzendfactuurnummer,unreviewed,erpnext
 Shipping City,Verzending Stad,unreviewed,erpnext
 Shipping Country,Verzenden Land,unreviewed,erpnext
 Shipping County,verzending County,unreviewed,erpnext
-Shipping Rule,Verzendregel,reviewed,erpnext
+Shipping Rule,Verzendregel,unreviewed,erpnext
 Shipping Rule Condition,Verzendregel Voorwaarde,unreviewed,erpnext
 Shipping Rule Conditions,Verzendregel Voorwaarden,unreviewed,erpnext
 Shipping Rule Country,Verzenden Regel Land,unreviewed,erpnext
@@ -9605,11 +9605,11 @@ Show Inclusive Tax in Print,Toon inclusief belasting in print,unreviewed,erpnext
 Show Items,Show items,unreviewed,erpnext
 Show Keyboard Shortcuts,Sneltoetsen weergeven,unreviewed,frappe
 Show Latest Forum Posts,Toon laatste forumberichten,unreviewed,erpnext
-Show less,Minder tonen,reviewed,custom
+Show less,Minder tonen,unreviewed,custom
 Show Line Breaks after Sections,Show Line Breaks na Secties,unreviewed,frappe
 Show Linked Delivery Notes,Toon gekoppelde leveringsbonnen,unreviewed,erpnext
 Show Marks,Markeringen tonen,unreviewed,erpnext
-Show more,Meer tonen,reviewed,custom
+Show more,Meer tonen,unreviewed,custom
 Show More Activity,Meer activiteit weergeven,unreviewed,frappe
 Show more details,Toon meer details,unreviewed,frappe
 Show on Website,Weergeven op website,unreviewed,erpnext
@@ -9691,7 +9691,7 @@ Single unit of an Item.,Enkel exemplaar van een artikel.,unreviewed,erpnext
 Single Variant,Enkele variant,unreviewed,erpnext
 Site URL,Site-URL,unreviewed,frappe
 Size,Grootte,unreviewed,both
-Skill,Vaardigheid,reviewed,custom
+Skill,Vaardigheid,unreviewed,custom
 Skills,Vaardigheden,unreviewed,erpnext
 Skip,Overspringen,unreviewed,frappe
 Skip Authorization,Sla Authorization,unreviewed,frappe
@@ -9884,8 +9884,8 @@ Stock Balance Report,Voorraadbalansrapport,unreviewed,erpnext
 Stock cannot be updated against Delivery Note {0},Voorraad kan niet worden bijgewerkt obv Vrachtbrief {0},unreviewed,erpnext
 Stock cannot be updated against Purchase Receipt {0},Stock kan niet worden bijgewerkt tegen Kwitantie {0},unreviewed,erpnext
 Stock cannot exist for Item {0} since has variants,Voorraad kan niet bestaan voor Artikel {0} omdat het varianten heeft.,unreviewed,erpnext
-Stock Closing Balance,Voorraadeindsaldo,reviewed,custom
-Stock Closing Entry,Voorraadafsluiting,reviewed,custom
+Stock Closing Balance,Voorraadeindsaldo,unreviewed,custom
+Stock Closing Entry,Voorraadafsluiting,unreviewed,custom
 Stock Details,Voorraad Details,unreviewed,erpnext
 Stock Entries already created for Work Order,Voorraadinvoer al gemaakt voor werkorder,unreviewed,erpnext
 Stock Entry,Voorraadtransactie,unreviewed,erpnext
@@ -9893,7 +9893,7 @@ Stock Entry (Outward GIT),Voorraadinvoer (uitgaande GIT),unreviewed,erpnext
 Stock Entry Child,Stock Entry Kind,unreviewed,erpnext
 Stock Entry Detail,Voorraadtransactie Detail,unreviewed,erpnext
 Stock Entry has been already created against this Pick List,Voorraadinvoer is al gemaakt op basis van deze keuzelijst,unreviewed,erpnext
-Stock Entry Type,Voorraadboekingstype,reviewed,erpnext
+Stock Entry Type,Voorraadboekingstype,unreviewed,erpnext
 Stock Entry {0} created,Stock Entry {0} aangemaakt,unreviewed,erpnext
 Stock Entry {0} created and,Voorraadinvoer {0} gemaakt en,unreviewed,erpnext
 Stock Entry {0} is not submitted,Stock Entry {0} is niet ingediend,unreviewed,erpnext
@@ -9903,7 +9903,7 @@ Stock In Hand,Voorraad in de hand,unreviewed,erpnext
 Stock Items,Stock items,unreviewed,erpnext
 Stock Ledger,Voorraad Dagboek,unreviewed,erpnext
 Stock Ledger Entries and GL Entries are reposted for the selected Purchase Receipts,Voorraad boekingen en Journaalposten worden opnieuw geboekt voor de geselecteerde Ontvangstbewijzen,unreviewed,erpnext
-Stock Ledger Entry,Voorraadgrootboekregel,reviewed,erpnext
+Stock Ledger Entry,Voorraadgrootboekregel,unreviewed,erpnext
 Stock Liabilities,Voorraad Verplichtingen,unreviewed,erpnext
 Stock Projected Qty,Verwachte voorraad hoeveelheid,unreviewed,erpnext
 Stock Qty,Aantal voorraad,unreviewed,erpnext
@@ -9912,15 +9912,15 @@ Stock quantity not enough for Item Code: {0} under warehouse {1}. Available quan
 Stock quantity to start the Procedure is not available in the Warehouse {0}. Do you want to record a Stock Entry?,Voorraadhoeveelheid om de procedure te starten is niet beschikbaar in het magazijn {0}. Wilt u een voorraadinvoer vastleggen?,unreviewed,erpnext
 Stock Queue (FIFO),Voorraad rij (FIFO),unreviewed,erpnext
 Stock Received But Not Billed,Voorraad ontvangen maar nog niet gefactureerd,unreviewed,erpnext
-Stock Reconciliation,Voorraadafstemming,reviewed,erpnext
+Stock Reconciliation,Voorraadafstemming,unreviewed,erpnext
 Stock Reconciliation Item,Voorraad Afletteren Artikel,unreviewed,erpnext
 Stock Reconciliations,Voorraadafstemmingen,unreviewed,erpnext
-Stock Reservation Entry,Voorraadreservering,reviewed,custom
+Stock Reservation Entry,Voorraadreservering,unreviewed,custom
 Stock Settings,Voorraad Instellingen,unreviewed,erpnext
 Stock Summary,Stock Samenvatting,unreviewed,erpnext
 Stock transactions before {0} are frozen,Voorraadtransacties voor {0} zijn bevroren,unreviewed,erpnext
 Stock Transactions for Item {0} under warehouse {1} cannot be posted before this time.,Voorraadtransacties voor artikel {0} onder magazijn {1} kunnen vóór deze tijd niet worden geboekt.,unreviewed,erpnext
-Stock UOM,Voorradeenheid,reviewed,erpnext
+Stock UOM,Voorradeenheid,unreviewed,erpnext
 Stock Uom,Voorraad Eenheid,unreviewed,erpnext
 Stock User,Aandeel Gebruiker,unreviewed,erpnext
 Stock Value,Voorraad Waarde,unreviewed,erpnext
@@ -10000,10 +10000,10 @@ Subcontract,subcontract,unreviewed,erpnext
 Subcontracted Item,Object in onderaanneming,unreviewed,erpnext
 Subcontracted Item To Be Received,Uitbesteed item ontvangen,unreviewed,erpnext
 Subcontracted Raw Materials To Be Transferred,Uitbestede grondstoffen worden overgedragen,unreviewed,erpnext
-Subcontracting BOM,Uitbesteding stuklijst,reviewed,custom
-Subcontracting Inward Order,Uitbesteding inkomende order,reviewed,custom
-Subcontracting Order,Uitbestedingsorder,reviewed,custom
-Subcontracting Receipt,Uitbesteding ontvangstbon,reviewed,custom
+Subcontracting BOM,Uitbesteding stuklijst,unreviewed,custom
+Subcontracting Inward Order,Uitbesteding inkomende order,unreviewed,custom
+Subcontracting Order,Uitbestedingsorder,unreviewed,custom
+Subcontracting Receipt,Uitbesteding ontvangstbon,unreviewed,custom
 Subdomain,Subdomein,unreviewed,frappe
 Subject,Onderwerp,unreviewed,both
 Subject Field,Onderwerp veld,unreviewed,frappe
@@ -10024,10 +10024,10 @@ Submitted Date,Datum indienen,unreviewed,erpnext
 Submitted Document cannot be converted back to draft. Transition row {0},Ingediend Document kan niet teruggezet worden naar Draft. Transitie rij {0},unreviewed,frappe
 submitted this document,dit document ingediend,unreviewed,frappe
 submitted this document {0},heeft dit document {0} ingediend,unreviewed,frappe
-Submitting,Indienen,reviewed,frappe
+Submitting,Indienen,unreviewed,frappe
 Submitting {0},{0} indienen,unreviewed,frappe
 Submitting...,Verzenden ...,unreviewed,frappe
-Subscription,Abonnement,reviewed,erpnext
+Subscription,Abonnement,unreviewed,erpnext
 Subscription Activated,Abonnement geactiveerd,unreviewed,erpnext
 Subscription End,Abonnement Einde,unreviewed,erpnext
 Subscription End Date,Einddatum abonnement,unreviewed,erpnext
@@ -10038,7 +10038,7 @@ Subscription Invoice,Abonnementsfactuur,unreviewed,erpnext
 Subscription Management,Abonnementbeheer,unreviewed,erpnext
 Subscription Notification,Abonnementsmelding,unreviewed,frappe
 Subscription Period,Abonnementsperiode,unreviewed,erpnext
-Subscription Plan,Abonnementsplan,reviewed,erpnext
+Subscription Plan,Abonnementsplan,unreviewed,erpnext
 Subscription Plan Detail,Abonnementsplan Detail,unreviewed,erpnext
 Subscription Plans,Abonnementen,unreviewed,erpnext
 Subscription Price Based On,Abonnementsprijs gebaseerd op,unreviewed,erpnext
@@ -10100,7 +10100,7 @@ Supplier database.,Leverancierbestand,unreviewed,erpnext
 Supplier delivers to Customer,Leverancier levert aan de Klant,unreviewed,erpnext
 Supplier Delivery Note,Leveranciersleveringsnota,unreviewed,erpnext
 Supplier Details,Leverancier Details,unreviewed,erpnext
-Supplier Group,Leveranciersgroep,reviewed,erpnext
+Supplier Group,Leveranciersgroep,unreviewed,erpnext
 Supplier Group master.,Leverancier Groepsmaster.,unreviewed,erpnext
 Supplier Group Name,Naam Leveranciergroep,unreviewed,erpnext
 Supplier GSTIN,Leverancier GSTIN,unreviewed,erpnext
@@ -10113,7 +10113,7 @@ Supplier Invoice No exists in Purchase Invoice {0},Leverancier factuur nr bestaa
 Supplier Items,Leverancier Artikelen,unreviewed,erpnext
 Supplier Lead Time (days),Doorlooptijd leverancier (dagen),unreviewed,erpnext
 Supplier Ledger Summary,Overzicht leveranciersboek,unreviewed,erpnext
-Supplier Name,Leveranciersnaam,reviewed,erpnext
+Supplier Name,Leveranciersnaam,unreviewed,erpnext
 Supplier Naming By,Leverancier Benaming Door,unreviewed,erpnext
 Supplier of Goods or Services.,Leverancier van goederen of diensten.,unreviewed,erpnext
 Supplier Part No,Leverancier Part No,unreviewed,erpnext
@@ -10123,15 +10123,15 @@ Supplier Quotation Comparison,Vergelijking van offertes van leveranciers,unrevie
 Supplier Quotation Item,Leverancier Offerte Artikel,unreviewed,erpnext
 Supplier Quotation {0} Created,Offerte van leverancier {0} gemaakt,unreviewed,erpnext
 Supplier Score,Leverancierscore,unreviewed,erpnext
-Supplier Scorecard,Leveranciers scorecard,reviewed,erpnext
-Supplier Scorecard Criteria,Leveranciers scorecard criteria,reviewed,erpnext
-Supplier Scorecard Period,Leveranciers scorecard periode,reviewed,erpnext
+Supplier Scorecard,Leveranciers scorecard,unreviewed,erpnext
+Supplier Scorecard Criteria,Leveranciers scorecard criteria,unreviewed,erpnext
+Supplier Scorecard Period,Leveranciers scorecard periode,unreviewed,erpnext
 Supplier Scorecard Scoring Criteria,Scorecard Scoringscriteria voor leveranciers,unreviewed,erpnext
 Supplier Scorecard Scoring Standing,Leverancier Scorecard Scoring Standing,unreviewed,erpnext
 Supplier Scorecard Scoring Variable,Leverancier Scorecard Scorevariabele,unreviewed,erpnext
 Supplier Scorecard Setup,Leveranciers Scorecard Setup,unreviewed,erpnext
-Supplier Scorecard Standing,Leveranciers scorecard status,reviewed,erpnext
-Supplier Scorecard Variable,Leveranciers scorecard variabele,reviewed,erpnext
+Supplier Scorecard Standing,Leveranciers scorecard status,unreviewed,erpnext
+Supplier Scorecard Variable,Leveranciers scorecard variabele,unreviewed,erpnext
 Supplier Type,Leverancier Type,unreviewed,erpnext
 Supplier Warehouse,Leverancier Magazijn,unreviewed,erpnext
 Supplier Warehouse mandatory for sub-contracted Purchase Receipt,Leverancier Magazijn verplicht voor uitbesteedde Ontvangstbewijs,unreviewed,erpnext
@@ -10189,7 +10189,7 @@ Syntax error in template,Syntaxisfout in template,unreviewed,frappe
 System,Systeem,unreviewed,frappe
 System and Website Users,Systeem en gebruikers van de website,unreviewed,frappe
 System Console,Systeemconsole,unreviewed,frappe
-System Generated,Systeemgegenereerd,reviewed,custom
+System Generated,Systeemgegenereerd,unreviewed,custom
 System managers are allowed by default,Systeembeheerders zijn standaard toegestaan,unreviewed,frappe
 System Notification,Systeemmelding,unreviewed,frappe
 System Page,Systeempagina,unreviewed,frappe
@@ -10240,7 +10240,7 @@ Task,Taak,unreviewed,both
 Task Depends On,Taak Hangt On,unreviewed,erpnext
 Task Description,Taakomschrijving,unreviewed,erpnext
 Task Name,Taaknaam,unreviewed,erpnext
-Task Type,Taaktype,reviewed,erpnext
+Task Type,Taaktype,unreviewed,erpnext
 Task's {0} End Date cannot be after Project's End Date.,De {0} Einddatum van de taak kan niet na de Einddatum van het Project zijn.,unreviewed,erpnext
 Task's {0} Start Date cannot be after Project's End Date.,De {0} Startdatum van de taak kan niet na de Einddatum van het Project zijn.,unreviewed,erpnext
 Tasks,taken,unreviewed,erpnext
@@ -10253,12 +10253,12 @@ Tax,Belasting,unreviewed,erpnext
 Tax Account,BTW-account,unreviewed,erpnext
 Tax Account Head,Hoofd belastingaccount,unreviewed,erpnext
 Tax Account not specified for Shopify Tax {0},Belastingaccount niet opgegeven voor Shopify-belasting {0},unreviewed,erpnext
-Tax Amount,Belastingbedrag,reviewed,custom
+Tax Amount,Belastingbedrag,unreviewed,custom
 Tax Amount After Discount Amount,Belasting bedrag na korting,unreviewed,erpnext
 Tax Amount After Discount Amount (Company Currency),Belasting Bedrag na korting Bedrag (Company valuta),unreviewed,erpnext
 Tax Assets,Belastingvorderingen,unreviewed,erpnext
 Tax Breakup,Belastingverdeling,unreviewed,erpnext
-Tax Category,Belastingcategorie,reviewed,both
+Tax Category,Belastingcategorie,unreviewed,both
 Tax Category for overriding tax rates.,Belastingcategorie voor dwingende belastingtarieven.,unreviewed,erpnext
 "Tax Category has been changed to ""Total"" because all the Items are non-stock items",Belastingcategorie is gewijzigd in &quot;Totaal&quot; omdat alle items niet-voorraad items zijn,unreviewed,erpnext
 Tax detail table fetched from item master as a string and stored in this field.\nUsed for Taxes and Charges,Belasting detail tafel haalden van post meester als een string en opgeslagen in dit gebied.\n Gebruikt voor en -heffingen,unreviewed,erpnext
@@ -10267,7 +10267,7 @@ Tax Id,BTW-nummer,unreviewed,erpnext
 Tax Id:,BTW-nummer:,unreviewed,erpnext
 Tax Rate,Belastingtarief,unreviewed,erpnext
 Tax Rates,BELASTINGTARIEVEN,unreviewed,erpnext
-Tax Rule,Belastingregel,reviewed,erpnext
+Tax Rule,Belastingregel,unreviewed,erpnext
 Tax Rule Conflicts with {0},Belasting Regel Conflicten met {0},unreviewed,erpnext
 Tax Rule for transactions.,Fiscale regel voor transacties.,unreviewed,erpnext
 Tax template for buying transactions.,Belasting sjabloon voor inkooptransacties .,unreviewed,erpnext
@@ -10278,7 +10278,7 @@ Tax Total,Totaal belasting,unreviewed,erpnext
 Tax Type,Belasting Type,unreviewed,erpnext
 Tax Withholding Account,Belasting-inhouding-account,unreviewed,erpnext
 Tax Withholding Category,Belastinginhouding Categorie,unreviewed,erpnext
-Tax Withholding Group,Belastinginhouding groep,reviewed,custom
+Tax Withholding Group,Belastinginhouding groep,unreviewed,custom
 Tax Withholding Rate,Belastingtarief,unreviewed,erpnext
 Tax Withholding Rates,Belastinginhouding,unreviewed,erpnext
 Tax Withholding rates to be applied on transactions.,Belastinginhoudingstarieven die moeten worden toegepast op transacties.,unreviewed,erpnext
@@ -10322,14 +10322,14 @@ Term Details,Voorwaarde Details,unreviewed,erpnext
 Term End Date,Term Einddatum,unreviewed,erpnext
 Term Name,term Naam,unreviewed,erpnext
 Term Start Date,Term Startdatum,unreviewed,erpnext
-Terms,Voorwaarden,reviewed,erpnext
-Terms and Conditions,Algemene voorwaarden,reviewed,erpnext
+Terms,Voorwaarden,unreviewed,erpnext
+Terms and Conditions,Algemene voorwaarden,unreviewed,erpnext
 Terms and Conditions Content,Algemene Voorwaarden Inhoud,unreviewed,erpnext
 Terms and Conditions Details,Algemene Voorwaarden Details,unreviewed,erpnext
 Terms and Conditions Help,Voorwaarden Help,unreviewed,erpnext
 Terms and Conditions Template,Algemene voorwaarden Template,unreviewed,erpnext
 Terms and Conditions1,Algemene Voorwaarden1,unreviewed,erpnext
-Territory,Regio,reviewed,erpnext
+Territory,Regio,unreviewed,erpnext
 Territory Manager,Regio Manager,unreviewed,erpnext
 Territory Name,Regio Naam,unreviewed,erpnext
 Territory Target Variance Based On Item Group,Territoriedoelvariantie op basis van artikelgroep,unreviewed,erpnext
@@ -10802,7 +10802,7 @@ Total Allocated Amount (Company Currency),Totaal toegewezen bedrag (Company Munt
 Total allocated leaves are more days than maximum allocation of {0} leave type for employee {1} in the period,Totaal toegewezen bladeren zijn meer dagen dan de maximale toewijzing van {0} verloftype voor werknemer {1} in de periode,unreviewed,erpnext
 Total allocated leaves are more than days in the period,Totaal toegewezen bladeren zijn meer dan dagen in de periode,unreviewed,erpnext
 Total allocated percentage for sales team should be 100,Totaal toegewezen percentage voor verkoopteam moet 100 zijn,unreviewed,erpnext
-Total Amount,Totaalbedrag,reviewed,erpnext
+Total Amount,Totaalbedrag,unreviewed,erpnext
 Total Amount Credited,Totaal gecrediteerd bedrag,unreviewed,erpnext
 Total Amount Currency,Totaal bedrag Currency,unreviewed,erpnext
 Total Amount in Words,Totaal bedrag in woorden,unreviewed,erpnext
@@ -10932,14 +10932,14 @@ Track this Sales Order against any Project,Volg dit Verkooporder tegen elke Proj
 Track Views,Trackweergaven,unreviewed,frappe
 Tracking,Volgen,unreviewed,erpnext
 Tracks milestones on the lifecycle of a document if it undergoes multiple stages.,Traceert mijlpalen in de levenscyclus van een document als het meerdere fasen doorloopt.,unreviewed,frappe
-Training Feedback,Opleidingsfeedback,reviewed,custom
-Training Program,Opleidingsprogramma,reviewed,custom
-Training Result,Opleidingsresultaat,reviewed,custom
+Training Feedback,Opleidingsfeedback,unreviewed,custom
+Training Program,Opleidingsprogramma,unreviewed,custom
+Training Result,Opleidingsresultaat,unreviewed,custom
 Transaction,Transactie,unreviewed,erpnext
 Transaction Currency,transactie Munt,unreviewed,erpnext
 Transaction currency must be same as Payment Gateway currency,Transactie valuta moet hetzelfde zijn als Payment Gateway valuta,unreviewed,erpnext
-Transaction Date,Transactiedatum,reviewed,erpnext
-Transaction Deletion Record,Transactieverwijdering record,reviewed,custom
+Transaction Date,Transactiedatum,unreviewed,erpnext
+Transaction Deletion Record,Transactieverwijdering record,unreviewed,custom
 Transaction Details,transactie details,unreviewed,erpnext
 Transaction Error,Transactiefout,unreviewed,erpnext
 Transaction Hash,Transactie Hash,unreviewed,frappe
@@ -10959,7 +10959,7 @@ Transfer Material,Verplaats Materiaal,unreviewed,erpnext
 Transfer Material Against,Materiaal overbrengen tegen,unreviewed,erpnext
 Transfer Material to Supplier,Transfer Material aan Leverancier,unreviewed,erpnext
 Transfer Materials For Warehouse {0},Materiaal overbrengen voor magazijn {0},unreviewed,erpnext
-Transfer Qty,Overboekingshoeveelheid,reviewed,erpnext
+Transfer Qty,Overboekingshoeveelheid,unreviewed,erpnext
 Transfer Status,Overdrachtstatus,unreviewed,erpnext
 Transfer Type,Overdrachtstype,unreviewed,erpnext
 Transfered,Overgebrachte,unreviewed,erpnext
@@ -10972,7 +10972,7 @@ Translatable,vertaalbaar,unreviewed,frappe
 Translate {0},Vertaal {0},unreviewed,frappe
 Translated Message,Vertaald bericht,unreviewed,frappe
 Translated Text,vertaalde tekst,unreviewed,frappe
-Translation,Vertaling,reviewed,frappe
+Translation,Vertaling,unreviewed,frappe
 Translation Tool,Vertaalhulpmiddel,unreviewed,frappe
 Translations,vertaalwerk,unreviewed,frappe
 Transport Receipt Date,Datum transportontvangst,unreviewed,erpnext
@@ -10995,7 +10995,7 @@ Tree of Procedures,Procedureboom,unreviewed,erpnext
 Tree of Quality Procedures.,Boom van kwaliteitsprocedures.,unreviewed,erpnext
 Tree structures are implemented using Nested Set,Boomstructuren worden geïmplementeerd met behulp van Nested Set,unreviewed,frappe
 Tree Type,Boom Type,unreviewed,erpnext
-Tree View,Boomweergave,reviewed,custom
+Tree View,Boomweergave,unreviewed,custom
 Tree view is not available for {0},Structuurweergave is niet beschikbaar voor {0},unreviewed,frappe
 Treshold {0}% appears more than once,Treshold {0}% meer dan eens,unreviewed,erpnext
 Trial Balance,Proefbalans,unreviewed,erpnext
@@ -11029,7 +11029,7 @@ Type of document to rename.,Type document te hernoemen.,unreviewed,erpnext
 Type of Payment,Type van Betaling,unreviewed,erpnext
 Type of Sample,Type monster,unreviewed,erpnext
 Type something in the search box to search,Typ iets in het zoekvak om te zoeken,unreviewed,frappe
-Type to search,Typ om te zoeken,reviewed,custom
+Type to search,Typ om te zoeken,unreviewed,custom
 Types of activities for Time Logs,Soorten activiteiten voor Time Logs,unreviewed,erpnext
 UIN Holders,UIN-houders,unreviewed,erpnext
 Unable to find attachment {0},Kan bijlage {0} niet vinden,unreviewed,frappe
@@ -11046,14 +11046,14 @@ Unable to send emails at this time,Niet in staat om e-mails te verzenden op dit 
 Unable to update event,Event actualiseren onmogelijk,unreviewed,frappe
 Unable to update remote activity,Kan externe activiteit niet bijwerken,unreviewed,erpnext
 Unable to write file format for {0},Kan geen bestandsformaat schrijven voor {0},unreviewed,frappe
-Unallocated,Niet toegewezen,reviewed,custom
+Unallocated,Niet toegewezen,unreviewed,custom
 Unallocated Amount,Niet-toegewezen bedrag,unreviewed,erpnext
-Unassign,Toewijzing opheffen,reviewed,custom
+Unassign,Toewijzing opheffen,unreviewed,custom
 Unassign Condition,Toewijzing ongedaan maken,unreviewed,frappe
 Unbilled Invoices,Niet-gefactureerde facturen,unreviewed,erpnext
 Unblock Invoice,Deblokkering factuur,unreviewed,erpnext
 Uncaught Server Exception,Niet-afgevangen serveruitzondering,unreviewed,frappe
-Unchanged,Ongewijzigd,reviewed,frappe
+Unchanged,Ongewijzigd,unreviewed,frappe
 Uncheck all,Verwijder het vinkje bij alle,unreviewed,erpnext
 Unclaimed amount,Niet-opgeëist bedrag,unreviewed,erpnext
 Uncleared Balance,Onduidelijk saldo,unreviewed,erpnext
@@ -11083,7 +11083,7 @@ Unknown View,Onbekende weergave,unreviewed,frappe
 Unlink Advance Payment on Cancellation of Order,Ontkoppel vooruitbetaling bij annulering van bestelling,unreviewed,erpnext
 Unlink external integrations,Ontkoppel externe integraties,unreviewed,erpnext
 Unlink Payment on Cancellation of Invoice,Ontkoppelen Betaling bij annulering van de factuur,unreviewed,erpnext
-Unpaid,Onbetaald,reviewed,erpnext
+Unpaid,Onbetaald,unreviewed,erpnext
 Unpaid and Discounted,Onbetaald en met korting,unreviewed,erpnext
 Unpin,losmaken,unreviewed,frappe
 Unplanned machine maintenance,Ongepland machineonderhoud,unreviewed,erpnext
@@ -11091,8 +11091,8 @@ Unpublish Item,Publicatie ongedaan maken,unreviewed,erpnext
 Unread,Ongelezen,unreviewed,frappe
 Unread Notification Sent,Melding 'Ongelezen' verstuurd,unreviewed,frappe
 Unrealized Exchange Gain/Loss Account,Ongerealiseerde Exchange-winst / verliesrekening,unreviewed,erpnext
-Unreconcile Payment,Betaling afstemming opheffen,reviewed,custom
-Unreconciled,Niet afgestemd,reviewed,erpnext
+Unreconcile Payment,Betaling afstemming opheffen,unreviewed,custom
+Unreconciled,Niet afgestemd,unreviewed,erpnext
 Unreconciled Payment Details,Niet overeenstemmende betalingsgegevens,unreviewed,erpnext
 Unregistered,Niet geregistreerd,unreviewed,erpnext
 Unresolve,Oplossen,unreviewed,erpnext
@@ -11100,7 +11100,7 @@ Unresolved,Niet opgelost,unreviewed,erpnext
 Unscheduled,Ongeplande,unreviewed,erpnext
 Unsecured Loans,Leningen zonder onderpand,unreviewed,erpnext
 UNSEEN,ONGEZIEN,unreviewed,frappe
-Unselect,Deselecteren,reviewed,custom
+Unselect,Deselecteren,unreviewed,custom
 Unselect All,Selectie ongedaan maken,unreviewed,frappe
 Unshared,ongedeelde,unreviewed,frappe
 Unsigned,ongetekend,unreviewed,erpnext
@@ -11119,9 +11119,9 @@ Unverified Webhook Data,Niet-geverifieerde Webhook-gegevens,unreviewed,erpnext
 Unzip,Uitpakken,unreviewed,frappe
 Unzipped {0} files,Uitgepakte {0} bestanden,unreviewed,frappe
 Unzipping files...,Bestanden uitpakken ...,unreviewed,frappe
-UOM Category,Eenheidscategorie,reviewed,erpnext
+UOM Category,Eenheidscategorie,unreviewed,erpnext
 UOM Conversion Detail,Eenheid Omrekeningsfactor Detail,unreviewed,erpnext
-UOM Conversion Factor,Eenheidsomrekeningsfactor,reviewed,erpnext
+UOM Conversion Factor,Eenheidsomrekeningsfactor,unreviewed,erpnext
 UOM Conversion factor ({0} -> {1}) not found for item: {2},UOM-conversiefactor ({0} -&gt; {1}) niet gevonden voor item: {2},unreviewed,erpnext
 UOM Conversion factor is required in row {0},Eenheid Omrekeningsfactor is vereist in rij {0},unreviewed,erpnext
 UOM Conversion in Hours,UOM-conversie in uren,unreviewed,erpnext
@@ -11167,14 +11167,14 @@ Update stock must be enable for the purchase invoice {0},Voorraad bijwerken moet
 Update Taxes for Items,Update belastingen voor artikelen,unreviewed,erpnext
 Update Translations,Update vertalingen,unreviewed,frappe
 Update Value,Waarde bijwerken,unreviewed,frappe
-Updated,Bijgewerkt,reviewed,frappe
+Updated,Bijgewerkt,unreviewed,frappe
 Updated Successfully,succesvol geupdatet,unreviewed,frappe
 Updated successfully,Succesvol geupdatet,unreviewed,frappe
 Updated To A New Version 🎉,Bijgewerkt naar een nieuwe versie 🎉,unreviewed,frappe
 updated to {0},bijgewerkt om {0},unreviewed,frappe
 Updated via 'Time Log',Bijgewerkt via 'Time Log',unreviewed,erpnext
 Updated {0}: {1},Bijgewerkt {0}: {1},unreviewed,frappe
-Updating,Bijwerken,reviewed,frappe
+Updating,Bijwerken,unreviewed,frappe
 Updating Variants...,Varianten bijwerken ...,unreviewed,erpnext
 Updating {0},{0} updaten,unreviewed,frappe
 "Updating {0} of {1}, {2}","Updaten {0} van {1}, {2}",unreviewed,frappe
@@ -11236,7 +11236,7 @@ Use TLS,gebruik TLS,unreviewed,frappe
 Used,Gebruikt,unreviewed,erpnext
 Used For Google Maps Integration.,Gebruikt voor Google Maps-integratie.,unreviewed,frappe
 Used for Production Plan,Gebruikt voor Productie Plan,unreviewed,erpnext
-User,Gebruiker,reviewed,both
+User,Gebruiker,unreviewed,both
 user,gebruiker,unreviewed,frappe
 User '{0}' already has the role '{1}',Gebruiker &#39;{0}&#39; heeft al de rol van &#39;{1}&#39;,unreviewed,frappe
 User can login using Email id or Mobile number,Gebruiker kan inloggen met e-mail id of mobiel nummer,unreviewed,frappe
@@ -11250,7 +11250,7 @@ User editable form on Website.,Gebruiker bewerkbare vorm op de website.,unreview
 User Email,gebruiker E-mail,unreviewed,frappe
 User Emails,gebruiker Emails,unreviewed,frappe
 User Field,Gebruikersveld,unreviewed,frappe
-User Group,Gebruikersgroep,reviewed,custom
+User Group,Gebruikersgroep,unreviewed,custom
 User has not applied rule on the invoice {0},Gebruiker heeft geen regel toegepast op factuur {0},unreviewed,erpnext
 User ID,Gebruikers-ID,unreviewed,both
 User Id,Gebruikersnaam,unreviewed,frappe
@@ -11258,12 +11258,12 @@ User ID not set for Employee {0},Gebruikers-ID niet ingesteld voor werknemer {0}
 User ID of a Blogger,Gebruikers-ID van een Blogger,unreviewed,frappe
 User ID Property,Gebruiker ID Eigendom,unreviewed,frappe
 User Image,Gebruiker Afbeelding,unreviewed,frappe
-User Invitation,Gebruikersuitnodiging,reviewed,custom
+User Invitation,Gebruikersuitnodiging,unreviewed,custom
 User is mandatory for Share,Gebruiker is verplicht voor Share,unreviewed,frappe
 User must always select,Gebruiker moet altijd kiezen,unreviewed,frappe
 User Name,Gebruikersnaam,unreviewed,frappe
 User not allowed to delete {0}: {1},Gebruiker niet toegestaan om {0} te verwijderen: {1},unreviewed,frappe
-User Permission,Gebruikersrecht,reviewed,frappe
+User Permission,Gebruikersrecht,unreviewed,frappe
 User permission already exists,Gebruikersrechten bestaan al,unreviewed,frappe
 User Permissions,Gebruikersmachtigingen,unreviewed,frappe
 User Permissions are used to limit users to specific records.,Gebruikersmachtigingen worden gebruikt om gebruikers te beperken tot specifieke records.,unreviewed,frappe
@@ -11276,7 +11276,7 @@ User Roles,Gebruikersrollen,unreviewed,frappe
 User Settings,Gebruikersinstellingen,unreviewed,frappe
 User Social Login,Gebruikers sociale login,unreviewed,frappe
 User Tags,Gebruiker-tags,unreviewed,frappe
-User Type,Gebruikerstype,reviewed,frappe
+User Type,Gebruikerstype,unreviewed,frappe
 User {0} already exists,Gebruiker {0} bestaat al,unreviewed,erpnext
 User {0} cannot be deleted,Gebruiker {0} kan niet worden verwijderd,unreviewed,frappe
 User {0} cannot be disabled,Gebruiker {0} kan niet worden uitgeschakeld,unreviewed,frappe
@@ -11334,8 +11334,8 @@ Validity in Days,Geldigheid in dagen,unreviewed,erpnext
 Validity period of this quotation has ended.,Geldigheidsduur van deze offerte is beëindigd.,unreviewed,erpnext
 Valuation,Waardering,unreviewed,erpnext
 Valuation and Total,Waardering en Totaal,unreviewed,erpnext
-Valuation Method,Waarderingsmethode,reviewed,erpnext
-Valuation Rate,Waarderingsprijs,reviewed,erpnext
+Valuation Method,Waarderingsmethode,unreviewed,erpnext
+Valuation Rate,Waarderingsprijs,unreviewed,erpnext
 "Valuation Rate for the Item {0}, is required to do accounting entries for {1} {2}.","Waarderingstarief voor het item {0}, is vereist om boekhoudkundige gegevens voor {1} {2} te doen.",unreviewed,erpnext
 Valuation Rate is mandatory if Opening Stock entered,Valuation Rate is verplicht als Opening Stock ingevoerd,unreviewed,erpnext
 Valuation Rate Missing,Waarderingstarief ontbreekt,unreviewed,erpnext
@@ -11411,7 +11411,7 @@ Verify,Controleren,unreviewed,frappe
 Verify Email,Verifieer Email,unreviewed,erpnext
 Verify Password,Bevestig wachtwoord,unreviewed,frappe
 Verifying...,Controleren ...,unreviewed,frappe
-Version,Versie,reviewed,frappe
+Version,Versie,unreviewed,frappe
 Version Updated,Versie bijgewerkt,unreviewed,frappe
 Very Coated,Zeer gecoat,unreviewed,erpnext
 Very Hyper,Zeer hyper,unreviewed,erpnext
@@ -11438,7 +11438,7 @@ View Lab Tests,Bekijk Lab Tests,unreviewed,erpnext
 View Leads,Bekijk Leads,unreviewed,erpnext
 View Ledger,Bekijk Grootboek,unreviewed,erpnext
 View List,Lijst weergeven,unreviewed,frappe
-View Log,Weergavelog,reviewed,frappe
+View Log,Weergavelog,unreviewed,frappe
 "View Log of all print, download and export events","Bekijk Log van alle print-, download- en exportgebeurtenissen",unreviewed,frappe
 View Now,Bekijk nu,unreviewed,erpnext
 View Permitted Documents,Bekijk toegestane documenten,unreviewed,frappe
@@ -11496,7 +11496,7 @@ Warehouse not found against the account {0},Magazijn niet gevonden voor account 
 Warehouse not found in the system,Magazijn niet gevonden in het systeem,unreviewed,erpnext
 "Warehouse required at Row No {0}, please set default warehouse for the item {1} for the company {2}","Magazijn vereist bij rij Nee {0}, stel het standaardmagazijn in voor het artikel {1} voor het bedrijf {2}",unreviewed,erpnext
 Warehouse required for stock Item {0},Magazijn nodig voor voorraad Artikel {0},unreviewed,erpnext
-Warehouse Type,Magazijntype,reviewed,erpnext
+Warehouse Type,Magazijntype,unreviewed,erpnext
 Warehouse where you are maintaining stock of rejected items,Magazijn waar u voorraad bijhoudt van afgewezen artikelen,unreviewed,erpnext
 Warehouse wise Item Balance Age and Value,Magazijnbeheer Artikelbalans Leeftijd en waarde,unreviewed,erpnext
 Warehouse {0} can not be deleted as quantity exists for Item {1},Magazijn {0} kan niet worden verwijderd als er voorraad is voor artikel {1},unreviewed,erpnext
@@ -11541,7 +11541,7 @@ We have received a request from you to download your {0} data associated with: {
 We're here to help!,We zijn hier om te helpen!,unreviewed,erpnext
 Weather,Weer,unreviewed,erpnext
 Weather Parameter,Weerparameter,unreviewed,erpnext
-Web Form,Webformulier,reviewed,custom
+Web Form,Webformulier,unreviewed,custom
 Web Form Field,Webformulier invulveld,unreviewed,frappe
 Web Form Fields,Webformulier invulvelden,unreviewed,frappe
 Web Link,Web link,unreviewed,frappe
@@ -11549,9 +11549,9 @@ web link,Link,unreviewed,frappe
 Web Page,Webpagina,unreviewed,frappe
 Web Page Block,Webpaginablok,unreviewed,frappe
 Web Page Link Text,Webpagina linktekst,unreviewed,frappe
-Web Page View,Webpaginaweergave,reviewed,frappe
+Web Page View,Webpaginaweergave,unreviewed,frappe
 Web Site,Website,unreviewed,frappe
-Web Template,Websjabloon,reviewed,frappe
+Web Template,Websjabloon,unreviewed,frappe
 Web Template Field,Websjabloon veld,unreviewed,frappe
 Web Template Values,Waarden van websjablonen,unreviewed,frappe
 Web View,Webweergave,unreviewed,frappe
@@ -11577,11 +11577,11 @@ Website Item Groups,Website Artikelgroepen,unreviewed,erpnext
 Website Meta Tag,Website-metatag,unreviewed,frappe
 Website Route Redirect,Website-route omleiden,unreviewed,frappe
 Website Settings,Website instellingen,unreviewed,both
-Website Sidebar,Website zijbalk,reviewed,custom
-Website Slideshow,Website diavoorstelling,reviewed,frappe
+Website Sidebar,Website zijbalk,unreviewed,custom
+Website Slideshow,Website diavoorstelling,unreviewed,frappe
 Website Slideshow Item,Website Diashow Item,unreviewed,frappe
 Website Specifications,Website Specificaties,unreviewed,erpnext
-Website Theme,Website thema,reviewed,custom
+Website Theme,Website thema,unreviewed,custom
 Website Theme Ignore App,Website-thema App negeren,unreviewed,frappe
 Website Theme Image,Website Theme Afbeelding,unreviewed,frappe
 Website Theme Image Link,Website Theme Afbeelding Link,unreviewed,frappe
@@ -11670,13 +11670,13 @@ Work-in-Progress Warehouse,Onderhanden Werk Magazijn,unreviewed,erpnext
 Work-in-Progress Warehouse is required before Submit,Werk in uitvoering Magazijn is vereist alvorens in te dienen,unreviewed,erpnext
 Workday,Werkdag,unreviewed,erpnext
 Workday {0} has been repeated.,Werkdag {0} is herhaald.,unreviewed,erpnext
-Workflow Action,Workflow actie,reviewed,frappe
+Workflow Action,Workflow actie,unreviewed,frappe
 Workflow Action is not created for optional states,Workflowactie wordt niet gemaakt voor optionele statussen,unreviewed,frappe
 Workflow Action Master,Workflow Actie Master,unreviewed,frappe
 Workflow Action Name,Workflow Actie Naam,unreviewed,frappe
 Workflow Document State,Workflow Document Status,unreviewed,frappe
 Workflow Name,Workflow Naam,unreviewed,frappe
-Workflow State,Workflow status,reviewed,frappe
+Workflow State,Workflow status,unreviewed,frappe
 Workflow State Field,Workflow Status Veld,unreviewed,frappe
 Workflow State not set,Werkstroomstatus niet ingesteld,unreviewed,frappe
 Workflow state represents the current state of a document.,Workflow status vertegenwoordigt de huidige toestand van een document.,unreviewed,frappe
@@ -11696,10 +11696,10 @@ Workstation Working Hour,Werkstation Werkuur,unreviewed,erpnext
 Wrapping up,Afsluiten,unreviewed,erpnext
 wrench,moersleutel,unreviewed,frappe
 Write,Schrijven,unreviewed,frappe
-Write Off,Afboeken,reviewed,erpnext
+Write Off,Afboeken,unreviewed,erpnext
 Write off,Afschrijven,unreviewed,erpnext
 Write Off Account,Afschrijvingsrekening,unreviewed,erpnext
-Write Off Amount,Afboekbedrag,reviewed,erpnext
+Write Off Amount,Afboekbedrag,unreviewed,erpnext
 Write Off Amount (Company Currency),Af te schrijven bedrag (Bedrijfsvaluta),unreviewed,erpnext
 Write Off Based On,Afschrijving gebaseerd op,unreviewed,erpnext
 Write Off Cost Center,Afschrijvingen kostenplaats,unreviewed,erpnext

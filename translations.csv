@@ -5399,306 +5399,306 @@ Last Communication,Laatste communicatie,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1
 Last Communication Date,Datum laatste communicatie,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Last Completion Date,Laatste voltooiingsdatum,reviewed,erpnext,0.84,0.85,0.8,0.85,0.85,1.0,ok
 Last Deployed On,Laatst geïmplementeerd op,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
-Last Execution,Laatste uitvoering,reviewed,frappe,,,,,,,
-Last Integration Date,Laatste integratiedatum,reviewed,erpnext,,,,,,,
-Last IP,Laatste IP-,reviewed,frappe,,,,,,,
-Last Issue,Laatste melding,reviewed,erpnext,,,,,,,
-Last Known Versions,Laatst Bekende Versies,reviewed,frappe,,,,,,,
-Last Login,Laatst ingelogd,reviewed,frappe,,,,,,,
-Last Message,Laatste bericht,reviewed,frappe,,,,,,,
-Last Modified,Laatst gewijzigd,reviewed,custom,,,,,,,
-Last Modified By,Laatst gewijzigd door,reviewed,frappe,,,,,,,
-Last Modified Date,Laatst gewijzigde datum,reviewed,frappe,,,,,,,
-Last Modified On,Laatst gewijzigd op,reviewed,frappe,,,,,,,
-Last Month,Vorige maand,reviewed,frappe,,,,,,,
-Last Month Downtime Analysis,Uitvaltijdanalyse afgelopen maand,reviewed,erpnext,,,,,,,
-Last Name,Achternaam,reviewed,both,,,,,,,
-last Odometer Value,laatste kilometertellerwaarde,reviewed,erpnext,,,,,,,
-Last Order Amount,Laatste Orderbedrag,reviewed,erpnext,,,,,,,
-Last Order Date,Laatste Bestel Date,reviewed,erpnext,,,,,,,
-Last Password Reset Date,Datum laatste wachtwoord opnieuw instellen,reviewed,frappe,,,,,,,
-Last Point Allocation Date,Datum toewijzingsdatum,reviewed,frappe,,,,,,,
-Last Purchase Price,Laatste aankoopprijs,reviewed,erpnext,,,,,,,
-Last Purchase Rate,Laatste inkooptarief,reviewed,erpnext,,,,,,,
-Last Quarter,Het laatste kwartier,reviewed,frappe,,,,,,,
-Last refreshed,Laatst vernieuwd,reviewed,frappe,,,,,,,
-Last Sales Invoice,Laatste verkoopfactuur,reviewed,erpnext,,,,,,,
-Last Stock Transaction for item {0} under warehouse {1} was on {2}.,Laatste voorraadtransactie voor artikel {0} onder magazijn {1} was op {2}.,reviewed,erpnext,,,,,,,
-Last Synced On,Laatst gesynchroniseerd,reviewed,frappe,,,,,,,
-Last synced {0},Laatst gesynchroniseerd {0},reviewed,frappe,,,,,,,
-Last Update,Laatste update,reviewed,frappe,,,,,,,
-Last Updated By,Laatst bijgewerkt door,reviewed,frappe,,,,,,,
-Last Updated On,Laatst aangepast op,reviewed,frappe,,,,,,,
-Last User,Laatste gebruiker,reviewed,frappe,,,,,,,
-Last Week,Vorige week,reviewed,frappe,,,,,,,
-Last Year,Vorig jaar,reviewed,frappe,,,,,,,
-Late Checkin,Late check-in,reviewed,erpnext,,,,,,,
-Latest,laatst,reviewed,erpnext,,,,,,,
-Latest Age,Laatste leeftijd,reviewed,erpnext,,,,,,,
-Latest Attempt,Laatste poging,reviewed,erpnext,,,,,,,
-Latest Highest Score,Nieuwste hoogste score,reviewed,erpnext,,,,,,,
-Latest price updated in all BOMs,Laatste prijs bijgewerkt in alle BOM&#39;s,reviewed,erpnext,,,,,,,
-Latitude,Breedtegraad,reviewed,erpnext,,,,,,,
-LDAP First Name Field,LDAP Voornaam Field,reviewed,frappe,,,,,,,
-LDAP Group,LDAP-groep,reviewed,frappe,,,,,,,
-LDAP Group Field,LDAP-groepsveld,reviewed,frappe,,,,,,,
-LDAP Group Mapping,LDAP-groepstoewijzing,reviewed,frappe,,,,,,,
-LDAP Group Mappings,LDAP-groepstoewijzingen,reviewed,frappe,,,,,,,
-LDAP is not enabled.,LDAP is niet ingeschakeld.,reviewed,frappe,,,,,,,
-LDAP Last Name Field,LDAP-achternaamveld,reviewed,frappe,,,,,,,
-LDAP Middle Name Field,Veld LDAP-middelste naam,reviewed,frappe,,,,,,,
-LDAP Mobile Field,LDAP mobiel veld,reviewed,frappe,,,,,,,
-LDAP Not Installed,LDAP niet geïnstalleerd,reviewed,frappe,,,,,,,
-LDAP Phone Field,LDAP-telefoonveld,reviewed,frappe,,,,,,,
-"LDAP Search String needs to end with a placeholder, eg sAMAccountName={0}","LDAP-zoekreeks moet eindigen met een tijdelijke aanduiding, bijvoorbeeld sAMAccountName = {0}",reviewed,frappe,,,,,,,
-LDAP Security,LDAP-beveiliging,reviewed,frappe,,,,,,,
-LDAP Server Url,LDAP-server Url,reviewed,frappe,,,,,,,
-LDAP Settings,LDAP-instellingen,reviewed,frappe,,,,,,,
-Ldap settings,Ldap-instellingen,reviewed,frappe,,,,,,,
-LDAP User Creation and Mapping,Maken en toewijzen van LDAP-gebruikers,reviewed,frappe,,,,,,,
-LDAP Username Field,LDAP Gebruikersnaam Field,reviewed,frappe,,,,,,,
-Lead,Lood,reviewed,erpnext,,,,,,,
-Lead Count,Loodtelling,reviewed,erpnext,,,,,,,
-Lead is an Organization,Lead is een organisatie,reviewed,erpnext,,,,,,,
-Lead Name,Lead Naam,reviewed,erpnext,,,,,,,
-Lead Owner,Lead Eigenaar,reviewed,erpnext,,,,,,,
-Lead Owner cannot be same as the Lead,Lead eigenaar kan niet hetzelfde zijn als de lead zijn,reviewed,erpnext,,,,,,,
-Lead Owner Efficiency,Leideneigenaar Efficiency,reviewed,erpnext,,,,,,,
-Lead Source,Lead Bron,reviewed,erpnext,,,,,,,
-Lead Time,Doorlooptijd,reviewed,erpnext,,,,,,,
-Lead Time (Days),Doorlooptijd (dagen),reviewed,erpnext,,,,,,,
-Lead Time (in mins),Doorlooptijd (in minuten),reviewed,erpnext,,,,,,,
-Lead Time Date,Lead Tijd Datum,reviewed,erpnext,,,,,,,
-Lead Time Days,Lead Time Dagen,reviewed,erpnext,,,,,,,
-Lead Time in days,Levertijd in dagen,reviewed,erpnext,,,,,,,
-Lead to Quotation,Leiden tot Offerte,reviewed,erpnext,,,,,,,
-Leaderboard,Scorebord,reviewed,frappe,,,,,,,
-"Leads help you get business, add all your contacts and more as your leads","Leads u helpen om zaken, voeg al uw contacten en nog veel meer als uw leads",reviewed,erpnext,,,,,,,
-leaf,blad,reviewed,frappe,,,,,,,
-Learn,Leren,reviewed,erpnext,,,,,,,
-Learning Management System Settings,Instellingen leerbeheersysteem,reviewed,erpnext,,,,,,,
-Learning Management System Title,Titel Learning Management System,reviewed,erpnext,,,,,,,
-Leave a Comment,Laat een reactie achter,reviewed,frappe,,,,,,,
-Leave Adjustment,Verlofcorrectie,reviewed,custom,,,,,,,
-Leave and Attendance,Verlaat en Aanwezigheid,reviewed,erpnext,,,,,,,
-Leave application {0} already exists against the student {1},Laat toepassing {0} al bestaan tegen de student {1},reviewed,erpnext,,,,,,,
-Leave Approver,Verlof goedkeurder,reviewed,erpnext,,,,,,,
-"Leave blank for home.\nThis is relative to site URL, for example ""about"" will redirect to ""https://yoursitename.com/about""","Laat leeg voor thuis. Dit is relatief ten opzichte van de site-URL, bijvoorbeeld &quot;about&quot; zal omleiden naar &quot;https://yoursitename.com/about&quot;",reviewed,erpnext,,,,,,,
-Leave blank if the Supplier is blocked indefinitely,Laat dit leeg als de leverancier voor onbepaalde tijd is geblokkeerd,reviewed,erpnext,,,,,,,
-Leave blank if you make students groups per year,Verlaat leeg als u studentengroepen per jaar maakt,reviewed,erpnext,,,,,,,
-Leave blank to repeat always,Laat leeg om altijd te herhalen,reviewed,frappe,,,,,,,
-Leave blank to use the standard Delivery Note format,Laat dit leeg om de standaardindeling Notities te gebruiken,reviewed,erpnext,,,,,,,
-Leave Block List,Verlofblokkering,reviewed,erpnext,,,,,,,
-Leave Encashed?,Verlof verzilverd?,reviewed,erpnext,,,,,,,
-Leave Encashment,Verlofuitbetaling,reviewed,custom,,,,,,,
-Leave Ledger Entry,Verlofgrootboekregel,reviewed,custom,,,,,,,
-Leave Management,Laat management,reviewed,erpnext,,,,,,,
-Leave Policy Assignment,Verlofbeleid toewijzing,reviewed,custom,,,,,,,
-Leave Reason,Verlaat de Rede,reviewed,erpnext,,,,,,,
-Leave Settings,Laat instellingen staan,reviewed,erpnext,,,,,,,
-Leave this conversation,Laat dit gesprek,reviewed,frappe,,,,,,,
-Leave unchecked if you don't want to consider batch while making course based groups.,Verlaat het vinkje als u geen batch wilt overwegen tijdens het maken van cursussen op basis van cursussen.,reviewed,erpnext,,,,,,,
-Leaves Expired,Bladeren verlopen,reviewed,erpnext,,,,,,,
-Leaves has been granted sucessfully,Bladeren zijn met succes uitgevoerd,reviewed,erpnext,,,,,,,
-Leaves must be allocated in multiples of 0.5,"Verloven moeten in veelvouden van 0,5 worden toegewezen",reviewed,erpnext,,,,,,,
-Leaves Taken,Bladeren genomen,reviewed,erpnext,,,,,,,
-Ledger,Grootboek,reviewed,erpnext,,,,,,,
-Ledger Merge,Grootboek samenvoegen,reviewed,custom,,,,,,,
-Left,Links,reviewed,both,,,,,,,
-Left Index,Linker index,reviewed,erpnext,,,,,,,
-Left this conversation,Links dit gesprek,reviewed,frappe,,,,,,,
-Legal,wettelijk,reviewed,erpnext,,,,,,,
-Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization.,Rechtspersoon / Dochteronderneming met een aparte Rekeningschema behoren tot de Organisatie.,reviewed,erpnext,,,,,,,
-Legal Expenses,Juridische Kosten,reviewed,erpnext,,,,,,,
-Length,Lengte,reviewed,frappe,,,,,,,
-Length Must be less than 280.,Lengte moet kleiner zijn dan 280.,reviewed,erpnext,,,,,,,
-Length of {0} should be between 1 and 1000,Lengte van {0} moet tussen 1 en 1000,reviewed,frappe,,,,,,,
-Less,Minder,reviewed,frappe,,,,,,,
-Less than a year,Minder dan een jaar,reviewed,erpnext,,,,,,,
-Less Than Amount,Minder dan bedrag,reviewed,erpnext,,,,,,,
-Let's avoid repeated words and characters,Laten we voorkomen dat herhaalde woorden en tekens,reviewed,frappe,,,,,,,
-Let's Get Started,Laten we beginnen,reviewed,frappe,,,,,,,
-Let's prepare the system for first use.,Laten we het voorbereiden van het systeem voor het eerste gebruik.,reviewed,frappe,,,,,,,
-Let's take you back to onboarding,Laten we teruggaan naar onboarding,reviewed,frappe,,,,,,,
-Letter,Brief,reviewed,frappe,,,,,,,
-Letter Head,Briefhoofd,reviewed,both,,,,,,,
-Letter head,Briefhoofd,reviewed,custom,,,,,,,
-Letter Head Based On,Briefhoofd op basis van,reviewed,frappe,,,,,,,
-Letter Head Image,Briefhoofd-afbeelding,reviewed,frappe,,,,,,,
-Letter Head in HTML,Briefhoofd in HTML,reviewed,frappe,,,,,,,
-Letter Head Name,Briefhoodnaam,reviewed,frappe,,,,,,,
-Letter Heads for print templates.,Briefhoofden voor printsjablonen.,reviewed,erpnext,,,,,,,
-Letter or Email Body Text,Hoofdtekst van brief of e-mail,reviewed,erpnext,,,,,,,
-Letter or Email Closing Text,Brief of e-mail afsluitingstekst,reviewed,erpnext,,,,,,,
-Level,Niveau,reviewed,both,,,,,,,
-"Level 0 is for document level permissions, higher levels for field level permissions.","Niveau 0 is voor machtigingen op documentniveau, hogere niveaus voor machtigingen op veldniveau.",reviewed,frappe,,,,,,,
-Level Name,Niveau naam,reviewed,frappe,,,,,,,
-Lft,Lft,reviewed,erpnext,,,,,,,
-Liabilities,Passiva,reviewed,erpnext,,,,,,,
-Liability,Verplichting,reviewed,erpnext,,,,,,,
-License,Licentie,reviewed,frappe,,,,,,,
-License Details,Licentie details,reviewed,erpnext,,,,,,,
-License Number,Licentienummer,reviewed,erpnext,,,,,,,
-License Plate,Kenteken,reviewed,erpnext,,,,,,,
-Light Color,Lichte kleur,reviewed,frappe,,,,,,,
-lightblue,lichtblauw,reviewed,frappe,,,,,,,
-Like,Leuk vinden,reviewed,frappe,,,,,,,
-like,zoals,reviewed,frappe,,,,,,,
-Liked,Geliked,reviewed,frappe,,,,,,,
-Liked By,Geliked door,reviewed,frappe,,,,,,,
-Liked by {0},Geliked door {0},reviewed,frappe,,,,,,,
-Likes,Likes,reviewed,both,,,,,,,
-Limit,Limiet,reviewed,frappe,,,,,,,
-Limit Number of DB Backups,Beperk aantal DB-back-ups,reviewed,frappe,,,,,,,
-Limited to 12 characters,Beperkt tot 12 tekens,reviewed,erpnext,,,,,,,
-Line,Lijn,reviewed,frappe,,,,,,,
-Line spacing for amount in words,Regelafstand voor het bedrag in woorden,reviewed,erpnext,,,,,,,
-Link,Koppeling,reviewed,both,,,,,,,
-link,Link,reviewed,frappe,,,,,,,
-Link Cards,Koppel kaarten,reviewed,frappe,,,,,,,
-Link Customer to Patient,Koppel klant aan patiënt,reviewed,erpnext,,,,,,,
-Link Document Type,Type document koppelen,reviewed,frappe,,,,,,,
-Link existing Quality Procedure.,Koppel bestaande kwaliteitsprocedures.,reviewed,erpnext,,,,,,,
-Link Expired,Link verlopen,reviewed,frappe,,,,,,,
-Link Fieldname,Veldnaam koppelen,reviewed,frappe,,,,,,,
-Link Name,Linknaam,reviewed,frappe,,,,,,,
-Link Options,Link opties,reviewed,erpnext,,,,,,,
-"Link that is the website home page. Standard Links (index, login, products, blog, about, contact)","Link dat is de homepagina van de site . Standaard Links (index , inloggen, producten , blog , over , contact)",reviewed,frappe,,,,,,,
-Link Title,Linktitel,reviewed,frappe,,,,,,,
-Link To,Link naar,reviewed,frappe,,,,,,,
-Link to Material Request,Link naar artikelaanvraag,reviewed,erpnext,,,,,,,
-Link to Material Requests,Koppeling naar materiaalanvragen,reviewed,erpnext,,,,,,,
-Link to material requests,Koppeling naar materiaalanvragen,reviewed,erpnext,,,,,,,
-Link to the page you want to open. Leave blank if you want to make it a group parent.,Link naar de pagina die u wilt openen. Laat leeg als u wilt dat een groep ouders te maken.,reviewed,frappe,,,,,,,
-LInked Analysis,Geïntegreerde analyse,reviewed,erpnext,,,,,,,
-Linked Doctype,Gekoppeld Doctype,reviewed,erpnext,,,,,,,
-Linked Documents,Gekoppelde documenten,reviewed,both,,,,,,,
-Linked Invoices,Gelinkte facturen,reviewed,erpnext,,,,,,,
-Linked Item,Gekoppeld item,reviewed,erpnext,,,,,,,
-Linked Item Details,Gekoppelde itemdetails,reviewed,erpnext,,,,,,,
-Linked Location,Gekoppelde locatie,reviewed,erpnext,,,,,,,
-Linked Soil Texture,Gekoppelde bodemtextuur,reviewed,erpnext,,,,,,,
-Linked With,Gekoppeld met,reviewed,frappe,,,,,,,
-Linked with {0},Gekoppeld met {0},reviewed,frappe,,,,,,,
-linkedin,LinkedIn,reviewed,frappe,,,,,,,
-LinkedIn Post Id,LinkedIn-bericht-id,reviewed,erpnext,,,,,,,
-LinkedIn Settings,LinkedIn-instellingen,reviewed,erpnext,,,,,,,
-List,Lijst,reviewed,frappe,,,,,,,
-list,lijst,reviewed,frappe,,,,,,,
-List a document type,Toon een documenttype,reviewed,frappe,,,,,,,
-"List as [{""label"": _(""Jobs""), ""route"":""jobs""}]","Lijst als [{ &quot;label&quot;: _ ( &quot;Jobs&quot;), &quot;route&quot;: &quot;banen&quot;}]",reviewed,frappe,,,,,,,
-List Filter,Lijstfilter,reviewed,frappe,,,,,,,
-List items that form the package.,Lijst items die het pakket vormen.,reviewed,erpnext,,,,,,,
-List of all share transactions,Lijst met alle aandelentransacties,reviewed,erpnext,,,,,,,
-List of available Shareholders with folio numbers,Lijst met beschikbare aandeelhouders met folionummers,reviewed,erpnext,,,,,,,
-List of backups available for download,Lijst van back-ups te downloaden,reviewed,frappe,,,,,,,
-List of diseases detected on the field. When selected it'll automatically add a list of tasks to deal with the disease,Lijst met gedetecteerde ziekten op het veld. Na selectie voegt het automatisch een lijst met taken toe om de ziekte aan te pakken,reviewed,erpnext,,,,,,,
-List of patches executed,Lijst van uitgevoerde patches,reviewed,frappe,,,,,,,
-List of themes for Website.,Lijst van de thema&#39;s voor de website.,reviewed,frappe,,,,,,,
-List Settings,Lijstinstellingen,reviewed,frappe,,,,,,,
-List this Item in multiple groups on the website.,Toon dit artikel in meerdere groepen op de website.,reviewed,erpnext,,,,,,,
-List View,Lijstweergave,reviewed,custom,,,,,,,
-List View Setting,Lijstweergave-instelling,reviewed,frappe,,,,,,,
-List View Settings,Instellingen voor lijstweergave,reviewed,frappe,,,,,,,
-Live API Key,Live API-sleutel,reviewed,erpnext,,,,,,,
-LMS Activity,LMS-activiteit,reviewed,erpnext,,,,,,,
-LMS Only,Alleen LMS,reviewed,erpnext,,,,,,,
-LMS User,LMS-gebruiker,reviewed,erpnext,,,,,,,
-Load All Criteria,Laad alle criteria,reviewed,erpnext,,,,,,,
-Load More,Meer laden,reviewed,frappe,,,,,,,
-Load more,Meer laden,reviewed,custom,,,,,,,
-Loading,Laden,reviewed,frappe,,,,,,,
-Loading Filters...,Filters laden ...,reviewed,frappe,,,,,,,
-Loading import file...,Importbestand laden ...,reviewed,frappe,,,,,,,
-Loading...,Laden ...,reviewed,both,,,,,,,
-Loam,Leem,reviewed,erpnext,,,,,,,
-Loamy Sand,Leemachtige zand,reviewed,erpnext,,,,,,,
-Loan,Lening,reviewed,erpnext,,,,,,,
-Loan Applications from customers and employees.,Leningaanvragen van klanten en werknemers.,reviewed,erpnext,,,,,,,
-Loan Closure,Lening sluiting,reviewed,erpnext,,,,,,,
-Loan End Date,Einddatum lening,reviewed,erpnext,,,,,,,
-Loan Period (Days),Uitleentermijn (dagen),reviewed,erpnext,,,,,,,
-Loan Processes,Lening processen,reviewed,erpnext,,,,,,,
-Loan repayment,Terugbetaling van schulden,reviewed,erpnext,,,,,,,
-Loan Start Date,Startdatum lening,reviewed,erpnext,,,,,,,
-Loan Start Date and Loan Period are mandatory to save the Invoice Discounting,De startdatum en de uitleentermijn van de lening zijn verplicht om de korting op de factuur op te slaan,reviewed,erpnext,,,,,,,
-Loan Type for interest and penalty rates,Type lening voor rente en boetes,reviewed,erpnext,,,,,,,
-Loans,Leningen,reviewed,erpnext,,,,,,,
-Loans (Liabilities),Leningen (Passiva),reviewed,erpnext,,,,,,,
-Loans and Advances (Assets),Leningen en voorschotten (activa),reviewed,erpnext,,,,,,,
-Loans provided to customers and employees.,Leningen verstrekt aan klanten en werknemers.,reviewed,erpnext,,,,,,,
-Local,lokaal,reviewed,erpnext,,,,,,,
-Local DocType,Lokaal DocType,reviewed,frappe,,,,,,,
-Local Document Type,Lokaal documenttype,reviewed,frappe,,,,,,,
-Local Fieldname,Lokale veldnaam,reviewed,frappe,,,,,,,
-Local Primary Key,Lokale primaire sleutel,reviewed,frappe,,,,,,,
-Location,Locatie,reviewed,both,,,,,,,
-Location Details,Locatie details,reviewed,erpnext,,,,,,,
-Location Name,Locatie naam,reviewed,erpnext,,,,,,,
-Lock,Slot,reviewed,erpnext,,,,,,,
-lock,slot,reviewed,frappe,,,,,,,
-Log Cleanup,Logboekopruiming,reviewed,frappe,,,,,,,
-Log cleanup and notification configuration,Logboekopruiming en meldingsconfiguratie,reviewed,frappe,,,,,,,
-Log Data,Loggegevens,reviewed,frappe,,,,,,,
-Log in to access this page.,Log in om toegang te krijgen tot deze pagina.,reviewed,frappe,,,,,,,
-Log of error during requests.,Log van fout tijdens verzoeken.,reviewed,frappe,,,,,,,
-Log of error on automated events (scheduler).,Log van fout op geautomatiseerde evenementen ( scheduler ) .,reviewed,frappe,,,,,,,
-Log of Scheduler Errors,Log van Scheduler Fouten,reviewed,frappe,,,,,,,
-Log Setting User,Logboekinstelling gebruiker,reviewed,frappe,,,,,,,
-Log Settings,Log instellingen,reviewed,frappe,,,,,,,
-Log Type,Logtype,reviewed,custom,,,,,,,
-Logged in,Ingelogd,reviewed,frappe,,,,,,,
-logged in,ingelogd,reviewed,frappe,,,,,,,
-Logged in as Guest or Administrator,Aangemeld als Gast of Beheerder,reviewed,frappe,,,,,,,
-Logged Out,Uitgelogd,reviewed,frappe,,,,,,,
-Login After,Login Na,reviewed,frappe,,,,,,,
-Login and view in Browser,Inloggen en bekijken in browser,reviewed,frappe,,,,,,,
-Login Before,Login Voor,reviewed,frappe,,,,,,,
-Login Id is required,Inloggen Id is vereist,reviewed,frappe,,,,,,,
-Login not allowed at this time,Inloggen niet toegestaan op dit moment,reviewed,frappe,,,,,,,
-Login Required,Login Verplicht,reviewed,frappe,,,,,,,
-"Login session expired, refresh page to retry","Login sessie is verlopen, vernieuw pagina om opnieuw te proberen",reviewed,frappe,,,,,,,
-Login to comment,Log in om commentaar,reviewed,frappe,,,,,,,
-Login token required,Login token vereist,reviewed,frappe,,,,,,,
-Login Verification Code from {},Inlogverificatiecode van {},reviewed,frappe,,,,,,,
-Login with LDAP,Login met LDAP,reviewed,frappe,,,,,,,
-Logo Width,Logo breedte,reviewed,frappe,,,,,,,
-Logout,Afmelden,reviewed,frappe,,,,,,,
-Logout All Sessions,Alle sessies uitloggen,reviewed,frappe,,,,,,,
-Logout All Sessions on Password Reset,Alle sessies afmelden bij het opnieuw instellen van het wachtwoord,reviewed,frappe,,,,,,,
-Logout From All Devices After Changing Password,Afmelden bij alle apparaten na het wijzigen van het wachtwoord,reviewed,frappe,,,,,,,
-Logs for maintaining sms delivery status,Logs voor het behoud van sms afleverstatus,reviewed,erpnext,,,,,,,
-Long Text,Lange tekst,reviewed,frappe,,,,,,,
-Longitude,Lengtegraad,reviewed,erpnext,,,,,,,
-Looks Great,Ziet er geweldig uit,reviewed,frappe,,,,,,,
-Looks like someone sent you to an incomplete URL. Please ask them to look into it.,Het lijkt erop dat iemand die je verstuurd naar een onvolledige URL. Vraag hen om naar te kijken.,reviewed,erpnext,,,,,,,
-Looks like something is wrong with this site's payment gateway configuration. No payment has been made.,Het lijkt erop dat er iets mis is met de betaling gateway de configuratie van deze site. Geen betaling heeft plaatsgevonden.,reviewed,frappe,,,,,,,
-Looks like something is wrong with this site's Paypal configuration.,Het lijkt erop dat er iets mis is met de Paypal-configuratie van deze site.,reviewed,frappe,,,,,,,
-"Looks like something went wrong during the transaction. Since we haven't confirmed the payment, Paypal will automatically refund you this amount. If it doesn't, please send us an email and mention the Correlation ID: {0}.","Het lijkt erop dat er iets mis tijdens de transactie ging. Omdat we niet de betaling bevestigd, zal Paypal automatisch betalen u dit bedrag. Als dit niet gebeurt, stuur ons dan een e-mail met vermelding van Correlation ID: {0}.",reviewed,frappe,,,,,,,
-Looks like you didn't change the value,Het lijkt erop dat je de waarde niet hebt gewijzigd,reviewed,frappe,,,,,,,
-Lost,Verloren,reviewed,erpnext,,,,,,,
-Lost Opportunity,Kans verloren,reviewed,erpnext,,,,,,,
-Lost Quotation,verloren Offerte,reviewed,erpnext,,,,,,,
-Lost Reason,Reden van verlies,reviewed,erpnext,,,,,,,
-Lost Reason Detail,Verloren reden Detail,reviewed,erpnext,,,,,,,
-Lost Reasons,Verloren redenen,reviewed,erpnext,,,,,,,
-Low,Laag,reviewed,both,,,,,,,
-Low Sensitivity,Lage gevoeligheid,reviewed,erpnext,,,,,,,
-Lower Deduction Certificate,Lagere aftrekcertificaat,reviewed,erpnext,,,,,,,
-Lower Income,Lager inkomen,reviewed,erpnext,,,,,,,
-Loyalty Amount,Loyaliteit,reviewed,erpnext,,,,,,,
-Loyalty Point Entry,Loyaliteitspunten boeking,reviewed,custom,,,,,,,
-Loyalty Point Entry Redemption,Incentive Loyalty Point-ingang,reviewed,erpnext,,,,,,,
-Loyalty Points,Loyaliteitspunten,reviewed,erpnext,,,,,,,
-Loyalty Points Redemption,Loyalty Points-verlossing,reviewed,erpnext,,,,,,,
-"Loyalty Points will be calculated from the spent done (via the Sales Invoice), based on collection factor mentioned.","Loyaliteitspunten worden berekend op basis van het aantal gedaane uitgaven (via de verkoopfactuur), op basis van de genoemde verzamelfactor.",reviewed,erpnext,,,,,,,
-Loyalty Points: {0},Loyaliteitspunten: {0},reviewed,erpnext,,,,,,,
-Loyalty Program,Loyaliteitsprogramma,reviewed,erpnext,,,,,,,
-Loyalty Program Help,Loyaliteitsprogramma Hulp,reviewed,erpnext,,,,,,,
-Loyalty Program Name,Naam loyaliteitsprogramma,reviewed,erpnext,,,,,,,
-Loyalty Program Tier,Loyaliteitsprogramma Tier,reviewed,erpnext,,,,,,,
-Loyalty Program Type,Type loyaliteitsprogramma,reviewed,erpnext,,,,,,,
-Machine malfunction,Machinestoring,reviewed,erpnext,,,,,,,
+Last Execution,Laatste uitvoering,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Last Integration Date,Laatste integratiedatum,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Last IP,Laatste IP-,reviewed,frappe,0.1,0.1,0.1,0.2,0.1,0.0,rewrite
+Last Issue,Laatste melding,reviewed,erpnext,0.89,0.85,0.9,0.85,1.0,1.0,ok
+Last Known Versions,Laatst Bekende Versies,reviewed,frappe,0.72,0.8,0.6,0.7,0.6,1.0,review
+Last Login,Laatst ingelogd,reviewed,frappe,0.94,0.9,0.95,0.9,1.0,1.0,ok
+Last Message,Laatste bericht,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Last Modified,Laatst gewijzigd,reviewed,custom,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Last Modified By,Laatst gewijzigd door,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Last Modified Date,Laatst gewijzigde datum,reviewed,frappe,0.77,0.8,0.65,0.75,0.7,1.0,review
+Last Modified On,Laatst gewijzigd op,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Last Month,Vorige maand,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Last Month Downtime Analysis,Uitvaltijdanalyse afgelopen maand,reviewed,erpnext,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Last Name,Achternaam,reviewed,both,0.97,0.95,1.0,0.95,1.0,1.0,ok
+last Odometer Value,laatste kilometertellerwaarde,reviewed,erpnext,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Last Order Amount,Laatste Orderbedrag,reviewed,erpnext,0.76,0.8,0.7,0.7,0.7,1.0,review
+Last Order Date,Laatste Bestel Date,reviewed,erpnext,0.23,0.3,0.1,0.2,0.1,0.5,rewrite
+Last Password Reset Date,Datum laatste wachtwoord opnieuw instellen,reviewed,frappe,0.72,0.75,0.6,0.7,0.65,1.0,review
+Last Point Allocation Date,Datum toewijzingsdatum,reviewed,frappe,0.15,0.1,0.1,0.2,0.2,0.3,rewrite
+Last Purchase Price,Laatste aankoopprijs,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Last Purchase Rate,Laatste inkooptarief,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Last Quarter,Het laatste kwartier,reviewed,frappe,0.28,0.1,0.3,0.2,0.8,0.5,rewrite
+Last refreshed,Laatst vernieuwd,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Last Sales Invoice,Laatste verkoopfactuur,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Last Stock Transaction for item {0} under warehouse {1} was on {2}.,Laatste voorraadtransactie voor artikel {0} onder magazijn {1} was op {2}.,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Last Synced On,Laatst gesynchroniseerd,reviewed,frappe,0.85,0.85,0.85,0.85,0.9,0.8,ok
+Last synced {0},Laatst gesynchroniseerd {0},reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Last Update,Laatste update,reviewed,frappe,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Last Updated By,Laatst bijgewerkt door,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Last Updated On,Laatst aangepast op,reviewed,frappe,0.87,0.85,0.85,0.8,1.0,1.0,ok
+Last User,Laatste gebruiker,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Last Week,Vorige week,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Last Year,Vorig jaar,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Late Checkin,Late check-in,reviewed,erpnext,0.91,0.9,0.85,0.85,1.0,1.0,ok
+Latest,laatst,reviewed,erpnext,0.46,0.4,0.4,0.4,0.6,0.8,rewrite
+Latest Age,Laatste leeftijd,reviewed,erpnext,0.52,0.4,0.4,0.5,0.8,1.0,review
+Latest Attempt,Laatste poging,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Latest Highest Score,Nieuwste hoogste score,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Latest price updated in all BOMs,Laatste prijs bijgewerkt in alle BOM&#39;s,reviewed,erpnext,0.52,0.5,0.4,0.5,0.5,0.8,review
+Latitude,Breedtegraad,reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
+LDAP First Name Field,LDAP Voornaam Field,reviewed,frappe,0.4,0.4,0.3,0.4,0.3,0.7,rewrite
+LDAP Group,LDAP-groep,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+LDAP Group Field,LDAP-groepsveld,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+LDAP Group Mapping,LDAP-groepstoewijzing,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
+LDAP Group Mappings,LDAP-groepstoewijzingen,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
+LDAP is not enabled.,LDAP is niet ingeschakeld.,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+LDAP Last Name Field,LDAP-achternaamveld,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+LDAP Middle Name Field,Veld LDAP-middelste naam,reviewed,frappe,0.53,0.5,0.4,0.5,0.6,0.9,review
+LDAP Mobile Field,LDAP mobiel veld,reviewed,frappe,0.72,0.7,0.65,0.7,0.7,1.0,review
+LDAP Not Installed,LDAP niet geïnstalleerd,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+LDAP Phone Field,LDAP-telefoonveld,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"LDAP Search String needs to end with a placeholder, eg sAMAccountName={0}","LDAP-zoekreeks moet eindigen met een tijdelijke aanduiding, bijvoorbeeld sAMAccountName = {0}",reviewed,frappe,0.83,0.8,0.75,0.8,0.85,1.0,ok
+LDAP Security,LDAP-beveiliging,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+LDAP Server Url,LDAP-server Url,reviewed,frappe,0.82,0.8,0.75,0.8,0.8,1.0,ok
+LDAP Settings,LDAP-instellingen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Ldap settings,Ldap-instellingen,reviewed,frappe,0.84,0.85,0.8,0.8,0.8,1.0,ok
+LDAP User Creation and Mapping,Maken en toewijzen van LDAP-gebruikers,reviewed,frappe,0.87,0.85,0.8,0.85,0.9,1.0,ok
+LDAP Username Field,LDAP Gebruikersnaam Field,reviewed,frappe,0.4,0.4,0.3,0.4,0.3,0.7,rewrite
+Lead,Lood,reviewed,erpnext,0.19,0.0,0.1,0.1,0.9,0.5,rewrite
+Lead Count,Loodtelling,reviewed,erpnext,0.13,0.0,0.05,0.1,0.5,0.5,rewrite
+Lead is an Organization,Lead is een organisatie,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Lead Name,Lead Naam,reviewed,erpnext,0.69,0.7,0.6,0.7,0.6,1.0,review
+Lead Owner,Lead Eigenaar,reviewed,erpnext,0.69,0.7,0.6,0.7,0.6,1.0,review
+Lead Owner cannot be same as the Lead,Lead eigenaar kan niet hetzelfde zijn als de lead zijn,reviewed,erpnext,0.68,0.7,0.55,0.65,0.6,1.0,review
+Lead Owner Efficiency,Leideneigenaar Efficiency,reviewed,erpnext,0.13,0.1,0.05,0.1,0.2,0.5,rewrite
+Lead Source,Lead Bron,reviewed,erpnext,0.69,0.7,0.6,0.7,0.6,1.0,review
+Lead Time,Doorlooptijd,reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
+Lead Time (Days),Doorlooptijd (dagen),reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
+Lead Time (in mins),Doorlooptijd (in minuten),reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Lead Time Date,Lead Tijd Datum,reviewed,erpnext,0.32,0.3,0.2,0.3,0.3,0.8,rewrite
+Lead Time Days,Lead Time Dagen,reviewed,erpnext,0.32,0.3,0.2,0.3,0.3,0.8,rewrite
+Lead Time in days,Levertijd in dagen,reviewed,erpnext,0.84,0.8,0.85,0.75,1.0,1.0,ok
+Lead to Quotation,Leiden tot Offerte,reviewed,erpnext,0.36,0.3,0.25,0.3,0.5,0.8,rewrite
+Leaderboard,Scorebord,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+"Leads help you get business, add all your contacts and more as your leads","Leads u helpen om zaken, voeg al uw contacten en nog veel meer als uw leads",reviewed,erpnext,0.36,0.4,0.2,0.4,0.2,0.8,rewrite
+leaf,blad,reviewed,frappe,0.83,0.75,0.8,0.75,1.0,1.0,ok
+Learn,Leren,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Learning Management System Settings,Instellingen leerbeheersysteem,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Learning Management System Title,Titel Learning Management System,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,1.0,review
+Leave a Comment,Laat een reactie achter,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Leave Adjustment,Verlofcorrectie,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Leave and Attendance,Verlaat en Aanwezigheid,reviewed,erpnext,0.16,0.1,0.1,0.2,0.2,0.5,rewrite
+Leave application {0} already exists against the student {1},Laat toepassing {0} al bestaan tegen de student {1},reviewed,erpnext,0.14,0.1,0.05,0.1,0.1,0.7,rewrite
+Leave Approver,Verlof goedkeurder,reviewed,erpnext,0.79,0.8,0.75,0.8,0.7,1.0,review
+"Leave blank for home.\nThis is relative to site URL, for example ""about"" will redirect to ""https://yoursitename.com/about""","Laat leeg voor thuis. Dit is relatief ten opzichte van de site-URL, bijvoorbeeld &quot;about&quot; zal omleiden naar &quot;https://yoursitename.com/about&quot;",reviewed,erpnext,0.7,0.7,0.6,0.7,0.7,0.8,review
+Leave blank if the Supplier is blocked indefinitely,Laat dit leeg als de leverancier voor onbepaalde tijd is geblokkeerd,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Leave blank if you make students groups per year,Verlaat leeg als u studentengroepen per jaar maakt,reviewed,erpnext,0.24,0.2,0.15,0.2,0.2,0.8,rewrite
+Leave blank to repeat always,Laat leeg om altijd te herhalen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Leave blank to use the standard Delivery Note format,Laat dit leeg om de standaardindeling Notities te gebruiken,reviewed,erpnext,0.47,0.4,0.4,0.5,0.6,0.6,rewrite
+Leave Block List,Verlofblokkering,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,0.9,ok
+Leave Encashed?,Verlof verzilverd?,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Leave Encashment,Verlofuitbetaling,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Leave Ledger Entry,Verlofgrootboekregel,reviewed,custom,0.87,0.85,0.8,0.85,0.9,1.0,ok
+Leave Management,Laat management,reviewed,erpnext,0.13,0.1,0.05,0.1,0.2,0.5,rewrite
+Leave Policy Assignment,Verlofbeleid toewijzing,reviewed,custom,0.78,0.8,0.7,0.8,0.7,1.0,review
+Leave Reason,Verlaat de Rede,reviewed,erpnext,0.11,0.1,0.05,0.1,0.2,0.4,rewrite
+Leave Settings,Laat instellingen staan,reviewed,erpnext,0.17,0.1,0.1,0.1,0.4,0.5,rewrite
+Leave this conversation,Laat dit gesprek,reviewed,frappe,0.4,0.4,0.3,0.4,0.4,0.6,rewrite
+Leave unchecked if you don't want to consider batch while making course based groups.,Verlaat het vinkje als u geen batch wilt overwegen tijdens het maken van cursussen op basis van cursussen.,reviewed,erpnext,0.24,0.2,0.15,0.2,0.3,0.7,rewrite
+Leaves Expired,Bladeren verlopen,reviewed,erpnext,0.13,0.05,0.05,0.1,0.5,0.5,rewrite
+Leaves has been granted sucessfully,Bladeren zijn met succes uitgevoerd,reviewed,erpnext,0.12,0.1,0.1,0.1,0.1,0.3,rewrite
+Leaves must be allocated in multiples of 0.5,"Verloven moeten in veelvouden van 0,5 worden toegewezen",reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
+Leaves Taken,Bladeren genomen,reviewed,erpnext,0.18,0.1,0.1,0.1,0.5,0.5,rewrite
+Ledger,Grootboek,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Ledger Merge,Grootboek samenvoegen,reviewed,custom,0.98,1.0,0.9,1.0,1.0,1.0,ok
+Left,Links,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Left Index,Linker index,reviewed,erpnext,0.8,0.8,0.7,0.8,0.9,1.0,ok
+Left this conversation,Links dit gesprek,reviewed,frappe,0.21,0.2,0.1,0.2,0.3,0.5,rewrite
+Legal,wettelijk,reviewed,erpnext,0.49,0.5,0.5,0.5,0.3,0.8,rewrite
+Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization.,Rechtspersoon / Dochteronderneming met een aparte Rekeningschema behoren tot de Organisatie.,reviewed,erpnext,0.53,0.5,0.5,0.6,0.4,0.8,review
+Legal Expenses,Juridische Kosten,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Length,Lengte,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Length Must be less than 280.,Lengte moet kleiner zijn dan 280.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Length of {0} should be between 1 and 1000,Lengte van {0} moet tussen 1 en 1000,reviewed,frappe,0.62,0.7,0.5,0.7,0.4,0.8,review
+Less,Minder,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Less than a year,Minder dan een jaar,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Less Than Amount,Minder dan bedrag,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Let's avoid repeated words and characters,Laten we voorkomen dat herhaalde woorden en tekens,reviewed,frappe,0.48,0.6,0.3,0.6,0.3,0.5,rewrite
+Let's Get Started,Laten we beginnen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Let's prepare the system for first use.,Laten we het voorbereiden van het systeem voor het eerste gebruik.,reviewed,frappe,0.58,0.7,0.4,0.7,0.3,0.8,review
+Let's take you back to onboarding,Laten we teruggaan naar onboarding,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Letter,Brief,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Letter Head,Briefhoofd,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Letter head,Briefhoofd,reviewed,custom,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Letter Head Based On,Briefhoofd op basis van,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Letter Head Image,Briefhoofd-afbeelding,reviewed,frappe,0.98,1.0,0.9,1.0,1.0,1.0,ok
+Letter Head in HTML,Briefhoofd in HTML,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Letter Head Name,Briefhoodnaam,reviewed,frappe,0.72,0.7,0.6,0.7,0.8,1.0,review
+Letter Heads for print templates.,Briefhoofden voor printsjablonen.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Letter or Email Body Text,Hoofdtekst van brief of e-mail,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Letter or Email Closing Text,Brief of e-mail afsluitingstekst,reviewed,erpnext,0.82,0.8,0.7,0.8,0.9,1.0,ok
+Level,Niveau,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+"Level 0 is for document level permissions, higher levels for field level permissions.","Niveau 0 is voor machtigingen op documentniveau, hogere niveaus voor machtigingen op veldniveau.",reviewed,frappe,0.98,1.0,0.9,1.0,1.0,1.0,ok
+Level Name,Niveau naam,reviewed,frappe,0.78,0.8,0.7,0.8,0.7,1.0,review
+Lft,Lft,reviewed,erpnext,0.91,0.8,1.0,0.9,1.0,1.0,ok
+Liabilities,Passiva,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Liability,Verplichting,reviewed,erpnext,0.74,0.7,0.7,0.6,1.0,1.0,review
+License,Licentie,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+License Details,Licentie details,reviewed,erpnext,0.78,0.8,0.7,0.8,0.7,1.0,review
+License Number,Licentienummer,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+License Plate,Kenteken,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Light Color,Lichte kleur,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+lightblue,lichtblauw,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Like,Leuk vinden,reviewed,frappe,0.65,0.6,0.5,0.6,0.9,1.0,review
+like,zoals,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Liked,Geliked,reviewed,frappe,0.68,0.7,0.5,0.7,0.7,1.0,review
+Liked By,Geliked door,reviewed,frappe,0.68,0.7,0.5,0.7,0.7,1.0,review
+Liked by {0},Geliked door {0},reviewed,frappe,0.68,0.7,0.5,0.7,0.7,1.0,review
+Likes,Likes,reviewed,both,0.86,0.8,0.8,0.8,1.0,1.0,ok
+Limit,Limiet,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Limit Number of DB Backups,Beperk aantal DB-back-ups,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Limited to 12 characters,Beperkt tot 12 tekens,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Line,Lijn,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Line spacing for amount in words,Regelafstand voor het bedrag in woorden,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Link,Koppeling,reviewed,both,0.86,0.8,0.8,0.8,1.0,1.0,ok
+link,Link,reviewed,frappe,0.65,0.6,0.6,0.5,1.0,1.0,review
+Link Cards,Koppel kaarten,reviewed,frappe,0.72,0.7,0.6,0.7,0.8,1.0,review
+Link Customer to Patient,Koppel klant aan patiënt,reviewed,erpnext,0.98,1.0,0.9,1.0,1.0,1.0,ok
+Link Document Type,Type document koppelen,reviewed,frappe,0.81,0.8,0.7,0.8,0.8,1.0,ok
+Link existing Quality Procedure.,Koppel bestaande kwaliteitsprocedures.,reviewed,erpnext,0.77,0.8,0.7,0.8,0.7,0.9,review
+Link Expired,Link verlopen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Link Fieldname,Veldnaam koppelen,reviewed,frappe,0.81,0.8,0.7,0.8,0.8,1.0,ok
+Link Name,Linknaam,reviewed,frappe,0.86,0.8,0.8,0.8,1.0,1.0,ok
+Link Options,Link opties,reviewed,erpnext,0.77,0.8,0.7,0.7,0.8,1.0,review
+"Link that is the website home page. Standard Links (index, login, products, blog, about, contact)","Link dat is de homepagina van de site . Standaard Links (index , inloggen, producten , blog , over , contact)",reviewed,frappe,0.39,0.4,0.3,0.4,0.3,0.7,rewrite
+Link Title,Linktitel,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Link To,Link naar,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Link to Material Request,Link naar artikelaanvraag,reviewed,erpnext,0.73,0.7,0.7,0.6,0.9,1.0,review
+Link to Material Requests,Koppeling naar materiaalanvragen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Link to material requests,Koppeling naar materiaalanvragen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Link to the page you want to open. Leave blank if you want to make it a group parent.,Link naar de pagina die u wilt openen. Laat leeg als u wilt dat een groep ouders te maken.,reviewed,frappe,0.47,0.5,0.4,0.5,0.3,0.7,rewrite
+LInked Analysis,Geïntegreerde analyse,reviewed,erpnext,0.37,0.3,0.3,0.3,0.5,0.8,rewrite
+Linked Doctype,Gekoppeld Doctype,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Linked Documents,Gekoppelde documenten,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Linked Invoices,Gelinkte facturen,reviewed,erpnext,0.66,0.7,0.5,0.6,0.7,1.0,review
+Linked Item,Gekoppeld item,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Linked Item Details,Gekoppelde itemdetails,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Linked Location,Gekoppelde locatie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Linked Soil Texture,Gekoppelde bodemtextuur,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Linked With,Gekoppeld met,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Linked with {0},Gekoppeld met {0},reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+linkedin,LinkedIn,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+LinkedIn Post Id,LinkedIn-bericht-id,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+LinkedIn Settings,LinkedIn-instellingen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+List,Lijst,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+list,lijst,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+List a document type,Toon een documenttype,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
+"List as [{""label"": _(""Jobs""), ""route"":""jobs""}]","Lijst als [{ &quot;label&quot;: _ ( &quot;Jobs&quot;), &quot;route&quot;: &quot;banen&quot;}]",reviewed,frappe,0.2,0.2,0.1,0.2,0.1,0.5,rewrite
+List Filter,Lijstfilter,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+List items that form the package.,Lijst items die het pakket vormen.,reviewed,erpnext,0.7,0.7,0.6,0.7,0.6,1.0,review
+List of all share transactions,Lijst met alle aandelentransacties,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+List of available Shareholders with folio numbers,Lijst met beschikbare aandeelhouders met folionummers,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+List of backups available for download,Lijst van back-ups te downloaden,reviewed,frappe,0.58,0.6,0.5,0.6,0.5,0.8,review
+List of diseases detected on the field. When selected it'll automatically add a list of tasks to deal with the disease,Lijst met gedetecteerde ziekten op het veld. Na selectie voegt het automatisch een lijst met taken toe om de ziekte aan te pakken,reviewed,erpnext,0.93,0.9,0.9,0.9,0.9,1.0,ok
+List of patches executed,Lijst van uitgevoerde patches,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
+List of themes for Website.,Lijst van de thema&#39;s voor de website.,reviewed,frappe,0.47,0.5,0.4,0.5,0.3,0.7,rewrite
+List Settings,Lijstinstellingen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+List this Item in multiple groups on the website.,Toon dit artikel in meerdere groepen op de website.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+List View,Lijstweergave,reviewed,custom,1.0,1.0,1.0,1.0,1.0,1.0,ok
+List View Setting,Lijstweergave-instelling,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+List View Settings,Instellingen voor lijstweergave,reviewed,frappe,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Live API Key,Live API-sleutel,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
+LMS Activity,LMS-activiteit,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
+LMS Only,Alleen LMS,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
+LMS User,LMS-gebruiker,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Load All Criteria,Laad alle criteria,reviewed,erpnext,0.72,0.7,0.55,0.7,0.8,1.0,review
+Load More,Meer laden,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Load more,Meer laden,reviewed,custom,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Loading,Laden,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Loading Filters...,Filters laden ...,reviewed,frappe,0.77,0.75,0.65,0.75,0.8,1.0,review
+Loading import file...,Importbestand laden ...,reviewed,frappe,0.77,0.75,0.65,0.75,0.8,1.0,review
+Loading...,Laden ...,reviewed,both,0.77,0.75,0.65,0.75,0.8,1.0,review
+Loam,Leem,reviewed,erpnext,0.91,0.9,0.9,0.85,0.95,1.0,ok
+Loamy Sand,Leemachtige zand,reviewed,erpnext,0.72,0.8,0.55,0.7,0.55,1.0,review
+Loan,Lening,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Loan Applications from customers and employees.,Leningaanvragen van klanten en werknemers.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Loan Closure,Lening sluiting,reviewed,erpnext,0.67,0.7,0.5,0.65,0.6,1.0,review
+Loan End Date,Einddatum lening,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Loan Period (Days),Uitleentermijn (dagen),reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Loan Processes,Lening processen,reviewed,erpnext,0.67,0.7,0.5,0.65,0.6,1.0,review
+Loan repayment,Terugbetaling van schulden,reviewed,erpnext,0.59,0.65,0.35,0.5,0.55,1.0,review
+Loan Start Date,Startdatum lening,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Loan Start Date and Loan Period are mandatory to save the Invoice Discounting,De startdatum en de uitleentermijn van de lening zijn verplicht om de korting op de factuur op te slaan,reviewed,erpnext,0.58,0.65,0.4,0.55,0.5,0.9,review
+Loan Type for interest and penalty rates,Type lening voor rente en boetes,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Loans,Leningen,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Loans (Liabilities),Leningen (Passiva),reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Loans and Advances (Assets),Leningen en voorschotten (activa),reviewed,erpnext,0.74,0.75,0.65,0.7,0.7,1.0,review
+Loans provided to customers and employees.,Leningen verstrekt aan klanten en werknemers.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Local,lokaal,reviewed,erpnext,0.6,0.6,0.5,0.55,0.5,1.0,review
+Local DocType,Lokaal DocType,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Local Document Type,Lokaal documenttype,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Local Fieldname,Lokale veldnaam,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Local Primary Key,Lokale primaire sleutel,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Location,Locatie,reviewed,both,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Location Details,Locatie details,reviewed,erpnext,0.76,0.75,0.65,0.75,0.75,1.0,review
+Location Name,Locatie naam,reviewed,erpnext,0.76,0.75,0.65,0.75,0.75,1.0,review
+Lock,Slot,reviewed,erpnext,0.63,0.65,0.45,0.55,0.6,1.0,review
+lock,slot,reviewed,frappe,0.63,0.65,0.45,0.55,0.6,1.0,review
+Log Cleanup,Logboekopruiming,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Log cleanup and notification configuration,Logboekopruiming en meldingsconfiguratie,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Log Data,Loggegevens,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Log in to access this page.,Log in om toegang te krijgen tot deze pagina.,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Log of error during requests.,Log van fout tijdens verzoeken.,reviewed,frappe,0.7,0.75,0.55,0.65,0.65,1.0,review
+Log of error on automated events (scheduler).,Log van fout op geautomatiseerde evenementen ( scheduler ) .,reviewed,frappe,0.48,0.55,0.3,0.45,0.35,0.85,rewrite
+Log of Scheduler Errors,Log van Scheduler Fouten,reviewed,frappe,0.61,0.65,0.45,0.55,0.55,1.0,review
+Log Setting User,Logboekinstelling gebruiker,reviewed,frappe,0.68,0.7,0.55,0.65,0.65,1.0,review
+Log Settings,Log instellingen,reviewed,frappe,0.68,0.7,0.55,0.65,0.65,1.0,review
+Log Type,Logtype,reviewed,custom,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Logged in,Ingelogd,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+logged in,ingelogd,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Logged in as Guest or Administrator,Aangemeld als Gast of Beheerder,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Logged Out,Uitgelogd,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Login After,Login Na,reviewed,frappe,0.62,0.65,0.45,0.55,0.55,1.0,review
+Login and view in Browser,Inloggen en bekijken in browser,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Login Before,Login Voor,reviewed,frappe,0.62,0.65,0.45,0.55,0.55,1.0,review
+Login Id is required,Inloggen Id is vereist,reviewed,frappe,0.58,0.6,0.4,0.55,0.5,1.0,review
+Login not allowed at this time,Inloggen niet toegestaan op dit moment,reviewed,frappe,0.79,0.8,0.7,0.75,0.8,1.0,review
+Login Required,Login Verplicht,reviewed,frappe,0.62,0.65,0.45,0.55,0.55,1.0,review
+"Login session expired, refresh page to retry","Login sessie is verlopen, vernieuw pagina om opnieuw te proberen",reviewed,frappe,0.63,0.65,0.45,0.6,0.55,1.0,review
+Login to comment,Log in om commentaar,reviewed,frappe,0.48,0.55,0.3,0.45,0.35,0.85,rewrite
+Login token required,Login token vereist,reviewed,frappe,0.63,0.65,0.45,0.6,0.55,1.0,review
+Login Verification Code from {},Inlogverificatiecode van {},reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Login with LDAP,Login met LDAP,reviewed,frappe,0.78,0.8,0.7,0.75,0.8,1.0,review
+Logo Width,Logo breedte,reviewed,frappe,0.68,0.7,0.55,0.65,0.65,1.0,review
+Logout,Afmelden,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Logout All Sessions,Alle sessies uitloggen,reviewed,frappe,0.76,0.75,0.65,0.75,0.75,1.0,review
+Logout All Sessions on Password Reset,Alle sessies afmelden bij het opnieuw instellen van het wachtwoord,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Logout From All Devices After Changing Password,Afmelden bij alle apparaten na het wijzigen van het wachtwoord,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Logs for maintaining sms delivery status,Logs voor het behoud van sms afleverstatus,reviewed,erpnext,0.62,0.65,0.45,0.55,0.55,1.0,review
+Long Text,Lange tekst,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Longitude,Lengtegraad,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Looks Great,Ziet er geweldig uit,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Looks like someone sent you to an incomplete URL. Please ask them to look into it.,Het lijkt erop dat iemand die je verstuurd naar een onvolledige URL. Vraag hen om naar te kijken.,reviewed,erpnext,0.53,0.6,0.35,0.5,0.45,0.9,review
+Looks like something is wrong with this site's payment gateway configuration. No payment has been made.,Het lijkt erop dat er iets mis is met de betaling gateway de configuratie van deze site. Geen betaling heeft plaatsgevonden.,reviewed,frappe,0.49,0.55,0.3,0.45,0.4,0.9,rewrite
+Looks like something is wrong with this site's Paypal configuration.,Het lijkt erop dat er iets mis is met de Paypal-configuratie van deze site.,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+"Looks like something went wrong during the transaction. Since we haven't confirmed the payment, Paypal will automatically refund you this amount. If it doesn't, please send us an email and mention the Correlation ID: {0}.","Het lijkt erop dat er iets mis tijdens de transactie ging. Omdat we niet de betaling bevestigd, zal Paypal automatisch betalen u dit bedrag. Als dit niet gebeurt, stuur ons dan een e-mail met vermelding van Correlation ID: {0}.",reviewed,frappe,0.43,0.5,0.25,0.45,0.35,0.8,rewrite
+Looks like you didn't change the value,Het lijkt erop dat je de waarde niet hebt gewijzigd,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Lost,Verloren,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Lost Opportunity,Kans verloren,reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Lost Quotation,verloren Offerte,reviewed,erpnext,0.61,0.65,0.45,0.55,0.5,1.0,review
+Lost Reason,Reden van verlies,reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Lost Reason Detail,Verloren reden Detail,reviewed,erpnext,0.62,0.65,0.45,0.55,0.55,1.0,review
+Lost Reasons,Verloren redenen,reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Low,Laag,reviewed,both,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Low Sensitivity,Lage gevoeligheid,reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Lower Deduction Certificate,Lagere aftrekcertificaat,reviewed,erpnext,0.61,0.65,0.45,0.55,0.5,1.0,review
+Lower Income,Lager inkomen,reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Loyalty Amount,Loyaliteit,reviewed,erpnext,0.57,0.6,0.4,0.5,0.55,0.85,review
+Loyalty Point Entry,Loyaliteitspunten boeking,reviewed,custom,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Loyalty Point Entry Redemption,Incentive Loyalty Point-ingang,reviewed,erpnext,0.34,0.4,0.2,0.3,0.3,0.75,rewrite
+Loyalty Points,Loyaliteitspunten,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Loyalty Points Redemption,Loyalty Points-verlossing,reviewed,erpnext,0.44,0.5,0.3,0.4,0.4,0.85,rewrite
+"Loyalty Points will be calculated from the spent done (via the Sales Invoice), based on collection factor mentioned.","Loyaliteitspunten worden berekend op basis van het aantal gedaane uitgaven (via de verkoopfactuur), op basis van de genoemde verzamelfactor.",reviewed,erpnext,0.72,0.75,0.6,0.65,0.65,1.0,review
+Loyalty Points: {0},Loyaliteitspunten: {0},reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Loyalty Program,Loyaliteitsprogramma,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Loyalty Program Help,Loyaliteitsprogramma Hulp,reviewed,erpnext,0.65,0.65,0.5,0.6,0.65,1.0,review
+Loyalty Program Name,Naam loyaliteitsprogramma,reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Loyalty Program Tier,Loyaliteitsprogramma Tier,reviewed,erpnext,0.64,0.65,0.45,0.6,0.6,1.0,review
+Loyalty Program Type,Type loyaliteitsprogramma,reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Machine malfunction,Machinestoring,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Machine operator errors,Fouten van de machinebediener,reviewed,erpnext,,,,,,,
 Madam,Mevrouw,reviewed,frappe,,,,,,,
 magnet,magneet,reviewed,frappe,,,,,,,

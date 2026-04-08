@@ -16166,298 +16166,299 @@ Ticket status,Ticket status,reviewed,helpdesk
 Ticket type,Tickettype,reviewed,helpdesk
 Ticket updated succesfully.,Ticket is succesvol bijgewerkt.,reviewed,helpdesk
 Ticket-Search Analysis,Ticket zoekanalyse,reviewed,helpdesk
-Tickets,,unreviewed,helpdesk
-Tickets approaching or breached SLA,,unreviewed,helpdesk
-Tickets assigned to you in the last 24 hours,,unreviewed,helpdesk
-Tickets by Channel,,unreviewed,helpdesk
-Tickets by Priority,,unreviewed,helpdesk
-Tickets by Team,,unreviewed,helpdesk
-Tickets by Type,,unreviewed,helpdesk
-Tickets can only be assigned to agents,,unreviewed,helpdesk
-Tickets must meet the following conditions:,,unreviewed,helpdesk
-Tickets that are awaiting your response,,unreviewed,helpdesk
-Timezone updated successfully.,,unreviewed,helpdesk
-Title Slug,,unreviewed,helpdesk
-To date,,unreviewed,helpdesk
-To is required,,unreviewed,helpdesk
-Top Result,,unreviewed,helpdesk
-Total Ticket,,unreviewed,helpdesk
-Total number of tickets created,,unreviewed,helpdesk
-Total tickets by priority,,unreviewed,helpdesk
-Total tickets by team,,unreviewed,helpdesk
-Total tickets by type,,unreviewed,helpdesk
-Type a message,,unreviewed,helpdesk
-Type is required,,unreviewed,helpdesk
-URL/Method,,unreviewed,helpdesk
-Unable to send email. Please setup default outgoing email account.,,unreviewed,helpdesk
-Unauthorized Access,,unreviewed,helpdesk
-Unauthorized access.,,unreviewed,helpdesk
-Unpublish,De-publiceren,unreviewed,helpdesk
-Unsaved,Niet opgeslagen,unreviewed,helpdesk
-Unsaved changes,Niet-opgeslagen wijzigingen,unreviewed,helpdesk
-Update status to,,unreviewed,helpdesk
-Upload image,Afbeelding uploaden,unreviewed,helpdesk
-Upload photo,,unreviewed,helpdesk
-User Not found,,unreviewed,helpdesk
-User Signup,,unreviewed,helpdesk
-View Assignment rule,,unreviewed,helpdesk
-Was this article Helpful?,,unreviewed,helpdesk
+Tickets,Tickets,reviewed,helpdesk
+Tickets approaching or breached SLA,Tickets die de SLA naderen of hebben overschreden,reviewed,helpdesk
+Tickets assigned to you in the last 24 hours,Tickets die in de afgelopen 24 uur aan u zijn toegewezen,reviewed,helpdesk
+Tickets by Channel,Tickets per kanaal,reviewed,helpdesk
+Tickets by Priority,Tickets per prioriteit,reviewed,helpdesk
+Tickets by Team,Tickets per team,reviewed,helpdesk
+Tickets by Type,Tickets per type,reviewed,helpdesk
+Tickets can only be assigned to agents,Tickets kunnen alleen worden toegewezen aan agents,reviewed,helpdesk
+Tickets must meet the following conditions:,Tickets moeten voldoen aan de volgende voorwaarden:,reviewed,helpdesk
+Tickets that are awaiting your response,Tickets die wachten op uw reactie,reviewed,helpdesk
+Timezone updated successfully.,Tijdzone succesvol bijgewerkt.,reviewed,helpdesk
+Title Slug,Titel slug,reviewed,helpdesk
+To date,Tot datum,reviewed,helpdesk
+To is required,Ontvanger is verplicht,reviewed,helpdesk
+Top Result,Beste resultaat,reviewed,helpdesk
+Total Ticket,Totaal tickets,reviewed,helpdesk
+Total number of tickets created,Totaal aantal aangemaakte tickets,reviewed,helpdesk
+Total tickets by priority,Totaal tickets per prioriteit,reviewed,helpdesk
+Total tickets by team,Totaal tickets per team,reviewed,helpdesk
+Total tickets by type,Totaal tickets per type,reviewed,helpdesk
+Type a message,Typ een bericht,reviewed,helpdesk
+Type is required,Type is verplicht,reviewed,helpdesk
+URL/Method,URL/Method,reviewed,helpdesk
+Unable to send email. Please setup default outgoing email account.,Kan e-mail niet verzenden. Stel een standaard uitgaand e-mailaccount in.,reviewed,helpdesk
+Unauthorized Access,Onbevoegde toegang,reviewed,helpdesk
+Unauthorized access.,Onbevoegde toegang.,reviewed,helpdesk
+Unpublish,De-publiceren,reviewed,helpdesk
+Unsaved,Niet opgeslagen,reviewed,helpdesk
+Unsaved changes,Niet-opgeslagen wijzigingen,reviewed,helpdesk
+Update status to,Status wijzigen naar,reviewed,helpdesk
+Upload image,Afbeelding uploaden,reviewed,helpdesk
+Upload photo,Foto uploaden,reviewed,helpdesk
+User Not found,Gebruiker niet gevonden,reviewed,helpdesk
+User Signup,Gebruikersregistratie,reviewed,helpdesk
+View Assignment rule,Toewijzingsregel bekijken,reviewed,helpdesk
+Was this article Helpful?,Was dit artikel nuttig?,reviewed,helpdesk
 "When enabled, the ticket status will automatically change to the status selected below whenever the agent responds to a ticket.
-",,unreviewed,helpdesk
-Word,,unreviewed,helpdesk
-Work Schedule and Holidays,,unreviewed,helpdesk
-Workday added successfully.,,unreviewed,helpdesk
-Workday updated successfully.,,unreviewed,helpdesk
-Workflow,Werkstroom,unreviewed,helpdesk
-Workflow & Knowledge Base Settings,,unreviewed,helpdesk
-Write your article here...,,unreviewed,helpdesk
-You are not allowed to view this dashboard data.,,unreviewed,helpdesk
-You are not permitted to add a comment,,unreviewed,helpdesk
-You are now offline.,,unreviewed,helpdesk
-You are now online.,,unreviewed,helpdesk
-You cannot disable the default SLA.,,unreviewed,helpdesk
-You cannot set more than one Default Priority.,,unreviewed,helpdesk
-You do not have permission to access Assignment Rules,,unreviewed,helpdesk
-"You don't have access to this ticket, or it no longer exists.",,unreviewed,helpdesk
-"You don't have permission to view this page, or it no longer exists.",,unreviewed,helpdesk
-You have already provided feedback for this ticket.,,unreviewed,helpdesk
-You haven't received any feedback yet,,unreviewed,helpdesk
-You must set one SLA as Default. Please check the Default SLA option.,,unreviewed,helpdesk
-Your performance is,,unreviewed,helpdesk
-assigned you a ticket,,unreviewed,helpdesk
-average,gemiddelde,unreviewed,helpdesk
-back to email event list,,unreviewed,helpdesk
-customize {0},,unreviewed,helpdesk
-deleted,,unreviewed,helpdesk
-emails/ comments,,unreviewed,helpdesk
-excellent,uitstekend,unreviewed,helpdesk
-from this email onwards will be moved to new ticket.,,unreviewed,helpdesk
-good,,unreviewed,helpdesk
-has reopened the ticket,,unreviewed,helpdesk
-here.,,unreviewed,helpdesk
-hrs,,unreviewed,helpdesk
-is_merged === 0,,unreviewed,helpdesk
-mentioned you in ticket,,unreviewed,helpdesk
-poor,,unreviewed,helpdesk
-stars,,unreviewed,helpdesk
-"status_category in ['Open', 'Paused']",,unreviewed,helpdesk
-synonym,,unreviewed,helpdesk
-viewed this,,unreviewed,helpdesk
-{0} matches,,unreviewed,helpdesk
-{0} reviews,,unreviewed,helpdesk
-{0} view is currently public. Changing it to private will hide it for all the users.,,unreviewed,helpdesk
-{0} view is currently visible in the sidebar. Hiding it will remove it from the sidebar.,,unreviewed,helpdesk
-1:N,,unreviewed,insights
-API Configuration,,unreviewed,insights
-API Key / Bearer Token,,unreviewed,insights
-API Password,,unreviewed,insights
-Above average,,unreviewed,insights
-Access,,unreviewed,insights
-Action if table exists,,unreviewed,insights
-Add Data Source,,unreviewed,insights
-Add New Column,,unreviewed,insights
-Add Operation,,unreviewed,insights
-Add a new column based on existing columns,,unreviewed,insights
-Add column,Kolom toevoegen,unreviewed,insights
-Aggregation,,unreviewed,insights
-Aggregation Condition,,unreviewed,insights
-Alert Created,,unreviewed,insights
-Alert Disabled,,unreviewed,insights
-Alert Enabled,,unreviewed,insights
-Alert Name,,unreviewed,insights
-Alert Sent,,unreviewed,insights
-Alert Updated,,unreviewed,insights
-Alert sent,,unreviewed,insights
-Alerts,,unreviewed,insights
-Allow Subquery,,unreviewed,insights
-Allow Table Import,,unreviewed,insights
-Allowed Origins,,unreviewed,insights
-Alternate,,unreviewed,insights
-Anyone in the organization can view,,unreviewed,insights
-Anyone with the link can view,,unreviewed,insights
-Append,,unreviewed,insights
-Append Rows,,unreviewed,insights
-Append Table,,unreviewed,insights
-Append this table with another table or query,,unreviewed,insights
-Apply Filters,Filters toepassen,unreviewed,insights
-Apply User Permissions,,unreviewed,insights
-Apply a custom operation using python script,,unreviewed,insights
-Are you sure you want to log out?,,unreviewed,insights
-Authentication Type,,unreviewed,insights
-Auto Execute Query,,unreviewed,insights
-Automatically arrange cards vertically to fill empty spaces,,unreviewed,insights
-Average of...,Gemiddelde van...,unreviewed,insights
-Basic Authentication,,unreviewed,insights
-Before Import Script,,unreviewed,insights
-Below average,,unreviewed,insights
-BigQuery,,unreviewed,insights
-BigQuery Configuration,,unreviewed,insights
-BigQuery Dataset ID,,unreviewed,insights
-BigQuery Project ID,,unreviewed,insights
-BigQuery Service Account Key (JSON),,unreviewed,insights
-Bottom N percent,,unreviewed,insights
-Bottom N values,,unreviewed,insights
-Bulk Enqueue,,unreviewed,insights
-Bulk Enqueue Import Job,,unreviewed,insights
-Bulk Enqueue Progress,,unreviewed,insights
-Cache Query Results For (Minutes),,unreviewed,insights
-Can Edit,,unreviewed,insights
-Can View,,unreviewed,insights
-Cardinality,,unreviewed,insights
-Check once a day,,unreviewed,insights
-Check once a month,,unreviewed,insights
-Check once a week,,unreviewed,insights
-Check once an hour,,unreviewed,insights
-Choose Columns,,unreviewed,insights
-ClickHouse,,unreviewed,insights
-Color Scale,,unreviewed,insights
-Comma seperated URLs to whitelist for embedding charts & dashboards,,unreviewed,insights
-Compact Layout,,unreviewed,insights
-Config,,unreviewed,insights
-Connect,,unreviewed,insights
-Connect to ClickHouse,,unreviewed,insights
-Connect to ClickHouse database,,unreviewed,insights
-Connect to DuckDB,,unreviewed,insights
-Connect to DuckDB database,,unreviewed,insights
-Connect to MariaDB,,unreviewed,insights
-Connect to MariaDB database,,unreviewed,insights
-Connect to PostgreSQL,,unreviewed,insights
-Connect to PostgreSQL database,,unreviewed,insights
-Connection String,,unreviewed,insights
-Convert to Expression,,unreviewed,insights
-Copy JSON,,unreviewed,insights
-Copy Query,,unreviewed,insights
-Count of...,,unreviewed,insights
-Create Alert,,unreviewed,insights
-Create Measure,,unreviewed,insights
-Create Team,,unreviewed,insights
-Create a dashboard in your workbook to view it here.,,unreviewed,insights
-Creation,Schepping,unreviewed,insights
-Cron expression to schedule the script. Note: The scheduler checks for jobs every hour.,,unreviewed,insights
-CumulativeSum,,unreviewed,insights
-Custom Condition,,unreviewed,insights
-Custom Headers,,unreviewed,insights
-Custom Join Condition,,unreviewed,insights
-Custom Operation,,unreviewed,insights
-Custom headers for API requests (non-sensitive data only),,unreviewed,insights
-Dashboard Access Updated,,unreviewed,insights
-Data Backup,,unreviewed,insights
-Data Query,,unreviewed,insights
-Data Source,Gegevensbron,unreviewed,insights
-Data Sources,,unreviewed,insights
-Data Sources | Insights,,unreviewed,insights
-Data Store,,unreviewed,insights
-Data Type,,unreviewed,insights
-Database Type,,unreviewed,insights
-Date Rules,,unreviewed,insights
-Datetime,Datum en tijd,unreviewed,insights
-Decimal,,unreviewed,insights
-Demo Data Ready,,unreviewed,insights
-Disable Alert,,unreviewed,insights
-Drill Down,,unreviewed,insights
-Drop Duplicates,,unreviewed,insights
-DuckDB,,unreviewed,insights
-Duplicate Chart,,unreviewed,insights
-Duplicate Query,,unreviewed,insights
-Duration (Seconds),,unreviewed,insights
-Edit Text,,unreviewed,insights
-Empty - Click 'Add Filter' to add a filter,,unreviewed,insights
-Enable Alert,,unreviewed,insights
-Enable Data Store,,unreviewed,insights
-Enable Permissions,,unreviewed,insights
-Enable Stored Procedure Execution,,unreviewed,insights
-Ended At,eindigde bij,unreviewed,insights
-Enqueue,,unreviewed,insights
-Enter filename,,unreviewed,insights
-Enter filter label...,,unreviewed,insights
-Enter text,,unreviewed,insights
-Enter the URL of the DuckDB file,,unreviewed,insights
-Enter your text content here...,,unreviewed,insights
-Execution Failed,,unreviewed,insights
-Execution Successful,,unreviewed,insights
-Execution Time (seconds),,unreviewed,insights
-Export Format,,unreviewed,insights
-Export as PNG,,unreviewed,insights
-Expression,Uitdrukking,unreviewed,insights
-Failed to format SQL,,unreviewed,insights
-Failed to import table,,unreviewed,insights
-Failed to process uploaded file,,unreviewed,insights
-Failed to setup demo data,,unreviewed,insights
-Favorites,,unreviewed,insights
-Fetched from cache,,unreviewed,insights
-Fetched in {0}s,,unreviewed,insights
-Filename,,unreviewed,insights
-Filter Icon,,unreviewed,insights
-Filter Rows,,unreviewed,insights
-Filter rows based on columns or expressions,,unreviewed,insights
-Fiscal Year Start,,unreviewed,insights
-Folder and item must belong to the same workbook,,unreviewed,insights
-Force Refresh,,unreviewed,insights
-Force Run,,unreviewed,insights
-Foreign Key,,unreviewed,insights
-Foreign Table,,unreviewed,insights
-Foreign Table Label,,unreviewed,insights
-Format Option,,unreviewed,insights
-Format SQL,,unreviewed,insights
-Frappe Insights,,unreviewed,insights
-Generated SQL,,unreviewed,insights
-Green-Red,,unreviewed,insights
-Group & Summarize,,unreviewed,insights
-Group rows by columns and summarize the data,,unreviewed,insights
-HTTP Headers,,unreviewed,insights
-Highlight Cell,,unreviewed,insights
-Horizontal,,unreviewed,insights
-Import Failed,,unreviewed,insights
-Import Job,,unreviewed,insights
-Import Query,,unreviewed,insights
-Import Table,,unreviewed,insights
-Import job has been queued,,unreviewed,insights
-Import to Warehouse,,unreviewed,insights
-India,,unreviewed,insights
-Insights Admin,,unreviewed,insights
-Insights Alert,,unreviewed,insights
-Insights Chart,,unreviewed,insights
-Insights Chart v3,,unreviewed,insights
-Insights Dashboard,,unreviewed,insights
-Insights Dashboard Chart v3,,unreviewed,insights
-Insights Dashboard Item,,unreviewed,insights
-Insights Dashboard v3,,unreviewed,insights
-Insights Data Source,,unreviewed,insights
-Insights Data Source v3,,unreviewed,insights
-Insights Folder,,unreviewed,insights
-Insights Notebook,,unreviewed,insights
-Insights Notebook Page,,unreviewed,insights
-Insights Query,,unreviewed,insights
-Insights Query Chart,,unreviewed,insights
-Insights Query Column,,unreviewed,insights
-Insights Query Execution Log,,unreviewed,insights
-Insights Query Result,,unreviewed,insights
-Insights Query Table,,unreviewed,insights
-Insights Query Transform,,unreviewed,insights
-Insights Query Variable,,unreviewed,insights
-Insights Query v3,,unreviewed,insights
-Insights Resource Permission,,unreviewed,insights
-Insights Secret Key,,unreviewed,insights
-Insights Settings,,unreviewed,insights
-Insights Table,,unreviewed,insights
-Insights Table Column,,unreviewed,insights
-Insights Table Import,,unreviewed,insights
-Insights Table Import Job,,unreviewed,insights
-Insights Table Import Log,,unreviewed,insights
-Insights Table Link,,unreviewed,insights
-Insights Table Link v3,,unreviewed,insights
-Insights Table v3,,unreviewed,insights
-Insights Team,,unreviewed,insights
-Insights Team Member,,unreviewed,insights
-Insights User,,unreviewed,insights
-Insights User Invitation,,unreviewed,insights
-Insights Workbook,,unreviewed,insights
-Integer,,unreviewed,insights
-Invitation Expired,,unreviewed,insights
-Invitation Sent,,unreviewed,insights
-Is Assisted Query,,unreviewed,insights
-Is Builder Query,,unreviewed,insights
-Is DuckLake,,unreviewed,insights
+","Indien ingeschakeld, wijzigt de ticketstatus automatisch naar de hieronder geselecteerde status wanneer de agent reageert op een ticket.
+",reviewed,helpdesk
+Word,Woord,reviewed,helpdesk
+Work Schedule and Holidays,Werkrooster en feestdagen,reviewed,helpdesk
+Workday added successfully.,Werkdag succesvol toegevoegd.,reviewed,helpdesk
+Workday updated successfully.,Werkdag succesvol bijgewerkt.,reviewed,helpdesk
+Workflow,Werkstroom,reviewed,helpdesk
+Workflow & Knowledge Base Settings,Workflow en Kennisbank instellingen,reviewed,helpdesk
+Write your article here...,Schrijf hier uw artikel...,reviewed,helpdesk
+You are not allowed to view this dashboard data.,U heeft geen toegang om deze Dashboard-gegevens te bekijken.,reviewed,helpdesk
+You are not permitted to add a comment,U heeft geen toestemming om een opmerking toe te voegen,reviewed,helpdesk
+You are now offline.,U bent nu offline.,reviewed,helpdesk
+You are now online.,U bent nu online.,reviewed,helpdesk
+You cannot disable the default SLA.,U kunt de standaard SLA niet uitschakelen.,reviewed,helpdesk
+You cannot set more than one Default Priority.,U kunt niet meer dan één standaard prioriteit instellen.,reviewed,helpdesk
+You do not have permission to access Assignment Rules,U heeft geen toegang tot toewijzingsregels,reviewed,helpdesk
+"You don't have access to this ticket, or it no longer exists.","U heeft geen toegang tot dit ticket, of het bestaat niet meer.",reviewed,helpdesk
+"You don't have permission to view this page, or it no longer exists.","U heeft geen toestemming om deze pagina te bekijken, of de pagina bestaat niet meer.",reviewed,helpdesk
+You have already provided feedback for this ticket.,U heeft al feedback gegeven voor dit ticket.,reviewed,helpdesk
+You haven't received any feedback yet,U heeft nog geen feedback ontvangen,reviewed,helpdesk
+You must set one SLA as Default. Please check the Default SLA option.,U moet ten minste één SLA instellen als standaard. Vink de optie Standaard SLA aan.,reviewed,helpdesk
+Your performance is,Uw prestatie is,reviewed,helpdesk
+assigned you a ticket,heeft u een ticket toegewezen,reviewed,helpdesk
+average,gemiddelde,reviewed,helpdesk
+back to email event list,terug naar e-mailgebeurtenissenlijst,reviewed,helpdesk
+customize {0},{0} aanpassen,reviewed,helpdesk
+deleted,verwijderd,reviewed,helpdesk
+emails/ comments,e-mails / opmerkingen,reviewed,helpdesk
+excellent,uitstekend,reviewed,helpdesk
+from this email onwards will be moved to new ticket.,vanaf deze e-mail wordt verplaatst naar een nieuw ticket.,reviewed,helpdesk
+good,goed,reviewed,helpdesk
+has reopened the ticket,heeft het ticket heropend,reviewed,helpdesk
+here.,hier.,reviewed,helpdesk
+hrs,uur,reviewed,helpdesk
+is_merged === 0,is_merged === 0,reviewed,helpdesk
+mentioned you in ticket,heeft u vermeld in ticket,reviewed,helpdesk
+poor,slecht,reviewed,helpdesk
+stars,sterren,reviewed,helpdesk
+"status_category in ['Open', 'Paused']","status_category in ['Open', 'Paused']",reviewed,helpdesk
+synonym,synoniem,reviewed,helpdesk
+viewed this,heeft dit bekeken,reviewed,helpdesk
+{0} matches,{0} overeenkomsten,reviewed,helpdesk
+{0} reviews,{0} beoordelingen,reviewed,helpdesk
+{0} view is currently public. Changing it to private will hide it for all the users.,"De weergave {0} is momenteel openbaar. Als u deze privé maakt, wordt deze verborgen voor alle gebruikers.",reviewed,helpdesk
+{0} view is currently visible in the sidebar. Hiding it will remove it from the sidebar.,"De weergave {0} is momenteel zichtbaar in de zijbalk. Als u deze verbergt, wordt deze uit de zijbalk verwijderd.",reviewed,helpdesk
+1:N,1:N,reviewed,insights
+API Configuration,API-configuratie,reviewed,insights
+API Key / Bearer Token,API Key / Bearer Token,reviewed,insights
+API Password,API-wachtwoord,reviewed,insights
+Above average,Boven gemiddeld,reviewed,insights
+Access,Toegang,reviewed,insights
+Action if table exists,Actie als tabel bestaat,reviewed,insights
+Add Data Source,Databron toevoegen,reviewed,insights
+Add New Column,Nieuwe kolom toevoegen,reviewed,insights
+Add Operation,Bewerking toevoegen,reviewed,insights
+Add a new column based on existing columns,Een nieuwe kolom toevoegen op basis van bestaande kolommen,reviewed,insights
+Add column,Kolom toevoegen,reviewed,insights
+Aggregation,Aggregatie,reviewed,insights
+Aggregation Condition,Aggregatievoorwaarde,reviewed,insights
+Alert Created,Melding aangemaakt,reviewed,insights
+Alert Disabled,Melding uitgeschakeld,reviewed,insights
+Alert Enabled,Melding ingeschakeld,reviewed,insights
+Alert Name,Meldingsnaam,reviewed,insights
+Alert Sent,Melding verzonden,reviewed,insights
+Alert Updated,Melding bijgewerkt,reviewed,insights
+Alert sent,Melding verzonden,reviewed,insights
+Alerts,Meldingen,reviewed,insights
+Allow Subquery,Subquery toestaan,reviewed,insights
+Allow Table Import,Tabelimport toestaan,reviewed,insights
+Allowed Origins,Toegestane bronnen,reviewed,insights
+Alternate,Afwisselend,reviewed,insights
+Anyone in the organization can view,Iedereen in de organisatie kan bekijken,reviewed,insights
+Anyone with the link can view,Iedereen met de link kan bekijken,reviewed,insights
+Append,Toevoegen,reviewed,insights
+Append Rows,Rijen toevoegen,reviewed,insights
+Append Table,Tabel toevoegen,reviewed,insights
+Append this table with another table or query,Voeg deze tabel samen met een andere tabel of query,reviewed,insights
+Apply Filters,Filters toepassen,reviewed,insights
+Apply User Permissions,Gebruikersrechten toepassen,reviewed,insights
+Apply a custom operation using python script,Pas een aangepaste bewerking toe met een Python-script,reviewed,insights
+Are you sure you want to log out?,Weet u zeker dat u wilt uitloggen?,reviewed,insights
+Authentication Type,Authenticatietype,reviewed,insights
+Auto Execute Query,Query automatisch uitvoeren,reviewed,insights
+Automatically arrange cards vertically to fill empty spaces,Kaarten automatisch verticaal rangschikken om lege ruimtes te vullen,reviewed,insights
+Average of...,Gemiddelde van...,reviewed,insights
+Basic Authentication,Basic Authentication,reviewed,insights
+Before Import Script,Script voor Import,reviewed,insights
+Below average,Onder gemiddelde,reviewed,insights
+BigQuery,BigQuery,reviewed,insights
+BigQuery Configuration,BigQuery Configuration,reviewed,insights
+BigQuery Dataset ID,BigQuery Dataset ID,reviewed,insights
+BigQuery Project ID,BigQuery Project ID,reviewed,insights
+BigQuery Service Account Key (JSON),BigQuery Service Account Key (JSON),reviewed,insights
+Bottom N percent,Onderste N procent,reviewed,insights
+Bottom N values,Onderste N waarden,reviewed,insights
+Bulk Enqueue,Bulkwachtrij,reviewed,insights
+Bulk Enqueue Import Job,Import-taak in bulkwachtrij plaatsen,reviewed,insights
+Bulk Enqueue Progress,Voortgang bulkwachtrij,reviewed,insights
+Cache Query Results For (Minutes),Query-resultaten cachen voor (minuten),reviewed,insights
+Can Edit,Kan bewerken,reviewed,insights
+Can View,Kan bekijken,reviewed,insights
+Cardinality,Kardinaliteit,reviewed,insights
+Check once a day,Eenmaal per dag controleren,reviewed,insights
+Check once a month,Eenmaal per maand controleren,reviewed,insights
+Check once a week,Eenmaal per week controleren,reviewed,insights
+Check once an hour,Eenmaal per uur controleren,reviewed,insights
+Choose Columns,Kolommen kiezen,reviewed,insights
+ClickHouse,ClickHouse,reviewed,insights
+Color Scale,Kleurschaal,reviewed,insights
+Comma seperated URLs to whitelist for embedding charts & dashboards,Kommagescheiden URL's op de acceptatielijst voor het insluiten van grafieken en dashboards,reviewed,insights
+Compact Layout,Compacte indeling,reviewed,insights
+Config,Configuratie,reviewed,insights
+Connect,Verbinden,reviewed,insights
+Connect to ClickHouse,Verbinding maken met ClickHouse,reviewed,insights
+Connect to ClickHouse database,Verbinding maken met ClickHouse-database,reviewed,insights
+Connect to DuckDB,Verbinding maken met DuckDB,reviewed,insights
+Connect to DuckDB database,Verbinding maken met DuckDB-database,reviewed,insights
+Connect to MariaDB,Verbinding maken met MariaDB,reviewed,insights
+Connect to MariaDB database,Verbinding maken met MariaDB-database,reviewed,insights
+Connect to PostgreSQL,Verbinding maken met PostgreSQL,reviewed,insights
+Connect to PostgreSQL database,Verbinding maken met PostgreSQL-database,reviewed,insights
+Connection String,Verbindingsreeks,reviewed,insights
+Convert to Expression,Omzetten naar expressie,reviewed,insights
+Copy JSON,JSON kopiëren,reviewed,insights
+Copy Query,Query kopiëren,reviewed,insights
+Count of...,Aantal van...,reviewed,insights
+Create Alert,Melding aanmaken,reviewed,insights
+Create Measure,Meetwaarde aanmaken,reviewed,insights
+Create Team,Team aanmaken,reviewed,insights
+Create a dashboard in your workbook to view it here.,Maak een Dashboard aan in uw werkboek om het hier te bekijken.,reviewed,insights
+Creation,Aanmaakdatum,reviewed,insights
+Cron expression to schedule the script. Note: The scheduler checks for jobs every hour.,Cron-expressie om het script te plannen. Let op: de planner controleert elk uur op taken.,reviewed,insights
+CumulativeSum,Cumulatieve som,reviewed,insights
+Custom Condition,Aangepaste voorwaarde,reviewed,insights
+Custom Headers,Aangepaste headers,reviewed,insights
+Custom Join Condition,Aangepaste koppelingsvoorwaarde,reviewed,insights
+Custom Operation,Aangepaste bewerking,reviewed,insights
+Custom headers for API requests (non-sensitive data only),Aangepaste headers voor API-verzoeken (alleen niet-gevoelige gegevens),reviewed,insights
+Dashboard Access Updated,Dashboard-toegang bijgewerkt,reviewed,insights
+Data Backup,Gegevensback-up,reviewed,insights
+Data Query,Gegevensquery,reviewed,insights
+Data Source,Gegevensbron,reviewed,insights
+Data Sources,Gegevensbronnen,reviewed,insights
+Data Sources | Insights,Gegevensbronnen | Insights,reviewed,insights
+Data Store,Gegevensopslag,reviewed,insights
+Data Type,Gegevenstype,reviewed,insights
+Database Type,Databasetype,reviewed,insights
+Date Rules,Datumregels,reviewed,insights
+Datetime,Datum en tijd,reviewed,insights
+Decimal,Decimaal,reviewed,insights
+Demo Data Ready,Demogegevens gereed,reviewed,insights
+Disable Alert,Melding uitschakelen,reviewed,insights
+Drill Down,Inzoomen,reviewed,insights
+Drop Duplicates,Duplicaten verwijderen,reviewed,insights
+DuckDB,DuckDB,reviewed,insights
+Duplicate Chart,Grafiek dupliceren,reviewed,insights
+Duplicate Query,Query dupliceren,reviewed,insights
+Duration (Seconds),Duur (seconden),reviewed,insights
+Edit Text,Tekst bewerken,reviewed,insights
+Empty - Click 'Add Filter' to add a filter,Leeg. Klik op 'Filter toevoegen' om een filter toe te voegen.,reviewed,insights
+Enable Alert,Melding inschakelen,reviewed,insights
+Enable Data Store,Gegevensopslag inschakelen,reviewed,insights
+Enable Permissions,Rechten inschakelen,reviewed,insights
+Enable Stored Procedure Execution,Uitvoering van opgeslagen procedures inschakelen,reviewed,insights
+Ended At,Beëindigd om,reviewed,insights
+Enqueue,In wachtrij plaatsen,reviewed,insights
+Enter filename,Voer bestandsnaam in,reviewed,insights
+Enter filter label...,Voer filterlabel in...,reviewed,insights
+Enter text,Voer tekst in,reviewed,insights
+Enter the URL of the DuckDB file,Voer de URL van het DuckDB-bestand in,reviewed,insights
+Enter your text content here...,Voer hier uw tekstinhoud in...,reviewed,insights
+Execution Failed,Uitvoering mislukt,reviewed,insights
+Execution Successful,Uitvoering geslaagd,reviewed,insights
+Execution Time (seconds),Uitvoeringstijd (seconden),reviewed,insights
+Export Format,Exportindeling,reviewed,insights
+Export as PNG,Exporteren als PNG,reviewed,insights
+Expression,Expressie,reviewed,insights
+Failed to format SQL,SQL opmaken mislukt,reviewed,insights
+Failed to import table,Tabel importeren mislukt,reviewed,insights
+Failed to process uploaded file,Verwerking van geüpload bestand mislukt,reviewed,insights
+Failed to setup demo data,Instellen van demogegevens mislukt,reviewed,insights
+Favorites,Favorieten,reviewed,insights
+Fetched from cache,Opgehaald uit cache,reviewed,insights
+Fetched in {0}s,Opgehaald in {0}s,reviewed,insights
+Filename,Bestandsnaam,reviewed,insights
+Filter Icon,Filterpictogram,reviewed,insights
+Filter Rows,Rijen filteren,reviewed,insights
+Filter rows based on columns or expressions,Rijen filteren op basis van kolommen of expressies,reviewed,insights
+Fiscal Year Start,Begin boekjaar,reviewed,insights
+Folder and item must belong to the same workbook,Map en item moeten tot hetzelfde werkboek behoren,reviewed,insights
+Force Refresh,Vernieuwing forceren,reviewed,insights
+Force Run,Uitvoering forceren,reviewed,insights
+Foreign Key,Externe sleutel,reviewed,insights
+Foreign Table,Externe tabel,reviewed,insights
+Foreign Table Label,Label externe tabel,reviewed,insights
+Format Option,Opmaakinstellingen,reviewed,insights
+Format SQL,SQL opmaken,reviewed,insights
+Frappe Insights,Frappe Insights,reviewed,insights
+Generated SQL,Gegenereerde SQL,reviewed,insights
+Green-Red,Groen-Rood,reviewed,insights
+Group & Summarize,Groeperen en samenvatten,reviewed,insights
+Group rows by columns and summarize the data,Rijen groeperen op kolommen en gegevens samenvatten,reviewed,insights
+HTTP Headers,HTTP Headers,reviewed,insights
+Highlight Cell,Cel markeren,reviewed,insights
+Horizontal,Horizontaal,reviewed,insights
+Import Failed,Import mislukt,reviewed,insights
+Import Job,Importtaak,reviewed,insights
+Import Query,Query importeren,reviewed,insights
+Import Table,Tabel importeren,reviewed,insights
+Import job has been queued,Importtaak is in de wachtrij geplaatst,reviewed,insights
+Import to Warehouse,Importeren naar magazijn,reviewed,insights
+India,India,reviewed,insights
+Insights Admin,Insights Admin,reviewed,insights
+Insights Alert,Insights Alert,reviewed,insights
+Insights Chart,Insights Chart,reviewed,insights
+Insights Chart v3,Insights Chart v3,reviewed,insights
+Insights Dashboard,Insights Dashboard,reviewed,insights
+Insights Dashboard Chart v3,Insights Dashboard Chart v3,reviewed,insights
+Insights Dashboard Item,Insights Dashboard Item,reviewed,insights
+Insights Dashboard v3,Insights Dashboard v3,reviewed,insights
+Insights Data Source,Insights Data Source,reviewed,insights
+Insights Data Source v3,Insights Data Source v3,reviewed,insights
+Insights Folder,Insights Folder,reviewed,insights
+Insights Notebook,Insights Notebook,reviewed,insights
+Insights Notebook Page,Insights Notebook Page,reviewed,insights
+Insights Query,Insights Query,reviewed,insights
+Insights Query Chart,Insights Query Chart,reviewed,insights
+Insights Query Column,Insights Query Column,reviewed,insights
+Insights Query Execution Log,Insights Query Execution Log,reviewed,insights
+Insights Query Result,Insights Query Result,reviewed,insights
+Insights Query Table,Insights Query Table,reviewed,insights
+Insights Query Transform,Insights Query Transform,reviewed,insights
+Insights Query Variable,Insights Query Variable,reviewed,insights
+Insights Query v3,Insights Query v3,reviewed,insights
+Insights Resource Permission,Insights Resource Permission,reviewed,insights
+Insights Secret Key,Insights Secret Key,reviewed,insights
+Insights Settings,Insights Settings,reviewed,insights
+Insights Table,Insights Table,reviewed,insights
+Insights Table Column,Insights Table Column,reviewed,insights
+Insights Table Import,Insights Table Import,reviewed,insights
+Insights Table Import Job,Insights Table Import Job,reviewed,insights
+Insights Table Import Log,Insights Table Import Log,reviewed,insights
+Insights Table Link,Insights Table Link,reviewed,insights
+Insights Table Link v3,Insights Table Link v3,reviewed,insights
+Insights Table v3,Insights Table v3,reviewed,insights
+Insights Team,Insights Team,reviewed,insights
+Insights Team Member,Insights Team Member,reviewed,insights
+Insights User,Insights User,reviewed,insights
+Insights User Invitation,Insights User Invitation,reviewed,insights
+Insights Workbook,Insights Workbook,reviewed,insights
+Integer,Integer,reviewed,insights
+Invitation Expired,Uitnodiging verlopen,reviewed,insights
+Invitation Sent,Uitnodiging verzonden,reviewed,insights
+Is Assisted Query,Is ondersteunde query,reviewed,insights
+Is Builder Query,Is builder-query,reviewed,insights
+Is DuckLake,Is DuckLake,reviewed,insights
 Is Expanded,,unreviewed,insights
 Is Expression,,unreviewed,insights
 Is Frappe Database,,unreviewed,insights

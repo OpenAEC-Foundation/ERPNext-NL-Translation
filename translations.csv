@@ -49,7 +49,7 @@ source,translation,status,origin,score,context,naturalness,consistency,grammar,c
 ** Failed: {0} to {1}: {2},** Mislukt: {0} tot {1}: {2},reviewed,frappe,0.9,0.85,0.85,0.85,1.0,1.0,ok
 **Currency** Master,**Valuta** stamtabel,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 **Fiscal Year** represents a Financial Year. All accounting entries and other major transactions are tracked against **Fiscal Year**.,**Boekjaar** staat voor een financieel jaar. Alle boekingen en andere belangrijke transacties worden bijgehouden in **boekjaar**.,reviewed,erpnext,0.9,0.9,0.85,0.85,0.9,1.0,ok
-**Monthly Distribution** helps you distribute the Budget/Target across months if you have seasonality in your business.,**Maandelijkse verdeling** helpt u het budget/doel over maanden te verdelen als uw bedrijf seizoensgebonden is.,reviewed,erpnext,0.79,0.75,0.75,0.7,0.85,1.0,review
+**Monthly Distribution** helps you distribute the Budget/Target across months if you have seasonality in your business.,**Maandelijkse verdeling** helpt u de begroting/Target over maanden te verdelen als uw bedrijf seizoensgebonden is.,reviewed,erpnext,0.79,0.75,0.75,0.7,0.85,1.0,review
 + Add,+ Toevoegen,reviewed,custom,0.97,0.95,0.95,0.95,1.0,1.0,ok
 ...Adding Article to Topics,... Artikel aan onderwerpen toevoegen,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 ...Adding Course to Programs,... Cursus aan programma&#39;s toevoegen,reviewed,erpnext,0.82,0.85,0.8,0.8,0.65,1.0,ok
@@ -85,16 +85,16 @@ source,translation,status,origin,score,context,naturalness,consistency,grammar,c
 ; not allowed in condition,; niet toegestaan in conditie,reviewed,frappe,0.81,0.75,0.75,0.75,0.9,1.0,ok
 <b>Company</b> is a mandatory filter.,<b>Bedrijf</b> is een verplicht filter.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 <b>From Date</b> is a mandatory filter.,<b>Vanaf datum</b> is een verplicht filter.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-<b>From Time</b> cannot be later than <b>To Time</b> for {0},<b>Begintijd</b> kan niet later zijn dan <b>Eindtijd</b> voor {0},reviewed,erpnext,0.62,0.5,0.5,0.5,0.8,1.0,review
+<b>From Time</b> cannot be later than <b>To Time</b> for {0},<b>From Time</b> kan niet later zijn dan <b>To Time</b> voor {0},reviewed,erpnext,0.62,0.5,0.5,0.5,0.8,1.0,review
 "<b>Single</b>: Results which require only a single input.\n<br>\n<b>Compound</b>: Results which require multiple event inputs.\n<br>\n<b>Descriptive</b>: Tests which have multiple result components with manual result entry.\n<br>\n<b>Grouped</b>: Test templates which are a group of other test templates.\n<br>\n<b>No Result</b>: Tests with no results, can be ordered and billed but no Lab Test will be created. e.g.. Sub Tests for Grouped results","<b>Enkelvoudig</b> : resultaten waarvoor slechts één invoer nodig is.<br> <b>Samengesteld</b> : resultaten waarvoor meerdere gebeurtenisinvoer nodig is.<br> <b>Beschrijvend</b> : tests met meerdere resultaatcomponenten met handmatige resultaatinvoer.<br> <b>Gegroepeerd</b> : testsjablonen die een groep andere testsjablonen zijn.<br> <b>Geen resultaat</b> : tests zonder resultaten kunnen worden besteld en gefactureerd, maar er wordt geen laboratoriumtest gemaakt. bijv. Subtests voor gegroepeerde resultaten",reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,0.95,ok
-<b>To Date</b> is a mandatory filter.,<b>Tot datum</b> is een verplicht filter.,reviewed,erpnext,0.62,0.4,0.5,0.6,0.85,1.0,review
-"<h4>Default Template</h4>\n<p>Uses <a href=""http://jinja.pocoo.org/docs/templates/"">Jinja Templating</a> and all the fields of Address (including Custom Fields if any) will be available</p>\n<pre><code>{{ address_line1 }}&lt;br&gt;\n{% if address_line2 %}{{ address_line2 }}&lt;br&gt;{% endif -%}\n{{ city }}&lt;br&gt;\n{% if state %}{{ state }}&lt;br&gt;{% endif -%}\n{% if pincode %} PIN:  {{ pincode }}&lt;br&gt;{% endif -%}\n{{ country }}&lt;br&gt;\n{% if phone %}Phone: {{ phone }}&lt;br&gt;{% endif -%}\n{% if fax %}Fax: {{ fax }}&lt;br&gt;{% endif -%}\n{% if email_id %}Email: {{ email_id }}&lt;br&gt;{% endif -%}\n</code></pre>",Standaardsjabloon: Gebruikt Jinja Templating en alle velden van Adres (inclusief aangepaste velden) zijn beschikbaar. [HTML/code niet vertalen],reviewed,frappe,0.3,0.3,0.3,0.3,0.2,0.4,rewrite
+<b>To Date</b> is a mandatory filter.,<b>Tot op heden</b> is een verplicht filter.,reviewed,erpnext,0.62,0.4,0.5,0.6,0.85,1.0,review
+"<h4>Default Template</h4>\n<p>Uses <a href=""http://jinja.pocoo.org/docs/templates/"">Jinja Templating</a> and all the fields of Address (including Custom Fields if any) will be available</p>\n<pre><code>{{ address_line1 }}&lt;br&gt;\n{% if address_line2 %}{{ address_line2 }}&lt;br&gt;{% endif -%}\n{{ city }}&lt;br&gt;\n{% if state %}{{ state }}&lt;br&gt;{% endif -%}\n{% if pincode %} PIN:  {{ pincode }}&lt;br&gt;{% endif -%}\n{{ country }}&lt;br&gt;\n{% if phone %}Phone: {{ phone }}&lt;br&gt;{% endif -%}\n{% if fax %}Fax: {{ fax }}&lt;br&gt;{% endif -%}\n{% if email_id %}Email: {{ email_id }}&lt;br&gt;{% endif -%}\n</code></pre>","<h4> Standaardsjabloon <!-- h4--> \n <p> Gebruikt <a href=""http://jinja.pocoo.org/docs/templates/""> Jinja Templating </a> en al de velden van Address ( inclusief aangepaste velden eventuele) zal beschikbaar <!-- p--> \n </p><pre> <code> {{address_line1}} &amp; lt; br &amp; gt; \n {% indien address_line2%} {{address_line2}} &amp; lt; br &amp; gt; { % endif -%} \n {{city}} &amp; lt; br &amp; gt; \n {% als state%} {{state}} &amp; lt; br &amp; gt; {% endif -%} \n {% als pincode%} PIN: {{pincode}} &amp; lt; br &amp; gt; {% endif -%} \n {{land}} &amp; lt; br &amp; gt; \n {% wanneer de telefoon%} Telefoon: {{telefoon}} &amp; lt; br &amp; gt; { % endif -%} \n {% per faxbericht%} Fax: {{fax}} &amp; lt; br &amp; gt; {% endif -%} \n {% indien email_id%} E-mail: {{email_id}} &amp; lt; br &amp; gt ; {% endif -%} \n <!-- code--> <!-- pre--></code></pre></h4>",reviewed,frappe,0.3,0.3,0.3,0.3,0.2,0.4,rewrite
 "<p>Set context before rendering a template. Example:</p><p>\n</p><div><pre><code>\ncontext.project = frappe.get_doc(""Project"", frappe.form_dict.name)\n</code></pre></div>","<p>Stel context in voordat u een sjabloon weergeeft. Voorbeeld:</p><p></p><div><pre> <code>context.project = frappe.get_doc(&quot;Project&quot;, frappe.form_dict.name)</code></pre></div>",reviewed,frappe,0.87,0.85,0.85,0.85,0.85,0.95,ok
 [Error],[Fout],reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 [Important] [ERPNext] Auto Reorder Errors,[Belangrijk] [ERPNext] Fouten bij automatische herbestelling,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-[{0}](#Form/Item/{0}) is out of stock,[{0}](#Form/Item/{0}) is niet op voorraad,reviewed,erpnext,0.65,0.6,0.6,0.6,0.7,0.8,review
+[{0}](#Form/Item/{0}) is out of stock,[{0}] (# Vorm / Item / {0}) is niet op voorraad,reviewed,erpnext,0.65,0.6,0.6,0.6,0.7,0.8,review
 _report,_rapport,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
-`Freeze Stocks Older Than` should be smaller than %d days.,`Bevries voorraden ouder dan` moet minder dan %d dagen zijn.,reviewed,erpnext,0.74,0.7,0.7,0.7,0.75,0.95,review
+`Freeze Stocks Older Than` should be smaller than %d days.,'Bevries Voorraden Ouder dan' moet minder dan %d dagen zijn.,reviewed,erpnext,0.74,0.7,0.7,0.7,0.75,0.95,review
 A BOM with name {0} already exists for item {1}.,Er bestaat al een stuklijst met naam {0} voor artikel {1}.,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 A condition for a Shipping Rule,Een voorwaarde voor een Verzendregel,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 A Customer Group exists with same name please change the Customer name or rename the Customer Group,Er bestaat al een klantgroep met dezelfde naam. Wijzig de naam van de klant of de klantgroep.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -103,17 +103,17 @@ A customer with the same name already exists,Er bestaat al een klant met dezelfd
 A Default Service Level Agreement already exists.,Er bestaat al een standaard Service Level Agreement.,reviewed,erpnext,0.99,1.0,0.95,1.0,1.0,1.0,ok
 A Distributed Cost Center cannot be added in the Distributed Cost Center allocation table.,Een gedistribueerde kostenplaats kan niet worden toegevoegd aan de allocatietabel van gedistribueerde kostenplaatsen.,reviewed,erpnext,0.95,1.0,0.85,1.0,0.9,1.0,ok
 A featured post must have a cover image,Een uitgelicht bericht moet een omslagafbeelding hebben,reviewed,frappe,0.98,1.0,0.9,1.0,1.0,1.0,ok
-A field with the name '{}' already exists in doctype {}.,Er bestaat al een veld met de naam '{}' in doctype {}.,reviewed,frappe,0.79,0.9,0.7,0.9,0.6,0.9,review
+A field with the name '{}' already exists in doctype {}.,Er bestaat al een veld met de naam &#39;{}&#39; in doctype {}.,reviewed,frappe,0.79,0.9,0.7,0.9,0.6,0.9,review
 A Lead requires either a person's name or an organization's name,Een lead vereist de naam van een persoon of van een organisatie.,reviewed,erpnext,0.98,1.0,0.9,1.0,1.0,1.0,ok
 A Lead with this Email Address should exist,Er moet een lead met dit e-mailadres bestaan.,reviewed,frappe,0.99,1.0,0.95,1.0,1.0,1.0,ok
 A link to all the Locations in which the Crop is growing,Een koppeling naar alle locaties waar het gewas groeit.,reviewed,erpnext,0.99,1.0,0.95,1.0,1.0,1.0,ok
 A list of resources which the Client App will have access to after the user allows it.<br> e.g. project,Een lijst van de resources waartoe de Client App toegang krijgt nadat de gebruiker toestemming heeft gegeven. <br> bijv. project,reviewed,frappe,0.95,1.0,0.85,1.0,0.9,1.0,ok
 A log of request errors,Een log van verzoekfouten.,reviewed,frappe,0.95,1.0,0.8,1.0,0.9,1.0,ok
 A logical Warehouse against which stock entries are made.,Een logisch magazijn waarop voorraadboekingen worden geboekt.,reviewed,erpnext,0.98,1.0,0.9,1.0,1.0,1.0,ok
-A Negative,A Negatief,reviewed,erpnext,0.73,0.8,0.6,0.9,0.5,1.0,review
+A Negative,Een negatief,reviewed,erpnext,0.73,0.8,0.6,0.9,0.5,1.0,review
 A new account has been created for you at {0},Een nieuw account is aangemaakt voor u op {0},reviewed,frappe,0.95,1.0,0.85,1.0,0.9,1.0,ok
 A new appointment has been created for you with {0},Er is een nieuwe afspraak voor u gemaakt met {0},reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-A Positive,A Positief,reviewed,erpnext,0.73,0.8,0.6,0.9,0.5,1.0,review
+A Positive,Een positief,reviewed,erpnext,0.73,0.8,0.6,0.9,0.5,1.0,review
 "A Product or a Service that is bought, sold or kept in stock.","Een Product of een Dienst dat wordt gekocht, verkocht of in voorraad wordt gehouden.",reviewed,erpnext,0.94,1.0,0.8,1.0,0.7,1.0,ok
 A question must have more than one options,Een vraag moet meer dan een optie hebben.,reviewed,erpnext,0.96,1.0,0.9,1.0,0.9,1.0,ok
 A qustion must have at least one correct options,Een vraag moet ten minste een juiste optie hebben.,reviewed,erpnext,0.98,1.0,0.9,1.0,1.0,1.0,ok
@@ -132,8 +132,8 @@ Abbreviation cannot have more than 5 characters,Afkorting mag niet meer dan 5 te
 Abbreviation is mandatory,Afkorting is verplicht,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Abdomen,Abdomen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 About the Company,Over het bedrijf,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-About Us Settings,Over Ons instellingen,reviewed,frappe,0.77,0.8,0.6,0.9,0.7,1.0,review
-About Us Team Member,Over Ons teamlid,reviewed,frappe,0.76,0.8,0.55,0.9,0.7,1.0,review
+About Us Settings,Instellingen Over Ons,reviewed,frappe,0.77,0.8,0.6,0.9,0.7,1.0,review
+About Us Team Member,Teamlid Over Ons,reviewed,frappe,0.76,0.8,0.55,0.9,0.7,1.0,review
 About your company,Over uw bedrijf,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 About {0} minute remaining,Nog ongeveer {0} minuut.,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 About {0} minutes remaining,Nog ongeveer {0} minuten.,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -167,8 +167,8 @@ Accessable Value,Toegankelijke waarde,reviewed,erpnext,0.97,0.9,0.9,1.0,1.0,1.0,
 Account,Rekening,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
 account,Rekening,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Account Balance,Rekeningsaldo,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-"Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'",Rekeningsaldo staat al in Credit. 'Saldo moet zijn' mag niet op 'Debet' worden ingesteld.,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,1.0,review
-"Account balance already in Debit, you are not allowed to set 'Balance Must Be' as 'Credit'",Rekeningsaldo staat al in Debet. 'Saldo moet zijn' mag niet op 'Credit' worden ingesteld.,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,1.0,review
+"Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'","Accountbalans reeds in Credit, 'Balans moet zijn' mag niet als 'Debet' worden ingesteld",reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,1.0,review
+"Account balance already in Debit, you are not allowed to set 'Balance Must Be' as 'Credit'","Accountbalans reeds in Debet, 'Balans moet zijn' mag niet als 'Credit' worden ingesteld",reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,1.0,review
 Account Balance Processing Error,Fout bij verwerken rekeningsaldo,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Account Category,Rekeningcategorie,reviewed,custom,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Account Closing Balance,Rekeningeindsaldo,reviewed,custom,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -217,8 +217,8 @@ Account: {0} with currency: {1} can not be selected,Rekening: {0} met valuta: {1
 Accounting,Boekhouding,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Accounting Details,Boekhoudgegevens,reviewed,erpnext,0.94,0.95,0.9,0.9,0.95,1.0,ok
 Accounting Dimension,Boekhouddimensie,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
-Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}.,Boekhouddimensie <b>{0}</b> is vereist voor rekening 'Balans' {1}.,reviewed,erpnext,0.76,0.75,0.7,0.65,0.75,1.0,review
-Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}.,Boekhouddimensie <b>{0}</b> is vereist voor rekening 'Winst en verlies' {1}.,reviewed,erpnext,0.76,0.75,0.7,0.65,0.75,1.0,review
+Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}.,Boekhoudingsdimensie <b>{0}</b> is vereist voor rekening &#39;Balans&#39; {1}.,reviewed,erpnext,0.76,0.75,0.7,0.65,0.75,1.0,review
+Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}.,Boekhoudingsdimensie <b>{0}</b> is vereist voor rekening &#39;Winst en verlies&#39; {1}.,reviewed,erpnext,0.76,0.75,0.7,0.65,0.75,1.0,review
 Accounting Dimension Detail,Boekhouddimensie detail,reviewed,erpnext,0.84,0.85,0.8,0.8,0.8,1.0,ok
 Accounting Dimension Filter,Boekhouddimensie filter,reviewed,custom,0.84,0.85,0.8,0.8,0.8,1.0,ok
 Accounting Dimensions,Boekhouddimensies,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
@@ -269,7 +269,7 @@ Action Initialised,Actie geïnitialiseerd,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9
 Action Timeout (Seconds),Actie-time-out (seconden),reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
 Action Type,Actietype,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Actions,Acties,reviewed,both,0.96,0.95,0.95,0.95,1.0,1.0,ok
-"Actions for workflow (e.g. Approve, Cancel).","Acties voor workflow (bijv. Goedkeuren, Annuleren).",reviewed,frappe,0.76,0.8,0.65,0.75,0.6,1.0,review
+"Actions for workflow (e.g. Approve, Cancel).","Acties voor workflow ( bijv. goedkeuren , Annuleren) .",reviewed,frappe,0.76,0.8,0.65,0.75,0.6,1.0,review
 Actions performed,Uitgevoerde acties,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Active,Actief,reviewed,both,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Active Assist,Active Assist,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
@@ -298,7 +298,7 @@ Actual End Time,Werkelijke eindtijd,reviewed,erpnext,0.95,0.95,0.9,0.95,1.0,1.0,
 Actual Operating Cost,Werkelijke operationele kosten,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Actual Operation Time,Werkelijke operatieduur,reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
 Actual Qty,Werkelijke hoeveelheid,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Actual Qty (at source/target),Werkelijke hoeveelheid (bij bron/doel),reviewed,erpnext,0.7,0.7,0.6,0.65,0.6,1.0,review
+Actual Qty (at source/target),Werkelijke Aantal (bij de bron / doel),reviewed,erpnext,0.7,0.7,0.6,0.65,0.6,1.0,review
 Actual Qty After Transaction,Werkelijke Aantal Na Transactie,reviewed,erpnext,0.69,0.8,0.5,0.8,0.4,1.0,review
 Actual qty in stock,Werkelijke hoeveelheid op voorraad,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Actual Qty is mandatory,Werkelijke aantal is verplicht,reviewed,erpnext,0.71,0.8,0.6,0.8,0.5,1.0,review
@@ -1399,106 +1399,106 @@ Bold,Vet,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 bold,Vet,reviewed,frappe,0.83,0.85,0.85,0.8,0.75,1.0,ok
 BOM 1 {0} and BOM 2 {1} should not be same,BOM 1 {0} en BOM 2 {1} mogen niet hetzelfde zijn,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 BOM and Manufacturing Quantity are required,BOM en productiehoeveelheid zijn verplicht,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
-BOM Comparison Tool,BOM-vergelijkingstool,reviewed,erpnext,,,,,,,
-BOM Creator,Stuklijst aanmaken,reviewed,custom,,,,,,,
-BOM Detail No,Stuklijst Detail nr.,reviewed,erpnext,,,,,,,
-BOM does not contain any stock item,BOM bevat geen voorraadartikelen,reviewed,erpnext,,,,,,,
-BOM Explosion Item,Stuklijst uitklapartikel,reviewed,erpnext,,,,,,,
-BOM ID,BOM-ID,reviewed,erpnext,,,,,,,
-BOM Item,Stuklijst Artikel,reviewed,erpnext,,,,,,,
-BOM Item Code,BOM-artikelcode,reviewed,erpnext,,,,,,,
-BOM No,Stuklijst nr.,reviewed,erpnext,,,,,,,
-BOM No. for a Finished Good Item,Stuklijst nr voor een Gereed Product Artikel,reviewed,erpnext,,,,,,,
-BOM Operation,Stuklijst Operatie,reviewed,erpnext,,,,,,,
-BOM Operations Time,BOM Operations Tijd,reviewed,erpnext,,,,,,,
-BOM Qty,BOM Aantal,reviewed,erpnext,,,,,,,
-BOM Rate,Stuklijst tarief,reviewed,erpnext,,,,,,,
-BOM recursion: {0} cannot be child of {1},BOM-recursie: {0} kan geen kind van {1} zijn,reviewed,erpnext,,,,,,,
-BOM recursion: {0} cannot be parent or child of {1},BOM-recursie: {0} kan geen ouder of kind van {1} zijn,reviewed,erpnext,,,,,,,
-BOM Search,BOM Zoeken,reviewed,erpnext,,,,,,,
-BOM Stock Calculated,Stuklijst berekend,reviewed,erpnext,,,,,,,
-BOM Update Log,Stuklijst wijzigingslog,reviewed,custom,,,,,,,
-BOM Variance Report,BOM-variatierapport,reviewed,erpnext,,,,,,,
-BOM {0} does not belong to Item {1},Stuklijst {0} behoort niet tot Artikel {1},reviewed,erpnext,,,,,,,
-BOM {0} must be active,Stuklijst {0} moet actief zijn,reviewed,erpnext,,,,,,,
-BOM {0} must be submitted,Stuklijst {0} moet worden ingediend,reviewed,erpnext,,,,,,,
-Book,Boek,reviewed,erpnext,,,,,,,
-book,boek,reviewed,frappe,,,,,,,
-Book Appointment,Boekafspraak,reviewed,erpnext,,,,,,,
-Book Asset Depreciation Entry Automatically,Automatische afschrijving van de activa van de boekwaarde,reviewed,erpnext,,,,,,,
-Book Deferred Entries Based On,Boek uitgestelde inzendingen op basis van,reviewed,erpnext,,,,,,,
-Book Deferred Entries Via Journal Entry,Boek uitgestelde posten via journaalboeking,reviewed,erpnext,,,,,,,
-Booked,geboekt,reviewed,erpnext,,,,,,,
-Booked Fixed Asset,Geboekte vaste activa,reviewed,erpnext,,,,,,,
-bookmark,bladwijzer,reviewed,frappe,,,,,,,
-Both,Beide,reviewed,erpnext,,,,,,,
-Both DocType and Name required,Zowel DocType en Naam verplicht,reviewed,frappe,,,,,,,
-Both login and password required,Zowel de login en wachtwoord vereist,reviewed,frappe,,,,,,,
-Both Trial Period Start Date and Trial Period End Date must be set,Zowel de startdatum van de proefperiode als de einddatum van de proefperiode moeten worden ingesteld,reviewed,erpnext,,,,,,,
-Both Warehouse must belong to same Company,Beide magazijnen moeten tot hetzelfde bedrijf behoren,reviewed,erpnext,,,,,,,
-Bottom,Bodem,reviewed,frappe,,,,,,,
-Bounced,Gebouncet,reviewed,frappe,,,,,,,
-Braintree payment gateway settings,Braintree betalingsgateway-instellingen,reviewed,frappe,,,,,,,
-Braintree Settings,Braintree-instellingen,reviewed,frappe,,,,,,,
-Branch,Tak,reviewed,erpnext,,,,,,,
-Branch Code,Filiaalcode,reviewed,erpnext,,,,,,,
-Brand,Merk,reviewed,both,,,,,,,
-Brand Defaults,Standaardwaarden van het merk,reviewed,erpnext,,,,,,,
-Brand HTML,Merk HTML,reviewed,frappe,,,,,,,
-Brand Image,merk Afbeelding,reviewed,frappe,,,,,,,
-Brand Name,Merknaam,reviewed,erpnext,,,,,,,
-Breadcrumbs,Broodkruimels,reviewed,frappe,,,,,,,
-Breakdown,Storing,reviewed,erpnext,,,,,,,
-briefcase,koffer,reviewed,frappe,,,,,,,
-Broadcasting,Uitzenden,reviewed,erpnext,,,,,,,
-Brokerage,Makelaardij,reviewed,erpnext,,,,,,,
-Browse,Bladeren,reviewed,both,,,,,,,
-Browse BOM,Bladeren BOM,reviewed,erpnext,,,,,,,
-"browse,","bladeren,",reviewed,frappe,,,,,,,
-Browser not supported,Browser wordt niet ondersteund,reviewed,frappe,,,,,,,
-Browser Version,Browserversie,reviewed,frappe,,,,,,,
-Brute Force Security,Brute Force-beveiliging,reviewed,frappe,,,,,,,
-Bucket Name,Bucketnaam,reviewed,frappe,,,,,,,
-Budget,Begroting,reviewed,erpnext,,,,,,,
-Budget Account,budget account,reviewed,erpnext,,,,,,,
-Budget Accounts,budget Accounts,reviewed,erpnext,,,,,,,
-Budget Against,budget Against,reviewed,erpnext,,,,,,,
-Budget Amount,budget Bedrag,reviewed,erpnext,,,,,,,
-Budget cannot be assigned against Group Account {0},Budget kan niet tegen Group rekening worden toegewezen {0},reviewed,erpnext,,,,,,,
-"Budget cannot be assigned against {0}, as it's not an Income or Expense account","Budget kan niet worden toegewezen tegen {0}, want het is geen baten of lasten rekening",reviewed,erpnext,,,,,,,
-Budget List,Budgetlijst,reviewed,erpnext,,,,,,,
-Budget Variance Report,Budget variantie rapport,reviewed,erpnext,,,,,,,
-Budgets,Budgetten,reviewed,erpnext,,,,,,,
-Build Report,Maak Rapport,reviewed,frappe,,,,,,,
-Buildings,Gebouwen,reviewed,erpnext,,,,,,,
-Bulk Delete,Bulk verwijderen,reviewed,frappe,,,,,,,
-Bulk Edit {0},Bulk Bewerken {0},reviewed,frappe,,,,,,,
-Bulk Rename,Bulk Hernoemen,reviewed,frappe,,,,,,,
-Bulk Update,bulk-update,reviewed,frappe,,,,,,,
-bullhorn,megafoon,reviewed,frappe,,,,,,,
-Bundle items at time of sale.,Bundel artikelen op moment van verkoop.,reviewed,erpnext,,,,,,,
-Bundle Qty,Aantal bundels,reviewed,erpnext,,,,,,,
-Busy,Bezig,reviewed,erpnext,,,,,,,
-Button,Knop,reviewed,frappe,,,,,,,
-Button Gradients,Knop verlopen,reviewed,frappe,,,,,,,
-Button Help,knop Help,reviewed,frappe,,,,,,,
-Button Label,knoplabel,reviewed,frappe,,,,,,,
-Button Rounded Corners,Knoop Afgeronde Hoeken,reviewed,frappe,,,,,,,
-Button Shadows,Knopschaduwen,reviewed,frappe,,,,,,,
-Buy,Kopen,reviewed,erpnext,,,,,,,
-Buyer of Goods and Services.,Koper van goederen en diensten.,reviewed,erpnext,,,,,,,
-Buying,Inkoop,reviewed,erpnext,,,,,,,
-Buying Amount,Aankoop Bedrag,reviewed,erpnext,,,,,,,
-"Buying must be checked, if Applicable For is selected as {0}","Aankopen moeten worden gecontroleerd, indien ""VAN TOEPASSING VOOR"" is geselecteerd als {0}",reviewed,erpnext,,,,,,,
-Buying Price List,Prijslijst kopen,reviewed,erpnext,,,,,,,
-Buying Rate,Koopsnelheid,reviewed,erpnext,,,,,,,
-Buying Settings,Inkoop Instellingen,reviewed,erpnext,,,,,,,
-by,door,reviewed,erpnext,,,,,,,
-"By default the title is used as meta title, adding a value here will override it.","Standaard wordt de titel gebruikt als metatitel, als u hier een waarde toevoegt, wordt deze overschreven.",reviewed,frappe,,,,,,,
-"By default, a new User is created for every new Student. If enabled, no new User will be created when a new Student is created.","Standaard wordt voor elke nieuwe student een nieuwe gebruiker aangemaakt. Indien ingeschakeld, wordt er geen nieuwe gebruiker aangemaakt wanneer een nieuwe student wordt aangemaakt.",reviewed,erpnext,,,,,,,
-"By default, the Customer Name is set as per the Full Name entered. If you want Customers to be named by a",Standaard wordt de klantnaam ingesteld volgens de ingevoerde volledige naam. Als u wilt dat klanten worden genoemd door een,reviewed,erpnext,,,,,,,
-"By default, the Item Name is set as per the Item Code entered. If you want Items to be named by a",Standaard wordt de artikelnaam ingesteld volgens de ingevoerde artikelcode. Als u wilt dat items een naam krijgen van,reviewed,erpnext,,,,,,,
-"By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a",Standaard wordt de leveranciersnaam ingesteld volgens de ingevoerde leveranciersnaam. Als u wilt dat leveranciers worden genoemd door een,reviewed,erpnext,,,,,,,
+BOM Comparison Tool,BOM-vergelijkingstool,reviewed,erpnext,0.87,0.85,0.8,0.9,0.95,1.0,ok
+BOM Creator,Stuklijst aanmaken,reviewed,custom,0.59,0.5,0.55,0.55,0.8,0.8,review
+BOM Detail No,Stuklijst Detail nr.,reviewed,erpnext,0.85,0.85,0.75,0.85,0.85,1.0,ok
+BOM does not contain any stock item,BOM bevat geen voorraadartikelen,reviewed,erpnext,0.82,0.85,0.8,0.7,0.9,0.9,ok
+BOM Explosion Item,Stuklijst uitklapartikel,reviewed,erpnext,0.61,0.6,0.45,0.65,0.7,0.9,review
+BOM ID,BOM-ID,reviewed,erpnext,0.93,0.9,0.9,0.95,1.0,1.0,ok
+BOM Item,Stuklijst Artikel,reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+BOM Item Code,BOM-artikelcode,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
+BOM No,Stuklijst nr.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+BOM No. for a Finished Good Item,Stuklijst nr voor een Gereed Product Artikel,reviewed,erpnext,0.75,0.8,0.65,0.75,0.7,0.95,review
+BOM Operation,Stuklijst Operatie,reviewed,erpnext,0.72,0.7,0.6,0.75,0.8,1.0,review
+BOM Operations Time,BOM Operations Tijd,reviewed,erpnext,0.4,0.4,0.3,0.4,0.4,0.8,rewrite
+BOM Qty,BOM Aantal,reviewed,erpnext,0.77,0.75,0.7,0.7,0.85,1.0,review
+BOM Rate,Stuklijst tarief,reviewed,erpnext,0.83,0.8,0.8,0.8,0.85,1.0,ok
+BOM recursion: {0} cannot be child of {1},BOM-recursie: {0} kan geen kind van {1} zijn,reviewed,erpnext,0.85,0.85,0.75,0.85,0.9,1.0,ok
+BOM recursion: {0} cannot be parent or child of {1},BOM-recursie: {0} kan geen ouder of kind van {1} zijn,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+BOM Search,BOM Zoeken,reviewed,erpnext,0.76,0.75,0.7,0.7,0.8,1.0,review
+BOM Stock Calculated,Stuklijst berekend,reviewed,erpnext,0.59,0.55,0.55,0.6,0.7,0.7,review
+BOM Update Log,Stuklijst wijzigingslog,reviewed,custom,0.86,0.85,0.8,0.85,0.9,1.0,ok
+BOM Variance Report,BOM-variatierapport,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+BOM {0} does not belong to Item {1},Stuklijst {0} behoort niet tot Artikel {1},reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+BOM {0} must be active,Stuklijst {0} moet actief zijn,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+BOM {0} must be submitted,Stuklijst {0} moet worden ingediend,reviewed,erpnext,0.78,0.75,0.7,0.8,0.85,1.0,review
+Book,Boek,reviewed,erpnext,0.87,0.8,0.85,0.85,1.0,1.0,ok
+book,boek,reviewed,frappe,0.87,0.8,0.85,0.85,1.0,1.0,ok
+Book Appointment,Boekafspraak,reviewed,erpnext,0.45,0.4,0.35,0.5,0.6,0.9,rewrite
+Book Asset Depreciation Entry Automatically,Automatische afschrijving van de activa van de boekwaarde,reviewed,erpnext,0.49,0.45,0.4,0.5,0.55,0.7,rewrite
+Book Deferred Entries Based On,Boek uitgestelde inzendingen op basis van,reviewed,erpnext,0.57,0.55,0.45,0.55,0.65,0.9,review
+Book Deferred Entries Via Journal Entry,Boek uitgestelde posten via journaalboeking,reviewed,erpnext,0.73,0.7,0.65,0.7,0.75,1.0,review
+Booked,geboekt,reviewed,erpnext,0.79,0.8,0.75,0.8,0.7,1.0,review
+Booked Fixed Asset,Geboekte vaste activa,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+bookmark,bladwijzer,reviewed,frappe,0.95,0.9,0.95,0.95,1.0,1.0,ok
+Both,Beide,reviewed,erpnext,0.95,0.9,0.95,0.95,1.0,1.0,ok
+Both DocType and Name required,Zowel DocType en Naam verplicht,reviewed,frappe,0.71,0.7,0.65,0.75,0.65,0.95,review
+Both login and password required,Zowel de login en wachtwoord vereist,reviewed,frappe,0.63,0.65,0.55,0.65,0.55,0.95,review
+Both Trial Period Start Date and Trial Period End Date must be set,Zowel de startdatum van de proefperiode als de einddatum van de proefperiode moeten worden ingesteld,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Both Warehouse must belong to same Company,Beide magazijnen moeten tot hetzelfde bedrijf behoren,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Bottom,Bodem,reviewed,frappe,0.64,0.55,0.5,0.6,0.9,1.0,review
+Bounced,Gebouncet,reviewed,frappe,0.46,0.5,0.3,0.45,0.4,1.0,rewrite
+Braintree payment gateway settings,Braintree betalingsgateway-instellingen,reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Braintree Settings,Braintree-instellingen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Branch,Tak,reviewed,erpnext,0.55,0.4,0.45,0.5,0.9,1.0,review
+Branch Code,Filiaalcode,reviewed,erpnext,0.85,0.8,0.85,0.8,0.9,1.0,ok
+Brand,Merk,reviewed,both,0.95,0.9,0.95,0.95,1.0,1.0,ok
+Brand Defaults,Standaardwaarden van het merk,reviewed,erpnext,0.74,0.7,0.65,0.7,0.85,1.0,review
+Brand HTML,Merk HTML,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Brand Image,merk Afbeelding,reviewed,frappe,0.66,0.7,0.6,0.65,0.55,1.0,review
+Brand Name,Merknaam,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Breadcrumbs,Broodkruimels,reviewed,frappe,0.57,0.5,0.4,0.5,0.9,1.0,review
+Breakdown,Storing,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+briefcase,koffer,reviewed,frappe,0.54,0.4,0.45,0.5,0.9,1.0,review
+Broadcasting,Uitzenden,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Brokerage,Makelaardij,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Browse,Bladeren,reviewed,both,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Browse BOM,Bladeren BOM,reviewed,erpnext,0.65,0.6,0.55,0.65,0.65,1.0,review
+"browse,","bladeren,",reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Browser not supported,Browser wordt niet ondersteund,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Browser Version,Browserversie,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Brute Force Security,Brute Force-beveiliging,reviewed,frappe,0.92,0.9,0.85,0.9,0.95,1.0,ok
+Bucket Name,Bucketnaam,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Budget,Begroting,reviewed,erpnext,0.9,0.85,0.9,0.85,1.0,1.0,ok
+Budget Account,budget account,reviewed,erpnext,0.28,0.3,0.2,0.25,0.2,0.8,rewrite
+Budget Accounts,budget Accounts,reviewed,erpnext,0.27,0.25,0.2,0.25,0.2,0.8,rewrite
+Budget Against,budget Against,reviewed,erpnext,0.22,0.2,0.15,0.2,0.15,0.7,rewrite
+Budget Amount,budget Bedrag,reviewed,erpnext,0.28,0.3,0.2,0.25,0.2,0.8,rewrite
+Budget cannot be assigned against Group Account {0},Budget kan niet tegen Group rekening worden toegewezen {0},reviewed,erpnext,0.56,0.55,0.45,0.55,0.5,0.9,review
+"Budget cannot be assigned against {0}, as it's not an Income or Expense account","Budget kan niet worden toegewezen tegen {0}, want het is geen baten of lasten rekening",reviewed,erpnext,0.72,0.7,0.65,0.7,0.7,0.95,review
+Budget List,Budgetlijst,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Budget Variance Report,Budget variantie rapport,reviewed,erpnext,0.76,0.75,0.7,0.75,0.75,1.0,review
+Budgets,Budgetten,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Build Report,Maak Rapport,reviewed,frappe,0.59,0.55,0.5,0.55,0.65,0.95,review
+Buildings,Gebouwen,reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
+Bulk Delete,Bulk verwijderen,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Bulk Edit {0},Bulk Bewerken {0},reviewed,frappe,0.82,0.8,0.75,0.8,0.8,1.0,ok
+Bulk Rename,Bulk Hernoemen,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Bulk Update,bulk-update,reviewed,frappe,0.32,0.3,0.25,0.3,0.35,0.8,rewrite
+bullhorn,megafoon,reviewed,frappe,0.79,0.7,0.75,0.7,1.0,1.0,review
+Bundle items at time of sale.,Bundel artikelen op moment van verkoop.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+Bundle Qty,Aantal bundels,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Busy,Bezig,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Button,Knop,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Button Gradients,Knop verlopen,reviewed,frappe,0.77,0.75,0.7,0.75,0.75,1.0,review
+Button Help,knop Help,reviewed,frappe,0.65,0.65,0.6,0.65,0.55,1.0,review
+Button Label,knoplabel,reviewed,frappe,0.83,0.8,0.8,0.8,0.85,1.0,ok
+Button Rounded Corners,Knoop Afgeronde Hoeken,reviewed,frappe,0.63,0.6,0.55,0.6,0.6,1.0,review
+Button Shadows,Knopschaduwen,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Buy,Kopen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Buyer of Goods and Services.,Koper van goederen en diensten.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Buying,Inkoop,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Buying Amount,Aankoop Bedrag,reviewed,erpnext,0.75,0.75,0.7,0.75,0.7,1.0,review
+"Buying must be checked, if Applicable For is selected as {0}","Aankopen moeten worden gecontroleerd, indien ""VAN TOEPASSING VOOR"" is geselecteerd als {0}",reviewed,erpnext,0.64,0.65,0.55,0.6,0.65,0.9,review
+Buying Price List,Prijslijst kopen,reviewed,erpnext,0.58,0.55,0.5,0.55,0.6,1.0,review
+Buying Rate,Koopsnelheid,reviewed,erpnext,0.31,0.25,0.2,0.3,0.5,0.8,rewrite
+Buying Settings,Inkoop Instellingen,reviewed,erpnext,0.79,0.8,0.75,0.8,0.75,1.0,review
+by,door,reviewed,erpnext,0.85,0.8,0.8,0.8,1.0,1.0,ok
+"By default the title is used as meta title, adding a value here will override it.","Standaard wordt de titel gebruikt als metatitel, als u hier een waarde toevoegt, wordt deze overschreven.",reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+"By default, a new User is created for every new Student. If enabled, no new User will be created when a new Student is created.","Standaard wordt voor elke nieuwe student een nieuwe gebruiker aangemaakt. Indien ingeschakeld, wordt er geen nieuwe gebruiker aangemaakt wanneer een nieuwe student wordt aangemaakt.",reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+"By default, the Customer Name is set as per the Full Name entered. If you want Customers to be named by a",Standaard wordt de klantnaam ingesteld volgens de ingevoerde volledige naam. Als u wilt dat klanten worden genoemd door een,reviewed,erpnext,0.74,0.75,0.7,0.75,0.75,0.75,review
+"By default, the Item Name is set as per the Item Code entered. If you want Items to be named by a",Standaard wordt de artikelnaam ingesteld volgens de ingevoerde artikelcode. Als u wilt dat items een naam krijgen van,reviewed,erpnext,0.74,0.75,0.7,0.75,0.75,0.75,review
+"By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a",Standaard wordt de leveranciersnaam ingesteld volgens de ingevoerde leveranciersnaam. Als u wilt dat leveranciers worden genoemd door een,reviewed,erpnext,0.74,0.75,0.7,0.75,0.75,0.75,review
 by Role,op rol,reviewed,frappe,,,,,,,
 By {0},Door {0},reviewed,erpnext,,,,,,,
 Bypass credit check at Sales Order,Bypass credit check op klantorder,reviewed,erpnext,,,,,,,

@@ -1799,306 +1799,306 @@ Check In,Check in,reviewed,erpnext,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Check in (group),Inchecken (groep),reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Check Out,Uitchecken,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Check Request URL,Controleer de aanvraag-URL,reviewed,frappe,0.87,0.85,0.85,0.85,1.0,1.0,ok
-Check Supplier Invoice Number Uniqueness,Controleer uniekheid leveranciersfactuurnummer,reviewed,erpnext,,,,,,,
-Check the Error Log for more information: {0},Controleer het foutenlogboek voor meer informatie: {0},reviewed,frappe,,,,,,,
-Check this if the Clinical Procedure is billable and also set the rate.,Controleer dit of de klinische procedure factureerbaar is en stel ook het tarief in.,reviewed,erpnext,,,,,,,
-Check this if the Clinical Procedure utilises consumables. Click,Controleer dit als de klinische procedure verbruiksartikelen gebruikt. Klik,reviewed,erpnext,,,,,,,
-Check this if the Student is residing at the Institute's Hostel.,Controleer dit als de student in het hostel van het Instituut verblijft.,reviewed,erpnext,,,,,,,
-Check this if you are testing your payment using the Sandbox API,Controleer dit als u het testen van uw betaling via de Sandbox API,reviewed,frappe,,,,,,,
-Check this if you don't want users to sign up for an account on your site. Users won't get desk access unless you explicitly provide it.,Vink dit aan als u niet wilt dat gebruikers zich aanmelden voor een account op uw site. Gebruikers krijgen geen bureautoegang tenzij u dit expliciet opgeeft.,reviewed,frappe,,,,,,,
-Check this if you want the Name and Designation of the Employee associated with the User who submits the document to be printed in the Lab Test Report.,"Vink dit aan als u wilt dat de naam en aanduiding van de werknemer die is gekoppeld aan de gebruiker die het document indient, wordt afgedrukt in het laboratoriumtestrapport.",reviewed,erpnext,,,,,,,
-Check this if you want to force the user to select a series before saving. There will be no default if you check this.,Controleer dit als u wilt dwingen de gebruiker om een reeks voor het opslaan te selecteren. Er zal geen standaard zijn als je dit controleren.,reviewed,frappe,,,,,,,
-Check this if you want to show in website,Aanvinken om weer te geven op de website,reviewed,erpnext,,,,,,,
-Check this to disallow fractions. (for Nos),Aanvinken om delingen te verbieden.,reviewed,erpnext,,,,,,,
-Check this to enable a scheduled Daily synchronization routine via scheduler,Vink dit aan om een geplande dagelijkse synchronisatieroutine via de planner in te schakelen,reviewed,erpnext,,,,,,,
-Check this to mark the student as present in case the student is not attending the institute to participate or represent the institute in any event.\n\n,Vink dit aan om de student als aanwezig te markeren voor het geval de student niet naar het instituut gaat om deel te nemen of het instituut in ieder geval te vertegenwoordigen.,reviewed,erpnext,,,,,,,
-Check this to pull emails from your mailbox,Aanvinken om e-mails uit uw mailbox te importeren.,reviewed,frappe,,,,,,,
-Check which Documents are readable by a User,Aanvinken welke documenten leesbaar zijn voor een gebruiker,reviewed,frappe,,,,,,,
-Check-in time cannot be greater than the current time,De inchecktijd kan niet langer zijn dan de huidige tijd,reviewed,erpnext,,,,,,,
-Checking one moment,Het controleren van het ene moment,reviewed,frappe,,,,,,,
-Checking this will automatically create a Sales Invoice whenever an appointment is booked for a Patient.,"Als u dit aanvinkt, wordt automatisch een verkoopfactuur aangemaakt wanneer er een afspraak wordt gemaakt voor een patiënt.",reviewed,erpnext,,,,,,,
-Checking this will create a Sample Collection document  every time you create a Lab Test,"Als u dit aanvinkt, wordt er elke keer dat u een laboratoriumtest maakt een monsterafnamedocument gemaakt",reviewed,erpnext,,,,,,,
-Checking this will create Lab Test(s) specified in the Sales Invoice on submission.,"Als u dit aanvinkt, worden Lab-test (en) aangemaakt die bij indiening in de verkoopfactuur worden vermeld.",reviewed,erpnext,,,,,,,
-Checking this will create new Patients with a Disabled status by default and will only be enabled after invoicing the Registration Fee.,"Als u dit aanvinkt, worden standaard nieuwe Patiënten met een Uitgeschakelde status aangemaakt en wordt deze pas ingeschakeld na facturering van de Registratiekosten.",reviewed,erpnext,,,,,,,
-"Checking this will enable tracking page views for blogs, web pages, etc.","Als u dit aanvinkt, worden paginaweergaven voor blogs, webpagina&#39;s, enz. Bijgehouden.",reviewed,frappe,,,,,,,
-Checking this will hide custom doctypes and reports cards in Links section,"Als u dit aanvinkt, worden aangepaste doctypes en rapportkaarten in de sectie Links verborgen",reviewed,frappe,,,,,,,
-Checking this will publish the page on your website and it'll be visible to everyone.,"Als u dit aanvinkt, wordt de pagina op uw website gepubliceerd en is deze voor iedereen zichtbaar.",reviewed,frappe,,,,,,,
-Checking this will restrict printing and emailing of Lab Test documents unless they have the status as Approved.,"Als u dit aanvinkt, wordt het afdrukken en e-mailen van Lab Test-documenten beperkt, tenzij ze de status Goedgekeurd hebben.",reviewed,erpnext,,,,,,,
-Checking this will show a text area where you can write custom javascript that will run on this page.,"Als u dit aanvinkt, wordt een tekstgebied weergegeven waarin u aangepast javascript kunt schrijven dat op deze pagina wordt uitgevoerd.",reviewed,frappe,,,,,,,
-Checkout,Uitchecken,reviewed,erpnext,,,,,,,
-Checkout Order / Submit Order / New Order,Bestelling afrekenen / Bestelling plaatsen / Nieuwe bestelling,reviewed,erpnext,,,,,,,
-Checkout Settings,Afrekenen Instellingen,reviewed,erpnext,,,,,,,
-Checksum Version,Checksum-versie,reviewed,frappe,,,,,,,
-Chemical,Chemisch,reviewed,erpnext,,,,,,,
-Cheque Date,Cheque Datum,reviewed,erpnext,,,,,,,
-Cheque Height,Cheque Hoogte,reviewed,erpnext,,,,,,,
-Cheque Number,Cheque nummer,reviewed,erpnext,,,,,,,
-Cheque Print Template,Cheque afdruksjabloon,reviewed,custom,,,,,,,
-Cheque Width,Cheque Breedte,reviewed,erpnext,,,,,,,
-Cheque/Reference Date,Cheque / Reference Data,reviewed,erpnext,,,,,,,
-Cheque/Reference No,Cheque / Reference No,reviewed,erpnext,,,,,,,
-Cheques and Deposits incorrectly cleared,Cheques en Deposito verkeerd ontruimd,reviewed,erpnext,,,,,,,
-Cheques Required,Controles vereist,reviewed,erpnext,,,,,,,
-chevron-left,chevron-links,reviewed,frappe,,,,,,,
-chevron-right,chevron-rechts,reviewed,frappe,,,,,,,
-Chief Complaint,Hoofdklacht,reviewed,erpnext,,,,,,,
-Child Docname,Doc. Kindnaam,reviewed,erpnext,,,,,,,
-Child nodes can be only created under 'Group' type nodes,Child nodes kunnen alleen worden gemaakt op grond van het type nodes &#39;Groep&#39;,reviewed,erpnext,,,,,,,
-Child Table,Kindertafel,reviewed,frappe,,,,,,,
-Child Table Mapping,Kindentabel in kaart brengen,reviewed,frappe,,,,,,,
-Child Tables are shown as a Grid in other DocTypes,Onderliggende tabellen worden als raster weergegeven in andere DocTypes,reviewed,frappe,,,,,,,
-Child Task exists for this Task. You can not delete this Task.,Child Task bestaat voor deze taak. U kunt deze taak niet verwijderen.,reviewed,erpnext,,,,,,,
-Child warehouse exists for this warehouse. You can not delete this warehouse.,Child magazijn bestaat voor dit magazijn. U kunt dit magazijn niet verwijderen.,reviewed,erpnext,,,,,,,
-Choose a corresponding payment,Kies een overeenkomstige betaling,reviewed,erpnext,,,,,,,
-choose an,kies een,reviewed,frappe,,,,,,,
-Choose authentication method to be used by all users,Kies de verificatiemethode die door alle gebruikers wordt gebruikt,reviewed,frappe,,,,,,,
-Choose between FIFO and Moving Average Valuation Methods. Click,Kies tussen FIFO en Voortschrijdend gemiddelde waarderingsmethoden. Klik,reviewed,erpnext,,,,,,,
-Choose Existing Card or create New Card,Kies bestaande kaart of maak een nieuwe kaart,reviewed,frappe,,,,,,,
-choose the 'Naming Series' option.,kies de optie &#39;Naming Series&#39;.,reviewed,erpnext,,,,,,,
-circle-arrow-left,cirkel-pijl-links,reviewed,frappe,,,,,,,
-circle-arrow-right,cirkel-pijl-rechts,reviewed,frappe,,,,,,,
-circle-arrow-up,cirkel-pijl-up,reviewed,frappe,,,,,,,
-Circular Reference Error,Kringverwijzing Error,reviewed,erpnext,,,,,,,
-City/Town,Stad / Plaats,reviewed,both,,,,,,,
-Class / Percentage,Klasse / Percentage,reviewed,erpnext,,,,,,,
-Classification of Customers by region,Indeling van de klanten per regio,reviewed,erpnext,,,,,,,
-Clauses and Conditions,Clausules en voorwaarden,reviewed,erpnext,,,,,,,
-Clay,Klei,reviewed,erpnext,,,,,,,
-Clay Composition (%),Kleisamenstelling (%),reviewed,erpnext,,,,,,,
-Clear,Doorzichtig,reviewed,both,,,,,,,
-clear,wissen,reviewed,frappe,,,,,,,
-Clear Activity Log After,Wis activiteitenlogboek na,reviewed,frappe,,,,,,,
-Clear all roles,Wis alle rollen,reviewed,frappe,,,,,,,
-Clear Cache and Reload,Cache wissen en opnieuw laden,reviewed,frappe,,,,,,,
-Clear Email Queue After,E-mailwachtrij na wissen,reviewed,frappe,,,,,,,
-Clear Error log After,Wis foutenlogboek na,reviewed,frappe,,,,,,,
-Clear Filters,Filters wissen,reviewed,frappe,,,,,,,
-Clear filters,Filters wissen,reviewed,erpnext,,,,,,,
-Clear Table,Wis Tabel,reviewed,erpnext,,,,,,,
-Clear User Permissions,Wis gebruikersrechten,reviewed,frappe,,,,,,,
-Clear values,Duidelijke waarden,reviewed,erpnext,,,,,,,
-Clearance Date,Clearance Datum,reviewed,erpnext,,,,,,,
-Clearance Date not mentioned,Ontruiming Datum niet vermeld,reviewed,erpnext,,,,,,,
-Clearance Date updated,Ontruiming Geactualiseerd,reviewed,erpnext,,,,,,,
-"Clearing end date, as it cannot be in the past for published pages.","Einddatum wissen, omdat dit voor gepubliceerde pagina&#39;s niet in het verleden kan zijn.",reviewed,frappe,,,,,,,
-Click Enter To Add,Klik op Enter om toe te voegen,reviewed,erpnext,,,,,,,
-Click here to post bugs and suggestions,Klik hier om bugs en suggesties te plaatsen,reviewed,frappe,,,,,,,
-Click here to verify,Klik hier om te verifiëren,reviewed,frappe,,,,,,,
-Click on <b>Authorize Google Drive Access</b> to authorize Google Drive Access.,Klik op <b>Google Drive Access autoriseren om Google Drive Access</b> te autoriseren.,reviewed,frappe,,,,,,,
-Click on a file to select it.,Klik op een bestand om het te selecteren.,reviewed,frappe,,,,,,,
-Click On Customize to add your first widget,Klik op Aanpassen om uw eerste widget toe te voegen,reviewed,frappe,,,,,,,
-Click on Import Invoices button once the zip file has been attached to the document. Any errors related to processing will be shown in the Error Log.,Klik op de knop Facturen importeren zodra het zipbestand aan het document is toegevoegd. Alle fouten met betrekking tot verwerking worden weergegeven in het foutenlogboek.,reviewed,erpnext,,,,,,,
-Click on the link below to approve the request,Klik op de onderstaande link om het verzoek goed te keuren,reviewed,frappe,,,,,,,
-Click on the link below to complete your registration and set a new password,Klik op onderstaande link om uw registratie te voltooien en een nieuw wachtwoord in te stellen,reviewed,frappe,,,,,,,
-Click on the link below to download your data,Klik op onderstaande link om uw gegevens te downloaden,reviewed,frappe,,,,,,,
-Click on the link below to verify your email and confirm the appointment,Klik op de onderstaande link om uw e-mail te verifiëren en de afspraak te bevestigen,reviewed,erpnext,,,,,,,
-Click on the link below to verify your request,Klik op onderstaande link om uw aanvraag te verifiëren,reviewed,frappe,,,,,,,
-Click on the lock icon to toggle public/private,Klik op het vergrendelingspictogram om te schakelen tussen openbaar / privé,reviewed,frappe,,,,,,,
-Click on the row for accessing filters.,Klik op de rij voor toegang tot filters.,reviewed,frappe,,,,,,,
-Click on {0} to generate Refresh Token.,Klik op {0} om het vernieuwingstoken te genereren.,reviewed,frappe,,,,,,,
-Click table to edit,Klik op tafel te bewerken,reviewed,frappe,,,,,,,
-Click this button to pull your Sales Order data from Amazon MWS.,Klik op deze knop om uw klantordergegevens uit Amazon MWS te halen.,reviewed,erpnext,,,,,,,
-Click to Set Dynamic Filters,Klik om dynamische filters in te stellen,reviewed,frappe,,,,,,,
-Click to Set Filters,Klik om filters in te stellen,reviewed,frappe,,,,,,,
-Clicked,Geklikt,reviewed,frappe,,,,,,,
-Client,Klant,reviewed,both,,,,,,,
-Client Code,Klantcode,reviewed,frappe,,,,,,,
-Client Credentials,Clientreferenties,reviewed,frappe,,,,,,,
-Client ID,Client-ID,reviewed,both,,,,,,,
-Client Information,Klantinformatie,reviewed,frappe,,,,,,,
-Client side script extensions in Javascript,Client-side script extensies in Javascript,reviewed,frappe,,,,,,,
-Client URLs,Client-URL&#39;s,reviewed,frappe,,,,,,,
-Clinical Procedure,Klinische procedure,reviewed,erpnext,,,,,,,
-Clinical Procedure ({0}):,Klinische procedure ({0}):,reviewed,erpnext,,,,,,,
-Clinical Procedure conducted:,Klinische procedure uitgevoerd:,reviewed,erpnext,,,,,,,
-Clinical Procedure Consumable Item,Klinische procedure verbruiksartikelen,reviewed,erpnext,,,,,,,
-Clinical Procedure Item,Klinische procedure Item,reviewed,erpnext,,,,,,,
-Clinical Procedure Rate,Klinische proceduretarief,reviewed,erpnext,,,,,,,
-Clinical Procedure Template,Klinische procedure-sjabloon,reviewed,erpnext,,,,,,,
-Clinical Procedures,Klinische procedures,reviewed,erpnext,,,,,,,
-Close,Sluiten,reviewed,both,,,,,,,
-Close Balance Sheet and book Profit or Loss.,Balans afsluiten en winst of verlies boeken.,reviewed,erpnext,,,,,,,
-Close Condition,Sluitconditie,reviewed,frappe,,,,,,,
-Close Issue After Days,Melding sluiten na dagen,reviewed,erpnext,,,,,,,
-Close Loan,Lening afsluiten,reviewed,erpnext,,,,,,,
-Close Opportunity After Days,Opportunity sluiten na dagen,reviewed,erpnext,,,,,,,
-Close the POS,Sluit de kassa,reviewed,erpnext,,,,,,,
-Closed,Gesloten,reviewed,both,,,,,,,
-Closed Document,Gesloten document,reviewed,erpnext,,,,,,,
-Closed Documents,Gesloten documenten,reviewed,erpnext,,,,,,,
-Closed order cannot be cancelled. Unclose to cancel.,Gesloten bestelling kan niet worden geannuleerd. Maak ongedaan om te annuleren.,reviewed,erpnext,,,,,,,
-Closing (Cr),Afsluiting (Cr),reviewed,erpnext,,,,,,,
-Closing (Dr),Afsluiting (Db),reviewed,erpnext,,,,,,,
-Closing (Opening + Total),Afsluiting (Opening + Totaal),reviewed,erpnext,,,,,,,
-Closing Account Head,Afsluitingsrekening,reviewed,erpnext,,,,,,,
-Closing Account {0} must be of type Liability / Equity,Afsluitingsrekening {0} moet van het type aansprakelijkheid of eigen vermogen zijn,reviewed,erpnext,,,,,,,
-Closing Amount,Eindbedrag,reviewed,erpnext,,,,,,,
-Closing Balance,Eindsaldo,reviewed,erpnext,,,,,,,
-Closing Date,Afsluitingsdatum,reviewed,erpnext,,,,,,,
-Closing Fiscal Year,Boekjaarafsluiting,reviewed,erpnext,,,,,,,
-Closing Text,Afsluitende tekst,reviewed,erpnext,,,,,,,
-cn-north-1,cn-north-1,reviewed,frappe,,,,,,,
-cn-northwest-1,cn-northwest-1,reviewed,frappe,,,,,,,
-Coated,Gecoat,reviewed,erpnext,,,,,,,
-Codification Table,Codificatietabel,reviewed,erpnext,,,,,,,
-cog,tandwiel,reviewed,frappe,,,,,,,
-Collapse,Inklappen,reviewed,frappe,,,,,,,
-Collapse All,Alles inklappen,reviewed,both,,,,,,,
-Collapse all,Alles inklappen,reviewed,custom,,,,,,,
-Collapsible,Inklapbaar,reviewed,frappe,,,,,,,
-Collapsible Depends On,Inklapbaar afhankelijk van,reviewed,frappe,,,,,,,
-Collect Fee for Patient Registration,Registratiekosten innen voor patientregistratie,reviewed,erpnext,,,,,,,
-Collect Progress,Voortgang bijhouden,reviewed,erpnext,,,,,,,
-Collect Registration Fee,Registratiekosten innen,reviewed,erpnext,,,,,,,
-Collected Amount,Verzameld bedrag,reviewed,erpnext,,,,,,,
-Collected By,Verzameld door,reviewed,erpnext,,,,,,,
-Collected On,Verzameld op,reviewed,erpnext,,,,,,,
-Collection Datetime,Verzameldatum en -tijd,reviewed,erpnext,,,,,,,
-Collection Details,Verzamelgegevens,reviewed,erpnext,,,,,,,
-Collection Details:,Verzamelgegevens:,reviewed,erpnext,,,,,,,
-Collection Factor (=1 LP),Collectiefactor (= 1 LP),reviewed,erpnext,,,,,,,
-Collection Rules,Verzamelregels,reviewed,erpnext,,,,,,,
-Collection Temperature,Verzamelingstemperatuur,reviewed,erpnext,,,,,,,
-Collection Tier,Verzamelniveau,reviewed,erpnext,,,,,,,
-Colony Population,Kolonie bevolking,reviewed,erpnext,,,,,,,
-Colony UOM,Kolonie UOM,reviewed,erpnext,,,,,,,
-Color,Kleur,reviewed,both,,,,,,,
-Colour,Kleur,reviewed,erpnext,,,,,,,
-Column,Kolom,reviewed,frappe,,,,,,,
-Column <b>{0}</b> already exist.,Kolom <b>{0}</b> bestaat al.,reviewed,frappe,,,,,,,
-Column in Bank File,Kolom in bankbestand,reviewed,erpnext,,,,,,,
-Column Labels:,Kolomlabels:,reviewed,frappe,,,,,,,
-Column Name,Kolomnaam,reviewed,frappe,,,,,,,
-Column Name cannot be empty,Kolomnaam mag niet leeg zijn,reviewed,frappe,,,,,,,
-Column {0},Kolom {0},reviewed,erpnext,,,,,,,
-Columns,Kolommen,reviewed,frappe,,,,,,,
-Columns / Fields,Kolommen / velden,reviewed,frappe,,,,,,,
-Columns based on,Kolommen gebaseerd op,reviewed,frappe,,,,,,,
-Combination of Grant Type (<code>{0}</code>) and Response Type (<code>{1}</code>) not allowed,Combinatie van Grant Type ( <code>{0}</code> ) en Response Type ( <code>{1}</code> ) niet toegestaan,reviewed,frappe,,,,,,,
-Combined invoice portion must equal 100%,Gecombineerd factuurgedeelte moet 100% zijn,reviewed,erpnext,,,,,,,
-Comment,Commentaar,reviewed,frappe,,,,,,,
-comment,opmerking,reviewed,frappe,,,,,,,
-Comment By,Opmerking door,reviewed,frappe,,,,,,,
-Comment can only be edited by the owner,Commentaar kan alleen door de eigenaar worden bewerkt,reviewed,frappe,,,,,,,
-Comment Email,E-mailadres opmerking,reviewed,frappe,,,,,,,
-Comment Type,Type opmerking,reviewed,frappe,,,,,,,
-Commented on {0}: {1},Gereageerd op {0}: {1},reviewed,frappe,,,,,,,
-Comments,Opmerkingen,reviewed,both,,,,,,,
-comments,opmerkingen,reviewed,frappe,,,,,,,
-Comments and Communications will be associated with this linked document,Opmerkingen en communicatie worden gekoppeld aan dit gekoppelde document,reviewed,frappe,,,,,,,
-Comments cannot have links or email addresses,Opmerkingen mogen geen links of e-mailadressen bevatten,reviewed,frappe,,,,,,,
-Comments on this blog post will be disabled if checked.,Reacties op dit blogbericht worden uitgeschakeld indien aangevinkt.,reviewed,frappe,,,,,,,
-Commercial,commercieel,reviewed,erpnext,,,,,,,
-Commission,Commissie,reviewed,erpnext,,,,,,,
-Commission on Sales,Commissie op verkoop,reviewed,erpnext,,,,,,,
-Commission Rate,Commissietarief,reviewed,erpnext,,,,,,,
-Commission Rate %,Commissietarief %,reviewed,erpnext,,,,,,,
-Commission Rate (%),Commissietarief (%),reviewed,erpnext,,,,,,,
-Commission rate cannot be greater than 100,Commissietarief kan niet groter zijn dan 100,reviewed,erpnext,,,,,,,
-Common Name,Algemene naam,reviewed,erpnext,,,,,,,
-Common names and surnames are easy to guess.,Populaire namen en achternamen zijn makkelijk te raden.,reviewed,frappe,,,,,,,
-Communicated via {0} on {1}: {2},Gecommuniceerd via {0} op {1}: {2},reviewed,frappe,,,,,,,
-Communication,Communicatie,reviewed,both,,,,,,,
-Communication Link,Communicatielink,reviewed,frappe,,,,,,,
-Communication Medium,Communicatiekanaal,reviewed,erpnext,,,,,,,
-Communication Medium Timeslot,Communicatie Medium tijdslot,reviewed,erpnext,,,,,,,
-Communication Medium Type,Type communicatiemedium,reviewed,erpnext,,,,,,,
-Communication Type,communicatie Type,reviewed,frappe,,,,,,,
-Community Contribution,Bijdrage van de gemeenschap,reviewed,frappe,,,,,,,
-Companies,Bedrijven,reviewed,erpnext,,,,,,,
-Company,Bedrijf,reviewed,both,,,,,,,
-Company (not Customer or Supplier) master.,Bedrijf ( geen klant of leverancier ) meester.,reviewed,erpnext,,,,,,,
-Company Abbreviation,Bedrijf afkorting,reviewed,erpnext,,,,,,,
-Company Abbreviation cannot have more than 5 characters,Bedrijfsbegeleiding mag niet meer dan 5 tekens bevatten,reviewed,erpnext,,,,,,,
-Company Account,Bedrijfsaccount,reviewed,erpnext,,,,,,,
-Company Address,bedrijfsadres,reviewed,erpnext,,,,,,,
-Company Address Name,Bedrijfs Adres Naam,reviewed,erpnext,,,,,,,
-Company Bank Account,Bedrijf bankrekening,reviewed,erpnext,,,,,,,
-Company currencies of both the companies should match for Inter Company Transactions.,Bedrijfsvaluta&#39;s van beide bedrijven moeten overeenkomen voor Inter Company Transactions.,reviewed,erpnext,,,,,,,
-Company Currency,Bedrijfsvaluta,reviewed,custom,,,,,,,
-Company Description,bedrijfsomschrijving,reviewed,erpnext,,,,,,,
-Company Description for website homepage,Omschrijving bedrijf voor website homepage,reviewed,erpnext,,,,,,,
-Company Email,Bedrijf e-mail,reviewed,erpnext,,,,,,,
-Company field is required,Bedrijfsveld is verplicht,reviewed,erpnext,,,,,,,
-Company GSTIN,Bedrijf GSTIN,reviewed,erpnext,,,,,,,
-Company History,Bedrijf Geschiedenis,reviewed,frappe,,,,,,,
-Company ID,bedrijfs ID,reviewed,erpnext,,,,,,,
-Company Info,Bedrijfsinformatie,reviewed,erpnext,,,,,,,
-Company Introduction,Bedrijf Introductie,reviewed,frappe,,,,,,,
-Company is manadatory for company account,Bedrijf is typisch voor bedrijfsaccount,reviewed,erpnext,,,,,,,
-Company Logo,Bedrijfslogo,reviewed,erpnext,,,,,,,
-Company Name,Bedrijfsnaam,reviewed,both,,,,,,,
-Company Name as per Imported Tally Data,Bedrijfsnaam volgens geïmporteerde telgegevens,reviewed,erpnext,,,,,,,
-Company Name cannot be Company,Bedrijfsnaam kan niet bedrijf zijn,reviewed,erpnext,,,,,,,
-Company name not same,Bedrijfsnaam niet hetzelfde,reviewed,erpnext,,,,,,,
-Company Not Linked,Bedrijf niet gekoppeld,reviewed,erpnext,,,,,,,
-Company of asset {0} and purchase document {1} doesn't matches.,Bedrijf van item {0} en inkoopdocument {1} komen niet overeen.,reviewed,erpnext,,,,,,,
-Company registration numbers for your reference. Tax numbers etc.,"Registratienummers van de onderneming voor uw referentie. Fiscale nummers, enz.",reviewed,erpnext,,,,,,,
-Company Settings,Bedrijfsinstellingen,reviewed,erpnext,,,,,,,
-Company Tagline for website homepage,Company Tag voor website homepage,reviewed,erpnext,,,,,,,
-Company {0} already exists. Continuing will overwrite the Company and Chart of Accounts,"Bedrijf {0} bestaat al. Als u doorgaat, worden het bedrijf en het rekeningschema overschreven",reviewed,erpnext,,,,,,,
-Company {0} does not exist,Company {0} bestaat niet,reviewed,erpnext,,,,,,,
-"Company, Fiscal Year and Currency defaults","Standaardinstellingen voor bedrijf, boekjaar en valuta",reviewed,frappe,,,,,,,
-Compare BOMs for changes in Raw Materials and Operations,Vergelijk BOM&#39;s voor wijzigingen in grondstoffen en bewerkingen,reviewed,erpnext,,,,,,,
-Compare List function takes on list arguments,De functie Lijst vergelijken neemt lijstargumenten aan,reviewed,erpnext,,,,,,,
-Compensatory leave request days not in valid holidays,Verzoek om compenserende verlofaanvragen niet in geldige feestdagen,reviewed,erpnext,,,,,,,
-Competitor,Concurrent,reviewed,custom,,,,,,,
-Compiled Successfully,Met succes samengesteld,reviewed,frappe,,,,,,,
-Complaint,Klacht,reviewed,erpnext,,,,,,,
-Complaints,klachten,reviewed,erpnext,,,,,,,
-Complete,Voltooien,reviewed,both,,,,,,,
-Complete and Consume,Voltooi en consumeer,reviewed,erpnext,,,,,,,
-Complete By,Compleet op,reviewed,frappe,,,,,,,
-Complete Registration,Registratie voltooien,reviewed,frappe,,,,,,,
-Complete Setup,Setup voltooien,reviewed,frappe,,,,,,,
-Complete {0} and Consume Stock?,{0} invullen en voorraad verbruiken?,reviewed,erpnext,,,,,,,
-Complete {0}?,{0} voltooid?,reviewed,erpnext,,,,,,,
-Completed,Voltooid,reviewed,both,,,,,,,
-Completed By,Afgemaakt door,reviewed,erpnext,,,,,,,
-Completed Operation,Voltooide operatie,reviewed,erpnext,,,,,,,
-Completed Orders,Voltooide bestellingen,reviewed,erpnext,,,,,,,
-Completed Qty,Voltooide hoeveelheid,reviewed,erpnext,,,,,,,
-Completed Qty cannot be greater than 'Qty to Manufacture',Voltooide hoeveelheid kan niet groter zijn dan &#39;Te vervaardigen aantal&#39;,reviewed,erpnext,,,,,,,
-Completed Quantity,Voltooide hoeveelheid,reviewed,erpnext,,,,,,,
-Completed Work Orders,Voltooide werkorders,reviewed,erpnext,,,,,,,
-Completion,Voltooiing,reviewed,erpnext,,,,,,,
-Completion By,Voltooiing door,reviewed,erpnext,,,,,,,
-Completion Date,Voltooiingsdatum,reviewed,erpnext,,,,,,,
-Completion Status,Voltooiingsstatus,reviewed,erpnext,,,,,,,
-Component,bestanddeel,reviewed,frappe,,,,,,,
-Compose Email,Email opstellen,reviewed,frappe,,,,,,,
-Compound,samenstelling,reviewed,erpnext,,,,,,,
-Compound Test Result,Samengesteld testresultaat,reviewed,erpnext,,,,,,,
-Comprehensive Insurance,Uitgebreide verzekering,reviewed,erpnext,,,,,,,
-Condition,Voorwaarde,reviewed,both,,,,,,,
-Condition and Formula,Conditie en formule,reviewed,erpnext,,,,,,,
-Condition Detail,Conditiedetail,reviewed,frappe,,,,,,,
-Conditions,Voorwaarden,reviewed,frappe,,,,,,,
-Conditions will be applied on all the selected items combined.,Voorwaarden worden toegepast op alle geselecteerde items samen.,reviewed,erpnext,,,,,,,
-Configuration,Configuratie,reviewed,erpnext,,,,,,,
-Configure,configureren,reviewed,erpnext,,,,,,,
-Configure a service Item for {0},Configureer een service-item voor {0},reviewed,erpnext,,,,,,,
-Configure Chart,Grafiek configureren,reviewed,frappe,,,,,,,
-Configure Charts,Kaarten configureren,reviewed,frappe,,,,,,,
-"Configure notifications for mentions, assignments, energy points and more.","Configureer meldingen voor vermeldingen, opdrachten, energiepunten en meer.",reviewed,frappe,,,,,,,
-Configure the default Price List when creating a new Purchase transaction. Item prices will be fetched from this Price List.,Configureer de standaardprijslijst wanneer u een nieuwe aankooptransactie aanmaakt. Artikelprijzen worden opgehaald uit deze prijslijst.,reviewed,erpnext,,,,,,,
-Configure the default Price List when creating a new Sales transaction. Item prices will be fetched from this Price List.,Configureer de standaardprijslijst bij het aanmaken van een nieuwe verkooptransactie. Artikelprijzen worden opgehaald uit deze prijslijst.,reviewed,erpnext,,,,,,,
-Configure {0},Configureer {0},reviewed,erpnext,,,,,,,
-Confirm,Bevestigen,reviewed,frappe,,,,,,,
-Confirm Deletion of Data,Bevestig verwijdering van gegevens,reviewed,frappe,,,,,,,
-Confirm New Password,Bevestig nieuw wachtwoord,reviewed,frappe,,,,,,,
-Confirm Request,Bevestig aanvraag,reviewed,frappe,,,,,,,
-Confirm Translations,Bevestig vertalingen,reviewed,frappe,,,,,,,
-Confirm Your Email,Bevestig uw e-mail,reviewed,frappe,,,,,,,
-Confirmation Date,Bevestigingsdatum,reviewed,erpnext,,,,,,,
-Confirmation Email Template,E-mailsjabloon voor bevestiging,reviewed,frappe,,,,,,,
-Confirmation Message,Bevestigingsbericht,reviewed,erpnext,,,,,,,
-Confirmed,Bevestigd,reviewed,frappe,,,,,,,
-Confirmed orders from Customers.,Bevestigde orders van klanten.,reviewed,erpnext,,,,,,,
-Connect Amazon with ERPNext,Verbind Amazon met ERPNext,reviewed,erpnext,,,,,,,
-Connect Shopify with ERPNext,Verbind Shopify met ERPNext,reviewed,erpnext,,,,,,,
-Connect to Quickbooks,Maak verbinding met Quickbooks,reviewed,erpnext,,,,,,,
-Connect your bank accounts to ERPNext,Verbind uw bankrekeningen met ERPNext,reviewed,erpnext,,,,,,,
+Check Supplier Invoice Number Uniqueness,Controleer uniekheid leveranciersfactuurnummer,reviewed,erpnext,0.83,0.85,0.75,0.8,0.9,1.0,ok
+Check the Error Log for more information: {0},Controleer het foutenlogboek voor meer informatie: {0},reviewed,frappe,0.89,0.9,0.85,0.85,0.95,1.0,ok
+Check this if the Clinical Procedure is billable and also set the rate.,Controleer dit of de klinische procedure factureerbaar is en stel ook het tarief in.,reviewed,erpnext,0.52,0.5,0.4,0.6,0.5,0.9,review
+Check this if the Clinical Procedure utilises consumables. Click,Controleer dit als de klinische procedure verbruiksartikelen gebruikt. Klik,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,0.9,ok
+Check this if the Student is residing at the Institute's Hostel.,Controleer dit als de student in het hostel van het Instituut verblijft.,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Check this if you are testing your payment using the Sandbox API,Controleer dit als u het testen van uw betaling via de Sandbox API,reviewed,frappe,0.37,0.4,0.3,0.5,0.2,0.6,rewrite
+Check this if you don't want users to sign up for an account on your site. Users won't get desk access unless you explicitly provide it.,Vink dit aan als u niet wilt dat gebruikers zich aanmelden voor een account op uw site. Gebruikers krijgen geen bureautoegang tenzij u dit expliciet opgeeft.,reviewed,frappe,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Check this if you want the Name and Designation of the Employee associated with the User who submits the document to be printed in the Lab Test Report.,"Vink dit aan als u wilt dat de naam en aanduiding van de werknemer die is gekoppeld aan de gebruiker die het document indient, wordt afgedrukt in het laboratoriumtestrapport.",reviewed,erpnext,0.77,0.8,0.7,0.75,0.75,0.95,review
+Check this if you want to force the user to select a series before saving. There will be no default if you check this.,Controleer dit als u wilt dwingen de gebruiker om een reeks voor het opslaan te selecteren. Er zal geen standaard zijn als je dit controleren.,reviewed,frappe,0.28,0.3,0.2,0.4,0.1,0.7,rewrite
+Check this if you want to show in website,Aanvinken om weer te geven op de website,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Check this to disallow fractions. (for Nos),Aanvinken om delingen te verbieden.,reviewed,erpnext,0.63,0.6,0.55,0.65,0.7,0.75,review
+Check this to enable a scheduled Daily synchronization routine via scheduler,Vink dit aan om een geplande dagelijkse synchronisatieroutine via de planner in te schakelen,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Check this to mark the student as present in case the student is not attending the institute to participate or represent the institute in any event.\n\n,Vink dit aan om de student als aanwezig te markeren voor het geval de student niet naar het instituut gaat om deel te nemen of het instituut in ieder geval te vertegenwoordigen.,reviewed,erpnext,0.7,0.7,0.65,0.7,0.65,0.85,review
+Check this to pull emails from your mailbox,Aanvinken om e-mails uit uw mailbox te importeren.,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Check which Documents are readable by a User,Aanvinken welke documenten leesbaar zijn voor een gebruiker,reviewed,frappe,0.63,0.6,0.55,0.65,0.65,0.9,review
+Check-in time cannot be greater than the current time,De inchecktijd kan niet langer zijn dan de huidige tijd,reviewed,erpnext,0.73,0.7,0.65,0.75,0.75,1.0,review
+Checking one moment,Het controleren van het ene moment,reviewed,frappe,0.21,0.2,0.15,0.3,0.1,0.5,rewrite
+Checking this will automatically create a Sales Invoice whenever an appointment is booked for a Patient.,"Als u dit aanvinkt, wordt automatisch een verkoopfactuur aangemaakt wanneer er een afspraak wordt gemaakt voor een patiënt.",reviewed,erpnext,0.9,0.9,0.85,0.85,0.9,1.0,ok
+Checking this will create a Sample Collection document  every time you create a Lab Test,"Als u dit aanvinkt, wordt er elke keer dat u een laboratoriumtest maakt een monsterafnamedocument gemaakt",reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,0.95,ok
+Checking this will create Lab Test(s) specified in the Sales Invoice on submission.,"Als u dit aanvinkt, worden Lab-test (en) aangemaakt die bij indiening in de verkoopfactuur worden vermeld.",reviewed,erpnext,0.76,0.75,0.7,0.75,0.75,0.95,review
+Checking this will create new Patients with a Disabled status by default and will only be enabled after invoicing the Registration Fee.,"Als u dit aanvinkt, worden standaard nieuwe Patiënten met een Uitgeschakelde status aangemaakt en wordt deze pas ingeschakeld na facturering van de Registratiekosten.",reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
+"Checking this will enable tracking page views for blogs, web pages, etc.","Als u dit aanvinkt, worden paginaweergaven voor blogs, webpagina&#39;s, enz. Bijgehouden.",reviewed,frappe,0.56,0.55,0.5,0.6,0.45,0.8,review
+Checking this will hide custom doctypes and reports cards in Links section,"Als u dit aanvinkt, worden aangepaste doctypes en rapportkaarten in de sectie Links verborgen",reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Checking this will publish the page on your website and it'll be visible to everyone.,"Als u dit aanvinkt, wordt de pagina op uw website gepubliceerd en is deze voor iedereen zichtbaar.",reviewed,frappe,0.91,0.9,0.88,0.88,0.9,1.0,ok
+Checking this will restrict printing and emailing of Lab Test documents unless they have the status as Approved.,"Als u dit aanvinkt, wordt het afdrukken en e-mailen van Lab Test-documenten beperkt, tenzij ze de status Goedgekeurd hebben.",reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Checking this will show a text area where you can write custom javascript that will run on this page.,"Als u dit aanvinkt, wordt een tekstgebied weergegeven waarin u aangepast javascript kunt schrijven dat op deze pagina wordt uitgevoerd.",reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Checkout,Uitchecken,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Checkout Order / Submit Order / New Order,Bestelling afrekenen / Bestelling plaatsen / Nieuwe bestelling,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
+Checkout Settings,Afrekenen Instellingen,reviewed,erpnext,0.63,0.6,0.55,0.65,0.65,1.0,review
+Checksum Version,Checksum-versie,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Chemical,Chemisch,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
+Cheque Date,Cheque Datum,reviewed,erpnext,0.67,0.65,0.65,0.7,0.6,1.0,review
+Cheque Height,Cheque Hoogte,reviewed,erpnext,0.67,0.65,0.65,0.7,0.6,1.0,review
+Cheque Number,Cheque nummer,reviewed,erpnext,0.65,0.65,0.65,0.65,0.55,1.0,review
+Cheque Print Template,Cheque afdruksjabloon,reviewed,custom,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cheque Width,Cheque Breedte,reviewed,erpnext,0.67,0.65,0.65,0.7,0.6,1.0,review
+Cheque/Reference Date,Cheque / Reference Data,reviewed,erpnext,0.19,0.2,0.15,0.2,0.1,0.4,rewrite
+Cheque/Reference No,Cheque / Reference No,reviewed,erpnext,0.19,0.2,0.15,0.2,0.1,0.4,rewrite
+Cheques and Deposits incorrectly cleared,Cheques en Deposito verkeerd ontruimd,reviewed,erpnext,0.36,0.35,0.3,0.4,0.25,0.7,rewrite
+Cheques Required,Controles vereist,reviewed,erpnext,0.3,0.3,0.25,0.35,0.2,0.7,rewrite
+chevron-left,chevron-links,reviewed,frappe,0.62,0.55,0.55,0.6,0.7,1.0,review
+chevron-right,chevron-rechts,reviewed,frappe,0.62,0.55,0.55,0.6,0.7,1.0,review
+Chief Complaint,Hoofdklacht,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Child Docname,Doc. Kindnaam,reviewed,erpnext,0.55,0.55,0.45,0.55,0.5,0.8,review
+Child nodes can be only created under 'Group' type nodes,Child nodes kunnen alleen worden gemaakt op grond van het type nodes &#39;Groep&#39;,reviewed,erpnext,0.43,0.45,0.35,0.45,0.3,0.75,rewrite
+Child Table,Kindertafel,reviewed,frappe,0.34,0.35,0.3,0.4,0.2,0.8,rewrite
+Child Table Mapping,Kindentabel in kaart brengen,reviewed,frappe,0.41,0.4,0.35,0.45,0.3,0.8,rewrite
+Child Tables are shown as a Grid in other DocTypes,Onderliggende tabellen worden als raster weergegeven in andere DocTypes,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Child Task exists for this Task. You can not delete this Task.,Child Task bestaat voor deze taak. U kunt deze taak niet verwijderen.,reviewed,erpnext,0.71,0.7,0.65,0.7,0.7,1.0,review
+Child warehouse exists for this warehouse. You can not delete this warehouse.,Child magazijn bestaat voor dit magazijn. U kunt dit magazijn niet verwijderen.,reviewed,erpnext,0.71,0.7,0.65,0.7,0.7,1.0,review
+Choose a corresponding payment,Kies een overeenkomstige betaling,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+choose an,kies een,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Choose authentication method to be used by all users,Kies de verificatiemethode die door alle gebruikers wordt gebruikt,reviewed,frappe,0.88,0.88,0.85,0.85,0.9,1.0,ok
+Choose between FIFO and Moving Average Valuation Methods. Click,Kies tussen FIFO en Voortschrijdend gemiddelde waarderingsmethoden. Klik,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Choose Existing Card or create New Card,Kies bestaande kaart of maak een nieuwe kaart,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+choose the 'Naming Series' option.,kies de optie &#39;Naming Series&#39;.,reviewed,erpnext,0.76,0.75,0.7,0.75,0.8,0.9,review
+circle-arrow-left,cirkel-pijl-links,reviewed,frappe,0.83,0.8,0.8,0.8,0.85,1.0,ok
+circle-arrow-right,cirkel-pijl-rechts,reviewed,frappe,0.83,0.8,0.8,0.8,0.85,1.0,ok
+circle-arrow-up,cirkel-pijl-up,reviewed,frappe,0.8,0.75,0.75,0.8,0.8,1.0,ok
+Circular Reference Error,Kringverwijzing Error,reviewed,erpnext,0.64,0.65,0.6,0.65,0.55,0.85,review
+City/Town,Stad / Plaats,reviewed,both,0.8,0.8,0.75,0.8,0.75,1.0,ok
+Class / Percentage,Klasse / Percentage,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Classification of Customers by region,Indeling van de klanten per regio,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Clauses and Conditions,Clausules en voorwaarden,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Clay,Klei,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Clay Composition (%),Kleisamenstelling (%),reviewed,erpnext,0.91,0.9,0.88,0.88,0.9,1.0,ok
+Clear,Doorzichtig,reviewed,both,0.3,0.3,0.25,0.3,0.2,0.7,rewrite
+clear,wissen,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Clear Activity Log After,Wis activiteitenlogboek na,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Clear all roles,Wis alle rollen,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Clear Cache and Reload,Cache wissen en opnieuw laden,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Clear Email Queue After,E-mailwachtrij na wissen,reviewed,frappe,0.56,0.55,0.5,0.55,0.45,0.85,review
+Clear Error log After,Wis foutenlogboek na,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Clear Filters,Filters wissen,reviewed,frappe,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Clear filters,Filters wissen,reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Clear Table,Wis Tabel,reviewed,erpnext,0.83,0.8,0.8,0.8,0.85,1.0,ok
+Clear User Permissions,Wis gebruikersrechten,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Clear values,Duidelijke waarden,reviewed,erpnext,0.3,0.3,0.25,0.3,0.2,0.7,rewrite
+Clearance Date,Clearance Datum,reviewed,erpnext,0.44,0.45,0.4,0.45,0.35,0.75,rewrite
+Clearance Date not mentioned,Ontruiming Datum niet vermeld,reviewed,erpnext,0.34,0.35,0.3,0.35,0.25,0.7,rewrite
+Clearance Date updated,Ontruiming Geactualiseerd,reviewed,erpnext,0.33,0.35,0.3,0.35,0.25,0.65,rewrite
+"Clearing end date, as it cannot be in the past for published pages.","Einddatum wissen, omdat dit voor gepubliceerde pagina&#39;s niet in het verleden kan zijn.",reviewed,frappe,0.59,0.6,0.55,0.6,0.5,0.8,review
+Click Enter To Add,Klik op Enter om toe te voegen,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click here to post bugs and suggestions,Klik hier om bugs en suggesties te plaatsen,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click here to verify,Klik hier om te verifiëren,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click on <b>Authorize Google Drive Access</b> to authorize Google Drive Access.,Klik op <b>Google Drive Access autoriseren om Google Drive Access</b> te autoriseren.,reviewed,frappe,0.65,0.65,0.6,0.65,0.6,0.9,review
+Click on a file to select it.,Klik op een bestand om het te selecteren.,reviewed,frappe,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Click On Customize to add your first widget,Klik op Aanpassen om uw eerste widget toe te voegen,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click on Import Invoices button once the zip file has been attached to the document. Any errors related to processing will be shown in the Error Log.,Klik op de knop Facturen importeren zodra het zipbestand aan het document is toegevoegd. Alle fouten met betrekking tot verwerking worden weergegeven in het foutenlogboek.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click on the link below to approve the request,Klik op de onderstaande link om het verzoek goed te keuren,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click on the link below to complete your registration and set a new password,Klik op onderstaande link om uw registratie te voltooien en een nieuw wachtwoord in te stellen,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click on the link below to download your data,Klik op onderstaande link om uw gegevens te downloaden,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click on the link below to verify your email and confirm the appointment,Klik op de onderstaande link om uw e-mail te verifiëren en de afspraak te bevestigen,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click on the link below to verify your request,Klik op onderstaande link om uw aanvraag te verifiëren,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click on the lock icon to toggle public/private,Klik op het vergrendelingspictogram om te schakelen tussen openbaar / privé,reviewed,frappe,0.83,0.8,0.8,0.8,0.85,1.0,ok
+Click on the row for accessing filters.,Klik op de rij voor toegang tot filters.,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click on {0} to generate Refresh Token.,Klik op {0} om het vernieuwingstoken te genereren.,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click table to edit,Klik op tafel te bewerken,reviewed,frappe,0.35,0.35,0.3,0.4,0.25,0.8,rewrite
+Click this button to pull your Sales Order data from Amazon MWS.,Klik op deze knop om uw klantordergegevens uit Amazon MWS te halen.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click to Set Dynamic Filters,Klik om dynamische filters in te stellen,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Click to Set Filters,Klik om filters in te stellen,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Clicked,Geklikt,reviewed,frappe,0.7,0.7,0.6,0.7,0.8,1.0,review
+Client,Klant,reviewed,both,0.78,0.7,0.75,0.8,1.0,1.0,review
+Client Code,Klantcode,reviewed,frappe,0.7,0.6,0.7,0.7,1.0,1.0,review
+Client Credentials,Clientreferenties,reviewed,frappe,0.63,0.55,0.55,0.6,0.85,1.0,review
+Client ID,Client-ID,reviewed,both,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Client Information,Klantinformatie,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Client side script extensions in Javascript,Client-side script extensies in Javascript,reviewed,frappe,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Client URLs,Client-URL&#39;s,reviewed,frappe,0.56,0.6,0.4,0.6,0.5,0.8,review
+Clinical Procedure,Klinische procedure,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Clinical Procedure ({0}):,Klinische procedure ({0}):,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Clinical Procedure conducted:,Klinische procedure uitgevoerd:,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Clinical Procedure Consumable Item,Klinische procedure verbruiksartikelen,reviewed,erpnext,0.79,0.8,0.7,0.75,0.8,1.0,review
+Clinical Procedure Item,Klinische procedure Item,reviewed,erpnext,0.73,0.75,0.65,0.7,0.7,1.0,review
+Clinical Procedure Rate,Klinische proceduretarief,reviewed,erpnext,0.77,0.8,0.7,0.75,0.75,1.0,review
+Clinical Procedure Template,Klinische procedure-sjabloon,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Clinical Procedures,Klinische procedures,reviewed,erpnext,0.91,0.9,0.9,0.9,1.0,1.0,ok
+Close,Sluiten,reviewed,both,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Close Balance Sheet and book Profit or Loss.,Balans afsluiten en winst of verlies boeken.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.95,1.0,ok
+Close Condition,Sluitconditie,reviewed,frappe,0.72,0.7,0.65,0.7,0.85,1.0,review
+Close Issue After Days,Melding sluiten na dagen,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Close Loan,Lening afsluiten,reviewed,erpnext,0.91,0.9,0.9,0.9,1.0,1.0,ok
+Close Opportunity After Days,Opportunity sluiten na dagen,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Close the POS,Sluit de kassa,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Closed,Gesloten,reviewed,both,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Closed Document,Gesloten document,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Closed Documents,Gesloten documenten,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Closed order cannot be cancelled. Unclose to cancel.,Gesloten bestelling kan niet worden geannuleerd. Maak ongedaan om te annuleren.,reviewed,erpnext,0.72,0.75,0.6,0.7,0.7,1.0,review
+Closing (Cr),Afsluiting (Cr),reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Closing (Dr),Afsluiting (Db),reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Closing (Opening + Total),Afsluiting (Opening + Totaal),reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Closing Account Head,Afsluitingsrekening,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Closing Account {0} must be of type Liability / Equity,Afsluitingsrekening {0} moet van het type aansprakelijkheid of eigen vermogen zijn,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Closing Amount,Eindbedrag,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Closing Balance,Eindsaldo,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Closing Date,Afsluitingsdatum,reviewed,erpnext,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Closing Fiscal Year,Boekjaarafsluiting,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Closing Text,Afsluitende tekst,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+cn-north-1,cn-north-1,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+cn-northwest-1,cn-northwest-1,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Coated,Gecoat,reviewed,erpnext,0.89,0.85,0.9,0.85,1.0,1.0,ok
+Codification Table,Codificatietabel,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+cog,tandwiel,reviewed,frappe,0.62,0.55,0.55,0.55,0.9,1.0,review
+Collapse,Inklappen,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Collapse All,Alles inklappen,reviewed,both,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Collapse all,Alles inklappen,reviewed,custom,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Collapsible,Inklapbaar,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Collapsible Depends On,Inklapbaar afhankelijk van,reviewed,frappe,0.8,0.8,0.75,0.8,0.85,1.0,ok
+Collect Fee for Patient Registration,Registratiekosten innen voor patientregistratie,reviewed,erpnext,0.8,0.8,0.75,0.8,0.85,1.0,ok
+Collect Progress,Voortgang bijhouden,reviewed,erpnext,0.72,0.7,0.65,0.7,0.8,1.0,review
+Collect Registration Fee,Registratiekosten innen,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Collected Amount,Verzameld bedrag,reviewed,erpnext,0.76,0.75,0.7,0.75,0.85,1.0,review
+Collected By,Verzameld door,reviewed,erpnext,0.76,0.75,0.7,0.75,0.85,1.0,review
+Collected On,Verzameld op,reviewed,erpnext,0.76,0.75,0.7,0.75,0.85,1.0,review
+Collection Datetime,Verzameldatum en -tijd,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Collection Details,Verzamelgegevens,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Collection Details:,Verzamelgegevens:,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Collection Factor (=1 LP),Collectiefactor (= 1 LP),reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Collection Rules,Verzamelregels,reviewed,erpnext,0.8,0.8,0.75,0.8,0.85,1.0,ok
+Collection Temperature,Verzamelingstemperatuur,reviewed,erpnext,0.8,0.8,0.75,0.8,0.85,1.0,ok
+Collection Tier,Verzamelniveau,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Colony Population,Kolonie bevolking,reviewed,erpnext,0.66,0.65,0.55,0.65,0.7,1.0,review
+Colony UOM,Kolonie UOM,reviewed,erpnext,0.76,0.75,0.7,0.75,0.85,1.0,review
+Color,Kleur,reviewed,both,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Colour,Kleur,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Column,Kolom,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Column <b>{0}</b> already exist.,Kolom <b>{0}</b> bestaat al.,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Column in Bank File,Kolom in bankbestand,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Column Labels:,Kolomlabels:,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Column Name,Kolomnaam,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Column Name cannot be empty,Kolomnaam mag niet leeg zijn,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Column {0},Kolom {0},reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Columns,Kolommen,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Columns / Fields,Kolommen / velden,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Columns based on,Kolommen gebaseerd op,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Combination of Grant Type (<code>{0}</code>) and Response Type (<code>{1}</code>) not allowed,Combinatie van Grant Type ( <code>{0}</code> ) en Response Type ( <code>{1}</code> ) niet toegestaan,reviewed,frappe,0.8,0.8,0.75,0.8,0.85,1.0,ok
+Combined invoice portion must equal 100%,Gecombineerd factuurgedeelte moet 100% zijn,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Comment,Commentaar,reviewed,frappe,0.72,0.7,0.65,0.65,1.0,1.0,review
+comment,opmerking,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Comment By,Opmerking door,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Comment can only be edited by the owner,Commentaar kan alleen door de eigenaar worden bewerkt,reviewed,frappe,0.72,0.7,0.65,0.65,0.85,1.0,review
+Comment Email,E-mailadres opmerking,reviewed,frappe,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Comment Type,Type opmerking,reviewed,frappe,0.8,0.8,0.75,0.75,0.9,1.0,ok
+Commented on {0}: {1},Gereageerd op {0}: {1},reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Comments,Opmerkingen,reviewed,both,0.91,0.9,0.9,0.85,1.0,1.0,ok
+comments,opmerkingen,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Comments and Communications will be associated with this linked document,Opmerkingen en communicatie worden gekoppeld aan dit gekoppelde document,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Comments cannot have links or email addresses,Opmerkingen mogen geen links of e-mailadressen bevatten,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Comments on this blog post will be disabled if checked.,Reacties op dit blogbericht worden uitgeschakeld indien aangevinkt.,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Commercial,commercieel,reviewed,erpnext,0.52,0.5,0.4,0.5,0.4,1.0,review
+Commission,Commissie,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Commission on Sales,Commissie op verkoop,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Commission Rate,Commissietarief,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Commission Rate %,Commissietarief %,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Commission Rate (%),Commissietarief (%),reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Commission rate cannot be greater than 100,Commissietarief kan niet groter zijn dan 100,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Common Name,Algemene naam,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Common names and surnames are easy to guess.,Populaire namen en achternamen zijn makkelijk te raden.,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Communicated via {0} on {1}: {2},Gecommuniceerd via {0} op {1}: {2},reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Communication,Communicatie,reviewed,both,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Communication Link,Communicatielink,reviewed,frappe,0.85,0.85,0.75,0.85,0.9,1.0,ok
+Communication Medium,Communicatiekanaal,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Communication Medium Timeslot,Communicatie Medium tijdslot,reviewed,erpnext,0.52,0.55,0.45,0.4,0.55,0.9,review
+Communication Medium Type,Type communicatiemedium,reviewed,erpnext,0.81,0.8,0.8,0.7,0.9,1.0,ok
+Communication Type,communicatie Type,reviewed,frappe,0.4,0.5,0.3,0.3,0.2,0.9,rewrite
+Community Contribution,Bijdrage van de gemeenschap,reviewed,frappe,0.61,0.55,0.5,0.55,0.8,1.0,review
+Companies,Bedrijven,reviewed,erpnext,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Company,Bedrijf,reviewed,both,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Company (not Customer or Supplier) master.,Bedrijf ( geen klant of leverancier ) meester.,reviewed,erpnext,0.33,0.3,0.2,0.3,0.4,0.8,rewrite
+Company Abbreviation,Bedrijf afkorting,reviewed,erpnext,0.59,0.6,0.5,0.55,0.5,1.0,review
+Company Abbreviation cannot have more than 5 characters,Bedrijfsbegeleiding mag niet meer dan 5 tekens bevatten,reviewed,erpnext,0.15,0.0,0.1,0.1,0.6,0.5,rewrite
+Company Account,Bedrijfsaccount,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Company Address,bedrijfsadres,reviewed,erpnext,0.7,0.75,0.75,0.6,0.5,1.0,review
+Company Address Name,Bedrijfs Adres Naam,reviewed,erpnext,0.51,0.55,0.4,0.4,0.4,1.0,review
+Company Bank Account,Bedrijf bankrekening,reviewed,erpnext,0.61,0.65,0.55,0.55,0.5,1.0,review
+Company currencies of both the companies should match for Inter Company Transactions.,Bedrijfsvaluta&#39;s van beide bedrijven moeten overeenkomen voor Inter Company Transactions.,reviewed,erpnext,0.61,0.6,0.55,0.55,0.6,0.85,review
+Company Currency,Bedrijfsvaluta,reviewed,custom,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Company Description,bedrijfsomschrijving,reviewed,erpnext,0.7,0.75,0.75,0.6,0.5,1.0,review
+Company Description for website homepage,Omschrijving bedrijf voor website homepage,reviewed,erpnext,0.74,0.75,0.65,0.65,0.8,1.0,review
+Company Email,Bedrijf e-mail,reviewed,erpnext,0.65,0.65,0.6,0.55,0.65,1.0,review
+Company field is required,Bedrijfsveld is verplicht,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
+Company GSTIN,Bedrijf GSTIN,reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Company History,Bedrijf Geschiedenis,reviewed,frappe,0.53,0.55,0.45,0.45,0.4,1.0,review
+Company ID,bedrijfs ID,reviewed,erpnext,0.52,0.6,0.45,0.4,0.35,1.0,review
+Company Info,Bedrijfsinformatie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Company Introduction,Bedrijf Introductie,reviewed,frappe,0.53,0.55,0.45,0.45,0.4,1.0,review
+Company is manadatory for company account,Bedrijf is typisch voor bedrijfsaccount,reviewed,erpnext,0.2,0.1,0.1,0.15,0.5,0.6,rewrite
+Company Logo,Bedrijfslogo,reviewed,erpnext,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Company Name,Bedrijfsnaam,reviewed,both,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Company Name as per Imported Tally Data,Bedrijfsnaam volgens geïmporteerde telgegevens,reviewed,erpnext,0.77,0.75,0.7,0.7,0.9,0.85,review
+Company Name cannot be Company,Bedrijfsnaam kan niet bedrijf zijn,reviewed,erpnext,0.82,0.8,0.75,0.8,0.8,1.0,ok
+Company name not same,Bedrijfsnaam niet hetzelfde,reviewed,erpnext,0.77,0.75,0.7,0.75,0.75,1.0,review
+Company Not Linked,Bedrijf niet gekoppeld,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Company of asset {0} and purchase document {1} doesn't matches.,Bedrijf van item {0} en inkoopdocument {1} komen niet overeen.,reviewed,erpnext,0.63,0.5,0.65,0.65,0.8,0.9,review
+Company registration numbers for your reference. Tax numbers etc.,"Registratienummers van de onderneming voor uw referentie. Fiscale nummers, enz.",reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Company Settings,Bedrijfsinstellingen,reviewed,erpnext,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Company Tagline for website homepage,Company Tag voor website homepage,reviewed,erpnext,0.29,0.25,0.2,0.2,0.4,0.7,rewrite
+Company {0} already exists. Continuing will overwrite the Company and Chart of Accounts,"Bedrijf {0} bestaat al. Als u doorgaat, worden het bedrijf en het rekeningschema overschreven",reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Company {0} does not exist,Company {0} bestaat niet,reviewed,erpnext,0.33,0.3,0.2,0.2,0.5,0.9,rewrite
+"Company, Fiscal Year and Currency defaults","Standaardinstellingen voor bedrijf, boekjaar en valuta",reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Compare BOMs for changes in Raw Materials and Operations,Vergelijk BOM&#39;s voor wijzigingen in grondstoffen en bewerkingen,reviewed,erpnext,0.77,0.75,0.7,0.75,0.75,0.9,review
+Compare List function takes on list arguments,De functie Lijst vergelijken neemt lijstargumenten aan,reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Compensatory leave request days not in valid holidays,Verzoek om compenserende verlofaanvragen niet in geldige feestdagen,reviewed,erpnext,0.57,0.55,0.45,0.55,0.55,0.85,review
+Competitor,Concurrent,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Compiled Successfully,Met succes samengesteld,reviewed,frappe,0.64,0.6,0.5,0.6,0.8,1.0,review
+Complaint,Klacht,reviewed,erpnext,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Complaints,klachten,reviewed,erpnext,0.72,0.75,0.8,0.6,0.5,1.0,review
+Complete,Voltooien,reviewed,both,0.83,0.8,0.75,0.8,0.9,1.0,ok
+Complete and Consume,Voltooi en consumeer,reviewed,erpnext,0.67,0.65,0.55,0.6,0.8,1.0,review
+Complete By,Compleet op,reviewed,frappe,0.42,0.4,0.35,0.35,0.5,0.85,rewrite
+Complete Registration,Registratie voltooien,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Complete Setup,Setup voltooien,reviewed,frappe,0.87,0.85,0.8,0.85,0.9,1.0,ok
+Complete {0} and Consume Stock?,{0} invullen en voorraad verbruiken?,reviewed,erpnext,0.5,0.45,0.4,0.4,0.7,0.9,review
+Complete {0}?,{0} voltooid?,reviewed,erpnext,0.77,0.75,0.7,0.75,0.75,1.0,review
+Completed,Voltooid,reviewed,both,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Completed By,Afgemaakt door,reviewed,erpnext,0.62,0.55,0.55,0.5,0.8,1.0,review
+Completed Operation,Voltooide operatie,reviewed,erpnext,0.78,0.75,0.7,0.75,0.85,1.0,review
+Completed Orders,Voltooide bestellingen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Completed Qty,Voltooide hoeveelheid,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Completed Qty cannot be greater than 'Qty to Manufacture',Voltooide hoeveelheid kan niet groter zijn dan &#39;Te vervaardigen aantal&#39;,reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,0.9,ok
+Completed Quantity,Voltooide hoeveelheid,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Completed Work Orders,Voltooide werkorders,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Completion,Voltooiing,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Completion By,Voltooiing door,reviewed,erpnext,0.73,0.7,0.65,0.65,0.8,1.0,review
+Completion Date,Voltooiingsdatum,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Completion Status,Voltooiingsstatus,reviewed,erpnext,0.91,0.9,0.85,0.85,1.0,1.0,ok
+Component,bestanddeel,reviewed,frappe,0.56,0.55,0.5,0.45,0.5,1.0,review
+Compose Email,Email opstellen,reviewed,frappe,0.85,0.85,0.8,0.8,0.85,1.0,ok
+Compound,samenstelling,reviewed,erpnext,0.57,0.55,0.5,0.5,0.5,1.0,review
+Compound Test Result,Samengesteld testresultaat,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Comprehensive Insurance,Uitgebreide verzekering,reviewed,erpnext,0.77,0.7,0.7,0.7,0.9,1.0,review
+Condition,Voorwaarde,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Condition and Formula,Conditie en formule,reviewed,erpnext,0.81,0.8,0.75,0.7,0.9,1.0,ok
+Condition Detail,Conditiedetail,reviewed,frappe,0.83,0.8,0.8,0.75,0.9,1.0,ok
+Conditions,Voorwaarden,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Conditions will be applied on all the selected items combined.,Voorwaarden worden toegepast op alle geselecteerde items samen.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Configuration,Configuratie,reviewed,erpnext,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Configure,configureren,reviewed,erpnext,0.63,0.65,0.55,0.6,0.5,1.0,review
+Configure a service Item for {0},Configureer een service-item voor {0},reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Configure Chart,Grafiek configureren,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Configure Charts,Kaarten configureren,reviewed,frappe,0.4,0.3,0.25,0.3,0.8,0.9,rewrite
+"Configure notifications for mentions, assignments, energy points and more.","Configureer meldingen voor vermeldingen, opdrachten, energiepunten en meer.",reviewed,frappe,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Configure the default Price List when creating a new Purchase transaction. Item prices will be fetched from this Price List.,Configureer de standaardprijslijst wanneer u een nieuwe aankooptransactie aanmaakt. Artikelprijzen worden opgehaald uit deze prijslijst.,reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Configure the default Price List when creating a new Sales transaction. Item prices will be fetched from this Price List.,Configureer de standaardprijslijst bij het aanmaken van een nieuwe verkooptransactie. Artikelprijzen worden opgehaald uit deze prijslijst.,reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Configure {0},Configureer {0},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Confirm,Bevestigen,reviewed,frappe,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Confirm Deletion of Data,Bevestig verwijdering van gegevens,reviewed,frappe,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Confirm New Password,Bevestig nieuw wachtwoord,reviewed,frappe,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Confirm Request,Bevestig aanvraag,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Confirm Translations,Bevestig vertalingen,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Confirm Your Email,Bevestig uw e-mail,reviewed,frappe,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Confirmation Date,Bevestigingsdatum,reviewed,erpnext,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Confirmation Email Template,E-mailsjabloon voor bevestiging,reviewed,frappe,0.86,0.85,0.8,0.8,0.9,1.0,ok
+Confirmation Message,Bevestigingsbericht,reviewed,erpnext,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Confirmed,Bevestigd,reviewed,frappe,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Confirmed orders from Customers.,Bevestigde orders van klanten.,reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Connect Amazon with ERPNext,Verbind Amazon met ERPNext,reviewed,erpnext,0.9,0.9,0.85,0.85,0.9,1.0,ok
+Connect Shopify with ERPNext,Verbind Shopify met ERPNext,reviewed,erpnext,0.9,0.9,0.85,0.85,0.9,1.0,ok
+Connect to Quickbooks,Maak verbinding met Quickbooks,reviewed,erpnext,0.87,0.85,0.85,0.8,0.9,1.0,ok
+Connect your bank accounts to ERPNext,Verbind uw bankrekeningen met ERPNext,reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
 Connect your Exotel Account to ERPNext and track call logs,Verbind uw Exotel-account met ERPNext en houd oproeplogboeken bij,reviewed,erpnext,,,,,,,
 Connected App,Gekoppelde app,reviewed,custom,,,,,,,
 Connected to QuickBooks,Verbonden met QuickBooks,reviewed,erpnext,,,,,,,

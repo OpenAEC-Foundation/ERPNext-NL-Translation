@@ -304,207 +304,207 @@ Actual qty in stock,Werkelijke hoeveelheid op voorraad,reviewed,erpnext
 Actual Qty is mandatory,Werkelijke aantal is verplicht,reviewed,erpnext
 Actual Qty {0} / Waiting Qty {1},Werkelijk Aantal {0} / Aantal Wachten {1},reviewed,erpnext
 Actual Qty: Quantity available in the warehouse.,Werkelijke Aantal: Aantal beschikbaar in het magazijn.,reviewed,erpnext
-Actual Quantity,Werkelijke hoeveelheid,unreviewed,erpnext
-Actual Start Date,Werkelijke Startdatum,unreviewed,erpnext
-Actual Start Date (via Timesheet),Werkelijke Startdatum (via Urenregistratie),unreviewed,erpnext
-Actual Start Time,Werkelijke Starttijd,unreviewed,erpnext
-Actual Time and Cost,Werkelijke Tijd en kosten,unreviewed,erpnext
-Actual Time in Hours (via Timesheet),Werkelijke tijd (in uren),unreviewed,erpnext
-Actual type tax cannot be included in Item rate in row {0},Werkelijke soort belasting kan niet worden opgenomen in post tarief in rij {0},unreviewed,erpnext
-Add,Toevoegen,unreviewed,both
-Add / Edit Prices,Toevoegen / bewerken Prijzen,unreviewed,erpnext
-Add / Edit Taxes and Charges,Toevoegen / Bewerken Belastingen en Heffingen,unreviewed,erpnext
-Add / Manage Email Accounts.,Toevoegen / Beheer op E-mailaccounts.,unreviewed,both
-Add / Manage Email Domains.,Toevoegen / Beheren Email Domeinen.,unreviewed,frappe
-Add / Update,Toevoegen / bijwerken,unreviewed,frappe
-Add a column,Een kolom toevoegen,unreviewed,frappe
-Add a comment,Voeg een reactie toe,unreviewed,frappe
+Actual Quantity,Werkelijke hoeveelheid,reviewed,erpnext
+Actual Start Date,Werkelijke startdatum,reviewed,erpnext
+Actual Start Date (via Timesheet),Werkelijke startdatum (via urenregistratie),reviewed,erpnext
+Actual Start Time,Werkelijke starttijd,reviewed,erpnext
+Actual Time and Cost,Werkelijke tijd en kosten,reviewed,erpnext
+Actual Time in Hours (via Timesheet),Werkelijke tijd in uren (via urenregistratie),reviewed,erpnext
+Actual type tax cannot be included in Item rate in row {0},Werkelijke soort belasting kan niet worden opgenomen in post tarief in rij {0},reviewed,erpnext
+Add,Toevoegen,reviewed,both
+Add / Edit Prices,Prijzen toevoegen / bewerken,reviewed,erpnext
+Add / Edit Taxes and Charges,Belastingen en heffingen toevoegen / bewerken,reviewed,erpnext
+Add / Manage Email Accounts.,E-mailaccounts toevoegen / beheren.,reviewed,both
+Add / Manage Email Domains.,E-maildomeinen toevoegen / beheren.,reviewed,frappe
+Add / Update,Toevoegen / bijwerken,reviewed,frappe
+Add a column,Een kolom toevoegen,reviewed,frappe
+Add a comment,Een opmerking toevoegen,reviewed,frappe
 Add a new,Nieuw toevoegen,reviewed,custom
-Add a new address,Voeg een nieuw adres toe,unreviewed,erpnext
-Add a New Role,Voeg een nieuwe rol toe,unreviewed,frappe
-Add A New Rule,Voeg een nieuwe regel toe,unreviewed,frappe
-Add a new section,Voeg een nieuw gedeelte toe,unreviewed,frappe
-Add a tag ...,Voeg een tag toe ...,unreviewed,frappe
-Add a {0} Chart,Voeg een {0} diagram toe,unreviewed,frappe
-Add all roles,Voeg alle rollen toe,unreviewed,frappe
-Add Another Comment,Nog een reactie toevoegen,unreviewed,frappe
-Add Article to Topics,Voeg artikel toe aan onderwerpen,unreviewed,erpnext
+Add a new address,Een nieuw adres toevoegen,reviewed,erpnext
+Add a New Role,Een nieuwe rol toevoegen,reviewed,frappe
+Add A New Rule,Een nieuwe regel toevoegen,reviewed,frappe
+Add a new section,Een nieuw gedeelte toevoegen,reviewed,frappe
+Add a tag ...,Een tag toevoegen ...,reviewed,frappe
+Add a {0} Chart,Voeg een {0} diagram toe,reviewed,frappe
+Add all roles,Alle rollen toevoegen,reviewed,frappe
+Add Another Comment,Nog een opmerking toevoegen,reviewed,frappe
+Add Article to Topics,Artikel toevoegen aan onderwerpen,reviewed,erpnext
 Add Attachment,Bijlage toevoegen,reviewed,frappe
-Add cards or custom sections on homepage,Kaarten of aangepaste secties toevoegen op de startpagina,unreviewed,erpnext
-Add Chart to Dashboard,Grafiek toevoegen aan dashboard,unreviewed,frappe
-Add Child,Onderliggende toevoegen,unreviewed,both
-Add Column,Kolom toevoegen,unreviewed,frappe
+Add cards or custom sections on homepage,Kaarten of aangepaste secties toevoegen op de startpagina,reviewed,erpnext
+Add Chart to Dashboard,Grafiek toevoegen aan dashboard,reviewed,frappe
+Add Child,Onderliggende toevoegen,reviewed,both
+Add Column,Kolom toevoegen,reviewed,frappe
 Add Comment,Opmerking toevoegen,reviewed,erpnext
-Add Contact,Contact toevoegen,unreviewed,frappe
-Add Contacts,Contacten toevoegen,unreviewed,frappe
-Add Container,Container toevoegen,unreviewed,frappe
-Add Course to Programs,Voeg cursus toe aan programma&#39;s,unreviewed,erpnext
-Add custom forms.,Voeg aangepaste formulieren.,unreviewed,frappe
-Add custom javascript to forms.,Voeg aangepaste javascript toe aan formulieren.,unreviewed,frappe
-Add Custom Tags,Voeg aangepaste tags toe,unreviewed,frappe
-Add Customers,Voeg klanten toe,unreviewed,erpnext
-Add Employees,Werknemers toevoegen,unreviewed,erpnext
-Add Exercise Step,Oefeningsstap toevoegen,unreviewed,erpnext
-Add Exercises,Voeg oefeningen toe,unreviewed,erpnext
-Add Fields,Velden toevoegen,unreviewed,frappe
-Add fields to forms.,Voeg velden toe aan formulieren,unreviewed,frappe
-Add Filter,Filter toevoegen,unreviewed,frappe
-Add Filters,Filters toevoegen,unreviewed,frappe
-Add Gray Background,Voeg grijze achtergrond toe,unreviewed,frappe
-Add Group,Groep toevoegen,unreviewed,frappe
-Add Guardians to Email Group,Voeg ouders / verzorgers toe aan e-mailgroep,unreviewed,erpnext
-Add Item,Item toevoegen,unreviewed,erpnext
-Add Items,Items toevoegen,unreviewed,erpnext
-Add items in the Item Locations table,Voeg items toe aan de tabel Itemlocaties,unreviewed,erpnext
-Add Leads,Leads toevoegen,unreviewed,erpnext
-Add letterhead,Voeg briefhoofd toe,unreviewed,erpnext
-Add Medication Orders,Voeg medicatieorders toe,unreviewed,erpnext
-Add meta tags to your web pages,Voeg metatags toe aan uw webpagina&#39;s,unreviewed,frappe
-Add more items or open full form,Voeg meer items of geopend volledige vorm,unreviewed,erpnext
-Add Multiple,Meerdere toevoegen,unreviewed,both
-Add Multiple Tasks,Meerdere taken toevoegen,unreviewed,erpnext
+Add Contact,Contact toevoegen,reviewed,frappe
+Add Contacts,Contacten toevoegen,reviewed,frappe
+Add Container,Container toevoegen,reviewed,frappe
+Add Course to Programs,Voeg cursus toe aan programma&#39;s,reviewed,erpnext
+Add custom forms.,Aangepaste formulieren toevoegen.,reviewed,frappe
+Add custom javascript to forms.,Aangepaste javascript toevoegen aan formulieren.,reviewed,frappe
+Add Custom Tags,Aangepaste tags toevoegen,reviewed,frappe
+Add Customers,Klanten toevoegen,reviewed,erpnext
+Add Employees,Werknemers toevoegen,reviewed,erpnext
+Add Exercise Step,Oefeningsstap toevoegen,reviewed,erpnext
+Add Exercises,Oefeningen toevoegen,reviewed,erpnext
+Add Fields,Velden toevoegen,reviewed,frappe
+Add fields to forms.,Velden toevoegen aan formulieren.,reviewed,frappe
+Add Filter,Filter toevoegen,reviewed,frappe
+Add Filters,Filters toevoegen,reviewed,frappe
+Add Gray Background,Grijze achtergrond toevoegen,reviewed,frappe
+Add Group,Groep toevoegen,reviewed,frappe
+Add Guardians to Email Group,Ouders/verzorgers toevoegen aan e-mailgroep,reviewed,erpnext
+Add Item,Item toevoegen,reviewed,erpnext
+Add Items,Items toevoegen,reviewed,erpnext
+Add items in the Item Locations table,Voeg items toe aan de tabel Itemlocaties,reviewed,erpnext
+Add Leads,Leads toevoegen,reviewed,erpnext
+Add letterhead,Briefhoofd toevoegen,reviewed,erpnext
+Add Medication Orders,Medicatieorders toevoegen,reviewed,erpnext
+Add meta tags to your web pages,Voeg metatags toe aan uw webpagina&#39;s,reviewed,frappe
+Add more items or open full form,Meer items toevoegen of volledig formulier openen,reviewed,erpnext
+Add Multiple,Meerdere toevoegen,reviewed,both
+Add Multiple Tasks,Meerdere taken toevoegen,reviewed,erpnext
 Add New,Nieuw toevoegen,reviewed,custom
 Add new,Nieuw toevoegen,reviewed,custom
-Add New Line,Nieuwe regel toevoegen,unreviewed,erpnext
-Add New Permission Rule,Toevoegen nieuwe machtiging regel,unreviewed,frappe
-Add notes,Notities toevoegen,unreviewed,erpnext
-Add or Deduct,Toevoegen of aftrekken,unreviewed,erpnext
-Add Order Discount,Bestellingskorting toevoegen,unreviewed,erpnext
-Add Participants,Voeg deelnemers toe,unreviewed,both
-Add Quiz to Topics,Voeg quiz toe aan onderwerpen,unreviewed,erpnext
-Add Quote,Quote voegen,unreviewed,erpnext
-Add Review,Voeg recensie toe,unreviewed,frappe
-Add Row,Voeg een rij toe,unreviewed,frappe
-Add Sales Partners,Voeg verkooppartners toe,unreviewed,erpnext
-Add script for Child Table,Script toevoegen voor onderliggende tabel,unreviewed,frappe
-Add Serial No,Voeg Serienummer toe,unreviewed,erpnext
-Add Signature,Handtekening toevoegen,unreviewed,frappe
-Add Space on Bottom,Voeg ruimte toe aan de onderkant,unreviewed,frappe
-Add Space on Top,Voeg ruimte bovenaan toe,unreviewed,frappe
-Add Students,Studenten toevoegen,unreviewed,erpnext
-Add Subscribers,Abonnees toevoegen,unreviewed,frappe
-Add Suppliers,Leveranciers toevoegen,unreviewed,erpnext
-Add Test,Test toevoegen,unreviewed,erpnext
-Add the rest of your organization as your users. You can also add invite Customers to your portal by adding them from Contacts,Voeg de rest van uw organisatie als uw gebruikers. U kunt ook toevoegen uitnodigen klanten naar uw portal door ze toe te voegen vanuit Contacten,unreviewed,erpnext
-Add Time Slots,Voeg tijdslots toe,unreviewed,erpnext
-Add Timesheets,Voeg Timesheets,unreviewed,erpnext
-Add Timeslots,Voeg tijdsloten toe,unreviewed,erpnext
-Add to Cart,In winkelwagen,unreviewed,erpnext
-Add to cart,In winkelwagen,unreviewed,erpnext
-Add to Courses,Toevoegen aan cursussen,unreviewed,erpnext
-Add to Dashboard,Toevoegen aan dashboard,unreviewed,frappe
-Add to Featured Item,Toevoegen aan aanbevolen item,unreviewed,erpnext
-Add to Holidays,Voeg toe aan feestdagen,unreviewed,erpnext
-Add to Programs,Toevoegen aan programma&#39;s,unreviewed,erpnext
-Add to table,Voeg toe aan tabel,unreviewed,frappe
-Add to ToDo,Toevoegen aan taak,unreviewed,frappe
-Add to Topics,Toevoegen aan onderwerpen,unreviewed,erpnext
-Add to Transit,Toevoegen aan OV,unreviewed,erpnext
-Add Topic to Courses,Onderwerp aan cursussen toevoegen,unreviewed,erpnext
-Add Total Row,Voeg Totaal Rij toe,unreviewed,frappe
-Add Unsubscribe Link,Voeg afmeldlink,unreviewed,frappe
-Add User Permissions,Gebruikersrechten toevoegen,unreviewed,frappe
-Add Users to Marketplace,Gebruikers toevoegen aan Marketplace,unreviewed,erpnext
-Add Weekly Holidays,Wekelijkse feestdagen toevoegen,unreviewed,erpnext
-Add your own translations,Voeg je eigen vertalingen,unreviewed,frappe
-Add your review,Voeg uw beoordeling toe,unreviewed,erpnext
-Add/Edit Coupon Conditions,Couponvoorwaarden toevoegen / bewerken,unreviewed,erpnext
-Add/Remove Recipients,Toevoegen / verwijderen Ontvangers,unreviewed,erpnext
-Added,Toegevoegd,unreviewed,erpnext
-added,toegevoegd,unreviewed,frappe
-"Added HTML in the &lt;head&gt; section of the web page, primarily used for website verification and SEO","Toegevoegd HTML in de &lt;head&gt; sectie van de webpagina, voornamelijk gebruikt voor de website van verificatie en SEO",unreviewed,frappe
-Added to Featured Items,Toegevoegd aan aanbevolen items,unreviewed,erpnext
-Added {0},{0} toegevoegd,unreviewed,frappe
-added {0},Toegevoegd {0},unreviewed,frappe
-Added {0} ({1}),Toegevoegd {0} ({1}),unreviewed,both
-Added {0} users,{0} gebruikers toegevoegd,unreviewed,erpnext
-Adding Order Entries,Ordergegevens toevoegen,unreviewed,erpnext
-Adding System Manager to this User as there must be atleast one System Manager,System Manager toe te voegen aan deze gebruikershandleiding als er tenminste een System Manager moet zijn,unreviewed,frappe
-Additional Cost,Bijkomende kosten,unreviewed,erpnext
-Additional Costs,Bijkomende kosten,unreviewed,erpnext
-Additional Details,Overige gegevens,unreviewed,erpnext
-Additional Discount,EXTRA KORTING,unreviewed,erpnext
-Additional DIscount Amount,Extra korting Bedrag,unreviewed,erpnext
-Additional Discount Amount,Extra kortingsbedrag,unreviewed,erpnext
-Additional Discount Amount (Company Currency),Extra korting Bedrag (Company valuta),unreviewed,erpnext
-Additional Discount and Coupon Code,Extra korting en couponcode,unreviewed,erpnext
-Additional DIscount Percentage,Extra Korting Procent,unreviewed,erpnext
-Additional Discount Percentage,Percentage extra korting,unreviewed,erpnext
+Add New Line,Nieuwe regel toevoegen,reviewed,erpnext
+Add New Permission Rule,Nieuwe machtigingsregel toevoegen,reviewed,frappe
+Add notes,Notities toevoegen,reviewed,erpnext
+Add or Deduct,Toevoegen of aftrekken,reviewed,erpnext
+Add Order Discount,Bestellingskorting toevoegen,reviewed,erpnext
+Add Participants,Deelnemers toevoegen,reviewed,both
+Add Quiz to Topics,Quiz toevoegen aan onderwerpen,reviewed,erpnext
+Add Quote,Citaat toevoegen,reviewed,erpnext
+Add Review,Recensie toevoegen,reviewed,frappe
+Add Row,Rij toevoegen,reviewed,frappe
+Add Sales Partners,Verkooppartners toevoegen,reviewed,erpnext
+Add script for Child Table,Script toevoegen voor onderliggende tabel,reviewed,frappe
+Add Serial No,Serienummer toevoegen,reviewed,erpnext
+Add Signature,Handtekening toevoegen,reviewed,frappe
+Add Space on Bottom,Ruimte onderaan toevoegen,reviewed,frappe
+Add Space on Top,Ruimte bovenaan toevoegen,reviewed,frappe
+Add Students,Studenten toevoegen,reviewed,erpnext
+Add Subscribers,Abonnees toevoegen,reviewed,frappe
+Add Suppliers,Leveranciers toevoegen,reviewed,erpnext
+Add Test,Test toevoegen,reviewed,erpnext
+Add the rest of your organization as your users. You can also add invite Customers to your portal by adding them from Contacts,Voeg de rest van uw organisatie als uw gebruikers. U kunt ook toevoegen uitnodigen klanten naar uw portal door ze toe te voegen vanuit Contacten,reviewed,erpnext
+Add Time Slots,Tijdslots toevoegen,reviewed,erpnext
+Add Timesheets,Urenregistraties toevoegen,reviewed,erpnext
+Add Timeslots,Tijdsloten toevoegen,reviewed,erpnext
+Add to Cart,In winkelwagen,reviewed,erpnext
+Add to cart,In winkelwagen,reviewed,erpnext
+Add to Courses,Toevoegen aan cursussen,reviewed,erpnext
+Add to Dashboard,Toevoegen aan dashboard,reviewed,frappe
+Add to Featured Item,Toevoegen aan aanbevolen item,reviewed,erpnext
+Add to Holidays,Toevoegen aan feestdagen,reviewed,erpnext
+Add to Programs,Toevoegen aan programma&#39;s,reviewed,erpnext
+Add to table,Toevoegen aan tabel,reviewed,frappe
+Add to ToDo,Toevoegen aan taak,reviewed,frappe
+Add to Topics,Toevoegen aan onderwerpen,reviewed,erpnext
+Add to Transit,Toevoegen aan doorvoer,reviewed,erpnext
+Add Topic to Courses,Onderwerp aan cursussen toevoegen,reviewed,erpnext
+Add Total Row,Totaalrij toevoegen,reviewed,frappe
+Add Unsubscribe Link,Afmeldlink toevoegen,reviewed,frappe
+Add User Permissions,Gebruikersrechten toevoegen,reviewed,frappe
+Add Users to Marketplace,Gebruikers toevoegen aan Marketplace,reviewed,erpnext
+Add Weekly Holidays,Wekelijkse vrije dagen toevoegen,reviewed,erpnext
+Add your own translations,Voeg je eigen vertalingen toe,reviewed,frappe
+Add your review,Voeg uw beoordeling toe,reviewed,erpnext
+Add/Edit Coupon Conditions,Couponvoorwaarden toevoegen / bewerken,reviewed,erpnext
+Add/Remove Recipients,Toevoegen / verwijderen Ontvangers,reviewed,erpnext
+Added,Toegevoegd,reviewed,erpnext
+added,toegevoegd,reviewed,frappe
+"Added HTML in the &lt;head&gt; section of the web page, primarily used for website verification and SEO","Toegevoegd HTML in de &lt;head&gt; sectie van de webpagina, voornamelijk gebruikt voor de website van verificatie en SEO",reviewed,frappe
+Added to Featured Items,Toegevoegd aan aanbevolen items,reviewed,erpnext
+Added {0},{0} toegevoegd,reviewed,frappe
+added {0},{0} toegevoegd,reviewed,frappe
+Added {0} ({1}),Toegevoegd {0} ({1}),reviewed,both
+Added {0} users,{0} gebruikers toegevoegd,reviewed,erpnext
+Adding Order Entries,Orderregels toevoegen,reviewed,erpnext
+Adding System Manager to this User as there must be atleast one System Manager,System Manager toe te voegen aan deze gebruikershandleiding als er tenminste een System Manager moet zijn,reviewed,frappe
+Additional Cost,Bijkomende kosten,reviewed,erpnext
+Additional Costs,Bijkomende kosten,reviewed,erpnext
+Additional Details,Overige gegevens,reviewed,erpnext
+Additional Discount,Extra korting,reviewed,erpnext
+Additional DIscount Amount,Extra kortingsbedrag,reviewed,erpnext
+Additional Discount Amount,Extra kortingsbedrag,reviewed,erpnext
+Additional Discount Amount (Company Currency),Extra kortingsbedrag (bedrijfsvaluta),reviewed,erpnext
+Additional Discount and Coupon Code,Extra korting en couponcode,reviewed,erpnext
+Additional DIscount Percentage,Percentage extra korting,reviewed,erpnext
+Additional Discount Percentage,Percentage extra korting,reviewed,erpnext
 Additional Info,Extra informatie,reviewed,custom
-Additional Information,Extra informatie,unreviewed,erpnext
-Additional information regarding the customer.,Aanvullende informatie over de klant.,unreviewed,erpnext
-Additional information regarding the patient,Aanvullende informatie over de patiënt,unreviewed,erpnext
-Additional Notes,extra notities,unreviewed,erpnext
-Additional Operating Cost,Additionele Operationele Kosten,unreviewed,erpnext
-Additional Permissions,Additionele Machtigingen,unreviewed,frappe
-Additional Salary Component Exists.,Extra salariscomponent bestaat.,unreviewed,erpnext
-Address,Adres,unreviewed,both
-Address & Contact,Adres &amp; Contact,unreviewed,erpnext
-Address & Contacts,Adres & Contacten,unreviewed,erpnext
-Address and Contact,Adres en contactgegevens,unreviewed,erpnext
-Address And Contacts,Adres en contacten,unreviewed,frappe
-Address and Contacts,Adres en Contacten,unreviewed,erpnext
-Address and other legal information you may want to put in the footer.,Adres-en andere wettelijke informatie die u wilt zetten in de voettekst.,unreviewed,frappe
-Address Desc,Adres Omschr,unreviewed,erpnext
-Address HTML,Adres HTML,unreviewed,erpnext
-Address Line 1,Adres Lijn 1,unreviewed,both
-Address Line 2,Adres Lijn 2,unreviewed,both
-Address Name,Adres naam,unreviewed,erpnext
-Address needs to be linked to a Company. Please add a row for Company in the Links table.,Adres moet aan een bedrijf zijn gekoppeld. Voeg een rij toe voor Bedrijf in de tabel met links.,unreviewed,erpnext
-Address Template,Adres Sjabloon,unreviewed,frappe
-Address Title,Adres Titel,unreviewed,both
-Address Title is mandatory.,Adres titel is verplicht.,unreviewed,frappe
-Address Type,Adrestype,unreviewed,both
-Address used to determine Tax Category in transactions,Adres dat wordt gebruikt om de belastingcategorie in transacties te bepalen,unreviewed,erpnext
-Addresses,Adressen,unreviewed,both
-Addresses And Contacts,Adressen en Contacten,unreviewed,frappe
-Adds a client custom script to a DocType,Voegt een aangepast klantenscript toe aan een DocType,unreviewed,frappe
-Adds a custom field to a DocType,Voegt een aangepast veld toe aan een DocType,unreviewed,frappe
-adjust,aanpassen,unreviewed,frappe
-Admin,beheerder,unreviewed,frappe
-Administration,Toediening,unreviewed,frappe
-Administrative Expenses,Administratie Kosten,unreviewed,erpnext
-Administrative Officer,Boekhouder,unreviewed,erpnext
-Administrator,Beheerder,unreviewed,both
-Administrator accessed {0} on {1} via IP Address {2}.,Administrator benaderd {0} op {1} via IP-adres {2}.,unreviewed,frappe
-Administrator Logged In,Administrator Gelogd In,unreviewed,frappe
-Admission,Toelating,unreviewed,erpnext
-Admission and Enrollment,Toelating en inschrijving,unreviewed,erpnext
-Admission End Date,Toelating Einddatum,unreviewed,erpnext
-Admission End Date should be greater than Admission Start Date.,Einddatum van toelating moet groter zijn dan Startdatum van toelating.,unreviewed,erpnext
-Admission Instruction,Toelating Instructie,unreviewed,erpnext
-Admission Order Details,Details toelating bestelling,unreviewed,erpnext
-Admission Ordered For,Toelating besteld voor,unreviewed,erpnext
-Admission Schedule Date,Toelating Schedule Date,unreviewed,erpnext
-Admission Scheduled,Toelating gepland,unreviewed,erpnext
-Admission Service Unit Type,Toelating Service Unit Type,unreviewed,erpnext
-Admission Start Date,Entree Startdatum,unreviewed,erpnext
-Admissions for {0},Opnames voor {0},unreviewed,erpnext
-Admit,Toegeven,unreviewed,erpnext
-Admitted,toegelaten,unreviewed,erpnext
-Admitted Datetime,Toegegeven Datetime,unreviewed,erpnext
-Adults' pulse rate is anywhere between 50 and 80 beats per minute.,De volwassen puls is overal tussen 50 en 80 slaats per minuut.,unreviewed,erpnext
-Advance Account,Voorschot rekening,unreviewed,erpnext
-Advance account currency should be same as company currency {0},Vooraf ingestelde accountvaluta moet hetzelfde zijn als bedrijfsvaluta {0},unreviewed,erpnext
-Advance Amount,Voorschot Bedrag,unreviewed,erpnext
-Advance amount,Voorschot Bedrag,unreviewed,erpnext
-Advance amount cannot be greater than {0} {1},Advance bedrag kan niet groter zijn dan {0} {1},unreviewed,erpnext
-Advance Paid,Voorschot Betaald,unreviewed,erpnext
+Additional Information,Aanvullende informatie,reviewed,erpnext
+Additional information regarding the customer.,Aanvullende informatie over de klant.,reviewed,erpnext
+Additional information regarding the patient,Aanvullende informatie over de patiënt,reviewed,erpnext
+Additional Notes,Aanvullende notities,reviewed,erpnext
+Additional Operating Cost,Bijkomende operationele kosten,reviewed,erpnext
+Additional Permissions,Aanvullende machtigingen,reviewed,frappe
+Additional Salary Component Exists.,Extra salariscomponent bestaat.,reviewed,erpnext
+Address,Adres,reviewed,both
+Address & Contact,Adres &amp; Contact,reviewed,erpnext
+Address & Contacts,Adres en contactgegevens,reviewed,erpnext
+Address and Contact,Adres en contactgegevens,reviewed,erpnext
+Address And Contacts,Adres en contactgegevens,reviewed,frappe
+Address and Contacts,Adres en contactgegevens,reviewed,erpnext
+Address and other legal information you may want to put in the footer.,Adres-en andere wettelijke informatie die u wilt zetten in de voettekst.,reviewed,frappe
+Address Desc,Adresomschrijving,reviewed,erpnext
+Address HTML,Adres HTML,reviewed,erpnext
+Address Line 1,Adresregel 1,reviewed,both
+Address Line 2,Adresregel 2,reviewed,both
+Address Name,Adresnaam,reviewed,erpnext
+Address needs to be linked to a Company. Please add a row for Company in the Links table.,Adres moet aan een bedrijf zijn gekoppeld. Voeg een rij toe voor Bedrijf in de tabel met links.,reviewed,erpnext
+Address Template,Adres Template,reviewed,frappe
+Address Title,Adrestitel,reviewed,both
+Address Title is mandatory.,Adrestitel is verplicht.,reviewed,frappe
+Address Type,Adrestype,reviewed,both
+Address used to determine Tax Category in transactions,Adres dat wordt gebruikt om de belastingcategorie in transacties te bepalen,reviewed,erpnext
+Addresses,Adressen,reviewed,both
+Addresses And Contacts,Adressen en contactgegevens,reviewed,frappe
+Adds a client custom script to a DocType,Voegt een aangepast klantenscript toe aan een DocType,reviewed,frappe
+Adds a custom field to a DocType,Voegt een aangepast veld toe aan een DocType,reviewed,frappe
+adjust,aanpassen,reviewed,frappe
+Admin,Beheerder,reviewed,frappe
+Administration,Administratie,reviewed,frappe
+Administrative Expenses,Administratiekosten,reviewed,erpnext
+Administrative Officer,Administratief medewerker,reviewed,erpnext
+Administrator,Beheerder,reviewed,both
+Administrator accessed {0} on {1} via IP Address {2}.,Administrator benaderd {0} op {1} via IP-adres {2}.,reviewed,frappe
+Administrator Logged In,Beheerder aangemeld,reviewed,frappe
+Admission,Opname,reviewed,erpnext
+Admission and Enrollment,Opname en inschrijving,reviewed,erpnext
+Admission End Date,Einddatum opname,reviewed,erpnext
+Admission End Date should be greater than Admission Start Date.,Einddatum van toelating moet groter zijn dan Startdatum van toelating.,reviewed,erpnext
+Admission Instruction,Opname-instructie,reviewed,erpnext
+Admission Order Details,Details opnameorder,reviewed,erpnext
+Admission Ordered For,Opname besteld voor,reviewed,erpnext
+Admission Schedule Date,Geplande opnamedatum,reviewed,erpnext
+Admission Scheduled,Opname gepland,reviewed,erpnext
+Admission Service Unit Type,Type serviceafdeling opname,reviewed,erpnext
+Admission Start Date,Startdatum opname,reviewed,erpnext
+Admissions for {0},Opnames voor {0},reviewed,erpnext
+Admit,Opnemen,reviewed,erpnext
+Admitted,Opgenomen,reviewed,erpnext
+Admitted Datetime,Opnamedatum en -tijd,reviewed,erpnext
+Adults' pulse rate is anywhere between 50 and 80 beats per minute.,De volwassen puls is overal tussen 50 en 80 slaats per minuut.,reviewed,erpnext
+Advance Account,Voorschotrekening,reviewed,erpnext
+Advance account currency should be same as company currency {0},Vooraf ingestelde accountvaluta moet hetzelfde zijn als bedrijfsvaluta {0},reviewed,erpnext
+Advance Amount,Voorschotbedrag,reviewed,erpnext
+Advance amount,Voorschotbedrag,reviewed,erpnext
+Advance amount cannot be greater than {0} {1},Advance bedrag kan niet groter zijn dan {0} {1},reviewed,erpnext
+Advance Paid,Voorschot betaald,reviewed,erpnext
 Advance Payment Ledger Entry,Vooruitbetaling grootboekregel,reviewed,custom
-Advanced,Geavanceerd,unreviewed,frappe
-Advanced Control,Geavanceerde besturing,unreviewed,frappe
-Advanced Search,Geavanceerd Zoeken,unreviewed,frappe
-Advanced Settings,Geavanceerde instellingen,unreviewed,both
-Advances,Vooruitgang,unreviewed,erpnext
-Advertising,Adverteren,unreviewed,erpnext
-Aerospace,Ruimtevaart,unreviewed,erpnext
-af-south-1,af-zuid-1,unreviewed,frappe
-After Cancel,Na annuleren,unreviewed,frappe
-After Date,Na datum,unreviewed,erpnext
-After Delete,Na verwijderen,unreviewed,frappe
-After payment completion redirect user to selected page.,Na betaling voltooiing omleiden gebruiker geselecteerde pagina.,unreviewed,erpnext
-After Save,Na opslaan,unreviewed,frappe
-After Save (Submitted Document),Na opslaan (ingediend document),unreviewed,frappe
+Advanced,Geavanceerd,reviewed,frappe
+Advanced Control,Geavanceerde besturing,reviewed,frappe
+Advanced Search,Geavanceerd zoeken,reviewed,frappe
+Advanced Settings,Geavanceerde instellingen,reviewed,both
+Advances,Voorschotten,reviewed,erpnext
+Advertising,Adverteren,reviewed,erpnext
+Aerospace,Ruimtevaart,reviewed,erpnext
+af-south-1,af-zuid-1,reviewed,frappe
+After Cancel,Na annuleren,reviewed,frappe
+After Date,Na datum,reviewed,erpnext
+After Delete,Na verwijderen,reviewed,frappe
+After payment completion redirect user to selected page.,Na betaling voltooiing omleiden gebruiker geselecteerde pagina.,reviewed,erpnext
+After Save,Na opslaan,reviewed,frappe
+After Save (Submitted Document),Na opslaan (ingediend document),reviewed,frappe
 After Submit,Na verzenden,unreviewed,frappe
 Afternoon,Middag,unreviewed,erpnext
 Against,Tegen,reviewed,erpnext

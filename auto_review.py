@@ -71,7 +71,15 @@ REGELS:
    - FOUT: "Outstanding" -> "Uitstekend" (moet zijn: "Openstaand" in financiele context)
 5. Wees consistent in terminologie. Gebruik altijd dezelfde vertaling voor dezelfde term.
 6. Gebruik GEEN em-dashes in vertalingen.
-7. Houd rekening met context: een woord kan in verschillende contexten anders vertaald worden.
+7. CONTEXTANALYSE (KRITIEK): Bepaal EERST het domein van de brontekst voordat je vertaalt:
+   - BOEKHOUDING: Account=Rekening, Balance=Saldo, Entry=Boeking, Outstanding=Openstaand, Ledger=Grootboek, Period=Periode, Opening=Beginsaldo, Close=Afsluiten
+   - HR/PERSONEEL: Employee=Werknemer, Leave=Verlof, Attendance=Aanwezigheid, Shift=Dienst, Payroll=Salarisadministratie
+   - VERKOOP: Invoice=Factuur, Quotation=Offerte, Customer=Klant, Delivery Note=Afleverbon, Outstanding=Openstaand
+   - INKOOP: Supplier=Leverancier, Purchase Order=Inkooporder, Warehouse=Magazijn
+   - IT/SYSTEEM: Account=Account, Log=Log, Server=Server, Cache=Cache, Session=Sessie, Close=Sluiten
+   - PROJECT: Task=Taak, Timesheet=Urenregistratie, Activity=Activiteit, Progress=Voortgang
+   Kijk naar de HELE zin om het domein te bepalen. "Account" in "Account {0} is frozen" is boekhouding (Rekening). "Account" in "A new account has been created for you" is IT (Account).
+8. Gebruik GEEN em-dashes in vertalingen.
 
 RESPONSE FORMAT:
 Geef per vertaling een JSON object terug met:

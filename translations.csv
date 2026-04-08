@@ -1310,206 +1310,206 @@ Batch-Wise Balance History,Batchgewijze balansgeschiedenis,reviewed,erpnext
 Batch:,Partij:,reviewed,erpnext
 Batches,batches,reviewed,erpnext
 because account {} is not linked to warehouse {},omdat account {} niet is gekoppeld aan magazijn {},reviewed,erpnext
-because expense is booked against this account in Purchase Receipt {},omdat onkosten worden geboekt op deze rekening in Aankoopbewijs {},unreviewed,erpnext
-Become a Seller,Word een verkoper,unreviewed,erpnext
-Before Cancel,Voor annuleren,unreviewed,frappe
-Before Delete,Voordat verwijderen,unreviewed,frappe
-Before Insert,Voor het invoegen,unreviewed,frappe
-Before reconciliation,Voordat verzoening,unreviewed,erpnext
-Before Save,Voordat u opslaat,unreviewed,frappe
-Before Save (Submitted Document),Voor opslaan (verzonden document),unreviewed,frappe
-Before Submit,Voordat indienen,unreviewed,frappe
-Begin On (Days),Begin op (dagen),unreviewed,erpnext
-Beginning with,Beginnend met,unreviewed,frappe
-beginning with,beginnend met,unreviewed,frappe
-bell,bel,unreviewed,frappe
-Benefit Type and Amount,Type en bedrag van het voordeel,unreviewed,erpnext
-Benefits Applied,Toegepaste voordelen,unreviewed,erpnext
-Beta,beta,unreviewed,frappe
-Better add a few more letters or another word,Beter voeg een paar letters of een ander woord,unreviewed,frappe
-Between,Tussen,unreviewed,frappe
-Biennial,tweejarig,unreviewed,erpnext
-Bill Date,Factuurdatum,unreviewed,erpnext
-Bill No,Factuur nr,unreviewed,erpnext
-Bill of Materials,Stuklijst,unreviewed,erpnext
-Bill of Materials (BOM),Stuklijsten,unreviewed,erpnext
-Billable,Factureerbaar,unreviewed,erpnext
-Billable Hours,Factureerbare uren,unreviewed,erpnext
-Billed,gefactureerd,unreviewed,erpnext
-Billed Amount,Gefactureerd bedrag,unreviewed,erpnext
-Billed Amt,Gefactureerd Bedr,unreviewed,erpnext
-Billed Qty,Gefactureerd aantal,unreviewed,erpnext
-Billing,Facturering,unreviewed,frappe
-Billing Address,Factuuradres,unreviewed,erpnext
-Billing Address GSTIN,Factuuradres GSTIN,unreviewed,erpnext
-Billing Address is same as Shipping Address,Factuuradres is hetzelfde als verzendadres,unreviewed,erpnext
-Billing Address Name,Factuuradres Naam,unreviewed,erpnext
-Billing Amount,Factuurbedrag,unreviewed,erpnext
-Billing and Delivery Status,Factuur- en leverstatus,unreviewed,erpnext
-Billing City,Stad,unreviewed,erpnext
-Billing Country,Land,unreviewed,erpnext
-Billing Currency,Valuta,unreviewed,erpnext
-Billing currency must be equal to either default company's currency or party account currency,Factuurvaluta moet gelijk zijn aan de valuta van het standaardbedrijf of de valuta van het partijaccount,unreviewed,erpnext
-Billing Cycle,Factureringscyclus,unreviewed,erpnext
-Billing Date,Factuurdatum,unreviewed,erpnext
-Billing Email,Rekening e-mail,unreviewed,erpnext
-Billing Frequency,Factureringsfrequentie,unreviewed,erpnext
-Billing Interval,Factuurinterval,unreviewed,erpnext
-Billing Interval Count,Factuurinterval tellen,unreviewed,erpnext
-Billing Interval Count cannot be less than 1,Factuurintervaltelling kan niet minder zijn dan 1,unreviewed,erpnext
-Billing Item,Factuuritem,unreviewed,erpnext
-Billing Status,Factuurstatus,unreviewed,erpnext
-Billing Zipcode,Facturatie postcode,unreviewed,erpnext
-Bills raised by Suppliers.,Facturen van leveranciers.,unreviewed,erpnext
-Bills raised to Customers.,Factureren aan Klanten,unreviewed,erpnext
+because expense is booked against this account in Purchase Receipt {},omdat onkosten worden geboekt op deze rekening in inkoopontvangst {},reviewed,erpnext
+Become a Seller,Word een verkoper,reviewed,erpnext
+Before Cancel,Voor annuleren,reviewed,frappe
+Before Delete,Voor verwijderen,reviewed,frappe
+Before Insert,Voor invoegen,reviewed,frappe
+Before reconciliation,Voor afstemming,reviewed,erpnext
+Before Save,Voor opslaan,reviewed,frappe
+Before Save (Submitted Document),Voor opslaan (ingediend document),reviewed,frappe
+Before Submit,Voor indienen,reviewed,frappe
+Begin On (Days),Begin op (dagen),reviewed,erpnext
+Beginning with,Beginnend met,reviewed,frappe
+beginning with,beginnend met,reviewed,frappe
+bell,bel,reviewed,frappe
+Benefit Type and Amount,Voordeeltype en bedrag,reviewed,erpnext
+Benefits Applied,Toegepaste voordelen,reviewed,erpnext
+Beta,Beta,reviewed,frappe
+Better add a few more letters or another word,Voeg nog een paar letters of een ander woord toe,reviewed,frappe
+Between,Tussen,reviewed,frappe
+Biennial,Tweejaarlijks,reviewed,erpnext
+Bill Date,Factuurdatum,reviewed,erpnext
+Bill No,Factuurnr.,reviewed,erpnext
+Bill of Materials,Stuklijst,reviewed,erpnext
+Bill of Materials (BOM),Stuklijst (BOM),reviewed,erpnext
+Billable,Factureerbaar,reviewed,erpnext
+Billable Hours,Factureerbare uren,reviewed,erpnext
+Billed,Gefactureerd,reviewed,erpnext
+Billed Amount,Gefactureerd bedrag,reviewed,erpnext
+Billed Amt,Gefact. bedr.,reviewed,erpnext
+Billed Qty,Gefact. aantal,reviewed,erpnext
+Billing,Facturering,reviewed,frappe
+Billing Address,Factuuradres,reviewed,erpnext
+Billing Address GSTIN,Factuuradres GSTIN,reviewed,erpnext
+Billing Address is same as Shipping Address,Factuuradres is gelijk aan verzendadres,reviewed,erpnext
+Billing Address Name,Naam factuuradres,reviewed,erpnext
+Billing Amount,Factuurbedrag,reviewed,erpnext
+Billing and Delivery Status,Factuur- en leverstatus,reviewed,erpnext
+Billing City,Factuurstad,reviewed,erpnext
+Billing Country,Factuurland,reviewed,erpnext
+Billing Currency,Factuurvaluta,reviewed,erpnext
+Billing currency must be equal to either default company's currency or party account currency,Factuurvaluta moet gelijk zijn aan de standaardvaluta van het bedrijf of de rekeningvaluta van de partij,reviewed,erpnext
+Billing Cycle,Factureringscyclus,reviewed,erpnext
+Billing Date,Factuurdatum,reviewed,erpnext
+Billing Email,Factuur-e-mail,reviewed,erpnext
+Billing Frequency,Factureringsfrequentie,reviewed,erpnext
+Billing Interval,Factuurinterval,reviewed,erpnext
+Billing Interval Count,Aantal factuurintervallen,reviewed,erpnext
+Billing Interval Count cannot be less than 1,Aantal factuurintervallen kan niet minder dan 1 zijn,reviewed,erpnext
+Billing Item,Factuurregel,reviewed,erpnext
+Billing Status,Factuurstatus,reviewed,erpnext
+Billing Zipcode,Factuur postcode,reviewed,erpnext
+Bills raised by Suppliers.,Facturen van leveranciers.,reviewed,erpnext
+Bills raised to Customers.,Facturen aan klanten.,reviewed,erpnext
 Bin,Voorraadlocatie,reviewed,erpnext
-Bio / Cover Letter,Bio / sollicitatiebrief,unreviewed,erpnext
-Biotechnology,biotechnologie,unreviewed,erpnext
-Birth Date,Geboortedatum,unreviewed,frappe
-Black,Zwart,unreviewed,erpnext
-Blank Template,Lege sjabloon,unreviewed,frappe
+Bio / Cover Letter,Bio / sollicitatiebrief,reviewed,erpnext
+Biotechnology,Biotechnologie,reviewed,erpnext
+Birth Date,Geboortedatum,reviewed,frappe
+Black,Zwart,reviewed,erpnext
+Blank Template,Leeg sjabloon,reviewed,frappe
 Blanket Order,Raamovereenkomst,reviewed,erpnext
-Blanket Order Item,Deken bestellingsitem,unreviewed,erpnext
-Blanket Order Rate,Deken Besteltarief,unreviewed,erpnext
-Blanket Orders from Costumers.,Algemene bestellingen van klanten.,unreviewed,erpnext
-Bloated,Opgeblazen,unreviewed,erpnext
-Block Invoice,Blokfactuur,unreviewed,erpnext
-Block Supplier,Leverancier blokkeren,unreviewed,erpnext
-Blocked,Geblokkeerd,unreviewed,frappe
-Blog Category,Blog Categorie,unreviewed,frappe
-Blog Introduction,Blog Inleiding,unreviewed,frappe
-Blog Settings,Blog Instellingen,unreviewed,frappe
-Blog Subscriber,Blog Abonnee,unreviewed,erpnext
-Blog Title,Blog Titel,unreviewed,frappe
-Blood Group,Bloedgroep,unreviewed,erpnext
-Blood Pressure,Bloeddruk,unreviewed,erpnext
-Blood Pressure (diastolic),Bloeddruk (diastolische),unreviewed,erpnext
-Blood Pressure (systolic),Bloeddruk (systolisch),unreviewed,erpnext
-Blue,Blauw,unreviewed,erpnext
-blue,blauw,unreviewed,frappe
+Blanket Order Item,Raamovereenkomstregel,reviewed,erpnext
+Blanket Order Rate,Raamovereenkomsttarief,reviewed,erpnext
+Blanket Orders from Costumers.,Raamovereenkomsten van klanten.,reviewed,erpnext
+Bloated,Overbelast,reviewed,erpnext
+Block Invoice,Factuur blokkeren,reviewed,erpnext
+Block Supplier,Leverancier blokkeren,reviewed,erpnext
+Blocked,Geblokkeerd,reviewed,frappe
+Blog Category,Blog categorie,reviewed,frappe
+Blog Introduction,Blog inleiding,reviewed,frappe
+Blog Settings,Blog instellingen,reviewed,frappe
+Blog Subscriber,Blog abonnee,reviewed,erpnext
+Blog Title,Blog titel,reviewed,frappe
+Blood Group,Bloedgroep,reviewed,erpnext
+Blood Pressure,Bloeddruk,reviewed,erpnext
+Blood Pressure (diastolic),Bloeddruk (diastolisch),reviewed,erpnext
+Blood Pressure (systolic),Bloeddruk (systolisch),reviewed,erpnext
+Blue,Blauw,reviewed,erpnext
+blue,blauw,reviewed,frappe
 Board View,Bordweergave,reviewed,custom
-Body,Lichaam,unreviewed,erpnext
-Body and Closing Text Help,Hoofdtekst en afsluitende tekst Help,unreviewed,erpnext
-Body Part,Lichaamsdeel,unreviewed,erpnext
-Body Part Link,Link naar lichaamsdeel,unreviewed,erpnext
-Body Parts,Lichaamsdelen,unreviewed,erpnext
-Body Temperature,Lichaamstemperatuur,unreviewed,erpnext
-Body Text,Lichaamstaal,unreviewed,erpnext
-Bold,Stoutmoedig,unreviewed,frappe
-bold,Vet,unreviewed,frappe
-BOM 1 {0} and BOM 2 {1} should not be same,BOM 1 {0} en BOM 2 {1} mogen niet hetzelfde zijn,unreviewed,erpnext
-BOM and Manufacturing Quantity are required,BOM en Productie Hoeveelheid nodig,unreviewed,erpnext
-BOM Comparison Tool,BOM-vergelijkingstool,unreviewed,erpnext
+Body,Inhoud,reviewed,erpnext
+Body and Closing Text Help,Hoofdtekst en afsluitende tekst Help,reviewed,erpnext
+Body Part,Lichaamsdeel,reviewed,erpnext
+Body Part Link,Lichaamsdeel link,reviewed,erpnext
+Body Parts,Lichaamsdelen,reviewed,erpnext
+Body Temperature,Lichaamstemperatuur,reviewed,erpnext
+Body Text,Hoofdtekst,reviewed,erpnext
+Bold,Vet,reviewed,frappe
+bold,Vet,reviewed,frappe
+BOM 1 {0} and BOM 2 {1} should not be same,BOM 1 {0} en BOM 2 {1} mogen niet hetzelfde zijn,reviewed,erpnext
+BOM and Manufacturing Quantity are required,BOM en productiehoeveelheid zijn verplicht,reviewed,erpnext
+BOM Comparison Tool,BOM-vergelijkingstool,reviewed,erpnext
 BOM Creator,Stuklijst aanmaken,reviewed,custom
-BOM Detail No,Stuklijst Detail nr.,unreviewed,erpnext
-BOM does not contain any stock item,BOM geen voorraad artikel bevatten,unreviewed,erpnext
-BOM Explosion Item,Stuklijst Uitklap Artikel,unreviewed,erpnext
-BOM ID,BOM-ID,unreviewed,erpnext
-BOM Item,Stuklijst Artikel,unreviewed,erpnext
-BOM Item Code,BOM-artikelcode,unreviewed,erpnext
-BOM No,Stuklijst nr.,unreviewed,erpnext
-BOM No. for a Finished Good Item,Stuklijst nr voor een Gereed Product Artikel,unreviewed,erpnext
-BOM Operation,Stuklijst Operatie,unreviewed,erpnext
-BOM Operations Time,BOM Operations Tijd,unreviewed,erpnext
-BOM Qty,BOM Aantal,unreviewed,erpnext
-BOM Rate,Stuklijst tarief,unreviewed,erpnext
-BOM recursion: {0} cannot be child of {1},BOM-recursie: {0} kan geen kind van {1} zijn,unreviewed,erpnext
-BOM recursion: {0} cannot be parent or child of {1},BOM-recursie: {0} kan geen ouder of kind van {1} zijn,unreviewed,erpnext
-BOM Search,BOM Zoeken,unreviewed,erpnext
-BOM Stock Calculated,Stuklijst berekend,unreviewed,erpnext
+BOM Detail No,Stuklijst Detail nr.,reviewed,erpnext
+BOM does not contain any stock item,BOM bevat geen voorraadartikelen,reviewed,erpnext
+BOM Explosion Item,Stuklijst uitklapartikel,reviewed,erpnext
+BOM ID,BOM-ID,reviewed,erpnext
+BOM Item,Stuklijst Artikel,reviewed,erpnext
+BOM Item Code,BOM-artikelcode,reviewed,erpnext
+BOM No,Stuklijst nr.,reviewed,erpnext
+BOM No. for a Finished Good Item,Stuklijst nr voor een Gereed Product Artikel,reviewed,erpnext
+BOM Operation,Stuklijst Operatie,reviewed,erpnext
+BOM Operations Time,BOM Operations Tijd,reviewed,erpnext
+BOM Qty,BOM Aantal,reviewed,erpnext
+BOM Rate,Stuklijst tarief,reviewed,erpnext
+BOM recursion: {0} cannot be child of {1},BOM-recursie: {0} kan geen kind van {1} zijn,reviewed,erpnext
+BOM recursion: {0} cannot be parent or child of {1},BOM-recursie: {0} kan geen ouder of kind van {1} zijn,reviewed,erpnext
+BOM Search,BOM Zoeken,reviewed,erpnext
+BOM Stock Calculated,Stuklijst berekend,reviewed,erpnext
 BOM Update Log,Stuklijst wijzigingslog,reviewed,custom
-BOM Variance Report,BOM-variatierapport,unreviewed,erpnext
-BOM {0} does not belong to Item {1},Stuklijst {0} behoort niet tot Artikel {1},unreviewed,erpnext
-BOM {0} must be active,Stuklijst {0} moet actief zijn,unreviewed,erpnext
-BOM {0} must be submitted,Stuklijst {0} moet worden ingediend,unreviewed,erpnext
-Book,Boek,unreviewed,erpnext
-book,boek,unreviewed,frappe
-Book Appointment,Boekafspraak,unreviewed,erpnext
-Book Asset Depreciation Entry Automatically,Automatische afschrijving van de activa van de boekwaarde,unreviewed,erpnext
-Book Deferred Entries Based On,Boek uitgestelde inzendingen op basis van,unreviewed,erpnext
-Book Deferred Entries Via Journal Entry,Boek uitgestelde posten via journaalboeking,unreviewed,erpnext
-Booked,geboekt,unreviewed,erpnext
-Booked Fixed Asset,Geboekte vaste activa,unreviewed,erpnext
-bookmark,bladwijzer,unreviewed,frappe
-Both,Beide,unreviewed,erpnext
-Both DocType and Name required,Zowel DocType en Naam verplicht,unreviewed,frappe
-Both login and password required,Zowel de login en wachtwoord vereist,unreviewed,frappe
-Both Trial Period Start Date and Trial Period End Date must be set,Zowel de startdatum van de proefperiode als de einddatum van de proefperiode moeten worden ingesteld,unreviewed,erpnext
-Both Warehouse must belong to same Company,Beide magazijnen moeten tot hetzelfde bedrijf behoren,unreviewed,erpnext
-Bottom,Bodem,unreviewed,frappe
-Bounced,Gebouncet,unreviewed,frappe
-Braintree payment gateway settings,Braintree betalingsgateway-instellingen,unreviewed,frappe
-Braintree Settings,Braintree-instellingen,unreviewed,frappe
-Branch,Tak,unreviewed,erpnext
-Branch Code,Filiaalcode,unreviewed,erpnext
+BOM Variance Report,BOM-variatierapport,reviewed,erpnext
+BOM {0} does not belong to Item {1},Stuklijst {0} behoort niet tot Artikel {1},reviewed,erpnext
+BOM {0} must be active,Stuklijst {0} moet actief zijn,reviewed,erpnext
+BOM {0} must be submitted,Stuklijst {0} moet worden ingediend,reviewed,erpnext
+Book,Boek,reviewed,erpnext
+book,boek,reviewed,frappe
+Book Appointment,Boekafspraak,reviewed,erpnext
+Book Asset Depreciation Entry Automatically,Automatische afschrijving van de activa van de boekwaarde,reviewed,erpnext
+Book Deferred Entries Based On,Boek uitgestelde inzendingen op basis van,reviewed,erpnext
+Book Deferred Entries Via Journal Entry,Boek uitgestelde posten via journaalboeking,reviewed,erpnext
+Booked,geboekt,reviewed,erpnext
+Booked Fixed Asset,Geboekte vaste activa,reviewed,erpnext
+bookmark,bladwijzer,reviewed,frappe
+Both,Beide,reviewed,erpnext
+Both DocType and Name required,Zowel DocType en Naam verplicht,reviewed,frappe
+Both login and password required,Zowel de login en wachtwoord vereist,reviewed,frappe
+Both Trial Period Start Date and Trial Period End Date must be set,Zowel de startdatum van de proefperiode als de einddatum van de proefperiode moeten worden ingesteld,reviewed,erpnext
+Both Warehouse must belong to same Company,Beide magazijnen moeten tot hetzelfde bedrijf behoren,reviewed,erpnext
+Bottom,Bodem,reviewed,frappe
+Bounced,Gebouncet,reviewed,frappe
+Braintree payment gateway settings,Braintree betalingsgateway-instellingen,reviewed,frappe
+Braintree Settings,Braintree-instellingen,reviewed,frappe
+Branch,Tak,reviewed,erpnext
+Branch Code,Filiaalcode,reviewed,erpnext
 Brand,Merk,reviewed,both
-Brand Defaults,Standaardwaarden van het merk,unreviewed,erpnext
-Brand HTML,Merk HTML,unreviewed,frappe
-Brand Image,merk Afbeelding,unreviewed,frappe
-Brand Name,Merknaam,unreviewed,erpnext
-Breadcrumbs,Broodkruimels,unreviewed,frappe
-Breakdown,Storing,unreviewed,erpnext
-briefcase,koffer,unreviewed,frappe
-Broadcasting,Uitzenden,unreviewed,erpnext
-Brokerage,Makelaardij,unreviewed,erpnext
-Browse,Bladeren,unreviewed,both
-Browse BOM,Bladeren BOM,unreviewed,erpnext
-"browse,","bladeren,",unreviewed,frappe
-Browser not supported,Browser wordt niet ondersteund,unreviewed,frappe
-Browser Version,Browserversie,unreviewed,frappe
-Brute Force Security,Brute Force-beveiliging,unreviewed,frappe
-Bucket Name,Bucketnaam,unreviewed,frappe
-Budget,Begroting,unreviewed,erpnext
-Budget Account,budget account,unreviewed,erpnext
-Budget Accounts,budget Accounts,unreviewed,erpnext
-Budget Against,budget Against,unreviewed,erpnext
-Budget Amount,budget Bedrag,unreviewed,erpnext
-Budget cannot be assigned against Group Account {0},Budget kan niet tegen Group rekening worden toegewezen {0},unreviewed,erpnext
-"Budget cannot be assigned against {0}, as it's not an Income or Expense account","Budget kan niet worden toegewezen tegen {0}, want het is geen baten of lasten rekening",unreviewed,erpnext
-Budget List,Budgetlijst,unreviewed,erpnext
-Budget Variance Report,Budget variantie rapport,unreviewed,erpnext
-Budgets,Budgetten,unreviewed,erpnext
-Build Report,Maak Rapport,unreviewed,frappe
-Buildings,Gebouwen,unreviewed,erpnext
-Bulk Delete,Bulk verwijderen,unreviewed,frappe
-Bulk Edit {0},Bulk Bewerken {0},unreviewed,frappe
-Bulk Rename,Bulk Hernoemen,unreviewed,frappe
-Bulk Update,bulk-update,unreviewed,frappe
-bullhorn,megafoon,unreviewed,frappe
-Bundle items at time of sale.,Bundel artikelen op moment van verkoop.,unreviewed,erpnext
-Bundle Qty,Aantal bundels,unreviewed,erpnext
-Busy,Bezig,unreviewed,erpnext
-Button,Knop,unreviewed,frappe
-Button Gradients,Knop verlopen,unreviewed,frappe
-Button Help,knop Help,unreviewed,frappe
-Button Label,knoplabel,unreviewed,frappe
-Button Rounded Corners,Knoop Afgeronde Hoeken,unreviewed,frappe
-Button Shadows,Knopschaduwen,unreviewed,frappe
-Buy,Kopen,unreviewed,erpnext
-Buyer of Goods and Services.,Koper van goederen en diensten.,unreviewed,erpnext
-Buying,Inkoop,unreviewed,erpnext
-Buying Amount,Aankoop Bedrag,unreviewed,erpnext
-"Buying must be checked, if Applicable For is selected as {0}","Aankopen moeten worden gecontroleerd, indien ""VAN TOEPASSING VOOR"" is geselecteerd als {0}",unreviewed,erpnext
-Buying Price List,Prijslijst kopen,unreviewed,erpnext
-Buying Rate,Koopsnelheid,unreviewed,erpnext
-Buying Settings,Inkoop Instellingen,unreviewed,erpnext
-by,door,unreviewed,erpnext
-"By default the title is used as meta title, adding a value here will override it.","Standaard wordt de titel gebruikt als metatitel, als u hier een waarde toevoegt, wordt deze overschreven.",unreviewed,frappe
-"By default, a new User is created for every new Student. If enabled, no new User will be created when a new Student is created.","Standaard wordt voor elke nieuwe student een nieuwe gebruiker aangemaakt. Indien ingeschakeld, wordt er geen nieuwe gebruiker aangemaakt wanneer een nieuwe student wordt aangemaakt.",unreviewed,erpnext
-"By default, the Customer Name is set as per the Full Name entered. If you want Customers to be named by a",Standaard wordt de klantnaam ingesteld volgens de ingevoerde volledige naam. Als u wilt dat klanten worden genoemd door een,unreviewed,erpnext
-"By default, the Item Name is set as per the Item Code entered. If you want Items to be named by a",Standaard wordt de artikelnaam ingesteld volgens de ingevoerde artikelcode. Als u wilt dat items een naam krijgen van,unreviewed,erpnext
-"By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a",Standaard wordt de leveranciersnaam ingesteld volgens de ingevoerde leveranciersnaam. Als u wilt dat leveranciers worden genoemd door een,unreviewed,erpnext
-by Role,op rol,unreviewed,frappe
-By {0},Door {0},unreviewed,erpnext
-Bypass credit check at Sales Order,Bypass credit check op klantorder,unreviewed,erpnext
-Bypass Credit Limit Check at Sales Order,Creditlimietcontrole overslaan op klantorder,unreviewed,erpnext
-Bypass Restricted IP Address Check If Two Factor Auth Enabled,Beperkt IP-adres omzeilen Controleer of twee-factorenauthenticatie is ingeschakeld,unreviewed,frappe
-Bypass restricted IP Address check If Two Factor Auth Enabled,Bypass beperkte IP-adrescontrole Als twee factoren geactiveerd zijn,unreviewed,frappe
-Bypass Two Factor Auth for users who login from restricted IP Address,Bypass Two Factor Auth voor gebruikers die zich aanmelden bij een beperkt IP-adres,unreviewed,frappe
-Byproducts,bijproducten,unreviewed,erpnext
-C-Form Applicable,C-Form Toepasselijk,unreviewed,erpnext
-C-Form Invoice Detail,C-Form Factuurspecificatie,unreviewed,erpnext
-C-form is not applicable for Invoice: {0},C-vorm is niet van toepassing voor de factuur: {0},unreviewed,erpnext
+Brand Defaults,Standaardwaarden van het merk,reviewed,erpnext
+Brand HTML,Merk HTML,reviewed,frappe
+Brand Image,merk Afbeelding,reviewed,frappe
+Brand Name,Merknaam,reviewed,erpnext
+Breadcrumbs,Broodkruimels,reviewed,frappe
+Breakdown,Storing,reviewed,erpnext
+briefcase,koffer,reviewed,frappe
+Broadcasting,Uitzenden,reviewed,erpnext
+Brokerage,Makelaardij,reviewed,erpnext
+Browse,Bladeren,reviewed,both
+Browse BOM,Bladeren BOM,reviewed,erpnext
+"browse,","bladeren,",reviewed,frappe
+Browser not supported,Browser wordt niet ondersteund,reviewed,frappe
+Browser Version,Browserversie,reviewed,frappe
+Brute Force Security,Brute Force-beveiliging,reviewed,frappe
+Bucket Name,Bucketnaam,reviewed,frappe
+Budget,Begroting,reviewed,erpnext
+Budget Account,budget account,reviewed,erpnext
+Budget Accounts,budget Accounts,reviewed,erpnext
+Budget Against,budget Against,reviewed,erpnext
+Budget Amount,budget Bedrag,reviewed,erpnext
+Budget cannot be assigned against Group Account {0},Budget kan niet tegen Group rekening worden toegewezen {0},reviewed,erpnext
+"Budget cannot be assigned against {0}, as it's not an Income or Expense account","Budget kan niet worden toegewezen tegen {0}, want het is geen baten of lasten rekening",reviewed,erpnext
+Budget List,Budgetlijst,reviewed,erpnext
+Budget Variance Report,Budget variantie rapport,reviewed,erpnext
+Budgets,Budgetten,reviewed,erpnext
+Build Report,Maak Rapport,reviewed,frappe
+Buildings,Gebouwen,reviewed,erpnext
+Bulk Delete,Bulk verwijderen,reviewed,frappe
+Bulk Edit {0},Bulk Bewerken {0},reviewed,frappe
+Bulk Rename,Bulk Hernoemen,reviewed,frappe
+Bulk Update,bulk-update,reviewed,frappe
+bullhorn,megafoon,reviewed,frappe
+Bundle items at time of sale.,Bundel artikelen op moment van verkoop.,reviewed,erpnext
+Bundle Qty,Aantal bundels,reviewed,erpnext
+Busy,Bezig,reviewed,erpnext
+Button,Knop,reviewed,frappe
+Button Gradients,Knop verlopen,reviewed,frappe
+Button Help,knop Help,reviewed,frappe
+Button Label,knoplabel,reviewed,frappe
+Button Rounded Corners,Knoop Afgeronde Hoeken,reviewed,frappe
+Button Shadows,Knopschaduwen,reviewed,frappe
+Buy,Kopen,reviewed,erpnext
+Buyer of Goods and Services.,Koper van goederen en diensten.,reviewed,erpnext
+Buying,Inkoop,reviewed,erpnext
+Buying Amount,Aankoop Bedrag,reviewed,erpnext
+"Buying must be checked, if Applicable For is selected as {0}","Aankopen moeten worden gecontroleerd, indien ""VAN TOEPASSING VOOR"" is geselecteerd als {0}",reviewed,erpnext
+Buying Price List,Prijslijst kopen,reviewed,erpnext
+Buying Rate,Koopsnelheid,reviewed,erpnext
+Buying Settings,Inkoop Instellingen,reviewed,erpnext
+by,door,reviewed,erpnext
+"By default the title is used as meta title, adding a value here will override it.","Standaard wordt de titel gebruikt als metatitel, als u hier een waarde toevoegt, wordt deze overschreven.",reviewed,frappe
+"By default, a new User is created for every new Student. If enabled, no new User will be created when a new Student is created.","Standaard wordt voor elke nieuwe student een nieuwe gebruiker aangemaakt. Indien ingeschakeld, wordt er geen nieuwe gebruiker aangemaakt wanneer een nieuwe student wordt aangemaakt.",reviewed,erpnext
+"By default, the Customer Name is set as per the Full Name entered. If you want Customers to be named by a",Standaard wordt de klantnaam ingesteld volgens de ingevoerde volledige naam. Als u wilt dat klanten worden genoemd door een,reviewed,erpnext
+"By default, the Item Name is set as per the Item Code entered. If you want Items to be named by a",Standaard wordt de artikelnaam ingesteld volgens de ingevoerde artikelcode. Als u wilt dat items een naam krijgen van,reviewed,erpnext
+"By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a",Standaard wordt de leveranciersnaam ingesteld volgens de ingevoerde leveranciersnaam. Als u wilt dat leveranciers worden genoemd door een,reviewed,erpnext
+by Role,op rol,reviewed,frappe
+By {0},Door {0},reviewed,erpnext
+Bypass credit check at Sales Order,Bypass credit check op klantorder,reviewed,erpnext
+Bypass Credit Limit Check at Sales Order,Creditlimietcontrole overslaan op klantorder,reviewed,erpnext
+Bypass Restricted IP Address Check If Two Factor Auth Enabled,Beperkt IP-adres omzeilen Controleer of twee-factorenauthenticatie is ingeschakeld,reviewed,frappe
+Bypass restricted IP Address check If Two Factor Auth Enabled,Bypass beperkte IP-adrescontrole Als twee factoren geactiveerd zijn,reviewed,frappe
+Bypass Two Factor Auth for users who login from restricted IP Address,Bypass Two Factor Auth voor gebruikers die zich aanmelden bij een beperkt IP-adres,reviewed,frappe
+Byproducts,bijproducten,reviewed,erpnext
+C-Form Applicable,C-Form Toepasselijk,reviewed,erpnext
+C-Form Invoice Detail,C-Form Factuurspecificatie,reviewed,erpnext
+C-form is not applicable for Invoice: {0},C-vorm is niet van toepassing voor de factuur: {0},reviewed,erpnext
 C-Form No,C-vorm nr.,unreviewed,erpnext
 C-Form records,C -Form records,unreviewed,erpnext
 ca-central-1,ca-centrale-1,unreviewed,frappe

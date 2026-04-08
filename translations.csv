@@ -1706,203 +1706,203 @@ Category-wise Asset Value,Categorie-georiënteerde vermogenswaarde,reviewed,erpn
 Caution,Voorzichtigheid,reviewed,erpnext
 CC To,CC aan,reviewed,erpnext
 "CC, BCC & Email Template","CC, BCC &amp; e-mailsjabloon",reviewed,frappe
-Cellphone Number,mobiel nummer,unreviewed,erpnext
-Center,Centreren,unreviewed,frappe
-Central Tax,Centrale belasting,unreviewed,erpnext
-CEO,Directeur,unreviewed,erpnext
-"Certain documents, like an Invoice, should not be changed once final. The final state for such documents is called Submitted. You can restrict which roles can Submit.","Bepaalde documenten, zoals een factuur, dienen niet te worden aangepast als ze een eindstadium hebben bereikt. Het eindstadium van deze documenten heet ingediend. U kunt beperken welke rollen kunnen indienen.",unreviewed,frappe
-Certificate,Certificaat,unreviewed,erpnext
-certificate,certificaat,unreviewed,frappe
-Certificate Details,Certificaatdetails,unreviewed,erpnext
-Certificate Limit,Certificaatlimiet,unreviewed,erpnext
-Certificate No,certificaat nummer,unreviewed,erpnext
-Certificate Required,Certificaat vereist,unreviewed,erpnext
-Certification,certificaat,unreviewed,erpnext
-Certification Application,Certificeringstoepassing,unreviewed,erpnext
-Certification Status,Certificeringsstatus,unreviewed,erpnext
-Certification Validity,Geldigheid van certificering,unreviewed,erpnext
-Certified,gecertificeerde,unreviewed,erpnext
-Certified Consultant,Gecertificeerde consultant,unreviewed,erpnext
-CESS Account,CESS-account,unreviewed,erpnext
-CESS Amount,CESS-bedrag,unreviewed,erpnext
-CGST Account,CGST-account,unreviewed,erpnext
-CGST Amount,CGST-bedrag,unreviewed,erpnext
-Chaining Hash,Hash koppelen,unreviewed,frappe
-Change,Verandering,unreviewed,both
-Change Abbreviation,Afkorting veranderen,unreviewed,erpnext
-Change Amount,Change Bedrag,unreviewed,erpnext
-"Change field properties (hide, readonly, permission etc.)","Wijzig veldeigenschappen (verberg, alleen-lezen, toestemming, etc. )",unreviewed,frappe
-Change In Item,Verandering in item,unreviewed,erpnext
-Change in Item,Wijzigen In Item,unreviewed,erpnext
-Change Item Code,Itemcode wijzigen,unreviewed,erpnext
-Change Label (via Custom Translation),Label wijzigen (via Custom Translation),unreviewed,frappe
+Cellphone Number,mobiel nummer,reviewed,erpnext
+Center,Centreren,reviewed,frappe
+Central Tax,Centrale belasting,reviewed,erpnext
+CEO,CEO,reviewed,erpnext
+"Certain documents, like an Invoice, should not be changed once final. The final state for such documents is called Submitted. You can restrict which roles can Submit.","Bepaalde documenten, zoals een factuur, dienen niet te worden aangepast als ze een eindstadium hebben bereikt. Het eindstadium van deze documenten heet ingediend. U kunt beperken welke rollen kunnen indienen.",reviewed,frappe
+Certificate,Certificaat,reviewed,erpnext
+certificate,certificaat,reviewed,frappe
+Certificate Details,Certificaatdetails,reviewed,erpnext
+Certificate Limit,Certificaatlimiet,reviewed,erpnext
+Certificate No,Certificaatnummer,reviewed,erpnext
+Certificate Required,Certificaat vereist,reviewed,erpnext
+Certification,Certificering,reviewed,erpnext
+Certification Application,Certificeringsaanvraag,reviewed,erpnext
+Certification Status,Certificeringsstatus,reviewed,erpnext
+Certification Validity,Certificeringsgeldigheid,reviewed,erpnext
+Certified,Gecertificeerd,reviewed,erpnext
+Certified Consultant,Gecertificeerde consultant,reviewed,erpnext
+CESS Account,CESS-account,reviewed,erpnext
+CESS Amount,CESS-bedrag,reviewed,erpnext
+CGST Account,CGST-account,reviewed,erpnext
+CGST Amount,CGST-bedrag,reviewed,erpnext
+Chaining Hash,Hash koppelen,reviewed,frappe
+Change,Wijzigen,reviewed,both
+Change Abbreviation,Afkorting wijzigen,reviewed,erpnext
+Change Amount,Wisselgeld,reviewed,erpnext
+"Change field properties (hide, readonly, permission etc.)","Wijzig veldeigenschappen (verberg, alleen-lezen, toestemming, etc. )",reviewed,frappe
+Change In Item,Wijziging in artikel,reviewed,erpnext
+Change in Item,Wijziging in artikel,reviewed,erpnext
+Change Item Code,Itemcode wijzigen,reviewed,erpnext
+Change Label (via Custom Translation),Label wijzigen (via Custom Translation),reviewed,frappe
 Change Log,Wijzigingslog,reviewed,custom
-Change Password,Verander wachtwoord,unreviewed,frappe
-Change Release Date,Wijzigingsdatum wijzigen,unreviewed,erpnext
-Change Template Code,Sjablooncode wijzigen,unreviewed,erpnext
-Change the account type to Receivable or select a different account.,Wijzig het rekeningtype in Te ontvangen of selecteer een andere rekening.,unreviewed,erpnext
-Change the starting / current sequence number of an existing series.,Wijzig het start-/ huidige volgnummer van een bestaande serie.,unreviewed,erpnext
-Change this date manually to setup the next synchronization start date,Wijzig deze datum handmatig om de volgende startdatum van de synchronisatie in te stellen,unreviewed,erpnext
-Change User,Verander gebruiker,unreviewed,frappe
+Change Password,Wachtwoord wijzigen,reviewed,frappe
+Change Release Date,Releasedatum wijzigen,reviewed,erpnext
+Change Template Code,Sjablooncode wijzigen,reviewed,erpnext
+Change the account type to Receivable or select a different account.,Wijzig het rekeningtype in Te ontvangen of selecteer een andere rekening.,reviewed,erpnext
+Change the starting / current sequence number of an existing series.,Wijzig het start-/ huidige volgnummer van een bestaande serie.,reviewed,erpnext
+Change this date manually to setup the next synchronization start date,Wijzig deze datum handmatig om de volgende startdatum van de synchronisatie in te stellen,reviewed,erpnext
+Change User,Gebruiker wijzigen,reviewed,frappe
 Changed,Gewijzigd,reviewed,custom
-changed value of {0},veranderde waarde van {0},unreviewed,frappe
-changed value of {0} {1},veranderde waarde van {0} {1},unreviewed,frappe
-changed values for {0},veranderde waarden voor {0},unreviewed,frappe
-changed values for {0} {1},waarden gewijzigd voor {0} {1},unreviewed,frappe
-Changes in {0},Veranderingen in {0},unreviewed,erpnext
-Changing Customer Group for the selected Customer is not allowed.,Het wijzigen van de klantengroep voor de geselecteerde klant is niet toegestaan.,unreviewed,erpnext
-Channel,Kanaal,unreviewed,frappe
-Chapter,Hoofdstuk,unreviewed,erpnext
-Chapter Head,Hoofdstuk hoofd,unreviewed,erpnext
-Chapter information.,Hoofdstuk informatie.,unreviewed,erpnext
-Chapter Member,Hoofdstuklid,unreviewed,erpnext
-Chapter Members,Hoofdstukleden,unreviewed,erpnext
-chapters/chapter_name\nleave blank automatically set after saving chapter.,hoofdstukken / hoofdstuknaam blanco laten automatisch ingesteld na hoofdstuk opslaan.,unreviewed,erpnext
-Charge of type 'Actual' in row {0} cannot be included in Item Rate,Charge van het type ' Actual ' in rij {0} kan niet worden opgenomen in Item Rate,unreviewed,erpnext
-Chargeable,Aan te rekenen,unreviewed,erpnext
-Charges,kosten,unreviewed,erpnext
-Charges are updated in Purchase Receipt against each item,Kosten worden bijgewerkt in Kwitantie tegen elk item,unreviewed,erpnext
-Charges Incurred,Kosten komen voor,unreviewed,erpnext
-"Charges will be distributed proportionately based on item qty or amount, as per your selection","Kosten zullen worden proportioneel gedistribueerd op basis van punt aantal of de hoeveelheid, als per uw selectie",unreviewed,erpnext
-Chart,tabel,unreviewed,both
-Chart Configuration,Kaartconfiguratie,unreviewed,frappe
-Chart Name,Grafieknaam,unreviewed,frappe
-Chart of Accounts,Rekeningschema,unreviewed,erpnext
-Chart of Accounts Importer,Rekeningschema Importeur,unreviewed,erpnext
-Chart Of Accounts Template,Rekeningschema Template,unreviewed,erpnext
-Chart of Cost Centers,Kostenplaatsenschema,unreviewed,erpnext
-Chart Options,Grafiek opties,unreviewed,frappe
-Chart Preview,Grafiek voorbeeld,unreviewed,erpnext
-Chart Source,Grafiekbron,unreviewed,frappe
-Chart Tree,Grafiekboom,unreviewed,erpnext
-Chart Type,Diagramtype,unreviewed,frappe
-Charts,Grafieken,unreviewed,frappe
-Charts Based On,Grafieken gebaseerd op,unreviewed,erpnext
-Chassis No,chassis Geen,unreviewed,erpnext
-Chat Background,Chat achtergrond,unreviewed,frappe
-Chat Message,Chatbericht,unreviewed,frappe
-Chat messages and other notifications.,Chatberichten en andere meldingen.,unreviewed,frappe
-Chat Profile,Chatprofiel,unreviewed,frappe
-Chat Profile for User {0} exists.,Chatprofiel voor gebruiker {0} bestaat.,unreviewed,frappe
-Chat Room,Chat room,unreviewed,frappe
-Chat Room User,Chat Room-gebruiker,unreviewed,frappe
-Chat Token,Chat token,unreviewed,frappe
-Check,Controleren,unreviewed,frappe
-check,controleren,unreviewed,frappe
-Check all,Alles aanvinken,unreviewed,erpnext
-Check Availability,Beschikbaarheid controleren,unreviewed,erpnext
-"Check columns to select, drag to set order.","Controleer kolommen te selecteren, sleept u om de orde te stellen.",unreviewed,frappe
-Check if Asset requires Preventive Maintenance or Calibration,Controleer of Activum preventief onderhoud of kalibratie vereist,unreviewed,erpnext
-Check if it is a hydroponic unit,Controleer of het een hydrocultuur is,unreviewed,erpnext
-Check if material transfer entry is not required,Controleer of de invoer van materiaaloverdracht niet vereist is,unreviewed,erpnext
-Check In,Check in,unreviewed,erpnext
-Check in (group),Check-in (groeps),unreviewed,erpnext
-Check Out,Uitchecken,unreviewed,erpnext
-Check Request URL,Controleer de aanvraag-URL,unreviewed,frappe
-Check Supplier Invoice Number Uniqueness,Controleer Leverancier Factuurnummer Uniqueness,unreviewed,erpnext
-Check the Error Log for more information: {0},Controleer het foutenlogboek voor meer informatie: {0},unreviewed,frappe
-Check this if the Clinical Procedure is billable and also set the rate.,Controleer dit of de klinische procedure factureerbaar is en stel ook het tarief in.,unreviewed,erpnext
-Check this if the Clinical Procedure utilises consumables. Click,Controleer dit als de klinische procedure verbruiksartikelen gebruikt. Klik,unreviewed,erpnext
-Check this if the Student is residing at the Institute's Hostel.,Controleer dit als de student in het hostel van het Instituut verblijft.,unreviewed,erpnext
-Check this if you are testing your payment using the Sandbox API,Controleer dit als u het testen van uw betaling via de Sandbox API,unreviewed,frappe
-Check this if you don't want users to sign up for an account on your site. Users won't get desk access unless you explicitly provide it.,Vink dit aan als u niet wilt dat gebruikers zich aanmelden voor een account op uw site. Gebruikers krijgen geen bureautoegang tenzij u dit expliciet opgeeft.,unreviewed,frappe
-Check this if you want the Name and Designation of the Employee associated with the User who submits the document to be printed in the Lab Test Report.,"Vink dit aan als u wilt dat de naam en aanduiding van de werknemer die is gekoppeld aan de gebruiker die het document indient, wordt afgedrukt in het laboratoriumtestrapport.",unreviewed,erpnext
-Check this if you want to force the user to select a series before saving. There will be no default if you check this.,Controleer dit als u wilt dwingen de gebruiker om een reeks voor het opslaan te selecteren. Er zal geen standaard zijn als je dit controleren.,unreviewed,frappe
-Check this if you want to show in website,Aanvinken om weer te geven op de website,unreviewed,erpnext
-Check this to disallow fractions. (for Nos),Aanvinken om delingen te verbieden.,unreviewed,erpnext
-Check this to enable a scheduled Daily synchronization routine via scheduler,Vink dit aan om een geplande dagelijkse synchronisatieroutine via de planner in te schakelen,unreviewed,erpnext
-Check this to mark the student as present in case the student is not attending the institute to participate or represent the institute in any event.\n\n,Vink dit aan om de student als aanwezig te markeren voor het geval de student niet naar het instituut gaat om deel te nemen of het instituut in ieder geval te vertegenwoordigen.,unreviewed,erpnext
-Check this to pull emails from your mailbox,Aanvinken om e-mails uit uw mailbox te importeren.,unreviewed,frappe
-Check which Documents are readable by a User,Aanvinken welke documenten leesbaar zijn voor een gebruiker,unreviewed,frappe
-Check-in time cannot be greater than the current time,De inchecktijd kan niet langer zijn dan de huidige tijd,unreviewed,erpnext
-Checking one moment,Het controleren van het ene moment,unreviewed,frappe
-Checking this will automatically create a Sales Invoice whenever an appointment is booked for a Patient.,"Als u dit aanvinkt, wordt automatisch een verkoopfactuur aangemaakt wanneer er een afspraak wordt gemaakt voor een patiënt.",unreviewed,erpnext
-Checking this will create a Sample Collection document  every time you create a Lab Test,"Als u dit aanvinkt, wordt er elke keer dat u een laboratoriumtest maakt een monsterafnamedocument gemaakt",unreviewed,erpnext
-Checking this will create Lab Test(s) specified in the Sales Invoice on submission.,"Als u dit aanvinkt, worden Lab-test (en) aangemaakt die bij indiening in de verkoopfactuur worden vermeld.",unreviewed,erpnext
-Checking this will create new Patients with a Disabled status by default and will only be enabled after invoicing the Registration Fee.,"Als u dit aanvinkt, worden standaard nieuwe Patiënten met een Uitgeschakelde status aangemaakt en wordt deze pas ingeschakeld na facturering van de Registratiekosten.",unreviewed,erpnext
-"Checking this will enable tracking page views for blogs, web pages, etc.","Als u dit aanvinkt, worden paginaweergaven voor blogs, webpagina&#39;s, enz. Bijgehouden.",unreviewed,frappe
-Checking this will hide custom doctypes and reports cards in Links section,"Als u dit aanvinkt, worden aangepaste doctypes en rapportkaarten in de sectie Links verborgen",unreviewed,frappe
-Checking this will publish the page on your website and it'll be visible to everyone.,"Als u dit aanvinkt, wordt de pagina op uw website gepubliceerd en is deze voor iedereen zichtbaar.",unreviewed,frappe
-Checking this will restrict printing and emailing of Lab Test documents unless they have the status as Approved.,"Als u dit aanvinkt, wordt het afdrukken en e-mailen van Lab Test-documenten beperkt, tenzij ze de status Goedgekeurd hebben.",unreviewed,erpnext
-Checking this will show a text area where you can write custom javascript that will run on this page.,"Als u dit aanvinkt, wordt een tekstgebied weergegeven waarin u aangepast javascript kunt schrijven dat op deze pagina wordt uitgevoerd.",unreviewed,frappe
-Checkout,Uitchecken,unreviewed,erpnext
-Checkout Order / Submit Order / New Order,Bestelling afrekenen / Bestelling plaatsen / Nieuwe bestelling,unreviewed,erpnext
-Checkout Settings,Afrekenen Instellingen,unreviewed,erpnext
-Checksum Version,Checksum-versie,unreviewed,frappe
-Chemical,Chemisch,unreviewed,erpnext
-Cheque Date,Cheque Datum,unreviewed,erpnext
-Cheque Height,Cheque Hoogte,unreviewed,erpnext
-Cheque Number,Cheque nummer,unreviewed,erpnext
+changed value of {0},gewijzigde waarde van {0},reviewed,frappe
+changed value of {0} {1},gewijzigde waarde van {0} {1},reviewed,frappe
+changed values for {0},gewijzigde waarden voor {0},reviewed,frappe
+changed values for {0} {1},waarden gewijzigd voor {0} {1},reviewed,frappe
+Changes in {0},Wijzigingen in {0},reviewed,erpnext
+Changing Customer Group for the selected Customer is not allowed.,Het wijzigen van de klantengroep voor de geselecteerde klant is niet toegestaan.,reviewed,erpnext
+Channel,Kanaal,reviewed,frappe
+Chapter,Hoofdstuk,reviewed,erpnext
+Chapter Head,Hoofdstukleider,reviewed,erpnext
+Chapter information.,Hoofdstukinformatie.,reviewed,erpnext
+Chapter Member,Hoofdstuklid,reviewed,erpnext
+Chapter Members,Hoofdstukleden,reviewed,erpnext
+chapters/chapter_name\nleave blank automatically set after saving chapter.,hoofdstukken / hoofdstuknaam blanco laten automatisch ingesteld na hoofdstuk opslaan.,reviewed,erpnext
+Charge of type 'Actual' in row {0} cannot be included in Item Rate,Charge van het type ' Actual ' in rij {0} kan niet worden opgenomen in Item Rate,reviewed,erpnext
+Chargeable,Aan te rekenen,reviewed,erpnext
+Charges,Kosten,reviewed,erpnext
+Charges are updated in Purchase Receipt against each item,Kosten worden bijgewerkt in Kwitantie tegen elk item,reviewed,erpnext
+Charges Incurred,Gemaakte kosten,reviewed,erpnext
+"Charges will be distributed proportionately based on item qty or amount, as per your selection","Kosten zullen worden proportioneel gedistribueerd op basis van punt aantal of de hoeveelheid, als per uw selectie",reviewed,erpnext
+Chart,Grafiek,reviewed,both
+Chart Configuration,Grafiekconfiguratie,reviewed,frappe
+Chart Name,Grafieknaam,reviewed,frappe
+Chart of Accounts,Rekeningschema,reviewed,erpnext
+Chart of Accounts Importer,Rekeningschema-importeur,reviewed,erpnext
+Chart Of Accounts Template,Rekeningschema-template,reviewed,erpnext
+Chart of Cost Centers,Kostenplaatsenschema,reviewed,erpnext
+Chart Options,Grafiekopties,reviewed,frappe
+Chart Preview,Grafiekvoorbeeld,reviewed,erpnext
+Chart Source,Grafiekbron,reviewed,frappe
+Chart Tree,Grafiekboom,reviewed,erpnext
+Chart Type,Grafiektype,reviewed,frappe
+Charts,Grafieken,reviewed,frappe
+Charts Based On,Grafieken gebaseerd op,reviewed,erpnext
+Chassis No,Chassisnr.,reviewed,erpnext
+Chat Background,Chatachtergrond,reviewed,frappe
+Chat Message,Chatbericht,reviewed,frappe
+Chat messages and other notifications.,Chatberichten en andere meldingen.,reviewed,frappe
+Chat Profile,Chatprofiel,reviewed,frappe
+Chat Profile for User {0} exists.,Chatprofiel voor gebruiker {0} bestaat.,reviewed,frappe
+Chat Room,Chatroom,reviewed,frappe
+Chat Room User,Chatroomgebruiker,reviewed,frappe
+Chat Token,Chattoken,reviewed,frappe
+Check,Controleren,reviewed,frappe
+check,controleren,reviewed,frappe
+Check all,Alles aanvinken,reviewed,erpnext
+Check Availability,Beschikbaarheid controleren,reviewed,erpnext
+"Check columns to select, drag to set order.","Vink kolommen aan om te selecteren, sleep om de volgorde in te stellen.",reviewed,frappe
+Check if Asset requires Preventive Maintenance or Calibration,Controleer of Activum preventief onderhoud of kalibratie vereist,reviewed,erpnext
+Check if it is a hydroponic unit,Controleer of het een hydrocultuur is,reviewed,erpnext
+Check if material transfer entry is not required,Controleer of de invoer van materiaaloverdracht niet vereist is,reviewed,erpnext
+Check In,Check in,reviewed,erpnext
+Check in (group),Inchecken (groep),reviewed,erpnext
+Check Out,Uitchecken,reviewed,erpnext
+Check Request URL,Controleer de aanvraag-URL,reviewed,frappe
+Check Supplier Invoice Number Uniqueness,Controleer uniekheid leveranciersfactuurnummer,reviewed,erpnext
+Check the Error Log for more information: {0},Controleer het foutenlogboek voor meer informatie: {0},reviewed,frappe
+Check this if the Clinical Procedure is billable and also set the rate.,Controleer dit of de klinische procedure factureerbaar is en stel ook het tarief in.,reviewed,erpnext
+Check this if the Clinical Procedure utilises consumables. Click,Controleer dit als de klinische procedure verbruiksartikelen gebruikt. Klik,reviewed,erpnext
+Check this if the Student is residing at the Institute's Hostel.,Controleer dit als de student in het hostel van het Instituut verblijft.,reviewed,erpnext
+Check this if you are testing your payment using the Sandbox API,Controleer dit als u het testen van uw betaling via de Sandbox API,reviewed,frappe
+Check this if you don't want users to sign up for an account on your site. Users won't get desk access unless you explicitly provide it.,Vink dit aan als u niet wilt dat gebruikers zich aanmelden voor een account op uw site. Gebruikers krijgen geen bureautoegang tenzij u dit expliciet opgeeft.,reviewed,frappe
+Check this if you want the Name and Designation of the Employee associated with the User who submits the document to be printed in the Lab Test Report.,"Vink dit aan als u wilt dat de naam en aanduiding van de werknemer die is gekoppeld aan de gebruiker die het document indient, wordt afgedrukt in het laboratoriumtestrapport.",reviewed,erpnext
+Check this if you want to force the user to select a series before saving. There will be no default if you check this.,Controleer dit als u wilt dwingen de gebruiker om een reeks voor het opslaan te selecteren. Er zal geen standaard zijn als je dit controleren.,reviewed,frappe
+Check this if you want to show in website,Aanvinken om weer te geven op de website,reviewed,erpnext
+Check this to disallow fractions. (for Nos),Aanvinken om delingen te verbieden.,reviewed,erpnext
+Check this to enable a scheduled Daily synchronization routine via scheduler,Vink dit aan om een geplande dagelijkse synchronisatieroutine via de planner in te schakelen,reviewed,erpnext
+Check this to mark the student as present in case the student is not attending the institute to participate or represent the institute in any event.\n\n,Vink dit aan om de student als aanwezig te markeren voor het geval de student niet naar het instituut gaat om deel te nemen of het instituut in ieder geval te vertegenwoordigen.,reviewed,erpnext
+Check this to pull emails from your mailbox,Aanvinken om e-mails uit uw mailbox te importeren.,reviewed,frappe
+Check which Documents are readable by a User,Aanvinken welke documenten leesbaar zijn voor een gebruiker,reviewed,frappe
+Check-in time cannot be greater than the current time,De inchecktijd kan niet langer zijn dan de huidige tijd,reviewed,erpnext
+Checking one moment,Het controleren van het ene moment,reviewed,frappe
+Checking this will automatically create a Sales Invoice whenever an appointment is booked for a Patient.,"Als u dit aanvinkt, wordt automatisch een verkoopfactuur aangemaakt wanneer er een afspraak wordt gemaakt voor een patiënt.",reviewed,erpnext
+Checking this will create a Sample Collection document  every time you create a Lab Test,"Als u dit aanvinkt, wordt er elke keer dat u een laboratoriumtest maakt een monsterafnamedocument gemaakt",reviewed,erpnext
+Checking this will create Lab Test(s) specified in the Sales Invoice on submission.,"Als u dit aanvinkt, worden Lab-test (en) aangemaakt die bij indiening in de verkoopfactuur worden vermeld.",reviewed,erpnext
+Checking this will create new Patients with a Disabled status by default and will only be enabled after invoicing the Registration Fee.,"Als u dit aanvinkt, worden standaard nieuwe Patiënten met een Uitgeschakelde status aangemaakt en wordt deze pas ingeschakeld na facturering van de Registratiekosten.",reviewed,erpnext
+"Checking this will enable tracking page views for blogs, web pages, etc.","Als u dit aanvinkt, worden paginaweergaven voor blogs, webpagina&#39;s, enz. Bijgehouden.",reviewed,frappe
+Checking this will hide custom doctypes and reports cards in Links section,"Als u dit aanvinkt, worden aangepaste doctypes en rapportkaarten in de sectie Links verborgen",reviewed,frappe
+Checking this will publish the page on your website and it'll be visible to everyone.,"Als u dit aanvinkt, wordt de pagina op uw website gepubliceerd en is deze voor iedereen zichtbaar.",reviewed,frappe
+Checking this will restrict printing and emailing of Lab Test documents unless they have the status as Approved.,"Als u dit aanvinkt, wordt het afdrukken en e-mailen van Lab Test-documenten beperkt, tenzij ze de status Goedgekeurd hebben.",reviewed,erpnext
+Checking this will show a text area where you can write custom javascript that will run on this page.,"Als u dit aanvinkt, wordt een tekstgebied weergegeven waarin u aangepast javascript kunt schrijven dat op deze pagina wordt uitgevoerd.",reviewed,frappe
+Checkout,Uitchecken,reviewed,erpnext
+Checkout Order / Submit Order / New Order,Bestelling afrekenen / Bestelling plaatsen / Nieuwe bestelling,reviewed,erpnext
+Checkout Settings,Afrekenen Instellingen,reviewed,erpnext
+Checksum Version,Checksum-versie,reviewed,frappe
+Chemical,Chemisch,reviewed,erpnext
+Cheque Date,Cheque Datum,reviewed,erpnext
+Cheque Height,Cheque Hoogte,reviewed,erpnext
+Cheque Number,Cheque nummer,reviewed,erpnext
 Cheque Print Template,Cheque afdruksjabloon,reviewed,custom
-Cheque Width,Cheque Breedte,unreviewed,erpnext
-Cheque/Reference Date,Cheque / Reference Data,unreviewed,erpnext
-Cheque/Reference No,Cheque / Reference No,unreviewed,erpnext
-Cheques and Deposits incorrectly cleared,Cheques en Deposito verkeerd ontruimd,unreviewed,erpnext
-Cheques Required,Controles vereist,unreviewed,erpnext
-chevron-left,chevron-links,unreviewed,frappe
-chevron-right,chevron-rechts,unreviewed,frappe
-Chief Complaint,Hoofdklacht,unreviewed,erpnext
-Child Docname,Doc. Kindnaam,unreviewed,erpnext
-Child nodes can be only created under 'Group' type nodes,Child nodes kunnen alleen worden gemaakt op grond van het type nodes &#39;Groep&#39;,unreviewed,erpnext
-Child Table,Kindertafel,unreviewed,frappe
-Child Table Mapping,Kindentabel in kaart brengen,unreviewed,frappe
-Child Tables are shown as a Grid in other DocTypes,Onderliggende tabellen worden als raster weergegeven in andere DocTypes,unreviewed,frappe
-Child Task exists for this Task. You can not delete this Task.,Child Task bestaat voor deze taak. U kunt deze taak niet verwijderen.,unreviewed,erpnext
-Child warehouse exists for this warehouse. You can not delete this warehouse.,Child magazijn bestaat voor dit magazijn. U kunt dit magazijn niet verwijderen.,unreviewed,erpnext
-Choose a corresponding payment,Kies een overeenkomstige betaling,unreviewed,erpnext
-choose an,kies een,unreviewed,frappe
-Choose authentication method to be used by all users,Kies de verificatiemethode die door alle gebruikers wordt gebruikt,unreviewed,frappe
-Choose between FIFO and Moving Average Valuation Methods. Click,Kies tussen FIFO en Voortschrijdend gemiddelde waarderingsmethoden. Klik,unreviewed,erpnext
-Choose Existing Card or create New Card,Kies bestaande kaart of maak een nieuwe kaart,unreviewed,frappe
-choose the 'Naming Series' option.,kies de optie &#39;Naming Series&#39;.,unreviewed,erpnext
-circle-arrow-left,cirkel-pijl-links,unreviewed,frappe
-circle-arrow-right,cirkel-pijl-rechts,unreviewed,frappe
-circle-arrow-up,cirkel-pijl-up,unreviewed,frappe
-Circular Reference Error,Kringverwijzing Error,unreviewed,erpnext
-City/Town,Stad / Plaats,unreviewed,both
-Class / Percentage,Klasse / Percentage,unreviewed,erpnext
-Classification of Customers by region,Indeling van de klanten per regio,unreviewed,erpnext
-Clauses and Conditions,Clausules en voorwaarden,unreviewed,erpnext
-Clay,Klei,unreviewed,erpnext
-Clay Composition (%),Kleisamenstelling (%),unreviewed,erpnext
-Clear,Doorzichtig,unreviewed,both
-clear,wissen,unreviewed,frappe
-Clear Activity Log After,Wis activiteitenlogboek na,unreviewed,frappe
-Clear all roles,Wis alle rollen,unreviewed,frappe
-Clear Cache and Reload,Cache wissen en opnieuw laden,unreviewed,frappe
-Clear Email Queue After,E-mailwachtrij na wissen,unreviewed,frappe
-Clear Error log After,Wis foutenlogboek na,unreviewed,frappe
-Clear Filters,Filters wissen,unreviewed,frappe
-Clear filters,Filters wissen,unreviewed,erpnext
-Clear Table,Wis Tabel,unreviewed,erpnext
-Clear User Permissions,Wis gebruikersrechten,unreviewed,frappe
-Clear values,Duidelijke waarden,unreviewed,erpnext
-Clearance Date,Clearance Datum,unreviewed,erpnext
-Clearance Date not mentioned,Ontruiming Datum niet vermeld,unreviewed,erpnext
-Clearance Date updated,Ontruiming Geactualiseerd,unreviewed,erpnext
-"Clearing end date, as it cannot be in the past for published pages.","Einddatum wissen, omdat dit voor gepubliceerde pagina&#39;s niet in het verleden kan zijn.",unreviewed,frappe
-Click Enter To Add,Klik op Enter om toe te voegen,unreviewed,erpnext
-Click here to post bugs and suggestions,Klik hier om bugs en suggesties te plaatsen,unreviewed,frappe
-Click here to verify,Klik hier om te verifiëren,unreviewed,frappe
-Click on <b>Authorize Google Drive Access</b> to authorize Google Drive Access.,Klik op <b>Google Drive Access autoriseren om Google Drive Access</b> te autoriseren.,unreviewed,frappe
-Click on a file to select it.,Klik op een bestand om het te selecteren.,unreviewed,frappe
-Click On Customize to add your first widget,Klik op Aanpassen om uw eerste widget toe te voegen,unreviewed,frappe
-Click on Import Invoices button once the zip file has been attached to the document. Any errors related to processing will be shown in the Error Log.,Klik op de knop Facturen importeren zodra het zipbestand aan het document is toegevoegd. Alle fouten met betrekking tot verwerking worden weergegeven in het foutenlogboek.,unreviewed,erpnext
-Click on the link below to approve the request,Klik op de onderstaande link om het verzoek goed te keuren,unreviewed,frappe
-Click on the link below to complete your registration and set a new password,Klik op onderstaande link om uw registratie te voltooien en een nieuw wachtwoord in te stellen,unreviewed,frappe
-Click on the link below to download your data,Klik op onderstaande link om uw gegevens te downloaden,unreviewed,frappe
-Click on the link below to verify your email and confirm the appointment,Klik op de onderstaande link om uw e-mail te verifiëren en de afspraak te bevestigen,unreviewed,erpnext
-Click on the link below to verify your request,Klik op onderstaande link om uw aanvraag te verifiëren,unreviewed,frappe
-Click on the lock icon to toggle public/private,Klik op het vergrendelingspictogram om te schakelen tussen openbaar / privé,unreviewed,frappe
-Click on the row for accessing filters.,Klik op de rij voor toegang tot filters.,unreviewed,frappe
-Click on {0} to generate Refresh Token.,Klik op {0} om het vernieuwingstoken te genereren.,unreviewed,frappe
-Click table to edit,Klik op tafel te bewerken,unreviewed,frappe
-Click this button to pull your Sales Order data from Amazon MWS.,Klik op deze knop om uw klantordergegevens uit Amazon MWS te halen.,unreviewed,erpnext
-Click to Set Dynamic Filters,Klik om dynamische filters in te stellen,unreviewed,frappe
-Click to Set Filters,Klik om filters in te stellen,unreviewed,frappe
-Clicked,Geklikt,unreviewed,frappe
-Client,Klant,unreviewed,both
-Client Code,Klantcode,unreviewed,frappe
+Cheque Width,Cheque Breedte,reviewed,erpnext
+Cheque/Reference Date,Cheque / Reference Data,reviewed,erpnext
+Cheque/Reference No,Cheque / Reference No,reviewed,erpnext
+Cheques and Deposits incorrectly cleared,Cheques en Deposito verkeerd ontruimd,reviewed,erpnext
+Cheques Required,Controles vereist,reviewed,erpnext
+chevron-left,chevron-links,reviewed,frappe
+chevron-right,chevron-rechts,reviewed,frappe
+Chief Complaint,Hoofdklacht,reviewed,erpnext
+Child Docname,Doc. Kindnaam,reviewed,erpnext
+Child nodes can be only created under 'Group' type nodes,Child nodes kunnen alleen worden gemaakt op grond van het type nodes &#39;Groep&#39;,reviewed,erpnext
+Child Table,Kindertafel,reviewed,frappe
+Child Table Mapping,Kindentabel in kaart brengen,reviewed,frappe
+Child Tables are shown as a Grid in other DocTypes,Onderliggende tabellen worden als raster weergegeven in andere DocTypes,reviewed,frappe
+Child Task exists for this Task. You can not delete this Task.,Child Task bestaat voor deze taak. U kunt deze taak niet verwijderen.,reviewed,erpnext
+Child warehouse exists for this warehouse. You can not delete this warehouse.,Child magazijn bestaat voor dit magazijn. U kunt dit magazijn niet verwijderen.,reviewed,erpnext
+Choose a corresponding payment,Kies een overeenkomstige betaling,reviewed,erpnext
+choose an,kies een,reviewed,frappe
+Choose authentication method to be used by all users,Kies de verificatiemethode die door alle gebruikers wordt gebruikt,reviewed,frappe
+Choose between FIFO and Moving Average Valuation Methods. Click,Kies tussen FIFO en Voortschrijdend gemiddelde waarderingsmethoden. Klik,reviewed,erpnext
+Choose Existing Card or create New Card,Kies bestaande kaart of maak een nieuwe kaart,reviewed,frappe
+choose the 'Naming Series' option.,kies de optie &#39;Naming Series&#39;.,reviewed,erpnext
+circle-arrow-left,cirkel-pijl-links,reviewed,frappe
+circle-arrow-right,cirkel-pijl-rechts,reviewed,frappe
+circle-arrow-up,cirkel-pijl-up,reviewed,frappe
+Circular Reference Error,Kringverwijzing Error,reviewed,erpnext
+City/Town,Stad / Plaats,reviewed,both
+Class / Percentage,Klasse / Percentage,reviewed,erpnext
+Classification of Customers by region,Indeling van de klanten per regio,reviewed,erpnext
+Clauses and Conditions,Clausules en voorwaarden,reviewed,erpnext
+Clay,Klei,reviewed,erpnext
+Clay Composition (%),Kleisamenstelling (%),reviewed,erpnext
+Clear,Doorzichtig,reviewed,both
+clear,wissen,reviewed,frappe
+Clear Activity Log After,Wis activiteitenlogboek na,reviewed,frappe
+Clear all roles,Wis alle rollen,reviewed,frappe
+Clear Cache and Reload,Cache wissen en opnieuw laden,reviewed,frappe
+Clear Email Queue After,E-mailwachtrij na wissen,reviewed,frappe
+Clear Error log After,Wis foutenlogboek na,reviewed,frappe
+Clear Filters,Filters wissen,reviewed,frappe
+Clear filters,Filters wissen,reviewed,erpnext
+Clear Table,Wis Tabel,reviewed,erpnext
+Clear User Permissions,Wis gebruikersrechten,reviewed,frappe
+Clear values,Duidelijke waarden,reviewed,erpnext
+Clearance Date,Clearance Datum,reviewed,erpnext
+Clearance Date not mentioned,Ontruiming Datum niet vermeld,reviewed,erpnext
+Clearance Date updated,Ontruiming Geactualiseerd,reviewed,erpnext
+"Clearing end date, as it cannot be in the past for published pages.","Einddatum wissen, omdat dit voor gepubliceerde pagina&#39;s niet in het verleden kan zijn.",reviewed,frappe
+Click Enter To Add,Klik op Enter om toe te voegen,reviewed,erpnext
+Click here to post bugs and suggestions,Klik hier om bugs en suggesties te plaatsen,reviewed,frappe
+Click here to verify,Klik hier om te verifiëren,reviewed,frappe
+Click on <b>Authorize Google Drive Access</b> to authorize Google Drive Access.,Klik op <b>Google Drive Access autoriseren om Google Drive Access</b> te autoriseren.,reviewed,frappe
+Click on a file to select it.,Klik op een bestand om het te selecteren.,reviewed,frappe
+Click On Customize to add your first widget,Klik op Aanpassen om uw eerste widget toe te voegen,reviewed,frappe
+Click on Import Invoices button once the zip file has been attached to the document. Any errors related to processing will be shown in the Error Log.,Klik op de knop Facturen importeren zodra het zipbestand aan het document is toegevoegd. Alle fouten met betrekking tot verwerking worden weergegeven in het foutenlogboek.,reviewed,erpnext
+Click on the link below to approve the request,Klik op de onderstaande link om het verzoek goed te keuren,reviewed,frappe
+Click on the link below to complete your registration and set a new password,Klik op onderstaande link om uw registratie te voltooien en een nieuw wachtwoord in te stellen,reviewed,frappe
+Click on the link below to download your data,Klik op onderstaande link om uw gegevens te downloaden,reviewed,frappe
+Click on the link below to verify your email and confirm the appointment,Klik op de onderstaande link om uw e-mail te verifiëren en de afspraak te bevestigen,reviewed,erpnext
+Click on the link below to verify your request,Klik op onderstaande link om uw aanvraag te verifiëren,reviewed,frappe
+Click on the lock icon to toggle public/private,Klik op het vergrendelingspictogram om te schakelen tussen openbaar / privé,reviewed,frappe
+Click on the row for accessing filters.,Klik op de rij voor toegang tot filters.,reviewed,frappe
+Click on {0} to generate Refresh Token.,Klik op {0} om het vernieuwingstoken te genereren.,reviewed,frappe
+Click table to edit,Klik op tafel te bewerken,reviewed,frappe
+Click this button to pull your Sales Order data from Amazon MWS.,Klik op deze knop om uw klantordergegevens uit Amazon MWS te halen.,reviewed,erpnext
+Click to Set Dynamic Filters,Klik om dynamische filters in te stellen,reviewed,frappe
+Click to Set Filters,Klik om filters in te stellen,reviewed,frappe
+Clicked,Geklikt,reviewed,frappe
+Client,Klant,reviewed,both
+Client Code,Klantcode,reviewed,frappe
 Client Credentials,client geloofsbrieven,unreviewed,frappe
 Client ID,klant identificatie,unreviewed,both
 Client Information,Klanteninformatie,unreviewed,frappe

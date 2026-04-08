@@ -4504,202 +4504,202 @@ Higher priority rule will be applied first,Regel met hogere prioriteit wordt eer
 Highlight,Markeer,reviewed,frappe
 "Hint: Include symbols, numbers and capital letters in the password","Hint: Inclusief symbolen, cijfers en hoofdletters in het wachtwoord",reviewed,frappe
 History In Company,Geschiedenis In Bedrijf,reviewed,erpnext
-HLC-APP-.YYYY.-,HLC-APP-.JJJJ.-,unreviewed,erpnext
-HLC-IME-.YYYY.-,HLC-IME-.JJJJ.-,unreviewed,erpnext
-HLC-LAB-.YYYY.-,HLC-LAB-.JJJJ.-,unreviewed,erpnext
-HLC-PRAC-.YYYY.-,HLC-PRAC-.JJJJ.-,unreviewed,erpnext
-HLC-THP-.YYYY.-,HLC-THP-.JJJJ.-,unreviewed,erpnext
-Hold,Houden,unreviewed,erpnext
-Hold Invoice,Factuur vasthouden,unreviewed,erpnext
-Hold Type,Type vasthouden,unreviewed,erpnext
-Holiday,Feestdag,unreviewed,erpnext
-Holiday List,Holiday Lijst,unreviewed,erpnext
+HLC-APP-.YYYY.-,HLC-APP-.YYYY.-,reviewed,erpnext
+HLC-IME-.YYYY.-,HLC-IME-.YYYY.-,reviewed,erpnext
+HLC-LAB-.YYYY.-,HLC-LAB-.YYYY.-,reviewed,erpnext
+HLC-PRAC-.YYYY.-,HLC-PRAC-.YYYY.-,reviewed,erpnext
+HLC-THP-.YYYY.-,HLC-THP-.YYYY.-,reviewed,erpnext
+Hold,Blokkeren,reviewed,erpnext
+Hold Invoice,Factuur vasthouden,reviewed,erpnext
+Hold Type,Type blokkering,reviewed,erpnext
+Holiday,Feestdag,reviewed,erpnext
+Holiday List,Verloflijst,reviewed,erpnext
 Holiday List Assignment,Feestdagenlijst toewijzing,reviewed,custom
-Holiday List Name,Holiday Lijst Naam,unreviewed,erpnext
-Holiday Management,Vakantie Management,unreviewed,erpnext
-Holidays,Feestdagen,unreviewed,erpnext
-Home,Thuis,unreviewed,both
-home,huis,unreviewed,frappe
-Home Address,Thuisadres,unreviewed,erpnext
-Home Page is Products,Startpagina is Producten,unreviewed,erpnext
-Home Settings,Home instellingen,unreviewed,frappe
-"Home, Work, etc.","Thuis, werk, etc.",unreviewed,erpnext
-Home/Test Folder 1,Home / Test Folder 1,unreviewed,frappe
-Home/Test Folder 1/Test Folder 3,Folder home / Test 1 / Test Folder 3,unreviewed,frappe
-Home/Test Folder 2,Home / Test Folder 2,unreviewed,frappe
-Homepage,Startpagina,unreviewed,erpnext
-Homepage Section,Homepage sectie,unreviewed,erpnext
-Homepage Section Card,Homepage Sectiekaart,unreviewed,erpnext
-Homepage Slideshow,Homepage diavoorstelling,unreviewed,erpnext
-HOOK-.####,HAAK-.####,unreviewed,frappe
-Hospital,Ziekenhuis,unreviewed,erpnext
-Host,gastheer,unreviewed,frappe
-Hostname,hostname,unreviewed,frappe
-Hotel Reservation User,Hotelreservering Gebruiker,unreviewed,erpnext
-Hotel Room,Hotelkamer,unreviewed,erpnext
-Hotel Room Occupancy,Hotel Kamer bezetting,unreviewed,erpnext
-Hotel Room Package,Hotelkamerarrangement,unreviewed,erpnext
-Hotel Room Pricing,Prijzen van hotelkamers,unreviewed,erpnext
-Hotel Room Pricing Item,Prijsbepaling Hotelkamer,unreviewed,erpnext
-Hotel Room Pricing Package,Prijsarrangement hotelkamer,unreviewed,erpnext
-Hotel Room Reservation,Hotelkamerreservering,unreviewed,erpnext
-Hotel Room Reservation Item,Hotelkamerreserveringsitem,unreviewed,erpnext
-Hotel Room Type,Hotel kamertype,unreviewed,erpnext
-Hotel Rooms of type {0} are unavailable on {1},Hotelkamers van het type {0} zijn niet beschikbaar op {1},unreviewed,erpnext
-Hotel Settings,Hotelinstellingen,unreviewed,erpnext
-Hotels,hotels,unreviewed,erpnext
-Hour,uur,unreviewed,erpnext
-Hour Rate,Uurtarief,unreviewed,erpnext
-Hourly,ieder uur,unreviewed,both
-Hourly comment limit reached for: {0},Uurlimiet voor reacties bereikt voor: {0},unreviewed,frappe
-Hourly Long,Elk uur lang,unreviewed,frappe
-Hourly rate limit for generating password reset links,Uurtarieflimiet voor het genereren van links voor het opnieuw instellen van wachtwoorden,unreviewed,frappe
-Hours,uren,unreviewed,erpnext
-hours,uren,unreviewed,erpnext
-House Name,Huis naam,unreviewed,erpnext
-How frequently?,Hoe vaak?,unreviewed,erpnext
-How often should Project and Company be updated based on Sales Transactions?,Hoe vaak moeten project en bedrijf worden bijgewerkt op basis van verkooptransacties?,unreviewed,erpnext
-How Pricing Rule is applied?,Hoe wordt de Prijsregel toegepast?,unreviewed,erpnext
-"How should this currency be formatted? If not set, will use system defaults","Hoe moet deze valuta worden geformatteerd? Indien niet ingesteld, dan zal gebruik gemaakt wroden van de systeem standaard",unreviewed,frappe
-HR User,HR Gebruiker,unreviewed,erpnext
-HR-EMP-,HR-EMP,unreviewed,erpnext
-HRA Component,HRA-component,unreviewed,erpnext
-HRA Settings,HRA-instellingen,unreviewed,erpnext
-Hrs,hrs,unreviewed,erpnext
-HSN Code,HSN-code,unreviewed,erpnext
-HSN-wise-summary of outward supplies,HSN-wise-samenvatting van uitgaande benodigdheden,unreviewed,erpnext
-HSN/SAC,HSN / SAC,unreviewed,erpnext
-HTML / Banner that will show on the top of product list.,HTML / Banner dat zal laten zien op de bovenkant van het product lijst.,unreviewed,erpnext
-HTML Editor,HTML-editor,unreviewed,frappe
-HTML for header section. Optional,HTML voor header sectie . facultatief,unreviewed,frappe
-"HTML Header, Robots and Redirects","HTML-koptekst, robots en omleidingen",unreviewed,frappe
-HTML Page,HTML-pagina,unreviewed,frappe
-HTML with jinja support,HTML met jinja-ondersteuning,unreviewed,frappe
-hub,naaf,unreviewed,frappe
-Hub Category,Hubcategorie,unreviewed,erpnext
-Hub Category to Publish,Hubcategorie om te publiceren,unreviewed,erpnext
-Hub Password,Hub wachtwoord,unreviewed,erpnext
-Hub Publishing Details,Hub publicatie details,unreviewed,erpnext
-Hub Seller Name,Hub verkopernaam,unreviewed,erpnext
-Hub Tracked Item,Bijgehouden post,unreviewed,erpnext
-Hub User,Hub-gebruiker,unreviewed,erpnext
-Hub Users,Hub-gebruikers,unreviewed,erpnext
-I,ik,unreviewed,erpnext
-I found these:,Ik vond deze:,unreviewed,frappe
-IBAN is not valid,IBAN is niet geldig,unreviewed,erpnext
-Icon,Icoon,unreviewed,frappe
-icon,pictogram,unreviewed,frappe
-Icon will appear on the button,Pictogram verschijnt op de knop,unreviewed,frappe
-Id,ID kaart,unreviewed,erpnext
-ID (name) of the entity whose property is to be set,ID (naam) van de entiteit waarvan de eigenschap moet worden ingesteld,unreviewed,frappe
+Holiday List Name,Naam verloflijst,reviewed,erpnext
+Holiday Management,Verlofbeheer,reviewed,erpnext
+Holidays,Verlofdagen,reviewed,erpnext
+Home,Startpagina,reviewed,both
+home,startpagina,reviewed,frappe
+Home Address,Thuisadres,reviewed,erpnext
+Home Page is Products,Startpagina is Producten,reviewed,erpnext
+Home Settings,Startpagina-instellingen,reviewed,frappe
+"Home, Work, etc.","Thuis, werk, etc.",reviewed,erpnext
+Home/Test Folder 1,Home / Test Folder 1,reviewed,frappe
+Home/Test Folder 1/Test Folder 3,Folder home / Test 1 / Test Folder 3,reviewed,frappe
+Home/Test Folder 2,Home / Test Folder 2,reviewed,frappe
+Homepage,Startpagina,reviewed,erpnext
+Homepage Section,Homepage sectie,reviewed,erpnext
+Homepage Section Card,Homepage Sectiekaart,reviewed,erpnext
+Homepage Slideshow,Homepage diavoorstelling,reviewed,erpnext
+HOOK-.####,HOOK-.####,reviewed,frappe
+Hospital,Ziekenhuis,reviewed,erpnext
+Host,Host,reviewed,frappe
+Hostname,hostname,reviewed,frappe
+Hotel Reservation User,Hotelreservering Gebruiker,reviewed,erpnext
+Hotel Room,Hotelkamer,reviewed,erpnext
+Hotel Room Occupancy,Hotelkamerbezetting,reviewed,erpnext
+Hotel Room Package,Hotelkamerarrangement,reviewed,erpnext
+Hotel Room Pricing,Prijzen van hotelkamers,reviewed,erpnext
+Hotel Room Pricing Item,Prijsbepaling Hotelkamer,reviewed,erpnext
+Hotel Room Pricing Package,Prijsarrangement hotelkamer,reviewed,erpnext
+Hotel Room Reservation,Hotelkamerreservering,reviewed,erpnext
+Hotel Room Reservation Item,Hotelkamerreserveringsitem,reviewed,erpnext
+Hotel Room Type,Hotelkamertype,reviewed,erpnext
+Hotel Rooms of type {0} are unavailable on {1},Hotelkamers van het type {0} zijn niet beschikbaar op {1},reviewed,erpnext
+Hotel Settings,Hotelinstellingen,reviewed,erpnext
+Hotels,hotels,reviewed,erpnext
+Hour,uur,reviewed,erpnext
+Hour Rate,Uurtarief,reviewed,erpnext
+Hourly,Per uur,reviewed,both
+Hourly comment limit reached for: {0},Uurlimiet voor reacties bereikt voor: {0},reviewed,frappe
+Hourly Long,Elk uur (lang),reviewed,frappe
+Hourly rate limit for generating password reset links,Limiet per uur voor het genereren van links voor wachtwoordherstel,reviewed,frappe
+Hours,uren,reviewed,erpnext
+hours,uren,reviewed,erpnext
+House Name,Huisnaam,reviewed,erpnext
+How frequently?,Hoe vaak?,reviewed,erpnext
+How often should Project and Company be updated based on Sales Transactions?,Hoe vaak moeten project en bedrijf worden bijgewerkt op basis van verkooptransacties?,reviewed,erpnext
+How Pricing Rule is applied?,Hoe wordt de Prijsregel toegepast?,reviewed,erpnext
+"How should this currency be formatted? If not set, will use system defaults","Hoe moet deze valuta worden geformatteerd? Indien niet ingesteld, dan zal gebruik gemaakt wroden van de systeem standaard",reviewed,frappe
+HR User,HR Gebruiker,reviewed,erpnext
+HR-EMP-,HR-EMP,reviewed,erpnext
+HRA Component,HRA-component,reviewed,erpnext
+HRA Settings,HRA-instellingen,reviewed,erpnext
+Hrs,Uur,reviewed,erpnext
+HSN Code,HSN-code,reviewed,erpnext
+HSN-wise-summary of outward supplies,HSN-wise-samenvatting van uitgaande benodigdheden,reviewed,erpnext
+HSN/SAC,HSN / SAC,reviewed,erpnext
+HTML / Banner that will show on the top of product list.,HTML / Banner dat zal laten zien op de bovenkant van het product lijst.,reviewed,erpnext
+HTML Editor,HTML-editor,reviewed,frappe
+HTML for header section. Optional,HTML voor koptekstsectie. Optioneel,reviewed,frappe
+"HTML Header, Robots and Redirects","HTML-koptekst, robots en omleidingen",reviewed,frappe
+HTML Page,HTML-pagina,reviewed,frappe
+HTML with jinja support,HTML met jinja-ondersteuning,reviewed,frappe
+hub,Hub,reviewed,frappe
+Hub Category,Hubcategorie,reviewed,erpnext
+Hub Category to Publish,Hubcategorie om te publiceren,reviewed,erpnext
+Hub Password,Hub-wachtwoord,reviewed,erpnext
+Hub Publishing Details,Hub-publicatiegegevens,reviewed,erpnext
+Hub Seller Name,Hub verkopernaam,reviewed,erpnext
+Hub Tracked Item,Hub-gevolgd artikel,reviewed,erpnext
+Hub User,Hub-gebruiker,reviewed,erpnext
+Hub Users,Hub-gebruikers,reviewed,erpnext
+I,Ik,reviewed,erpnext
+I found these:,Ik vond deze:,reviewed,frappe
+IBAN is not valid,IBAN is niet geldig,reviewed,erpnext
+Icon,Icoon,reviewed,frappe
+icon,pictogram,reviewed,frappe
+Icon will appear on the button,Pictogram verschijnt op de knop,reviewed,frappe
+Id,ID,reviewed,erpnext
+ID (name) of the entity whose property is to be set,ID (naam) van de entiteit waarvan de eigenschap moet worden ingesteld,reviewed,frappe
 Identification Document Type,Identiteitsdocument type,reviewed,custom
-Identification of the package for the delivery (for print),Identificatie van het pakket voor de levering (voor afdrukken),unreviewed,erpnext
-Identifying Decision Makers,Besluitvormers identificeren,unreviewed,erpnext
-Identity Details,Identiteitsdetails,unreviewed,frappe
-Idx,idx,unreviewed,frappe
-"If ""Link Customer to Patient"" is checked in Healthcare Settings and an existing Customer is not selected then, a Customer will be created for this Patient for recording transactions in Accounts module.","Als &quot;Koppel klant aan patiënt&quot; is aangevinkt in Gezondheidszorginstellingen en een bestaande klant is niet geselecteerd, dan wordt er een klant aangemaakt voor deze patiënt voor het registreren van transacties in de module Accounts.",unreviewed,erpnext
-"If ""Months"" is selected, a fixed amount will be booked as deferred revenue or expense for each month irrespective of the number of days in a month. It will be prorated if deferred revenue or expense is not booked for an entire month","Als &quot;Maanden&quot; is geselecteerd, wordt een vast bedrag geboekt als uitgestelde inkomsten of uitgaven voor elke maand, ongeacht het aantal dagen in een maand. Het wordt pro rata berekend als uitgestelde inkomsten of uitgaven niet voor een hele maand worden geboekt",unreviewed,erpnext
-"If a Role does not have access at Level 0, then higher levels are meaningless.","Als een Rol geen toegang heeft op niveau 0, dan zijn de hogere niveaus zinloos.",unreviewed,frappe
-"If Apply Strict User Permission is checked and User Permission is defined for a DocType for a User, then all the documents where value of the link is blank, will not be shown to that User","Als Strikt Gebruiker Toestemming is aangevinkt en Gebruikers Toestemming is gedefinieerd voor een DocType voor een gebruiker, worden alle documenten waar de waarde van de link leeg is, niet getoond aan die gebruiker",unreviewed,frappe
-"If Auto Opt In is checked, then the customers will be automatically linked with the concerned Loyalty Program (on save)","Als Auto Opt In is aangevinkt, worden de klanten automatisch gekoppeld aan het betreffende loyaliteitsprogramma (bij opslaan)",unreviewed,erpnext
-"If blank, parent Warehouse Account or company default will be considered in transactions","Als dit leeg is, wordt bij transacties rekening gehouden met de bovenliggende magazijnrekening of het standaardbedrijf",unreviewed,erpnext
-If Checked workflow status will not override status in list view,Als Gecontroleerd workflow-status niet status lijstweergave overschrijft,unreviewed,frappe
-"If checked, a customer will be created for every Patient. Patient Invoices will be created against this Customer. You can also select existing Customer while creating a Patient. This field is checked by default.","Indien aangevinkt, wordt er voor elke patiënt een klant aangemaakt. Patiëntfacturen worden voor deze klant aangemaakt. U kunt ook een bestaande klant selecteren terwijl u een patiënt aanmaakt. Dit veld is standaard aangevinkt.",unreviewed,erpnext
-"If checked, a customer will be created, mapped to Patient.\nPatient Invoices will be created against this Customer. You can also select existing Customer while creating Patient.","Als gecontroleerd, wordt een klant aangemaakt, aangepast aan Patiënt. Patiëntfacturen worden aangemaakt tegen deze klant. U kunt ook de bestaande klant selecteren bij het maken van een patiënt.",unreviewed,erpnext
-"If checked, all other workflows become inactive.","Indien aangevinkt, worden alle andere workflows inactief.",unreviewed,frappe
-"If checked, the Home page will be the default Item Group for the website","Indien aangevinkt, zal de startpagina de standaard Item Group voor de website",unreviewed,erpnext
-"If checked, the tax amount will be considered as already included in the Print Rate / Print Amount","Indien aangevinkt, zal de BTW-bedrag worden beschouwd als reeds in de Print Tarief / Print Bedrag",unreviewed,erpnext
-"If checked, this field will be not overwritten based on Fetch From if a value already exists.","Indien ingeschakeld, wordt dit veld niet overschreven op basis van Ophalen van als er al een waarde bestaat.",unreviewed,frappe
-"If checked, users will not see the Confirm Access dialog.","Indien ingeschakeld, kunnen gebruikers niet zien het dialoogvenster Bevestigen Access.",unreviewed,frappe
-If different than customer address,Indien anders dan klantadres,unreviewed,erpnext
-"If disable, 'In Words' field will not be visible in any transaction","Als uitschakelen, &#39;In de woorden&#39; veld niet zichtbaar in elke transactie",unreviewed,erpnext
-"If disable, 'Rounded Total' field will not be visible in any transaction","Indien uitgevinkt, zal het 'Afgerond Totaal' veld niet zichtbaar zijn in een transactie",unreviewed,erpnext
-"If disabled, this role will be removed from all users.","Indien uitgeschakeld, zal deze rol van alle gebruikers worden verwijderd.",unreviewed,frappe
-"If enabled,  user can login from any IP Address using Two Factor Auth, this can also be set for all users in System Settings","Indien ingeschakeld, kan de gebruiker zich aanmelden vanaf elk IP-adres met behulp van Two Factor Auth, dit kan ook worden ingesteld voor alle gebruikers in Systeeminstellingen",unreviewed,frappe
-"If enabled, all users can login from any IP Address using Two Factor Auth. This can also be set only for specific user(s) in User Page","Indien ingeschakeld, kunnen alle gebruikers inloggen vanaf elk IP-adres met behulp van Two Factor Auth. Dit kan ook alleen voor specifieke gebruiker (s) in de gebruikerspagina worden ingesteld",unreviewed,frappe
-"If enabled, changes to the document are tracked and shown in timeline","Indien ingeschakeld, worden wijzigingen in het document bijgehouden en weergegeven in de tijdlijn",unreviewed,frappe
-"If enabled, document views are tracked, this can happen multiple times","Indien ingeschakeld, worden documentweergaven bijgehouden, dit kan meerdere keren gebeuren",unreviewed,frappe
-"If enabled, field Academic Term will be Mandatory in Program Enrollment Tool.","Indien ingeschakeld, is de veld Academic Term verplicht in het programma-inschrijvingsinstrument.",unreviewed,erpnext
-"If enabled, system will create the work order for the exploded items against which BOM is available.","Indien ingeschakeld, maakt het systeem de werkorder voor de geëxplodeerde items waartegen BOM beschikbaar is.",unreviewed,erpnext
-"If enabled, the document is marked as seen, the first time a user opens it","Indien ingeschakeld, wordt het document gemarkeerd als zichtbaar, de eerste keer dat een gebruiker het opent",unreviewed,frappe
-"If enabled, the notification will show up in the notifications dropdown on the top right corner of the navigation bar.","Indien ingeschakeld, wordt de melding weergegeven in de vervolgkeuzelijst met meldingen in de rechterbovenhoek van de navigatiebalk.",unreviewed,frappe
-"If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong.","Indien ingeschakeld, wordt de wachtwoordsterkte afgedwongen op basis van de minimum wachtwoordcijferwaarde. Een waarde van 2 is medium sterk en 4 is zeer sterk.",unreviewed,frappe
-"If enabled, the system will post accounting entries for inventory automatically","Indien ingeschakeld, boekt het systeem automatisch boekhoudkundige posten voor voorraad",unreviewed,erpnext
-"If enabled, users who login from Restricted IP Address, won't be prompted for Two Factor Auth","Indien ingeschakeld, zullen gebruikers die zich aanmelden vanuit een beperkt IP-adres, niet om twee factoren worden gevraagd",unreviewed,frappe
-"If enabled, users will be notified every time they login. If not enabled, users will only be notified once.","Indien ingeschakeld, worden gebruikers elke keer in kennis gesteld wanneer ze inloggen. Indien niet ingeschakeld, worden gebruikers slechts een keer in kennis gesteld.",unreviewed,frappe
-"If Icon is set, it will be shown instead of Label","Als Icon is ingesteld, wordt dit weergegeven in plaats van Label",unreviewed,frappe
-If Income or Expense,Indien Inkomsten (baten) of Uitgaven (lasten),unreviewed,erpnext
-"If item is a variant of another item then description, image, pricing, taxes etc will be set from the template unless explicitly specified","Als artikel is een variant van een ander item dan beschrijving, afbeelding, prijzen, belastingen etc zal worden ingesteld van de sjabloon, tenzij expliciet vermeld",unreviewed,erpnext
-If more than one package of the same type (for print),Als er meer dan een pakket van hetzelfde type (voor afdrukken),unreviewed,erpnext
-"If multiple Pricing Rules continue to prevail, users are asked to set Priority manually to resolve conflict.","Als er meerdere prijzen Regels blijven die gelden, worden gebruikers gevraagd om Prioriteit handmatig instellen om conflicten op te lossen.",unreviewed,erpnext
-If non standard port (e.g. 587),Als niet-standaard poort (bijv. 587),unreviewed,frappe
-"If non standard port (e.g. 587). If on Google Cloud, try port 2525.",Als niet-standaardpoort (bijvoorbeeld 587). Als u in Google Cloud poort 2525 probeert.,unreviewed,frappe
-"If non-standard port (e.g. POP3: 995/110, IMAP: 993/143)","Indien niet-standaard poort (bijv. POP3: 995/110, IMAP: 993/143)",unreviewed,frappe
-"If not set, the currency precision will depend on number format","Indien niet ingesteld, zal de valutaprecisie afhangen van het nummerformaat",unreviewed,frappe
-"If not, you can Cancel / Submit this entry","Als dit niet het geval is, kunt u dit item annuleren / indienen",unreviewed,erpnext
-If Owner,Als de eigenaar,unreviewed,frappe
-"If selected Pricing Rule is made for 'Rate', it will overwrite Price List. Pricing Rule rate is the final rate, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.","Als de geselecteerde prijsbepalingsregel is gemaakt voor &#39;Tarief&#39;, overschrijft deze de prijslijst. Prijzen Regel tarief is het laatste tarief, dus geen verdere korting moet worden toegepast. Daarom wordt het bij transacties zoals klantorder, inkooporder, enz. Opgehaald in het veld &#39;Tarief&#39; in plaats van het veld &#39;Prijslijstsnelheid&#39;.",unreviewed,erpnext
-"If Shopify does not have a customer in the order, then while syncing the orders, the system will consider the default customer for the order","Als Shopify geen klant in de bestelling heeft, zal het systeem tijdens het synchroniseren van de bestellingen rekening houden met de standaardklant voor de bestelling",unreviewed,erpnext
-If subcontracted to a vendor,Als uitbesteed aan een leverancier,unreviewed,erpnext
-"If the account is frozen, entries are allowed to restricted users.","Als de rekening is bevroren, kunnen boekingen alleen door daartoe bevoegde gebruikers gedaan worden.",unreviewed,erpnext
-If the condition is satisfied user will be rewarded with the points. eg. doc.status == 'Closed'\n,"Als aan de voorwaarde is voldaan, wordt de gebruiker beloond met de punten. bv. doc.status == &#39;Gesloten&#39;",unreviewed,frappe
-If the document has different field names on the Producer and Consumer's end check this and set up the Mapping,"Als het document verschillende veldnamen heeft aan het einde van de producent en de consument, vink dit aan en stel de toewijzing in",unreviewed,frappe
-"If the item is transacting as a Zero Valuation Rate item in this entry, please enable 'Allow Zero Valuation Rate' in the {0} Item table.","Als het item een transactie uitvoert als een item met een nulwaarderingstarief in dit item, schakel dan &#39;Nulwaarderingspercentage toestaan&#39; in de tabel {0} Item in.",unreviewed,erpnext
-"If the user has any role checked, then the user becomes a ""System User"". ""System User"" has access to the desktop","Als de gebruiker een rol gecontroleerd heeft, dan is de gebruiker wordt een &quot;Systeem&quot;. &quot;Systeem&quot; heeft toegang tot de desktop",unreviewed,frappe
-"If there is no assigned timeslot, then communication will be handled by this group","Als er geen tijdslot is toegewezen, wordt de communicatie door deze groep afgehandeld",unreviewed,erpnext
-"If these instructions where not helpful, please add in your suggestions on GitHub Issues.","Als deze aanwijzingen waar niet behulpzaam , gelieve toe te voegen in uw suggesties op GitHub Issues .",unreviewed,frappe
-"If this checkbox is checked, paid amount will be splitted and allocated as per the amounts in payment schedule against each payment term","Als dit selectievakje is aangevinkt, wordt het betaalde bedrag opgesplitst en toegewezen volgens de bedragen in het betalingsschema voor elke betalingstermijn",unreviewed,erpnext
-"If this Healthcare Practitioner also works for the In-Patient Department, set the inpatient visit charge for this Practitioner.","Als deze zorgverlener ook voor de klinische afdeling werkt, stelt u de kosten voor ziekenhuisbezoek voor deze behandelaar in.",unreviewed,erpnext
-"If this Healthcare Practitioner works for the In-Patient Department, create a service item for Inpatient Visits.","Als deze zorgverlener voor de klinische afdeling werkt, maakt u een service-item voor intramurale bezoeken.",unreviewed,erpnext
-If this is checked subsequent new invoices will be created on calendar  month and quarter start dates irrespective of current invoice start date,"Als dit is aangevinkt, worden er nieuwe facturen aangemaakt op de startdatums van de kalendermaand en het kwartaal, ongeacht de huidige startdatum van de factuur",unreviewed,erpnext
-If this is checked the documents will have the same name as they have on the Event Producer's site,"Als dit is aangevinkt, hebben de documenten dezelfde naam als op de site van de Evenementproducent",unreviewed,frappe
-"If this is checked, rows with valid data will be imported and invalid rows will be dumped into a new file for you to import later.","Als dit is aangevinkt, worden rijen met geldige gegevens geïmporteerd en worden ongeldige rijen in een nieuw bestand gedumpt om later te importeren.",unreviewed,frappe
-If this is not checked the loan by default will be considered as a Demand Loan,"Als dit niet is aangevinkt, wordt de lening standaard beschouwd als een opeisbare lening",unreviewed,erpnext
-If this is unchecked Journal Entries will be saved in a Draft state and will have to be submitted manually,"Als dit niet is aangevinkt, worden journaalboekingen opgeslagen in de status Concept en moeten ze handmatig worden ingediend",unreviewed,erpnext
-"If this is unchecked, direct GL entries will be created to book deferred revenue or expense","Als dit niet is aangevinkt, worden directe grootboekboekingen gecreëerd om uitgestelde inkomsten of uitgaven te boeken",unreviewed,erpnext
-"If this item has variants, then it cannot be selected in sales orders etc.","Als dit item heeft varianten, dan kan het niet worden geselecteerd in verkooporders etc.",unreviewed,erpnext
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master.","Als deze optie is geconfigureerd &#39;Ja&#39;, zal ERPNext u verhinderen een inkoopfactuur of ontvangstbewijs te creëren zonder eerst een inkooporder te creëren. Deze configuratie kan voor een bepaalde leverancier worden overschreven door het aankruisvak &#39;Aanmaken inkoopfactuur zonder inkooporder toestaan&#39; in het leveranciersmodel in te schakelen.",unreviewed,erpnext
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master.","Als deze optie &#39;Ja&#39; is geconfigureerd, zal ERPNext u verhinderen een inkoopfactuur aan te maken zonder eerst een inkoopbewijs te creëren. Deze configuratie kan voor een bepaalde leverancier worden overschreven door het aankruisvak &#39;Aanmaken inkoopfactuur zonder inkoopontvangst toestaan&#39; in de leveranciersstam in te schakelen.",unreviewed,erpnext
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Sales Invoice or Delivery Note without creating a Sales Order first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Sales Order' checkbox in the Customer master.","Als deze optie &#39;Ja&#39; is geconfigureerd, zal ERPNext u verhinderen een verkoopfactuur of leveringsnota aan te maken zonder eerst een verkooporder te creëren. Deze configuratie kan voor een bepaalde klant worden overschreven door het selectievakje &#39;Aanmaken verkoopfactuur zonder verkooporder toestaan&#39; in het stamhoofd Klant in te schakelen.",unreviewed,erpnext
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Sales Invoice without creating a Delivery Note first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Delivery Note' checkbox in the Customer master.","Als deze optie op &#39;Ja&#39; staat, zal ERPNext u verhinderen een verkoopfactuur aan te maken zonder eerst een leveringsnota te creëren. Deze configuratie kan voor een bepaalde klant worden overschreven door het selectievakje &#39;Aanmaken verkoopfactuur zonder leveringsnota toestaan&#39; in het stamhoofd Klant in te schakelen.",unreviewed,erpnext
-"If ticked, multiple materials can be used for a single Work Order. This is useful if one or more time consuming products are being manufactured.","Indien aangevinkt, kunnen meerdere materialen worden gebruikt voor één werkopdracht. Dit is handig als er een of meer tijdrovende producten worden vervaardigd.",unreviewed,erpnext
-"If ticked, the BOM cost will be automatically updated based on Valuation Rate / Price List Rate / last purchase rate of raw materials.","Indien aangevinkt, worden de stuklijstkosten automatisch bijgewerkt op basis van het taxatietarief / prijslijsttarief / laatste aankooptarief van grondstoffen.",unreviewed,erpnext
-"If two or more Pricing Rules are found based on the above conditions, Priority is applied. Priority is a number between 0 to 20 while default value is zero (blank). Higher number means it will take precedence if there are multiple Pricing Rules with same conditions.","Als twee of meer Pricing Regels zijn gevonden op basis van de bovenstaande voorwaarden, wordt prioriteit toegepast. Prioriteit is een getal tussen 0 en 20, terwijl standaardwaarde nul (blanco). Hoger aantal betekent dat het voorrang krijgen als er meerdere prijzen Regels met dezelfde voorwaarden.",unreviewed,erpnext
-"If unchecked, the item will not be available in Sales Invoices for billing but can be used in group test creation.","Als dit niet is aangevinkt, is het item niet beschikbaar in verkoopfacturen voor facturering, maar kan het worden gebruikt bij het maken van groepstests.",unreviewed,erpnext
-"If unlimited expiry for the Loyalty Points, keep the Expiry Duration empty or 0.","Als de Loyalty Points onbeperkt verlopen, houd dan de vervalduur leeg of 0.",unreviewed,erpnext
-If user is the owner,Als de gebruiker is de eigenaar,unreviewed,frappe
-"If you are updating, please select ""Overwrite"" else existing rows will not be deleted.","Als u wilt bijwerken, selecteert u ""Overschrijven"" anders bestaande rijen worden niet verwijderd.",unreviewed,frappe
-If you are updating/overwriting already created records.,Als u reeds gemaakte records bijwerkt / overschrijft.,unreviewed,frappe
-"If you are uploading new records, ""Naming Series"" becomes mandatory, if present.","Als u het uploaden van nieuwe records, ""Naming Series"" verplicht wordt, indien aanwezig.",unreviewed,frappe
-"If you are uploading new records, leave the ""name"" (ID) column blank.","Als u het uploaden van nieuwe records, laat de ""naam"" (ID) kolom leeg.",unreviewed,frappe
-If you don't want to create any new records while updating the older records.,Als u geen nieuwe records wilt maken tijdens het bijwerken van de oudere records.,unreviewed,frappe
-"If you have any questions, please get back to us.","Mocht u nog vragen hebben, dan kunt u weer terug naar ons.",unreviewed,erpnext
-"If you have created a standard template in Sales Taxes and Charges Template, select one and click on the button below.","Als u een standaard template in Sales en -heffingen Template hebt gemaakt, selecteert u een en klik op de knop hieronder.",unreviewed,erpnext
-"If you set this, this Item will come in a drop-down under the selected parent.","Als u dit instelt , zal deze post in een drop -down onder de gekozen basismotor .",unreviewed,frappe
-"If you still want to proceed, please enable {0}.",Schakel {0} in als u toch wilt doorgaan.,unreviewed,erpnext
-"If you think this is unauthorized, please change the Administrator password.","Als u denkt dat dit niet is toegestaan, wijzigt u het beheerderswachtwoord.",unreviewed,frappe
-"If you want to send SMS alert on Patient Registration, you can enable this option. Similary, you can set up Out Patient SMS alerts for other functionalities in this section. Click","Als u een sms-waarschuwing wilt verzenden bij patiëntregistratie, kunt u deze optie inschakelen. Op dezelfde manier kunt u in dit gedeelte SMS-waarschuwingen voor Out Patient instellen voor andere functies. Klik",unreviewed,erpnext
-"If you want to track Payroll and other HRMS operations for a Practitoner, create an Employee and link it here.","Als u de salarisadministratie en andere HRMS-bewerkingen voor een beoefenaar wilt volgen, maakt u een medewerker aan en koppelt u deze hier.",unreviewed,erpnext
-"If you wish to override default accounts settings and configure the Income and Receivable accounts for Healthcare, you can do so here.","Als u de standaardaccountinstellingen wilt overschrijven en de inkomsten- en debiteurenrekeningen voor de gezondheidszorg wilt configureren, kunt u dat hier doen.",unreviewed,erpnext
-"If you {0} {1} quantities of the item {2}, the scheme {3} will be applied on the item.","Als u {0} {1} hoeveelheden van het artikel {2} heeft, wordt het schema {3} op het artikel toegepast.",unreviewed,erpnext
-"If you {0} {1} worth item {2}, the scheme {3} will be applied on the item.","Als u {0} {1} artikel waard {2} bent, wordt het schema {3} op het artikel toegepast.",unreviewed,erpnext
-"If your data is in HTML, please copy paste the exact HTML code with the tags.","Als uw gegevens in HTML, kopieer plak de exacte HTML-code met de labels.",unreviewed,frappe
-"If your Healthcare facility bills registrations of Patients, you can check this and set the Registration Fee in the field below. Checking this will create new Patients with a Disabled status by default and will only be enabled after invoicing the Registration Fee.","Als uw zorginstelling registraties van patiënten factureert, kunt u dit controleren en de registratievergoeding in het onderstaande veld instellen. Als u dit aanvinkt, worden standaard nieuwe Patiënten met een Uitgeschakelde status aangemaakt en wordt deze pas ingeschakeld na facturering van de Registratiekosten.",unreviewed,erpnext
-Ignore,Negeren,unreviewed,erpnext
-Ignore attachments over this size,Negeer bijlagen dan deze omvang,unreviewed,frappe
-Ignore Employee Time Overlap,Negeer overlap tussen werknemerstijd,unreviewed,erpnext
-Ignore encoding errors,Coderingsfouten negeren,unreviewed,frappe
-Ignore Existing Ordered Qty,Negeer bestaand bestelde aantal,unreviewed,erpnext
-Ignore Existing Projected Quantity,Negeer bestaande geprojecteerde hoeveelheid,unreviewed,erpnext
-Ignore holidays,Vakantie negeren,unreviewed,erpnext
-Ignore Pricing Rule,Negeer Prijsregel,unreviewed,erpnext
-Ignore User Permissions,Negeer Gebruikersmachtigingen,unreviewed,frappe
-Ignore User Time Overlap,Negeer User Time Overlap,unreviewed,erpnext
-Ignore Workstation Time Overlap,Negeer overlapping werkstationtijd,unreviewed,erpnext
-Ignore XSS Filter,Negeer XSS-filter,unreviewed,frappe
-Ignored Apps,Genegeerde apps,unreviewed,frappe
-Ignored: {0} to {1},Genegeerd: {0} tot {1},unreviewed,frappe
-IGST Account,IGST-account,unreviewed,erpnext
+Identification of the package for the delivery (for print),Identificatie van het pakket voor de levering (voor afdrukken),reviewed,erpnext
+Identifying Decision Makers,Besluitvormers identificeren,reviewed,erpnext
+Identity Details,Identiteitsdetails,reviewed,frappe
+Idx,idx,reviewed,frappe
+"If ""Link Customer to Patient"" is checked in Healthcare Settings and an existing Customer is not selected then, a Customer will be created for this Patient for recording transactions in Accounts module.","Als &quot;Koppel klant aan patiënt&quot; is aangevinkt in Gezondheidszorginstellingen en een bestaande klant is niet geselecteerd, dan wordt er een klant aangemaakt voor deze patiënt voor het registreren van transacties in de module Accounts.",reviewed,erpnext
+"If ""Months"" is selected, a fixed amount will be booked as deferred revenue or expense for each month irrespective of the number of days in a month. It will be prorated if deferred revenue or expense is not booked for an entire month","Als &quot;Maanden&quot; is geselecteerd, wordt een vast bedrag geboekt als uitgestelde inkomsten of uitgaven voor elke maand, ongeacht het aantal dagen in een maand. Het wordt pro rata berekend als uitgestelde inkomsten of uitgaven niet voor een hele maand worden geboekt",reviewed,erpnext
+"If a Role does not have access at Level 0, then higher levels are meaningless.","Als een Rol geen toegang heeft op niveau 0, dan zijn de hogere niveaus zinloos.",reviewed,frappe
+"If Apply Strict User Permission is checked and User Permission is defined for a DocType for a User, then all the documents where value of the link is blank, will not be shown to that User","Als Strikt Gebruiker Toestemming is aangevinkt en Gebruikers Toestemming is gedefinieerd voor een DocType voor een gebruiker, worden alle documenten waar de waarde van de link leeg is, niet getoond aan die gebruiker",reviewed,frappe
+"If Auto Opt In is checked, then the customers will be automatically linked with the concerned Loyalty Program (on save)","Als Auto Opt In is aangevinkt, worden de klanten automatisch gekoppeld aan het betreffende loyaliteitsprogramma (bij opslaan)",reviewed,erpnext
+"If blank, parent Warehouse Account or company default will be considered in transactions","Als dit leeg is, wordt bij transacties rekening gehouden met de bovenliggende magazijnrekening of het standaardbedrijf",reviewed,erpnext
+If Checked workflow status will not override status in list view,Als Gecontroleerd workflow-status niet status lijstweergave overschrijft,reviewed,frappe
+"If checked, a customer will be created for every Patient. Patient Invoices will be created against this Customer. You can also select existing Customer while creating a Patient. This field is checked by default.","Indien aangevinkt, wordt er voor elke patiënt een klant aangemaakt. Patiëntfacturen worden voor deze klant aangemaakt. U kunt ook een bestaande klant selecteren terwijl u een patiënt aanmaakt. Dit veld is standaard aangevinkt.",reviewed,erpnext
+"If checked, a customer will be created, mapped to Patient.\nPatient Invoices will be created against this Customer. You can also select existing Customer while creating Patient.","Als gecontroleerd, wordt een klant aangemaakt, aangepast aan Patiënt. Patiëntfacturen worden aangemaakt tegen deze klant. U kunt ook de bestaande klant selecteren bij het maken van een patiënt.",reviewed,erpnext
+"If checked, all other workflows become inactive.","Indien aangevinkt, worden alle andere workflows inactief.",reviewed,frappe
+"If checked, the Home page will be the default Item Group for the website","Indien aangevinkt, zal de startpagina de standaard Item Group voor de website",reviewed,erpnext
+"If checked, the tax amount will be considered as already included in the Print Rate / Print Amount","Indien aangevinkt, zal de BTW-bedrag worden beschouwd als reeds in de Print Tarief / Print Bedrag",reviewed,erpnext
+"If checked, this field will be not overwritten based on Fetch From if a value already exists.","Indien ingeschakeld, wordt dit veld niet overschreven op basis van Ophalen van als er al een waarde bestaat.",reviewed,frappe
+"If checked, users will not see the Confirm Access dialog.","Indien ingeschakeld, kunnen gebruikers niet zien het dialoogvenster Bevestigen Access.",reviewed,frappe
+If different than customer address,Indien anders dan klantadres,reviewed,erpnext
+"If disable, 'In Words' field will not be visible in any transaction","Als uitschakelen, &#39;In de woorden&#39; veld niet zichtbaar in elke transactie",reviewed,erpnext
+"If disable, 'Rounded Total' field will not be visible in any transaction","Indien uitgevinkt, zal het 'Afgerond Totaal' veld niet zichtbaar zijn in een transactie",reviewed,erpnext
+"If disabled, this role will be removed from all users.","Indien uitgeschakeld, zal deze rol van alle gebruikers worden verwijderd.",reviewed,frappe
+"If enabled,  user can login from any IP Address using Two Factor Auth, this can also be set for all users in System Settings","Indien ingeschakeld, kan de gebruiker zich aanmelden vanaf elk IP-adres met behulp van Two Factor Auth, dit kan ook worden ingesteld voor alle gebruikers in Systeeminstellingen",reviewed,frappe
+"If enabled, all users can login from any IP Address using Two Factor Auth. This can also be set only for specific user(s) in User Page","Indien ingeschakeld, kunnen alle gebruikers inloggen vanaf elk IP-adres met behulp van Two Factor Auth. Dit kan ook alleen voor specifieke gebruiker (s) in de gebruikerspagina worden ingesteld",reviewed,frappe
+"If enabled, changes to the document are tracked and shown in timeline","Indien ingeschakeld, worden wijzigingen in het document bijgehouden en weergegeven in de tijdlijn",reviewed,frappe
+"If enabled, document views are tracked, this can happen multiple times","Indien ingeschakeld, worden documentweergaven bijgehouden, dit kan meerdere keren gebeuren",reviewed,frappe
+"If enabled, field Academic Term will be Mandatory in Program Enrollment Tool.","Indien ingeschakeld, is de veld Academic Term verplicht in het programma-inschrijvingsinstrument.",reviewed,erpnext
+"If enabled, system will create the work order for the exploded items against which BOM is available.","Indien ingeschakeld, maakt het systeem de werkorder voor de geëxplodeerde items waartegen BOM beschikbaar is.",reviewed,erpnext
+"If enabled, the document is marked as seen, the first time a user opens it","Indien ingeschakeld, wordt het document gemarkeerd als zichtbaar, de eerste keer dat een gebruiker het opent",reviewed,frappe
+"If enabled, the notification will show up in the notifications dropdown on the top right corner of the navigation bar.","Indien ingeschakeld, wordt de melding weergegeven in de vervolgkeuzelijst met meldingen in de rechterbovenhoek van de navigatiebalk.",reviewed,frappe
+"If enabled, the password strength will be enforced based on the Minimum Password Score value. A value of 2 being medium strong and 4 being very strong.","Indien ingeschakeld, wordt de wachtwoordsterkte afgedwongen op basis van de minimum wachtwoordcijferwaarde. Een waarde van 2 is medium sterk en 4 is zeer sterk.",reviewed,frappe
+"If enabled, the system will post accounting entries for inventory automatically","Indien ingeschakeld, boekt het systeem automatisch boekhoudkundige posten voor voorraad",reviewed,erpnext
+"If enabled, users who login from Restricted IP Address, won't be prompted for Two Factor Auth","Indien ingeschakeld, zullen gebruikers die zich aanmelden vanuit een beperkt IP-adres, niet om twee factoren worden gevraagd",reviewed,frappe
+"If enabled, users will be notified every time they login. If not enabled, users will only be notified once.","Indien ingeschakeld, worden gebruikers elke keer in kennis gesteld wanneer ze inloggen. Indien niet ingeschakeld, worden gebruikers slechts een keer in kennis gesteld.",reviewed,frappe
+"If Icon is set, it will be shown instead of Label","Als Icon is ingesteld, wordt dit weergegeven in plaats van Label",reviewed,frappe
+If Income or Expense,Indien Inkomsten (baten) of Uitgaven (lasten),reviewed,erpnext
+"If item is a variant of another item then description, image, pricing, taxes etc will be set from the template unless explicitly specified","Als artikel is een variant van een ander item dan beschrijving, afbeelding, prijzen, belastingen etc zal worden ingesteld van de sjabloon, tenzij expliciet vermeld",reviewed,erpnext
+If more than one package of the same type (for print),Als er meer dan een pakket van hetzelfde type (voor afdrukken),reviewed,erpnext
+"If multiple Pricing Rules continue to prevail, users are asked to set Priority manually to resolve conflict.","Als er meerdere prijzen Regels blijven die gelden, worden gebruikers gevraagd om Prioriteit handmatig instellen om conflicten op te lossen.",reviewed,erpnext
+If non standard port (e.g. 587),Als niet-standaard poort (bijv. 587),reviewed,frappe
+"If non standard port (e.g. 587). If on Google Cloud, try port 2525.",Als niet-standaardpoort (bijvoorbeeld 587). Als u in Google Cloud poort 2525 probeert.,reviewed,frappe
+"If non-standard port (e.g. POP3: 995/110, IMAP: 993/143)","Indien niet-standaard poort (bijv. POP3: 995/110, IMAP: 993/143)",reviewed,frappe
+"If not set, the currency precision will depend on number format","Indien niet ingesteld, zal de valutaprecisie afhangen van het nummerformaat",reviewed,frappe
+"If not, you can Cancel / Submit this entry","Als dit niet het geval is, kunt u dit item annuleren / indienen",reviewed,erpnext
+If Owner,Als de eigenaar,reviewed,frappe
+"If selected Pricing Rule is made for 'Rate', it will overwrite Price List. Pricing Rule rate is the final rate, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.","Als de geselecteerde prijsbepalingsregel is gemaakt voor &#39;Tarief&#39;, overschrijft deze de prijslijst. Prijzen Regel tarief is het laatste tarief, dus geen verdere korting moet worden toegepast. Daarom wordt het bij transacties zoals klantorder, inkooporder, enz. Opgehaald in het veld &#39;Tarief&#39; in plaats van het veld &#39;Prijslijstsnelheid&#39;.",reviewed,erpnext
+"If Shopify does not have a customer in the order, then while syncing the orders, the system will consider the default customer for the order","Als Shopify geen klant in de bestelling heeft, zal het systeem tijdens het synchroniseren van de bestellingen rekening houden met de standaardklant voor de bestelling",reviewed,erpnext
+If subcontracted to a vendor,Als uitbesteed aan een leverancier,reviewed,erpnext
+"If the account is frozen, entries are allowed to restricted users.","Als de rekening is bevroren, kunnen boekingen alleen door daartoe bevoegde gebruikers gedaan worden.",reviewed,erpnext
+If the condition is satisfied user will be rewarded with the points. eg. doc.status == 'Closed'\n,"Als aan de voorwaarde is voldaan, wordt de gebruiker beloond met de punten. bv. doc.status == &#39;Gesloten&#39;",reviewed,frappe
+If the document has different field names on the Producer and Consumer's end check this and set up the Mapping,"Als het document verschillende veldnamen heeft aan het einde van de producent en de consument, vink dit aan en stel de toewijzing in",reviewed,frappe
+"If the item is transacting as a Zero Valuation Rate item in this entry, please enable 'Allow Zero Valuation Rate' in the {0} Item table.","Als het item een transactie uitvoert als een item met een nulwaarderingstarief in dit item, schakel dan &#39;Nulwaarderingspercentage toestaan&#39; in de tabel {0} Item in.",reviewed,erpnext
+"If the user has any role checked, then the user becomes a ""System User"". ""System User"" has access to the desktop","Als de gebruiker een rol gecontroleerd heeft, dan is de gebruiker wordt een &quot;Systeem&quot;. &quot;Systeem&quot; heeft toegang tot de desktop",reviewed,frappe
+"If there is no assigned timeslot, then communication will be handled by this group","Als er geen tijdslot is toegewezen, wordt de communicatie door deze groep afgehandeld",reviewed,erpnext
+"If these instructions where not helpful, please add in your suggestions on GitHub Issues.","Als deze aanwijzingen waar niet behulpzaam , gelieve toe te voegen in uw suggesties op GitHub Issues .",reviewed,frappe
+"If this checkbox is checked, paid amount will be splitted and allocated as per the amounts in payment schedule against each payment term","Als dit selectievakje is aangevinkt, wordt het betaalde bedrag opgesplitst en toegewezen volgens de bedragen in het betalingsschema voor elke betalingstermijn",reviewed,erpnext
+"If this Healthcare Practitioner also works for the In-Patient Department, set the inpatient visit charge for this Practitioner.","Als deze zorgverlener ook voor de klinische afdeling werkt, stelt u de kosten voor ziekenhuisbezoek voor deze behandelaar in.",reviewed,erpnext
+"If this Healthcare Practitioner works for the In-Patient Department, create a service item for Inpatient Visits.","Als deze zorgverlener voor de klinische afdeling werkt, maakt u een service-item voor intramurale bezoeken.",reviewed,erpnext
+If this is checked subsequent new invoices will be created on calendar  month and quarter start dates irrespective of current invoice start date,"Als dit is aangevinkt, worden er nieuwe facturen aangemaakt op de startdatums van de kalendermaand en het kwartaal, ongeacht de huidige startdatum van de factuur",reviewed,erpnext
+If this is checked the documents will have the same name as they have on the Event Producer's site,"Als dit is aangevinkt, hebben de documenten dezelfde naam als op de site van de Evenementproducent",reviewed,frappe
+"If this is checked, rows with valid data will be imported and invalid rows will be dumped into a new file for you to import later.","Als dit is aangevinkt, worden rijen met geldige gegevens geïmporteerd en worden ongeldige rijen in een nieuw bestand gedumpt om later te importeren.",reviewed,frappe
+If this is not checked the loan by default will be considered as a Demand Loan,"Als dit niet is aangevinkt, wordt de lening standaard beschouwd als een opeisbare lening",reviewed,erpnext
+If this is unchecked Journal Entries will be saved in a Draft state and will have to be submitted manually,"Als dit niet is aangevinkt, worden journaalboekingen opgeslagen in de status Concept en moeten ze handmatig worden ingediend",reviewed,erpnext
+"If this is unchecked, direct GL entries will be created to book deferred revenue or expense","Als dit niet is aangevinkt, worden directe grootboekboekingen gecreëerd om uitgestelde inkomsten of uitgaven te boeken",reviewed,erpnext
+"If this item has variants, then it cannot be selected in sales orders etc.","Als dit item heeft varianten, dan kan het niet worden geselecteerd in verkooporders etc.",reviewed,erpnext
+"If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master.","Als deze optie is geconfigureerd &#39;Ja&#39;, zal ERPNext u verhinderen een inkoopfactuur of ontvangstbewijs te creëren zonder eerst een inkooporder te creëren. Deze configuratie kan voor een bepaalde leverancier worden overschreven door het aankruisvak &#39;Aanmaken inkoopfactuur zonder inkooporder toestaan&#39; in het leveranciersmodel in te schakelen.",reviewed,erpnext
+"If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master.","Als deze optie &#39;Ja&#39; is geconfigureerd, zal ERPNext u verhinderen een inkoopfactuur aan te maken zonder eerst een inkoopbewijs te creëren. Deze configuratie kan voor een bepaalde leverancier worden overschreven door het aankruisvak &#39;Aanmaken inkoopfactuur zonder inkoopontvangst toestaan&#39; in de leveranciersstam in te schakelen.",reviewed,erpnext
+"If this option is configured 'Yes', ERPNext will prevent you from creating a Sales Invoice or Delivery Note without creating a Sales Order first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Sales Order' checkbox in the Customer master.","Als deze optie &#39;Ja&#39; is geconfigureerd, zal ERPNext u verhinderen een verkoopfactuur of leveringsnota aan te maken zonder eerst een verkooporder te creëren. Deze configuratie kan voor een bepaalde klant worden overschreven door het selectievakje &#39;Aanmaken verkoopfactuur zonder verkooporder toestaan&#39; in het stamhoofd Klant in te schakelen.",reviewed,erpnext
+"If this option is configured 'Yes', ERPNext will prevent you from creating a Sales Invoice without creating a Delivery Note first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Delivery Note' checkbox in the Customer master.","Als deze optie op &#39;Ja&#39; staat, zal ERPNext u verhinderen een verkoopfactuur aan te maken zonder eerst een leveringsnota te creëren. Deze configuratie kan voor een bepaalde klant worden overschreven door het selectievakje &#39;Aanmaken verkoopfactuur zonder leveringsnota toestaan&#39; in het stamhoofd Klant in te schakelen.",reviewed,erpnext
+"If ticked, multiple materials can be used for a single Work Order. This is useful if one or more time consuming products are being manufactured.","Indien aangevinkt, kunnen meerdere materialen worden gebruikt voor één werkopdracht. Dit is handig als er een of meer tijdrovende producten worden vervaardigd.",reviewed,erpnext
+"If ticked, the BOM cost will be automatically updated based on Valuation Rate / Price List Rate / last purchase rate of raw materials.","Indien aangevinkt, worden de stuklijstkosten automatisch bijgewerkt op basis van het taxatietarief / prijslijsttarief / laatste aankooptarief van grondstoffen.",reviewed,erpnext
+"If two or more Pricing Rules are found based on the above conditions, Priority is applied. Priority is a number between 0 to 20 while default value is zero (blank). Higher number means it will take precedence if there are multiple Pricing Rules with same conditions.","Als twee of meer Pricing Regels zijn gevonden op basis van de bovenstaande voorwaarden, wordt prioriteit toegepast. Prioriteit is een getal tussen 0 en 20, terwijl standaardwaarde nul (blanco). Hoger aantal betekent dat het voorrang krijgen als er meerdere prijzen Regels met dezelfde voorwaarden.",reviewed,erpnext
+"If unchecked, the item will not be available in Sales Invoices for billing but can be used in group test creation.","Als dit niet is aangevinkt, is het item niet beschikbaar in verkoopfacturen voor facturering, maar kan het worden gebruikt bij het maken van groepstests.",reviewed,erpnext
+"If unlimited expiry for the Loyalty Points, keep the Expiry Duration empty or 0.","Als de Loyalty Points onbeperkt verlopen, houd dan de vervalduur leeg of 0.",reviewed,erpnext
+If user is the owner,Als de gebruiker is de eigenaar,reviewed,frappe
+"If you are updating, please select ""Overwrite"" else existing rows will not be deleted.","Als u wilt bijwerken, selecteert u ""Overschrijven"" anders bestaande rijen worden niet verwijderd.",reviewed,frappe
+If you are updating/overwriting already created records.,Als u reeds gemaakte records bijwerkt / overschrijft.,reviewed,frappe
+"If you are uploading new records, ""Naming Series"" becomes mandatory, if present.","Als u het uploaden van nieuwe records, ""Naming Series"" verplicht wordt, indien aanwezig.",reviewed,frappe
+"If you are uploading new records, leave the ""name"" (ID) column blank.","Als u het uploaden van nieuwe records, laat de ""naam"" (ID) kolom leeg.",reviewed,frappe
+If you don't want to create any new records while updating the older records.,Als u geen nieuwe records wilt maken tijdens het bijwerken van de oudere records.,reviewed,frappe
+"If you have any questions, please get back to us.","Mocht u nog vragen hebben, dan kunt u weer terug naar ons.",reviewed,erpnext
+"If you have created a standard template in Sales Taxes and Charges Template, select one and click on the button below.","Als u een standaard template in Sales en -heffingen Template hebt gemaakt, selecteert u een en klik op de knop hieronder.",reviewed,erpnext
+"If you set this, this Item will come in a drop-down under the selected parent.","Als u dit instelt , zal deze post in een drop -down onder de gekozen basismotor .",reviewed,frappe
+"If you still want to proceed, please enable {0}.",Schakel {0} in als u toch wilt doorgaan.,reviewed,erpnext
+"If you think this is unauthorized, please change the Administrator password.","Als u denkt dat dit niet is toegestaan, wijzigt u het beheerderswachtwoord.",reviewed,frappe
+"If you want to send SMS alert on Patient Registration, you can enable this option. Similary, you can set up Out Patient SMS alerts for other functionalities in this section. Click","Als u een sms-waarschuwing wilt verzenden bij patiëntregistratie, kunt u deze optie inschakelen. Op dezelfde manier kunt u in dit gedeelte SMS-waarschuwingen voor Out Patient instellen voor andere functies. Klik",reviewed,erpnext
+"If you want to track Payroll and other HRMS operations for a Practitoner, create an Employee and link it here.","Als u de salarisadministratie en andere HRMS-bewerkingen voor een beoefenaar wilt volgen, maakt u een medewerker aan en koppelt u deze hier.",reviewed,erpnext
+"If you wish to override default accounts settings and configure the Income and Receivable accounts for Healthcare, you can do so here.","Als u de standaardaccountinstellingen wilt overschrijven en de inkomsten- en debiteurenrekeningen voor de gezondheidszorg wilt configureren, kunt u dat hier doen.",reviewed,erpnext
+"If you {0} {1} quantities of the item {2}, the scheme {3} will be applied on the item.","Als u {0} {1} hoeveelheden van het artikel {2} heeft, wordt het schema {3} op het artikel toegepast.",reviewed,erpnext
+"If you {0} {1} worth item {2}, the scheme {3} will be applied on the item.","Als u {0} {1} artikel waard {2} bent, wordt het schema {3} op het artikel toegepast.",reviewed,erpnext
+"If your data is in HTML, please copy paste the exact HTML code with the tags.","Als uw gegevens in HTML, kopieer plak de exacte HTML-code met de labels.",reviewed,frappe
+"If your Healthcare facility bills registrations of Patients, you can check this and set the Registration Fee in the field below. Checking this will create new Patients with a Disabled status by default and will only be enabled after invoicing the Registration Fee.","Als uw zorginstelling registraties van patiënten factureert, kunt u dit controleren en de registratievergoeding in het onderstaande veld instellen. Als u dit aanvinkt, worden standaard nieuwe Patiënten met een Uitgeschakelde status aangemaakt en wordt deze pas ingeschakeld na facturering van de Registratiekosten.",reviewed,erpnext
+Ignore,Negeren,reviewed,erpnext
+Ignore attachments over this size,Negeer bijlagen dan deze omvang,reviewed,frappe
+Ignore Employee Time Overlap,Negeer overlap tussen werknemerstijd,reviewed,erpnext
+Ignore encoding errors,Coderingsfouten negeren,reviewed,frappe
+Ignore Existing Ordered Qty,Negeer bestaand bestelde aantal,reviewed,erpnext
+Ignore Existing Projected Quantity,Negeer bestaande geprojecteerde hoeveelheid,reviewed,erpnext
+Ignore holidays,Vakantie negeren,reviewed,erpnext
+Ignore Pricing Rule,Negeer Prijsregel,reviewed,erpnext
+Ignore User Permissions,Negeer Gebruikersmachtigingen,reviewed,frappe
+Ignore User Time Overlap,Negeer User Time Overlap,reviewed,erpnext
+Ignore Workstation Time Overlap,Negeer overlapping werkstationtijd,reviewed,erpnext
+Ignore XSS Filter,Negeer XSS-filter,reviewed,frappe
+Ignored Apps,Genegeerde apps,reviewed,frappe
+Ignored: {0} to {1},Genegeerd: {0} tot {1},reviewed,frappe
+IGST Account,IGST-account,reviewed,erpnext
 IGST Amount,IGST Bedrag,unreviewed,erpnext
 Illegal Access Token. Please try again,Illegale Access Token. Probeer het opnieuw,unreviewed,frappe
 Illegal Document Status for {0},Illegale documentstatus voor {0},unreviewed,frappe

@@ -14434,8 +14434,8 @@ Auto update Expected Deal Value,Verwachte dealwaarde automatisch bijwerken,revie
 Auto-assign leads/deals to the right sales user based on predefined conditions,Wijs leads/deals automatisch toe aan de juiste verkoopmedewerker op basis van vooraf bepaalde voorwaarden,reviewed,crm
 Auto-generated from the portal view — do not edit directly unless you know what you're doing! ,"Automatisch gegenereerd vanuit de portalweergave. Bewerk dit niet rechtstreeks, tenzij u weet wat u doet.",reviewed,crm
 Autocomplete,Automatisch aanvullen,reviewed,crm
-Automatically sets Communication Status to “Open” for the lead or deal when a new communication is created. Applies only when SLA is enabled,,unreviewed,crm
-Automatically sets Communication Status to “Replied” for the lead or deal when a response is received. Applies only when SLA is enabled,,unreviewed,crm
+Automatically sets Communication Status to “Open” for the lead or deal when a new communication is created. Applies only when SLA is enabled,Stelt de communicatiestatus automatisch in op 'Open' voor de lead of deal wanneer een nieuwe communicatie wordt aangemaakt. Alleen van toepassing als SLA is ingeschakeld.,reviewed,crm
+Automatically sets Communication Status to “Replied” for the lead or deal when a response is received. Applies only when SLA is enabled,Stelt de communicatiestatus automatisch in op 'Beantwoord' voor de lead of deal wanneer een reactie is ontvangen. Alleen van toepassing als SLA is ingeschakeld.,reviewed,crm
 Avg Deal Value,Gemiddelde dealwaarde,reviewed,crm
 Avg Ongoing Deal Value,Gemiddelde lopende dealwaarde,reviewed,crm
 Avg Time to Close a Deal,Gemiddelde sluitingstijd van een deal,reviewed,crm
@@ -14659,306 +14659,306 @@ Duplicate an Event,Een evenement dupliceren,reviewed,crm
 ERPNext CRM Settings,ERPNext CRM instellingen,reviewed,crm
 ERPNext Settings Updated,ERPNext-instellingen bijgewerkt,reviewed,crm
 ERPNext is not installed in the current site,ERPNext is niet geïnstalleerd in de huidige site,reviewed,crm
-ERPNext is not integrated with the CRM,ERPNext is niet geïntegreerd met de CRM,unreviewed,crm
-Edit Call Log,Oproeplog bewerken,unreviewed,crm
-Edit Data Fields Layout,Wijzig Datavelden lay-out,unreviewed,crm
-Edit Email,E-mail bewerken,unreviewed,crm
-Edit Event,,unreviewed,crm
-Edit Field Layout,Wijzig veld-layout,unreviewed,crm
-Edit Fields Layout,,unreviewed,crm
-Edit Grid Fields,,unreviewed,crm
-Edit Grid Fields Layout,Grid velden lay-out bewerken,unreviewed,crm
-Edit Grid Row Fields Layout,Bewerk Grid Rij Fields lay-out,unreviewed,crm
-Edit Note,Bewerk notitie,unreviewed,crm
-Edit Quick Entry Layout,Bewerken snelle invoer-lay-out,unreviewed,crm
-Edit Response & Resolution,,unreviewed,crm
-Edit Row,,unreviewed,crm
-Edit Task,Bewerk taak,unreviewed,crm
-Edit View,Bewerk weergave,unreviewed,crm
-Edit Workday,,unreviewed,crm
-Edit an Event,,unreviewed,crm
-Editing Event,,unreviewed,crm
-Editing Row {0},Rij bewerken {0},unreviewed,crm
-Email Account created successfully,,unreviewed,crm
-Email Account updated successfully,,unreviewed,crm
-Email Accounts,E-mail account,unreviewed,crm
-Email Already Exists,,unreviewed,crm
-Email Communication,,unreviewed,crm
-Email From Lead,,unreviewed,crm
-Email ID is required,E-mail-ID is vereist,unreviewed,crm
-Email Sent At,E-mail verzonden op,unreviewed,crm
-Email Templates,E-Mail Sjablonen,unreviewed,crm
-Email already exists,,unreviewed,crm
-Email sent!,,unreviewed,crm
-Email settings updated successfully,,unreviewed,crm
-Emails,E-mails,unreviewed,crm
-Emails & Signature,,unreviewed,crm
-Empty - Choose a field to filter by,Leeg - Kies een veld om op te filteren,unreviewed,crm
-Empty - Choose a field to sort by,Leeg - Kies een veld om te sorteren op,unreviewed,crm
-Enable Exotel integration to make and receive calls directly from your CRM,,unreviewed,crm
-Enable Forecasting,Voorspellingen inschakelen,unreviewed,crm
-Enable Twilio integration to make and receive calls directly from your CRM,,unreviewed,crm
-Enable call recording for incoming and outgoing calls,,unreviewed,crm
-Enabled?,Ingeschakeld?,unreviewed,crm
-End Date cannot be before start date,,unreviewed,crm
-End Time Should Be After Start Time,,unreviewed,crm
-End Time is required,,unreviewed,crm
-End Time must be after Start Time,,unreviewed,crm
-End Time must be after Start Time for: {0},,unreviewed,crm
-Enter Access Key,,unreviewed,crm
-Enter Access Token,Voer Toegangstoken in,unreviewed,crm
-Enter Brand Name,,unreviewed,crm
-Enter Exotel Number,,unreviewed,crm
-Enter Personal Mobile No.,,unreviewed,crm
-Enter Source Name,Bronnaam invoeren,unreviewed,crm
-Enter Twilio Number,,unreviewed,crm
-Enter your Facebook Access Token,Voer uw Facebook Access Token in,unreviewed,crm
-Enter your personal mobile number used by Exotel to make calls,,unreviewed,crm
-Error Occurred,Er is een fout opgetreden,unreviewed,crm
-Error Syncing Lead,,unreviewed,crm
-Error converting to deal: {0},Fout bij het converteren naar deal: {0},unreviewed,crm
-Error creating Lead Sync Source,Fout bij het aanmaken van Lead Sync Bron,unreviewed,crm
-Error creating lead: {0},,unreviewed,crm
-Error occurred,,unreviewed,crm
-Error syncing leads,Fout bij synchroniseren leads,unreviewed,crm
-Error updating Lead Sync Source,Fout bij het bijwerken van Lead Sync Bron,unreviewed,crm
-Error updating field,Fout bij bijwerken veld,unreviewed,crm
-"Error while creating custom field in ERPNext, check error log for more details",,unreviewed,crm
-"Error while creating customer in ERPNext, check error log for more details","Fout bij het aanmaken van klant in ERPNext, controleer foutenlogboek voor meer details",unreviewed,crm
-"Error while creating prospect in ERPNext, check error log for more details","Fout bij het maken van prospect in ERPNext, controleer het foutenlogboek voor meer details",unreviewed,crm
-"Error while fetching customer in ERPNext, check error log for more details","Fout bij ophalen klant in ERPNext, controleer foutenlogboek voor meer details",unreviewed,crm
-Event ID is required,Evenement ID is vereist,unreviewed,crm
-Event Notifications,Gebeurtenismeldingen,unreviewed,crm
-Event Title,,unreviewed,crm
-Event created successfully,,unreviewed,crm
-Event deleted successfully,,unreviewed,crm
-Every 10 Minutes,Elke 10 minuten,unreviewed,crm
-Every 15 Minutes,Elke 15 minuten,unreviewed,crm
-Every 5 Minutes,Elke 5 minuten,unreviewed,crm
-Exchange Rate Provider,Wisselkoers aanbieder,unreviewed,crm
-Exotel Exception,Exotel Uitzondering,unreviewed,crm
-Exotel Integration Disabled,,unreviewed,crm
-Exotel Number,Exotel Nummer,unreviewed,crm
-Exotel Number Missing,Exotel Nummer ontbreekt,unreviewed,crm
-Exotel Number {0} is not valid,Exotel-nummer {0} is niet geldig,unreviewed,crm
-Expected Closure Date,Verwachte sluitingsdatum,unreviewed,crm
-Expected Deal Value,Verwachte dealwaarde,unreviewed,crm
-Expected closure date is required.,,unreviewed,crm
-Expected deal value is required.,,unreviewed,crm
-Export all {0} record(s),,unreviewed,crm
-FCRM Note,FCRM notitie,unreviewed,crm
-FCRM Settings,FCRM-instellingen,unreviewed,crm
-FROM,,unreviewed,crm
-Facebook Form ID,Facebook Formulier ID,unreviewed,crm
-Facebook Lead Form,Facebook Lead Formulier,unreviewed,crm
-Facebook Lead Form Question,Facebook Lead formulier vraag,unreviewed,crm
-Facebook Lead ID,Facebook Lead id,unreviewed,crm
-Facebook Page,Facebook Pagina,unreviewed,crm
-Failed Lead Sync Log,Fout Lead Sync Log,unreviewed,crm
-Failed to Add Users,,unreviewed,crm
-Failed to add reaction to the message,,unreviewed,crm
-Failed to capture Twilio recording,Twilio-opname is mislukt,unreviewed,crm
-"Failed to create Email Account, Invalid credentials",,unreviewed,crm
-Failed to create template,Aanmaken sjabloon mislukt,unreviewed,crm
-Failed to delete lead sync source,,unreviewed,crm
-Failed to delete note,,unreviewed,crm
-Failed to delete template,Verwijderen van sjabloon is mislukt,unreviewed,crm
-Failed to fetch exchange rate from {0} to {1} on {2}. Please check your internet connection or try again later.,Het ophalen van de wisselkoers van {0} naar {1} op {2} is mislukt. Controleer uw internetverbinding of probeer het later opnieuw.,unreviewed,crm
-Failed to load form controller: {0},Fout bij het laden van formulierbesturing: {0},unreviewed,crm
-Failed to rename template,Hernoemen van template mislukt,unreviewed,crm
-Failed to save workday: {0},,unreviewed,crm
-Failed to send WhatsApp message,,unreviewed,crm
-Failed to send WhatsApp template,,unreviewed,crm
-Failed to send comment!,,unreviewed,crm
-Failed to send email!,E-mail verzenden is mislukt!,unreviewed,crm
-"Failed to update Email Account, Invalid credentials",,unreviewed,crm
-Failed to update Twilio call status,Bijwerken Twilio oproepstatus mislukt,unreviewed,crm
-Failed to update attending status,,unreviewed,crm
-Failed to update source,Bijwerken van bron mislukt,unreviewed,crm
-Failed to update template,Verwijderen van sjabloon is mislukt,unreviewed,crm
-Failure Logs,Falen Logs,unreviewed,crm
-Fields Order,Velden volgorde,unreviewed,crm
-"File ""{0}"" was skipped because of invalid file type","Bestand ""{0}"" was overgeslagen vanwege een ongeldig bestandstype",unreviewed,crm
-"File ""{0}"" was skipped because only {1} uploads are allowed","Bestand ""{0}"" was overgeslagen omdat alleen {1} uploads zijn toegestaan",unreviewed,crm
-"File ""{0}"" was skipped because only {1} uploads are allowed for DocType ""{2}""","Bestand ""{0}"" werd overgeslagen omdat alleen {1} uploads toegestaan zijn voor DocType ""{2}""",unreviewed,crm
-First Name is mandatory,Voornaam is verplicht,unreviewed,crm
-First Response Due,"Eerste reactie, vervaldatum",unreviewed,crm
-First Response TIme,Eerste reactietijd,unreviewed,crm
-First name,Voornaam,unreviewed,crm
-"For all-day events, <b>set a time</b> to send reminders before the event starts",,unreviewed,crm
-Forecasted Revenue,,unreviewed,crm
-Forecasted revenue,Verwachte omzet,unreviewed,crm
-Forecasting,Prognoses,unreviewed,crm
-Forecasting disabled successfully,Voorspelling succesvol uitgeschakeld,unreviewed,crm
-Forecasting enabled successfully,Prognose ingeschakeld,unreviewed,crm
-Form,Formulier,unreviewed,crm
-Form Name,Formulier naam,unreviewed,crm
-Form Script updated successfully,Formulier Script succesvol bijgewerkt,unreviewed,crm
-Frappe CRM mobile,Frappe CRM mobiel,unreviewed,crm
-Frappe Mail Site,,unreviewed,crm
-From Type,Van Type,unreviewed,crm
-Funnel Conversion,,unreviewed,crm
-Funnel conversion,Funnel conversie,unreviewed,crm
-Geographic distribution of deals and revenue,Geografische distributie van deals en inkomsten,unreviewed,crm
-GitHub Repository,GitHub repository,unreviewed,crm
-Go to Invite Page,,unreviewed,crm
-Go to Website,,unreviewed,crm
-Going?,,unreviewed,crm
-Grid Row,Rasterrij,unreviewed,crm
-Group By Field,Groepeer op veld,unreviewed,crm
-Group By: ,Groepeer op: ,unreviewed,crm
-Hang Up,,unreviewed,crm
-Hello,Hallo,unreviewed,crm
+ERPNext is not integrated with the CRM,ERPNext is niet geïntegreerd met de CRM,reviewed,crm
+Edit Call Log,Oproeplog bewerken,reviewed,crm
+Edit Data Fields Layout,Datavelden lay-out bewerken,reviewed,crm
+Edit Email,E-mail bewerken,reviewed,crm
+Edit Event,Evenement bewerken,reviewed,crm
+Edit Field Layout,Veld lay-out bewerken,reviewed,crm
+Edit Fields Layout,Velden lay-out bewerken,reviewed,crm
+Edit Grid Fields,Gridvelden bewerken,reviewed,crm
+Edit Grid Fields Layout,Gridvelden lay-out bewerken,reviewed,crm
+Edit Grid Row Fields Layout,Gridrij velden lay-out bewerken,reviewed,crm
+Edit Note,Notitie bewerken,reviewed,crm
+Edit Quick Entry Layout,Snelle invoer lay-out bewerken,reviewed,crm
+Edit Response & Resolution,Reactie en oplossing bewerken,reviewed,crm
+Edit Row,Rij bewerken,reviewed,crm
+Edit Task,Taak bewerken,reviewed,crm
+Edit View,Weergave bewerken,reviewed,crm
+Edit Workday,Werkdag bewerken,reviewed,crm
+Edit an Event,Een evenement bewerken,reviewed,crm
+Editing Event,Evenement bewerken,reviewed,crm
+Editing Row {0},Rij bewerken {0},reviewed,crm
+Email Account created successfully,E-mailaccount succesvol aangemaakt,reviewed,crm
+Email Account updated successfully,E-mailaccount succesvol bijgewerkt,reviewed,crm
+Email Accounts,E-mailaccounts,reviewed,crm
+Email Already Exists,E-mailadres bestaat al,reviewed,crm
+Email Communication,E-mailcommunicatie,reviewed,crm
+Email From Lead,E-mail van lead,reviewed,crm
+Email ID is required,E-mail-ID is vereist,reviewed,crm
+Email Sent At,E-mail verzonden op,reviewed,crm
+Email Templates,E-mailsjablonen,reviewed,crm
+Email already exists,E-mailadres bestaat al,reviewed,crm
+Email sent!,E-mail verzonden!,reviewed,crm
+Email settings updated successfully,E-mailinstellingen succesvol bijgewerkt,reviewed,crm
+Emails,E-mails,reviewed,crm
+Emails & Signature,E-mails en handtekening,reviewed,crm
+Empty - Choose a field to filter by,Leeg - Kies een veld om op te filteren,reviewed,crm
+Empty - Choose a field to sort by,Leeg - Kies een veld om te sorteren op,reviewed,crm
+Enable Exotel integration to make and receive calls directly from your CRM,Schakel Exotel-integratie in om gesprekken rechtstreeks vanuit uw CRM te voeren en te ontvangen,reviewed,crm
+Enable Forecasting,Voorspellingen inschakelen,reviewed,crm
+Enable Twilio integration to make and receive calls directly from your CRM,Schakel Twilio-integratie in om gesprekken rechtstreeks vanuit uw CRM te voeren en te ontvangen,reviewed,crm
+Enable call recording for incoming and outgoing calls,Gespreksopname inschakelen voor inkomende en uitgaande gesprekken,reviewed,crm
+Enabled?,Ingeschakeld?,reviewed,crm
+End Date cannot be before start date,Einddatum kan niet voor de startdatum liggen,reviewed,crm
+End Time Should Be After Start Time,Eindtijd moet na de starttijd liggen,reviewed,crm
+End Time is required,Eindtijd is vereist,reviewed,crm
+End Time must be after Start Time,Eindtijd moet na de starttijd liggen,reviewed,crm
+End Time must be after Start Time for: {0},Eindtijd moet na de starttijd liggen voor: {0},reviewed,crm
+Enter Access Key,Voer toegangssleutel in,reviewed,crm
+Enter Access Token,Voer toegangstoken in,reviewed,crm
+Enter Brand Name,Voer merknaam in,reviewed,crm
+Enter Exotel Number,Voer Exotel-nummer in,reviewed,crm
+Enter Personal Mobile No.,Voer persoonlijk mobiel nummer in,reviewed,crm
+Enter Source Name,Bronnaam invoeren,reviewed,crm
+Enter Twilio Number,Voer Twilio-nummer in,reviewed,crm
+Enter your Facebook Access Token,Voer uw Facebook Access Token in,reviewed,crm
+Enter your personal mobile number used by Exotel to make calls,Voer uw persoonlijke mobiele nummer in dat Exotel gebruikt om gesprekken te voeren,reviewed,crm
+Error Occurred,Er is een fout opgetreden,reviewed,crm
+Error Syncing Lead,Fout bij synchroniseren van lead,reviewed,crm
+Error converting to deal: {0},Fout bij het converteren naar deal: {0},reviewed,crm
+Error creating Lead Sync Source,Fout bij het aanmaken van Lead Sync Bron,reviewed,crm
+Error creating lead: {0},Fout bij het aanmaken van lead: {0},reviewed,crm
+Error occurred,Er is een fout opgetreden,reviewed,crm
+Error syncing leads,Fout bij synchroniseren leads,reviewed,crm
+Error updating Lead Sync Source,Fout bij het bijwerken van Lead Sync Bron,reviewed,crm
+Error updating field,Fout bij bijwerken veld,reviewed,crm
+"Error while creating custom field in ERPNext, check error log for more details","Fout bij het aanmaken van een aangepast veld in ERPNext, controleer het foutenlogboek voor meer details",reviewed,crm
+"Error while creating customer in ERPNext, check error log for more details","Fout bij het aanmaken van klant in ERPNext, controleer foutenlogboek voor meer details",reviewed,crm
+"Error while creating prospect in ERPNext, check error log for more details","Fout bij het maken van prospect in ERPNext, controleer het foutenlogboek voor meer details",reviewed,crm
+"Error while fetching customer in ERPNext, check error log for more details","Fout bij ophalen klant in ERPNext, controleer foutenlogboek voor meer details",reviewed,crm
+Event ID is required,Evenement ID is vereist,reviewed,crm
+Event Notifications,Gebeurtenismeldingen,reviewed,crm
+Event Title,Evenementtitel,reviewed,crm
+Event created successfully,Evenement succesvol aangemaakt,reviewed,crm
+Event deleted successfully,Evenement succesvol verwijderd,reviewed,crm
+Every 10 Minutes,Elke 10 minuten,reviewed,crm
+Every 15 Minutes,Elke 15 minuten,reviewed,crm
+Every 5 Minutes,Elke 5 minuten,reviewed,crm
+Exchange Rate Provider,Wisselkoersaanbieder,reviewed,crm
+Exotel Exception,Exotel Uitzondering,reviewed,crm
+Exotel Integration Disabled,Exotel-integratie uitgeschakeld,reviewed,crm
+Exotel Number,Exotel Nummer,reviewed,crm
+Exotel Number Missing,Exotel Nummer ontbreekt,reviewed,crm
+Exotel Number {0} is not valid,Exotel-nummer {0} is niet geldig,reviewed,crm
+Expected Closure Date,Verwachte sluitingsdatum,reviewed,crm
+Expected Deal Value,Verwachte dealwaarde,reviewed,crm
+Expected closure date is required.,Verwachte sluitingsdatum is vereist.,reviewed,crm
+Expected deal value is required.,Verwachte dealwaarde is vereist.,reviewed,crm
+Export all {0} record(s),Alle {0} record(s) exporteren,reviewed,crm
+FCRM Note,FCRM notitie,reviewed,crm
+FCRM Settings,FCRM-instellingen,reviewed,crm
+FROM,VAN,reviewed,crm
+Facebook Form ID,Facebook Formulier ID,reviewed,crm
+Facebook Lead Form,Facebook Lead Formulier,reviewed,crm
+Facebook Lead Form Question,Facebook Lead formuliervraag,reviewed,crm
+Facebook Lead ID,Facebook Lead ID,reviewed,crm
+Facebook Page,Facebook Pagina,reviewed,crm
+Failed Lead Sync Log,Mislukte lead synchronisatielog,reviewed,crm
+Failed to Add Users,Gebruikers toevoegen is mislukt,reviewed,crm
+Failed to add reaction to the message,Reactie toevoegen aan bericht is mislukt,reviewed,crm
+Failed to capture Twilio recording,Twilio-opname is mislukt,reviewed,crm
+"Failed to create Email Account, Invalid credentials","Email Account aanmaken is mislukt, ongeldige inloggegevens",reviewed,crm
+Failed to create template,Aanmaken van sjabloon is mislukt,reviewed,crm
+Failed to delete lead sync source,Verwijderen van Lead synchronisatiebron is mislukt,reviewed,crm
+Failed to delete note,Verwijderen van Notitie is mislukt,reviewed,crm
+Failed to delete template,Verwijderen van sjabloon is mislukt,reviewed,crm
+Failed to fetch exchange rate from {0} to {1} on {2}. Please check your internet connection or try again later.,Het ophalen van de wisselkoers van {0} naar {1} op {2} is mislukt. Controleer uw internetverbinding of probeer het later opnieuw.,reviewed,crm
+Failed to load form controller: {0},Fout bij het laden van formulierbesturing: {0},reviewed,crm
+Failed to rename template,Hernoemen van sjabloon is mislukt,reviewed,crm
+Failed to save workday: {0},Opslaan van werkdag is mislukt: {0},reviewed,crm
+Failed to send WhatsApp message,Verzenden van WhatsApp-bericht is mislukt,reviewed,crm
+Failed to send WhatsApp template,Verzenden van WhatsApp-sjabloon is mislukt,reviewed,crm
+Failed to send comment!,Verzenden van opmerking is mislukt!,reviewed,crm
+Failed to send email!,E-mail verzenden is mislukt!,reviewed,crm
+"Failed to update Email Account, Invalid credentials","Bijwerken van Email Account is mislukt, ongeldige inloggegevens",reviewed,crm
+Failed to update Twilio call status,Bijwerken Twilio oproepstatus mislukt,reviewed,crm
+Failed to update attending status,Bijwerken van deelnamestatus is mislukt,reviewed,crm
+Failed to update source,Bijwerken van bron mislukt,reviewed,crm
+Failed to update template,Bijwerken van sjabloon is mislukt,reviewed,crm
+Failure Logs,Foutenlogboek,reviewed,crm
+Fields Order,Veldvolgorde,reviewed,crm
+"File ""{0}"" was skipped because of invalid file type","Bestand ""{0}"" is overgeslagen vanwege een ongeldig bestandstype",reviewed,crm
+"File ""{0}"" was skipped because only {1} uploads are allowed","Bestand ""{0}"" is overgeslagen omdat slechts {1} uploads zijn toegestaan",reviewed,crm
+"File ""{0}"" was skipped because only {1} uploads are allowed for DocType ""{2}""","Bestand ""{0}"" werd overgeslagen omdat alleen {1} uploads toegestaan zijn voor DocType ""{2}""",reviewed,crm
+First Name is mandatory,Voornaam is verplicht,reviewed,crm
+First Response Due,Eerste reactie vervaldatum,reviewed,crm
+First Response TIme,Eerste reactietijd,reviewed,crm
+First name,Voornaam,reviewed,crm
+"For all-day events, <b>set a time</b> to send reminders before the event starts","Voor evenementen die de hele dag duren, <b>stel een tijd in</b> om herinneringen te versturen voor het evenement begint",reviewed,crm
+Forecasted Revenue,Verwachte omzet,reviewed,crm
+Forecasted revenue,Verwachte omzet,reviewed,crm
+Forecasting,Prognoses,reviewed,crm
+Forecasting disabled successfully,Voorspelling succesvol uitgeschakeld,reviewed,crm
+Forecasting enabled successfully,Prognose succesvol ingeschakeld,reviewed,crm
+Form,Formulier,reviewed,crm
+Form Name,Formuliernaam,reviewed,crm
+Form Script updated successfully,Formulier Script succesvol bijgewerkt,reviewed,crm
+Frappe CRM mobile,Frappe CRM mobiel,reviewed,crm
+Frappe Mail Site,Frappe Mail Site,reviewed,crm
+From Type,Afzendertype,reviewed,crm
+Funnel Conversion,Funnelconversie,reviewed,crm
+Funnel conversion,Funnelconversie,reviewed,crm
+Geographic distribution of deals and revenue,Geografische verdeling van deals en omzet,reviewed,crm
+GitHub Repository,GitHub Repository,reviewed,crm
+Go to Invite Page,Ga naar uitnodigingspagina,reviewed,crm
+Go to Website,Ga naar website,reviewed,crm
+Going?,Aanwezig?,reviewed,crm
+Grid Row,Rasterrij,reviewed,crm
+Group By Field,Groepeer op veld,reviewed,crm
+Group By: ,Groepeer op: ,reviewed,crm
+Hang Up,Ophangen,reviewed,crm
+Hello,Hallo,reviewed,crm
 "Hi John, \
 \
 Can you please provide more details on this...","Hallo John, \
 \
-Kun je alsjeblieft meer details hierover geven...",unreviewed,crm
-Hide Label,,unreviewed,crm
-Hide Password,Verberg wachtwoord,unreviewed,crm
-Hide Preview,Voorbeeld verbergen,unreviewed,crm
-Hide Recording,Verberg opname,unreviewed,crm
-Home Actions,Startpagina-acties,unreviewed,crm
-"I understand, Add Conditions",,unreviewed,crm
-"If enabled, a lead will be automatically created when an incoming email is received from an unknown contact.",,unreviewed,crm
-"If enabled, all outgoing emails will be sent from this account. Note: Only one account can be default outgoing.","Indien ingeschakeld, zullen alle uitgaande e-mails van dit account worden verzonden. Opmerking: slechts één account kan standaard uitgaand zijn.",unreviewed,crm
-"If enabled, all replies to your company (eg: replies@yourcompany.com) will come to this account. Note: Only one account can be default incoming.","Indien ingeschakeld, zullen alle antwoorden op uw bedrijf (bijv: replies@yourcompany.com) naar dit account komen. Opmerking: slechts één account kan het standaard inkomen zijn.",unreviewed,crm
-"If enabled, emails will be pulled from this account.",,unreviewed,crm
-"If enabled, outgoing emails can be sent from this account.","Indien ingeschakeld, kunnen uitgaande e-mails vanaf deze account worden verzonden.",unreviewed,crm
-In less than a minute,Minder dan een minuut,unreviewed,crm
-Inbound Call,Binnenkomend gesprek,unreviewed,crm
-Incoming call...,Inkomende oproep...,unreviewed,crm
-Industries,Industrieën,unreviewed,crm
-Initiating call...,Inkomende oproep...,unreviewed,crm
-Insert Email Template,E-mailsjabloon invoegen,unreviewed,crm
-Integration,Integratie,unreviewed,crm
-Integration Not Enabled,Integratie niet ingeschakeld,unreviewed,crm
-Invalid Email Address,,unreviewed,crm
-Invalid Email or Password,,unreviewed,crm
-Invalid Exotel Number,Ongeldig Exotel Nummer,unreviewed,crm
-Invalid Start Or End Time,,unreviewed,crm
-Invalid Twilio account,,unreviewed,crm
-Invalid Twilio application,,unreviewed,crm
-Invalid Website URL,,unreviewed,crm
-Invalid access token provided for Facebook.,Ongeldig toegangstoken opgegeven voor Facebook.,unreviewed,crm
-Invalid chart name,Ongeldige kaartnaam,unreviewed,crm
-Invalid email ID,Ongeldig e-mail ID,unreviewed,crm
-Invalid email address,,unreviewed,crm
-Invalid field,,unreviewed,crm
-"Invalid fields, check if all are filled in and values are correct.","Ongeldige velden, controleer of alle velden zijn ingevuld en de waarden correct zijn.",unreviewed,crm
-Invalid fields: {0},,unreviewed,crm
-Invalid lead details supplied.,,unreviewed,crm
-Invalid or expired key,,unreviewed,crm
-Invalid page or not permitted to access,Ongeldige pagina of niet toegestaan om te openen,unreviewed,crm
-Invitations sent successfully,,unreviewed,crm
-Invite Agent,,unreviewed,crm
-Invite As,,unreviewed,crm
-Invite By Email,,unreviewed,crm
-Invite New User,Nodig nieuwe gebruiker uit,unreviewed,crm
-Invite User,Gebruiker uitnodigen,unreviewed,crm
-Invite Users,,unreviewed,crm
-Invite users to access CRM. Specify their roles to control access and permissions,Nodig gebruikers uit voor toegang tot CRM. Specificeer hun rollen om de toegang en rechten te beheren,unreviewed,crm
-Invite your team,Nodig uw team uit,unreviewed,crm
-Invited By,Uitgenodigd door,unreviewed,crm
-Is ERPNext installed on a different site?,Is ERPNext op een andere locatie geïnstalleerd?,unreviewed,crm
-It appears that there are currently no {0} available. You can create more {0} by using the Create button.,,unreviewed,crm
-"It will make deal's ""Expected Closure Date"" & ""Expected Deal Value"" mandatory to get accurate forecasting insights","De ""Verwachte sluitingsdatum"" & ""Verwachte transactiewaarde"" van de deal worden verplicht om nauwkeurige voorspellingsinzichten te krijgen",unreviewed,crm
-Items are required,,unreviewed,crm
-Items must be a list,,unreviewed,crm
-"John, Jane, Doe",,unreviewed,crm
-Kanban Columns,Kanban kolommen,unreviewed,crm
-Kanban Fields,Kanban velden,unreviewed,crm
-Kanban Settings,Kanban-instellingen,unreviewed,crm
-Kanban settings,,unreviewed,crm
-Language & Time,,unreviewed,crm
-Last 30 Days,Afgelopen 30 dagen,unreviewed,crm
-Last 6 Months,Laatste 6 maanden,unreviewed,crm
-Last 60 Days,,unreviewed,crm
-Last 7 Days,Afgelopen 7 dagen,unreviewed,crm
-Last 90 Days,Afgelopen 90 dagen,unreviewed,crm
-Last Responded On,Laatst gereageerd op,unreviewed,crm
-Last Response Time,Laatste Reactie Tijd,unreviewed,crm
-Last Status Change Log,Laatste gewijzigde status log,unreviewed,crm
-Last Synced At,Laatst gesynchroniseerd op,unreviewed,crm
-Last name,Achternaam,unreviewed,crm
-Last user assigned by this rule,Laatst gebruiker toegewezen door deze regel,unreviewed,crm
-Lead Data,Lead Gegevens,unreviewed,crm
-Lead Owner cannot be same as the Lead Email Address,Lead Eigenaar mag niet hetzelfde zijn als het Lead e-mailadres,unreviewed,crm
-Lead Sources,Lead Bronnen,unreviewed,crm
-Lead Statuses,Lead statussen,unreviewed,crm
-Lead Sync Source,Lead Sync bron,unreviewed,crm
-Lead Sync Source created successfully,Lead Sync bron succesvol aangemaakt,unreviewed,crm
-Lead Syncing,Leadsynchronisatie,unreviewed,crm
-Lead from call {0},,unreviewed,crm
-Lead generation channel analysis,Lead generatie kanaal analyse,unreviewed,crm
-Lead sync initiated.,Lead-synchronisatie is gestart.,unreviewed,crm
-Lead sync source deleted successfully,,unreviewed,crm
-Lead to deal conversion pipeline,Lead-naar-deal conversiepipeline,unreviewed,crm
-Leads by Source,,unreviewed,crm
-Leads by source,Leads per bron,unreviewed,crm
-Learn about conditions,Lees meer over de voorwaarden,unreviewed,crm
-Library,Bibliotheek,unreviewed,crm
-Light,Licht,unreviewed,crm
-Listen,Luister,unreviewed,crm
-Load Default Columns,Laad standaard Kolommen,unreviewed,crm
-Log a Call,Log een gesprek,unreviewed,crm
-Login to Frappe Cloud?,Inloggen bij Frappe Cloud?,unreviewed,crm
-Login with Different Account,,unreviewed,crm
-Lost Deal Reasons,,unreviewed,crm
-Lost Details,,unreviewed,crm
-Lost Notes,Verloren notities,unreviewed,crm
-"Lost Notes are required when Lost Reason is ""Other""",,unreviewed,crm
-Lost Reason is required,,unreviewed,crm
-Lost deal reasons,Redenen voor verloren deal,unreviewed,crm
-Make Call,Gesprek starten,unreviewed,crm
-Make Private,Privé maken,unreviewed,crm
-Make Public,Openbaar maken,unreviewed,crm
-Make a Call,Een gesprek starten,unreviewed,crm
-Make attachment {0},Maak bijlage {0},unreviewed,crm
-Make {0} as default calling medium,Maak {0} als standaard oproepmedium,unreviewed,crm
-"Makes ""Expected Closure Date"" and ""Expected Deal Value"" mandatory for deal value forecasting","Maakt ""Verwachte sluitingsdatum"" en ""Verwachte transactiewaarde"" verplicht voor het voorspellen van de transactiewaarde",unreviewed,crm
-"Manage CRM users by adding or inviting them, and assign roles to control their access and permissions","Beheer CRM-gebruikers door ze toe te voegen of uit te nodigen, en wijs rollen toe om hun toegang en rechten te beheren",unreviewed,crm
-Manage your account emails and email signature for communication.,,unreviewed,crm
-Manage your email accounts to send and receive emails directly from CRM. You can add multiple accounts and set one as default for incoming and outgoing emails.,Beheer uw e-mailaccounts om direct e-mails te verzenden en ontvangen vanuit CRM. U kunt meerdere accounts toevoegen en één als standaard instellen voor inkomende en uitgaande e-mails.,unreviewed,crm
-Manage your email signature,,unreviewed,crm
-Manage your profile & login information.,,unreviewed,crm
-Manage your service level agreement policies,,unreviewed,crm
-Mandatory field error: {0},Verplicht veld fout: {0},unreviewed,crm
-Mandatory field(s) {0} must be mapped,Verplichte veld(en) {0} moeten worden toegewezen,unreviewed,crm
-Mandatory fields required: {0},Verplichte velden vereist: {0},unreviewed,crm
-Mapped to CRM Field,Toegewezen aan CRM-veld,unreviewed,crm
-Mark all as read,Markeer alle berichten als gelezen,unreviewed,crm
-Mark lead/deal as replied on response,,unreviewed,crm
-"May 1, 2025",1 mei 2025,unreviewed,crm
-Maybe,Misschien,unreviewed,crm
-Medium,Gemiddeld,unreviewed,crm
-Minimize,Minimaliseren,unreviewed,crm
-Missed Call,,unreviewed,crm
-Missing mandatory fields: {0},,unreviewed,crm
-Mobile App Installation,,unreviewed,crm
-Mobile No. should be a number,,unreviewed,crm
-Mobile Number Missing,Mobiel nummer ontbreekt,unreviewed,crm
-More Options,Meer opties,unreviewed,crm
-Move to Next Section,,unreviewed,crm
-Move to Next Tab,,unreviewed,crm
-Move to Previous Section,,unreviewed,crm
-Move to Previous Tab,,unreviewed,crm
-My Open Deals,Mijn open deals,unreviewed,crm
-Name is required,Naam is vereist,unreviewed,crm
-Nested Conditions,,unreviewed,crm
-New Assignment Rule,Nieuwe toewijzingsregel,unreviewed,crm
-New Assignment Rule Name,Naam nieuwe toewijzingsregel,unreviewed,crm
-New Comment,Nieuwe opmerkingen,unreviewed,crm
-New Lead Sync Source,Nieuwe Lead Sync bron,unreviewed,crm
-New Message,Nieuw bericht,unreviewed,crm
-New Note,Nieuwe notitie,unreviewed,crm
-New Organization,Nieuwe organisatie,unreviewed,crm
-New SLA Policy,,unreviewed,crm
-New SLA Policy Name,,unreviewed,crm
-New Section,Nieuwe sectie,unreviewed,crm
-New Tab,Nieuwe tab,unreviewed,crm
-New Task,Nieuwe taak,unreviewed,crm
-New Template,,unreviewed,crm
+Kunt u alstublieft meer details hierover geven...",reviewed,crm
+Hide Label,Label verbergen,reviewed,crm
+Hide Password,Verberg wachtwoord,reviewed,crm
+Hide Preview,Voorbeeld verbergen,reviewed,crm
+Hide Recording,Verberg opname,reviewed,crm
+Home Actions,Startpagina-acties,reviewed,crm
+"I understand, Add Conditions","Ik begrijp het, Voorwaarden toevoegen",reviewed,crm
+"If enabled, a lead will be automatically created when an incoming email is received from an unknown contact.","Indien ingeschakeld, wordt automatisch een Lead aangemaakt wanneer een inkomende e-mail wordt ontvangen van een onbekend contact.",reviewed,crm
+"If enabled, all outgoing emails will be sent from this account. Note: Only one account can be default outgoing.","Indien ingeschakeld, worden alle uitgaande e-mails verzonden vanuit dit account. Opmerking: slechts een account kan het standaard uitgaande account zijn.",reviewed,crm
+"If enabled, all replies to your company (eg: replies@yourcompany.com) will come to this account. Note: Only one account can be default incoming.","Indien ingeschakeld, komen alle antwoorden aan uw bedrijf (bijv: replies@uwbedrijf.com) naar dit account. Opmerking: slechts een account kan het standaard inkomende account zijn.",reviewed,crm
+"If enabled, emails will be pulled from this account.","Indien ingeschakeld, worden e-mails opgehaald uit dit account.",reviewed,crm
+"If enabled, outgoing emails can be sent from this account.","Indien ingeschakeld, kunnen uitgaande e-mails vanaf deze account worden verzonden.",reviewed,crm
+In less than a minute,Minder dan een minuut geleden,reviewed,crm
+Inbound Call,Binnenkomend gesprek,reviewed,crm
+Incoming call...,Inkomende oproep...,reviewed,crm
+Industries,Sectoren,reviewed,crm
+Initiating call...,Gesprek wordt gestart...,reviewed,crm
+Insert Email Template,E-mailsjabloon invoegen,reviewed,crm
+Integration,Integratie,reviewed,crm
+Integration Not Enabled,Integratie niet ingeschakeld,reviewed,crm
+Invalid Email Address,Ongeldig e-mailadres,reviewed,crm
+Invalid Email or Password,Ongeldig e-mailadres of wachtwoord,reviewed,crm
+Invalid Exotel Number,Ongeldig Exotel Nummer,reviewed,crm
+Invalid Start Or End Time,Ongeldige start- of eindtijd,reviewed,crm
+Invalid Twilio account,Ongeldig Twilio-account,reviewed,crm
+Invalid Twilio application,Ongeldige Twilio-applicatie,reviewed,crm
+Invalid Website URL,Ongeldige website-URL,reviewed,crm
+Invalid access token provided for Facebook.,Ongeldig toegangstoken opgegeven voor Facebook.,reviewed,crm
+Invalid chart name,Ongeldige grafiektitel,reviewed,crm
+Invalid email ID,Ongeldig e-mailadres,reviewed,crm
+Invalid email address,Ongeldig e-mailadres,reviewed,crm
+Invalid field,Ongeldig veld,reviewed,crm
+"Invalid fields, check if all are filled in and values are correct.","Ongeldige velden, controleer of alle velden zijn ingevuld en de waarden correct zijn.",reviewed,crm
+Invalid fields: {0},Ongeldige velden: {0},reviewed,crm
+Invalid lead details supplied.,Ongeldige Lead-gegevens opgegeven.,reviewed,crm
+Invalid or expired key,Ongeldige of verlopen sleutel,reviewed,crm
+Invalid page or not permitted to access,Ongeldige pagina of niet toegestaan om te openen,reviewed,crm
+Invitations sent successfully,Uitnodigingen succesvol verzonden,reviewed,crm
+Invite Agent,Medewerker uitnodigen,reviewed,crm
+Invite As,Uitnodigen als,reviewed,crm
+Invite By Email,Uitnodigen via e-mail,reviewed,crm
+Invite New User,Nodig nieuwe gebruiker uit,reviewed,crm
+Invite User,Gebruiker uitnodigen,reviewed,crm
+Invite Users,Gebruikers uitnodigen,reviewed,crm
+Invite users to access CRM. Specify their roles to control access and permissions,Nodig gebruikers uit voor toegang tot CRM. Specificeer hun rollen om de toegang en rechten te beheren,reviewed,crm
+Invite your team,Nodig uw team uit,reviewed,crm
+Invited By,Uitgenodigd door,reviewed,crm
+Is ERPNext installed on a different site?,Is ERPNext op een andere locatie geïnstalleerd?,reviewed,crm
+It appears that there are currently no {0} available. You can create more {0} by using the Create button.,Er zijn momenteel geen {0} beschikbaar. U kunt meer {0} aanmaken via de knop Aanmaken.,reviewed,crm
+"It will make deal's ""Expected Closure Date"" & ""Expected Deal Value"" mandatory to get accurate forecasting insights","De ""Verwachte sluitingsdatum"" en ""Verwachte transactiewaarde"" van de deal worden verplicht om nauwkeurige voorspellingsinzichten te krijgen",reviewed,crm
+Items are required,Items zijn verplicht,reviewed,crm
+Items must be a list,Items moeten een lijst zijn,reviewed,crm
+"John, Jane, Doe","Jan, Marie, De Vries",reviewed,crm
+Kanban Columns,Kanban-kolommen,reviewed,crm
+Kanban Fields,Kanban-velden,reviewed,crm
+Kanban Settings,Kanban-instellingen,reviewed,crm
+Kanban settings,Kanban-instellingen,reviewed,crm
+Language & Time,Taal en tijd,reviewed,crm
+Last 30 Days,Afgelopen 30 dagen,reviewed,crm
+Last 6 Months,Afgelopen 6 maanden,reviewed,crm
+Last 60 Days,Afgelopen 60 dagen,reviewed,crm
+Last 7 Days,Afgelopen 7 dagen,reviewed,crm
+Last 90 Days,Afgelopen 90 dagen,reviewed,crm
+Last Responded On,Laatst gereageerd op,reviewed,crm
+Last Response Time,Laatste reactietijd,reviewed,crm
+Last Status Change Log,Laatste statuswijzigingslog,reviewed,crm
+Last Synced At,Laatst gesynchroniseerd op,reviewed,crm
+Last name,Achternaam,reviewed,crm
+Last user assigned by this rule,Laatste gebruiker toegewezen door deze regel,reviewed,crm
+Lead Data,Lead-gegevens,reviewed,crm
+Lead Owner cannot be same as the Lead Email Address,De Lead-eigenaar mag niet hetzelfde zijn als het e-mailadres van de Lead,reviewed,crm
+Lead Sources,Lead-bronnen,reviewed,crm
+Lead Statuses,Lead-statussen,reviewed,crm
+Lead Sync Source,Lead Sync-bron,reviewed,crm
+Lead Sync Source created successfully,Lead Sync-bron succesvol aangemaakt,reviewed,crm
+Lead Syncing,Lead-synchronisatie,reviewed,crm
+Lead from call {0},Lead vanuit gesprek {0},reviewed,crm
+Lead generation channel analysis,Lead-generatiekanaalanalyse,reviewed,crm
+Lead sync initiated.,Lead-synchronisatie is gestart.,reviewed,crm
+Lead sync source deleted successfully,Lead Sync-bron succesvol verwijderd,reviewed,crm
+Lead to deal conversion pipeline,Lead-naar-deal-conversiepipeline,reviewed,crm
+Leads by Source,Leads per bron,reviewed,crm
+Leads by source,Leads per bron,reviewed,crm
+Learn about conditions,Meer informatie over voorwaarden,reviewed,crm
+Library,Bibliotheek,reviewed,crm
+Light,Licht,reviewed,crm
+Listen,Luisteren,reviewed,crm
+Load Default Columns,Standaardkolommen laden,reviewed,crm
+Log a Call,Gesprek vastleggen,reviewed,crm
+Login to Frappe Cloud?,Inloggen bij Frappe Cloud?,reviewed,crm
+Login with Different Account,Inloggen met een ander account,reviewed,crm
+Lost Deal Reasons,Redenen voor verloren Deal,reviewed,crm
+Lost Details,Details verloren,reviewed,crm
+Lost Notes,Notities bij verlies,reviewed,crm
+"Lost Notes are required when Lost Reason is ""Other""","Notities bij verlies zijn verplicht wanneer de reden voor verlies ""Overig"" is",reviewed,crm
+Lost Reason is required,Reden voor verlies is verplicht,reviewed,crm
+Lost deal reasons,Redenen voor verloren deal,reviewed,crm
+Make Call,Gesprek starten,reviewed,crm
+Make Private,Privé maken,reviewed,crm
+Make Public,Openbaar maken,reviewed,crm
+Make a Call,Een gesprek starten,reviewed,crm
+Make attachment {0},Bijlage {0} maken,reviewed,crm
+Make {0} as default calling medium,Stel {0} in als standaard gespreksmedium,reviewed,crm
+"Makes ""Expected Closure Date"" and ""Expected Deal Value"" mandatory for deal value forecasting","Maakt ""Verwachte sluitingsdatum"" en ""Verwachte transactiewaarde"" verplicht voor het voorspellen van de transactiewaarde",reviewed,crm
+"Manage CRM users by adding or inviting them, and assign roles to control their access and permissions","Beheer CRM-gebruikers door ze toe te voegen of uit te nodigen, en wijs rollen toe om hun toegang en rechten te beheren",reviewed,crm
+Manage your account emails and email signature for communication.,Beheer uw account-e-mails en e-mailhandtekening voor communicatie.,reviewed,crm
+Manage your email accounts to send and receive emails directly from CRM. You can add multiple accounts and set one as default for incoming and outgoing emails.,Beheer uw e-mailaccounts om direct e-mails te verzenden en ontvangen vanuit CRM. U kunt meerdere accounts toevoegen en één als standaard instellen voor inkomende en uitgaande e-mails.,reviewed,crm
+Manage your email signature,Beheer uw e-mailhandtekening,reviewed,crm
+Manage your profile & login information.,Beheer uw profielgegevens en inloggegevens.,reviewed,crm
+Manage your service level agreement policies,Beheer uw serviceniveauovereenkomstbeleid,reviewed,crm
+Mandatory field error: {0},Fout verplicht veld: {0},reviewed,crm
+Mandatory field(s) {0} must be mapped,Verplicht(e) veld(en) {0} moet(en) worden gekoppeld,reviewed,crm
+Mandatory fields required: {0},Verplichte velden ontbreken: {0},reviewed,crm
+Mapped to CRM Field,Gekoppeld aan CRM-veld,reviewed,crm
+Mark all as read,Alles als gelezen markeren,reviewed,crm
+Mark lead/deal as replied on response,Lead/Deal als beantwoord markeren bij reactie,reviewed,crm
+"May 1, 2025",1 mei 2025,reviewed,crm
+Maybe,Misschien,reviewed,crm
+Medium,Gemiddeld,reviewed,crm
+Minimize,Minimaliseren,reviewed,crm
+Missed Call,Gemiste oproep,reviewed,crm
+Missing mandatory fields: {0},Verplichte velden ontbreken: {0},reviewed,crm
+Mobile App Installation,Mobiele app installeren,reviewed,crm
+Mobile No. should be a number,Mobiel nummer moet een getal zijn,reviewed,crm
+Mobile Number Missing,Mobiel nummer ontbreekt,reviewed,crm
+More Options,Meer opties,reviewed,crm
+Move to Next Section,Naar volgende sectie,reviewed,crm
+Move to Next Tab,Naar volgende tab,reviewed,crm
+Move to Previous Section,Naar vorige sectie,reviewed,crm
+Move to Previous Tab,Naar vorige tab,reviewed,crm
+My Open Deals,Mijn open deals,reviewed,crm
+Name is required,Naam is verplicht,reviewed,crm
+Nested Conditions,Geneste voorwaarden,reviewed,crm
+New Assignment Rule,Nieuwe toewijzingsregel,reviewed,crm
+New Assignment Rule Name,Naam nieuwe toewijzingsregel,reviewed,crm
+New Comment,Nieuwe opmerking,reviewed,crm
+New Lead Sync Source,Nieuwe Lead Sync-bron,reviewed,crm
+New Message,Nieuw bericht,reviewed,crm
+New Note,Nieuwe notitie,reviewed,crm
+New Organization,Nieuwe organisatie,reviewed,crm
+New SLA Policy,Nieuw SLA-beleid,reviewed,crm
+New SLA Policy Name,Naam nieuw SLA-beleid,reviewed,crm
+New Section,Nieuwe sectie,reviewed,crm
+New Tab,Nieuwe tab,reviewed,crm
+New Task,Nieuwe taak,reviewed,crm
+New Template,Nieuwe Template,reviewed,crm
 New contact will be created based on the person's details,Er wordt een nieuw contact aangemaakt op basis van de gegevens van de persoon,unreviewed,crm
 New organization will be created based on the data in details section,Geen antwoord,unreviewed,crm
 Next 6 Months,Volgende 6 maanden,unreviewed,crm

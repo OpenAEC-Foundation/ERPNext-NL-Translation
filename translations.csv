@@ -1499,306 +1499,306 @@ by,door,reviewed,erpnext,0.85,0.8,0.8,0.8,1.0,1.0,ok
 "By default, the Customer Name is set as per the Full Name entered. If you want Customers to be named by a",Standaard wordt de klantnaam ingesteld volgens de ingevoerde volledige naam. Als u wilt dat klanten worden genoemd door een,reviewed,erpnext,0.74,0.75,0.7,0.75,0.75,0.75,review
 "By default, the Item Name is set as per the Item Code entered. If you want Items to be named by a",Standaard wordt de artikelnaam ingesteld volgens de ingevoerde artikelcode. Als u wilt dat items een naam krijgen van,reviewed,erpnext,0.74,0.75,0.7,0.75,0.75,0.75,review
 "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a",Standaard wordt de leveranciersnaam ingesteld volgens de ingevoerde leveranciersnaam. Als u wilt dat leveranciers worden genoemd door een,reviewed,erpnext,0.74,0.75,0.7,0.75,0.75,0.75,review
-by Role,op rol,reviewed,frappe,,,,,,,
-By {0},Door {0},reviewed,erpnext,,,,,,,
-Bypass credit check at Sales Order,Bypass credit check op klantorder,reviewed,erpnext,,,,,,,
-Bypass Credit Limit Check at Sales Order,Creditlimietcontrole overslaan op klantorder,reviewed,erpnext,,,,,,,
-Bypass Restricted IP Address Check If Two Factor Auth Enabled,Beperkt IP-adres omzeilen Controleer of twee-factorenauthenticatie is ingeschakeld,reviewed,frappe,,,,,,,
-Bypass restricted IP Address check If Two Factor Auth Enabled,Bypass beperkte IP-adrescontrole Als twee factoren geactiveerd zijn,reviewed,frappe,,,,,,,
-Bypass Two Factor Auth for users who login from restricted IP Address,Bypass Two Factor Auth voor gebruikers die zich aanmelden bij een beperkt IP-adres,reviewed,frappe,,,,,,,
-Byproducts,bijproducten,reviewed,erpnext,,,,,,,
-C-Form Applicable,C-Form Toepasselijk,reviewed,erpnext,,,,,,,
-C-Form Invoice Detail,C-Form Factuurspecificatie,reviewed,erpnext,,,,,,,
-C-form is not applicable for Invoice: {0},C-vorm is niet van toepassing voor de factuur: {0},reviewed,erpnext,,,,,,,
-C-Form No,C-vorm nr.,reviewed,erpnext,,,,,,,
-C-Form records,C-Form records,reviewed,erpnext,,,,,,,
-ca-central-1,ca-central-1,reviewed,frappe,,,,,,,
-Ca/(K+Ca+Mg),Ca / (K + Ca + Mg),reviewed,erpnext,,,,,,,
-Ca/K,Ca / K,reviewed,erpnext,,,,,,,
-Ca/Mg,Ca / Mg,reviewed,erpnext,,,,,,,
-Cache Cleared,Cache geleegd,reviewed,frappe,,,,,,,
-Calculate,Bereken,reviewed,frappe,,,,,,,
-Calculate Based On,Berekenen op basis van,reviewed,erpnext,,,,,,,
-Calculate Depreciation,Bereken afschrijving,reviewed,erpnext,,,,,,,
-Calculate Estimated Arrival Times,Bereken geschatte aankomsttijden,reviewed,erpnext,,,,,,,
-Calculated Bank Statement balance,Berekend bankafschriftsaldo,reviewed,erpnext,,,,,,,
-Calculations,Berekeningen,reviewed,erpnext,,,,,,,
-Calendar,Agenda,reviewed,frappe,,,,,,,
-calendar,agenda,reviewed,frappe,,,,,,,
-Calendar Event,Agendagebeurtenis,reviewed,erpnext,,,,,,,
-Calendar Name,Agendanaam,reviewed,frappe,,,,,,,
-Calendar View,Agendaweergave,reviewed,frappe,,,,,,,
-Calibration,Ijking,reviewed,erpnext,,,,,,,
-Call,Bellen,reviewed,frappe,,,,,,,
-Call Connected,Oproep verbonden,reviewed,erpnext,,,,,,,
-Call Details,Oproepdetails,reviewed,erpnext,,,,,,,
-Call Disconnected,Oproep verbroken,reviewed,erpnext,,,,,,,
-Call Duration in seconds,Oproepduur in seconden,reviewed,erpnext,,,,,,,
-Call Log,Oproeplogboek,reviewed,erpnext,,,,,,,
-Call Missed,Gemiste oproep,reviewed,erpnext,,,,,,,
-Call Summary,Oproepsamenvatting,reviewed,erpnext,,,,,,,
-Call Summary Saved,Oproepsamenvatting opgeslagen,reviewed,erpnext,,,,,,,
-Call To Action,Oproep tot actie,reviewed,frappe,,,,,,,
-Call To Action URL,Call-to-action-URL,reviewed,frappe,,,,,,,
-Callback Message,Terugbelbericht,reviewed,frappe,,,,,,,
-Callback Title,Callback-titel,reviewed,frappe,,,,,,,
-Callback URL,Callback-URL,reviewed,frappe,,,,,,,
-Caller Information,Bellerinformatie,reviewed,erpnext,,,,,,,
-Campaign,Campagne,reviewed,erpnext,,,,,,,
-Campaign Efficiency,Campagne-efficiëntie,reviewed,erpnext,,,,,,,
-Campaign Email Schedule,E-mailschema campagne,reviewed,erpnext,,,,,,,
-Campaign Name,Campagnenaam,reviewed,erpnext,,,,,,,
-Campaign Naming By,Campagnenaam toegewezen door,reviewed,erpnext,,,,,,,
-Campaign Schedules,Campagneschema&#39;s,reviewed,erpnext,,,,,,,
-Can be approved by {0},Kan door {0} worden goedgekeurd,reviewed,erpnext,,,,,,,
-"Can not filter based on Account, if grouped by Account","Kan niet filteren op rekening, indien gegroepeerd op rekening",reviewed,erpnext,,,,,,,
-"Can not filter based on Cashier, if grouped by Cashier","Kan niet filteren op basis van kassier, indien gegroepeerd op kassier",reviewed,erpnext,,,,,,,
-"Can not filter based on Customer, if grouped by Customer","Kan niet filteren op klant, indien gegroepeerd op klant",reviewed,erpnext,,,,,,,
-"Can not filter based on Payment Method, if grouped by Payment Method","Kan niet filteren op basis van betalingsmethode, indien gegroepeerd op betalingsmethode",reviewed,erpnext,,,,,,,
-"Can not filter based on POS Profile, if grouped by POS Profile","Kan niet filteren op basis van POS-profiel, indien gegroepeerd op POS-profiel",reviewed,erpnext,,,,,,,
-"Can not filter based on Voucher No, if grouped by Voucher","Kan niet filteren op boekstuknummer, indien gegroepeerd per boekstuk",reviewed,erpnext,,,,,,,
-"Can not mark Inpatient Record Discharged, there are Unbilled Invoices {0}","Kan de Inpatient Record Discharged niet markeren, er zijn onbetaalde facturen {0}",reviewed,erpnext,,,,,,,
-Can only make payment against unbilled {0},Kan alleen betaling uitvoeren voor ongefactureerde {0},reviewed,erpnext,,,,,,,
-Can Read,Kan lezen,reviewed,frappe,,,,,,,
-Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',Kan de rij enkel verwijzen bij het aanrekeningstype 'Hoeveelheid vorige rij' of 'Totaal vorige rij',reviewed,erpnext,,,,,,,
-Can Share,Kan delen,reviewed,frappe,,,,,,,
-Can Write,Kan schrijven,reviewed,frappe,,,,,,,
-"Can't change valuation method, as there are transactions against some items which does not have it's own valuation method","Kan de waarderingsmethode niet wijzigen, aangezien er transacties zijn tegen sommige items die geen eigen waarderingsmethode hebben",reviewed,erpnext,,,,,,,
-Can't create standard criteria. Please rename the criteria,Kan geen standaardcriteria maken. Wijzig de naam van de criteria,reviewed,erpnext,,,,,,,
-Can't identify open {0}. Try something else.,Kan open {0} niet identificeren. Probeer iets anders.,reviewed,frappe,,,,,,,
-Can't save the form as data import is in progress.,Kan het formulier niet opslaan omdat de gegevens worden geïmporteerd.,reviewed,frappe,,,,,,,
-Cancel,Annuleren,reviewed,both,,,,,,,
-Cancel All Documents,Alle documenten annuleren,reviewed,frappe,,,,,,,
-Cancel At End Of Period,Annuleren aan het einde van de periode,reviewed,erpnext,,,,,,,
-Cancel Material Visit {0} before cancelling this Warranty Claim,Annuleer materiaalbezoek {0} voor het annuleren van deze garantieclaim,reviewed,erpnext,,,,,,,
-Cancel Material Visits {0} before cancelling this Maintenance Visit,Annuleer materiaalbezoeken {0} voor het annuleren van dit onderhoudsbezoek,reviewed,erpnext,,,,,,,
-Cancel Subscription,Abonnement annuleren,reviewed,erpnext,,,,,,,
-Cancel Subscription After Grace Period,Abonnement opzeggen na respijtperiode,reviewed,erpnext,,,,,,,
-Cancel the journal entry {0} first,Annuleer eerst de journaalboeking {0},reviewed,erpnext,,,,,,,
-Cancel {0} documents?,{0} documenten annuleren?,reviewed,frappe,,,,,,,
-Cancelation Date,Annuleringsdatum,reviewed,erpnext,,,,,,,
-Canceled,Geannuleerd,reviewed,erpnext,,,,,,,
-CANCELLED,GEANNULEERD,reviewed,frappe,,,,,,,
-Cancelled,Geannuleerd,reviewed,both,,,,,,,
-Cancelled Document restored as Draft,Geannuleerd document hersteld als concept,reviewed,frappe,,,,,,,
-cancelled this document,dit document geannuleerd,reviewed,frappe,,,,,,,
-cancelled this document {0},heeft dit document {0} geannuleerd,reviewed,frappe,,,,,,,
-Cancelling,Annuleren,reviewed,frappe,,,,,,,
-Cancelling documents,Documenten annuleren,reviewed,frappe,,,,,,,
-Cancelling {0},{0} annuleren,reviewed,frappe,,,,,,,
-Cannot allocate more than {0} against payment term {1},Kan niet meer dan {0} toewijzen op basis van betalingstermijn {1},reviewed,erpnext,,,,,,,
-Cannot be a fixed asset item as Stock Ledger is created.,Kan geen vast activumartikel zijn omdat het voorraadgrootboek wordt aangemaakt.,reviewed,erpnext,,,,,,,
-cannot be greater than 100,mag niet groter zijn dan 100,reviewed,erpnext,,,,,,,
-Cannot Calculate Arrival Time as Driver Address is Missing.,Kan aankomsttijd niet berekenen omdat het adres van de bestuurder ontbreekt.,reviewed,erpnext,,,,,,,
-Cannot cancel because submitted Stock Entry {0} exists,Kan niet annuleren omdat ingediende voorraadmutatie {0} bestaat,reviewed,erpnext,,,,,,,
-Cannot cancel before submitting. See Transition {0},Kan niet annuleren voor indiening. Zie overgang {0},reviewed,frappe,,,,,,,
-Cannot cancel this document as it is linked with submitted asset {0}. Please cancel it to continue.,Kan dit document niet annuleren omdat het is gekoppeld aan het ingediende item {0}. Annuleer het om door te gaan.,reviewed,erpnext,,,,,,,
-Cannot cancel transaction for Completed Work Order.,Kan transactie voor voltooide werkorder niet annuleren.,reviewed,erpnext,,,,,,,
-Cannot cancel {0} {1} because Serial No {2} does not belong to the warehouse {3},Kan {0} {1} niet annuleren omdat serienummer {2} niet tot het magazijn behoort {3},reviewed,erpnext,,,,,,,
-Cannot change Attributes after stock transaction. Make a new Item and transfer stock to the new Item,Kan kenmerken niet wijzigen na voorraadtransactie. Maak een nieuw artikel aan en draag voorraad over naar het nieuwe artikel.,reviewed,erpnext,,,,,,,
-"Cannot change company's default currency, because there are existing transactions. Transactions must be cancelled to change the default currency.","Kan standaardvaluta van het bedrijf niet wijzigen, want er zijn bestaande transacties. Transacties moeten worden geannuleerd om de standaardvaluta te wijzigen.",reviewed,erpnext,,,,,,,
-Cannot change docstatus from 0 to 2,Kan documentstatus niet wijzigen van 0 naar 2,reviewed,frappe,,,,,,,
-Cannot change docstatus from 1 to 0,Kan documentstatus niet wijzigen van 1 naar 0,reviewed,frappe,,,,,,,
-Cannot change Fiscal Year Start Date and Fiscal Year End Date once the Fiscal Year is saved.,Kan startdatum en einddatum van het boekjaar niet wijzigen zodra het boekjaar is opgeslagen.,reviewed,erpnext,,,,,,,
-Cannot change header content,Kan de inhoud van de koptekst niet wijzigen,reviewed,frappe,,,,,,,
-Cannot change Service Stop Date for item in row {0},Kan de service-einddatum voor item in rij {0} niet wijzigen,reviewed,erpnext,,,,,,,
-Cannot change state of Cancelled Document. Transition row {0},Status van het geannuleerde document kan niet worden gewijzigd. Overgangsregel {0},reviewed,frappe,,,,,,,
-Cannot change status as student {0} is linked with student application {1},Kan niet status als student te veranderen {0} is gekoppeld aan student toepassing {1},reviewed,erpnext,,,,,,,
-Cannot change user details in demo. Please signup for a new account at https://erpnext.com,Kan de gebruikersgegevens niet wijzigen in demo. Meld u alstublieft in voor een nieuw account op https://erpnext.com,reviewed,frappe,,,,,,,
-Cannot change Variant properties after stock transaction. You will have to make a new Item to do this.,Varianteigenschappen kunnen niet worden gewijzigd na voorraadtransactie. U moet een nieuw artikel aanmaken.,reviewed,erpnext,,,,,,,
-Cannot complete task {0} as its dependant task {1} are not ccompleted / cancelled.,Kan taak {0} niet voltooien omdat afhankelijke taak {1} niet is voltooid of geannuleerd.,reviewed,erpnext,,,,,,,
-Cannot convert Cost Center to ledger as it has child nodes,Kan kostenplaats niet omzetten naar grootboek vanwege onderliggende nodes,reviewed,erpnext,,,,,,,
-Cannot covert to Group because Account Type is selected.,Kan niet omzetten naar groep omdat accounttype is geselecteerd.,reviewed,erpnext,,,,,,,
-Cannot create a Delivery Trip from Draft documents.,Kan geen bezorgreis maken vanuit conceptdocumenten.,reviewed,erpnext,,,,,,,
-Cannot create a {0} against a child document: {1},Kan geen {0} maken tegen een onderliggend document: {1},reviewed,frappe,,,,,,,
-Cannot create Retention Bonus for left Employees,Kan retentiebonus niet maken voor medewerkers die links zijn,reviewed,erpnext,,,,,,,
-Cannot deactivate or cancel BOM as it is linked with other BOMs,Kan stuklijst niet deactiveren of annuleren aangezien het is gelinkt met andere stuklijsten.,reviewed,erpnext,,,,,,,
-"Cannot declare as lost, because Quotation has been made.","Kan niet als verloren instellen, omdat offerte is gemaakt.",reviewed,erpnext,,,,,,,
-Cannot deduct when category is for 'Valuation' or 'Valuation and Total',Kan niet aftrekken als categorie is voor ' Valuation ' of ' Valuation en Total ',reviewed,erpnext,,,,,,,
-Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',Kan niet aftrekken als categorie is voor &#39;Valuation&#39; of &#39;Vaulation en Total&#39;,reviewed,erpnext,,,,,,,
-Cannot delete file as it belongs to {0} {1} for which you do not have permissions,Kan het bestand niet verwijderen zoals het behoort tot {0} {1} waarvoor u geen rechten heeft,reviewed,frappe,,,,,,,
-Cannot delete Home and Attachments folders,Kan home en bijlagenmappen niet verwijderen,reviewed,frappe,,,,,,,
-Cannot delete or cancel because {0} {1} is linked with {2} {3} {4},Kan niet verwijderen of annuleren omdat {0} {1} is gekoppeld aan {2} {3} {4},reviewed,frappe,,,,,,,
-"Cannot delete Serial No {0}, as it is used in stock transactions","Kan Serienummer {0} niet verwijderen, omdat het wordt gebruikt in voorraadtransacties",reviewed,erpnext,,,,,,,
-Cannot delete standard action. You can hide it if you want,Kan standaardactie niet verwijderen. U kunt het verbergen als u dat wilt,reviewed,frappe,,,,,,,
-Cannot delete standard field. You can hide it if you want,Kan standaardveld niet verwijderen. U kunt het verbergen als u dit wilt,reviewed,frappe,,,,,,,
-Cannot delete standard link. You can hide it if you want,Kan standaardlink niet verwijderen. U kunt het verbergen als u dat wilt,reviewed,frappe,,,,,,,
-Cannot delete {0},Kan {0} niet verwijderen,reviewed,frappe,,,,,,,
-Cannot delete {0} as it has child nodes,Kan {0} niet verwijderen omdat het onderliggende nodes heeft,reviewed,frappe,,,,,,,
-Cannot deliver Serial No {0} of item {1} as it is reserved to fullfill Sales Order {2},"Kan serienummer {0} van artikel {1} niet leveren, aangezien het is gereserveerd om verkooporder {2} te vervullen",reviewed,erpnext,,,,,,,
-Cannot edit a standard report. Please duplicate and create a new report,Kan een standaard rapport niet bewerken. Gelieve te dupliceren en maak een nieuw rapport,reviewed,frappe,,,,,,,
-Cannot edit cancelled document,Kan geannuleerd document niet bewerken,reviewed,frappe,,,,,,,
-Cannot edit filters for standard charts,Filters voor standaarddiagrammen kunnen niet worden bewerkt,reviewed,frappe,,,,,,,
-Cannot edit standard fields,Kan standaard velden niet bewerken,reviewed,frappe,,,,,,,
-"Cannot edit Standard Notification. To edit, please disable this and duplicate it","Kan standaardmelding niet bewerken. Om te bewerken, schakel dit uit en dupliceer het",reviewed,frappe,,,,,,,
-Cannot enable Distributed Cost Center for a Cost Center already allocated in another Distributed Cost Center,Kan gedistribueerde kostenplaats niet inschakelen voor een kostenplaats die al is toegewezen in een andere gedistribueerde kostenplaats,reviewed,erpnext,,,,,,,
-Cannot enroll more than {0} students for this student group.,Kan niet meer dan {0} studenten voor deze groep studenten inschrijven.,reviewed,erpnext,,,,,,,
-Cannot ensure delivery by Serial No as Item {0} is added with and without Ensure Delivery by Serial No.,"Kan levering met serienummer niet garanderen, aangezien artikel {0} wordt toegevoegd met en zonder Levering met serienummer garanderen.",reviewed,erpnext,,,,,,,
-Cannot find a matching Item. Please select some other value for {0}.,Kan een bijpassende Item niet vinden. Selecteer een andere waarde voor {0}.,reviewed,erpnext,,,,,,,
-Cannot find Item with this Barcode,Kan item met deze streepjescode niet vinden,reviewed,erpnext,,,,,,,
-Cannot find {} for item {}. Please set the same in Item Master or Stock Settings.,Kan {} voor item {} niet vinden. Stel hetzelfde in bij Artikelstam- of Voorraadinstellingen.,reviewed,erpnext,,,,,,,
-Cannot have multiple printers mapped to a single print format.,Er kunnen niet meerdere printers worden toegewezen aan één afdrukindeling.,reviewed,frappe,,,,,,,
-Cannot link cancelled document: {0},Kan het geannuleerde document niet koppelen: {0},reviewed,frappe,,,,,,,
-Cannot map because following condition fails:,"Kan niet toewijzen, omdat volgende voorwaarde mislukt:",reviewed,frappe,,,,,,,
-Cannot mark attendance for future dates.,Kan aanwezigheid niet markeren voor toekomstige datums.,reviewed,erpnext,,,,,,,
-Cannot match column {0} with any field,Kan kolom {0} niet koppelen aan een veld,reviewed,frappe,,,,,,,
-Cannot move row,Kan rij niet verplaatsen,reviewed,frappe,,,,,,,
-Cannot open instance when its {0} is open,Kan geen instantie openen als zijn {0} open is,reviewed,frappe,,,,,,,
-Cannot open {0} when its instance is open,Kan {0} niet openen wanneer er een instantie van is geopend,reviewed,frappe,,,,,,,
-Cannot Optimize Route as Driver Address is Missing.,Kan route niet optimaliseren omdat het adres van de bestuurder ontbreekt.,reviewed,erpnext,,,,,,,
-"Cannot overbill for Item {0} in row {1} more than {2}. To allow over-billing, please set allowance in Accounts Settings","Kan voor item {0} in rij {1} meer dan {2} niet teveel factureren. Als u overfactureren wilt toestaan, stelt u een toeslag in Accounts-instellingen in",reviewed,erpnext,,,,,,,
-Cannot produce more Item {0} than Sales Order quantity {1},Kan niet meer produceren van Artikel {0} dan de Verkooporder hoeveelheid {1},reviewed,erpnext,,,,,,,
-Cannot promote Employee with status Left,Kan werknemer met status links niet promoten,reviewed,erpnext,,,,,,,
-Cannot refer row number greater than or equal to current row number for this Charge type,Kan niet verwijzen rij getal groter dan of gelijk aan de huidige rijnummer voor dit type Charge,reviewed,erpnext,,,,,,,
-Cannot Relieve Employee,Kan werknemer niet ontlasten,reviewed,erpnext,,,,,,,
-Cannot Remove,Kan niet verwijderen,reviewed,frappe,,,,,,,
-Cannot remove ID field,Kan ID-veld niet verwijderen,reviewed,frappe,,,,,,,
-Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,Kan het type lading niet selecteren als 'On Vorige Row Bedrag ' of ' On Vorige Row Totaal ' voor de eerste rij,reviewed,erpnext,,,,,,,
-Cannot set as Lost as Sales Order is made.,"Kan niet als verloren instellen, omdat er al een verkooporder is gemaakt.",reviewed,erpnext,,,,,,,
-Cannot set authorization on basis of Discount for {0},Kan de autorisatie niet instellen op basis van korting voor {0},reviewed,erpnext,,,,,,,
-Cannot set multiple Item Defaults for a company.,Kan niet meerdere item-standaardwaarden voor een bedrijf instellen.,reviewed,erpnext,,,,,,,
-Cannot set Notification on Document Type {0},Kan melding niet instellen op documenttype {0},reviewed,frappe,,,,,,,
-Cannot set quantity less than delivered quantity,Kan hoeveelheid niet lager instellen dan geleverde hoeveelheid,reviewed,erpnext,,,,,,,
-Cannot set quantity less than received quantity,Kan hoeveelheid niet lager instellen dan ontvangen hoeveelheid,reviewed,erpnext,,,,,,,
-Cannot set the field <b>{0}</b> for copying in variants,Kan veld <b>{0}</b> niet instellen voor het kopiëren in varianten,reviewed,erpnext,,,,,,,
-"Cannot Submit, Employees left to mark attendance","Kan niet indienen, werknemers verlaten om aanwezigheid te markeren",reviewed,erpnext,,,,,,,
-Cannot transfer Employee with status Left,Kan werknemer niet overnemen met status links,reviewed,erpnext,,,,,,,
-Cannot update {0},Kan {0} niet updaten,reviewed,frappe,,,,,,,
-Cannot use sub-query in order by,Kan geen gebruik maken van sub-query in bestelling door,reviewed,frappe,,,,,,,
-Cannot {0} {1},Kan niet {0} {1},reviewed,frappe,,,,,,,
-Cannot {0} {1} {2} without any negative outstanding invoice,Kan niet {0} {1} {2} zonder negatieve openstaande factuur,reviewed,erpnext,,,,,,,
-Capacity,Capaciteit,reviewed,erpnext,,,,,,,
-Capacity Planning,Capaciteit Planning,reviewed,erpnext,,,,,,,
-"Capacity Planning Error, planned start time can not be same as end time","Capaciteitsplanningsfout, geplande starttijd kan niet hetzelfde zijn als eindtijd",reviewed,erpnext,,,,,,,
-Capacity Planning For (Days),Capacity Planning Voor (Dagen),reviewed,erpnext,,,,,,,
-Capital Equipments,Kapitaalgoederen,reviewed,erpnext,,,,,,,
-Capital Stock,Kapitaal Stock,reviewed,erpnext,,,,,,,
-Capital Work In Progress Account,Capital Work In Progress-account,reviewed,erpnext,,,,,,,
-Capitalization doesn't help very much.,Kapitalisatie helpt niet veel.,reviewed,frappe,,,,,,,
-Card,Kaart,reviewed,frappe,,,,,,,
-Card Details,Kaart details,reviewed,frappe,,,,,,,
-Card Label,Kaartlabel,reviewed,frappe,,,,,,,
-Cards,Kaarten,reviewed,both,,,,,,,
-Cart,kar,reviewed,erpnext,,,,,,,
-Cart is Empty,Winkelwagen is leeg,reviewed,erpnext,,,,,,,
-Case No(s) already in use. Try from Case No {0},Zaak nr. ( s ) al in gebruik. Probeer uit Zaak nr. {0},reviewed,erpnext,,,,,,,
-Cash,Contant,reviewed,erpnext,,,,,,,
-Cash Account will used for Sales Invoice creation,Geldrekening wordt gebruikt voor het maken van verkoopfacturen,reviewed,erpnext,,,,,,,
-Cash Flow,Cashflow,reviewed,erpnext,,,,,,,
-Cash Flow from Financing,De cashflow uit financiële activiteiten,reviewed,erpnext,,,,,,,
-Cash Flow from Investing,De cashflow uit investeringsactiviteiten,reviewed,erpnext,,,,,,,
-Cash Flow from Operations,De cashflow uit bedrijfsoperaties,reviewed,erpnext,,,,,,,
-Cash Flow Mapping Template Details,Cash Flow Mapping Template-details,reviewed,erpnext,,,,,,,
-Cash Flow Statement,Kasstroomoverzicht,reviewed,erpnext,,,,,,,
-Cash In Hand,Contanten in de hand,reviewed,erpnext,,,,,,,
-Cash or Bank Account is mandatory for making payment entry,Kas- of Bankrekening is verplicht om een  betaling aan te maken,reviewed,erpnext,,,,,,,
-Cash/Bank Account,Kas/Bankrekening,reviewed,erpnext,,,,,,,
-Cashier,Kassa,reviewed,erpnext,,,,,,,
-Cashier Closing,Kassafsluiting,reviewed,erpnext,,,,,,,
-Cashier Closing Payments,Kassa sluitingsbetalingen,reviewed,erpnext,,,,,,,
-Catch All,Vang alles,reviewed,erpnext,,,,,,,
-Categories,Categorieën,reviewed,erpnext,,,,,,,
-Categorize blog posts.,Categoriseren blogposts.,reviewed,frappe,,,,,,,
-Category,Categorie,reviewed,both,,,,,,,
-Category Description,categorie Omschrijving,reviewed,frappe,,,,,,,
-Category Name,Categorienaam,reviewed,both,,,,,,,
-Category-wise Asset Value,Categorie-georiënteerde vermogenswaarde,reviewed,erpnext,,,,,,,
-Caution,Voorzichtigheid,reviewed,erpnext,,,,,,,
-CC To,CC aan,reviewed,erpnext,,,,,,,
-"CC, BCC & Email Template","CC, BCC &amp; e-mailsjabloon",reviewed,frappe,,,,,,,
-Cellphone Number,mobiel nummer,reviewed,erpnext,,,,,,,
-Center,Centreren,reviewed,frappe,,,,,,,
-Central Tax,Centrale belasting,reviewed,erpnext,,,,,,,
-CEO,CEO,reviewed,erpnext,,,,,,,
-"Certain documents, like an Invoice, should not be changed once final. The final state for such documents is called Submitted. You can restrict which roles can Submit.","Bepaalde documenten, zoals een factuur, dienen niet te worden aangepast als ze een eindstadium hebben bereikt. Het eindstadium van deze documenten heet ingediend. U kunt beperken welke rollen kunnen indienen.",reviewed,frappe,,,,,,,
-Certificate,Certificaat,reviewed,erpnext,,,,,,,
-certificate,certificaat,reviewed,frappe,,,,,,,
-Certificate Details,Certificaatdetails,reviewed,erpnext,,,,,,,
-Certificate Limit,Certificaatlimiet,reviewed,erpnext,,,,,,,
-Certificate No,Certificaatnummer,reviewed,erpnext,,,,,,,
-Certificate Required,Certificaat vereist,reviewed,erpnext,,,,,,,
-Certification,Certificering,reviewed,erpnext,,,,,,,
-Certification Application,Certificeringsaanvraag,reviewed,erpnext,,,,,,,
-Certification Status,Certificeringsstatus,reviewed,erpnext,,,,,,,
-Certification Validity,Certificeringsgeldigheid,reviewed,erpnext,,,,,,,
-Certified,Gecertificeerd,reviewed,erpnext,,,,,,,
-Certified Consultant,Gecertificeerde consultant,reviewed,erpnext,,,,,,,
-CESS Account,CESS-account,reviewed,erpnext,,,,,,,
-CESS Amount,CESS-bedrag,reviewed,erpnext,,,,,,,
-CGST Account,CGST-account,reviewed,erpnext,,,,,,,
-CGST Amount,CGST-bedrag,reviewed,erpnext,,,,,,,
-Chaining Hash,Hash koppelen,reviewed,frappe,,,,,,,
-Change,Wijzigen,reviewed,both,,,,,,,
-Change Abbreviation,Afkorting wijzigen,reviewed,erpnext,,,,,,,
-Change Amount,Wisselgeld,reviewed,erpnext,,,,,,,
-"Change field properties (hide, readonly, permission etc.)","Wijzig veldeigenschappen (verberg, alleen-lezen, toestemming, etc. )",reviewed,frappe,,,,,,,
-Change In Item,Wijziging in artikel,reviewed,erpnext,,,,,,,
-Change in Item,Wijziging in artikel,reviewed,erpnext,,,,,,,
-Change Item Code,Itemcode wijzigen,reviewed,erpnext,,,,,,,
-Change Label (via Custom Translation),Label wijzigen (via Custom Translation),reviewed,frappe,,,,,,,
-Change Log,Wijzigingslog,reviewed,custom,,,,,,,
-Change Password,Wachtwoord wijzigen,reviewed,frappe,,,,,,,
-Change Release Date,Releasedatum wijzigen,reviewed,erpnext,,,,,,,
-Change Template Code,Sjablooncode wijzigen,reviewed,erpnext,,,,,,,
-Change the account type to Receivable or select a different account.,Wijzig het rekeningtype in Te ontvangen of selecteer een andere rekening.,reviewed,erpnext,,,,,,,
-Change the starting / current sequence number of an existing series.,Wijzig het start-/ huidige volgnummer van een bestaande serie.,reviewed,erpnext,,,,,,,
-Change this date manually to setup the next synchronization start date,Wijzig deze datum handmatig om de volgende startdatum van de synchronisatie in te stellen,reviewed,erpnext,,,,,,,
-Change User,Gebruiker wijzigen,reviewed,frappe,,,,,,,
-Changed,Gewijzigd,reviewed,custom,,,,,,,
-changed value of {0},gewijzigde waarde van {0},reviewed,frappe,,,,,,,
-changed value of {0} {1},gewijzigde waarde van {0} {1},reviewed,frappe,,,,,,,
-changed values for {0},gewijzigde waarden voor {0},reviewed,frappe,,,,,,,
-changed values for {0} {1},waarden gewijzigd voor {0} {1},reviewed,frappe,,,,,,,
-Changes in {0},Wijzigingen in {0},reviewed,erpnext,,,,,,,
-Changing Customer Group for the selected Customer is not allowed.,Het wijzigen van de klantengroep voor de geselecteerde klant is niet toegestaan.,reviewed,erpnext,,,,,,,
-Channel,Kanaal,reviewed,frappe,,,,,,,
-Chapter,Hoofdstuk,reviewed,erpnext,,,,,,,
-Chapter Head,Hoofdstukleider,reviewed,erpnext,,,,,,,
-Chapter information.,Hoofdstukinformatie.,reviewed,erpnext,,,,,,,
-Chapter Member,Hoofdstuklid,reviewed,erpnext,,,,,,,
-Chapter Members,Hoofdstukleden,reviewed,erpnext,,,,,,,
-chapters/chapter_name\nleave blank automatically set after saving chapter.,hoofdstukken / hoofdstuknaam blanco laten automatisch ingesteld na hoofdstuk opslaan.,reviewed,erpnext,,,,,,,
-Charge of type 'Actual' in row {0} cannot be included in Item Rate,Charge van het type ' Actual ' in rij {0} kan niet worden opgenomen in Item Rate,reviewed,erpnext,,,,,,,
-Chargeable,Aan te rekenen,reviewed,erpnext,,,,,,,
-Charges,Kosten,reviewed,erpnext,,,,,,,
-Charges are updated in Purchase Receipt against each item,Kosten worden bijgewerkt in Kwitantie tegen elk item,reviewed,erpnext,,,,,,,
-Charges Incurred,Gemaakte kosten,reviewed,erpnext,,,,,,,
-"Charges will be distributed proportionately based on item qty or amount, as per your selection","Kosten zullen worden proportioneel gedistribueerd op basis van punt aantal of de hoeveelheid, als per uw selectie",reviewed,erpnext,,,,,,,
-Chart,Grafiek,reviewed,both,,,,,,,
-Chart Configuration,Grafiekconfiguratie,reviewed,frappe,,,,,,,
-Chart Name,Grafieknaam,reviewed,frappe,,,,,,,
-Chart of Accounts,Rekeningschema,reviewed,erpnext,,,,,,,
-Chart of Accounts Importer,Rekeningschema-importeur,reviewed,erpnext,,,,,,,
-Chart Of Accounts Template,Rekeningschema-template,reviewed,erpnext,,,,,,,
-Chart of Cost Centers,Kostenplaatsenschema,reviewed,erpnext,,,,,,,
-Chart Options,Grafiekopties,reviewed,frappe,,,,,,,
-Chart Preview,Grafiekvoorbeeld,reviewed,erpnext,,,,,,,
-Chart Source,Grafiekbron,reviewed,frappe,,,,,,,
-Chart Tree,Grafiekboom,reviewed,erpnext,,,,,,,
-Chart Type,Grafiektype,reviewed,frappe,,,,,,,
-Charts,Grafieken,reviewed,frappe,,,,,,,
-Charts Based On,Grafieken gebaseerd op,reviewed,erpnext,,,,,,,
-Chassis No,Chassisnr.,reviewed,erpnext,,,,,,,
-Chat Background,Chatachtergrond,reviewed,frappe,,,,,,,
-Chat Message,Chatbericht,reviewed,frappe,,,,,,,
-Chat messages and other notifications.,Chatberichten en andere meldingen.,reviewed,frappe,,,,,,,
-Chat Profile,Chatprofiel,reviewed,frappe,,,,,,,
-Chat Profile for User {0} exists.,Chatprofiel voor gebruiker {0} bestaat.,reviewed,frappe,,,,,,,
-Chat Room,Chatroom,reviewed,frappe,,,,,,,
-Chat Room User,Chatroomgebruiker,reviewed,frappe,,,,,,,
-Chat Token,Chattoken,reviewed,frappe,,,,,,,
-Check,Controleren,reviewed,frappe,,,,,,,
-check,controleren,reviewed,frappe,,,,,,,
-Check all,Alles aanvinken,reviewed,erpnext,,,,,,,
-Check Availability,Beschikbaarheid controleren,reviewed,erpnext,,,,,,,
-"Check columns to select, drag to set order.","Vink kolommen aan om te selecteren, sleep om de volgorde in te stellen.",reviewed,frappe,,,,,,,
-Check if Asset requires Preventive Maintenance or Calibration,Controleer of Activum preventief onderhoud of kalibratie vereist,reviewed,erpnext,,,,,,,
-Check if it is a hydroponic unit,Controleer of het een hydrocultuur is,reviewed,erpnext,,,,,,,
-Check if material transfer entry is not required,Controleer of de invoer van materiaaloverdracht niet vereist is,reviewed,erpnext,,,,,,,
-Check In,Check in,reviewed,erpnext,,,,,,,
-Check in (group),Inchecken (groep),reviewed,erpnext,,,,,,,
-Check Out,Uitchecken,reviewed,erpnext,,,,,,,
-Check Request URL,Controleer de aanvraag-URL,reviewed,frappe,,,,,,,
+by Role,op rol,reviewed,frappe,0.72,0.65,0.7,0.75,0.8,1.0,review
+By {0},Door {0},reviewed,erpnext,0.88,0.85,0.85,0.9,0.9,1.0,ok
+Bypass credit check at Sales Order,Bypass credit check op klantorder,reviewed,erpnext,0.57,0.55,0.45,0.6,0.7,1.0,review
+Bypass Credit Limit Check at Sales Order,Creditlimietcontrole overslaan op klantorder,reviewed,erpnext,0.87,0.9,0.85,0.8,0.9,1.0,ok
+Bypass Restricted IP Address Check If Two Factor Auth Enabled,Beperkt IP-adres omzeilen Controleer of twee-factorenauthenticatie is ingeschakeld,reviewed,frappe,0.19,0.2,0.1,0.2,0.1,0.5,rewrite
+Bypass restricted IP Address check If Two Factor Auth Enabled,Bypass beperkte IP-adrescontrole Als twee factoren geactiveerd zijn,reviewed,frappe,0.44,0.45,0.35,0.4,0.5,0.8,rewrite
+Bypass Two Factor Auth for users who login from restricted IP Address,Bypass Two Factor Auth voor gebruikers die zich aanmelden bij een beperkt IP-adres,reviewed,frappe,0.57,0.55,0.45,0.5,0.7,1.0,review
+Byproducts,bijproducten,reviewed,erpnext,0.81,0.85,0.85,0.8,0.6,1.0,ok
+C-Form Applicable,C-Form Toepasselijk,reviewed,erpnext,0.7,0.7,0.6,0.7,0.8,1.0,review
+C-Form Invoice Detail,C-Form Factuurspecificatie,reviewed,erpnext,0.79,0.8,0.75,0.75,0.85,1.0,review
+C-form is not applicable for Invoice: {0},C-vorm is niet van toepassing voor de factuur: {0},reviewed,erpnext,0.61,0.6,0.55,0.5,0.8,1.0,review
+C-Form No,C-vorm nr.,reviewed,erpnext,0.59,0.55,0.55,0.45,0.8,1.0,review
+C-Form records,C-Form records,reviewed,erpnext,0.67,0.65,0.6,0.65,0.8,1.0,review
+ca-central-1,ca-central-1,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Ca/(K+Ca+Mg),Ca / (K + Ca + Mg),reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Ca/K,Ca / K,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Ca/Mg,Ca / Mg,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cache Cleared,Cache geleegd,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Calculate,Bereken,reviewed,frappe,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Calculate Based On,Berekenen op basis van,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Calculate Depreciation,Bereken afschrijving,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Calculate Estimated Arrival Times,Bereken geschatte aankomsttijden,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Calculated Bank Statement balance,Berekend bankafschriftsaldo,reviewed,erpnext,0.76,0.8,0.7,0.75,0.6,1.0,review
+Calculations,Berekeningen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Calendar,Agenda,reviewed,frappe,0.91,0.85,0.9,0.9,1.0,1.0,ok
+calendar,agenda,reviewed,frappe,0.91,0.85,0.9,0.9,1.0,1.0,ok
+Calendar Event,Agendagebeurtenis,reviewed,erpnext,0.74,0.75,0.6,0.75,0.8,1.0,review
+Calendar Name,Agendanaam,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Calendar View,Agendaweergave,reviewed,frappe,0.88,0.9,0.85,0.85,0.9,1.0,ok
+Calibration,Ijking,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Call,Bellen,reviewed,frappe,0.72,0.7,0.65,0.7,0.8,1.0,review
+Call Connected,Oproep verbonden,reviewed,erpnext,0.89,0.9,0.85,0.9,0.9,1.0,ok
+Call Details,Oproepdetails,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Call Disconnected,Oproep verbroken,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Call Duration in seconds,Oproepduur in seconden,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Call Log,Oproeplogboek,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Call Missed,Gemiste oproep,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Call Summary,Oproepsamenvatting,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Call Summary Saved,Oproepsamenvatting opgeslagen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Call To Action,Oproep tot actie,reviewed,frappe,0.8,0.8,0.75,0.75,0.9,1.0,ok
+Call To Action URL,Call-to-action-URL,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Callback Message,Terugbelbericht,reviewed,frappe,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Callback Title,Callback-titel,reviewed,frappe,0.73,0.75,0.65,0.7,0.8,1.0,review
+Callback URL,Callback-URL,reviewed,frappe,0.83,0.8,0.8,0.8,0.9,1.0,ok
+Caller Information,Bellerinformatie,reviewed,erpnext,0.67,0.7,0.55,0.65,0.7,1.0,review
+Campaign,Campagne,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Campaign Efficiency,Campagne-efficiëntie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Campaign Email Schedule,E-mailschema campagne,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Campaign Name,Campagnenaam,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Campaign Naming By,Campagnenaam toegewezen door,reviewed,erpnext,0.73,0.75,0.65,0.7,0.75,0.9,review
+Campaign Schedules,Campagneschema&#39;s,reviewed,erpnext,0.5,0.6,0.3,0.5,0.4,0.7,review
+Can be approved by {0},Kan door {0} worden goedgekeurd,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Can not filter based on Account, if grouped by Account","Kan niet filteren op rekening, indien gegroepeerd op rekening",reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+"Can not filter based on Cashier, if grouped by Cashier","Kan niet filteren op basis van kassier, indien gegroepeerd op kassier",reviewed,erpnext,0.84,0.85,0.8,0.8,0.9,1.0,ok
+"Can not filter based on Customer, if grouped by Customer","Kan niet filteren op klant, indien gegroepeerd op klant",reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+"Can not filter based on Payment Method, if grouped by Payment Method","Kan niet filteren op basis van betalingsmethode, indien gegroepeerd op betalingsmethode",reviewed,erpnext,0.84,0.85,0.8,0.8,0.9,1.0,ok
+"Can not filter based on POS Profile, if grouped by POS Profile","Kan niet filteren op basis van POS-profiel, indien gegroepeerd op POS-profiel",reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+"Can not filter based on Voucher No, if grouped by Voucher","Kan niet filteren op boekstuknummer, indien gegroepeerd per boekstuk",reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+"Can not mark Inpatient Record Discharged, there are Unbilled Invoices {0}","Kan de Inpatient Record Discharged niet markeren, er zijn onbetaalde facturen {0}",reviewed,erpnext,0.65,0.65,0.55,0.6,0.75,1.0,review
+Can only make payment against unbilled {0},Kan alleen betaling uitvoeren voor ongefactureerde {0},reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Can Read,Kan lezen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',Kan de rij enkel verwijzen bij het aanrekeningstype 'Hoeveelheid vorige rij' of 'Totaal vorige rij',reviewed,erpnext,0.66,0.7,0.55,0.6,0.65,1.0,review
+Can Share,Kan delen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Can Write,Kan schrijven,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Can't change valuation method, as there are transactions against some items which does not have it's own valuation method","Kan de waarderingsmethode niet wijzigen, aangezien er transacties zijn tegen sommige items die geen eigen waarderingsmethode hebben",reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Can't create standard criteria. Please rename the criteria,Kan geen standaardcriteria maken. Wijzig de naam van de criteria,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Can't identify open {0}. Try something else.,Kan open {0} niet identificeren. Probeer iets anders.,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Can't save the form as data import is in progress.,Kan het formulier niet opslaan omdat de gegevens worden geïmporteerd.,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cancel,Annuleren,reviewed,both,0.94,0.9,0.9,0.95,1.0,1.0,ok
+Cancel All Documents,Alle documenten annuleren,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cancel At End Of Period,Annuleren aan het einde van de periode,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Cancel Material Visit {0} before cancelling this Warranty Claim,Annuleer materiaalbezoek {0} voor het annuleren van deze garantieclaim,reviewed,erpnext,0.76,0.75,0.7,0.75,0.8,1.0,review
+Cancel Material Visits {0} before cancelling this Maintenance Visit,Annuleer materiaalbezoeken {0} voor het annuleren van dit onderhoudsbezoek,reviewed,erpnext,0.76,0.75,0.7,0.75,0.8,1.0,review
+Cancel Subscription,Abonnement annuleren,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cancel Subscription After Grace Period,Abonnement opzeggen na respijtperiode,reviewed,erpnext,0.86,0.85,0.85,0.8,0.9,1.0,ok
+Cancel the journal entry {0} first,Annuleer eerst de journaalboeking {0},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cancel {0} documents?,{0} documenten annuleren?,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cancelation Date,Annuleringsdatum,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Canceled,Geannuleerd,reviewed,erpnext,0.94,0.9,0.9,0.95,1.0,1.0,ok
+CANCELLED,GEANNULEERD,reviewed,frappe,0.94,0.9,0.9,0.95,1.0,1.0,ok
+Cancelled,Geannuleerd,reviewed,both,0.94,0.9,0.9,0.95,1.0,1.0,ok
+Cancelled Document restored as Draft,Geannuleerd document hersteld als concept,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+cancelled this document,dit document geannuleerd,reviewed,frappe,0.8,0.8,0.75,0.8,0.85,1.0,ok
+cancelled this document {0},heeft dit document {0} geannuleerd,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Cancelling,Annuleren,reviewed,frappe,0.9,0.85,0.85,0.9,1.0,1.0,ok
+Cancelling documents,Documenten annuleren,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cancelling {0},{0} annuleren,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cannot allocate more than {0} against payment term {1},Kan niet meer dan {0} toewijzen op basis van betalingstermijn {1},reviewed,erpnext,0.79,0.8,0.75,0.75,0.85,1.0,review
+Cannot be a fixed asset item as Stock Ledger is created.,Kan geen vast activumartikel zijn omdat het voorraadgrootboek wordt aangemaakt.,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
+cannot be greater than 100,mag niet groter zijn dan 100,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cannot Calculate Arrival Time as Driver Address is Missing.,Kan aankomsttijd niet berekenen omdat het adres van de bestuurder ontbreekt.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cannot cancel because submitted Stock Entry {0} exists,Kan niet annuleren omdat ingediende voorraadmutatie {0} bestaat,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Cannot cancel before submitting. See Transition {0},Kan niet annuleren voor indiening. Zie overgang {0},reviewed,frappe,0.79,0.8,0.75,0.75,0.85,1.0,review
+Cannot cancel this document as it is linked with submitted asset {0}. Please cancel it to continue.,Kan dit document niet annuleren omdat het is gekoppeld aan het ingediende item {0}. Annuleer het om door te gaan.,reviewed,erpnext,0.74,0.75,0.7,0.7,0.8,1.0,review
+Cannot cancel transaction for Completed Work Order.,Kan transactie voor voltooide werkorder niet annuleren.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cannot cancel {0} {1} because Serial No {2} does not belong to the warehouse {3},Kan {0} {1} niet annuleren omdat serienummer {2} niet tot het magazijn behoort {3},reviewed,erpnext,0.79,0.8,0.75,0.8,0.75,1.0,review
+Cannot change Attributes after stock transaction. Make a new Item and transfer stock to the new Item,Kan kenmerken niet wijzigen na voorraadtransactie. Maak een nieuw artikel aan en draag voorraad over naar het nieuwe artikel.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+"Cannot change company's default currency, because there are existing transactions. Transactions must be cancelled to change the default currency.","Kan standaardvaluta van het bedrijf niet wijzigen, want er zijn bestaande transacties. Transacties moeten worden geannuleerd om de standaardvaluta te wijzigen.",reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cannot change docstatus from 0 to 2,Kan documentstatus niet wijzigen van 0 naar 2,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Cannot change docstatus from 1 to 0,Kan documentstatus niet wijzigen van 1 naar 0,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Cannot change Fiscal Year Start Date and Fiscal Year End Date once the Fiscal Year is saved.,Kan startdatum en einddatum van het boekjaar niet wijzigen zodra het boekjaar is opgeslagen.,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Cannot change header content,Kan de inhoud van de koptekst niet wijzigen,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Cannot change Service Stop Date for item in row {0},Kan de service-einddatum voor item in rij {0} niet wijzigen,reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Cannot change state of Cancelled Document. Transition row {0},Status van het geannuleerde document kan niet worden gewijzigd. Overgangsregel {0},reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Cannot change status as student {0} is linked with student application {1},Kan niet status als student te veranderen {0} is gekoppeld aan student toepassing {1},reviewed,erpnext,0.31,0.3,0.2,0.4,0.2,0.8,rewrite
+Cannot change user details in demo. Please signup for a new account at https://erpnext.com,Kan de gebruikersgegevens niet wijzigen in demo. Meld u alstublieft in voor een nieuw account op https://erpnext.com,reviewed,frappe,0.58,0.6,0.5,0.6,0.55,0.9,review
+Cannot change Variant properties after stock transaction. You will have to make a new Item to do this.,Varianteigenschappen kunnen niet worden gewijzigd na voorraadtransactie. U moet een nieuw artikel aanmaken.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Cannot complete task {0} as its dependant task {1} are not ccompleted / cancelled.,Kan taak {0} niet voltooien omdat afhankelijke taak {1} niet is voltooid of geannuleerd.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Cannot convert Cost Center to ledger as it has child nodes,Kan kostenplaats niet omzetten naar grootboek vanwege onderliggende nodes,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot covert to Group because Account Type is selected.,Kan niet omzetten naar groep omdat accounttype is geselecteerd.,reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Cannot create a Delivery Trip from Draft documents.,Kan geen bezorgreis maken vanuit conceptdocumenten.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Cannot create a {0} against a child document: {1},Kan geen {0} maken tegen een onderliggend document: {1},reviewed,frappe,0.59,0.6,0.5,0.6,0.6,1.0,review
+Cannot create Retention Bonus for left Employees,Kan retentiebonus niet maken voor medewerkers die links zijn,reviewed,erpnext,0.22,0.2,0.1,0.3,0.2,0.8,rewrite
+Cannot deactivate or cancel BOM as it is linked with other BOMs,Kan stuklijst niet deactiveren of annuleren aangezien het is gelinkt met andere stuklijsten.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+"Cannot declare as lost, because Quotation has been made.","Kan niet als verloren instellen, omdat offerte is gemaakt.",reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Cannot deduct when category is for 'Valuation' or 'Valuation and Total',Kan niet aftrekken als categorie is voor ' Valuation ' of ' Valuation en Total ',reviewed,erpnext,0.2,0.2,0.15,0.2,0.2,0.7,rewrite
+Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',Kan niet aftrekken als categorie is voor &#39;Valuation&#39; of &#39;Vaulation en Total&#39;,reviewed,erpnext,0.12,0.1,0.1,0.1,0.1,0.5,rewrite
+Cannot delete file as it belongs to {0} {1} for which you do not have permissions,Kan het bestand niet verwijderen zoals het behoort tot {0} {1} waarvoor u geen rechten heeft,reviewed,frappe,0.58,0.6,0.5,0.6,0.55,1.0,review
+Cannot delete Home and Attachments folders,Kan home en bijlagenmappen niet verwijderen,reviewed,frappe,0.77,0.75,0.7,0.75,0.8,1.0,review
+Cannot delete or cancel because {0} {1} is linked with {2} {3} {4},Kan niet verwijderen of annuleren omdat {0} {1} is gekoppeld aan {2} {3} {4},reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
+"Cannot delete Serial No {0}, as it is used in stock transactions","Kan Serienummer {0} niet verwijderen, omdat het wordt gebruikt in voorraadtransacties",reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot delete standard action. You can hide it if you want,Kan standaardactie niet verwijderen. U kunt het verbergen als u dat wilt,reviewed,frappe,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Cannot delete standard field. You can hide it if you want,Kan standaardveld niet verwijderen. U kunt het verbergen als u dit wilt,reviewed,frappe,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Cannot delete standard link. You can hide it if you want,Kan standaardlink niet verwijderen. U kunt het verbergen als u dat wilt,reviewed,frappe,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Cannot delete {0},Kan {0} niet verwijderen,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Cannot delete {0} as it has child nodes,Kan {0} niet verwijderen omdat het onderliggende nodes heeft,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot deliver Serial No {0} of item {1} as it is reserved to fullfill Sales Order {2},"Kan serienummer {0} van artikel {1} niet leveren, aangezien het is gereserveerd om verkooporder {2} te vervullen",reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot edit a standard report. Please duplicate and create a new report,Kan een standaard rapport niet bewerken. Gelieve te dupliceren en maak een nieuw rapport,reviewed,frappe,0.49,0.5,0.4,0.5,0.45,0.9,rewrite
+Cannot edit cancelled document,Kan geannuleerd document niet bewerken,reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Cannot edit filters for standard charts,Filters voor standaarddiagrammen kunnen niet worden bewerkt,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot edit standard fields,Kan standaard velden niet bewerken,reviewed,frappe,0.77,0.75,0.7,0.75,0.8,1.0,review
+"Cannot edit Standard Notification. To edit, please disable this and duplicate it","Kan standaardmelding niet bewerken. Om te bewerken, schakel dit uit en dupliceer het",reviewed,frappe,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Cannot enable Distributed Cost Center for a Cost Center already allocated in another Distributed Cost Center,Kan gedistribueerde kostenplaats niet inschakelen voor een kostenplaats die al is toegewezen in een andere gedistribueerde kostenplaats,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Cannot enroll more than {0} students for this student group.,Kan niet meer dan {0} studenten voor deze groep studenten inschrijven.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot ensure delivery by Serial No as Item {0} is added with and without Ensure Delivery by Serial No.,"Kan levering met serienummer niet garanderen, aangezien artikel {0} wordt toegevoegd met en zonder Levering met serienummer garanderen.",reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot find a matching Item. Please select some other value for {0}.,Kan een bijpassende Item niet vinden. Selecteer een andere waarde voor {0}.,reviewed,erpnext,0.69,0.7,0.6,0.7,0.65,1.0,review
+Cannot find Item with this Barcode,Kan item met deze streepjescode niet vinden,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot find {} for item {}. Please set the same in Item Master or Stock Settings.,Kan {} voor item {} niet vinden. Stel hetzelfde in bij Artikelstam- of Voorraadinstellingen.,reviewed,erpnext,0.73,0.75,0.65,0.7,0.7,0.9,review
+Cannot have multiple printers mapped to a single print format.,Er kunnen niet meerdere printers worden toegewezen aan één afdrukindeling.,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot link cancelled document: {0},Kan het geannuleerde document niet koppelen: {0},reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot map because following condition fails:,"Kan niet toewijzen, omdat volgende voorwaarde mislukt:",reviewed,frappe,0.64,0.65,0.55,0.65,0.6,1.0,review
+Cannot mark attendance for future dates.,Kan aanwezigheid niet markeren voor toekomstige datums.,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Cannot match column {0} with any field,Kan kolom {0} niet koppelen aan een veld,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot move row,Kan rij niet verplaatsen,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Cannot open instance when its {0} is open,Kan geen instantie openen als zijn {0} open is,reviewed,frappe,0.58,0.6,0.5,0.6,0.55,0.9,review
+Cannot open {0} when its instance is open,Kan {0} niet openen wanneer er een instantie van is geopend,reviewed,frappe,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Cannot Optimize Route as Driver Address is Missing.,Kan route niet optimaliseren omdat het adres van de bestuurder ontbreekt.,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+"Cannot overbill for Item {0} in row {1} more than {2}. To allow over-billing, please set allowance in Accounts Settings","Kan voor item {0} in rij {1} meer dan {2} niet teveel factureren. Als u overfactureren wilt toestaan, stelt u een toeslag in Accounts-instellingen in",reviewed,erpnext,0.72,0.75,0.65,0.7,0.7,1.0,review
+Cannot produce more Item {0} than Sales Order quantity {1},Kan niet meer produceren van Artikel {0} dan de Verkooporder hoeveelheid {1},reviewed,erpnext,0.58,0.6,0.5,0.6,0.55,1.0,review
+Cannot promote Employee with status Left,Kan werknemer met status links niet promoten,reviewed,erpnext,0.22,0.2,0.15,0.3,0.2,0.8,rewrite
+Cannot refer row number greater than or equal to current row number for this Charge type,Kan niet verwijzen rij getal groter dan of gelijk aan de huidige rijnummer voor dit type Charge,reviewed,erpnext,0.19,0.2,0.15,0.2,0.15,0.6,rewrite
+Cannot Relieve Employee,Kan werknemer niet ontlasten,reviewed,erpnext,0.5,0.5,0.4,0.5,0.5,1.0,review
+Cannot Remove,Kan niet verwijderen,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Cannot remove ID field,Kan ID-veld niet verwijderen,reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,Kan het type lading niet selecteren als 'On Vorige Row Bedrag ' of ' On Vorige Row Totaal ' voor de eerste rij,reviewed,erpnext,0.19,0.2,0.15,0.2,0.15,0.6,rewrite
+Cannot set as Lost as Sales Order is made.,"Kan niet als verloren instellen, omdat er al een verkooporder is gemaakt.",reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot set authorization on basis of Discount for {0},Kan de autorisatie niet instellen op basis van korting voor {0},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot set multiple Item Defaults for a company.,Kan niet meerdere item-standaardwaarden voor een bedrijf instellen.,reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Cannot set Notification on Document Type {0},Kan melding niet instellen op documenttype {0},reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot set quantity less than delivered quantity,Kan hoeveelheid niet lager instellen dan geleverde hoeveelheid,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Cannot set quantity less than received quantity,Kan hoeveelheid niet lager instellen dan ontvangen hoeveelheid,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Cannot set the field <b>{0}</b> for copying in variants,Kan veld <b>{0}</b> niet instellen voor het kopiëren in varianten,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+"Cannot Submit, Employees left to mark attendance","Kan niet indienen, werknemers verlaten om aanwezigheid te markeren",reviewed,erpnext,0.21,0.2,0.15,0.25,0.2,0.8,rewrite
+Cannot transfer Employee with status Left,Kan werknemer niet overnemen met status links,reviewed,erpnext,0.22,0.2,0.15,0.3,0.2,0.8,rewrite
+Cannot update {0},Kan {0} niet updaten,reviewed,frappe,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Cannot use sub-query in order by,Kan geen gebruik maken van sub-query in bestelling door,reviewed,frappe,0.21,0.2,0.15,0.3,0.15,0.8,rewrite
+Cannot {0} {1},Kan niet {0} {1},reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cannot {0} {1} {2} without any negative outstanding invoice,Kan niet {0} {1} {2} zonder negatieve openstaande factuur,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Capacity,Capaciteit,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Capacity Planning,Capaciteit Planning,reviewed,erpnext,0.58,0.6,0.5,0.6,0.55,1.0,review
+"Capacity Planning Error, planned start time can not be same as end time","Capaciteitsplanningsfout, geplande starttijd kan niet hetzelfde zijn als eindtijd",reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Capacity Planning For (Days),Capacity Planning Voor (Dagen),reviewed,erpnext,0.29,0.3,0.2,0.3,0.25,0.8,rewrite
+Capital Equipments,Kapitaalgoederen,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Capital Stock,Kapitaal Stock,reviewed,erpnext,0.31,0.3,0.25,0.3,0.3,0.8,rewrite
+Capital Work In Progress Account,Capital Work In Progress-account,reviewed,erpnext,0.19,0.2,0.15,0.2,0.2,0.7,rewrite
+Capitalization doesn't help very much.,Kapitalisatie helpt niet veel.,reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Card,Kaart,reviewed,frappe,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Card Details,Kaart details,reviewed,frappe,0.61,0.6,0.55,0.65,0.6,1.0,review
+Card Label,Kaartlabel,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cards,Kaarten,reviewed,both,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Cart,kar,reviewed,erpnext,0.21,0.2,0.15,0.2,0.25,0.8,rewrite
+Cart is Empty,Winkelwagen is leeg,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Case No(s) already in use. Try from Case No {0},Zaak nr. ( s ) al in gebruik. Probeer uit Zaak nr. {0},reviewed,erpnext,0.49,0.5,0.4,0.5,0.45,0.9,rewrite
+Cash,Contant,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Cash Account will used for Sales Invoice creation,Geldrekening wordt gebruikt voor het maken van verkoopfacturen,reviewed,erpnext,0.72,0.75,0.65,0.7,0.7,1.0,review
+Cash Flow,Cashflow,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Cash Flow from Financing,De cashflow uit financiële activiteiten,reviewed,erpnext,0.68,0.7,0.6,0.7,0.65,1.0,review
+Cash Flow from Investing,De cashflow uit investeringsactiviteiten,reviewed,erpnext,0.68,0.7,0.6,0.7,0.65,1.0,review
+Cash Flow from Operations,De cashflow uit bedrijfsoperaties,reviewed,erpnext,0.68,0.7,0.6,0.7,0.65,1.0,review
+Cash Flow Mapping Template Details,Cash Flow Mapping Template-details,reviewed,erpnext,0.3,0.3,0.25,0.3,0.3,0.7,rewrite
+Cash Flow Statement,Kasstroomoverzicht,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Cash In Hand,Contanten in de hand,reviewed,erpnext,0.39,0.4,0.35,0.4,0.4,0.9,rewrite
+Cash or Bank Account is mandatory for making payment entry,Kas- of Bankrekening is verplicht om een  betaling aan te maken,reviewed,erpnext,0.72,0.75,0.65,0.7,0.7,1.0,review
+Cash/Bank Account,Kas/Bankrekening,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Cashier,Kassa,reviewed,erpnext,0.5,0.5,0.4,0.5,0.5,1.0,review
+Cashier Closing,Kassafsluiting,reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Cashier Closing Payments,Kassa sluitingsbetalingen,reviewed,erpnext,0.63,0.65,0.55,0.65,0.6,1.0,review
+Catch All,Vang alles,reviewed,erpnext,0.38,0.4,0.3,0.4,0.35,0.9,rewrite
+Categories,Categorieën,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Categorize blog posts.,Categoriseren blogposts.,reviewed,frappe,0.38,0.4,0.3,0.4,0.35,0.9,rewrite
+Category,Categorie,reviewed,both,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Category Description,categorie Omschrijving,reviewed,frappe,0.64,0.85,0.5,0.5,0.4,1.0,review
+Category Name,Categorienaam,reviewed,both,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Category-wise Asset Value,Categorie-georiënteerde vermogenswaarde,reviewed,erpnext,0.44,0.4,0.3,0.4,0.8,0.9,rewrite
+Caution,Voorzichtigheid,reviewed,erpnext,0.46,0.3,0.5,0.4,1.0,1.0,rewrite
+CC To,CC aan,reviewed,erpnext,0.85,0.85,0.8,0.8,0.9,1.0,ok
+"CC, BCC & Email Template","CC, BCC &amp; e-mailsjabloon",reviewed,frappe,0.69,0.85,0.5,0.6,0.5,1.0,review
+Cellphone Number,mobiel nummer,reviewed,erpnext,0.76,0.85,0.7,0.7,0.6,1.0,review
+Center,Centreren,reviewed,frappe,0.62,0.5,0.6,0.5,1.0,1.0,review
+Central Tax,Centrale belasting,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+CEO,CEO,reviewed,erpnext,0.98,0.95,1.0,1.0,1.0,1.0,ok
+"Certain documents, like an Invoice, should not be changed once final. The final state for such documents is called Submitted. You can restrict which roles can Submit.","Bepaalde documenten, zoals een factuur, dienen niet te worden aangepast als ze een eindstadium hebben bereikt. Het eindstadium van deze documenten heet ingediend. U kunt beperken welke rollen kunnen indienen.",reviewed,frappe,0.76,0.7,0.75,0.7,0.9,1.0,review
+Certificate,Certificaat,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
+certificate,certificaat,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Certificate Details,Certificaatdetails,reviewed,erpnext,0.94,0.95,0.9,0.9,1.0,1.0,ok
+Certificate Limit,Certificaatlimiet,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Certificate No,Certificaatnummer,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Certificate Required,Certificaat vereist,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Certification,Certificering,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Certification Application,Certificeringsaanvraag,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Certification Status,Certificeringsstatus,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Certification Validity,Certificeringsgeldigheid,reviewed,erpnext,0.84,0.85,0.7,0.85,0.9,1.0,ok
+Certified,Gecertificeerd,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Certified Consultant,Gecertificeerde consultant,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+CESS Account,CESS-account,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+CESS Amount,CESS-bedrag,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+CGST Account,CGST-account,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+CGST Amount,CGST-bedrag,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chaining Hash,Hash koppelen,reviewed,frappe,0.57,0.5,0.5,0.5,0.7,1.0,review
+Change,Wijzigen,reviewed,both,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Change Abbreviation,Afkorting wijzigen,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Change Amount,Wisselgeld,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+"Change field properties (hide, readonly, permission etc.)","Wijzig veldeigenschappen (verberg, alleen-lezen, toestemming, etc. )",reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Change In Item,Wijziging in artikel,reviewed,erpnext,0.87,0.85,0.85,0.85,1.0,1.0,ok
+Change in Item,Wijziging in artikel,reviewed,erpnext,0.87,0.85,0.85,0.85,1.0,1.0,ok
+Change Item Code,Itemcode wijzigen,reviewed,erpnext,0.85,0.85,0.8,0.8,1.0,1.0,ok
+Change Label (via Custom Translation),Label wijzigen (via Custom Translation),reviewed,frappe,0.87,0.85,0.85,0.85,1.0,1.0,ok
+Change Log,Wijzigingslog,reviewed,custom,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Change Password,Wachtwoord wijzigen,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Change Release Date,Releasedatum wijzigen,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Change Template Code,Sjablooncode wijzigen,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Change the account type to Receivable or select a different account.,Wijzig het rekeningtype in Te ontvangen of selecteer een andere rekening.,reviewed,erpnext,0.87,0.85,0.85,0.85,1.0,1.0,ok
+Change the starting / current sequence number of an existing series.,Wijzig het start-/ huidige volgnummer van een bestaande serie.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Change this date manually to setup the next synchronization start date,Wijzig deze datum handmatig om de volgende startdatum van de synchronisatie in te stellen,reviewed,erpnext,0.89,0.9,0.85,0.85,1.0,1.0,ok
+Change User,Gebruiker wijzigen,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Changed,Gewijzigd,reviewed,custom,0.92,0.9,0.9,0.9,1.0,1.0,ok
+changed value of {0},gewijzigde waarde van {0},reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+changed value of {0} {1},gewijzigde waarde van {0} {1},reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+changed values for {0},gewijzigde waarden voor {0},reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
+changed values for {0} {1},waarden gewijzigd voor {0} {1},reviewed,frappe,0.72,0.75,0.65,0.6,0.8,1.0,review
+Changes in {0},Wijzigingen in {0},reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Changing Customer Group for the selected Customer is not allowed.,Het wijzigen van de klantengroep voor de geselecteerde klant is niet toegestaan.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Channel,Kanaal,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chapter,Hoofdstuk,reviewed,erpnext,0.87,0.85,0.85,0.85,1.0,1.0,ok
+Chapter Head,Hoofdstukleider,reviewed,erpnext,0.85,0.85,0.8,0.85,1.0,1.0,ok
+Chapter information.,Hoofdstukinformatie.,reviewed,erpnext,0.85,0.85,0.8,0.85,1.0,1.0,ok
+Chapter Member,Hoofdstuklid,reviewed,erpnext,0.85,0.85,0.8,0.85,1.0,1.0,ok
+Chapter Members,Hoofdstukleden,reviewed,erpnext,0.85,0.85,0.8,0.85,1.0,1.0,ok
+chapters/chapter_name\nleave blank automatically set after saving chapter.,hoofdstukken / hoofdstuknaam blanco laten automatisch ingesteld na hoofdstuk opslaan.,reviewed,erpnext,0.4,0.4,0.3,0.5,0.3,0.8,rewrite
+Charge of type 'Actual' in row {0} cannot be included in Item Rate,Charge van het type ' Actual ' in rij {0} kan niet worden opgenomen in Item Rate,reviewed,erpnext,0.37,0.3,0.3,0.3,0.6,1.0,rewrite
+Chargeable,Aan te rekenen,reviewed,erpnext,0.64,0.6,0.55,0.55,0.9,1.0,review
+Charges,Kosten,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Charges are updated in Purchase Receipt against each item,Kosten worden bijgewerkt in Kwitantie tegen elk item,reviewed,erpnext,0.52,0.5,0.4,0.5,0.5,1.0,review
+Charges Incurred,Gemaakte kosten,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+"Charges will be distributed proportionately based on item qty or amount, as per your selection","Kosten zullen worden proportioneel gedistribueerd op basis van punt aantal of de hoeveelheid, als per uw selectie",reviewed,erpnext,0.29,0.3,0.2,0.3,0.2,0.9,rewrite
+Chart,Grafiek,reviewed,both,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chart Configuration,Grafiekconfiguratie,reviewed,frappe,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Chart Name,Grafieknaam,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chart of Accounts,Rekeningschema,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Chart of Accounts Importer,Rekeningschema-importeur,reviewed,erpnext,0.81,0.8,0.7,0.8,0.9,1.0,ok
+Chart Of Accounts Template,Rekeningschema-template,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Chart of Cost Centers,Kostenplaatsenschema,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Chart Options,Grafiekopties,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chart Preview,Grafiekvoorbeeld,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chart Source,Grafiekbron,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chart Tree,Grafiekboom,reviewed,erpnext,0.79,0.75,0.65,0.75,1.0,1.0,review
+Chart Type,Grafiektype,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Charts,Grafieken,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Charts Based On,Grafieken gebaseerd op,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Chassis No,Chassisnr.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chat Background,Chatachtergrond,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chat Message,Chatbericht,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chat messages and other notifications.,Chatberichten en andere meldingen.,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chat Profile,Chatprofiel,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chat Profile for User {0} exists.,Chatprofiel voor gebruiker {0} bestaat.,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chat Room,Chatroom,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Chat Room User,Chatroomgebruiker,reviewed,frappe,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Chat Token,Chattoken,reviewed,frappe,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Check,Controleren,reviewed,frappe,0.79,0.75,0.75,0.75,1.0,1.0,review
+check,controleren,reviewed,frappe,0.79,0.75,0.75,0.75,1.0,1.0,review
+Check all,Alles aanvinken,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Check Availability,Beschikbaarheid controleren,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+"Check columns to select, drag to set order.","Vink kolommen aan om te selecteren, sleep om de volgorde in te stellen.",reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Check if Asset requires Preventive Maintenance or Calibration,Controleer of Activum preventief onderhoud of kalibratie vereist,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Check if it is a hydroponic unit,Controleer of het een hydrocultuur is,reviewed,erpnext,0.87,0.85,0.85,0.85,1.0,1.0,ok
+Check if material transfer entry is not required,Controleer of de invoer van materiaaloverdracht niet vereist is,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Check In,Check in,reviewed,erpnext,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Check in (group),Inchecken (groep),reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Check Out,Uitchecken,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Check Request URL,Controleer de aanvraag-URL,reviewed,frappe,0.87,0.85,0.85,0.85,1.0,1.0,ok
 Check Supplier Invoice Number Uniqueness,Controleer uniekheid leveranciersfactuurnummer,reviewed,erpnext,,,,,,,
 Check the Error Log for more information: {0},Controleer het foutenlogboek voor meer informatie: {0},reviewed,frappe,,,,,,,
 Check this if the Clinical Procedure is billable and also set the rate.,Controleer dit of de klinische procedure factureerbaar is en stel ook het tarief in.,reviewed,erpnext,,,,,,,

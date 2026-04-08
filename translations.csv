@@ -10396,200 +10396,200 @@ The Link specified has either been used before or Invalid,De opgegeven link is e
 The Loyalty Program isn't valid for the selected company,Het loyaliteitsprogramma is niet geldig voor het geselecteerde bedrijf,reviewed,erpnext
 The mapping configuration between two doctypes.,De toewijzingsconfiguratie tussen twee doctypes.,reviewed,frappe
 "The meta description is an HTML attribute that provides a brief summary of a web page. Search engines such as Google often display the meta description in search results, which can influence click-through rates.","De metabeschrijving is een HTML-kenmerk dat een korte samenvatting van een webpagina geeft. Zoekmachines zoals Google tonen de metabeschrijving vaak in zoekresultaten, wat de klikfrequenties kan beïnvloeden.",reviewed,frappe
-"The meta image is unique image representing the content of the page. Images for this Card should be at least 280px in width, and at least 150px in height.",De meta-afbeelding is een unieke afbeelding die de inhoud van de pagina vertegenwoordigt. Afbeeldingen voor deze kaart moeten minimaal 280 px breed en minimaal 150 px hoog zijn.,unreviewed,frappe
-The minimum distance between rows of plants for optimum growth,De minimale afstand tussen rijen planten voor optimale groei,unreviewed,erpnext
-The minimum length between each plant in the field for optimum growth,De minimale lengte tussen elke plant in het veld voor optimale groei,unreviewed,erpnext
-The name of the institute for which you are setting up this system.,De naam van het instituut waarvoor u het opzetten van dit systeem.,unreviewed,erpnext
-The name of your company for which you are setting up this system.,De naam van uw bedrijf waar u het systeem voor op zet.,unreviewed,erpnext
-The name that will appear in Google Calendar,De naam die in Google Agenda wordt weergegeven,unreviewed,frappe
-The net weight of this package. (calculated automatically as sum of net weight of items),Het nettogewicht van dit pakket. (Wordt automatisch berekend als de som van de netto-gewicht van de artikelen),unreviewed,erpnext
-The new BOM after replacement,De nieuwe Stuklijst na vervanging,unreviewed,erpnext
-"The number of billing cycles for which the customer should be charged. For example, if a customer is buying a 1-year membership that should be billed on a monthly basis, this value should be 12.","Het aantal factureringscycli waarvoor de klant moet worden gefactureerd. Als een klant bijvoorbeeld een lidmaatschap van één jaar koopt dat maandelijks moet worden gefactureerd, moet deze waarde 12 zijn.",unreviewed,erpnext
-The number of free follow ups (Patient Encounters in valid days) allowed,Het toegestane aantal gratis follow-ups (patiëntontmoetingen in geldige dagen),unreviewed,erpnext
-The number of shares and the share numbers are inconsistent,Het aantal aandelen en de aandelenaantallen zijn inconsistent,unreviewed,erpnext
-The page you are looking for is missing. This could be because it is moved or there is a typo in the link.,De pagina die u zoekt ontbreekt. Dit kan zijn omdat het wordt verplaatst of er een typefout in de link.,unreviewed,frappe
-The parent account {0} does not exists in the uploaded template,Het bovenliggende account {0} bestaat niet in de geüploade sjabloon,unreviewed,erpnext
-The password of your account has expired.,Het wachtwoord van uw account is verlopen.,unreviewed,frappe
-The payment for this membership is not paid. To generate invoice fill the payment details,De betaling voor dit lidmaatschap wordt niet betaald. Vul de betalingsgegevens in om een factuur te genereren,unreviewed,erpnext
-The payment gateway account in plan {0} is different from the payment gateway account in this payment request,Het betalingsgateway-account in plan {0} verschilt van het betalingsgateway-account in dit betalingsverzoek,unreviewed,erpnext
-The Payment Term at row {0} is possibly a duplicate.,De betalingstermijn op rij {0} is mogelijk een duplicaat.,unreviewed,erpnext
-"The percentage you are allowed to bill more against the amount ordered. For example, if the order value is $100 for an item and tolerance is set as 10%, then you are allowed to bill up to $110","Het percentage dat u meer mag afrekenen op het bestelde bedrag. Als de bestelwaarde voor een artikel bijvoorbeeld € 100 is en de tolerantie is ingesteld op 10%, mag u maximaal € 110 in rekening brengen",unreviewed,erpnext
-"The percentage you are allowed to receive or deliver more against the quantity ordered. For example, if you have ordered 100 units, and your Allowance is 10%, then you are allowed to receive 110 units.","Het percentage dat u meer mag ontvangen of leveren ten opzichte van de bestelde hoeveelheid. Als u bijvoorbeeld 100 eenheden heeft besteld en uw toeslag is 10%, dan mag u 110 eenheden ontvangen.",unreviewed,erpnext
-The process for deletion of {0} data associated with {1} has been initiated.,Het proces voor het verwijderen van {0} gegevens geassocieerd met {1} is gestart.,unreviewed,frappe
-The question cannot be duplicate,De vraag kan niet dubbel zijn,unreviewed,erpnext
-The Request for Quotation can be accessed by clicking on the following button,De offerteaanvraag is toegankelijk door op de volgende knop te klikken,unreviewed,erpnext
-The resource you are looking for is not available,De bron die u zoekt is niet beschikbaar,unreviewed,frappe
-The root account {0} must be a group,Het root-account {0} moet een groep zijn,unreviewed,erpnext
-The selected BOMs are not for the same item,De geselecteerde stuklijsten zijn niet voor hetzelfde item,unreviewed,erpnext
-The selected change account {} doesn't belongs to Company {}.,Het geselecteerde wijzigingsaccount {} behoort niet tot Bedrijf {}.,unreviewed,erpnext
-The selected item cannot have Batch,Het geselecteerde item kan niet Batch hebben,unreviewed,erpnext
-The selected payment entry should be linked with a creditor bank transaction,De geselecteerde betaling moet worden gekoppeld aan een crediteurenbanktransactie,unreviewed,erpnext
-The selected payment entry should be linked with a debtor bank transaction,De geselecteerde betaling moet worden gekoppeld aan een banktransactie met debiteur,unreviewed,erpnext
-The seller and the buyer cannot be the same,De verkoper en de koper kunnen niet hetzelfde zijn,unreviewed,erpnext
-The serial no {0} does not belong to item {1},Het serienummer {0} hoort niet bij artikel {1},unreviewed,erpnext
-The shareholder does not belong to this company,De aandeelhouder behoort niet tot dit bedrijf,unreviewed,erpnext
-The shares already exist,De aandelen bestaan al,unreviewed,erpnext
-The shares don't exist with the {0},De shares bestaan niet met de {0},unreviewed,erpnext
-The site which is consuming your events.,De site die uw evenementen verbruikt.,unreviewed,frappe
-The site you want to subscribe to for consuming events.,De site waarop u zich wilt abonneren voor het consumeren van evenementen.,unreviewed,frappe
-"The Stock Entry of type 'Manufacture' is known as backflush. Raw materials being consumed to manufacture finished goods is known as backflushing. <br><br> When creating Manufacture Entry, raw-material items are backflushed based on BOM of production item. If you want raw-material items to be backflushed based on Material Transfer entry made against that Work Order instead, then you can set it under this field.","De voorraadinvoer van het type &#39;Fabricage&#39; staat bekend als backflush. Grondstoffen die worden verbruikt om eindproducten te vervaardigen, worden backflushing genoemd.<br><br> Bij het maken van fabricageboeking worden grondstoffenartikelen gebackflusht op basis van de stuklijst van het productieartikel. Als u wilt dat grondstofartikelen worden gebackflusht op basis van de invoer van materiaaloverboeking op basis van die werkorder, dan kunt u dit onder dit veld instellen.",unreviewed,erpnext
-The system provides many pre-defined roles. You can add new roles to set finer permissions.,Het systeem biedt een groot aantal vooraf gedefinieerde rollen . U kunt nieuwe rollen toevoegen om specifiekere machtigingen in te stellen .,unreviewed,frappe
-"The task has been enqueued as a background job. In case there is any issue on processing in background, the system will add a comment about the error on this Stock Reconciliation and revert to the Draft stage","De taak is in de wacht gezet als achtergrondtaak. Als er een probleem is met de verwerking op de achtergrond, zal het systeem een opmerking toevoegen over de fout bij deze voorraadafstemming en terugkeren naar de conceptfase",unreviewed,erpnext
-The Term End Date cannot be earlier than the Term Start Date. Please correct the dates and try again.,De Term Einddatum kan niet eerder dan de Term startdatum. Corrigeer de data en probeer het opnieuw.,unreviewed,erpnext
-The Term End Date cannot be later than the Year End Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,De Term Einddatum kan niet later dan het jaar Einddatum van het studiejaar waarop de term wordt gekoppeld zijn (Academisch Jaar {}). Corrigeer de data en probeer het opnieuw.,unreviewed,erpnext
-The Term Start Date cannot be earlier than the Year Start Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,De Term Start datum kan niet eerder dan het jaar startdatum van het studiejaar waarop de term wordt gekoppeld zijn (Academisch Jaar {}). Corrigeer de data en probeer het opnieuw.,unreviewed,erpnext
-The total allocated amount ({0}) is greated than the paid amount ({1}).,Het totale toegewezen bedrag ({0}) is groter dan het betaalde bedrag ({1}).,unreviewed,erpnext
-The unallocated amount of Payment Entry {0} is greater than the Bank Transaction's unallocated amount,Het niet-toegewezen bedrag van betalingsinvoer {0} is groter dan het niet-toegewezen bedrag van de banktransactie,unreviewed,erpnext
-The user from this field will be rewarded points,De gebruiker uit dit veld krijgt punten,unreviewed,frappe
-"The user that will be used to create Customers, Items and Sales Orders. This user should have the relevant permissions.","De gebruiker die wordt gebruikt om klanten, artikelen en verkooporders te maken. Deze gebruiker moet de relevante machtigingen hebben.",unreviewed,erpnext
-The value of {0} differs between Items {1} and {2},De waarde van {0} verschilt tussen items {1} en {2},unreviewed,erpnext
-The value {0} is already assigned to an existing Item {1}.,De waarde {0} is al toegewezen aan een bestaand item {1}.,unreviewed,erpnext
-The webhook will be triggered if this expression is true,De webhook wordt geactiveerd als deze uitdrukking waar is,unreviewed,frappe
-The Year End Date cannot be earlier than the Year Start Date. Please correct the dates and try again.,Het Jaar Einddatum kan niet eerder dan het jaar startdatum. Corrigeer de data en probeer het opnieuw.,unreviewed,erpnext
-The {0} ({1}) must be equal to {2} ({3}),De {0} ({1}) moet gelijk zijn aan {2} ({3}),unreviewed,erpnext
-The {0} is already on auto repeat {1},De {0} is al op automatisch herhalen {1},unreviewed,frappe
-The {0} {1} created sucessfully,De {0} {1} is met succes gemaakt,unreviewed,erpnext
-Theme,Thema,unreviewed,frappe
-Theme Configuration,Thema configuratie,unreviewed,frappe
-Theme URL,Thema-URL,unreviewed,frappe
-"Then Pricing Rules are filtered out based on Customer, Customer Group, Territory, Supplier, Supplier Type, Campaign, Sales Partner etc.","Dan worden prijsregels uitgefilterd op basis van Klant, Klantgroep, Regio,  Leverancier, Leverancier Type, Campagne, Verkooppartner, etc.",unreviewed,erpnext
-Therapies,Therapieën,unreviewed,erpnext
-Therapy,Behandeling,unreviewed,erpnext
-Therapy For,Therapie voor,unreviewed,erpnext
-Therapy Plan,Therapieplan,unreviewed,erpnext
-Therapy Plan Detail,Details van het therapieplan,unreviewed,erpnext
-Therapy Plan Details,Details therapieplan,unreviewed,erpnext
-Therapy Plan Template,Therapieplan sjabloon,unreviewed,erpnext
-Therapy Plan Template Detail,Details van sjabloon voor therapieplan,unreviewed,erpnext
-Therapy Plan {0} created successfully.,Het therapieplan {0} is gemaakt.,unreviewed,erpnext
-Therapy Plan:,Therapieplan:,unreviewed,erpnext
-Therapy Plans,Therapieplannen,unreviewed,erpnext
-Therapy Session,Therapiesessie,unreviewed,erpnext
-Therapy Session Charges: {0},Kosten voor therapiesessie: {0},unreviewed,erpnext
-Therapy Session overlaps with {0},Therapiesessie overlapt met {0},unreviewed,erpnext
-Therapy Sessions,Therapiesessies,unreviewed,erpnext
-Therapy Sessions Overlapping,Therapiesessies overlappen elkaar,unreviewed,erpnext
-Therapy Type,Therapietype,unreviewed,erpnext
-Therapy Types,Therapietypes,unreviewed,erpnext
-Therapy:,Behandeling:,unreviewed,erpnext
-There are active maintenance or repairs against the asset. You must complete all of them before cancelling the asset.,Er zijn actief onderhoud of reparaties aan het activum. U moet ze allemaal invullen voordat u het activum annuleert.,unreviewed,erpnext
-There are documents which have workflow states that do not exist in this Workflow. It is recommended that you add these states to the Workflow and change their states before removing these states.,Er zijn documenten met werkstroomstatussen die niet in deze werkstroom voorkomen. Het wordt aanbevolen dat u deze staten aan de workflow toevoegt en hun staten wijzigt voordat u deze staten verwijdert.,unreviewed,frappe
-"There are inconsistencies between the rate, no of shares and the amount calculated","Er zijn inconsistenties tussen de koers, aantal aandelen en het berekende bedrag",unreviewed,erpnext
-There are no procedure prescribed for,Er is geen procedure voor voorgeschreven,unreviewed,erpnext
-There are no Therapies prescribed for Patient {0},Er zijn geen therapieën voorgeschreven voor de patiënt {0},unreviewed,erpnext
-There are some linked records which needs to be created before we can import your file. Do you want to create the following missing records automatically?,Er zijn enkele gekoppelde records die moeten worden gemaakt voordat we uw bestand kunnen importeren. Wilt u automatisch de volgende ontbrekende records maken?,unreviewed,frappe
-There are {0} with the same filters already in the queue:,Er staan al {0} met dezelfde filters in de wachtrij:,unreviewed,frappe
-There can be multiple tiered collection factor based on the total spent. But the conversion factor for redemption will always be same for all the tier.,Er kan een meerlaagse verzamelfactor zijn op basis van het totaal uitgegeven. Maar de conversiefactor voor inlossing zal altijd hetzelfde zijn voor alle niveaus.,unreviewed,erpnext
-There can be only one Fold in a form,Er kan slechts één Fold in een vorm,unreviewed,frappe
-There can only be 1 Account per Company in {0} {1},Er kan slechts 1 account per Bedrijf in zijn {0} {1},unreviewed,erpnext
-"There can only be one Shipping Rule Condition with 0 or blank value for ""To Value""","Er kan maar één Verzendregel Voorwaarde met 0 of blanco waarde zijn voor ""To Value """,unreviewed,erpnext
-There is an error in your Address Template {0},Er is een fout in uw Address Template {0},unreviewed,frappe
-There is no batch found against the {0}: {1},Er is geen batch gevonden voor de {0}: {1},unreviewed,erpnext
-There is no data to be exported,Er zijn geen gegevens om te exporteren,unreviewed,frappe
-There is not enough leave balance for Leave Type {0},Er is niet genoeg verlofsaldo voor Verlof type {0},unreviewed,erpnext
-There is nothing to edit.,Er is niets om te bewerken .,unreviewed,erpnext
-There is some problem with the file url: {0},Er is een probleem met het bestand url: {0},unreviewed,frappe
-There is {0} with the same filters already in the queue:,Er staan al {0} met dezelfde filters in de wachtrij:,unreviewed,frappe
-There isn't any item variant for the selected item,Er is geen artikelvariant voor het geselecteerde artikel,unreviewed,erpnext
-There must be atleast one permission rule.,Er moet minimaal één toestemming regel.,unreviewed,frappe
-"There seems to be an issue with the server's braintree configuration. Don't worry, in case of failure, the amount will get refunded to your account.","Er lijkt een probleem te zijn met de braintree-configuratie van de server. Maakt u zich geen zorgen, in het geval van een fout, wordt het bedrag teruggestort op uw account.",unreviewed,frappe
-"There seems to be an issue with the server's GoCardless configuration. Don't worry, in case of failure, the amount will get refunded to your account.","Er lijkt een probleem te zijn met de GoCardless-configuratie van de server. Maakt u zich geen zorgen, in het geval van een fout, wordt het bedrag teruggestort op uw account.",unreviewed,erpnext
-There should be atleast one row for the following tables: {0},Er moet minstens één rij zijn voor de volgende tabellen: {0},unreviewed,frappe
-There should be atleast one row for {0} table,Er moet minimaal één rij zijn voor de {0} tabel,unreviewed,frappe
-There should remain at least one System Manager,Er moet ten minste één System Manager blijven,unreviewed,frappe
-There was an error building this page,Er is een fout opgetreden bij het maken van deze pagina,unreviewed,frappe
-There was an error saving filters,Er was een fout bij het opslaan van filters,unreviewed,frappe
-There was an error saving the document.,Er is een fout opgetreden bij het opslaan van het document.,unreviewed,erpnext
-There were errors,Er zijn fouten opgetreden.,unreviewed,frappe
-There were errors creating Course Schedule,Er zijn fouten opgetreden bij het maken van cursusplanning,unreviewed,erpnext
-There were errors while creating the document. Please try again.,Er zijn fouten opgetreden tijdens het maken van het document. Probeer het opnieuw.,unreviewed,frappe
-There were errors while sending email. Please try again.,Er zijn fouten opgetreden tijdens het versturen van e-mail. Probeer het opnieuw .,unreviewed,both
-There were errors.,Er zijn fouten opgetreden.,unreviewed,erpnext
-"There were some errors setting the name, please contact the administrator","Er zijn fouten opgetreden bij het instellen van de naam, neemt u aub contact op met de beheerder",unreviewed,frappe
-Third Party Apps,Apps van derden,unreviewed,frappe
-This account is capital account which is used to allocate capital for loan disbursal account,Deze rekening is een kapitaalrekening die wordt gebruikt om kapitaal toe te wijzen voor het uitbetalen van leningen,unreviewed,erpnext
-This account is used for booking loan repayments from the borrower and also disbursing loans to the borrower,Deze rekening wordt gebruikt voor het boeken van aflossingen van leningen van de lener en ook voor het uitbetalen van leningen aan de lener,unreviewed,erpnext
-This account will be used for booking loan interest accruals,Deze rekening wordt gebruikt voor het boeken van opgelopen rente op leningen,unreviewed,erpnext
-This account will be used for booking penalties levied due to delayed repayments,Deze rekening wordt gebruikt voor het boeken van boetes die worden opgelegd wegens vertraagde terugbetalingen,unreviewed,erpnext
-This action is only allowed for {},Deze actie is alleen toegestaan voor {},unreviewed,frappe
-This action will stop future billing. Are you sure you want to cancel this subscription?,Deze actie stopt toekomstige facturering. Weet je zeker dat je dit abonnement wilt annuleren?,unreviewed,erpnext
-This action will unlink this account from any external service integrating ERPNext with your bank accounts. It cannot be undone. Are you certain ?,Door deze actie wordt deze account ontkoppeld van externe services die ERPNext integreren met uw bankrekeningen. Het kan niet ongedaan gemaakt worden. Weet je het zeker ?,unreviewed,erpnext
-This article is already added to the existing topics,Dit artikel is al toegevoegd aan de bestaande onderwerpen,unreviewed,erpnext
-This bank account is already synchronized,Deze bankrekening is al gesynchroniseerd,unreviewed,erpnext
-This bank transaction is already fully reconciled,Deze banktransactie is al volledig afgestemd,unreviewed,erpnext
-This cannot be undone,Dit kan niet ongedaan gemaakt worden,unreviewed,frappe
-This card will be available to all Users if this is set,Deze kaart is beschikbaar voor alle gebruikers als deze is ingesteld,unreviewed,frappe
-This chart will be available to all Users if this is set,Deze grafiek is beschikbaar voor alle gebruikers als deze is ingesteld,unreviewed,frappe
-This company will be used to create Sales Orders.,Dit bedrijf zal worden gebruikt om klantorders aan te maken.,unreviewed,erpnext
-This course is already added to the existing programs,Deze cursus is al toegevoegd aan de bestaande programma&#39;s,unreviewed,erpnext
-This covers all scorecards tied to this Setup,Dit omvat alle scorecards die aan deze Setup zijn gekoppeld,unreviewed,erpnext
-This Currency is disabled. Enable to use in transactions,Deze valuta is uitgeschakeld. Schakel het in om deze valuta te kunnen gebruiken in transacties.,unreviewed,frappe
-This document cannot be reverted,Dit document kan niet worden teruggezet,unreviewed,frappe
-This document has been modified after the email was sent.,Dit document is gewijzigd nadat de e-mail is verzonden.,unreviewed,frappe
-This document has been reverted,Dit document is teruggezet,unreviewed,frappe
-"This document is already amended, you cannot ammend it again","Dit document is al gewijzigd, u kunt het niet opnieuw wijzigen",unreviewed,frappe
-This document is currently queued for execution. Please try again,Dit document is momenteel in de wachtrij voor de uitvoering. Probeer het opnieuw,unreviewed,frappe
-This document is over limit by {0} {1} for item {4}. Are you making another {3} against the same {2}?,Dit document is dan limiet van {0} {1} voor punt {4}. Bent u het maken van een andere {3} tegen dezelfde {2}?,unreviewed,erpnext
-This email is autogenerated,Deze email is autogenerated,unreviewed,frappe
-This email was sent to {0},Deze e-mail is verzonden naar {0},unreviewed,frappe
-This email was sent to {0} and copied to {1},Deze e-mail is verzonden naar {0} en gekopieerd naar {1},unreviewed,frappe
-This feature is brand new and still experimental,Deze functie is nieuw en nog steeds experimenteel,unreviewed,frappe
-This field will appear only if the fieldname defined here has value OR the rules are true (examples):\nmyfield\neval:doc.myfield=='My Value'\neval:doc.age&gt;18,"Dit veld verschijnt alleen als de veldnaam hier gedefinieerde waarde heeft, of de regels waar zijn (voorbeelden): myfield Eval: doc.myfield == &#39;My Value&#39; eval: doc.age&gt; 18",unreviewed,frappe
-This form does not have any input,Deze vorm heeft geen inbreng hebben,unreviewed,frappe
-This form has been modified after you have loaded it,Dit formulier is gewijzigd nadat u het hebt geladen,unreviewed,frappe
-This format is used if country specific format is not found,Dit formaat wordt gebruikt als landspecifiek formaat niet kan worden gevonden,unreviewed,frappe
-This goes above the slideshow.,Dit staat boven de diavoorstelling.,unreviewed,frappe
-This is a background report. Please set the appropriate filters and then generate a new one.,Dit is een achtergrondrapport. Stel de juiste filters in en genereer vervolgens een nieuwe.,unreviewed,frappe
-This is a location where final product stored.,Dit is een locatie waar het eindproduct wordt opgeslagen.,unreviewed,erpnext
-This is a location where operations are executed.,Dit is een locatie waar bewerkingen worden uitgevoerd.,unreviewed,erpnext
-This is a location where raw materials are available.,Dit is een locatie waar grondstoffen beschikbaar zijn.,unreviewed,erpnext
-This is a location where scraped materials are stored.,Dit is een locatie waar geschraapt materiaal wordt opgeslagen.,unreviewed,erpnext
-This is a root account and cannot be edited.,Dit is een basisrekening en kan niet worden bewerkt.,unreviewed,erpnext
-This is a root customer group and cannot be edited.,Dit is een basis klantgroep en kan niet worden bewerkt .,unreviewed,erpnext
-This is a root department and cannot be edited.,Dit is een rootafdeling en kan niet worden bewerkt.,unreviewed,erpnext
-This is a root healthcare service unit and cannot be edited.,Dit is een service-eenheid voor basisgezondheidszorg en kan niet worden bewerkt.,unreviewed,erpnext
-This is a root item group and cannot be edited.,Dit is een basis artikelgroep en kan niet worden bewerkt .,unreviewed,erpnext
-This is a root sales person and cannot be edited.,Dit is een basis verkoper en kan niet worden bewerkt .,unreviewed,erpnext
-This is a root supplier group and cannot be edited.,Dit is een root-leveranciersgroep en kan niet worden bewerkt.,unreviewed,erpnext
-This is a root territory and cannot be edited.,Dit is een basis regio en kan niet worden bewerkt .,unreviewed,erpnext
-This is a top-10 common password.,Dit is een gemeenschappelijk wachtwoord top-10.,unreviewed,frappe
-This is a top-100 common password.,Dit is een gemeenschappelijk wachtwoord top-100.,unreviewed,frappe
-This is a very common password.,Dit is een veel voorkomende wachtwoord.,unreviewed,frappe
-This is an automatically generated reply,Dit is een automatisch gegenereerd antwoord,unreviewed,frappe
-This is an example Google SERP Preview.,Dit is een voorbeeld van een Google SERP Preview.,unreviewed,frappe
-This is an example website auto-generated from ERPNext,"Dit is een voorbeeld website, automatisch gegenereerd door ERPNext",unreviewed,erpnext
-This is based on logs against this Vehicle. See timeline below for details,Dit is gebaseerd op stammen tegen dit voertuig. Zie tijdlijn hieronder voor meer informatie,unreviewed,erpnext
-This is based on stock movement. See {0} for details,Dit is gebaseerd op voorraad beweging. Zie {0} voor meer informatie,unreviewed,erpnext
-This is based on the attendance of this Student,Dit is gebaseerd op de aanwezigheid van de Student,unreviewed,erpnext
-This is based on the course schedules of this Instructor,Dit is gebaseerd op de cursusroosters van deze instructeur,unreviewed,erpnext
-This is based on the Time Sheets created against this project,Dit is gebaseerd op de Time Sheets gemaakt tegen dit project,unreviewed,erpnext
-This is based on transactions against this Customer. See timeline below for details,Dit is gebaseerd op transacties tegen deze klant. Zie tijdlijn hieronder voor meer informatie,unreviewed,erpnext
-This is based on transactions against this Healthcare Practitioner.,Dit is gebaseerd op transacties met deze zorgverlener.,unreviewed,erpnext
-This is based on transactions against this Patient. See timeline below for details,Dit is gebaseerd op transacties tegen deze patiënt. Zie de tijdlijn hieronder voor details,unreviewed,erpnext
-This is based on transactions against this Sales Person. See timeline below for details,Dit is gebaseerd op transacties met deze verkoopmedewerker. Zie de tijdlijn hieronder voor details,unreviewed,erpnext
-This is based on transactions against this Supplier. See timeline below for details,Dit is gebaseerd op transacties tegen deze leverancier. Zie tijdlijn hieronder voor meer informatie,unreviewed,erpnext
-This is done to handle accounting for cases when Purchase Receipt is created after Purchase Invoice,Dit wordt gedaan om de boekhouding af te handelen voor gevallen waarin inkoopontvangst wordt aangemaakt na inkoopfactuur,unreviewed,erpnext
-This is similar to a commonly used password.,Dit is vergelijkbaar met een algemeen gebruikte wachtwoord.,unreviewed,frappe
-This is the default offset (days) for the Delivery Date in Sales Orders. The fallback offset is 7 days from the order placement date.,Dit is de standaard offset (dagen) voor de leverdatum in verkooporders. De reserve-terugval is 7 dagen vanaf de plaatsingsdatum van de bestelling.,unreviewed,erpnext
-"This is the default UOM used for items and Sales orders. The fallback UOM is ""Nos"".",Dit is de standaard UOM die wordt gebruikt voor artikelen en verkooporders. De reserve UOM is &quot;Nos&quot;.,unreviewed,erpnext
-This is the number of the last created transaction with this prefix,Dit is het nummer van de laatst gemaakte transactie met dit voorvoegsel,unreviewed,frappe
-This is the template file generated with only the rows having some error. You should use this file for correction and import.,Dit is het sjabloonbestand dat is gegenereerd met alleen de rijen die een fout bevatten. U zou dit bestand moeten gebruiken voor correctie en import.,unreviewed,frappe
-This Item is a Template and cannot be used in transactions. Item attributes will be copied over into the variants unless 'No Copy' is set,Dit artikel is een sjabloon en kunnen niet worden gebruikt bij transacties. Item attributen zal worden gekopieerd naar de varianten tenzij 'No Copy' is ingesteld,unreviewed,erpnext
-This Item is a Variant of {0} (Template).,Dit artikel is een variant van {0} (Sjabloon).,unreviewed,erpnext
-This Kanban Board will be private,Dit Kanban Board is privé,unreviewed,frappe
-This link has already been activated for verification.,Deze link is al geactiveerd voor verificatie.,unreviewed,frappe
-This link is invalid or expired. Please make sure you have pasted correctly.,Deze koppeling is ongeldig of verlopen. Zorg ervoor dat u correct hebt geplakt.,unreviewed,frappe
-This may get printed on multiple pages,Dit kan op meerdere pagina&#39;s worden afgedrukt,unreviewed,frappe
-This Month,Deze maand,unreviewed,frappe
-This month,Deze maand,unreviewed,frappe
-This Month's Summary,Samenvatting van deze maand,unreviewed,erpnext
-This page keeps track of items you want to buy from sellers.,Deze pagina houdt bij welke artikelen u van verkopers wilt kopen.,unreviewed,erpnext
-This page keeps track of your items in which buyers have showed some interest.,Deze pagina houdt uw items bij waarin kopers enige interesse hebben getoond.,unreviewed,erpnext
-This Quarter,Dit kwartier,unreviewed,frappe
-This query style is discontinued,Deze zoekopdrachtstijl is beëindigd,unreviewed,frappe
-This quiz is already added to the existing topics,Deze quiz is al toegevoegd aan de bestaande onderwerpen,unreviewed,erpnext
-This report was generated on {0},Dit rapport is gegenereerd op {0},unreviewed,frappe
-This report was generated {0}.,Dit rapport is gegenereerd {0}.,unreviewed,frappe
+"The meta image is unique image representing the content of the page. Images for this Card should be at least 280px in width, and at least 150px in height.",De meta-afbeelding is een unieke afbeelding die de inhoud van de pagina vertegenwoordigt. Afbeeldingen voor deze kaart moeten minimaal 280 px breed en minimaal 150 px hoog zijn.,reviewed,frappe
+The minimum distance between rows of plants for optimum growth,De minimale afstand tussen rijen planten voor optimale groei,reviewed,erpnext
+The minimum length between each plant in the field for optimum growth,De minimale lengte tussen elke plant in het veld voor optimale groei,reviewed,erpnext
+The name of the institute for which you are setting up this system.,De naam van het instituut waarvoor u het opzetten van dit systeem.,reviewed,erpnext
+The name of your company for which you are setting up this system.,De naam van uw bedrijf waar u het systeem voor op zet.,reviewed,erpnext
+The name that will appear in Google Calendar,De naam die in Google Agenda wordt weergegeven,reviewed,frappe
+The net weight of this package. (calculated automatically as sum of net weight of items),Het nettogewicht van dit pakket. (Wordt automatisch berekend als de som van de netto-gewicht van de artikelen),reviewed,erpnext
+The new BOM after replacement,De nieuwe Stuklijst na vervanging,reviewed,erpnext
+"The number of billing cycles for which the customer should be charged. For example, if a customer is buying a 1-year membership that should be billed on a monthly basis, this value should be 12.","Het aantal factureringscycli waarvoor de klant moet worden gefactureerd. Als een klant bijvoorbeeld een lidmaatschap van één jaar koopt dat maandelijks moet worden gefactureerd, moet deze waarde 12 zijn.",reviewed,erpnext
+The number of free follow ups (Patient Encounters in valid days) allowed,Het toegestane aantal gratis follow-ups (patiëntontmoetingen in geldige dagen),reviewed,erpnext
+The number of shares and the share numbers are inconsistent,Het aantal aandelen en de aandelenaantallen zijn inconsistent,reviewed,erpnext
+The page you are looking for is missing. This could be because it is moved or there is a typo in the link.,De pagina die u zoekt ontbreekt. Dit kan zijn omdat het wordt verplaatst of er een typefout in de link.,reviewed,frappe
+The parent account {0} does not exists in the uploaded template,Het bovenliggende account {0} bestaat niet in de geüploade sjabloon,reviewed,erpnext
+The password of your account has expired.,Het wachtwoord van uw account is verlopen.,reviewed,frappe
+The payment for this membership is not paid. To generate invoice fill the payment details,De betaling voor dit lidmaatschap wordt niet betaald. Vul de betalingsgegevens in om een factuur te genereren,reviewed,erpnext
+The payment gateway account in plan {0} is different from the payment gateway account in this payment request,Het betalingsgateway-account in plan {0} verschilt van het betalingsgateway-account in dit betalingsverzoek,reviewed,erpnext
+The Payment Term at row {0} is possibly a duplicate.,De betalingstermijn op rij {0} is mogelijk een duplicaat.,reviewed,erpnext
+"The percentage you are allowed to bill more against the amount ordered. For example, if the order value is $100 for an item and tolerance is set as 10%, then you are allowed to bill up to $110","Het percentage dat u meer mag afrekenen op het bestelde bedrag. Als de bestelwaarde voor een artikel bijvoorbeeld € 100 is en de tolerantie is ingesteld op 10%, mag u maximaal € 110 in rekening brengen",reviewed,erpnext
+"The percentage you are allowed to receive or deliver more against the quantity ordered. For example, if you have ordered 100 units, and your Allowance is 10%, then you are allowed to receive 110 units.","Het percentage dat u meer mag ontvangen of leveren ten opzichte van de bestelde hoeveelheid. Als u bijvoorbeeld 100 eenheden heeft besteld en uw toeslag is 10%, dan mag u 110 eenheden ontvangen.",reviewed,erpnext
+The process for deletion of {0} data associated with {1} has been initiated.,Het proces voor het verwijderen van {0} gegevens geassocieerd met {1} is gestart.,reviewed,frappe
+The question cannot be duplicate,De vraag kan niet dubbel zijn,reviewed,erpnext
+The Request for Quotation can be accessed by clicking on the following button,De offerteaanvraag is toegankelijk door op de volgende knop te klikken,reviewed,erpnext
+The resource you are looking for is not available,De bron die u zoekt is niet beschikbaar,reviewed,frappe
+The root account {0} must be a group,Het root-account {0} moet een groep zijn,reviewed,erpnext
+The selected BOMs are not for the same item,De geselecteerde stuklijsten zijn niet voor hetzelfde item,reviewed,erpnext
+The selected change account {} doesn't belongs to Company {}.,De geselecteerde wisselrekening {} behoort niet tot bedrijf {}.,reviewed,erpnext
+The selected item cannot have Batch,Het geselecteerde item kan niet Batch hebben,reviewed,erpnext
+The selected payment entry should be linked with a creditor bank transaction,De geselecteerde betaling moet worden gekoppeld aan een crediteurenbanktransactie,reviewed,erpnext
+The selected payment entry should be linked with a debtor bank transaction,De geselecteerde betaling moet worden gekoppeld aan een banktransactie met debiteur,reviewed,erpnext
+The seller and the buyer cannot be the same,De verkoper en de koper kunnen niet hetzelfde zijn,reviewed,erpnext
+The serial no {0} does not belong to item {1},Het serienummer {0} hoort niet bij artikel {1},reviewed,erpnext
+The shareholder does not belong to this company,De aandeelhouder behoort niet tot dit bedrijf,reviewed,erpnext
+The shares already exist,De aandelen bestaan al,reviewed,erpnext
+The shares don't exist with the {0},De shares bestaan niet met de {0},reviewed,erpnext
+The site which is consuming your events.,De site die uw gebeurtenissen verwerkt.,reviewed,frappe
+The site you want to subscribe to for consuming events.,De site waarop u zich wilt abonneren voor het verwerken van gebeurtenissen.,reviewed,frappe
+"The Stock Entry of type 'Manufacture' is known as backflush. Raw materials being consumed to manufacture finished goods is known as backflushing. <br><br> When creating Manufacture Entry, raw-material items are backflushed based on BOM of production item. If you want raw-material items to be backflushed based on Material Transfer entry made against that Work Order instead, then you can set it under this field.","De voorraadinvoer van het type &#39;Fabricage&#39; staat bekend als backflush. Grondstoffen die worden verbruikt om eindproducten te vervaardigen, worden backflushing genoemd.<br><br> Bij het maken van fabricageboeking worden grondstoffenartikelen gebackflusht op basis van de stuklijst van het productieartikel. Als u wilt dat grondstofartikelen worden gebackflusht op basis van de invoer van materiaaloverboeking op basis van die werkorder, dan kunt u dit onder dit veld instellen.",reviewed,erpnext
+The system provides many pre-defined roles. You can add new roles to set finer permissions.,Het systeem biedt een groot aantal vooraf gedefinieerde rollen . U kunt nieuwe rollen toevoegen om specifiekere machtigingen in te stellen .,reviewed,frappe
+"The task has been enqueued as a background job. In case there is any issue on processing in background, the system will add a comment about the error on this Stock Reconciliation and revert to the Draft stage","De taak is in de wacht gezet als achtergrondtaak. Als er een probleem is met de verwerking op de achtergrond, zal het systeem een opmerking toevoegen over de fout bij deze voorraadafstemming en terugkeren naar de conceptfase",reviewed,erpnext
+The Term End Date cannot be earlier than the Term Start Date. Please correct the dates and try again.,De Term Einddatum kan niet eerder dan de Term startdatum. Corrigeer de data en probeer het opnieuw.,reviewed,erpnext
+The Term End Date cannot be later than the Year End Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,De Term Einddatum kan niet later dan het jaar Einddatum van het studiejaar waarop de term wordt gekoppeld zijn (Academisch Jaar {}). Corrigeer de data en probeer het opnieuw.,reviewed,erpnext
+The Term Start Date cannot be earlier than the Year Start Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,De Term Start datum kan niet eerder dan het jaar startdatum van het studiejaar waarop de term wordt gekoppeld zijn (Academisch Jaar {}). Corrigeer de data en probeer het opnieuw.,reviewed,erpnext
+The total allocated amount ({0}) is greated than the paid amount ({1}).,Het totale toegewezen bedrag ({0}) is groter dan het betaalde bedrag ({1}).,reviewed,erpnext
+The unallocated amount of Payment Entry {0} is greater than the Bank Transaction's unallocated amount,Het niet-toegewezen bedrag van betalingsinvoer {0} is groter dan het niet-toegewezen bedrag van de banktransactie,reviewed,erpnext
+The user from this field will be rewarded points,De gebruiker uit dit veld krijgt punten,reviewed,frappe
+"The user that will be used to create Customers, Items and Sales Orders. This user should have the relevant permissions.","De gebruiker die wordt gebruikt om klanten, artikelen en verkooporders te maken. Deze gebruiker moet de relevante machtigingen hebben.",reviewed,erpnext
+The value of {0} differs between Items {1} and {2},De waarde van {0} verschilt tussen items {1} en {2},reviewed,erpnext
+The value {0} is already assigned to an existing Item {1}.,De waarde {0} is al toegewezen aan een bestaand item {1}.,reviewed,erpnext
+The webhook will be triggered if this expression is true,De webhook wordt geactiveerd als deze uitdrukking waar is,reviewed,frappe
+The Year End Date cannot be earlier than the Year Start Date. Please correct the dates and try again.,Het Jaar Einddatum kan niet eerder dan het jaar startdatum. Corrigeer de data en probeer het opnieuw.,reviewed,erpnext
+The {0} ({1}) must be equal to {2} ({3}),De {0} ({1}) moet gelijk zijn aan {2} ({3}),reviewed,erpnext
+The {0} is already on auto repeat {1},De {0} is al op automatisch herhalen {1},reviewed,frappe
+The {0} {1} created sucessfully,De {0} {1} is met succes gemaakt,reviewed,erpnext
+Theme,Thema,reviewed,frappe
+Theme Configuration,Thema-configuratie,reviewed,frappe
+Theme URL,Thema-URL,reviewed,frappe
+"Then Pricing Rules are filtered out based on Customer, Customer Group, Territory, Supplier, Supplier Type, Campaign, Sales Partner etc.","Dan worden prijsregels uitgefilterd op basis van Klant, Klantgroep, Regio,  Leverancier, Leverancier Type, Campagne, Verkooppartner, etc.",reviewed,erpnext
+Therapies,Therapieën,reviewed,erpnext
+Therapy,Behandeling,reviewed,erpnext
+Therapy For,Therapie voor,reviewed,erpnext
+Therapy Plan,Therapieplan,reviewed,erpnext
+Therapy Plan Detail,Details van het therapieplan,reviewed,erpnext
+Therapy Plan Details,Details therapieplan,reviewed,erpnext
+Therapy Plan Template,Therapieplan sjabloon,reviewed,erpnext
+Therapy Plan Template Detail,Details van sjabloon voor therapieplan,reviewed,erpnext
+Therapy Plan {0} created successfully.,Het therapieplan {0} is gemaakt.,reviewed,erpnext
+Therapy Plan:,Therapieplan:,reviewed,erpnext
+Therapy Plans,Therapieplannen,reviewed,erpnext
+Therapy Session,Therapiesessie,reviewed,erpnext
+Therapy Session Charges: {0},Kosten voor therapiesessie: {0},reviewed,erpnext
+Therapy Session overlaps with {0},Therapiesessie overlapt met {0},reviewed,erpnext
+Therapy Sessions,Therapiesessies,reviewed,erpnext
+Therapy Sessions Overlapping,Therapiesessies overlappen elkaar,reviewed,erpnext
+Therapy Type,Therapietype,reviewed,erpnext
+Therapy Types,Therapietypes,reviewed,erpnext
+Therapy:,Behandeling:,reviewed,erpnext
+There are active maintenance or repairs against the asset. You must complete all of them before cancelling the asset.,Er zijn actief onderhoud of reparaties aan het activum. U moet ze allemaal invullen voordat u het activum annuleert.,reviewed,erpnext
+There are documents which have workflow states that do not exist in this Workflow. It is recommended that you add these states to the Workflow and change their states before removing these states.,Er zijn documenten met werkstroomstatussen die niet in deze werkstroom voorkomen. Het wordt aanbevolen dat u deze staten aan de workflow toevoegt en hun staten wijzigt voordat u deze staten verwijdert.,reviewed,frappe
+"There are inconsistencies between the rate, no of shares and the amount calculated","Er zijn inconsistenties tussen de koers, aantal aandelen en het berekende bedrag",reviewed,erpnext
+There are no procedure prescribed for,Er is geen procedure voor voorgeschreven,reviewed,erpnext
+There are no Therapies prescribed for Patient {0},Er zijn geen therapieën voorgeschreven voor de patiënt {0},reviewed,erpnext
+There are some linked records which needs to be created before we can import your file. Do you want to create the following missing records automatically?,Er zijn enkele gekoppelde records die moeten worden gemaakt voordat we uw bestand kunnen importeren. Wilt u automatisch de volgende ontbrekende records maken?,reviewed,frappe
+There are {0} with the same filters already in the queue:,Er staan al {0} met dezelfde filters in de wachtrij:,reviewed,frappe
+There can be multiple tiered collection factor based on the total spent. But the conversion factor for redemption will always be same for all the tier.,Er kan een meerlaagse verzamelfactor zijn op basis van het totaal uitgegeven. Maar de conversiefactor voor inlossing zal altijd hetzelfde zijn voor alle niveaus.,reviewed,erpnext
+There can be only one Fold in a form,Er kan slechts een invouwing in een formulier zijn.,reviewed,frappe
+There can only be 1 Account per Company in {0} {1},Er kan slechts 1 rekening per bedrijf zijn in {0} {1},reviewed,erpnext
+"There can only be one Shipping Rule Condition with 0 or blank value for ""To Value""","Er kan maar één Verzendregel Voorwaarde met 0 of blanco waarde zijn voor ""To Value """,reviewed,erpnext
+There is an error in your Address Template {0},Er is een fout in uw adressjabloon {0}.,reviewed,frappe
+There is no batch found against the {0}: {1},Er is geen batch gevonden voor de {0}: {1},reviewed,erpnext
+There is no data to be exported,Er zijn geen gegevens om te exporteren,reviewed,frappe
+There is not enough leave balance for Leave Type {0},Er is niet genoeg verlofsaldo voor Verlof type {0},reviewed,erpnext
+There is nothing to edit.,Er is niets om te bewerken .,reviewed,erpnext
+There is some problem with the file url: {0},Er is een probleem met het bestand url: {0},reviewed,frappe
+There is {0} with the same filters already in the queue:,Er staan al {0} met dezelfde filters in de wachtrij:,reviewed,frappe
+There isn't any item variant for the selected item,Er is geen artikelvariant voor het geselecteerde artikel,reviewed,erpnext
+There must be atleast one permission rule.,Er moet minimaal een machtigingsregel zijn.,reviewed,frappe
+"There seems to be an issue with the server's braintree configuration. Don't worry, in case of failure, the amount will get refunded to your account.","Er lijkt een probleem te zijn met de braintree-configuratie van de server. Maakt u zich geen zorgen, in het geval van een fout, wordt het bedrag teruggestort op uw account.",reviewed,frappe
+"There seems to be an issue with the server's GoCardless configuration. Don't worry, in case of failure, the amount will get refunded to your account.","Er lijkt een probleem te zijn met de GoCardless-configuratie van de server. Maakt u zich geen zorgen, in het geval van een fout, wordt het bedrag teruggestort op uw account.",reviewed,erpnext
+There should be atleast one row for the following tables: {0},Er moet minstens één rij zijn voor de volgende tabellen: {0},reviewed,frappe
+There should be atleast one row for {0} table,Er moet minimaal één rij zijn voor de {0} tabel,reviewed,frappe
+There should remain at least one System Manager,Er moet ten minste één System Manager blijven,reviewed,frappe
+There was an error building this page,Er is een fout opgetreden bij het maken van deze pagina,reviewed,frappe
+There was an error saving filters,Er was een fout bij het opslaan van filters,reviewed,frappe
+There was an error saving the document.,Er is een fout opgetreden bij het opslaan van het document.,reviewed,erpnext
+There were errors,Er zijn fouten opgetreden.,reviewed,frappe
+There were errors creating Course Schedule,Er zijn fouten opgetreden bij het maken van cursusplanning,reviewed,erpnext
+There were errors while creating the document. Please try again.,Er zijn fouten opgetreden tijdens het maken van het document. Probeer het opnieuw.,reviewed,frappe
+There were errors while sending email. Please try again.,Er zijn fouten opgetreden tijdens het versturen van e-mail. Probeer het opnieuw .,reviewed,both
+There were errors.,Er zijn fouten opgetreden.,reviewed,erpnext
+"There were some errors setting the name, please contact the administrator","Er zijn fouten opgetreden bij het instellen van de naam, neemt u aub contact op met de beheerder",reviewed,frappe
+Third Party Apps,Apps van derden,reviewed,frappe
+This account is capital account which is used to allocate capital for loan disbursal account,Deze rekening is een kapitaalrekening die wordt gebruikt om kapitaal toe te wijzen voor het uitbetalen van leningen,reviewed,erpnext
+This account is used for booking loan repayments from the borrower and also disbursing loans to the borrower,Deze rekening wordt gebruikt voor het boeken van aflossingen van leningen van de lener en ook voor het uitbetalen van leningen aan de lener,reviewed,erpnext
+This account will be used for booking loan interest accruals,Deze rekening wordt gebruikt voor het boeken van opgelopen rente op leningen,reviewed,erpnext
+This account will be used for booking penalties levied due to delayed repayments,Deze rekening wordt gebruikt voor het boeken van boetes die worden opgelegd wegens vertraagde terugbetalingen,reviewed,erpnext
+This action is only allowed for {},Deze actie is alleen toegestaan voor {},reviewed,frappe
+This action will stop future billing. Are you sure you want to cancel this subscription?,Deze actie stopt toekomstige facturering. Weet je zeker dat je dit abonnement wilt annuleren?,reviewed,erpnext
+This action will unlink this account from any external service integrating ERPNext with your bank accounts. It cannot be undone. Are you certain ?,Door deze actie wordt deze account ontkoppeld van externe services die ERPNext integreren met uw bankrekeningen. Het kan niet ongedaan gemaakt worden. Weet je het zeker ?,reviewed,erpnext
+This article is already added to the existing topics,Dit artikel is al toegevoegd aan de bestaande onderwerpen,reviewed,erpnext
+This bank account is already synchronized,Deze bankrekening is al gesynchroniseerd,reviewed,erpnext
+This bank transaction is already fully reconciled,Deze banktransactie is al volledig afgestemd,reviewed,erpnext
+This cannot be undone,Dit kan niet ongedaan gemaakt worden,reviewed,frappe
+This card will be available to all Users if this is set,Deze kaart is beschikbaar voor alle gebruikers als deze is ingesteld,reviewed,frappe
+This chart will be available to all Users if this is set,Deze grafiek is beschikbaar voor alle gebruikers als deze is ingesteld,reviewed,frappe
+This company will be used to create Sales Orders.,Dit bedrijf zal worden gebruikt om klantorders aan te maken.,reviewed,erpnext
+This course is already added to the existing programs,Deze cursus is al toegevoegd aan de bestaande programma&#39;s,reviewed,erpnext
+This covers all scorecards tied to this Setup,Dit omvat alle scorecards die aan deze Setup zijn gekoppeld,reviewed,erpnext
+This Currency is disabled. Enable to use in transactions,Deze valuta is uitgeschakeld. Schakel het in om deze valuta te kunnen gebruiken in transacties.,reviewed,frappe
+This document cannot be reverted,Dit document kan niet worden teruggezet,reviewed,frappe
+This document has been modified after the email was sent.,Dit document is gewijzigd nadat de e-mail is verzonden.,reviewed,frappe
+This document has been reverted,Dit document is teruggezet,reviewed,frappe
+"This document is already amended, you cannot ammend it again","Dit document is al gewijzigd, u kunt het niet opnieuw wijzigen",reviewed,frappe
+This document is currently queued for execution. Please try again,Dit document is momenteel in de wachtrij voor de uitvoering. Probeer het opnieuw,reviewed,frappe
+This document is over limit by {0} {1} for item {4}. Are you making another {3} against the same {2}?,Dit document is dan limiet van {0} {1} voor punt {4}. Bent u het maken van een andere {3} tegen dezelfde {2}?,reviewed,erpnext
+This email is autogenerated,Deze email is autogenerated,reviewed,frappe
+This email was sent to {0},Deze e-mail is verzonden naar {0},reviewed,frappe
+This email was sent to {0} and copied to {1},Deze e-mail is verzonden naar {0} en gekopieerd naar {1},reviewed,frappe
+This feature is brand new and still experimental,Deze functie is nieuw en nog steeds experimenteel,reviewed,frappe
+This field will appear only if the fieldname defined here has value OR the rules are true (examples):\nmyfield\neval:doc.myfield=='My Value'\neval:doc.age&gt;18,"Dit veld verschijnt alleen als de veldnaam hier gedefinieerde waarde heeft, of de regels waar zijn (voorbeelden): myfield Eval: doc.myfield == &#39;My Value&#39; eval: doc.age&gt; 18",reviewed,frappe
+This form does not have any input,Deze vorm heeft geen inbreng hebben,reviewed,frappe
+This form has been modified after you have loaded it,Dit formulier is gewijzigd nadat u het hebt geladen,reviewed,frappe
+This format is used if country specific format is not found,Dit formaat wordt gebruikt als landspecifiek formaat niet kan worden gevonden,reviewed,frappe
+This goes above the slideshow.,Dit staat boven de diavoorstelling.,reviewed,frappe
+This is a background report. Please set the appropriate filters and then generate a new one.,Dit is een achtergrondrapport. Stel de juiste filters in en genereer vervolgens een nieuwe.,reviewed,frappe
+This is a location where final product stored.,Dit is een locatie waar het eindproduct wordt opgeslagen.,reviewed,erpnext
+This is a location where operations are executed.,Dit is een locatie waar bewerkingen worden uitgevoerd.,reviewed,erpnext
+This is a location where raw materials are available.,Dit is een locatie waar grondstoffen beschikbaar zijn.,reviewed,erpnext
+This is a location where scraped materials are stored.,Dit is een locatie waar geschraapt materiaal wordt opgeslagen.,reviewed,erpnext
+This is a root account and cannot be edited.,Dit is een basisrekening en kan niet worden bewerkt.,reviewed,erpnext
+This is a root customer group and cannot be edited.,Dit is een basis klantgroep en kan niet worden bewerkt .,reviewed,erpnext
+This is a root department and cannot be edited.,Dit is een rootafdeling en kan niet worden bewerkt.,reviewed,erpnext
+This is a root healthcare service unit and cannot be edited.,Dit is een service-eenheid voor basisgezondheidszorg en kan niet worden bewerkt.,reviewed,erpnext
+This is a root item group and cannot be edited.,Dit is een basis artikelgroep en kan niet worden bewerkt .,reviewed,erpnext
+This is a root sales person and cannot be edited.,Dit is een basis verkoper en kan niet worden bewerkt .,reviewed,erpnext
+This is a root supplier group and cannot be edited.,Dit is een root-leveranciersgroep en kan niet worden bewerkt.,reviewed,erpnext
+This is a root territory and cannot be edited.,Dit is een basis regio en kan niet worden bewerkt .,reviewed,erpnext
+This is a top-10 common password.,Dit is een gemeenschappelijk wachtwoord top-10.,reviewed,frappe
+This is a top-100 common password.,Dit is een gemeenschappelijk wachtwoord top-100.,reviewed,frappe
+This is a very common password.,Dit is een veel voorkomende wachtwoord.,reviewed,frappe
+This is an automatically generated reply,Dit is een automatisch gegenereerd antwoord,reviewed,frappe
+This is an example Google SERP Preview.,Dit is een voorbeeld van een Google SERP Preview.,reviewed,frappe
+This is an example website auto-generated from ERPNext,"Dit is een voorbeeld website, automatisch gegenereerd door ERPNext",reviewed,erpnext
+This is based on logs against this Vehicle. See timeline below for details,Dit is gebaseerd op stammen tegen dit voertuig. Zie tijdlijn hieronder voor meer informatie,reviewed,erpnext
+This is based on stock movement. See {0} for details,Dit is gebaseerd op voorraad beweging. Zie {0} voor meer informatie,reviewed,erpnext
+This is based on the attendance of this Student,Dit is gebaseerd op de aanwezigheid van de Student,reviewed,erpnext
+This is based on the course schedules of this Instructor,Dit is gebaseerd op de cursusroosters van deze instructeur,reviewed,erpnext
+This is based on the Time Sheets created against this project,Dit is gebaseerd op de Time Sheets gemaakt tegen dit project,reviewed,erpnext
+This is based on transactions against this Customer. See timeline below for details,Dit is gebaseerd op transacties tegen deze klant. Zie tijdlijn hieronder voor meer informatie,reviewed,erpnext
+This is based on transactions against this Healthcare Practitioner.,Dit is gebaseerd op transacties met deze zorgverlener.,reviewed,erpnext
+This is based on transactions against this Patient. See timeline below for details,Dit is gebaseerd op transacties tegen deze patiënt. Zie de tijdlijn hieronder voor details,reviewed,erpnext
+This is based on transactions against this Sales Person. See timeline below for details,Dit is gebaseerd op transacties met deze verkoopmedewerker. Zie de tijdlijn hieronder voor details,reviewed,erpnext
+This is based on transactions against this Supplier. See timeline below for details,Dit is gebaseerd op transacties tegen deze leverancier. Zie tijdlijn hieronder voor meer informatie,reviewed,erpnext
+This is done to handle accounting for cases when Purchase Receipt is created after Purchase Invoice,Dit wordt gedaan om de boekhouding af te handelen voor gevallen waarin inkoopontvangst wordt aangemaakt na inkoopfactuur,reviewed,erpnext
+This is similar to a commonly used password.,Dit is vergelijkbaar met een algemeen gebruikte wachtwoord.,reviewed,frappe
+This is the default offset (days) for the Delivery Date in Sales Orders. The fallback offset is 7 days from the order placement date.,Dit is de standaard offset (dagen) voor de leverdatum in verkooporders. De reserve-terugval is 7 dagen vanaf de plaatsingsdatum van de bestelling.,reviewed,erpnext
+"This is the default UOM used for items and Sales orders. The fallback UOM is ""Nos"".",Dit is de standaard UOM die wordt gebruikt voor artikelen en verkooporders. De reserve UOM is &quot;Nos&quot;.,reviewed,erpnext
+This is the number of the last created transaction with this prefix,Dit is het nummer van de laatst gemaakte transactie met dit voorvoegsel,reviewed,frappe
+This is the template file generated with only the rows having some error. You should use this file for correction and import.,Dit is het sjabloonbestand dat is gegenereerd met alleen de rijen die een fout bevatten. U zou dit bestand moeten gebruiken voor correctie en import.,reviewed,frappe
+This Item is a Template and cannot be used in transactions. Item attributes will be copied over into the variants unless 'No Copy' is set,Dit artikel is een sjabloon en kunnen niet worden gebruikt bij transacties. Item attributen zal worden gekopieerd naar de varianten tenzij 'No Copy' is ingesteld,reviewed,erpnext
+This Item is a Variant of {0} (Template).,Dit artikel is een variant van {0} (Sjabloon).,reviewed,erpnext
+This Kanban Board will be private,Dit Kanban Board is privé,reviewed,frappe
+This link has already been activated for verification.,Deze link is al geactiveerd voor verificatie.,reviewed,frappe
+This link is invalid or expired. Please make sure you have pasted correctly.,Deze koppeling is ongeldig of verlopen. Zorg ervoor dat u correct hebt geplakt.,reviewed,frappe
+This may get printed on multiple pages,Dit kan op meerdere pagina&#39;s worden afgedrukt,reviewed,frappe
+This Month,Deze maand,reviewed,frappe
+This month,Deze maand,reviewed,frappe
+This Month's Summary,Samenvatting van deze maand,reviewed,erpnext
+This page keeps track of items you want to buy from sellers.,Deze pagina houdt bij welke artikelen u van verkopers wilt kopen.,reviewed,erpnext
+This page keeps track of your items in which buyers have showed some interest.,Deze pagina houdt uw items bij waarin kopers enige interesse hebben getoond.,reviewed,erpnext
+This Quarter,Dit kwartier,reviewed,frappe
+This query style is discontinued,Deze zoekopdrachtstijl is beëindigd,reviewed,frappe
+This quiz is already added to the existing topics,Deze quiz is al toegevoegd aan de bestaande onderwerpen,reviewed,erpnext
+This report was generated on {0},Dit rapport is gegenereerd op {0},reviewed,frappe
+This report was generated {0}.,Dit rapport is gegenereerd {0}.,reviewed,frappe
 This request has not yet been approved by the user.,Dit verzoek is nog niet goedgekeurd door de gebruiker.,unreviewed,frappe
 This role is allowed to submit transactions that exceed credit limits,Deze rol mag transacties indienen die de kredietlimieten overschrijden,unreviewed,erpnext
 This role update User Permissions for a user,Deze rol werkt Gebruikersmachtigingen voor een gebruiker bij,unreviewed,frappe

@@ -7733,214 +7733,214 @@ Print Receipt,Printbon,reviewed,erpnext
 Print Report Card,Rapportkaart afdrukken,reviewed,erpnext
 Print Section,Print sectie,reviewed,erpnext
 Print Sent to the printer!,Afdrukken Verzonden naar de printer!,reviewed,frappe
-Print Server,Printserver,unreviewed,frappe
-Print Settings,Afdrukinstellingen,unreviewed,both
-Print settings updated in respective print format,Print instellingen bijgewerkt in de respectievelijke gedrukte vorm,unreviewed,erpnext
-Print Settings...,Afdrukinstellingen ...,unreviewed,frappe
-Print Style,Print Stijl,unreviewed,frappe
-Print Style Name,Naam afdrukstijl,unreviewed,frappe
-Print Style Preview,Print Stijl Voorbeeld,unreviewed,frappe
-Print taxes with zero amount,Afdrukbelasting met nulbedrag,unreviewed,both
-Print UOM after Quantity,Druk maateenheid af na aantal,unreviewed,both
-Print Width,Afdrukbreedte,unreviewed,frappe
-"Print Width of the field, if the field is a column in a table","Drukbreedte van het veld, als het veld een kolom in een tabel",unreviewed,frappe
-Print with letterhead,Afdrukken met briefhoofd,unreviewed,frappe
-Print Without Amount,Printen zonder Bedrag,unreviewed,erpnext
-Printed On,Afgedrukt op,unreviewed,erpnext
-Printed on,Afgedrukt op,unreviewed,erpnext
-Printer Mapping,Printertoewijzing,unreviewed,frappe
-Printer Name,Printernaam,unreviewed,frappe
-Printer Settings,Printer instellingen,unreviewed,frappe
-Printing,Afdrukken,unreviewed,frappe
-Printing and Branding,Printen en Branding,unreviewed,erpnext
-Printing Details,Afdrukken Details,unreviewed,erpnext
-Printing failed,Afdrukken mislukt,unreviewed,frappe
-Printing Setting,Afdrukinstelling,unreviewed,erpnext
-Printing Settings,Instellingen afdrukken,unreviewed,erpnext
-Priorities,prioriteiten,unreviewed,erpnext
-Priority,Prioriteit,unreviewed,both
-Priority has been changed to {0}.,Prioriteit is gewijzigd in {0}.,unreviewed,erpnext
-Priority {0} has been repeated.,Prioriteit {0} is herhaald.,unreviewed,erpnext
-Private,Prive-,unreviewed,frappe
-Private and public Notes.,Private en publieke Notes.,unreviewed,frappe
-Private Key,Prive sleutel,unreviewed,frappe
-Probability (%),Waarschijnlijkheid (%),unreviewed,erpnext
-Problem,Probleem,unreviewed,erpnext
-Procedure Created,Procedure gemaakt,unreviewed,erpnext
-Procedure Name,Procedure Naam,unreviewed,erpnext
-Procedure Prescription,Procedure Voorschrift,unreviewed,erpnext
-Procedure Template,Procedure sjabloon,unreviewed,erpnext
-Procedure(s) Prescribed.,Procedure (s) voorgeschreven.,unreviewed,erpnext
-Proceed Anyway,Ga toch door,unreviewed,frappe
-Process Day Book Data,Dagboekgegevens verwerken,unreviewed,erpnext
+Print Server,Printserver,reviewed,frappe
+Print Settings,Afdrukinstellingen,reviewed,both
+Print settings updated in respective print format,Print instellingen bijgewerkt in de respectievelijke gedrukte vorm,reviewed,erpnext
+Print Settings...,Afdrukinstellingen ...,reviewed,frappe
+Print Style,Afdrukstijl,reviewed,frappe
+Print Style Name,Naam afdrukstijl,reviewed,frappe
+Print Style Preview,Voorbeeld afdrukstijl,reviewed,frappe
+Print taxes with zero amount,Afdrukbelasting met nulbedrag,reviewed,both
+Print UOM after Quantity,Druk maateenheid af na aantal,reviewed,both
+Print Width,Afdrukbreedte,reviewed,frappe
+"Print Width of the field, if the field is a column in a table","Drukbreedte van het veld, als het veld een kolom in een tabel",reviewed,frappe
+Print with letterhead,Afdrukken met briefhoofd,reviewed,frappe
+Print Without Amount,Printen zonder Bedrag,reviewed,erpnext
+Printed On,Afgedrukt op,reviewed,erpnext
+Printed on,Afgedrukt op,reviewed,erpnext
+Printer Mapping,Printertoewijzing,reviewed,frappe
+Printer Name,Printernaam,reviewed,frappe
+Printer Settings,Printerinstellingen,reviewed,frappe
+Printing,Afdrukken,reviewed,frappe
+Printing and Branding,Printen en Branding,reviewed,erpnext
+Printing Details,Afdrukgegevens,reviewed,erpnext
+Printing failed,Afdrukken mislukt,reviewed,frappe
+Printing Setting,Afdrukinstelling,reviewed,erpnext
+Printing Settings,Instellingen afdrukken,reviewed,erpnext
+Priorities,prioriteiten,reviewed,erpnext
+Priority,Prioriteit,reviewed,both
+Priority has been changed to {0}.,Prioriteit is gewijzigd in {0}.,reviewed,erpnext
+Priority {0} has been repeated.,Prioriteit {0} is herhaald.,reviewed,erpnext
+Private,Prive,reviewed,frappe
+Private and public Notes.,Private en publieke Notes.,reviewed,frappe
+Private Key,Prive sleutel,reviewed,frappe
+Probability (%),Waarschijnlijkheid (%),reviewed,erpnext
+Problem,Probleem,reviewed,erpnext
+Procedure Created,Procedure gemaakt,reviewed,erpnext
+Procedure Name,Procedurenaam,reviewed,erpnext
+Procedure Prescription,Procedure Voorschrift,reviewed,erpnext
+Procedure Template,Procedure sjabloon,reviewed,erpnext
+Procedure(s) Prescribed.,Procedure (s) voorgeschreven.,reviewed,erpnext
+Proceed Anyway,Ga toch door,reviewed,frappe
+Process Day Book Data,Dagboekgegevens verwerken,reviewed,erpnext
 Process Deferred Accounting,Uitgestelde boekhouding verwerken,reviewed,erpnext
-Process Description,Procesbeschrijving,unreviewed,erpnext
-Process Failed,Proces mislukt,unreviewed,erpnext
-Process Master Data,Stamgegevens verwerken,unreviewed,erpnext
-Process Owner,Proces eigenaar,unreviewed,erpnext
-Process Owner Full Name,Volledige naam proceseigenaar,unreviewed,erpnext
+Process Description,Procesbeschrijving,reviewed,erpnext
+Process Failed,Proces mislukt,reviewed,erpnext
+Process Master Data,Stamgegevens verwerken,reviewed,erpnext
+Process Owner,Proceseigenaar,reviewed,erpnext
+Process Owner Full Name,Volledige naam proceseigenaar,reviewed,erpnext
 Process Payment Reconciliation,Betalingsafstemming verwerken,reviewed,custom
 Process Payment Reconciliation Log,Betalingsafstemming log,reviewed,custom
 Process Period Closing Voucher,Periodeafsluiting verwerken,reviewed,custom
 Process Statement Of Accounts,Rekeningoverzicht verwerken,reviewed,erpnext
-Process Statement Of Accounts Customer,Procesoverzicht van de klant,unreviewed,erpnext
+Process Statement Of Accounts Customer,Procesoverzicht van de klant,reviewed,erpnext
 Process Subscription,Abonnement verwerken,reviewed,custom
-Process Transfer,Overdracht verwerken,unreviewed,erpnext
-Processed Files,Verwerkte bestanden,unreviewed,erpnext
-Processes,Processen,unreviewed,erpnext
+Process Transfer,Overdracht verwerken,reviewed,erpnext
+Processed Files,Verwerkte bestanden,reviewed,erpnext
+Processes,Processen,reviewed,erpnext
 Processing,Verwerken,reviewed,frappe
-Processing Chart of Accounts and Parties,Verwerkingstabel van rekeningen en partijen,unreviewed,erpnext
-Processing Inpatient Discharge,Verwerking van intramurale ontslag,unreviewed,erpnext
-Processing Items and UOMs,Items en UOM&#39;s verwerken,unreviewed,erpnext
-Processing Party Addresses,Verwerking partijadressen,unreviewed,erpnext
-Processing Patient Admission,Verwerking van de opname van patiënten,unreviewed,erpnext
-Processing Vouchers,Vouchers verwerken,unreviewed,erpnext
-Processing XML Files,XML-bestanden verwerken,unreviewed,erpnext
-Processing...,Verwerken...,unreviewed,frappe
-Procurement,Inkoop,unreviewed,erpnext
-Produce,Produceren,unreviewed,erpnext
-Produce Qty,Produceer aantal,unreviewed,erpnext
-Produced,Geproduceerd,unreviewed,erpnext
-Produced Items,Geproduceerde items,unreviewed,erpnext
+Processing Chart of Accounts and Parties,Rekeningschema en relaties verwerken,reviewed,erpnext
+Processing Inpatient Discharge,Verwerking van intramurale ontslag,reviewed,erpnext
+Processing Items and UOMs,Items en UOM&#39;s verwerken,reviewed,erpnext
+Processing Party Addresses,Verwerking partijadressen,reviewed,erpnext
+Processing Patient Admission,Verwerking van de opname van patiënten,reviewed,erpnext
+Processing Vouchers,Vouchers verwerken,reviewed,erpnext
+Processing XML Files,XML-bestanden verwerken,reviewed,erpnext
+Processing...,Verwerken...,reviewed,frappe
+Procurement,Inkoop,reviewed,erpnext
+Produce,Produceren,reviewed,erpnext
+Produce Qty,Productiehoeveelheid,reviewed,erpnext
+Produced,Geproduceerd,reviewed,erpnext
+Produced Items,Geproduceerde items,reviewed,erpnext
 Produced Qty,Geproduceerde hoeveelheid,reviewed,erpnext
-Produced Quantity,Geproduceerd Aantal,unreviewed,erpnext
-Producer Document Name,Producent Documentnaam,unreviewed,frappe
-Producer URL,Producer-URL,unreviewed,frappe
-Product,Artikel,unreviewed,erpnext
+Produced Quantity,Geproduceerde hoeveelheid,reviewed,erpnext
+Producer Document Name,Producent Documentnaam,reviewed,frappe
+Producer URL,Producer-URL,reviewed,frappe
+Product,Artikel,reviewed,erpnext
 Product Bundle,Productbundel,reviewed,custom
-Product Bundle Balance,Productbundelsaldo,unreviewed,erpnext
-Product Bundle Help,Product Bundel Help,unreviewed,erpnext
-Product Discount Scheme,Kortingsregeling voor producten,unreviewed,erpnext
-Product Discount Slabs,Productkortingsplaten,unreviewed,erpnext
-Product Enquiry,Product Aanvraag,unreviewed,erpnext
-Product Page,Productpagina,unreviewed,erpnext
-Product Search,product zoeken,unreviewed,erpnext
-Production,Productie,unreviewed,erpnext
-production,productie,unreviewed,erpnext
-Production Capacity,Productiecapaciteit,unreviewed,erpnext
-Production Item,Productie Item,unreviewed,erpnext
-Production Plan,Productieplan,unreviewed,erpnext
-Production Plan Item,Productie Plan Artikel,unreviewed,erpnext
-Production Plan Material Request,Productie Plan Materiaal aanvragen,unreviewed,erpnext
-Production Plan Material Request Warehouse,Productieplan Materiaalaanvraag Magazijn,unreviewed,erpnext
-Production Plan Sales Order,Productie Plan Verkooporder,unreviewed,erpnext
-Production Planning Report,Productieplanningsrapport,unreviewed,erpnext
-Products,producten,unreviewed,erpnext
-Products per Page,Producten per pagina,unreviewed,erpnext
-Products Settings,producten Instellingen,unreviewed,erpnext
-Products to be shown on website homepage,Producten die worden getoond op de website homepage,unreviewed,erpnext
-Prof,prof,unreviewed,frappe
-Profit & Loss,Verlies,unreviewed,erpnext
-Profit and Loss,Winst en verlies,unreviewed,erpnext
-Profit and Loss Statement,Winst-en verliesrekening,unreviewed,erpnext
-Profit for the year,Jaarwinst,unreviewed,erpnext
-Profit This Year,Winst dit jaar,unreviewed,erpnext
-Profitability,Winstgevendheid,unreviewed,erpnext
-Profitability Analysis,winstgevendheid Analyse,unreviewed,erpnext
-Program,Programma,unreviewed,erpnext
-Program Abbreviation,programma Afkorting,unreviewed,erpnext
-Program and Course,Programma en cursus,unreviewed,erpnext
-Program Course,programma Course,unreviewed,erpnext
-Program Enrollment,programma Inschrijving,unreviewed,erpnext
-Program Enrollment Course,Programma Inschrijvingscursus,unreviewed,erpnext
-Program Enrollment Fee,Programma inschrijvingsgeld,unreviewed,erpnext
-Program Enrollment Tool,Programma Inschrijving Tool,unreviewed,erpnext
-Program Enrollment Tool Student,Programma Inschrijving Tool Student,unreviewed,erpnext
-Program Fee,programma Fee,unreviewed,erpnext
-Program in the Fee Structure and Student Group {0} are different.,Het programma in de kostenstructuur en studentengroep {0} verschilt.,unreviewed,erpnext
-Program Name,Programma naam,unreviewed,erpnext
-Program wise Fee Collection,Programma verstandig vergoedingen,unreviewed,erpnext
-Program {0} does not exist.,Programma {0} bestaat niet.,unreviewed,erpnext
-Program:,Programma:,unreviewed,erpnext
-Programs,Programma&#39;s,unreviewed,erpnext
-Programs updated,Programma&#39;s bijgewerkt,unreviewed,erpnext
-Progress,Vooruitgang,unreviewed,frappe
-Progress % for a task cannot be more than 100.,Voortgang% voor een taak kan niet meer dan 100 zijn.,unreviewed,erpnext
-Project activity / task.,Project activiteit / taak.,unreviewed,erpnext
-Project Billing Summary,Projectfactuuroverzicht,unreviewed,erpnext
-Project Collaboration Invitation,Project Uitnodiging Collaboration,unreviewed,erpnext
-Project master.,Project stam.,unreviewed,erpnext
-Project Name,Naam van het project,unreviewed,erpnext
-Project Start Date,Project Start Datum,unreviewed,erpnext
-Project Status,Project status,unreviewed,erpnext
-Project Summary,Project samenvatting,unreviewed,erpnext
-Project Summary for {0},Projectsamenvatting voor {0},unreviewed,erpnext
+Product Bundle Balance,Productbundelsaldo,reviewed,erpnext
+Product Bundle Help,Productbundelhulp,reviewed,erpnext
+Product Discount Scheme,Kortingsregeling voor producten,reviewed,erpnext
+Product Discount Slabs,Productkortingsschalen,reviewed,erpnext
+Product Enquiry,Product Aanvraag,reviewed,erpnext
+Product Page,Productpagina,reviewed,erpnext
+Product Search,product zoeken,reviewed,erpnext
+Production,Productie,reviewed,erpnext
+production,productie,reviewed,erpnext
+Production Capacity,Productiecapaciteit,reviewed,erpnext
+Production Item,Productie Item,reviewed,erpnext
+Production Plan,Productieplan,reviewed,erpnext
+Production Plan Item,Productie Plan Artikel,reviewed,erpnext
+Production Plan Material Request,Productie Plan Materiaal aanvragen,reviewed,erpnext
+Production Plan Material Request Warehouse,Productieplan Materiaalaanvraag Magazijn,reviewed,erpnext
+Production Plan Sales Order,Productie Plan Verkooporder,reviewed,erpnext
+Production Planning Report,Productieplanningsrapport,reviewed,erpnext
+Products,producten,reviewed,erpnext
+Products per Page,Producten per pagina,reviewed,erpnext
+Products Settings,Productinstellingen,reviewed,erpnext
+Products to be shown on website homepage,Producten die worden getoond op de website homepage,reviewed,erpnext
+Prof,prof,reviewed,frappe
+Profit & Loss,Winst en verlies,reviewed,erpnext
+Profit and Loss,Winst en verlies,reviewed,erpnext
+Profit and Loss Statement,Winst-en verliesrekening,reviewed,erpnext
+Profit for the year,Jaarwinst,reviewed,erpnext
+Profit This Year,Winst dit jaar,reviewed,erpnext
+Profitability,Winstgevendheid,reviewed,erpnext
+Profitability Analysis,winstgevendheid Analyse,reviewed,erpnext
+Program,Programma,reviewed,erpnext
+Program Abbreviation,programma Afkorting,reviewed,erpnext
+Program and Course,Programma en cursus,reviewed,erpnext
+Program Course,programma Course,reviewed,erpnext
+Program Enrollment,programma Inschrijving,reviewed,erpnext
+Program Enrollment Course,Programma Inschrijvingscursus,reviewed,erpnext
+Program Enrollment Fee,Programma inschrijvingsgeld,reviewed,erpnext
+Program Enrollment Tool,Programma Inschrijving Tool,reviewed,erpnext
+Program Enrollment Tool Student,Programma Inschrijving Tool Student,reviewed,erpnext
+Program Fee,programma Fee,reviewed,erpnext
+Program in the Fee Structure and Student Group {0} are different.,Het programma in de kostenstructuur en studentengroep {0} verschilt.,reviewed,erpnext
+Program Name,Programma naam,reviewed,erpnext
+Program wise Fee Collection,Programma verstandig vergoedingen,reviewed,erpnext
+Program {0} does not exist.,Programma {0} bestaat niet.,reviewed,erpnext
+Program:,Programma:,reviewed,erpnext
+Programs,Programma&#39;s,reviewed,erpnext
+Programs updated,Programma&#39;s bijgewerkt,reviewed,erpnext
+Progress,Vooruitgang,reviewed,frappe
+Progress % for a task cannot be more than 100.,Voortgang% voor een taak kan niet meer dan 100 zijn.,reviewed,erpnext
+Project activity / task.,Project activiteit / taak.,reviewed,erpnext
+Project Billing Summary,Projectfactuuroverzicht,reviewed,erpnext
+Project Collaboration Invitation,Project Uitnodiging Collaboration,reviewed,erpnext
+Project master.,Project stam.,reviewed,erpnext
+Project Name,Naam van het project,reviewed,erpnext
+Project Start Date,Project Start Datum,reviewed,erpnext
+Project Status,Project status,reviewed,erpnext
+Project Summary,Project samenvatting,reviewed,erpnext
+Project Summary for {0},Projectsamenvatting voor {0},reviewed,erpnext
 Project Template,Projectsjabloon,reviewed,erpnext
 Project Type,Projecttype,reviewed,custom
 Project Update,Projectupdate,reviewed,erpnext
-Project Update.,Project update.,unreviewed,erpnext
-Project User,project Gebruiker,unreviewed,erpnext
-Project Value,Project Waarde,unreviewed,erpnext
-Project will be accessible on the website to these users,Project zal toegankelijk op de website van deze gebruikers,unreviewed,erpnext
-Project wise Stock Tracking,Projectgebaseerde Aandelenhandel,unreviewed,erpnext
-Project-wise data is not available for Quotation,Projectgegevens zijn niet beschikbaar voor Offertes,unreviewed,erpnext
-Projected,verwachte,unreviewed,erpnext
+Project Update.,Project update.,reviewed,erpnext
+Project User,project Gebruiker,reviewed,erpnext
+Project Value,Project Waarde,reviewed,erpnext
+Project will be accessible on the website to these users,Project zal toegankelijk op de website van deze gebruikers,reviewed,erpnext
+Project wise Stock Tracking,Projectgebaseerde Aandelenhandel,reviewed,erpnext
+Project-wise data is not available for Quotation,Projectgegevens zijn niet beschikbaar voor Offertes,reviewed,erpnext
+Projected,verwachte,reviewed,erpnext
 Projected Qty,Verwachte hoeveelheid,reviewed,erpnext
-Projected qty,Geprojecteerde aantal,unreviewed,erpnext
-Projected Quantity,Geprojecteerde hoeveelheid,unreviewed,erpnext
-Projected Quantity as Source,Geprojecteerd Hoeveelheid als Bron,unreviewed,erpnext
-Projected Quantity Formula,Voorgestelde hoeveelheidformule,unreviewed,erpnext
-Projects,projecten,unreviewed,erpnext
-Projects Manager,Projecten Manager,unreviewed,erpnext
-Projects Settings,Projectinstellingen,unreviewed,erpnext
-Projects User,Projecten Gebruiker,unreviewed,erpnext
-Promotional,promotionele,unreviewed,erpnext
+Projected qty,Geprojecteerde aantal,reviewed,erpnext
+Projected Quantity,Geprojecteerde hoeveelheid,reviewed,erpnext
+Projected Quantity as Source,Geprojecteerd Hoeveelheid als Bron,reviewed,erpnext
+Projected Quantity Formula,Voorgestelde hoeveelheidformule,reviewed,erpnext
+Projects,projecten,reviewed,erpnext
+Projects Manager,Projecten Manager,reviewed,erpnext
+Projects Settings,Projectinstellingen,reviewed,erpnext
+Projects User,Projecten Gebruiker,reviewed,erpnext
+Promotional,promotionele,reviewed,erpnext
 Promotional Scheme,Promotieregeling,reviewed,erpnext
-Promotional Scheme Id,Promotieplan Id,unreviewed,erpnext
-Promotional Scheme Price Discount,Promotieschema Prijskorting,unreviewed,erpnext
-Promotional Scheme Product Discount,Promotieschema Productkorting,unreviewed,erpnext
-Property,Eigendom,unreviewed,frappe
-Property Depends On,Eigendom hangt af van,unreviewed,frappe
-Property Setter,Eigenschappen Insteller,unreviewed,frappe
-Property Setter overrides a standard DocType or Field property,Eigenschap Setter overschrijft een standaard DocType of Field woning,unreviewed,frappe
-Property Type,Eigendom Type,unreviewed,frappe
-Proposal Writing,Voorstel schrijven,unreviewed,erpnext
-Proposal/Price Quote,Offerte / prijsofferte,unreviewed,erpnext
-Prorate,pro-rata,unreviewed,erpnext
-Prospecting,prospectie,unreviewed,erpnext
-Prospects Engaged But Not Converted,Vooruitzichten betrokken maar niet omgezet,unreviewed,erpnext
-ProTip: Add <code>Reference: {{ reference_doctype }} {{ reference_name }}</code> to send document reference,Protip: Toevoegen <code>Reference: {{ reference_doctype }} {{ reference_name }}</code> te sturen documentverwijzing,unreviewed,frappe
-Provide Email Address registered in company,Zorg voor e-mailadres in bedrijf geregistreerd,unreviewed,erpnext
-Provide the academic year and set the starting and ending date.,Geef het academische jaar op en stel de begin- en einddatum in.,unreviewed,erpnext
-Provide the invoice portion in percent,Geef het factuurgedeelte op in procenten,unreviewed,erpnext
-Provident Fund Account,Provident Fund-account,unreviewed,erpnext
-Provider,leverancier,unreviewed,both
-Provider Name,Provider naam,unreviewed,frappe
-Providing,Het verstrekken van,unreviewed,erpnext
-Provisional Profit / Loss (Credit),Voorlopige winst / verlies (Credit),unreviewed,erpnext
-PSOA Cost Center,PSOA-kostenplaats,unreviewed,erpnext
-PSOA Project,PSOA-project,unreviewed,erpnext
-Public,Publiek,unreviewed,frappe
-Public Key,Publieke sleutel,unreviewed,frappe
-Public token is missing for this bank,Openbaar token ontbreekt voor deze bank,unreviewed,erpnext
-Public Transport,Openbaar vervoer,unreviewed,frappe
-Publications,publicaties,unreviewed,erpnext
-Publish,Publiceren,unreviewed,frappe
-"Publish ""In Stock"" or ""Not in Stock"" on Hub based on stock available in this warehouse.",Publiceer &#39;In voorraad&#39; of &#39;Niet op voorraad&#39; op Hub op basis van de voorraad die beschikbaar is in dit magazijn.,unreviewed,erpnext
-Publish 1 Item,Publiceer 1 item,unreviewed,erpnext
-Publish Date,Publiceer datum,unreviewed,erpnext
-Publish in Hub,Publiceren in Hub,unreviewed,erpnext
-Publish Item to hub.erpnext.com,Publiceer Item om hub.erpnext.com,unreviewed,erpnext
-Publish Items,Items publiceren,unreviewed,erpnext
-Publish Items on Website,Artikelen publiceren op de website,unreviewed,erpnext
-Publish More Items,Meer items publiceren,unreviewed,erpnext
-Publish Your First Items,Publiceer uw eerste items,unreviewed,erpnext
-Publish {0} Items,Publiceer {0} items,unreviewed,erpnext
-Publishable Key,Publiceerbare sleutel,unreviewed,frappe
-Published,Gepubliceerd,unreviewed,both
-Published Date,datum van het uitbrengen,unreviewed,erpnext
-Published Items,Gepubliceerde items,unreviewed,erpnext
-Published On,Gepubliceerd op,unreviewed,frappe
-Published on,gepubliceerd op,unreviewed,frappe
-Pull,Trekken,unreviewed,frappe
-Pull Failed,Trek mislukt,unreviewed,frappe
-Pull from Google Calendar,Uit Google Agenda halen,unreviewed,frappe
-Pull from Google Contacts,Uit Google Contacten halen,unreviewed,frappe
-Pull Update,Trek aan update,unreviewed,frappe
-Pulled from Google Calendar,Getrokken uit Google Agenda,unreviewed,frappe
-Pulled from Google Contacts,Getrokken uit Google Contacten,unreviewed,frappe
-Pulse:,Puls:,unreviewed,erpnext
-Purchase,Inkopen,unreviewed,erpnext
+Promotional Scheme Id,Promotieplan Id,reviewed,erpnext
+Promotional Scheme Price Discount,Promotieschema Prijskorting,reviewed,erpnext
+Promotional Scheme Product Discount,Promotieschema Productkorting,reviewed,erpnext
+Property,Eigendom,reviewed,frappe
+Property Depends On,Eigendom hangt af van,reviewed,frappe
+Property Setter,Eigenschappen Insteller,reviewed,frappe
+Property Setter overrides a standard DocType or Field property,Eigenschap Setter overschrijft een standaard DocType of Field woning,reviewed,frappe
+Property Type,Eigendom Type,reviewed,frappe
+Proposal Writing,Voorstel schrijven,reviewed,erpnext
+Proposal/Price Quote,Offerte / prijsofferte,reviewed,erpnext
+Prorate,pro-rata,reviewed,erpnext
+Prospecting,prospectie,reviewed,erpnext
+Prospects Engaged But Not Converted,Vooruitzichten betrokken maar niet omgezet,reviewed,erpnext
+ProTip: Add <code>Reference: {{ reference_doctype }} {{ reference_name }}</code> to send document reference,Protip: Toevoegen <code>Reference: {{ reference_doctype }} {{ reference_name }}</code> te sturen documentverwijzing,reviewed,frappe
+Provide Email Address registered in company,Zorg voor e-mailadres in bedrijf geregistreerd,reviewed,erpnext
+Provide the academic year and set the starting and ending date.,Geef het academische jaar op en stel de begin- en einddatum in.,reviewed,erpnext
+Provide the invoice portion in percent,Geef het factuurgedeelte op in procenten,reviewed,erpnext
+Provident Fund Account,Provident Fund-account,reviewed,erpnext
+Provider,leverancier,reviewed,both
+Provider Name,Provider naam,reviewed,frappe
+Providing,Het verstrekken van,reviewed,erpnext
+Provisional Profit / Loss (Credit),Voorlopige winst / verlies (Credit),reviewed,erpnext
+PSOA Cost Center,PSOA-kostenplaats,reviewed,erpnext
+PSOA Project,PSOA-project,reviewed,erpnext
+Public,Publiek,reviewed,frappe
+Public Key,Publieke sleutel,reviewed,frappe
+Public token is missing for this bank,Openbaar token ontbreekt voor deze bank,reviewed,erpnext
+Public Transport,Openbaar vervoer,reviewed,frappe
+Publications,publicaties,reviewed,erpnext
+Publish,Publiceren,reviewed,frappe
+"Publish ""In Stock"" or ""Not in Stock"" on Hub based on stock available in this warehouse.",Publiceer &#39;In voorraad&#39; of &#39;Niet op voorraad&#39; op Hub op basis van de voorraad die beschikbaar is in dit magazijn.,reviewed,erpnext
+Publish 1 Item,Publiceer 1 item,reviewed,erpnext
+Publish Date,Publiceer datum,reviewed,erpnext
+Publish in Hub,Publiceren in Hub,reviewed,erpnext
+Publish Item to hub.erpnext.com,Publiceer Item om hub.erpnext.com,reviewed,erpnext
+Publish Items,Items publiceren,reviewed,erpnext
+Publish Items on Website,Artikelen publiceren op de website,reviewed,erpnext
+Publish More Items,Meer items publiceren,reviewed,erpnext
+Publish Your First Items,Publiceer uw eerste items,reviewed,erpnext
+Publish {0} Items,Publiceer {0} items,reviewed,erpnext
+Publishable Key,Publiceerbare sleutel,reviewed,frappe
+Published,Gepubliceerd,reviewed,both
+Published Date,datum van het uitbrengen,reviewed,erpnext
+Published Items,Gepubliceerde items,reviewed,erpnext
+Published On,Gepubliceerd op,reviewed,frappe
+Published on,gepubliceerd op,reviewed,frappe
+Pull,Trekken,reviewed,frappe
+Pull Failed,Trek mislukt,reviewed,frappe
+Pull from Google Calendar,Uit Google Agenda halen,reviewed,frappe
+Pull from Google Contacts,Uit Google Contacten halen,reviewed,frappe
+Pull Update,Trek aan update,reviewed,frappe
+Pulled from Google Calendar,Getrokken uit Google Agenda,reviewed,frappe
+Pulled from Google Contacts,Getrokken uit Google Contacten,reviewed,frappe
+Pulse:,Puls:,reviewed,erpnext
+Purchase,Inkopen,reviewed,erpnext
 Purchase / Manufacture Details,Inkoop / Productie Details,unreviewed,erpnext
 Purchase Amount,Aankoopbedrag,unreviewed,erpnext
 Purchase Analytics,Inkoop Analyse,unreviewed,erpnext

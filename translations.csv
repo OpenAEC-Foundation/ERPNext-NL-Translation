@@ -15863,304 +15863,309 @@ Members of this team will see the tickets assigned to this team only,Leden van d
 Merge Ticket,Ticket samenvoegen,reviewed,helpdesk
 Merged With,Samengevoegd met,reviewed,helpdesk
 Misc,Overig,reviewed,helpdesk
-My Dashboard,,unreviewed,helpdesk
-My Settings,Mijn instellingen,unreviewed,helpdesk
-My Team,,unreviewed,helpdesk
-My Tickets,,unreviewed,helpdesk
-Name Weight,,unreviewed,helpdesk
-"Name shown on the customer portal<br> (e.g., Replied → Awaiting Response).",,unreviewed,helpdesk
-Navigation,,unreviewed,helpdesk
-Negative first,,unreviewed,helpdesk
-New Article,,unreviewed,helpdesk
-New Business Holiday,,unreviewed,helpdesk
-New Call Log,Nieuwe oproeplog,unreviewed,helpdesk
-New Field Dependency,,unreviewed,helpdesk
-New Holiday List Name,,unreviewed,helpdesk
-New Saved Reply,,unreviewed,helpdesk
-New Saved reply Name,,unreviewed,helpdesk
-New Subject,,unreviewed,helpdesk
-New Team,Nieuw Team,unreviewed,helpdesk
-New Ticket,,unreviewed,helpdesk
-New and old title cannot be same,,unreviewed,helpdesk
-New team,,unreviewed,helpdesk
-New title is required,,unreviewed,helpdesk
-New users will have to be manually registered by system managers.,Nieuwe gebruikers moeten handmatig worden geregistreerd door systeembeheerders.,unreviewed,helpdesk
-Next ticket,,unreviewed,helpdesk
-No Data Found,,unreviewed,helpdesk
-No Holiday list found,,unreviewed,helpdesk
-No SLA found,,unreviewed,helpdesk
-No Team,,unreviewed,helpdesk
-No additional comments,,unreviewed,helpdesk
-No agent found,,unreviewed,helpdesk
-No articles found for the applied filters. Try adjusting or clearing your filters.,,unreviewed,helpdesk
-No articles found in the following category.,,unreviewed,helpdesk
-No assignees,,unreviewed,helpdesk
-No assignment rule found,,unreviewed,helpdesk
-No average metrics,,unreviewed,helpdesk
-No categories available,,unreviewed,helpdesk
-No changes to save,,unreviewed,helpdesk
-No charts added,,unreviewed,helpdesk
-No contacts found for the applied filters. Try adjusting or clearing your filters.,,unreviewed,helpdesk
-No customers found for the applied filters. Try adjusting or clearing your filters.,,unreviewed,helpdesk
-No email account found,,unreviewed,helpdesk
-No feedback,,unreviewed,helpdesk
-No field dependency found,,unreviewed,helpdesk
-No members found,Geen leden gevonden,unreviewed,helpdesk
-No new notifications,Geen nieuwe meldingen,unreviewed,helpdesk
-No new tickets assigned to you in the last 24 hours,,unreviewed,helpdesk
-No next ticket,,unreviewed,helpdesk
-No pending tickets,,unreviewed,helpdesk
-No previous ticket,,unreviewed,helpdesk
-No reason,,unreviewed,helpdesk
-No recently assigned tickets,,unreviewed,helpdesk
-No saved replies found,,unreviewed,helpdesk
-No team found,,unreviewed,helpdesk
-No tickets found,,unreviewed,helpdesk
-No tickets found for the applied filters. Try adjusting or clearing your filters.,,unreviewed,helpdesk
-No tickets found for this view. Try adjusting your filters or creating a new view.,,unreviewed,helpdesk
-No tickets found to preview.,,unreviewed,helpdesk
-Not Assigned,,unreviewed,helpdesk
-On click (Javascript),,unreviewed,helpdesk
-On ticket status,,unreviewed,helpdesk
-Only one default view is allowed per user for {0},,unreviewed,helpdesk
-Only the 'color' and 'order' fields of the 'Closed' status can be modified.,,unreviewed,helpdesk
-Open command palette,,unreviewed,helpdesk
-Open comment box,,unreviewed,helpdesk
-Open help,,unreviewed,helpdesk
-Open in Desk,,unreviewed,helpdesk
-Open reply box,,unreviewed,helpdesk
-Open settings,,unreviewed,helpdesk
+My Dashboard,My Dashboard,reviewed,helpdesk
+My Settings,Mijn instellingen,reviewed,helpdesk
+My Team,Mijn team,reviewed,helpdesk
+My Tickets,Mijn Tickets,reviewed,helpdesk
+Name Weight,Naamgewicht,reviewed,helpdesk
+"Name shown on the customer portal<br> (e.g., Replied → Awaiting Response).",Naam weergegeven op het klantenportaal<br> (bijv. Beantwoord → Wacht op reactie).,reviewed,helpdesk
+Navigation,Navigatie,reviewed,helpdesk
+Negative first,Negatief eerst,reviewed,helpdesk
+New Article,Nieuw artikel,reviewed,helpdesk
+New Business Holiday,Nieuwe bedrijfsfeestdag,reviewed,helpdesk
+New Call Log,Nieuwe oproeplog,reviewed,helpdesk
+New Field Dependency,Nieuwe veldafhankelijkheid,reviewed,helpdesk
+New Holiday List Name,Naam nieuwe verloflijst,reviewed,helpdesk
+New Saved Reply,Nieuw opgeslagen antwoord,reviewed,helpdesk
+New Saved reply Name,Naam nieuw opgeslagen antwoord,reviewed,helpdesk
+New Subject,Nieuw onderwerp,reviewed,helpdesk
+New Team,Nieuw team,reviewed,helpdesk
+New Ticket,Nieuw Ticket,reviewed,helpdesk
+New and old title cannot be same,De nieuwe en oude titel mogen niet hetzelfde zijn,reviewed,helpdesk
+New team,Nieuw team,reviewed,helpdesk
+New title is required,Een nieuwe titel is verplicht,reviewed,helpdesk
+New users will have to be manually registered by system managers.,Nieuwe gebruikers moeten handmatig worden geregistreerd door systeembeheerders.,reviewed,helpdesk
+Next ticket,Volgend Ticket,reviewed,helpdesk
+No Data Found,Geen gegevens gevonden,reviewed,helpdesk
+No Holiday list found,Geen verloflijst gevonden,reviewed,helpdesk
+No SLA found,Geen SLA gevonden,reviewed,helpdesk
+No Team,Geen team,reviewed,helpdesk
+No additional comments,Geen aanvullende opmerkingen,reviewed,helpdesk
+No agent found,Geen Agent gevonden,reviewed,helpdesk
+No articles found for the applied filters. Try adjusting or clearing your filters.,Geen artikelen gevonden voor de toegepaste filters. Pas uw filters aan of wis ze.,reviewed,helpdesk
+No articles found in the following category.,Geen artikelen gevonden in de volgende categorie.,reviewed,helpdesk
+No assignees,Geen toegewezenen,reviewed,helpdesk
+No assignment rule found,Geen toewijzingsregel gevonden,reviewed,helpdesk
+No average metrics,Geen gemiddelde statistieken,reviewed,helpdesk
+No categories available,Geen categorieën beschikbaar,reviewed,helpdesk
+No changes to save,Geen wijzigingen om op te slaan,reviewed,helpdesk
+No charts added,Geen grafieken toegevoegd,reviewed,helpdesk
+No contacts found for the applied filters. Try adjusting or clearing your filters.,Geen contacten gevonden voor de toegepaste filters. Pas uw filters aan of wis ze.,reviewed,helpdesk
+No customers found for the applied filters. Try adjusting or clearing your filters.,Geen klanten gevonden voor de toegepaste filters. Pas uw filters aan of wis ze.,reviewed,helpdesk
+No email account found,Geen Email-account gevonden,reviewed,helpdesk
+No feedback,Geen feedback,reviewed,helpdesk
+No field dependency found,Geen veldafhankelijkheid gevonden,reviewed,helpdesk
+No members found,Geen leden gevonden,reviewed,helpdesk
+No new notifications,Geen nieuwe meldingen,reviewed,helpdesk
+No new tickets assigned to you in the last 24 hours,Geen nieuwe Tickets aan u toegewezen in de afgelopen 24 uur,reviewed,helpdesk
+No next ticket,Geen volgend Ticket,reviewed,helpdesk
+No pending tickets,Geen openstaande Tickets,reviewed,helpdesk
+No previous ticket,Geen vorig Ticket,reviewed,helpdesk
+No reason,Geen reden,reviewed,helpdesk
+No recently assigned tickets,Geen recent toegewezen Tickets,reviewed,helpdesk
+No saved replies found,Geen opgeslagen antwoorden gevonden,reviewed,helpdesk
+No team found,Geen team gevonden,reviewed,helpdesk
+No tickets found,Geen Tickets gevonden,reviewed,helpdesk
+No tickets found for the applied filters. Try adjusting or clearing your filters.,Geen Tickets gevonden voor de toegepaste filters. Pas uw filters aan of wis ze.,reviewed,helpdesk
+No tickets found for this view. Try adjusting your filters or creating a new view.,Geen Tickets gevonden voor deze weergave. Pas uw filters aan of maak een nieuwe weergave aan.,reviewed,helpdesk
+No tickets found to preview.,Geen Tickets gevonden voor voorvertoning.,reviewed,helpdesk
+Not Assigned,Niet toegewezen,reviewed,helpdesk
+On click (Javascript),On click (Javascript),reviewed,helpdesk
+On ticket status,Bij Ticket status,reviewed,helpdesk
+Only one default view is allowed per user for {0},Er is slechts één standaardweergave toegestaan per gebruiker voor {0},reviewed,helpdesk
+Only the 'color' and 'order' fields of the 'Closed' status can be modified.,Alleen de velden 'kleur' en 'volgorde' van de status 'Gesloten' kunnen worden gewijzigd.,reviewed,helpdesk
+Open command palette,Opdrachtpalet openen,reviewed,helpdesk
+Open comment box,Opmerkingenveld openen,reviewed,helpdesk
+Open help,Help openen,reviewed,helpdesk
+Open in Desk,Openen in Desk,reviewed,helpdesk
+Open reply box,Antwoordveld openen,reviewed,helpdesk
+Open settings,Instellingen openen,reviewed,helpdesk
 "Open: SLA continues. <br>
 Paused: SLA is paused. <br>
-Resolved: SLA timer stops.",,unreviewed,helpdesk
-Organization Dashboard,,unreviewed,helpdesk
-Outside working hours notice,,unreviewed,helpdesk
-Parent field,,unreviewed,helpdesk
-"Parent field, child field, and parent-child mapping are required.",,unreviewed,helpdesk
-Password updated successfully.,Wachtwoord succesvol veranderd.,unreviewed,helpdesk
-Paused,Gepauzeerd,unreviewed,helpdesk
-Pending Tickets,,unreviewed,helpdesk
-Percentage of total tickets by channel,,unreviewed,helpdesk
-Percentage of total tickets by priority,,unreviewed,helpdesk
-Percentage of total tickets by team,,unreviewed,helpdesk
-Percentage of total tickets by type,,unreviewed,helpdesk
-Personal mobile no,,unreviewed,helpdesk
-Phone Nos,,unreviewed,helpdesk
-Pick an option,,unreviewed,helpdesk
-Pink,Roze,unreviewed,helpdesk
-Placeholder,Plaatsaanduiding,unreviewed,helpdesk
-Please add this priority in the <a href='/app/hd-service-level-agreement'>required SLA documents</a>,,unreviewed,helpdesk
-Please add {0} priority in {1} SLA,,unreviewed,helpdesk
-Please configure your Exotel settings correctly,,unreviewed,helpdesk
-Please configure your Twilio settings correctly,,unreviewed,helpdesk
-Please enter a subject to continue,,unreviewed,helpdesk
-Please enter a valid phone number,,unreviewed,helpdesk
-Please enter first name at least,,unreviewed,helpdesk
-Please fill all required fields,,unreviewed,helpdesk
-Please fill all required fields for Exotel,,unreviewed,helpdesk
-Please fill all required fields for Twilio,,unreviewed,helpdesk
-Please fill all the required fields,,unreviewed,helpdesk
-Please provide saved_reply_id,,unreviewed,helpdesk
-Policy name,,unreviewed,helpdesk
-Positive first,,unreviewed,helpdesk
-Post Route String,Postroute String,unreviewed,helpdesk
-Prefer knowledge base,,unreviewed,helpdesk
-Presets,,unreviewed,helpdesk
-Press enter to search,Druk op enter om te zoeken,unreviewed,helpdesk
-Previous ticket,,unreviewed,helpdesk
-Priority <u>{0}</u> must be included in the SLA {1}.,,unreviewed,helpdesk
-Private Views,,unreviewed,helpdesk
-Product Experts,,unreviewed,helpdesk
-Product experts,,unreviewed,helpdesk
-Profile updated successfully.,Profiel succesvol bijgewerkt.,unreviewed,helpdesk
-Published articles must have content.,,unreviewed,helpdesk
-Pull Emails,E-mails ophalen,unreviewed,helpdesk
-"Pulling emails, this may take a few minutes.",,unreviewed,helpdesk
-Rate Your Support Experience,,unreviewed,helpdesk
-Rate this ticket,,unreviewed,helpdesk
-Rated Tickets,,unreviewed,helpdesk
-Rating must be between 0.2 and 1.0,,unreviewed,helpdesk
-Rating {0} is not allowed,,unreviewed,helpdesk
-Reaction,,unreviewed,helpdesk
-Reactions,,unreviewed,helpdesk
-Recent,,unreviewed,helpdesk
-Recent Tickets,,unreviewed,helpdesk
-Recurring Holidays,,unreviewed,helpdesk
-Recurring holidays,,unreviewed,helpdesk
-Reference Ticket,,unreviewed,helpdesk
-Regenerate Search Index,,unreviewed,helpdesk
-Remove Logo,,unreviewed,helpdesk
-Remove image,Verwijder afbeelding,unreviewed,helpdesk
-Remove photo,,unreviewed,helpdesk
-Rename (Ctrl + ⏎),,unreviewed,helpdesk
-Rename (⌘ + ⏎),,unreviewed,helpdesk
-Rename team,,unreviewed,helpdesk
-Reply From Agent,,unreviewed,helpdesk
-Reply From Contact,,unreviewed,helpdesk
-Reply from agent,,unreviewed,helpdesk
-Reply from contact,,unreviewed,helpdesk
-Reply on a ticket,,unreviewed,helpdesk
-Request Key,Sleutel aanvragen,unreviewed,helpdesk
-Reset Content,,unreviewed,helpdesk
-Reset content,,unreviewed,helpdesk
-Resolution Due,Resolutie verschuldigd,unreviewed,helpdesk
-Response Result Key Path,Antwoordresultaat Sleutelpad,unreviewed,helpdesk
-Response and Resolution,Reactie en oplossing,unreviewed,helpdesk
-Response is required,,unreviewed,helpdesk
-Restrict agent assignment to selected Team,,unreviewed,helpdesk
-Restrict agent assignment to selected team,,unreviewed,helpdesk
-Restrict tickets by Team,,unreviewed,helpdesk
-Restrict tickets by team,,unreviewed,helpdesk
-Restrict tickets to be viewed and managed by team members only.,,unreviewed,helpdesk
-Restrict visibility to these teams,,unreviewed,helpdesk
-SLA Alerts,,unreviewed,helpdesk
-SLA Mapping,,unreviewed,helpdesk
-SLA policy created successfully.,,unreviewed,helpdesk
-SLA policy deleted successfully.,,unreviewed,helpdesk
-SLA policy duplicated successfully.,,unreviewed,helpdesk
-SLA policy status updated successfully.,,unreviewed,helpdesk
-SLA policy updated successfully.,,unreviewed,helpdesk
-SLA set as default cannot be disabled.,,unreviewed,helpdesk
-SLAs align your team and customers with defined timelines for a reliable experience. Learn more about SLA ,,unreviewed,helpdesk
-Saved Replies,,unreviewed,helpdesk
-Saved reply deleted successfully.,,unreviewed,helpdesk
-Saved reply duplicated successfully.,,unreviewed,helpdesk
-Saved reply saved successfully.,,unreviewed,helpdesk
-Saved reply updated successfully.,,unreviewed,helpdesk
-Schedule name,,unreviewed,helpdesk
-Search Index Regenerated,,unreviewed,helpdesk
-Search Score,,unreviewed,helpdesk
-"Search for ""{0}""",,unreviewed,helpdesk
-Search index does not exist. Please build the index first.,,unreviewed,helpdesk
-Search index not available. Please contact administrator.,,unreviewed,helpdesk
-Search query must be at least 2 characters,,unreviewed,helpdesk
-Search ticket,,unreviewed,helpdesk
-"Search tickets, comments, and communications...",,unreviewed,helpdesk
-"Search tickets, emails, comments, or #234 to navigate to ticket",,unreviewed,helpdesk
-Searched for:,,unreviewed,helpdesk
-Searching...,Zoeken...,unreviewed,helpdesk
-See all {0} tickets,,unreviewed,helpdesk
-Select Category,,unreviewed,helpdesk
-Select a rating,,unreviewed,helpdesk
-Select teams,,unreviewed,helpdesk
-Select ticket to preview,,unreviewed,helpdesk
-Select what type all tickets get by default.,,unreviewed,helpdesk
-Select your weekly off day,Kies je wekelijkse vrije dag,unreviewed,helpdesk
-Send feedback when,,unreviewed,helpdesk
-Sent to all of the agents assigned to the ticket whenever a contact has replied.,,unreviewed,helpdesk
-Sent to all of the recipients associated with the ticket whenever an agent has replied.,,unreviewed,helpdesk
-Sent to the user right after creating an email ticket.,,unreviewed,helpdesk
-Sent to the user who has raised the ticket after the ticket is closed or resolved.,,unreviewed,helpdesk
-Service Level Agreements (SLAs),,unreviewed,helpdesk
-Service Level Name,Serviceniveaunaam,unreviewed,helpdesk
-Service not supported,,unreviewed,helpdesk
-Set Phone Number,,unreviewed,helpdesk
-Set Resolution Time for Priority {0} in row {1}.,,unreviewed,helpdesk
-Set Response Time for Priority {0} in row {1}.,Stel de reactietijd in voor prioriteit {0} in rij {1}.,unreviewed,helpdesk
-"Set the default status assigned when a ticket is created, and the status to apply when a ticket is reopened. If not specified, the default status from HD Settings will be used.",,unreviewed,helpdesk
-"Set working days, hours, and holidays by selecting a predefined schedule or creating a new one.",,unreviewed,helpdesk
+Resolved: SLA timer stops.","Open: SLA loopt door. <br>
+Gepauzeerd: SLA is gepauzeerd. <br>
+Opgelost: SLA-timer stopt.",reviewed,helpdesk
+Organization Dashboard,Organisatie Dashboard,reviewed,helpdesk
+Outside working hours notice,Melding buiten werktijd,reviewed,helpdesk
+Parent field,Bovenliggend veld,reviewed,helpdesk
+"Parent field, child field, and parent-child mapping are required.","Bovenliggend veld, onderliggend veld en bovenliggend-onderliggend koppeling zijn verplicht.",reviewed,helpdesk
+Password updated successfully.,Wachtwoord succesvol veranderd.,reviewed,helpdesk
+Paused,Gepauzeerd,reviewed,helpdesk
+Pending Tickets,Openstaande Tickets,reviewed,helpdesk
+Percentage of total tickets by channel,Percentage van alle Tickets per kanaal,reviewed,helpdesk
+Percentage of total tickets by priority,Percentage van alle Tickets per prioriteit,reviewed,helpdesk
+Percentage of total tickets by team,Percentage van alle Tickets per team,reviewed,helpdesk
+Percentage of total tickets by type,Percentage van alle Tickets per type,reviewed,helpdesk
+Personal mobile no,Persoonlijk mobiel nummer,reviewed,helpdesk
+Phone Nos,Telefoonnummers,reviewed,helpdesk
+Pick an option,Kies een optie,reviewed,helpdesk
+Pink,Roze,reviewed,helpdesk
+Placeholder,Tijdelijke aanduiding,reviewed,helpdesk
+Please add this priority in the <a href='/app/hd-service-level-agreement'>required SLA documents</a>,Voeg deze prioriteit toe aan de <a href='/app/hd-service-level-agreement'>vereiste SLA-documenten</a>,reviewed,helpdesk
+Please add {0} priority in {1} SLA,Voeg prioriteit {0} toe aan SLA {1},reviewed,helpdesk
+Please configure your Exotel settings correctly,Configureer uw Exotel-instellingen correct,reviewed,helpdesk
+Please configure your Twilio settings correctly,Configureer uw Twilio-instellingen correct,reviewed,helpdesk
+Please enter a subject to continue,Voer een onderwerp in om door te gaan,reviewed,helpdesk
+Please enter a valid phone number,Voer een geldig telefoonnummer in,reviewed,helpdesk
+Please enter first name at least,Voer minimaal een voornaam in,reviewed,helpdesk
+Please fill all required fields,Vul alle verplichte velden in,reviewed,helpdesk
+Please fill all required fields for Exotel,Vul alle verplichte velden in voor Exotel,reviewed,helpdesk
+Please fill all required fields for Twilio,Vul alle verplichte velden in voor Twilio,reviewed,helpdesk
+Please fill all the required fields,Vul alle verplichte velden in,reviewed,helpdesk
+Please provide saved_reply_id,Geef een saved_reply_id op,reviewed,helpdesk
+Policy name,Beleidsnaam,reviewed,helpdesk
+Positive first,Positief eerst,reviewed,helpdesk
+Post Route String,Post routestring,reviewed,helpdesk
+Prefer knowledge base,Geef voorkeur aan Kennisbank,reviewed,helpdesk
+Presets,Voorinstellingen,reviewed,helpdesk
+Press enter to search,Druk op enter om te zoeken,reviewed,helpdesk
+Previous ticket,Vorig ticket,reviewed,helpdesk
+Priority <u>{0}</u> must be included in the SLA {1}.,Prioriteit <u>{0}</u> moet worden opgenomen in de SLA {1}.,reviewed,helpdesk
+Private Views,Privéweergaven,reviewed,helpdesk
+Product Experts,Productexperts,reviewed,helpdesk
+Product experts,Productexperts,reviewed,helpdesk
+Profile updated successfully.,Profiel succesvol bijgewerkt.,reviewed,helpdesk
+Published articles must have content.,Gepubliceerde artikelen moeten inhoud hebben.,reviewed,helpdesk
+Pull Emails,E-mails ophalen,reviewed,helpdesk
+"Pulling emails, this may take a few minutes.","E-mails worden opgehaald, dit kan enkele minuten duren.",reviewed,helpdesk
+Rate Your Support Experience,Beoordeel uw supportervaring,reviewed,helpdesk
+Rate this ticket,Beoordeel dit ticket,reviewed,helpdesk
+Rated Tickets,Beoordeelde tickets,reviewed,helpdesk
+Rating must be between 0.2 and 1.0,"Beoordeling moet tussen 0,2 en 1,0 liggen",reviewed,helpdesk
+Rating {0} is not allowed,Beoordeling {0} is niet toegestaan,reviewed,helpdesk
+Reaction,Reactie,reviewed,helpdesk
+Reactions,Reacties,reviewed,helpdesk
+Recent,Recent,reviewed,helpdesk
+Recent Tickets,Recente tickets,reviewed,helpdesk
+Recurring Holidays,Terugkerende feestdagen,reviewed,helpdesk
+Recurring holidays,Terugkerende feestdagen,reviewed,helpdesk
+Reference Ticket,Referentieticket,reviewed,helpdesk
+Regenerate Search Index,Zoekindex opnieuw opbouwen,reviewed,helpdesk
+Remove Logo,Logo verwijderen,reviewed,helpdesk
+Remove image,Verwijder afbeelding,reviewed,helpdesk
+Remove photo,Foto verwijderen,reviewed,helpdesk
+Rename (Ctrl + ⏎),Hernoemen (Ctrl + ⏎),reviewed,helpdesk
+Rename (⌘ + ⏎),Hernoemen (⌘ + ⏎),reviewed,helpdesk
+Rename team,Team hernoemen,reviewed,helpdesk
+Reply From Agent,Antwoord van Agent,reviewed,helpdesk
+Reply From Contact,Antwoord van contactpersoon,reviewed,helpdesk
+Reply from agent,Antwoord van Agent,reviewed,helpdesk
+Reply from contact,Antwoord van contactpersoon,reviewed,helpdesk
+Reply on a ticket,Antwoord op een ticket,reviewed,helpdesk
+Request Key,Sleutel opvragen,reviewed,helpdesk
+Reset Content,Inhoud opnieuw instellen,reviewed,helpdesk
+Reset content,Inhoud opnieuw instellen,reviewed,helpdesk
+Resolution Due,Oplossing verwacht voor,reviewed,helpdesk
+Response Result Key Path,Sleutelpad voor reactieresultaat,reviewed,helpdesk
+Response and Resolution,Reactie en oplossing,reviewed,helpdesk
+Response is required,Een reactie is vereist,reviewed,helpdesk
+Restrict agent assignment to selected Team,Agent-toewijzing beperken tot geselecteerd team,reviewed,helpdesk
+Restrict agent assignment to selected team,Agent-toewijzing beperken tot geselecteerd team,reviewed,helpdesk
+Restrict tickets by Team,Tickets beperken per team,reviewed,helpdesk
+Restrict tickets by team,Tickets beperken per team,reviewed,helpdesk
+Restrict tickets to be viewed and managed by team members only.,Tickets kunnen alleen worden bekeken en beheerd door teamleden.,reviewed,helpdesk
+Restrict visibility to these teams,Zichtbaarheid beperken tot deze teams,reviewed,helpdesk
+SLA Alerts,SLA-meldingen,reviewed,helpdesk
+SLA Mapping,SLA-koppeling,reviewed,helpdesk
+SLA policy created successfully.,SLA-beleid succesvol aangemaakt.,reviewed,helpdesk
+SLA policy deleted successfully.,SLA-beleid succesvol verwijderd.,reviewed,helpdesk
+SLA policy duplicated successfully.,SLA-beleid succesvol gedupliceerd.,reviewed,helpdesk
+SLA policy status updated successfully.,Status van SLA-beleid succesvol bijgewerkt.,reviewed,helpdesk
+SLA policy updated successfully.,SLA-beleid succesvol bijgewerkt.,reviewed,helpdesk
+SLA set as default cannot be disabled.,"SLA die als standaard is ingesteld, kan niet worden uitgeschakeld.",reviewed,helpdesk
+SLAs align your team and customers with defined timelines for a reliable experience. Learn more about SLA ,SLA's stemmen uw team en klanten af op vaste tijdlijnen voor een betrouwbare ervaring. Meer informatie over SLA ,reviewed,helpdesk
+Saved Replies,Opgeslagen antwoorden,reviewed,helpdesk
+Saved reply deleted successfully.,Opgeslagen antwoord succesvol verwijderd.,reviewed,helpdesk
+Saved reply duplicated successfully.,Opgeslagen antwoord succesvol gedupliceerd.,reviewed,helpdesk
+Saved reply saved successfully.,Opgeslagen antwoord succesvol opgeslagen.,reviewed,helpdesk
+Saved reply updated successfully.,Opgeslagen antwoord succesvol bijgewerkt.,reviewed,helpdesk
+Schedule name,Schedulenaam,reviewed,helpdesk
+Search Index Regenerated,Zoekindex opnieuw opgebouwd,reviewed,helpdesk
+Search Score,Zoekscore,reviewed,helpdesk
+"Search for ""{0}""","Zoeken naar ""{0}""",reviewed,helpdesk
+Search index does not exist. Please build the index first.,Zoekindex bestaat niet. Bouw eerst de index op.,reviewed,helpdesk
+Search index not available. Please contact administrator.,Zoekindex is niet beschikbaar. Neem contact op met de beheerder.,reviewed,helpdesk
+Search query must be at least 2 characters,Zoekopdracht moet minimaal 2 tekens bevatten,reviewed,helpdesk
+Search ticket,Ticket zoeken,reviewed,helpdesk
+"Search tickets, comments, and communications...","Zoek in tickets, opmerkingen en communicatie...",reviewed,helpdesk
+"Search tickets, emails, comments, or #234 to navigate to ticket","Zoek tickets, e-mails, opmerkingen of #234 om naar een ticket te gaan",reviewed,helpdesk
+Searched for:,Gezocht naar:,reviewed,helpdesk
+Searching...,Zoeken...,reviewed,helpdesk
+See all {0} tickets,Bekijk alle {0} tickets,reviewed,helpdesk
+Select Category,Selecteer categorie,reviewed,helpdesk
+Select a rating,Selecteer een beoordeling,reviewed,helpdesk
+Select teams,Selecteer teams,reviewed,helpdesk
+Select ticket to preview,Selecteer een ticket om te bekijken,reviewed,helpdesk
+Select what type all tickets get by default.,Selecteer welk type alle tickets standaard krijgen.,reviewed,helpdesk
+Select your weekly off day,Kies je wekelijkse vrije dag,reviewed,helpdesk
+Send feedback when,Feedback verzenden wanneer,reviewed,helpdesk
+Sent to all of the agents assigned to the ticket whenever a contact has replied.,Verzonden naar alle Agents die zijn toegewezen aan het ticket wanneer een contactpersoon heeft geantwoord.,reviewed,helpdesk
+Sent to all of the recipients associated with the ticket whenever an agent has replied.,Verzonden naar alle ontvangers die zijn gekoppeld aan het ticket wanneer een Agent heeft geantwoord.,reviewed,helpdesk
+Sent to the user right after creating an email ticket.,Verzonden naar de gebruiker direct na het aanmaken van een e-mailticket.,reviewed,helpdesk
+Sent to the user who has raised the ticket after the ticket is closed or resolved.,Verzonden naar de gebruiker die het ticket heeft ingediend nadat het ticket is gesloten of opgelost.,reviewed,helpdesk
+Service Level Agreements (SLAs),Serviceovereenkomsten (SLA's),reviewed,helpdesk
+Service Level Name,Serviceniveaunaam,reviewed,helpdesk
+Service not supported,Service niet ondersteund,reviewed,helpdesk
+Set Phone Number,Telefoonnummer instellen,reviewed,helpdesk
+Set Resolution Time for Priority {0} in row {1}.,Stel de oplossingstijd in voor prioriteit {0} in rij {1}.,reviewed,helpdesk
+Set Response Time for Priority {0} in row {1}.,Stel de reactietijd in voor prioriteit {0} in rij {1}.,reviewed,helpdesk
+"Set the default status assigned when a ticket is created, and the status to apply when a ticket is reopened. If not specified, the default status from HD Settings will be used.","Stel de standaardstatus in die wordt toegewezen wanneer een ticket wordt aangemaakt, en de status die wordt toegepast wanneer een ticket wordt heropend. Als dit niet is opgegeven, wordt de standaardstatus uit HD-instellingen gebruikt.",reviewed,helpdesk
+"Set working days, hours, and holidays by selecting a predefined schedule or creating a new one.","Stel werkdagen, werktijden en feestdagen in door een vooraf gedefinieerd schema te kiezen of een nieuw schema aan te maken.",reviewed,helpdesk
 "Set your team’s working days, hours, and holidays using a template or custom schedule.",,unreviewed,helpdesk
 Setting <strong>{0}</strong> as the default SLA removes <strong>{1}</strong> as the default SLA. You’ll need to add a condition in <strong>{1}</strong> for the SLA to work.,,unreviewed,helpdesk
-Settings updated,,unreviewed,helpdesk
-Settings updated successfully.,,unreviewed,helpdesk
-Setup SLA,,unreviewed,helpdesk
-Share Feedback,,unreviewed,helpdesk
-Share feedback,,unreviewed,helpdesk
-Show end users a different view,,unreviewed,helpdesk
-Show in sidebar,,unreviewed,helpdesk
-Show keyboard shortcuts,,unreviewed,helpdesk
-"Simple Python Expression, Example: doc.status == 'Open' and doc.ticket_type == 'Bug'",,unreviewed,helpdesk
-Skip e-mail workflow,,unreviewed,helpdesk
-Skip email workflow,,unreviewed,helpdesk
-Some error occurred while renaming holiday list,,unreviewed,helpdesk
-Some error occurred while renaming saved reply,,unreviewed,helpdesk
-Some error occurred while updating holiday list,,unreviewed,helpdesk
-Source and target category cannot be same,,unreviewed,helpdesk
-Source and target ticket cannot be same,,unreviewed,helpdesk
-Source and target tickets which are to be merged cannot be the same.,,unreviewed,helpdesk
-Source ticket does not exist,,unreviewed,helpdesk
-Split and Merge,,unreviewed,helpdesk
-"Standard Form Scripts can't be modified, duplicate the script instead.",,unreviewed,helpdesk
-Standard Views cannot be deleted.,,unreviewed,helpdesk
-Start Time can't be greater than or equal to End Time in row <u>{0}</u>.,,unreviewed,helpdesk
-Status Category,,unreviewed,helpdesk
-Status Details,Statusdetails,unreviewed,helpdesk
+Settings updated,Instellingen bijgewerkt,reviewed,helpdesk
+Settings updated successfully.,Instellingen zijn succesvol bijgewerkt.,reviewed,helpdesk
+Setup SLA,SLA instellen,reviewed,helpdesk
+Share Feedback,Feedback delen,reviewed,helpdesk
+Share feedback,Feedback delen,reviewed,helpdesk
+Show end users a different view,Toon eindgebruikers een andere weergave,reviewed,helpdesk
+Show in sidebar,Tonen in zijbalk,reviewed,helpdesk
+Show keyboard shortcuts,Sneltoetsen weergeven,reviewed,helpdesk
+"Simple Python Expression, Example: doc.status == 'Open' and doc.ticket_type == 'Bug'","Eenvoudige Python-expressie, voorbeeld: doc.status == 'Open' and doc.ticket_type == 'Bug'",reviewed,helpdesk
+Skip e-mail workflow,Email Workflow overslaan,reviewed,helpdesk
+Skip email workflow,Email Workflow overslaan,reviewed,helpdesk
+Some error occurred while renaming holiday list,Er is een fout opgetreden bij het hernoemen van de feestdagenlijst,reviewed,helpdesk
+Some error occurred while renaming saved reply,Er is een fout opgetreden bij het hernoemen van het opgeslagen antwoord,reviewed,helpdesk
+Some error occurred while updating holiday list,Er is een fout opgetreden bij het bijwerken van de feestdagenlijst,reviewed,helpdesk
+Source and target category cannot be same,De broncategorie en doelcategorie mogen niet gelijk zijn,reviewed,helpdesk
+Source and target ticket cannot be same,Het bron-Ticket en het doel-Ticket mogen niet gelijk zijn,reviewed,helpdesk
+Source and target tickets which are to be merged cannot be the same.,Het bron-Ticket en het doel-Ticket die samengevoegd worden mogen niet hetzelfde zijn.,reviewed,helpdesk
+Source ticket does not exist,Het bron-Ticket bestaat niet,reviewed,helpdesk
+Split and Merge,Splitsen en samenvoegen,reviewed,helpdesk
+"Standard Form Scripts can't be modified, duplicate the script instead.",Standaard formulierscripts kunnen niet worden gewijzigd. Maak een kopie van het script aan.,reviewed,helpdesk
+Standard Views cannot be deleted.,Standaard weergaven kunnen niet worden verwijderd.,reviewed,helpdesk
+Start Time can't be greater than or equal to End Time in row <u>{0}</u>.,De begintijd mag niet groter dan of gelijk zijn aan de eindtijd in rij <u>{0}</u>.,reviewed,helpdesk
+Status Category,Statuscategorie,reviewed,helpdesk
+Status Details,Statusdetails,reviewed,helpdesk
 "Status of the ticket, when a customer replies on the ticket with this SLA.
 
-If not selected, the value will be takes from HD Settings DocType.",,unreviewed,helpdesk
-"Status of the ticket, when a customer replies on the ticket.",,unreviewed,helpdesk
+If not selected, the value will be takes from HD Settings DocType.","Status van het Ticket wanneer een Klant reageert op het Ticket met deze SLA.
+
+Als dit niet is geselecteerd, wordt de waarde overgenomen uit het HD Settings-doctype.",reviewed,helpdesk
+"Status of the ticket, when a customer replies on the ticket.",Status van het Ticket wanneer een Klant reageert op het Ticket.,reviewed,helpdesk
 "Status of the ticket, when it is created in the system with this SLA.
-If not selected, the value will be taken from HD Settings DocType",,unreviewed,helpdesk
-"Status of the ticket, when it is created in the system.",,unreviewed,helpdesk
-Subject Weight,,unreviewed,helpdesk
-Support,Steun,unreviewed,helpdesk
-Support Hour Distribution,Verdeling van ondersteuningsuren,unreviewed,helpdesk
-Support Policy,,unreviewed,helpdesk
-Support Team,Ondersteuningsteam,unreviewed,helpdesk
-Synonyms,,unreviewed,helpdesk
-System types can not be deleted,,unreviewed,helpdesk
-Tampered Access,,unreviewed,helpdesk
-Target ticket does not exist,,unreviewed,helpdesk
-Teal,Groenblauw,unreviewed,helpdesk
-Team Name,,unreviewed,helpdesk
-Team Restrictions,,unreviewed,helpdesk
-Team created,,unreviewed,helpdesk
-Team created successfully.,,unreviewed,helpdesk
-Team deleted successfully.,,unreviewed,helpdesk
-Team name,,unreviewed,helpdesk
-Team renamed successfully.,,unreviewed,helpdesk
-Telephony settings updated successfully.,,unreviewed,helpdesk
-Tell us more,,unreviewed,helpdesk
-The 'Closed' status cannot be renamed.,,unreviewed,helpdesk
-The Assign Condition JSON '{0}' is invalid: </br> {1},,unreviewed,helpdesk
-The Unassign Condition JSON '{0}' is invalid: </br> {1},,unreviewed,helpdesk
-The assignment condition '{0}' is invalid: {1},,unreviewed,helpdesk
-The assignment condition json '{0}' is invalid: {1},,unreviewed,helpdesk
-"The feedback dialog will be shown, when a user tries to close a ticket from the customer portal.",,unreviewed,helpdesk
-The number of days must be 1 or more,,unreviewed,helpdesk
-The status for sending feedback must be of <u>Resolved</u> category.,,unreviewed,helpdesk
-The ticket status will automatically change whenever the agent respond to a ticket.,,unreviewed,helpdesk
-There are no categories published at the moment.,,unreviewed,helpdesk
-This action is irreversible.,,unreviewed,helpdesk
-"This date is calculated based on configured SLAs, working hours, and holidays.",,unreviewed,helpdesk
-This doctype will be deprecated in the future,,unreviewed,helpdesk
-"This field is used to send an email instantly without adding it into the queue. If this field is checked, the email will be sent immediately after clicking the ""Send"" button, instead of being added to the email queue for later processing.",,unreviewed,helpdesk
-"This field is used to skip email-related workflows for tickets. If this field is checked, no emails will be sent related to tickets, such as new ticket creation, status updates, or notifications.",,unreviewed,helpdesk
-This ticket (#{0}) has been merged with ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.,,unreviewed,helpdesk
-This ticket has been split to a new ticket. Please follow up on ticket <a href={0}>#{1}</a>.,,unreviewed,helpdesk
-"This view is public, and will be removed for all users.",,unreviewed,helpdesk
-This view is public. Changes made will be visible to everyone.,,unreviewed,helpdesk
-This will reset the content to the default message.,,unreviewed,helpdesk
-Ticket,,unreviewed,helpdesk
-Ticket #{0}: We've received your request,,unreviewed,helpdesk
-Ticket Analytics,,unreviewed,helpdesk
-Ticket Configuration,,unreviewed,helpdesk
-Ticket Management,,unreviewed,helpdesk
-Ticket Merged,,unreviewed,helpdesk
-Ticket Not Found,,unreviewed,helpdesk
-Ticket Priority,,unreviewed,helpdesk
-Ticket Reopen status,,unreviewed,helpdesk
-Ticket Routing,,unreviewed,helpdesk
-Ticket Settings,,unreviewed,helpdesk
-Ticket Split From,,unreviewed,helpdesk
-Ticket Summary,,unreviewed,helpdesk
-Ticket Trend,,unreviewed,helpdesk
-Ticket Type,,unreviewed,helpdesk
-Ticket closed successfully.,,unreviewed,helpdesk
-Ticket deleted successfully.,,unreviewed,helpdesk
-Ticket does not exist.,,unreviewed,helpdesk
-Ticket must be Open or Paused.,,unreviewed,helpdesk
-Ticket must be resolved with a feedback,,unreviewed,helpdesk
-Ticket must not already be merged.,,unreviewed,helpdesk
-Ticket not found,,unreviewed,helpdesk
-Ticket not found for the provided key.,,unreviewed,helpdesk
-Ticket not found.,,unreviewed,helpdesk
-Ticket raised outside working hours,,unreviewed,helpdesk
-Ticket split successfully.,,unreviewed,helpdesk
-Ticket status,,unreviewed,helpdesk
-Ticket type,,unreviewed,helpdesk
-Ticket updated succesfully.,,unreviewed,helpdesk
-Ticket-Search Analysis,,unreviewed,helpdesk
+If not selected, the value will be taken from HD Settings DocType","Status van het Ticket wanneer het wordt aangemaakt in het systeem met deze SLA.
+Als dit niet is geselecteerd, wordt de waarde overgenomen uit het HD Settings-doctype.",reviewed,helpdesk
+"Status of the ticket, when it is created in the system.",Status van het Ticket wanneer het wordt aangemaakt in het systeem.,reviewed,helpdesk
+Subject Weight,Onderwerpgewicht,reviewed,helpdesk
+Support,Ondersteuning,reviewed,helpdesk
+Support Hour Distribution,Verdeling van ondersteuningsuren,reviewed,helpdesk
+Support Policy,Ondersteuningsbeleid,reviewed,helpdesk
+Support Team,Ondersteuningsteam,reviewed,helpdesk
+Synonyms,Synoniemen,reviewed,helpdesk
+System types can not be deleted,Systeemtypen kunnen niet worden verwijderd,reviewed,helpdesk
+Tampered Access,Gemanipuleerde toegang,reviewed,helpdesk
+Target ticket does not exist,Het doel-Ticket bestaat niet,reviewed,helpdesk
+Teal,Groenblauw,reviewed,helpdesk
+Team Name,Teamnaam,reviewed,helpdesk
+Team Restrictions,Teambeperkingen,reviewed,helpdesk
+Team created,Team aangemaakt,reviewed,helpdesk
+Team created successfully.,Team is succesvol aangemaakt.,reviewed,helpdesk
+Team deleted successfully.,Team is succesvol verwijderd.,reviewed,helpdesk
+Team name,Teamnaam,reviewed,helpdesk
+Team renamed successfully.,Team is succesvol hernoemd.,reviewed,helpdesk
+Telephony settings updated successfully.,Telefonie-instellingen zijn succesvol bijgewerkt.,reviewed,helpdesk
+Tell us more,Vertel ons meer,reviewed,helpdesk
+The 'Closed' status cannot be renamed.,De status 'Gesloten' kan niet worden hernoemd.,reviewed,helpdesk
+The Assign Condition JSON '{0}' is invalid: </br> {1},De toewijzingsvoorwaarde JSON '{0}' is ongeldig: </br> {1},reviewed,helpdesk
+The Unassign Condition JSON '{0}' is invalid: </br> {1},De niet-toewijzingsvoorwaarde JSON '{0}' is ongeldig: </br> {1},reviewed,helpdesk
+The assignment condition '{0}' is invalid: {1},De toewijzingsvoorwaarde '{0}' is ongeldig: {1},reviewed,helpdesk
+The assignment condition json '{0}' is invalid: {1},De toewijzingsvoorwaarde JSON '{0}' is ongeldig: {1},reviewed,helpdesk
+"The feedback dialog will be shown, when a user tries to close a ticket from the customer portal.",Het feedbackvenster wordt getoond wanneer een gebruiker een Ticket probeert te sluiten via het klantenportaal.,reviewed,helpdesk
+The number of days must be 1 or more,Het aantal dagen moet 1 of meer zijn,reviewed,helpdesk
+The status for sending feedback must be of <u>Resolved</u> category.,De status voor het verzenden van feedback moet van de categorie <u>Opgelost</u> zijn.,reviewed,helpdesk
+The ticket status will automatically change whenever the agent respond to a ticket.,De Ticket-status wijzigt automatisch wanneer de Agent reageert op een Ticket.,reviewed,helpdesk
+There are no categories published at the moment.,Er zijn momenteel geen categorieën gepubliceerd.,reviewed,helpdesk
+This action is irreversible.,Deze actie kan niet ongedaan worden gemaakt.,reviewed,helpdesk
+"This date is calculated based on configured SLAs, working hours, and holidays.","Deze datum wordt berekend op basis van geconfigureerde SLA's, werktijden en feestdagen.",reviewed,helpdesk
+This doctype will be deprecated in the future,Dit doctype wordt in de toekomst verouderd verklaard,reviewed,helpdesk
+"This field is used to send an email instantly without adding it into the queue. If this field is checked, the email will be sent immediately after clicking the ""Send"" button, instead of being added to the email queue for later processing.","Dit veld wordt gebruikt om een Email direct te verzenden zonder deze aan de wachtrij toe te voegen. Als dit veld is aangevinkt, wordt de Email direct verzonden na het klikken op de knop ""Verzenden"" in plaats van te worden toegevoegd aan de emailwachtrij voor latere verwerking.",reviewed,helpdesk
+"This field is used to skip email-related workflows for tickets. If this field is checked, no emails will be sent related to tickets, such as new ticket creation, status updates, or notifications.","Dit veld wordt gebruikt om emailgerelateerde Workflows voor Tickets over te slaan. Als dit veld is aangevinkt, worden er geen Emails verzonden die betrekking hebben op Tickets, zoals het aanmaken van nieuwe Tickets, statusupdates of notificaties.",reviewed,helpdesk
+This ticket (#{0}) has been merged with ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.,Dit Ticket (#{0}) is samengevoegd met Ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.,reviewed,helpdesk
+This ticket has been split to a new ticket. Please follow up on ticket <a href={0}>#{1}</a>.,Dit Ticket is gesplitst naar een nieuw Ticket. Volg het op via Ticket <a href={0}>#{1}</a>.,reviewed,helpdesk
+"This view is public, and will be removed for all users.",Deze weergave is openbaar en wordt verwijderd voor alle gebruikers.,reviewed,helpdesk
+This view is public. Changes made will be visible to everyone.,Deze weergave is openbaar. Wijzigingen zijn zichtbaar voor iedereen.,reviewed,helpdesk
+This will reset the content to the default message.,Dit herstelt de inhoud naar het standaardbericht.,reviewed,helpdesk
+Ticket,Ticket,reviewed,helpdesk
+Ticket #{0}: We've received your request,Ticket #{0}: Wij hebben uw verzoek ontvangen,reviewed,helpdesk
+Ticket Analytics,Ticket Analytics,reviewed,helpdesk
+Ticket Configuration,Ticket configuratie,reviewed,helpdesk
+Ticket Management,Ticketbeheer,reviewed,helpdesk
+Ticket Merged,Ticket samengevoegd,reviewed,helpdesk
+Ticket Not Found,Ticket niet gevonden,reviewed,helpdesk
+Ticket Priority,Ticket Prioriteit,reviewed,helpdesk
+Ticket Reopen status,Ticket heropeningstatus,reviewed,helpdesk
+Ticket Routing,Ticket routering,reviewed,helpdesk
+Ticket Settings,Ticket instellingen,reviewed,helpdesk
+Ticket Split From,Ticket gesplitst van,reviewed,helpdesk
+Ticket Summary,Ticket samenvatting,reviewed,helpdesk
+Ticket Trend,Ticket trend,reviewed,helpdesk
+Ticket Type,Tickettype,reviewed,helpdesk
+Ticket closed successfully.,Ticket is succesvol gesloten.,reviewed,helpdesk
+Ticket deleted successfully.,Ticket is succesvol verwijderd.,reviewed,helpdesk
+Ticket does not exist.,Ticket bestaat niet.,reviewed,helpdesk
+Ticket must be Open or Paused.,Ticket moet de status Open of Gepauzeerd hebben.,reviewed,helpdesk
+Ticket must be resolved with a feedback,Ticket moet worden opgelost met feedback,reviewed,helpdesk
+Ticket must not already be merged.,Ticket mag niet al zijn samengevoegd.,reviewed,helpdesk
+Ticket not found,Ticket niet gevonden,reviewed,helpdesk
+Ticket not found for the provided key.,Ticket niet gevonden voor de opgegeven sleutel.,reviewed,helpdesk
+Ticket not found.,Ticket niet gevonden.,reviewed,helpdesk
+Ticket raised outside working hours,Ticket ingediend buiten werktijden,reviewed,helpdesk
+Ticket split successfully.,Ticket is succesvol gesplitst.,reviewed,helpdesk
+Ticket status,Ticket status,reviewed,helpdesk
+Ticket type,Tickettype,reviewed,helpdesk
+Ticket updated succesfully.,Ticket is succesvol bijgewerkt.,reviewed,helpdesk
+Ticket-Search Analysis,Ticket zoekanalyse,reviewed,helpdesk
 Tickets,,unreviewed,helpdesk
 Tickets approaching or breached SLA,,unreviewed,helpdesk
 Tickets assigned to you in the last 24 hours,,unreviewed,helpdesk

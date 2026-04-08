@@ -5305,215 +5305,215 @@ Items To Be Requested,Aan te vragen artikelen,reviewed,erpnext
 Items to Manufacture are required to pull the Raw Materials associated with it.,Te vervaardigen artikelen zijn vereist om de bijbehorende grondstoffen te trekken.,reviewed,erpnext
 Items under this warehouse will be suggested,Items onder dit magazijn worden voorgesteld,reviewed,erpnext
 Items with higher weightage will be shown higher,Items met een hogere weightage hoger zal worden getoond,reviewed,erpnext
-Itemwise Discount,Artikelgebaseerde Korting,unreviewed,erpnext
-Itemwise Recommended Reorder Level,Artikelgebaseerde Aanbevolen Bestelniveau,unreviewed,erpnext
-Jammu and Kashmir,Jammu en Kasjmir,unreviewed,frappe
-January,januari-,unreviewed,erpnext
-JavaScript Format: frappe.query_reports['REPORTNAME'] = {},JavaScript Formaat : frappe.query_reports ['REPORTNAME'] = { },unreviewed,frappe
-Javascript is disabled on your browser,Javascript is uitgeschakeld in uw browser,unreviewed,frappe
-Javascript to append to the head section of the page.,Javascript toe te voegen aan de hoofdsectie van de pagina.,unreviewed,frappe
-Job,job,unreviewed,frappe
-Job Applicant,Sollicitant,unreviewed,erpnext
+Itemwise Discount,Artikelgebaseerde korting,reviewed,erpnext
+Itemwise Recommended Reorder Level,Aanbevolen bestelniveau per artikel,reviewed,erpnext
+Jammu and Kashmir,Jammu en Kasjmir,reviewed,frappe
+January,januari,reviewed,erpnext
+JavaScript Format: frappe.query_reports['REPORTNAME'] = {},JavaScript Formaat : frappe.query_reports ['REPORTNAME'] = { },reviewed,frappe
+Javascript is disabled on your browser,Javascript is uitgeschakeld in uw browser,reviewed,frappe
+Javascript to append to the head section of the page.,Javascript toe te voegen aan de hoofdsectie van de pagina.,reviewed,frappe
+Job,job,reviewed,frappe
+Job Applicant,Sollicitant,reviewed,erpnext
 Job Applicant Source,Sollicitatiebron,reviewed,custom
-Job Card,Werk kaart,unreviewed,erpnext
-Job Card Analysis,Job Card-analyse,unreviewed,erpnext
-Job Card Item,Opdrachtkaartitem,unreviewed,erpnext
-Job Card Summary,Job Card Samenvatting,unreviewed,erpnext
-Job Card Time Log,Tijdkaart taakkaart,unreviewed,erpnext
-Job card {0} created,Taakkaart {0} gemaakt,unreviewed,erpnext
+Job Card,Taakkaart,reviewed,erpnext
+Job Card Analysis,Taakkaartanalyse,reviewed,erpnext
+Job Card Item,Taakkaartitem,reviewed,erpnext
+Job Card Summary,Taakkaartoverzicht,reviewed,erpnext
+Job Card Time Log,Taakkaart tijdregistratie,reviewed,erpnext
+Job card {0} created,Taakkaart {0} aangemaakt,reviewed,erpnext
 Job Offer,Aanbod,reviewed,custom
 Job Offer Term Template,Arbeidsvoorwaarden sjabloon,reviewed,custom
 Job Opening Template,Vacaturesjabloon,reviewed,custom
 Job Requisition,Personeelsaanvraag,reviewed,custom
-Job Started,Taak gestart,unreviewed,erpnext
-Job Title,Functietitel,unreviewed,erpnext
-Join,Indiensttreding,unreviewed,erpnext
-Joining Date can not be greater than Leaving Date,Inschrijvingsdatum kan niet groter zijn dan de uittredingsdatum,unreviewed,erpnext
-Joining Details,Deelnemen aan details,unreviewed,erpnext
-Journal Entries {0} are un-linked,Journaalposten {0} zijn un-linked,unreviewed,erpnext
-Journal Entry,Journaalpost,unreviewed,erpnext
-Journal Entry Account,Dagboek rekening,unreviewed,erpnext
-Journal Entry for Scrap,Dagboek voor Productieverlies,unreviewed,erpnext
+Job Started,Taak gestart,reviewed,erpnext
+Job Title,Functietitel,reviewed,erpnext
+Join,Indiensttreding,reviewed,erpnext
+Joining Date can not be greater than Leaving Date,Datum indiensttreding kan niet na datum uitdiensttreding liggen,reviewed,erpnext
+Joining Details,Indiensttredingsgegevens,reviewed,erpnext
+Journal Entries {0} are un-linked,Journaalboekingen {0} zijn ontkoppeld,reviewed,erpnext
+Journal Entry,Journaalboeking,reviewed,erpnext
+Journal Entry Account,Journaalboekingsrekening,reviewed,erpnext
+Journal Entry for Scrap,Journaalboeking voor productieverlies,reviewed,erpnext
 Journal Entry Template,Journaalboekingsjabloon,reviewed,erpnext
-Journal Entry Template Account,Journaalboeking-sjabloonaccount,unreviewed,erpnext
-Journal Entry Type,Type journaalboeking,unreviewed,erpnext
-Journal Entry {0} does not have account {1} or already matched against other voucher,Journal Entry {0} heeft geen rekening {1} of al vergeleken met andere voucher,unreviewed,erpnext
-JSON Output,JSON-uitgang,unreviewed,erpnext
-JSON Request Body,JSON-aanvraaginstantie,unreviewed,frappe
-Jump to field,Spring naar veld,unreviewed,frappe
-just now,net nu,unreviewed,frappe
-Kanban Board Name,Naam Kanban Board,unreviewed,frappe
-Keep track of all update feeds,Blijf op de hoogte van alle update feeds,unreviewed,frappe
-"Keep Track of Sales Campaigns. Keep track of Leads, Quotations, Sales Order etc from Campaigns to gauge Return on Investment.","Blijf op de hoogte van Sales Campaigns. Blijf op de hoogte van Leads, Offertes, Sales Order etc van campagnes te meten Return on Investment.",unreviewed,erpnext
-Keeps track of all communications,Houdt alle communicatie bij,unreviewed,frappe
-Key,Sleutel,unreviewed,frappe
-Key Reports,Belangrijkste rapporten,unreviewed,erpnext
-Keyboard Shortcuts,Toetsenbord sneltoetsen,unreviewed,frappe
-Kindly select the company first,Selecteer eerst het bedrijf,unreviewed,erpnext
-Knowledge Base,Kennis basis,unreviewed,frappe
-Knowledge Base Contributor,Knowledge Base Inzender,unreviewed,frappe
-Lab result datetime cannot be before testing datetime,Lab-resultaat datetime kan niet vóór het testen van datetime zijn,unreviewed,erpnext
-Lab Technician,Laboratorium technicus,unreviewed,erpnext
-Lab Technician Designation,Aanwijzing labtechnicus,unreviewed,erpnext
-Lab Technician Name,Naam labtechnicus,unreviewed,erpnext
-Lab Test,Laboratoriumtest,unreviewed,erpnext
-Lab Test Conducted:,Uitgevoerde laboratoriumtest:,unreviewed,erpnext
-Lab Test Event:,Lab-testevenement:,unreviewed,erpnext
-Lab Test Group Template,Lab testgroepsjabloon,unreviewed,erpnext
-Lab Test Item {0} already exist,Labtestitem {0} bestaat al,unreviewed,erpnext
-Lab Test Name,Naam laboratoriumtest,unreviewed,erpnext
-Lab Test Result:,Lab testresultaat:,unreviewed,erpnext
-Lab Test(s) {0} created successfully,Labtest (en) {0} succesvol gemaakt,unreviewed,erpnext
-Lab testing datetime cannot be before collection datetime,Labetesten van datetime kan niet vóór verzameling datetime zijn,unreviewed,erpnext
-Lab Tests,Labotests,unreviewed,erpnext
-Lab Tests and Vital Signs,Lab-tests en vitale functies,unreviewed,erpnext
-Label and Type,Label en Type,unreviewed,frappe
-Label is mandatory,Label is verplicht,unreviewed,frappe
-Laboratory,Laboratorium,unreviewed,erpnext
-Laboratory Settings,Laboratoriuminstellingen,unreviewed,erpnext
-Laboratory Setup,Laboratoriumopstelling,unreviewed,erpnext
-Laboratory SMS Alerts,Laboratorium SMS Alerts,unreviewed,erpnext
-Laboratory Testing Datetime,Laboratoriumtest Datetime,unreviewed,erpnext
-Laboratory User,Laboratoriumgebruiker,unreviewed,erpnext
-Lakshadweep Islands,Lakshadweep-eilanden,unreviewed,frappe
-Landed Cost Help,Vrachtkosten Help,unreviewed,erpnext
-Landed Cost Item,Vrachtkosten Artikel,unreviewed,erpnext
-Landed Cost Purchase Receipt,Vrachtkosten Inkoop Ontvangstbewijs,unreviewed,erpnext
-Landed Cost Taxes and Charges,Vrachtkosten belastingen en toeslagen,unreviewed,erpnext
+Journal Entry Template Account,Journaalboeking-sjabloonaccount,reviewed,erpnext
+Journal Entry Type,Type journaalboeking,reviewed,erpnext
+Journal Entry {0} does not have account {1} or already matched against other voucher,Journaalboeking {0} heeft geen rekening {1} of is al verrekend met een ander boekstuk,reviewed,erpnext
+JSON Output,JSON-uitvoer,reviewed,erpnext
+JSON Request Body,JSON-aanvraagbody,reviewed,frappe
+Jump to field,Spring naar veld,reviewed,frappe
+just now,net nu,reviewed,frappe
+Kanban Board Name,Naam kanbanbord,reviewed,frappe
+Keep track of all update feeds,Blijf op de hoogte van alle update feeds,reviewed,frappe
+"Keep Track of Sales Campaigns. Keep track of Leads, Quotations, Sales Order etc from Campaigns to gauge Return on Investment.","Blijf op de hoogte van Sales Campaigns. Blijf op de hoogte van Leads, Offertes, Sales Order etc van campagnes te meten Return on Investment.",reviewed,erpnext
+Keeps track of all communications,Houdt alle communicatie bij,reviewed,frappe
+Key,Sleutel,reviewed,frappe
+Key Reports,Belangrijkste rapporten,reviewed,erpnext
+Keyboard Shortcuts,Sneltoetsen,reviewed,frappe
+Kindly select the company first,Selecteer eerst het bedrijf,reviewed,erpnext
+Knowledge Base,Kennisbank,reviewed,frappe
+Knowledge Base Contributor,Kennisbank-bijdrager,reviewed,frappe
+Lab result datetime cannot be before testing datetime,Lab-resultaat datetime kan niet vóór het testen van datetime zijn,reviewed,erpnext
+Lab Technician,Laborant,reviewed,erpnext
+Lab Technician Designation,Aanwijzing labtechnicus,reviewed,erpnext
+Lab Technician Name,Naam labtechnicus,reviewed,erpnext
+Lab Test,Laboratoriumtest,reviewed,erpnext
+Lab Test Conducted:,Uitgevoerde laboratoriumtest:,reviewed,erpnext
+Lab Test Event:,Lab-testevenement:,reviewed,erpnext
+Lab Test Group Template,Lab testgroepsjabloon,reviewed,erpnext
+Lab Test Item {0} already exist,Labtestitem {0} bestaat al,reviewed,erpnext
+Lab Test Name,Naam laboratoriumtest,reviewed,erpnext
+Lab Test Result:,Lab testresultaat:,reviewed,erpnext
+Lab Test(s) {0} created successfully,Labtest (en) {0} succesvol gemaakt,reviewed,erpnext
+Lab testing datetime cannot be before collection datetime,Labetesten van datetime kan niet vóór verzameling datetime zijn,reviewed,erpnext
+Lab Tests,Labotests,reviewed,erpnext
+Lab Tests and Vital Signs,Lab-tests en vitale functies,reviewed,erpnext
+Label and Type,Label en Type,reviewed,frappe
+Label is mandatory,Label is verplicht,reviewed,frappe
+Laboratory,Laboratorium,reviewed,erpnext
+Laboratory Settings,Laboratoriuminstellingen,reviewed,erpnext
+Laboratory Setup,Laboratoriumopstelling,reviewed,erpnext
+Laboratory SMS Alerts,Laboratorium SMS Alerts,reviewed,erpnext
+Laboratory Testing Datetime,Laboratoriumtest Datetime,reviewed,erpnext
+Laboratory User,Laboratoriumgebruiker,reviewed,erpnext
+Lakshadweep Islands,Lakshadweep-eilanden,reviewed,frappe
+Landed Cost Help,Vrachtkosten Help,reviewed,erpnext
+Landed Cost Item,Vrachtkosten Artikel,reviewed,erpnext
+Landed Cost Purchase Receipt,Vrachtkosten Inkoop Ontvangstbewijs,reviewed,erpnext
+Landed Cost Taxes and Charges,Vrachtkosten belastingen en toeslagen,reviewed,erpnext
 Landed Cost Voucher,Bijkomende kosten bon,reviewed,erpnext
-Landed Cost Voucher Amount,Vrachtkosten Voucher Bedrag,unreviewed,erpnext
-Landscape,Landschap,unreviewed,both
+Landed Cost Voucher Amount,Vrachtkosten Voucher Bedrag,reviewed,erpnext
+Landscape,Liggend,reviewed,both
 Language,Taal,reviewed,both
-Language Code,taalcode,unreviewed,frappe
-Language Name,Taalnaam,unreviewed,frappe
-"Language, Date and Time settings","Taal , datum en tijd instellingen",unreviewed,frappe
-Lapsed,verlopen,unreviewed,erpnext
-Large,Groot,unreviewed,erpnext
-Last,Laatste,unreviewed,frappe
-Last Active,Laatst actief,unreviewed,frappe
-Last Activity,Laatste Activiteit,unreviewed,erpnext
-Last Backup On,Laatste back-up aan,unreviewed,frappe
-Last Carbon Check,Laatste Carbon controleren,unreviewed,erpnext
-Last carbon check date cannot be a future date,De laatste carbon check-datum kan geen toekomstige datum zijn,unreviewed,erpnext
-Last Communication,Laatste communicatie,unreviewed,erpnext
-Last Communication Date,Laatste Communicatie Datum,unreviewed,erpnext
-Last Completion Date,Laatste voltooiingsdatum,unreviewed,erpnext
-Last Deployed On,Laatst geïmplementeerd op,unreviewed,frappe
-Last Execution,Laatste uitvoering,unreviewed,frappe
-Last Integration Date,Laatste integratiedatum,unreviewed,erpnext
-Last IP,Laatste IP-,unreviewed,frappe
-Last Issue,Laatste uitgave,unreviewed,erpnext
-Last Known Versions,Laatst Bekende Versies,unreviewed,frappe
-Last Login,Laatst ingelogd,unreviewed,frappe
-Last Message,Laatste bericht,unreviewed,frappe
+Language Code,taalcode,reviewed,frappe
+Language Name,Taalnaam,reviewed,frappe
+"Language, Date and Time settings","Taal , datum en tijd instellingen",reviewed,frappe
+Lapsed,verlopen,reviewed,erpnext
+Large,Groot,reviewed,erpnext
+Last,Laatste,reviewed,frappe
+Last Active,Laatst actief,reviewed,frappe
+Last Activity,Laatste activiteit,reviewed,erpnext
+Last Backup On,Laatste back-up op,reviewed,frappe
+Last Carbon Check,Laatste CO2-controle,reviewed,erpnext
+Last carbon check date cannot be a future date,De laatste carbon check-datum kan geen toekomstige datum zijn,reviewed,erpnext
+Last Communication,Laatste communicatie,reviewed,erpnext
+Last Communication Date,Datum laatste communicatie,reviewed,erpnext
+Last Completion Date,Laatste voltooiingsdatum,reviewed,erpnext
+Last Deployed On,Laatst geïmplementeerd op,reviewed,frappe
+Last Execution,Laatste uitvoering,reviewed,frappe
+Last Integration Date,Laatste integratiedatum,reviewed,erpnext
+Last IP,Laatste IP-,reviewed,frappe
+Last Issue,Laatste melding,reviewed,erpnext
+Last Known Versions,Laatst Bekende Versies,reviewed,frappe
+Last Login,Laatst ingelogd,reviewed,frappe
+Last Message,Laatste bericht,reviewed,frappe
 Last Modified,Laatst gewijzigd,reviewed,custom
-Last Modified By,Laatst gewijzigd door,unreviewed,frappe
-Last Modified Date,Laatst gewijzigde datum,unreviewed,frappe
-Last Modified On,Laatst gewijzigd op,unreviewed,frappe
-Last Month,Vorige maand,unreviewed,frappe
-Last Month Downtime Analysis,Uitvaltijdanalyse afgelopen maand,unreviewed,erpnext
-Last Name,Achternaam,unreviewed,both
-last Odometer Value,laatste kilometertellerwaarde,unreviewed,erpnext
-Last Order Amount,Laatste Orderbedrag,unreviewed,erpnext
-Last Order Date,Laatste Bestel Date,unreviewed,erpnext
-Last Password Reset Date,Datum laatste wachtwoord opnieuw instellen,unreviewed,frappe
-Last Point Allocation Date,Datum toewijzingsdatum,unreviewed,frappe
-Last Purchase Price,Laatste aankoopprijs,unreviewed,erpnext
-Last Purchase Rate,Laatste inkooptarief,unreviewed,erpnext
-Last Quarter,Het laatste kwartier,unreviewed,frappe
-Last refreshed,Laatst vernieuwd,unreviewed,frappe
-Last Sales Invoice,Laatste verkoopfactuur,unreviewed,erpnext
-Last Stock Transaction for item {0} under warehouse {1} was on {2}.,Laatste voorraadtransactie voor artikel {0} onder magazijn {1} was op {2}.,unreviewed,erpnext
-Last Synced On,Laatst gesynchroniseerd,unreviewed,frappe
-Last synced {0},Laatst gesynchroniseerd {0},unreviewed,frappe
-Last Update,Laatste update,unreviewed,frappe
-Last Updated By,Laatst bijgewerkt door,unreviewed,frappe
-Last Updated On,Laatst aangepast op,unreviewed,frappe
-Last User,Laatste gebruiker,unreviewed,frappe
-Last Week,Vorige week,unreviewed,frappe
-Last Year,Vorig jaar,unreviewed,frappe
-Late Checkin,Late check-in,unreviewed,erpnext
-Latest,laatst,unreviewed,erpnext
-Latest Age,Laatste leeftijd,unreviewed,erpnext
-Latest Attempt,Laatste poging,unreviewed,erpnext
-Latest Highest Score,Nieuwste hoogste score,unreviewed,erpnext
-Latest price updated in all BOMs,Laatste prijs bijgewerkt in alle BOM&#39;s,unreviewed,erpnext
-Latitude,Breedtegraad,unreviewed,erpnext
-LDAP First Name Field,LDAP Voornaam Field,unreviewed,frappe
-LDAP Group,LDAP-groep,unreviewed,frappe
-LDAP Group Field,LDAP-groepsveld,unreviewed,frappe
-LDAP Group Mapping,LDAP-groepstoewijzing,unreviewed,frappe
-LDAP Group Mappings,LDAP-groepstoewijzingen,unreviewed,frappe
-LDAP is not enabled.,LDAP is niet ingeschakeld.,unreviewed,frappe
-LDAP Last Name Field,LDAP-achternaamveld,unreviewed,frappe
-LDAP Middle Name Field,Veld LDAP-middelste naam,unreviewed,frappe
-LDAP Mobile Field,LDAP mobiel veld,unreviewed,frappe
-LDAP Not Installed,LDAP niet geïnstalleerd,unreviewed,frappe
-LDAP Phone Field,LDAP-telefoonveld,unreviewed,frappe
-"LDAP Search String needs to end with a placeholder, eg sAMAccountName={0}","LDAP-zoekreeks moet eindigen met een tijdelijke aanduiding, bijvoorbeeld sAMAccountName = {0}",unreviewed,frappe
-LDAP Security,LDAP-beveiliging,unreviewed,frappe
-LDAP Server Url,LDAP-server Url,unreviewed,frappe
-LDAP Settings,LDAP-instellingen,unreviewed,frappe
-Ldap settings,Ldap-instellingen,unreviewed,frappe
-LDAP User Creation and Mapping,Maken en toewijzen van LDAP-gebruikers,unreviewed,frappe
-LDAP Username Field,LDAP Gebruikersnaam Field,unreviewed,frappe
-Lead,Lood,unreviewed,erpnext
-Lead Count,Loodtelling,unreviewed,erpnext
-Lead is an Organization,Lead is een organisatie,unreviewed,erpnext
-Lead Name,Lead Naam,unreviewed,erpnext
-Lead Owner,Lead Eigenaar,unreviewed,erpnext
-Lead Owner cannot be same as the Lead,Lead eigenaar kan niet hetzelfde zijn als de lead zijn,unreviewed,erpnext
-Lead Owner Efficiency,Leideneigenaar Efficiency,unreviewed,erpnext
-Lead Source,Lead Bron,unreviewed,erpnext
-Lead Time,Doorlooptijd,unreviewed,erpnext
-Lead Time (Days),Doorlooptijd (dagen),unreviewed,erpnext
-Lead Time (in mins),Doorlooptijd (in minuten),unreviewed,erpnext
-Lead Time Date,Lead Tijd Datum,unreviewed,erpnext
-Lead Time Days,Lead Time Dagen,unreviewed,erpnext
-Lead Time in days,Levertijd in dagen,unreviewed,erpnext
-Lead to Quotation,Leiden tot Offerte,unreviewed,erpnext
-Leaderboard,Scorebord,unreviewed,frappe
-"Leads help you get business, add all your contacts and more as your leads","Leads u helpen om zaken, voeg al uw contacten en nog veel meer als uw leads",unreviewed,erpnext
-leaf,blad,unreviewed,frappe
-Learn,Leren,unreviewed,erpnext
-Learning Management System Settings,Instellingen leerbeheersysteem,unreviewed,erpnext
-Learning Management System Title,Titel Learning Management System,unreviewed,erpnext
-Leave a Comment,Laat een reactie achter,unreviewed,frappe
+Last Modified By,Laatst gewijzigd door,reviewed,frappe
+Last Modified Date,Laatst gewijzigde datum,reviewed,frappe
+Last Modified On,Laatst gewijzigd op,reviewed,frappe
+Last Month,Vorige maand,reviewed,frappe
+Last Month Downtime Analysis,Uitvaltijdanalyse afgelopen maand,reviewed,erpnext
+Last Name,Achternaam,reviewed,both
+last Odometer Value,laatste kilometertellerwaarde,reviewed,erpnext
+Last Order Amount,Laatste Orderbedrag,reviewed,erpnext
+Last Order Date,Laatste Bestel Date,reviewed,erpnext
+Last Password Reset Date,Datum laatste wachtwoord opnieuw instellen,reviewed,frappe
+Last Point Allocation Date,Datum toewijzingsdatum,reviewed,frappe
+Last Purchase Price,Laatste aankoopprijs,reviewed,erpnext
+Last Purchase Rate,Laatste inkooptarief,reviewed,erpnext
+Last Quarter,Het laatste kwartier,reviewed,frappe
+Last refreshed,Laatst vernieuwd,reviewed,frappe
+Last Sales Invoice,Laatste verkoopfactuur,reviewed,erpnext
+Last Stock Transaction for item {0} under warehouse {1} was on {2}.,Laatste voorraadtransactie voor artikel {0} onder magazijn {1} was op {2}.,reviewed,erpnext
+Last Synced On,Laatst gesynchroniseerd,reviewed,frappe
+Last synced {0},Laatst gesynchroniseerd {0},reviewed,frappe
+Last Update,Laatste update,reviewed,frappe
+Last Updated By,Laatst bijgewerkt door,reviewed,frappe
+Last Updated On,Laatst aangepast op,reviewed,frappe
+Last User,Laatste gebruiker,reviewed,frappe
+Last Week,Vorige week,reviewed,frappe
+Last Year,Vorig jaar,reviewed,frappe
+Late Checkin,Late check-in,reviewed,erpnext
+Latest,laatst,reviewed,erpnext
+Latest Age,Laatste leeftijd,reviewed,erpnext
+Latest Attempt,Laatste poging,reviewed,erpnext
+Latest Highest Score,Nieuwste hoogste score,reviewed,erpnext
+Latest price updated in all BOMs,Laatste prijs bijgewerkt in alle BOM&#39;s,reviewed,erpnext
+Latitude,Breedtegraad,reviewed,erpnext
+LDAP First Name Field,LDAP Voornaam Field,reviewed,frappe
+LDAP Group,LDAP-groep,reviewed,frappe
+LDAP Group Field,LDAP-groepsveld,reviewed,frappe
+LDAP Group Mapping,LDAP-groepstoewijzing,reviewed,frappe
+LDAP Group Mappings,LDAP-groepstoewijzingen,reviewed,frappe
+LDAP is not enabled.,LDAP is niet ingeschakeld.,reviewed,frappe
+LDAP Last Name Field,LDAP-achternaamveld,reviewed,frappe
+LDAP Middle Name Field,Veld LDAP-middelste naam,reviewed,frappe
+LDAP Mobile Field,LDAP mobiel veld,reviewed,frappe
+LDAP Not Installed,LDAP niet geïnstalleerd,reviewed,frappe
+LDAP Phone Field,LDAP-telefoonveld,reviewed,frappe
+"LDAP Search String needs to end with a placeholder, eg sAMAccountName={0}","LDAP-zoekreeks moet eindigen met een tijdelijke aanduiding, bijvoorbeeld sAMAccountName = {0}",reviewed,frappe
+LDAP Security,LDAP-beveiliging,reviewed,frappe
+LDAP Server Url,LDAP-server Url,reviewed,frappe
+LDAP Settings,LDAP-instellingen,reviewed,frappe
+Ldap settings,Ldap-instellingen,reviewed,frappe
+LDAP User Creation and Mapping,Maken en toewijzen van LDAP-gebruikers,reviewed,frappe
+LDAP Username Field,LDAP Gebruikersnaam Field,reviewed,frappe
+Lead,Lood,reviewed,erpnext
+Lead Count,Loodtelling,reviewed,erpnext
+Lead is an Organization,Lead is een organisatie,reviewed,erpnext
+Lead Name,Lead Naam,reviewed,erpnext
+Lead Owner,Lead Eigenaar,reviewed,erpnext
+Lead Owner cannot be same as the Lead,Lead eigenaar kan niet hetzelfde zijn als de lead zijn,reviewed,erpnext
+Lead Owner Efficiency,Leideneigenaar Efficiency,reviewed,erpnext
+Lead Source,Lead Bron,reviewed,erpnext
+Lead Time,Doorlooptijd,reviewed,erpnext
+Lead Time (Days),Doorlooptijd (dagen),reviewed,erpnext
+Lead Time (in mins),Doorlooptijd (in minuten),reviewed,erpnext
+Lead Time Date,Lead Tijd Datum,reviewed,erpnext
+Lead Time Days,Lead Time Dagen,reviewed,erpnext
+Lead Time in days,Levertijd in dagen,reviewed,erpnext
+Lead to Quotation,Leiden tot Offerte,reviewed,erpnext
+Leaderboard,Scorebord,reviewed,frappe
+"Leads help you get business, add all your contacts and more as your leads","Leads u helpen om zaken, voeg al uw contacten en nog veel meer als uw leads",reviewed,erpnext
+leaf,blad,reviewed,frappe
+Learn,Leren,reviewed,erpnext
+Learning Management System Settings,Instellingen leerbeheersysteem,reviewed,erpnext
+Learning Management System Title,Titel Learning Management System,reviewed,erpnext
+Leave a Comment,Laat een reactie achter,reviewed,frappe
 Leave Adjustment,Verlofcorrectie,reviewed,custom
-Leave and Attendance,Verlaat en Aanwezigheid,unreviewed,erpnext
-Leave application {0} already exists against the student {1},Laat toepassing {0} al bestaan tegen de student {1},unreviewed,erpnext
-Leave Approver,Verlof goedkeurder,unreviewed,erpnext
-"Leave blank for home.\nThis is relative to site URL, for example ""about"" will redirect to ""https://yoursitename.com/about""","Laat leeg voor thuis. Dit is relatief ten opzichte van de site-URL, bijvoorbeeld &quot;about&quot; zal omleiden naar &quot;https://yoursitename.com/about&quot;",unreviewed,erpnext
-Leave blank if the Supplier is blocked indefinitely,Laat dit leeg als de leverancier voor onbepaalde tijd is geblokkeerd,unreviewed,erpnext
-Leave blank if you make students groups per year,Verlaat leeg als u studentengroepen per jaar maakt,unreviewed,erpnext
-Leave blank to repeat always,Laat leeg om altijd te herhalen,unreviewed,frappe
-Leave blank to use the standard Delivery Note format,Laat dit leeg om de standaardindeling Notities te gebruiken,unreviewed,erpnext
+Leave and Attendance,Verlaat en Aanwezigheid,reviewed,erpnext
+Leave application {0} already exists against the student {1},Laat toepassing {0} al bestaan tegen de student {1},reviewed,erpnext
+Leave Approver,Verlof goedkeurder,reviewed,erpnext
+"Leave blank for home.\nThis is relative to site URL, for example ""about"" will redirect to ""https://yoursitename.com/about""","Laat leeg voor thuis. Dit is relatief ten opzichte van de site-URL, bijvoorbeeld &quot;about&quot; zal omleiden naar &quot;https://yoursitename.com/about&quot;",reviewed,erpnext
+Leave blank if the Supplier is blocked indefinitely,Laat dit leeg als de leverancier voor onbepaalde tijd is geblokkeerd,reviewed,erpnext
+Leave blank if you make students groups per year,Verlaat leeg als u studentengroepen per jaar maakt,reviewed,erpnext
+Leave blank to repeat always,Laat leeg om altijd te herhalen,reviewed,frappe
+Leave blank to use the standard Delivery Note format,Laat dit leeg om de standaardindeling Notities te gebruiken,reviewed,erpnext
 Leave Block List,Verlofblokkering,reviewed,erpnext
-Leave Encashed?,Verlof verzilverd?,unreviewed,erpnext
+Leave Encashed?,Verlof verzilverd?,reviewed,erpnext
 Leave Encashment,Verlofuitbetaling,reviewed,custom
 Leave Ledger Entry,Verlofgrootboekregel,reviewed,custom
-Leave Management,Laat management,unreviewed,erpnext
+Leave Management,Laat management,reviewed,erpnext
 Leave Policy Assignment,Verlofbeleid toewijzing,reviewed,custom
-Leave Reason,Verlaat de Rede,unreviewed,erpnext
-Leave Settings,Laat instellingen staan,unreviewed,erpnext
-Leave this conversation,Laat dit gesprek,unreviewed,frappe
-Leave unchecked if you don't want to consider batch while making course based groups.,Verlaat het vinkje als u geen batch wilt overwegen tijdens het maken van cursussen op basis van cursussen.,unreviewed,erpnext
-Leaves Expired,Bladeren verlopen,unreviewed,erpnext
-Leaves has been granted sucessfully,Bladeren zijn met succes uitgevoerd,unreviewed,erpnext
-Leaves must be allocated in multiples of 0.5,"Verloven moeten in veelvouden van 0,5 worden toegewezen",unreviewed,erpnext
-Leaves Taken,Bladeren genomen,unreviewed,erpnext
-Ledger,Grootboek,unreviewed,erpnext
+Leave Reason,Verlaat de Rede,reviewed,erpnext
+Leave Settings,Laat instellingen staan,reviewed,erpnext
+Leave this conversation,Laat dit gesprek,reviewed,frappe
+Leave unchecked if you don't want to consider batch while making course based groups.,Verlaat het vinkje als u geen batch wilt overwegen tijdens het maken van cursussen op basis van cursussen.,reviewed,erpnext
+Leaves Expired,Bladeren verlopen,reviewed,erpnext
+Leaves has been granted sucessfully,Bladeren zijn met succes uitgevoerd,reviewed,erpnext
+Leaves must be allocated in multiples of 0.5,"Verloven moeten in veelvouden van 0,5 worden toegewezen",reviewed,erpnext
+Leaves Taken,Bladeren genomen,reviewed,erpnext
+Ledger,Grootboek,reviewed,erpnext
 Ledger Merge,Grootboek samenvoegen,reviewed,custom
-Left,Links,unreviewed,both
-Left Index,Linker index,unreviewed,erpnext
-Left this conversation,Links dit gesprek,unreviewed,frappe
-Legal,wettelijk,unreviewed,erpnext
-Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization.,Rechtspersoon / Dochteronderneming met een aparte Rekeningschema behoren tot de Organisatie.,unreviewed,erpnext
-Legal Expenses,Juridische Kosten,unreviewed,erpnext
-Length,Lengte,unreviewed,frappe
-Length Must be less than 280.,Lengte moet kleiner zijn dan 280.,unreviewed,erpnext
-Length of {0} should be between 1 and 1000,Lengte van {0} moet tussen 1 en 1000,unreviewed,frappe
-Less,Minder,unreviewed,frappe
+Left,Links,reviewed,both
+Left Index,Linker index,reviewed,erpnext
+Left this conversation,Links dit gesprek,reviewed,frappe
+Legal,wettelijk,reviewed,erpnext
+Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization.,Rechtspersoon / Dochteronderneming met een aparte Rekeningschema behoren tot de Organisatie.,reviewed,erpnext
+Legal Expenses,Juridische Kosten,reviewed,erpnext
+Length,Lengte,reviewed,frappe
+Length Must be less than 280.,Lengte moet kleiner zijn dan 280.,reviewed,erpnext
+Length of {0} should be between 1 and 1000,Lengte van {0} moet tussen 1 en 1000,reviewed,frappe
+Less,Minder,reviewed,frappe
 Less than a year,Minder dan een jaar,unreviewed,erpnext
 Less Than Amount,Minder dan bedrag,unreviewed,erpnext
 Let's avoid repeated words and characters,Laten we voorkomen dat herhaalde woorden en tekens,unreviewed,frappe

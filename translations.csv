@@ -6512,204 +6512,204 @@ Not in stock,Niet op voorraad,reviewed,erpnext
 Not Like,Niet zoals,reviewed,frappe
 Not Linked to any record,Niet gekoppeld aan een record,reviewed,frappe
 Not Marked,ongemerkt,reviewed,erpnext
-Not Paid and Not Delivered,Niet betaald en niet geleverd,unreviewed,erpnext
-Not Permitted,Niet toegestaan,unreviewed,both
+Not Paid and Not Delivered,Niet betaald en niet geleverd,reviewed,erpnext
+Not Permitted,Niet toegestaan,reviewed,both
 Not permitted,Geen toestemming,reviewed,both
-Not permitted for {0},Niet toegestaan voor {0},unreviewed,erpnext
-Not permitted to view {0},Het is niet toegestaan om {0} te bekijken,unreviewed,frappe
-"Not permitted, configure Lab Test Template as required","Niet toegestaan, configureer Lab-testsjabloon zoals vereist",unreviewed,erpnext
-Not permitted. Please disable the Lab Test Template,Niet toegestaan. Schakel de Lab Test Template uit,unreviewed,erpnext
-Not permitted. Please disable the Service Unit Type,Niet toegestaan. Schakel het type service-eenheid uit,unreviewed,erpnext
-Not Published,Niet gepubliceerd,unreviewed,frappe
-Not Saved,Niet opgeslagen,unreviewed,frappe
-Not Seen,Niet Gezien,unreviewed,frappe
-Not Sent,Niet verzonden,unreviewed,frappe
-Not Set,niet ingesteld,unreviewed,frappe
-Not Specified,Niet gespecificeerd,unreviewed,erpnext
-Not Started,Niet gestart,unreviewed,erpnext
-Not Therapies Prescribed,Niet voorgeschreven therapieën,unreviewed,erpnext
-Note,Opmerking,unreviewed,both
-Note Seen By,Opmerking gezien door,unreviewed,frappe
-Note:,Notitie:,unreviewed,both
-Note: By default emails for failed backups are sent.,Opmerking: standaard worden e-mails voor mislukte back-ups verzonden.,unreviewed,frappe
-Note: Changing the Page Name will break previous URL to this page.,Opmerking: de paginanaam verandert zal de vorige URL naar deze pagina breken.,unreviewed,frappe
-Note: Due / Reference Date exceeds allowed customer credit days by {0} day(s),Opmerking: Vanwege / Reference Data overschrijdt toegestaan klantenkrediet dagen door {0} dag (en),unreviewed,erpnext
-Note: Email will not be sent to disabled users,Opmerking: E-mail wordt niet verzonden naar uitgeschakelde gebruikers,unreviewed,erpnext
-"Note: For best results,  images must be of the same size and width must be greater than height.",Opmerking: voor de beste resultaten moeten afbeeldingen van dezelfde grootte en breedte groter zijn dan hoogte.,unreviewed,frappe
-Note: Item {0} added multiple times,Opmerking: item {0} meerdere keren toegevoegd,unreviewed,erpnext
-Note: Item {0} entered multiple times,Opmerking : Artikel {0} meerdere keren ingevoerd,unreviewed,erpnext
-Note: Multiple sessions will be allowed in case of mobile device,Opmerking: meerdere sessies zullen in het geval van mobiele apparatuur worden toegestaan,unreviewed,frappe
-Note: Payment Entry will not be created since 'Cash or Bank Account' was not specified,"Opmerking: De betaling wordt niet aangemaakt, aangezien de 'Kas- of Bankrekening' niet gespecificeerd is.",unreviewed,erpnext
-Note: System will not check over-delivery and over-booking for Item {0} as quantity or amount is 0,Opmerking : Het systeem controleert niet over- levering en overboeking voor post {0} als hoeveelheid of bedrag 0,unreviewed,erpnext
-Note: There is not enough leave balance for Leave Type {0},Opmerking: Er is niet genoeg verlofsaldo voor Verlof type {0},unreviewed,erpnext
-Note: This Cost Center is a Group. Cannot make accounting entries against groups.,Opmerking: Deze kostenplaats is een groep. Kan geen boekingen aanmaken voor groepen.,unreviewed,erpnext
-Note: {0},Opmerking : {0},unreviewed,erpnext
+Not permitted for {0},Niet toegestaan voor {0},reviewed,erpnext
+Not permitted to view {0},Het is niet toegestaan om {0} te bekijken,reviewed,frappe
+"Not permitted, configure Lab Test Template as required","Niet toegestaan, configureer Lab-testsjabloon zoals vereist",reviewed,erpnext
+Not permitted. Please disable the Lab Test Template,Niet toegestaan. Schakel de Lab Test Template uit,reviewed,erpnext
+Not permitted. Please disable the Service Unit Type,Niet toegestaan. Schakel het type service-eenheid uit,reviewed,erpnext
+Not Published,Niet gepubliceerd,reviewed,frappe
+Not Saved,Niet opgeslagen,reviewed,frappe
+Not Seen,Niet Gezien,reviewed,frappe
+Not Sent,Niet verzonden,reviewed,frappe
+Not Set,niet ingesteld,reviewed,frappe
+Not Specified,Niet gespecificeerd,reviewed,erpnext
+Not Started,Niet gestart,reviewed,erpnext
+Not Therapies Prescribed,Niet voorgeschreven therapieën,reviewed,erpnext
+Note,Opmerking,reviewed,both
+Note Seen By,Opmerking gezien door,reviewed,frappe
+Note:,Notitie:,reviewed,both
+Note: By default emails for failed backups are sent.,Opmerking: standaard worden e-mails voor mislukte back-ups verzonden.,reviewed,frappe
+Note: Changing the Page Name will break previous URL to this page.,Opmerking: de paginanaam verandert zal de vorige URL naar deze pagina breken.,reviewed,frappe
+Note: Due / Reference Date exceeds allowed customer credit days by {0} day(s),Opmerking: Vanwege / Reference Data overschrijdt toegestaan klantenkrediet dagen door {0} dag (en),reviewed,erpnext
+Note: Email will not be sent to disabled users,Opmerking: E-mail wordt niet verzonden naar uitgeschakelde gebruikers,reviewed,erpnext
+"Note: For best results,  images must be of the same size and width must be greater than height.",Opmerking: voor de beste resultaten moeten afbeeldingen van dezelfde grootte en breedte groter zijn dan hoogte.,reviewed,frappe
+Note: Item {0} added multiple times,Opmerking: item {0} meerdere keren toegevoegd,reviewed,erpnext
+Note: Item {0} entered multiple times,Opmerking : Artikel {0} meerdere keren ingevoerd,reviewed,erpnext
+Note: Multiple sessions will be allowed in case of mobile device,Opmerking: meerdere sessies zullen in het geval van mobiele apparatuur worden toegestaan,reviewed,frappe
+Note: Payment Entry will not be created since 'Cash or Bank Account' was not specified,"Opmerking: De betaling wordt niet aangemaakt, aangezien de 'Kas- of Bankrekening' niet gespecificeerd is.",reviewed,erpnext
+Note: System will not check over-delivery and over-booking for Item {0} as quantity or amount is 0,Opmerking : Het systeem controleert niet over- levering en overboeking voor post {0} als hoeveelheid of bedrag 0,reviewed,erpnext
+Note: There is not enough leave balance for Leave Type {0},Opmerking: Er is niet genoeg verlofsaldo voor Verlof type {0},reviewed,erpnext
+Note: This Cost Center is a Group. Cannot make accounting entries against groups.,Opmerking: Deze kostenplaats is een groep. Kan geen boekingen aanmaken voor groepen.,reviewed,erpnext
+Note: {0},Opmerking : {0},reviewed,erpnext
 Notes,Notities,reviewed,erpnext
-Notes:,Opmerkingen:,unreviewed,both
-Nothing is included in gross,Niets is bruto inbegrepen,unreviewed,erpnext
-Nothing more to show.,Niets meer te zien.,unreviewed,erpnext
-Nothing to show,Niets te tonen,unreviewed,frappe
-Nothing to update,Niets om bij te werken,unreviewed,frappe
-Notice (days),Kennisgeving ( dagen ),unreviewed,erpnext
-Notification,Kennisgeving,unreviewed,frappe
-Notification Log,Meldingslogboek,unreviewed,frappe
-Notification Recipient,Melding Ontvanger,unreviewed,frappe
-Notification Settings,Notificatie instellingen,unreviewed,frappe
-Notification Subscribed Document,Kennisgeving onderschreven document,unreviewed,frappe
-Notification Tones,Meldtonen,unreviewed,frappe
-Notifications,meldingen,unreviewed,frappe
-Notifications and bulk mails will be sent from this outgoing server.,Kennisgevingen en bulk mails worden verstuurd vanaf deze server voor uitgaande mail.,unreviewed,frappe
-Notifications Disabled,Meldingen uitgeschakeld,unreviewed,frappe
-Notify by Email,Melden per e-mail,unreviewed,frappe
-Notify by email,Notificeren per e-mail,unreviewed,frappe
-Notify by Email on Creation of Automatic Material Request,Stel per e-mail op de hoogte bij het aanmaken van een automatisch materiaalverzoek,unreviewed,erpnext
-Notify customer and agent via email on the day of the appointment.,Informeer de klant en de agent via e-mail op de dag van de afspraak.,unreviewed,erpnext
-Notify Customers via Email,Breng klanten op de hoogte via e-mail,unreviewed,erpnext
-Notify Employee,Meld de medewerker in kennis,unreviewed,erpnext
-Notify if unreplied,Houd indien Onbeantwoorde,unreviewed,frappe
-Notify if unreplied for (in mins),Houd indien Onbeantwoorde voor (in minuten),unreviewed,frappe
-Notify Other,Meld andere aan,unreviewed,erpnext
-Notify Supplier,Meld Leverancier in,unreviewed,erpnext
-Notify Users On Every Login,Gebruikers in kennis stellen op elke login,unreviewed,frappe
-Notify users with a popup when they log in,Houd gebruikers met een pop-up wanneer deze zich aanmeldt,unreviewed,frappe
-Notify Via Email,Melden via e-mail,unreviewed,erpnext
-November,november,unreviewed,erpnext
-Now,Nu,unreviewed,frappe
-now,nu,unreviewed,frappe
-Number,Aantal,unreviewed,both
-Number Card,Nummerkaart,unreviewed,frappe
-Number Card Link,Nummer Card Link,unreviewed,frappe
-Number Cards,Cijferkaarten,unreviewed,frappe
-Number Format,Getalnotatie,unreviewed,frappe
-Number of Backups,Aantal Backups,unreviewed,frappe
-Number of Columns,Aantal columns,unreviewed,erpnext
-Number of columns for a field in a Grid (Total Columns in a grid should be less than 11),Aantal kolommen voor een veld in een raster (Total kolommen in een raster moet minder dan 11 zijn),unreviewed,frappe
-Number of columns for a field in a List View or a Grid (Total Columns should be less than 11),Aantal kolommen voor een veld in een lijstweergave of een Grid (Totaal Columns moet minder dan 11),unreviewed,frappe
-Number of columns for this section. 3 cards will be shown per row if you select 3 columns.,Aantal kolommen voor deze sectie. Er worden 3 kaarten per rij getoond als u 3 kolommen selecteert.,unreviewed,erpnext
-Number of Concurrent Appointments,Aantal gelijktijdige afspraken,unreviewed,erpnext
-Number of days after invoice date has elapsed before canceling subscription or marking subscription as unpaid,Het aantal dagen na de factuurdatum is verstreken voordat het abonnements- of markeringsabonnement als onbetaald werd geannuleerd,unreviewed,erpnext
-Number of days appointments can be booked in advance,Aantal dagen dat afspraken vooraf kunnen worden geboekt,unreviewed,erpnext
-Number of days that the subscriber has to pay invoices generated by this subscription,Aantal dagen dat de abonnee de facturen moet betalen die door dit abonnement worden gegenereerd,unreviewed,erpnext
-Number of DB Backups,Aantal DB-back-ups,unreviewed,frappe
-Number of DB backups cannot be less than 1,Het aantal DB-back-ups mag niet minder zijn dan 1,unreviewed,frappe
-Number of Depreciations Booked,Aantal Afschrijvingen Geboekt,unreviewed,erpnext
-Number of Depreciations Booked cannot be greater than Total Number of Depreciations,Aantal afschrijvingen geboekt kan niet groter zijn dan het totale aantal van de afschrijvingen zijn,unreviewed,erpnext
-Number of Groups,Aantal groepen,unreviewed,frappe
-Number of Interaction,Aantal interacties,unreviewed,erpnext
-"Number of intervals for the interval field e.g if Interval is 'Days' and Billing Interval Count is 3, invoices will be generated every 3 days","Aantal intervallen voor het intervalveld, bijv. Als het interval &#39;Dagen&#39; is en het factuurinterval is 3, worden er om de 3 dagen facturen gegenereerd",unreviewed,erpnext
-"Number of new Account, it will be included in the account name as a prefix","Nummer van nieuwe account, deze zal als een prefix in de accountnaam worden opgenomen",unreviewed,erpnext
-"Number of new Cost Center, it will be included in the cost center name as a prefix","Aantal nieuwe kostenplaatsen, dit wordt als voorvoegsel opgenomen in de naam van de kostenplaats",unreviewed,erpnext
-Number of Order,Aantal Bestel,unreviewed,erpnext
-Number of Patient Encounters in Valid Days,Aantal ontmoetingen met patiënten in geldige dagen,unreviewed,erpnext
-Number of prints required for labelling the samples,Aantal afdrukken vereist voor het labelen van de monsters,unreviewed,erpnext
-Number of root accounts cannot be less than 4,Aantal root-accounts mag niet minder zijn dan 4,unreviewed,erpnext
-Numeric Values,Numerieke waarden,unreviewed,erpnext
-Numero has not set in the XML file,Numero is niet ingesteld in het XML-bestand,unreviewed,erpnext
-Nursing User,Verpleegkundige gebruiker,unreviewed,erpnext
-Nutrition Values,Voedingswaarden,unreviewed,erpnext
-O Negative,O Negatief,unreviewed,erpnext
-O Positive,O Positief,unreviewed,erpnext
-O+,O +,unreviewed,erpnext
-OAuth Client ID,OAuth-client-ID,unreviewed,frappe
-OAuth Credentials,OAuth-inloggegevens,unreviewed,erpnext
-OAuth Provider Settings,OAuth Provider Instellingen,unreviewed,frappe
-Objective,Doelstelling,unreviewed,erpnext
-Objectives,Doelen,unreviewed,erpnext
-Occupancy Status,Bezettingsstatus,unreviewed,erpnext
-Occupation,Bezetting,unreviewed,erpnext
-Occupational Hazards and Environmental Factors,Beroepsgevaren en milieufactoren,unreviewed,erpnext
-Occupied,Bezet,unreviewed,erpnext
-October,oktober,unreviewed,erpnext
-Odometer,Kilometerteller,unreviewed,erpnext
-Odometer Value (Last),Kilometerstand (Laatste),unreviewed,erpnext
-of,van,unreviewed,frappe
-Off,Uit,unreviewed,frappe
-off,uit,unreviewed,frappe
-Offer Date,Aanbieding datum,unreviewed,erpnext
+Notes:,Opmerkingen:,reviewed,both
+Nothing is included in gross,Niets is bruto inbegrepen,reviewed,erpnext
+Nothing more to show.,Niets meer te zien.,reviewed,erpnext
+Nothing to show,Niets te tonen,reviewed,frappe
+Nothing to update,Niets om bij te werken,reviewed,frappe
+Notice (days),Kennisgeving ( dagen ),reviewed,erpnext
+Notification,Kennisgeving,reviewed,frappe
+Notification Log,Meldingslogboek,reviewed,frappe
+Notification Recipient,Meldingsontvanger,reviewed,frappe
+Notification Settings,Meldingsinstellingen,reviewed,frappe
+Notification Subscribed Document,Geabonneerd meldingsdocument,reviewed,frappe
+Notification Tones,Meldtonen,reviewed,frappe
+Notifications,Meldingen,reviewed,frappe
+Notifications and bulk mails will be sent from this outgoing server.,Kennisgevingen en bulk mails worden verstuurd vanaf deze server voor uitgaande mail.,reviewed,frappe
+Notifications Disabled,Meldingen uitgeschakeld,reviewed,frappe
+Notify by Email,Melden per e-mail,reviewed,frappe
+Notify by email,Notificeren per e-mail,reviewed,frappe
+Notify by Email on Creation of Automatic Material Request,Stel per e-mail op de hoogte bij het aanmaken van een automatisch materiaalverzoek,reviewed,erpnext
+Notify customer and agent via email on the day of the appointment.,Informeer de klant en de agent via e-mail op de dag van de afspraak.,reviewed,erpnext
+Notify Customers via Email,Breng klanten op de hoogte via e-mail,reviewed,erpnext
+Notify Employee,Meld de medewerker in kennis,reviewed,erpnext
+Notify if unreplied,Melden bij geen reactie,reviewed,frappe
+Notify if unreplied for (in mins),Melden bij geen reactie na (in minuten),reviewed,frappe
+Notify Other,Andere partij melden,reviewed,erpnext
+Notify Supplier,Leverancier melden,reviewed,erpnext
+Notify Users On Every Login,Gebruikers in kennis stellen op elke login,reviewed,frappe
+Notify users with a popup when they log in,Gebruikers een pop-up tonen bij inloggen,reviewed,frappe
+Notify Via Email,Melden via e-mail,reviewed,erpnext
+November,november,reviewed,erpnext
+Now,Nu,reviewed,frappe
+now,nu,reviewed,frappe
+Number,Aantal,reviewed,both
+Number Card,Nummerkaart,reviewed,frappe
+Number Card Link,Cijferkaartlink,reviewed,frappe
+Number Cards,Cijferkaarten,reviewed,frappe
+Number Format,Getalnotatie,reviewed,frappe
+Number of Backups,Aantal back-ups,reviewed,frappe
+Number of Columns,Aantal kolommen,reviewed,erpnext
+Number of columns for a field in a Grid (Total Columns in a grid should be less than 11),Aantal kolommen voor een veld in een raster (Total kolommen in een raster moet minder dan 11 zijn),reviewed,frappe
+Number of columns for a field in a List View or a Grid (Total Columns should be less than 11),Aantal kolommen voor een veld in een lijstweergave of een Grid (Totaal Columns moet minder dan 11),reviewed,frappe
+Number of columns for this section. 3 cards will be shown per row if you select 3 columns.,Aantal kolommen voor deze sectie. Er worden 3 kaarten per rij getoond als u 3 kolommen selecteert.,reviewed,erpnext
+Number of Concurrent Appointments,Aantal gelijktijdige afspraken,reviewed,erpnext
+Number of days after invoice date has elapsed before canceling subscription or marking subscription as unpaid,Het aantal dagen na de factuurdatum is verstreken voordat het abonnements- of markeringsabonnement als onbetaald werd geannuleerd,reviewed,erpnext
+Number of days appointments can be booked in advance,Aantal dagen dat afspraken vooraf kunnen worden geboekt,reviewed,erpnext
+Number of days that the subscriber has to pay invoices generated by this subscription,Aantal dagen dat de abonnee de facturen moet betalen die door dit abonnement worden gegenereerd,reviewed,erpnext
+Number of DB Backups,Aantal DB-back-ups,reviewed,frappe
+Number of DB backups cannot be less than 1,Het aantal DB-back-ups mag niet minder zijn dan 1,reviewed,frappe
+Number of Depreciations Booked,Aantal geboekte afschrijvingen,reviewed,erpnext
+Number of Depreciations Booked cannot be greater than Total Number of Depreciations,Aantal afschrijvingen geboekt kan niet groter zijn dan het totale aantal van de afschrijvingen zijn,reviewed,erpnext
+Number of Groups,Aantal groepen,reviewed,frappe
+Number of Interaction,Aantal interacties,reviewed,erpnext
+"Number of intervals for the interval field e.g if Interval is 'Days' and Billing Interval Count is 3, invoices will be generated every 3 days","Aantal intervallen voor het intervalveld, bijv. Als het interval &#39;Dagen&#39; is en het factuurinterval is 3, worden er om de 3 dagen facturen gegenereerd",reviewed,erpnext
+"Number of new Account, it will be included in the account name as a prefix","Nummer van nieuwe account, deze zal als een prefix in de accountnaam worden opgenomen",reviewed,erpnext
+"Number of new Cost Center, it will be included in the cost center name as a prefix","Aantal nieuwe kostenplaatsen, dit wordt als voorvoegsel opgenomen in de naam van de kostenplaats",reviewed,erpnext
+Number of Order,Aantal orders,reviewed,erpnext
+Number of Patient Encounters in Valid Days,Aantal ontmoetingen met patiënten in geldige dagen,reviewed,erpnext
+Number of prints required for labelling the samples,Aantal afdrukken vereist voor het labelen van de monsters,reviewed,erpnext
+Number of root accounts cannot be less than 4,Aantal root-accounts mag niet minder zijn dan 4,reviewed,erpnext
+Numeric Values,Numerieke waarden,reviewed,erpnext
+Numero has not set in the XML file,Numero is niet ingesteld in het XML-bestand,reviewed,erpnext
+Nursing User,Verpleegkundige gebruiker,reviewed,erpnext
+Nutrition Values,Voedingswaarden,reviewed,erpnext
+O Negative,O Negatief,reviewed,erpnext
+O Positive,O Positief,reviewed,erpnext
+O+,O +,reviewed,erpnext
+OAuth Client ID,OAuth-client-ID,reviewed,frappe
+OAuth Credentials,OAuth-inloggegevens,reviewed,erpnext
+OAuth Provider Settings,OAuth Provider Instellingen,reviewed,frappe
+Objective,Doelstelling,reviewed,erpnext
+Objectives,Doelen,reviewed,erpnext
+Occupancy Status,Bezettingsstatus,reviewed,erpnext
+Occupation,Bezetting,reviewed,erpnext
+Occupational Hazards and Environmental Factors,Beroepsgevaren en milieufactoren,reviewed,erpnext
+Occupied,Bezet,reviewed,erpnext
+October,oktober,reviewed,erpnext
+Odometer,Kilometerteller,reviewed,erpnext
+Odometer Value (Last),Kilometerstand (Laatste),reviewed,erpnext
+of,van,reviewed,frappe
+Off,Uit,reviewed,frappe
+off,uit,reviewed,frappe
+Offer Date,Aanbieding datum,reviewed,erpnext
 Offer Term,Arbeidsvoorwaarde,reviewed,custom
-Office,Kantoor,unreviewed,frappe
-Office Equipments,Kantoor Apparatuur,unreviewed,erpnext
-Office Maintenance Expenses,Gebouwen Onderhoudskosten,unreviewed,erpnext
-Office Rent,Kantoorhuur,unreviewed,erpnext
-Offline,offline,unreviewed,frappe
-Offline POS Name,Offline POS Naam,unreviewed,erpnext
-ok,OK,unreviewed,frappe
-ok-circle,ok-cirkel,unreviewed,frappe
-ok-sign,ok-teken,unreviewed,frappe
-Old Parent,Oude Parent,unreviewed,erpnext
-Old Password,Oud Wachtwoord,unreviewed,frappe
-Old Password Required.,Oud wachtwoord verplicht.,unreviewed,frappe
-Older backups will be automatically deleted,Oudere backups worden automatisch verwijderd,unreviewed,frappe
-on,op,unreviewed,erpnext
-On Converting Opportunity,Over het converteren van kansen,unreviewed,erpnext
+Office,Kantoor,reviewed,frappe
+Office Equipments,Kantoor Apparatuur,reviewed,erpnext
+Office Maintenance Expenses,Gebouwen Onderhoudskosten,reviewed,erpnext
+Office Rent,Kantoorhuur,reviewed,erpnext
+Offline,offline,reviewed,frappe
+Offline POS Name,Offline POS Naam,reviewed,erpnext
+ok,OK,reviewed,frappe
+ok-circle,ok-cirkel,reviewed,frappe
+ok-sign,ok-teken,reviewed,frappe
+Old Parent,Oude Parent,reviewed,erpnext
+Old Password,Oud Wachtwoord,reviewed,frappe
+Old Password Required.,Oud wachtwoord verplicht.,reviewed,frappe
+Older backups will be automatically deleted,Oudere backups worden automatisch verwijderd,reviewed,frappe
+on,op,reviewed,erpnext
+On Converting Opportunity,Over het converteren van kansen,reviewed,erpnext
 On Hold,In de wacht,reviewed,erpnext
-On Hold Since,In de wacht sinds,unreviewed,erpnext
-On Item Quantity,Op artikelhoeveelheid,unreviewed,erpnext
-On Net Total,Op Netto Totaal,unreviewed,erpnext
-On Previous Row Amount,Aantal van vorige rij,unreviewed,erpnext
-On Previous Row Total,Aantal van volgende rij,unreviewed,erpnext
-On Purchase Order Submission,Bij het indienen van een inkooporder,unreviewed,erpnext
-On Sales Order Submission,Bij het verzenden van klantorders,unreviewed,erpnext
-On Task Completion,Bij voltooiing van de taak,unreviewed,erpnext
-On {0} Creation,Bij {0} Creatie,unreviewed,erpnext
-"On {0}, {1} wrote:","Op {0}, {1} schreef:",unreviewed,frappe
-On-machine press checks,Perscontroles op de machine,unreviewed,erpnext
-Onboarding Complete,Onboarding voltooid,unreviewed,frappe
-Onboarding Permission,Toestemming voor onboarding,unreviewed,frappe
-Onboarding Step,Onboarding-stap,unreviewed,frappe
-"Once set, this invoice will be on hold till the set date","Eenmaal ingesteld, wordt deze factuur in de wacht gezet tot de ingestelde datum",unreviewed,erpnext
-"Once submitted, submittable documents cannot be changed. They can only be Cancelled and Amended.",Na indiening kunnen de in te dienen documenten niet meer worden gewijzigd. Ze kunnen alleen worden geannuleerd en gewijzigd.,unreviewed,frappe
-"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).","Zodra je dit hebt ingesteld, hebben de gebruikers uitsluitend toegang tot documenten ( bijv. blog post ) waarvan de link bestaat ( bijv. Blogger ) .",unreviewed,frappe
-One customer can be part of only single Loyalty Program.,Eén klant kan deel uitmaken van één loyaliteitsprogramma.,unreviewed,erpnext
-One of,Een van de,unreviewed,frappe
-one of,een van de,unreviewed,frappe
-One Sided,Eenzijdig,unreviewed,erpnext
-One Time Password (OTP) Registration Code from {},Registratiecode van één keer wachtwoord (OTP) van {},unreviewed,frappe
-Ongoing,Voortgaande,unreviewed,erpnext
-Ongoing Job Cards,Doorlopende opdrachtkaarten,unreviewed,erpnext
-Online Auctions,Online veilingen,unreviewed,erpnext
-Only .csv and .xlsx files are supported currently,Alleen .csv- en .xlsx-bestanden worden momenteel ondersteund,unreviewed,erpnext
-Only 200 inserts allowed in one request,Slechts 200 inserts toegestaan in één verzoek,unreviewed,frappe
-Only Administrator can delete Email Queue,Alleen beheerder kan e-mail wachtrij verwijderen,unreviewed,frappe
-Only Administrator can edit,Alleen Administrator kunt bewerken,unreviewed,frappe
-Only Administrator can save a standard report. Please rename and save.,Alleen Beheerder kan een standaard rapport opslaan. Wijzig de naam en sla op.,unreviewed,frappe
-Only Administrator is allowed to use Recorder,Alleen de beheerder mag de recorder gebruiken,unreviewed,frappe
-Only Allow Edit For,Sta alleen Bewerken toe voor,unreviewed,frappe
-Only leaf nodes are allowed in transaction,Alleen leaf nodes zijn toegestaan in transactie,unreviewed,erpnext
-Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish.,Enige verplichte velden zijn nodig voor nieuwe records. U kunt niet-verplichte kolommen te verwijderen indien u dat wenst.,unreviewed,frappe
-Only one {0} can be set as primary.,Er kan slechts één {0} worden ingesteld als primair.,unreviewed,frappe
-Only Options allowed for Data field are:,Alleen de opties die zijn toegestaan voor het gegevensveld zijn:,unreviewed,frappe
-Only select this if you have set up the Cash Flow Mapper documents,Selecteer dit alleen als u de Cash Flow Mapper-documenten heeft ingesteld,unreviewed,erpnext
-Only Send Records Updated in Last X Hours,Verzend alleen Records bijgewerkt in de laatste X uur,unreviewed,frappe
-Only show Customer of these Customer Groups,Toon alleen de klant van deze klantengroepen,unreviewed,erpnext
-Only show Items from these Item Groups,Toon alleen artikelen uit deze artikelgroepen,unreviewed,erpnext
-Only standard DocTypes are allowed to be customized from Customize Form.,Alleen standaard DocTypes mogen worden aangepast vanuit het formulier Aanpassen.,unreviewed,frappe
-"Only the Student Applicant with the status ""Approved"" will be selected in the table below.",Alleen de studentaanvrager met de status &quot;Goedgekeurd&quot; wordt geselecteerd in de onderstaande tabel.,unreviewed,erpnext
-Only users involved in the document are listed,"Alleen gebruikers die bij het document betrokken zijn, worden vermeld",unreviewed,frappe
-Only users with {0} role can register on Marketplace,Alleen gebruikers met een {0} rol kunnen zich registreren op Marketplace,unreviewed,erpnext
-Only {0} emailed reports are allowed per user,Alleen {0} gemaild rapporten zijn toegestaan per gebruiker,unreviewed,frappe
-Only {0} in Stock for item {1},Slechts {0} op voorraad voor artikel {1},unreviewed,erpnext
-only.,alleen.,unreviewed,frappe
-Oops,Oeps,unreviewed,frappe
-Oops! Something went wrong,Oeps! Er ging iets mis!,unreviewed,frappe
-"Oops, you are not allowed to know that","Oeps, je bent niet toegestaan om te weten dat",unreviewed,frappe
-Open a dialog with mandatory fields to create a new record quickly,Open een dialoogvenster met verplichte velden om snel een nieuw record te maken,unreviewed,frappe
-Open a module or tool,Open een module of gereedschap,unreviewed,frappe
-Open a new ticket,Open een nieuw ticket,unreviewed,erpnext
-Open Chat,Chat openen,unreviewed,frappe
-Open Contact,Contact openen,unreviewed,erpnext
-Open Document,Open document,unreviewed,frappe
-Open Documents,Open documenten,unreviewed,frappe
-Open Form View,Open formulierweergave,unreviewed,erpnext
-Open Issues,Open problemen,unreviewed,erpnext
-Open list item,Lijstitem openen,unreviewed,frappe
-Open Notifications,Open meldingen,unreviewed,erpnext
-Open Orders,Openstaande bestellingen,unreviewed,erpnext
-Open Projects,Open projecten,unreviewed,erpnext
-Open Quotations,Open offertes,unreviewed,erpnext
-Open Reference Document,Open referentiedocument,unreviewed,frappe
-Open Settings,Open instellingen,unreviewed,frappe
-Open Source Applications for the Web,Open Source applicaties voor het web,unreviewed,frappe
+On Hold Since,In de wacht sinds,reviewed,erpnext
+On Item Quantity,Op artikelhoeveelheid,reviewed,erpnext
+On Net Total,Op Netto Totaal,reviewed,erpnext
+On Previous Row Amount,Aantal van vorige rij,reviewed,erpnext
+On Previous Row Total,Aantal van volgende rij,reviewed,erpnext
+On Purchase Order Submission,Bij het indienen van een inkooporder,reviewed,erpnext
+On Sales Order Submission,Bij het verzenden van klantorders,reviewed,erpnext
+On Task Completion,Bij voltooiing van de taak,reviewed,erpnext
+On {0} Creation,Bij {0} Creatie,reviewed,erpnext
+"On {0}, {1} wrote:","Op {0}, {1} schreef:",reviewed,frappe
+On-machine press checks,Perscontroles op de machine,reviewed,erpnext
+Onboarding Complete,Onboarding voltooid,reviewed,frappe
+Onboarding Permission,Toestemming voor onboarding,reviewed,frappe
+Onboarding Step,Onboarding-stap,reviewed,frappe
+"Once set, this invoice will be on hold till the set date","Eenmaal ingesteld, wordt deze factuur in de wacht gezet tot de ingestelde datum",reviewed,erpnext
+"Once submitted, submittable documents cannot be changed. They can only be Cancelled and Amended.",Na indiening kunnen de in te dienen documenten niet meer worden gewijzigd. Ze kunnen alleen worden geannuleerd en gewijzigd.,reviewed,frappe
+"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).","Zodra je dit hebt ingesteld, hebben de gebruikers uitsluitend toegang tot documenten ( bijv. blog post ) waarvan de link bestaat ( bijv. Blogger ) .",reviewed,frappe
+One customer can be part of only single Loyalty Program.,Eén klant kan deel uitmaken van één loyaliteitsprogramma.,reviewed,erpnext
+One of,Een van de,reviewed,frappe
+one of,een van de,reviewed,frappe
+One Sided,Eenzijdig,reviewed,erpnext
+One Time Password (OTP) Registration Code from {},Registratiecode van één keer wachtwoord (OTP) van {},reviewed,frappe
+Ongoing,Voortgaande,reviewed,erpnext
+Ongoing Job Cards,Doorlopende opdrachtkaarten,reviewed,erpnext
+Online Auctions,Online veilingen,reviewed,erpnext
+Only .csv and .xlsx files are supported currently,Alleen .csv- en .xlsx-bestanden worden momenteel ondersteund,reviewed,erpnext
+Only 200 inserts allowed in one request,Slechts 200 inserts toegestaan in één verzoek,reviewed,frappe
+Only Administrator can delete Email Queue,Alleen beheerder kan e-mail wachtrij verwijderen,reviewed,frappe
+Only Administrator can edit,Alleen Administrator kunt bewerken,reviewed,frappe
+Only Administrator can save a standard report. Please rename and save.,Alleen Beheerder kan een standaard rapport opslaan. Wijzig de naam en sla op.,reviewed,frappe
+Only Administrator is allowed to use Recorder,Alleen de beheerder mag de recorder gebruiken,reviewed,frappe
+Only Allow Edit For,Sta alleen Bewerken toe voor,reviewed,frappe
+Only leaf nodes are allowed in transaction,Alleen leaf nodes zijn toegestaan in transactie,reviewed,erpnext
+Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish.,Enige verplichte velden zijn nodig voor nieuwe records. U kunt niet-verplichte kolommen te verwijderen indien u dat wenst.,reviewed,frappe
+Only one {0} can be set as primary.,Er kan slechts één {0} worden ingesteld als primair.,reviewed,frappe
+Only Options allowed for Data field are:,Alleen de opties die zijn toegestaan voor het gegevensveld zijn:,reviewed,frappe
+Only select this if you have set up the Cash Flow Mapper documents,Selecteer dit alleen als u de Cash Flow Mapper-documenten heeft ingesteld,reviewed,erpnext
+Only Send Records Updated in Last X Hours,Verzend alleen Records bijgewerkt in de laatste X uur,reviewed,frappe
+Only show Customer of these Customer Groups,Toon alleen de klant van deze klantengroepen,reviewed,erpnext
+Only show Items from these Item Groups,Toon alleen artikelen uit deze artikelgroepen,reviewed,erpnext
+Only standard DocTypes are allowed to be customized from Customize Form.,Alleen standaard DocTypes mogen worden aangepast vanuit het formulier Aanpassen.,reviewed,frappe
+"Only the Student Applicant with the status ""Approved"" will be selected in the table below.",Alleen de studentaanvrager met de status &quot;Goedgekeurd&quot; wordt geselecteerd in de onderstaande tabel.,reviewed,erpnext
+Only users involved in the document are listed,"Alleen gebruikers die bij het document betrokken zijn, worden vermeld",reviewed,frappe
+Only users with {0} role can register on Marketplace,Alleen gebruikers met een {0} rol kunnen zich registreren op Marketplace,reviewed,erpnext
+Only {0} emailed reports are allowed per user,Alleen {0} gemaild rapporten zijn toegestaan per gebruiker,reviewed,frappe
+Only {0} in Stock for item {1},Slechts {0} op voorraad voor artikel {1},reviewed,erpnext
+only.,alleen.,reviewed,frappe
+Oops,Oeps,reviewed,frappe
+Oops! Something went wrong,Oeps! Er ging iets mis!,reviewed,frappe
+"Oops, you are not allowed to know that","Oeps, je bent niet toegestaan om te weten dat",reviewed,frappe
+Open a dialog with mandatory fields to create a new record quickly,Open een dialoogvenster met verplichte velden om snel een nieuw record te maken,reviewed,frappe
+Open a module or tool,Open een module of gereedschap,reviewed,frappe
+Open a new ticket,Open een nieuw ticket,reviewed,erpnext
+Open Chat,Chat openen,reviewed,frappe
+Open Contact,Contact openen,reviewed,erpnext
+Open Document,Open document,reviewed,frappe
+Open Documents,Open documenten,reviewed,frappe
+Open Form View,Open formulierweergave,reviewed,erpnext
+Open Issues,Open problemen,reviewed,erpnext
+Open list item,Lijstitem openen,reviewed,frappe
+Open Notifications,Open meldingen,reviewed,erpnext
+Open Orders,Openstaande bestellingen,reviewed,erpnext
+Open Projects,Open projecten,reviewed,erpnext
+Open Quotations,Open offertes,reviewed,erpnext
+Open Reference Document,Open referentiedocument,reviewed,frappe
+Open Settings,Open instellingen,reviewed,frappe
+Open Source Applications for the Web,Open Source applicaties voor het web,reviewed,frappe
 Open To Do,Open om te doen,unreviewed,erpnext
 Open Translation,Open vertaling,unreviewed,frappe
 Open URL in a New Tab,Open URL in een nieuw tabblad,unreviewed,frappe

@@ -7131,209 +7131,209 @@ Percent,Percentage,reviewed,frappe
 Percent Complete,Percentage compleet,reviewed,frappe
 Percentage Allocation,Percentage Toewijzing,reviewed,erpnext
 Percentage Allocation should be equal to 100%,Percentage toewijzing moet gelijk zijn aan 100%,reviewed,erpnext
-Percentage you are allowed to transfer more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to transfer 110 units.,"Percentage dat u meer mag overbrengen tegen de bestelde hoeveelheid. Bijvoorbeeld: als u 100 eenheden heeft besteld. en uw toelage is 10%, dan mag u 110 eenheden overdragen.",unreviewed,erpnext
-Perception Analysis,Perceptie Analyse,unreviewed,erpnext
-Perennial,eeuwigdurend,unreviewed,erpnext
-Performance,Prestatie,unreviewed,erpnext
-performing either one below:,uitvoeren van een van de onderstaande:,unreviewed,erpnext
-Period,periode,unreviewed,both
-Period Based On,Periode gebaseerd op,unreviewed,erpnext
-Period based On,Periode gebaseerd op,unreviewed,erpnext
-Period Closing Entry,Periode sluitpost,unreviewed,erpnext
-Period Closing Voucher,Periode Closing Voucher,unreviewed,erpnext
-Period End Date,Periode Einddatum,unreviewed,erpnext
-Period Name,Periode Naam,unreviewed,erpnext
-Period Score,Periode Score,unreviewed,erpnext
-Period Settings,Periode instellingen,unreviewed,erpnext
-Period Start Date,Begindatum van de periode,unreviewed,erpnext
-Periodicity,periodiciteit,unreviewed,erpnext
-Permanent,blijvend,unreviewed,frappe
-Permanent Address,Vast Adres,unreviewed,erpnext
-Permanent Address Is,Vast Adres is,unreviewed,erpnext
-Permanently Cancel {0}?,Definitief {0} annuleren?,unreviewed,frappe
+Percentage you are allowed to transfer more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to transfer 110 units.,"Percentage dat u meer mag overbrengen tegen de bestelde hoeveelheid. Bijvoorbeeld: als u 100 eenheden heeft besteld. en uw toelage is 10%, dan mag u 110 eenheden overdragen.",reviewed,erpnext
+Perception Analysis,Perceptie Analyse,reviewed,erpnext
+Perennial,eeuwigdurend,reviewed,erpnext
+Performance,Prestatie,reviewed,erpnext
+performing either one below:,uitvoeren van een van de onderstaande:,reviewed,erpnext
+Period,periode,reviewed,both
+Period Based On,Periode gebaseerd op,reviewed,erpnext
+Period based On,Periode gebaseerd op,reviewed,erpnext
+Period Closing Entry,Periodeafsluitingsboeking,reviewed,erpnext
+Period Closing Voucher,Periodeafsluitingsboekstuk,reviewed,erpnext
+Period End Date,Einddatum periode,reviewed,erpnext
+Period Name,Periodenaam,reviewed,erpnext
+Period Score,Periodescore,reviewed,erpnext
+Period Settings,Periode-instellingen,reviewed,erpnext
+Period Start Date,Begindatum van de periode,reviewed,erpnext
+Periodicity,periodiciteit,reviewed,erpnext
+Permanent,blijvend,reviewed,frappe
+Permanent Address,Vast Adres,reviewed,erpnext
+Permanent Address Is,Vast Adres is,reviewed,erpnext
+Permanently Cancel {0}?,Definitief {0} annuleren?,reviewed,frappe
 Permanently delete,Definitief verwijderen,reviewed,custom
-Permanently delete {0}?,Definitief {0} verwijderen?,unreviewed,frappe
-Permanently Submit {0}?,Definitief {0} invoeren?,unreviewed,frappe
-Permission Error,Toelatingsfout,unreviewed,frappe
-Permission Level,Machtigingsniveau,unreviewed,frappe
-Permission Levels,Machtigingsniveaus,unreviewed,frappe
+Permanently delete {0}?,Definitief {0} verwijderen?,reviewed,frappe
+Permanently Submit {0}?,Definitief {0} invoeren?,reviewed,frappe
+Permission Error,Machtigingsfout,reviewed,frappe
+Permission Level,Machtigingsniveau,reviewed,frappe
+Permission Levels,Machtigingsniveaus,reviewed,frappe
 Permission Log,Rechtenlog,reviewed,custom
-Permission Rules,Machtigingsregels,unreviewed,frappe
-Permissions,Machtigingen,unreviewed,frappe
-Permissions are automatically applied to Standard Reports and searches.,Machtigingen worden automatisch toegepast op standaardrapporten en zoekopdrachten.,unreviewed,frappe
-"Permissions are set on Roles and Document Types (called DocTypes) by setting rights like Read, Write, Create, Delete, Submit, Cancel, Amend, Report, Import, Export, Print, Email and Set User Permissions.","Machtigingen zijn ingesteld op Rollen en documenttypen (de zogenaamde DocTypes ) door het instellen van rechten zoals Lezen , schrijven , maken, verwijderen , indienen, annuleren , wijzigen , rapporteren , importeren, exporteren, afdrukken , e-mailen en instellen machtigingen.",unreviewed,frappe
-Permissions at higher levels are Field Level permissions. All Fields have a Permission Level set against them and the rules defined at that permissions apply to the field. This is useful in case you want to hide or make certain field read-only for certain Roles.,Machtigingen op hogere niveaus zijn veldniveau permissies. Alle velden hebben een Machtigingsniveau set tegen hen en de prioriteiten die op die rechten van toepassing zijn op het veld regels. Dit is handig voor het geval je wilt verbergen of bepaalde gebied alleen-lezen voor bepaalde rollen.,unreviewed,frappe
-"Permissions at level 0 are Document Level permissions, i.e. they are primary for access to the document.","Machtigingen op niveau 0 zijn Document Level permissies, dwz ze zijn primair voor toegang tot het document.",unreviewed,frappe
-Permissions get applied on Users based on what Roles they are assigned.,"Machtigingen worden toegepast op Gebruikers, gebaseerd op de toegewezen rollen.",unreviewed,frappe
-Permitted Documents For User,Toegestane documenten voor Gebruiker,unreviewed,frappe
-Perpetual inventory required for the company {0} to view this report.,Eeuwigdurende inventaris vereist voor het bedrijf {0} om dit rapport te bekijken.,unreviewed,erpnext
-Person Name,Persoon Naam,unreviewed,erpnext
-Person Responsible,Verantwoordelijke persoon,unreviewed,erpnext
-Person URN,Persoon URN,unreviewed,erpnext
-Personal,Persoonlijk,unreviewed,both
-Personal and Social History,Persoonlijke en sociale geschiedenis,unreviewed,erpnext
-Personal Bio,Persoonlijke Bio,unreviewed,erpnext
+Permission Rules,Machtigingsregels,reviewed,frappe
+Permissions,Machtigingen,reviewed,frappe
+Permissions are automatically applied to Standard Reports and searches.,Machtigingen worden automatisch toegepast op standaardrapporten en zoekopdrachten.,reviewed,frappe
+"Permissions are set on Roles and Document Types (called DocTypes) by setting rights like Read, Write, Create, Delete, Submit, Cancel, Amend, Report, Import, Export, Print, Email and Set User Permissions.","Machtigingen zijn ingesteld op Rollen en documenttypen (de zogenaamde DocTypes ) door het instellen van rechten zoals Lezen , schrijven , maken, verwijderen , indienen, annuleren , wijzigen , rapporteren , importeren, exporteren, afdrukken , e-mailen en instellen machtigingen.",reviewed,frappe
+Permissions at higher levels are Field Level permissions. All Fields have a Permission Level set against them and the rules defined at that permissions apply to the field. This is useful in case you want to hide or make certain field read-only for certain Roles.,Machtigingen op hogere niveaus zijn veldniveau permissies. Alle velden hebben een Machtigingsniveau set tegen hen en de prioriteiten die op die rechten van toepassing zijn op het veld regels. Dit is handig voor het geval je wilt verbergen of bepaalde gebied alleen-lezen voor bepaalde rollen.,reviewed,frappe
+"Permissions at level 0 are Document Level permissions, i.e. they are primary for access to the document.","Machtigingen op niveau 0 zijn Document Level permissies, dwz ze zijn primair voor toegang tot het document.",reviewed,frappe
+Permissions get applied on Users based on what Roles they are assigned.,"Machtigingen worden toegepast op Gebruikers, gebaseerd op de toegewezen rollen.",reviewed,frappe
+Permitted Documents For User,Toegestane documenten voor Gebruiker,reviewed,frappe
+Perpetual inventory required for the company {0} to view this report.,Permanente voorraad vereist voor bedrijf {0} om dit rapport te bekijken.,reviewed,erpnext
+Person Name,Persoonsnaam,reviewed,erpnext
+Person Responsible,Verantwoordelijke persoon,reviewed,erpnext
+Person URN,Persoon URN,reviewed,erpnext
+Personal,Persoonlijk,reviewed,both
+Personal and Social History,Persoonlijke en sociale geschiedenis,reviewed,erpnext
+Personal Bio,Persoonlijke Bio,reviewed,erpnext
 Personal Data Deletion Request,Verzoek persoonsgegevens verwijderen,reviewed,frappe
 Personal Data Download Request,Verzoek persoonsgegevens downloaden,reviewed,frappe
-Personal Details,Persoonlijke gegevens,unreviewed,erpnext
-Personal Email,Persoonlijke e-mail,unreviewed,erpnext
-Petrol,Benzine,unreviewed,erpnext
-Pharmaceutical,farmaceutisch,unreviewed,erpnext
-Pharmaceuticals,Farmacie,unreviewed,erpnext
-Phone,Telefoon,unreviewed,both
-Phone (Office),Telefoon (kantoor),unreviewed,erpnext
-Phone (R),Telefoon (R),unreviewed,erpnext
-Phone No,Telefoonnummer,unreviewed,erpnext
-Phone No.,Telefoonnummer,unreviewed,frappe
+Personal Details,Persoonlijke gegevens,reviewed,erpnext
+Personal Email,Persoonlijke e-mail,reviewed,erpnext
+Petrol,Benzine,reviewed,erpnext
+Pharmaceutical,farmaceutisch,reviewed,erpnext
+Pharmaceuticals,Farmacie,reviewed,erpnext
+Phone,Telefoon,reviewed,both
+Phone (Office),Telefoon (kantoor),reviewed,erpnext
+Phone (R),Telefoon (R),reviewed,erpnext
+Phone No,Telefoonnummer,reviewed,erpnext
+Phone No.,Telefoonnummer,reviewed,frappe
 Phone Number,Telefoonnummer,reviewed,erpnext
-Physician,Arts,unreviewed,erpnext
-Pick Columns,Kies Kolommen,unreviewed,frappe
+Physician,Arts,reviewed,erpnext
+Pick Columns,Kies Kolommen,reviewed,frappe
 Pick List,Picklijst,reviewed,erpnext
-Pick List Item,Keuzelijstitem,unreviewed,erpnext
-Pick/Drop by Guardian,Pick / Drop door Guardian,unreviewed,erpnext
-Picked Qty,Gekozen aantal,unreviewed,erpnext
-picture,afbeelding,unreviewed,frappe
-Pie,Taart,unreviewed,frappe
-Pin Globally,Pin wereldwijd,unreviewed,frappe
-Pin To Bottom,Pin aan onderkant,unreviewed,frappe
-Pin To Top,Pin naar boven,unreviewed,frappe
-Place of Issue,Plaats van uitgifte,unreviewed,erpnext
-Place of Supply,Plaats van levering,unreviewed,erpnext
-Place Of Supply (State/UT),Plaats van levering (staat / UT),unreviewed,erpnext
-Place Order,Plaats bestelling,unreviewed,erpnext
-Places,plaatsen,unreviewed,frappe
-Plaid Access Token,Plaid-toegangstoken,unreviewed,erpnext
-Plaid authentication error,Plaid-authenticatiefout,unreviewed,erpnext
-Plaid Client ID,Plaid-klant-ID,unreviewed,erpnext
-Plaid Environment,Geruite omgeving,unreviewed,erpnext
-Plaid invalid request error,Fout met ongeldig verzoek geruit,unreviewed,erpnext
-Plaid Settings,Plaid-instellingen,unreviewed,erpnext
-Plaid transactions sync error,Synchronisatiefout voor transacties met plaid,unreviewed,erpnext
-Plan for maintenance visits.,Plan voor onderhoud bezoeken.,unreviewed,erpnext
-Plan material for sub-assemblies,Plan materiaal voor onderdelen,unreviewed,erpnext
-Plan Name,Plan naam,unreviewed,erpnext
-Plan operations X days in advance,Plan operaties X dagen van tevoren,unreviewed,erpnext
-Plan time logs outside Workstation working hours,Plan tijdregistraties buiten de werkuren van het werkstation,unreviewed,erpnext
-plane,vliegtuig,unreviewed,frappe
-Planned,Gepland,unreviewed,erpnext
-Planned End Date,Geplande Einddatum,unreviewed,erpnext
-Planned End Time,Geplande Eindtijd,unreviewed,erpnext
-Planned Operating Cost,Geplande bedrijfskosten,unreviewed,erpnext
+Pick List Item,Keuzelijstitem,reviewed,erpnext
+Pick/Drop by Guardian,Pick / Drop door Guardian,reviewed,erpnext
+Picked Qty,Gekozen aantal,reviewed,erpnext
+picture,afbeelding,reviewed,frappe
+Pie,Cirkeldiagram,reviewed,frappe
+Pin Globally,Pin wereldwijd,reviewed,frappe
+Pin To Bottom,Vastzetten onderaan,reviewed,frappe
+Pin To Top,Vastzetten bovenaan,reviewed,frappe
+Place of Issue,Plaats van uitgifte,reviewed,erpnext
+Place of Supply,Plaats van levering,reviewed,erpnext
+Place Of Supply (State/UT),Plaats van levering (staat / UT),reviewed,erpnext
+Place Order,Plaats bestelling,reviewed,erpnext
+Places,plaatsen,reviewed,frappe
+Plaid Access Token,Plaid-toegangstoken,reviewed,erpnext
+Plaid authentication error,Plaid-authenticatiefout,reviewed,erpnext
+Plaid Client ID,Plaid-klant-ID,reviewed,erpnext
+Plaid Environment,Plaid-omgeving,reviewed,erpnext
+Plaid invalid request error,Plaid-fout: ongeldig verzoek,reviewed,erpnext
+Plaid Settings,Plaid-instellingen,reviewed,erpnext
+Plaid transactions sync error,Plaid-synchronisatiefout voor transacties,reviewed,erpnext
+Plan for maintenance visits.,Plan voor onderhoud bezoeken.,reviewed,erpnext
+Plan material for sub-assemblies,Plan materiaal voor onderdelen,reviewed,erpnext
+Plan Name,Plannaam,reviewed,erpnext
+Plan operations X days in advance,Plan operaties X dagen van tevoren,reviewed,erpnext
+Plan time logs outside Workstation working hours,Plan tijdregistraties buiten de werkuren van het werkstation,reviewed,erpnext
+plane,vliegtuig,reviewed,frappe
+Planned,Gepland,reviewed,erpnext
+Planned End Date,Geplande einddatum,reviewed,erpnext
+Planned End Time,Geplande eindtijd,reviewed,erpnext
+Planned Operating Cost,Geplande bedrijfskosten,reviewed,erpnext
 Planned Qty,Geplande hoeveelheid,reviewed,erpnext
-"Planned Qty: Quantity, for which, Work Order has been raised, but is pending to be manufactured.","Gepland aantal: Hoeveelheid waarvoor werkorder is opgehaald, maar nog in productie is.",unreviewed,erpnext
-Planned Quantity,Gepland Aantal,unreviewed,erpnext
-Planned Start Date,Geplande Startdatum,unreviewed,erpnext
-Planned Start Time,Geplande Starttijd,unreviewed,erpnext
-Plans,Plannen,unreviewed,erpnext
-Plant,Fabriek,unreviewed,frappe
-Plant Analysis,Plantanalyse,unreviewed,erpnext
-Plant Analysis Criteria,Criteria voor plantanalyse,unreviewed,erpnext
-Plant Analysis Criterias,Plant Analysis Criteria,unreviewed,erpnext
+"Planned Qty: Quantity, for which, Work Order has been raised, but is pending to be manufactured.","Gepland aantal: Hoeveelheid waarvoor werkorder is opgehaald, maar nog in productie is.",reviewed,erpnext
+Planned Quantity,Geplande hoeveelheid,reviewed,erpnext
+Planned Start Date,Geplande startdatum,reviewed,erpnext
+Planned Start Time,Geplande starttijd,reviewed,erpnext
+Plans,Plannen,reviewed,erpnext
+Plant,Fabriek,reviewed,frappe
+Plant Analysis,Plantanalyse,reviewed,erpnext
+Plant Analysis Criteria,Criteria voor plantanalyse,reviewed,erpnext
+Plant Analysis Criterias,Plant Analysis Criteria,reviewed,erpnext
 Plant Floor,Werkvloer,reviewed,custom
-Planting Area,Plant gebied,unreviewed,erpnext
-Planting UOM,UOM planten,unreviewed,erpnext
-Plants and Machineries,Installaties en Machines,unreviewed,erpnext
-play,spelen,unreviewed,frappe
-play-circle,play-cirkel,unreviewed,frappe
-Please add a subject to your email,Voeg een onderwerp toe aan uw e-mail,unreviewed,frappe
-Please add a Temporary Opening account in Chart of Accounts,Voeg een tijdelijk openstaand account toe in het rekeningschema,unreviewed,erpnext
-Please add a valid comment.,Voeg een geldige opmerking toe.,unreviewed,frappe
-Please add Mode of payments and opening balance details.,Voeg betalingswijze en beginsaldodetails toe.,unreviewed,erpnext
-Please add programs to enable admission application.,Voeg programma&#39;s toe om toelatingsaanvraag mogelijk te maken.,unreviewed,erpnext
-Please add the account to root level Company -,Voeg het account toe aan hoofdniveau Bedrijf -,unreviewed,erpnext
-Please add the account to root level Company - {},Voeg het account toe aan Bedrijf op hoofdniveau - {},unreviewed,erpnext
-Please ask your administrator to verify your sign-up,Vraag uw beheerder om uw sign-up te controleren,unreviewed,frappe
-Please attach a file first.,Eerst een bestand toevoegen.,unreviewed,frappe
-Please attach an image file to set HTML,Voeg een afbeeldingsbestand toe om HTML in te stellen,unreviewed,frappe
-Please check Multi Currency option to allow accounts with other currency,Kijk Valuta optie om rekeningen met andere valuta toestaan,unreviewed,erpnext
-Please check the error log for details about the import errors,Controleer het foutenlogboek voor details over de importfouten,unreviewed,erpnext
-Please check the filter values set for Dashboard Chart: {},Controleer de filterwaarden die zijn ingesteld voor Dashboarddiagram: {},unreviewed,frappe
-"Please check the value of ""Fetch From"" set for field {0}",Controleer de waarde van &quot;Fetch From&quot; ingesteld voor veld {0},unreviewed,frappe
-Please check your configuration and try again,Controleer uw configuratie en probeer het opnieuw,unreviewed,erpnext
-Please check your email for verification,Controleer uw e-mail voor verificatie,unreviewed,frappe
-Please check your Plaid client ID and secret values,Controleer uw Plaid-klant-ID en geheime waarden,unreviewed,erpnext
-Please check your registered email address for instructions on how to proceed. Do not close this window as you will have to return to it.,"Controleer alstublieft uw geregistreerde e-mailadres voor instructies over hoe u doorgaat. Sluit dit venster niet aan, daar moet je terugkeren.",unreviewed,frappe
-Please click on 'Generate Schedule',Klik op 'Genereer Planning',unreviewed,erpnext
-Please click on 'Generate Schedule' to fetch Serial No added for Item {0},Klik op 'Genereer Planning' om serienummer op te halen voor Artikel {0},unreviewed,erpnext
-Please click on 'Generate Schedule' to get schedule,Klik op 'Genereer Planning' om planning te krijgen,unreviewed,erpnext
-Please click on the following button to set your new password,Klik op de volgende knop om uw nieuwe wachtwoord in te stellen,unreviewed,erpnext
-Please click on the following link to set your new password,Klik op de volgende link om je nieuwe wachtwoord in te stellen,unreviewed,frappe
-Please close this window,Sluit dit venster,unreviewed,frappe
-Please Configure Clinical Procedure Consumable Item in,Configureer de klinische procedure verbruiksartikel in,unreviewed,erpnext
-Please confirm your action to {0} this document.,Bevestig uw actie aan {0} dit document.,unreviewed,frappe
-Please convert the parent account in corresponding child company to a group account.,Converteer het bovenliggende account in het corresponderende onderliggende bedrijf naar een groepsaccount.,unreviewed,erpnext
-Please create <b>DATEV Settings</b> for Company <b>{}</b>.,Maak <b>DATEV-instellingen</b> voor bedrijf <b>{}</b> .,unreviewed,erpnext
-Please create adjustment Journal Entry for amount {0},Maak een aanpassing Journaalboeking voor bedrag {0},unreviewed,erpnext
-Please create Card first,Maak eerst een kaart aan,unreviewed,frappe
-Please create chart first,Maak eerst een grafiek,unreviewed,frappe
-Please create Customer from Lead {0}.,Maak een klant op basis van lead {0}.,unreviewed,erpnext
-Please create purchase receipt or purchase invoice for the item {0},Maak een aankoopbevestiging of een inkoopfactuur voor het artikel {0},unreviewed,erpnext
-Please define grade for Threshold 0%,Gelieve te definiëren cijfer voor drempel 0%,unreviewed,erpnext
-Please do not change the rows above {0},Pas aub de rijen boven {0} niet aan.,unreviewed,frappe
-Please do not change the template headings.,Gelieve niet de sjabloon rubrieken veranderen.,unreviewed,frappe
-Please do not create more than 500 items at a time,Maak niet meer dan 500 items tegelijk,unreviewed,erpnext
-Please duplicate this to make changes,Gelieve een tweede om wijzigingen aan te brengen,unreviewed,frappe
-Please Duplicate this Website Theme to customize.,Gelieve Dupliceer deze Website thema aan te passen.,unreviewed,frappe
-Please enable Allow Negative Stock in Stock Settings or create Stock Entry to proceed.,Schakel Negatieve voorraad toestaan in Voorraadinstellingen in of maak voorraadinvoer om door te gaan.,unreviewed,erpnext
-Please enable Applicable on Booking Actual Expenses,Activeer alstublieft bij het boeken van werkelijke kosten,unreviewed,erpnext
-Please enable Applicable on Purchase Order and Applicable on Booking Actual Expenses,Schakel dit van toepassing op inkooporder in en van toepassing op het boeken van werkelijke kosten,unreviewed,erpnext
-Please enable developer mode to create new connection,Activeer de ontwikkelaarsmodus om een nieuwe verbinding te maken,unreviewed,frappe
-Please enable pop-ups,Schakel aub pop - ups in,unreviewed,both
-Please enable pop-ups in your browser,Schakel pop-ups in uw browser in,unreviewed,frappe
-Please enable twilio settings before sending WhatsApp messages,Schakel de Twilio-instellingen in voordat u WhatsApp-berichten verzendt,unreviewed,frappe
-Please enable Twilio settings to send WhatsApp messages,Schakel de Twilio-instellingen in om WhatsApp-berichten te verzenden,unreviewed,frappe
-Please ensure that your profile has an email address,Zorg ervoor dat uw profiel heeft een e-mailadres,unreviewed,frappe
-Please ensure {} account is a Balance Sheet account.,Zorg ervoor dat de {} rekening een balansrekening is.,unreviewed,erpnext
-Please ensure {} account is a Balance Sheet account. You can change the parent account to a Balance Sheet account or select a different account.,Zorg ervoor dat de {} rekening een balansrekening is. U kunt de bovenliggende rekening wijzigen in een balansrekening of een andere rekening selecteren.,unreviewed,erpnext
-Please ensure {} account is a Payable account. Change the account type to Payable or select a different account.,Zorg ervoor dat {} rekening een te betalen rekening is. Wijzig het rekeningtype in Betaalbaar of selecteer een andere rekening.,unreviewed,erpnext
-Please ensure {} account is a Receivable account.,Zorg ervoor dat {} rekening een te ontvangen rekening is.,unreviewed,erpnext
+Planting Area,Plant gebied,reviewed,erpnext
+Planting UOM,UOM planten,reviewed,erpnext
+Plants and Machineries,Installaties en Machines,reviewed,erpnext
+play,spelen,reviewed,frappe
+play-circle,play-cirkel,reviewed,frappe
+Please add a subject to your email,Voeg een onderwerp toe aan uw e-mail,reviewed,frappe
+Please add a Temporary Opening account in Chart of Accounts,Voeg een tijdelijk openstaand account toe in het rekeningschema,reviewed,erpnext
+Please add a valid comment.,Voeg een geldige opmerking toe.,reviewed,frappe
+Please add Mode of payments and opening balance details.,Voeg betalingswijze en beginsaldodetails toe.,reviewed,erpnext
+Please add programs to enable admission application.,Voeg programma&#39;s toe om toelatingsaanvraag mogelijk te maken.,reviewed,erpnext
+Please add the account to root level Company -,Voeg het account toe aan hoofdniveau Bedrijf -,reviewed,erpnext
+Please add the account to root level Company - {},Voeg het account toe aan Bedrijf op hoofdniveau - {},reviewed,erpnext
+Please ask your administrator to verify your sign-up,Vraag uw beheerder om uw sign-up te controleren,reviewed,frappe
+Please attach a file first.,Eerst een bestand toevoegen.,reviewed,frappe
+Please attach an image file to set HTML,Voeg een afbeeldingsbestand toe om HTML in te stellen,reviewed,frappe
+Please check Multi Currency option to allow accounts with other currency,Kijk Valuta optie om rekeningen met andere valuta toestaan,reviewed,erpnext
+Please check the error log for details about the import errors,Controleer het foutenlogboek voor details over de importfouten,reviewed,erpnext
+Please check the filter values set for Dashboard Chart: {},Controleer de filterwaarden die zijn ingesteld voor Dashboarddiagram: {},reviewed,frappe
+"Please check the value of ""Fetch From"" set for field {0}",Controleer de waarde van &quot;Fetch From&quot; ingesteld voor veld {0},reviewed,frappe
+Please check your configuration and try again,Controleer uw configuratie en probeer het opnieuw,reviewed,erpnext
+Please check your email for verification,Controleer uw e-mail voor verificatie,reviewed,frappe
+Please check your Plaid client ID and secret values,Controleer uw Plaid-klant-ID en geheime waarden,reviewed,erpnext
+Please check your registered email address for instructions on how to proceed. Do not close this window as you will have to return to it.,"Controleer alstublieft uw geregistreerde e-mailadres voor instructies over hoe u doorgaat. Sluit dit venster niet aan, daar moet je terugkeren.",reviewed,frappe
+Please click on 'Generate Schedule',Klik op 'Genereer Planning',reviewed,erpnext
+Please click on 'Generate Schedule' to fetch Serial No added for Item {0},Klik op 'Genereer Planning' om serienummer op te halen voor Artikel {0},reviewed,erpnext
+Please click on 'Generate Schedule' to get schedule,Klik op 'Genereer Planning' om planning te krijgen,reviewed,erpnext
+Please click on the following button to set your new password,Klik op de volgende knop om uw nieuwe wachtwoord in te stellen,reviewed,erpnext
+Please click on the following link to set your new password,Klik op de volgende link om je nieuwe wachtwoord in te stellen,reviewed,frappe
+Please close this window,Sluit dit venster,reviewed,frappe
+Please Configure Clinical Procedure Consumable Item in,Configureer de klinische procedure verbruiksartikel in,reviewed,erpnext
+Please confirm your action to {0} this document.,Bevestig uw actie aan {0} dit document.,reviewed,frappe
+Please convert the parent account in corresponding child company to a group account.,Converteer het bovenliggende account in het corresponderende onderliggende bedrijf naar een groepsaccount.,reviewed,erpnext
+Please create <b>DATEV Settings</b> for Company <b>{}</b>.,Maak <b>DATEV-instellingen</b> voor bedrijf <b>{}</b> .,reviewed,erpnext
+Please create adjustment Journal Entry for amount {0},Maak een aanpassing Journaalboeking voor bedrag {0},reviewed,erpnext
+Please create Card first,Maak eerst een kaart aan,reviewed,frappe
+Please create chart first,Maak eerst een grafiek,reviewed,frappe
+Please create Customer from Lead {0}.,Maak een klant op basis van lead {0}.,reviewed,erpnext
+Please create purchase receipt or purchase invoice for the item {0},Maak een aankoopbevestiging of een inkoopfactuur voor het artikel {0},reviewed,erpnext
+Please define grade for Threshold 0%,Gelieve te definiëren cijfer voor drempel 0%,reviewed,erpnext
+Please do not change the rows above {0},Pas aub de rijen boven {0} niet aan.,reviewed,frappe
+Please do not change the template headings.,Gelieve niet de sjabloon rubrieken veranderen.,reviewed,frappe
+Please do not create more than 500 items at a time,Maak niet meer dan 500 items tegelijk,reviewed,erpnext
+Please duplicate this to make changes,Gelieve een tweede om wijzigingen aan te brengen,reviewed,frappe
+Please Duplicate this Website Theme to customize.,Gelieve Dupliceer deze Website thema aan te passen.,reviewed,frappe
+Please enable Allow Negative Stock in Stock Settings or create Stock Entry to proceed.,Schakel Negatieve voorraad toestaan in Voorraadinstellingen in of maak voorraadinvoer om door te gaan.,reviewed,erpnext
+Please enable Applicable on Booking Actual Expenses,Activeer alstublieft bij het boeken van werkelijke kosten,reviewed,erpnext
+Please enable Applicable on Purchase Order and Applicable on Booking Actual Expenses,Schakel dit van toepassing op inkooporder in en van toepassing op het boeken van werkelijke kosten,reviewed,erpnext
+Please enable developer mode to create new connection,Activeer de ontwikkelaarsmodus om een nieuwe verbinding te maken,reviewed,frappe
+Please enable pop-ups,Schakel aub pop - ups in,reviewed,both
+Please enable pop-ups in your browser,Schakel pop-ups in uw browser in,reviewed,frappe
+Please enable twilio settings before sending WhatsApp messages,Schakel de Twilio-instellingen in voordat u WhatsApp-berichten verzendt,reviewed,frappe
+Please enable Twilio settings to send WhatsApp messages,Schakel de Twilio-instellingen in om WhatsApp-berichten te verzenden,reviewed,frappe
+Please ensure that your profile has an email address,Zorg ervoor dat uw profiel heeft een e-mailadres,reviewed,frappe
+Please ensure {} account is a Balance Sheet account.,Zorg ervoor dat de {} rekening een balansrekening is.,reviewed,erpnext
+Please ensure {} account is a Balance Sheet account. You can change the parent account to a Balance Sheet account or select a different account.,Zorg ervoor dat de {} rekening een balansrekening is. U kunt de bovenliggende rekening wijzigen in een balansrekening of een andere rekening selecteren.,reviewed,erpnext
+Please ensure {} account is a Payable account. Change the account type to Payable or select a different account.,Zorg ervoor dat {} rekening een te betalen rekening is. Wijzig het rekeningtype in Betaalbaar of selecteer een andere rekening.,reviewed,erpnext
+Please ensure {} account is a Receivable account.,Zorg ervoor dat {} rekening een te ontvangen rekening is.,reviewed,erpnext
 Please enter,Voer in a.u.b.,reviewed,custom
-Please enter 'Is Subcontracted' as Yes or No,Vul 'Is Uitbesteed' in als Ja of Nee,unreviewed,erpnext
-Please enter <b>Difference Account</b> or set default <b>Stock Adjustment Account</b> for company {0},Voer een <b>verschilaccount in</b> of stel de standaard <b>voorraadaanpassingsaccount in</b> voor bedrijf {0},unreviewed,erpnext
-Please enter a coupon code,Voer een couponcode in,unreviewed,erpnext
-Please enter a valid coupon code,Voer een geldige couponcode in,unreviewed,erpnext
-Please enter Access Token URL,Voer de Access Token-URL in,unreviewed,frappe
-Please enter Account for Change Amount,Vul Account for Change Bedrag,unreviewed,erpnext
-Please enter API Consumer Key,Voer de API-consumentcode in,unreviewed,erpnext
-Please enter API Consumer Secret,Voer alstublieft API-gebruikersgeheim in,unreviewed,erpnext
-Please enter Approving Role or Approving User,Vul de Goedkeurders Rol of Goedkeurende Gebruiker in,unreviewed,erpnext
-Please enter atleast 1 invoice in the table,Vul tenminste 1 factuur in in de tabel,unreviewed,erpnext
-Please enter Authorize URL,Voer alstublieft URL autoriseren in,unreviewed,frappe
-Please enter Base URL,Voer de basis-URL in,unreviewed,frappe
-Please enter Client ID before social login is enabled,Voer een client-ID in voordat sociale aanmelding is ingeschakeld,unreviewed,frappe
-Please enter Client Secret before social login is enabled,Voer Client Secret in voordat sociale aanmelding is ingeschakeld,unreviewed,frappe
-Please enter company first,Vul aub eerst bedrijf in,unreviewed,erpnext
-Please enter company name first,Vul aub eerst de naam van het bedrijf in,unreviewed,erpnext
-Please enter Cost Center,Vul kostenplaats in,unreviewed,erpnext
-Please enter default currency in Company Master,Vul de standaard valuta in in Bedrijfsstam,unreviewed,erpnext
-Please enter Delivery Date,Vul de Leveringsdatum in,unreviewed,erpnext
-Please enter distributed cost center,Voer de gedistribueerde kostenplaats in,unreviewed,erpnext
-Please enter Employee Id of this sales person,Vul Employee Id van deze verkoper,unreviewed,erpnext
-Please enter Expense Account,Vul Kostenrekening in,unreviewed,erpnext
-Please enter From Date and To Date to generate JSON,Voer de From Date en To Date in om JSON te genereren,unreviewed,erpnext
-Please enter GSTIN and state for the Company Address {0},Voer GSTIN in en vermeld het bedrijfsadres {0},unreviewed,erpnext
-Please enter Item Code to get batch no,Vul de artikelcode  in om batchnummer op te halen,unreviewed,erpnext
-Please enter Item Code to get Batch Number,Vul de artikelcode voor Batch Number krijgen,unreviewed,erpnext
-Please enter Item Code to get item taxes,Voer artikelcode in om artikelbelastingen te ontvangen,unreviewed,erpnext
-Please enter Item first,Vul eerst artikel in,unreviewed,erpnext
-Please enter Maintaince Details first,Vul eerst Onderhoudsdetails in,unreviewed,erpnext
-Please enter message before sending,Vul bericht in alvorens te verzenden,unreviewed,erpnext
-Please enter parent cost center,Vul bovenliggende kostenplaats in,unreviewed,erpnext
-Please enter Planned Qty for Item {0} at row {1},Vul Gepland Aantal in voor artikel {0} op rij {1},unreviewed,erpnext
-Please enter Preferred Contact Email,Vul Preferred Contact E-mail,unreviewed,erpnext
-Please enter Production Item first,Vul eerst Productie Artikel in,unreviewed,erpnext
-Please enter Purchase Receipt first,Vul Kwitantie eerste,unreviewed,erpnext
-Please enter quantity for Item {0},Vul het aantal in voor artikel {0},unreviewed,erpnext
-Please enter Receipt Document,Vul Ontvangst Document,unreviewed,erpnext
-Please enter Redirect URL,Voer de omleidings-URL in,unreviewed,frappe
-Please enter Reference date,Vul Peildatum in,unreviewed,erpnext
-Please enter relieving date.,Vul het verlichten datum .,unreviewed,erpnext
-Please enter Reqd by Date,Voer Reqd in op datum,unreviewed,erpnext
-Please enter serial numbers for serialized item {0},Voer serienummers in voor artikelen met serienummer {0},unreviewed,erpnext
-Please enter the company name to confirm,Voer de bedrijfsnaam in om te bevestigen,unreviewed,erpnext
-Please enter the password,Voer het wachtwoord in,unreviewed,frappe
-Please enter the phone number first,Voer eerst het telefoonnummer in,unreviewed,erpnext
-Please enter valid email address,Vul alstublieft een geldig e-mailadres in,unreviewed,erpnext
+Please enter 'Is Subcontracted' as Yes or No,Vul 'Is Uitbesteed' in als Ja of Nee,reviewed,erpnext
+Please enter <b>Difference Account</b> or set default <b>Stock Adjustment Account</b> for company {0},Voer een <b>verschilaccount in</b> of stel de standaard <b>voorraadaanpassingsaccount in</b> voor bedrijf {0},reviewed,erpnext
+Please enter a coupon code,Voer een couponcode in,reviewed,erpnext
+Please enter a valid coupon code,Voer een geldige couponcode in,reviewed,erpnext
+Please enter Access Token URL,Voer de Access Token-URL in,reviewed,frappe
+Please enter Account for Change Amount,Vul Account for Change Bedrag,reviewed,erpnext
+Please enter API Consumer Key,Voer de API-consumentcode in,reviewed,erpnext
+Please enter API Consumer Secret,Voer alstublieft API-gebruikersgeheim in,reviewed,erpnext
+Please enter Approving Role or Approving User,Vul de Goedkeurders Rol of Goedkeurende Gebruiker in,reviewed,erpnext
+Please enter atleast 1 invoice in the table,Vul tenminste 1 factuur in in de tabel,reviewed,erpnext
+Please enter Authorize URL,Voer alstublieft URL autoriseren in,reviewed,frappe
+Please enter Base URL,Voer de basis-URL in,reviewed,frappe
+Please enter Client ID before social login is enabled,Voer een client-ID in voordat sociale aanmelding is ingeschakeld,reviewed,frappe
+Please enter Client Secret before social login is enabled,Voer Client Secret in voordat sociale aanmelding is ingeschakeld,reviewed,frappe
+Please enter company first,Vul aub eerst bedrijf in,reviewed,erpnext
+Please enter company name first,Vul aub eerst de naam van het bedrijf in,reviewed,erpnext
+Please enter Cost Center,Vul kostenplaats in,reviewed,erpnext
+Please enter default currency in Company Master,Vul de standaard valuta in in Bedrijfsstam,reviewed,erpnext
+Please enter Delivery Date,Vul de Leveringsdatum in,reviewed,erpnext
+Please enter distributed cost center,Voer de gedistribueerde kostenplaats in,reviewed,erpnext
+Please enter Employee Id of this sales person,Vul Employee Id van deze verkoper,reviewed,erpnext
+Please enter Expense Account,Vul Kostenrekening in,reviewed,erpnext
+Please enter From Date and To Date to generate JSON,Voer de From Date en To Date in om JSON te genereren,reviewed,erpnext
+Please enter GSTIN and state for the Company Address {0},Voer GSTIN in en vermeld het bedrijfsadres {0},reviewed,erpnext
+Please enter Item Code to get batch no,Vul de artikelcode  in om batchnummer op te halen,reviewed,erpnext
+Please enter Item Code to get Batch Number,Vul de artikelcode voor Batch Number krijgen,reviewed,erpnext
+Please enter Item Code to get item taxes,Voer artikelcode in om artikelbelastingen te ontvangen,reviewed,erpnext
+Please enter Item first,Vul eerst artikel in,reviewed,erpnext
+Please enter Maintaince Details first,Vul eerst Onderhoudsdetails in,reviewed,erpnext
+Please enter message before sending,Vul bericht in alvorens te verzenden,reviewed,erpnext
+Please enter parent cost center,Vul bovenliggende kostenplaats in,reviewed,erpnext
+Please enter Planned Qty for Item {0} at row {1},Vul Gepland Aantal in voor artikel {0} op rij {1},reviewed,erpnext
+Please enter Preferred Contact Email,Vul Preferred Contact E-mail,reviewed,erpnext
+Please enter Production Item first,Vul eerst Productie Artikel in,reviewed,erpnext
+Please enter Purchase Receipt first,Vul Kwitantie eerste,reviewed,erpnext
+Please enter quantity for Item {0},Vul het aantal in voor artikel {0},reviewed,erpnext
+Please enter Receipt Document,Vul Ontvangst Document,reviewed,erpnext
+Please enter Redirect URL,Voer de omleidings-URL in,reviewed,frappe
+Please enter Reference date,Vul Peildatum in,reviewed,erpnext
+Please enter relieving date.,Vul het verlichten datum .,reviewed,erpnext
+Please enter Reqd by Date,Voer Reqd in op datum,reviewed,erpnext
+Please enter serial numbers for serialized item {0},Voer serienummers in voor artikelen met serienummer {0},reviewed,erpnext
+Please enter the company name to confirm,Voer de bedrijfsnaam in om te bevestigen,reviewed,erpnext
+Please enter the password,Voer het wachtwoord in,reviewed,frappe
+Please enter the phone number first,Voer eerst het telefoonnummer in,reviewed,erpnext
+Please enter valid email address,Vul alstublieft een geldig e-mailadres in,reviewed,erpnext
 Please enter valid Financial Year Start and End Dates,Voer geldige boekjaar begin- en einddatum,unreviewed,erpnext
 Please enter valid mobile nos,Voer geldige mobiele nummers in,unreviewed,frappe
 Please enter values for App Access Key and App Secret Key,Vul de waarden voor App Access Key en App Secret Key,unreviewed,frappe

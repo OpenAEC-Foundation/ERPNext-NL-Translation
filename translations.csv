@@ -1510,202 +1510,202 @@ Byproducts,bijproducten,reviewed,erpnext
 C-Form Applicable,C-Form Toepasselijk,reviewed,erpnext
 C-Form Invoice Detail,C-Form Factuurspecificatie,reviewed,erpnext
 C-form is not applicable for Invoice: {0},C-vorm is niet van toepassing voor de factuur: {0},reviewed,erpnext
-C-Form No,C-vorm nr.,unreviewed,erpnext
-C-Form records,C -Form records,unreviewed,erpnext
-ca-central-1,ca-centrale-1,unreviewed,frappe
-Ca/(K+Ca+Mg),Ca / (K + Ca + Mg),unreviewed,erpnext
-Ca/K,Ca / K,unreviewed,erpnext
-Ca/Mg,Ca / Mg,unreviewed,erpnext
-Cache Cleared,Cache Gewist,unreviewed,frappe
-Calculate,Bereken,unreviewed,frappe
-Calculate Based On,Berekenen gebaseerd op,unreviewed,erpnext
-Calculate Depreciation,Bereken afschrijving,unreviewed,erpnext
-Calculate Estimated Arrival Times,Bereken geschatte aankomsttijden,unreviewed,erpnext
-Calculated Bank Statement balance,Berekende bankafschrift balans,unreviewed,erpnext
-Calculations,berekeningen,unreviewed,erpnext
-Calendar,Agenda,unreviewed,frappe
-calendar,kalender,unreviewed,frappe
-Calendar Event,Kalender evenement,unreviewed,erpnext
-Calendar Name,Kalendernaam,unreviewed,frappe
-Calendar View,Kalenderweergave,unreviewed,frappe
-Calibration,ijking,unreviewed,erpnext
-Call,Bellen,unreviewed,frappe
-Call Connected,Oproep verbonden,unreviewed,erpnext
-Call Details,Oproepdetails,unreviewed,erpnext
-Call Disconnected,Oproep verbroken,unreviewed,erpnext
-Call Duration in seconds,Oproepduur in seconden,unreviewed,erpnext
-Call Log,Oproeplogboek,unreviewed,erpnext
-Call Missed,Bel gemist,unreviewed,erpnext
-Call Summary,Oproep samenvatting,unreviewed,erpnext
-Call Summary Saved,Gespreksoverzicht opgeslagen,unreviewed,erpnext
-Call To Action,Oproep tot actie,unreviewed,frappe
-Call To Action URL,Call-to-action-URL,unreviewed,frappe
-Callback Message,Terugbelbericht,unreviewed,frappe
-Callback Title,Callback-titel,unreviewed,frappe
-Callback URL,Terugbel-URL,unreviewed,frappe
-Caller Information,Informatie beller,unreviewed,erpnext
-Campaign,Campagne,unreviewed,erpnext
-Campaign Efficiency,Campagne-efficiëntie,unreviewed,erpnext
-Campaign Email Schedule,E-mailschema campagne,unreviewed,erpnext
-Campaign Name,Campagnenaam,unreviewed,erpnext
-Campaign Naming By,Campagnenaam gegeven door,unreviewed,erpnext
-Campaign Schedules,Campagneschema&#39;s,unreviewed,erpnext
-Can be approved by {0},Kan door {0} worden goedgekeurd,unreviewed,erpnext
-"Can not filter based on Account, if grouped by Account","Kan niet filteren op basis van Rekening, indien gegroepeerd op Rekening",unreviewed,erpnext
-"Can not filter based on Cashier, if grouped by Cashier","Kan niet filteren op basis van kassier, indien gegroepeerd op kassier",unreviewed,erpnext
-"Can not filter based on Customer, if grouped by Customer","Kan niet filteren op klant, indien gegroepeerd op klant",unreviewed,erpnext
-"Can not filter based on Payment Method, if grouped by Payment Method","Kan niet filteren op basis van betalingsmethode, indien gegroepeerd op betalingsmethode",unreviewed,erpnext
-"Can not filter based on POS Profile, if grouped by POS Profile","Kan niet filteren op basis van POS-profiel, indien gegroepeerd op POS-profiel",unreviewed,erpnext
-"Can not filter based on Voucher No, if grouped by Voucher","Kan niet filteren op basis van vouchernummer, indien gegroepeerd per voucher",unreviewed,erpnext
-"Can not mark Inpatient Record Discharged, there are Unbilled Invoices {0}","Kan de Inpatient Record Discharged niet markeren, er zijn onbetaalde facturen {0}",unreviewed,erpnext
-Can only make payment against unbilled {0},Kan alleen betaling uitvoeren voor ongefactureerde {0},unreviewed,erpnext
-Can Read,Kan lezen,unreviewed,frappe
-Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',Kan de rij enkel verwijzen bij het aanrekeningstype 'Hoeveelheid vorige rij' of 'Totaal vorige rij',unreviewed,erpnext
-Can Share,Kan delen,unreviewed,frappe
-Can Write,Kan schrijven,unreviewed,frappe
-"Can't change valuation method, as there are transactions against some items which does not have it's own valuation method","Kan de waarderingsmethode niet wijzigen, aangezien er transacties zijn tegen sommige items die geen eigen waarderingsmethode hebben",unreviewed,erpnext
-Can't create standard criteria. Please rename the criteria,Kan geen standaardcriteria maken. Wijzig de naam van de criteria,unreviewed,erpnext
-Can't identify open {0}. Try something else.,Kan open {0} niet identificeren. Probeer iets anders.,unreviewed,frappe
-Can't save the form as data import is in progress.,Kan het formulier niet opslaan omdat de gegevens worden geïmporteerd.,unreviewed,frappe
-Cancel,Annuleren,unreviewed,both
-Cancel All Documents,Annuleer alle documenten,unreviewed,frappe
-Cancel At End Of Period,Annuleer aan het einde van de periode,unreviewed,erpnext
-Cancel Material Visit {0} before cancelling this Warranty Claim,Annuleren Materiaal Bezoek {0} voor het annuleren van deze Garantie Claim,unreviewed,erpnext
-Cancel Material Visits {0} before cancelling this Maintenance Visit,Annuleren Materiaal Bezoeken {0} voor het annuleren van deze Maintenance Visit,unreviewed,erpnext
-Cancel Subscription,Annuleer abonnement,unreviewed,erpnext
-Cancel Subscription After Grace Period,Abonnement opzeggen na respijtperiode,unreviewed,erpnext
-Cancel the journal entry {0} first,Annuleer eerst de journaalboeking {0},unreviewed,erpnext
-Cancel {0} documents?,{0} documenten annuleren?,unreviewed,frappe
-Cancelation Date,Annuleringsdatum,unreviewed,erpnext
-Canceled,Geannuleerd,unreviewed,erpnext
-CANCELLED,GEANNULEERD,unreviewed,frappe
-Cancelled,Geannuleerd,unreviewed,both
-Cancelled Document restored as Draft,Geannuleerd document hersteld als Concept,unreviewed,frappe
-cancelled this document,geannuleerd dit document,unreviewed,frappe
-cancelled this document {0},heeft dit document geannuleerd {0},unreviewed,frappe
+C-Form No,C-vorm nr.,reviewed,erpnext
+C-Form records,C-Form records,reviewed,erpnext
+ca-central-1,ca-central-1,reviewed,frappe
+Ca/(K+Ca+Mg),Ca / (K + Ca + Mg),reviewed,erpnext
+Ca/K,Ca / K,reviewed,erpnext
+Ca/Mg,Ca / Mg,reviewed,erpnext
+Cache Cleared,Cache geleegd,reviewed,frappe
+Calculate,Bereken,reviewed,frappe
+Calculate Based On,Berekenen op basis van,reviewed,erpnext
+Calculate Depreciation,Bereken afschrijving,reviewed,erpnext
+Calculate Estimated Arrival Times,Bereken geschatte aankomsttijden,reviewed,erpnext
+Calculated Bank Statement balance,Berekend bankafschriftsaldo,reviewed,erpnext
+Calculations,Berekeningen,reviewed,erpnext
+Calendar,Agenda,reviewed,frappe
+calendar,agenda,reviewed,frappe
+Calendar Event,Agendagebeurtenis,reviewed,erpnext
+Calendar Name,Agendanaam,reviewed,frappe
+Calendar View,Agendaweergave,reviewed,frappe
+Calibration,Ijking,reviewed,erpnext
+Call,Bellen,reviewed,frappe
+Call Connected,Oproep verbonden,reviewed,erpnext
+Call Details,Oproepdetails,reviewed,erpnext
+Call Disconnected,Oproep verbroken,reviewed,erpnext
+Call Duration in seconds,Oproepduur in seconden,reviewed,erpnext
+Call Log,Oproeplogboek,reviewed,erpnext
+Call Missed,Gemiste oproep,reviewed,erpnext
+Call Summary,Oproepsamenvatting,reviewed,erpnext
+Call Summary Saved,Oproepsamenvatting opgeslagen,reviewed,erpnext
+Call To Action,Oproep tot actie,reviewed,frappe
+Call To Action URL,Call-to-action-URL,reviewed,frappe
+Callback Message,Terugbelbericht,reviewed,frappe
+Callback Title,Callback-titel,reviewed,frappe
+Callback URL,Callback-URL,reviewed,frappe
+Caller Information,Bellerinformatie,reviewed,erpnext
+Campaign,Campagne,reviewed,erpnext
+Campaign Efficiency,Campagne-efficiëntie,reviewed,erpnext
+Campaign Email Schedule,E-mailschema campagne,reviewed,erpnext
+Campaign Name,Campagnenaam,reviewed,erpnext
+Campaign Naming By,Campagnenaam toegewezen door,reviewed,erpnext
+Campaign Schedules,Campagneschema&#39;s,reviewed,erpnext
+Can be approved by {0},Kan door {0} worden goedgekeurd,reviewed,erpnext
+"Can not filter based on Account, if grouped by Account","Kan niet filteren op rekening, indien gegroepeerd op rekening",reviewed,erpnext
+"Can not filter based on Cashier, if grouped by Cashier","Kan niet filteren op basis van kassier, indien gegroepeerd op kassier",reviewed,erpnext
+"Can not filter based on Customer, if grouped by Customer","Kan niet filteren op klant, indien gegroepeerd op klant",reviewed,erpnext
+"Can not filter based on Payment Method, if grouped by Payment Method","Kan niet filteren op basis van betalingsmethode, indien gegroepeerd op betalingsmethode",reviewed,erpnext
+"Can not filter based on POS Profile, if grouped by POS Profile","Kan niet filteren op basis van POS-profiel, indien gegroepeerd op POS-profiel",reviewed,erpnext
+"Can not filter based on Voucher No, if grouped by Voucher","Kan niet filteren op boekstuknummer, indien gegroepeerd per boekstuk",reviewed,erpnext
+"Can not mark Inpatient Record Discharged, there are Unbilled Invoices {0}","Kan de Inpatient Record Discharged niet markeren, er zijn onbetaalde facturen {0}",reviewed,erpnext
+Can only make payment against unbilled {0},Kan alleen betaling uitvoeren voor ongefactureerde {0},reviewed,erpnext
+Can Read,Kan lezen,reviewed,frappe
+Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',Kan de rij enkel verwijzen bij het aanrekeningstype 'Hoeveelheid vorige rij' of 'Totaal vorige rij',reviewed,erpnext
+Can Share,Kan delen,reviewed,frappe
+Can Write,Kan schrijven,reviewed,frappe
+"Can't change valuation method, as there are transactions against some items which does not have it's own valuation method","Kan de waarderingsmethode niet wijzigen, aangezien er transacties zijn tegen sommige items die geen eigen waarderingsmethode hebben",reviewed,erpnext
+Can't create standard criteria. Please rename the criteria,Kan geen standaardcriteria maken. Wijzig de naam van de criteria,reviewed,erpnext
+Can't identify open {0}. Try something else.,Kan open {0} niet identificeren. Probeer iets anders.,reviewed,frappe
+Can't save the form as data import is in progress.,Kan het formulier niet opslaan omdat de gegevens worden geïmporteerd.,reviewed,frappe
+Cancel,Annuleren,reviewed,both
+Cancel All Documents,Alle documenten annuleren,reviewed,frappe
+Cancel At End Of Period,Annuleren aan het einde van de periode,reviewed,erpnext
+Cancel Material Visit {0} before cancelling this Warranty Claim,Annuleer materiaalbezoek {0} voor het annuleren van deze garantieclaim,reviewed,erpnext
+Cancel Material Visits {0} before cancelling this Maintenance Visit,Annuleer materiaalbezoeken {0} voor het annuleren van dit onderhoudsbezoek,reviewed,erpnext
+Cancel Subscription,Abonnement annuleren,reviewed,erpnext
+Cancel Subscription After Grace Period,Abonnement opzeggen na respijtperiode,reviewed,erpnext
+Cancel the journal entry {0} first,Annuleer eerst de journaalboeking {0},reviewed,erpnext
+Cancel {0} documents?,{0} documenten annuleren?,reviewed,frappe
+Cancelation Date,Annuleringsdatum,reviewed,erpnext
+Canceled,Geannuleerd,reviewed,erpnext
+CANCELLED,GEANNULEERD,reviewed,frappe
+Cancelled,Geannuleerd,reviewed,both
+Cancelled Document restored as Draft,Geannuleerd document hersteld als concept,reviewed,frappe
+cancelled this document,dit document geannuleerd,reviewed,frappe
+cancelled this document {0},heeft dit document {0} geannuleerd,reviewed,frappe
 Cancelling,Annuleren,reviewed,frappe
-Cancelling documents,Documenten annuleren,unreviewed,frappe
-Cancelling {0},{0} annuleren,unreviewed,frappe
-Cannot allocate more than {0} against payment term {1},Kan niet meer dan {0} toewijzen op basis van betalingstermijn {1},unreviewed,erpnext
-Cannot be a fixed asset item as Stock Ledger is created.,Kan geen vast activumartikel zijn omdat het grootboek Voorraad wordt gecreëerd.,unreviewed,erpnext
-cannot be greater than 100,mag niet groter zijn dan 100,unreviewed,erpnext
-Cannot Calculate Arrival Time as Driver Address is Missing.,Kan aankomsttijd niet berekenen omdat het adres van de bestuurder ontbreekt.,unreviewed,erpnext
-Cannot cancel because submitted Stock Entry {0} exists,Kan niet annuleren omdat ingediende Voorraad Invoer {0} bestaat,unreviewed,erpnext
-Cannot cancel before submitting. See Transition {0},Opzeggen kan niet vóór de indiening. Zie overgang {0},unreviewed,frappe
-Cannot cancel this document as it is linked with submitted asset {0}. Please cancel it to continue.,Kan dit document niet annuleren omdat het is gekoppeld aan het ingediende item {0}. Annuleer het om door te gaan.,unreviewed,erpnext
-Cannot cancel transaction for Completed Work Order.,Kan transactie voor voltooide werkorder niet annuleren.,unreviewed,erpnext
-Cannot cancel {0} {1} because Serial No {2} does not belong to the warehouse {3},Kan {0} {1} niet annuleren omdat serienummer {2} niet tot het magazijn behoort {3},unreviewed,erpnext
-Cannot change Attributes after stock transaction. Make a new Item and transfer stock to the new Item,Kan attributen na beurstransactie niet wijzigen. Maak een nieuw artikel en breng aandelen over naar het nieuwe item,unreviewed,erpnext
-"Cannot change company's default currency, because there are existing transactions. Transactions must be cancelled to change the default currency.",Kan standaard valuta van het bedrijf niet veranderen want er zijn bestaande transacties. Transacties moeten worden geannuleerd om de standaard valuta te wijzigen.,unreviewed,erpnext
-Cannot change docstatus from 0 to 2,Kan docstatus niet wijzigen van 0 naar 2,unreviewed,frappe
-Cannot change docstatus from 1 to 0,Kan docstatus niet wijzigen van 1 naar 0,unreviewed,frappe
-Cannot change Fiscal Year Start Date and Fiscal Year End Date once the Fiscal Year is saved.,Kan boekjaar startdatum en einddatum niet wijzigen eenmaal het boekjaar is opgeslagen.,unreviewed,erpnext
-Cannot change header content,Kan de inhoud van de koptekst niet wijzigen,unreviewed,frappe
-Cannot change Service Stop Date for item in row {0},Kan de service-einddatum voor item in rij {0} niet wijzigen,unreviewed,erpnext
-Cannot change state of Cancelled Document. Transition row {0},Status van het geannuleerde document kan niet veranderd worden. Overgang rij {0},unreviewed,frappe
-Cannot change status as student {0} is linked with student application {1},Kan niet status als student te veranderen {0} is gekoppeld aan student toepassing {1},unreviewed,erpnext
-Cannot change user details in demo. Please signup for a new account at https://erpnext.com,Kan de gebruikersgegevens niet wijzigen in demo. Meld u alstublieft in voor een nieuw account op https://erpnext.com,unreviewed,frappe
-Cannot change Variant properties after stock transaction. You will have to make a new Item to do this.,Variant-eigenschappen kunnen niet worden gewijzigd na beurstransactie. U moet een nieuw item maken om dit te doen.,unreviewed,erpnext
-Cannot complete task {0} as its dependant task {1} are not ccompleted / cancelled.,Kan taak {0} niet voltooien omdat de afhankelijke taak {1} niet is voltooid / geannuleerd.,unreviewed,erpnext
-Cannot convert Cost Center to ledger as it has child nodes,Kan kostenplaats niet omzetten naar grootboek vanwege onderliggende nodes,unreviewed,erpnext
-Cannot covert to Group because Account Type is selected.,Kan niet omzetten naar groep omdat accounttype is geselecteerd.,unreviewed,erpnext
-Cannot create a Delivery Trip from Draft documents.,Kan geen bezorgreis maken vanuit conceptdocumenten.,unreviewed,erpnext
-Cannot create a {0} against a child document: {1},Kan geen {0} maken tegen een onderliggend document: {1},unreviewed,frappe
-Cannot create Retention Bonus for left Employees,Kan retentiebonus niet maken voor medewerkers die links zijn,unreviewed,erpnext
-Cannot deactivate or cancel BOM as it is linked with other BOMs,Kan stuklijst niet deactiveren of annuleren aangezien het is gelinkt met andere stuklijsten.,unreviewed,erpnext
-"Cannot declare as lost, because Quotation has been made.","Kan niet als verloren instellen, omdat offerte is gemaakt.",unreviewed,erpnext
-Cannot deduct when category is for 'Valuation' or 'Valuation and Total',Kan niet aftrekken als categorie is voor ' Valuation ' of ' Valuation en Total ',unreviewed,erpnext
-Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',Kan niet aftrekken als categorie is voor &#39;Valuation&#39; of &#39;Vaulation en Total&#39;,unreviewed,erpnext
-Cannot delete file as it belongs to {0} {1} for which you do not have permissions,Kan het bestand niet verwijderen zoals het behoort tot {0} {1} waarvoor u geen rechten heeft,unreviewed,frappe
-Cannot delete Home and Attachments folders,Kan home en bijlagenmappen niet verwijderen,unreviewed,frappe
-Cannot delete or cancel because {0} {1} is linked with {2} {3} {4},Kan niet verwijderen of annuleren omdat {0} {1} is gekoppeld aan {2} {3} {4},unreviewed,frappe
-"Cannot delete Serial No {0}, as it is used in stock transactions","Kan Serienummer {0} niet verwijderen, omdat het wordt gebruikt in voorraadtransacties",unreviewed,erpnext
-Cannot delete standard action. You can hide it if you want,Kan standaardactie niet verwijderen. U kunt het verbergen als u dat wilt,unreviewed,frappe
-Cannot delete standard field. You can hide it if you want,Kan standaardveld niet verwijderen. U kunt het verbergen als u dit wilt,unreviewed,frappe
-Cannot delete standard link. You can hide it if you want,Kan standaardlink niet verwijderen. U kunt het verbergen als u dat wilt,unreviewed,frappe
-Cannot delete {0},Kan {0} niet verwijderen,unreviewed,frappe
-Cannot delete {0} as it has child nodes,Kan {0} niet verwijderen omdat het onderliggende nodes heeft,unreviewed,frappe
-Cannot deliver Serial No {0} of item {1} as it is reserved to fullfill Sales Order {2},"Kan serienummer {0} van artikel {1} niet leveren, aangezien het is gereserveerd om verkooporder {2} te vervullen",unreviewed,erpnext
-Cannot edit a standard report. Please duplicate and create a new report,Kan een standaard rapport niet bewerken. Gelieve te dupliceren en maak een nieuw rapport,unreviewed,frappe
-Cannot edit cancelled document,Kan geannuleerd document niet bewerken,unreviewed,frappe
-Cannot edit filters for standard charts,Filters voor standaarddiagrammen kunnen niet worden bewerkt,unreviewed,frappe
-Cannot edit standard fields,Kan standaard velden niet bewerken,unreviewed,frappe
-"Cannot edit Standard Notification. To edit, please disable this and duplicate it","Kan standaardmelding niet bewerken. Om te bewerken, schakel dit uit en dupliceer het",unreviewed,frappe
-Cannot enable Distributed Cost Center for a Cost Center already allocated in another Distributed Cost Center,Kan gedistribueerde kostenplaats niet inschakelen voor een kostenplaats die al is toegewezen in een andere gedistribueerde kostenplaats,unreviewed,erpnext
-Cannot enroll more than {0} students for this student group.,Kan niet meer dan {0} studenten voor deze groep studenten inschrijven.,unreviewed,erpnext
-Cannot ensure delivery by Serial No as Item {0} is added with and without Ensure Delivery by Serial No.,"Kan levering met serienummer niet garanderen, aangezien artikel {0} wordt toegevoegd met en zonder Levering met serienummer garanderen.",unreviewed,erpnext
-Cannot find a matching Item. Please select some other value for {0}.,Kan een bijpassende Item niet vinden. Selecteer een andere waarde voor {0}.,unreviewed,erpnext
-Cannot find Item with this Barcode,Kan item met deze streepjescode niet vinden,unreviewed,erpnext
-Cannot find {} for item {}. Please set the same in Item Master or Stock Settings.,Kan {} voor item {} niet vinden. Stel hetzelfde in bij Artikelstam- of Voorraadinstellingen.,unreviewed,erpnext
-Cannot have multiple printers mapped to a single print format.,Er kunnen niet meerdere printers worden toegewezen aan één afdrukindeling.,unreviewed,frappe
-Cannot link cancelled document: {0},Kan het geannuleerde document niet koppelen: {0},unreviewed,frappe
-Cannot map because following condition fails:,"Kan niet toewijzen, omdat volgende voorwaarde mislukt:",unreviewed,frappe
-Cannot mark attendance for future dates.,Kan aanwezigheid niet markeren voor toekomstige datums.,unreviewed,erpnext
-Cannot match column {0} with any field,Kan kolom {0} niet koppelen aan een veld,unreviewed,frappe
-Cannot move row,Kan rij niet verplaatsen,unreviewed,frappe
-Cannot open instance when its {0} is open,Kan geen instantie openen als zijn {0} open is,unreviewed,frappe
-Cannot open {0} when its instance is open,Kan {0} niet openen wanneer er een instantie van is geopend,unreviewed,frappe
-Cannot Optimize Route as Driver Address is Missing.,Kan route niet optimaliseren omdat het adres van de bestuurder ontbreekt.,unreviewed,erpnext
-"Cannot overbill for Item {0} in row {1} more than {2}. To allow over-billing, please set allowance in Accounts Settings","Kan voor item {0} in rij {1} meer dan {2} niet teveel factureren. Als u overfactureren wilt toestaan, stelt u een toeslag in Accounts-instellingen in",unreviewed,erpnext
-Cannot produce more Item {0} than Sales Order quantity {1},Kan niet meer produceren van Artikel {0} dan de Verkooporder hoeveelheid {1},unreviewed,erpnext
-Cannot promote Employee with status Left,Kan werknemer met status links niet promoten,unreviewed,erpnext
-Cannot refer row number greater than or equal to current row number for this Charge type,Kan niet verwijzen rij getal groter dan of gelijk aan de huidige rijnummer voor dit type Charge,unreviewed,erpnext
-Cannot Relieve Employee,Kan werknemer niet ontlasten,unreviewed,erpnext
-Cannot Remove,Kan niet verwijderen,unreviewed,frappe
-Cannot remove ID field,Kan ID-veld niet verwijderen,unreviewed,frappe
-Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,Kan het type lading niet selecteren als 'On Vorige Row Bedrag ' of ' On Vorige Row Totaal ' voor de eerste rij,unreviewed,erpnext
-Cannot set as Lost as Sales Order is made.,"Kan niet als verloren instellen, omdat er al een verkooporder is gemaakt.",unreviewed,erpnext
-Cannot set authorization on basis of Discount for {0},Kan de autorisatie niet instellen op basis van korting voor {0},unreviewed,erpnext
-Cannot set multiple Item Defaults for a company.,Kan niet meerdere item-standaardwaarden voor een bedrijf instellen.,unreviewed,erpnext
-Cannot set Notification on Document Type {0},Kan melding niet instellen op documenttype {0},unreviewed,frappe
-Cannot set quantity less than delivered quantity,Kan hoeveelheid niet lager instellen dan geleverde hoeveelheid,unreviewed,erpnext
-Cannot set quantity less than received quantity,Kan hoeveelheid niet lager instellen dan ontvangen hoeveelheid,unreviewed,erpnext
-Cannot set the field <b>{0}</b> for copying in variants,Kan veld <b>{0}</b> niet instellen voor het kopiëren in varianten,unreviewed,erpnext
-"Cannot Submit, Employees left to mark attendance","Kan niet indienen, werknemers verlaten om aanwezigheid te markeren",unreviewed,erpnext
-Cannot transfer Employee with status Left,Kan werknemer niet overnemen met status links,unreviewed,erpnext
-Cannot update {0},Kan {0} niet updaten,unreviewed,frappe
-Cannot use sub-query in order by,Kan geen gebruik maken van sub-query in bestelling door,unreviewed,frappe
-Cannot {0} {1},Kan niet {0} {1},unreviewed,frappe
-Cannot {0} {1} {2} without any negative outstanding invoice,Kan niet {0} {1} {2} zonder negatieve openstaande factuur,unreviewed,erpnext
-Capacity,Capaciteit,unreviewed,erpnext
-Capacity Planning,Capaciteit Planning,unreviewed,erpnext
-"Capacity Planning Error, planned start time can not be same as end time","Capaciteitsplanningsfout, geplande starttijd kan niet hetzelfde zijn als eindtijd",unreviewed,erpnext
-Capacity Planning For (Days),Capacity Planning Voor (Dagen),unreviewed,erpnext
-Capital Equipments,Kapitaalgoederen,unreviewed,erpnext
-Capital Stock,Kapitaal Stock,unreviewed,erpnext
-Capital Work In Progress Account,Capital Work In Progress-account,unreviewed,erpnext
-Capitalization doesn't help very much.,Kapitalisatie helpt niet veel.,unreviewed,frappe
-Card,Kaart,unreviewed,frappe
-Card Details,Kaart details,unreviewed,frappe
-Card Label,Kaartlabel,unreviewed,frappe
-Cards,Kaarten,unreviewed,both
-Cart,kar,unreviewed,erpnext
-Cart is Empty,Winkelwagen is leeg,unreviewed,erpnext
-Case No(s) already in use. Try from Case No {0},Zaak nr. ( s ) al in gebruik. Probeer uit Zaak nr. {0},unreviewed,erpnext
-Cash,Contant,unreviewed,erpnext
-Cash Account will used for Sales Invoice creation,Geldrekening wordt gebruikt voor het maken van verkoopfacturen,unreviewed,erpnext
-Cash Flow,Cashflow,unreviewed,erpnext
-Cash Flow from Financing,De cashflow uit financiële activiteiten,unreviewed,erpnext
-Cash Flow from Investing,De cashflow uit investeringsactiviteiten,unreviewed,erpnext
-Cash Flow from Operations,De cashflow uit bedrijfsoperaties,unreviewed,erpnext
-Cash Flow Mapping Template Details,Cash Flow Mapping Template-details,unreviewed,erpnext
-Cash Flow Statement,Kasstroomoverzicht,unreviewed,erpnext
-Cash In Hand,Contanten in de hand,unreviewed,erpnext
-Cash or Bank Account is mandatory for making payment entry,Kas- of Bankrekening is verplicht om een  betaling aan te maken,unreviewed,erpnext
-Cash/Bank Account,Kas/Bankrekening,unreviewed,erpnext
-Cashier,Kassa,unreviewed,erpnext
+Cancelling documents,Documenten annuleren,reviewed,frappe
+Cancelling {0},{0} annuleren,reviewed,frappe
+Cannot allocate more than {0} against payment term {1},Kan niet meer dan {0} toewijzen op basis van betalingstermijn {1},reviewed,erpnext
+Cannot be a fixed asset item as Stock Ledger is created.,Kan geen vast activumartikel zijn omdat het voorraadgrootboek wordt aangemaakt.,reviewed,erpnext
+cannot be greater than 100,mag niet groter zijn dan 100,reviewed,erpnext
+Cannot Calculate Arrival Time as Driver Address is Missing.,Kan aankomsttijd niet berekenen omdat het adres van de bestuurder ontbreekt.,reviewed,erpnext
+Cannot cancel because submitted Stock Entry {0} exists,Kan niet annuleren omdat ingediende voorraadmutatie {0} bestaat,reviewed,erpnext
+Cannot cancel before submitting. See Transition {0},Kan niet annuleren voor indiening. Zie overgang {0},reviewed,frappe
+Cannot cancel this document as it is linked with submitted asset {0}. Please cancel it to continue.,Kan dit document niet annuleren omdat het is gekoppeld aan het ingediende item {0}. Annuleer het om door te gaan.,reviewed,erpnext
+Cannot cancel transaction for Completed Work Order.,Kan transactie voor voltooide werkorder niet annuleren.,reviewed,erpnext
+Cannot cancel {0} {1} because Serial No {2} does not belong to the warehouse {3},Kan {0} {1} niet annuleren omdat serienummer {2} niet tot het magazijn behoort {3},reviewed,erpnext
+Cannot change Attributes after stock transaction. Make a new Item and transfer stock to the new Item,Kan kenmerken niet wijzigen na voorraadtransactie. Maak een nieuw artikel aan en draag voorraad over naar het nieuwe artikel.,reviewed,erpnext
+"Cannot change company's default currency, because there are existing transactions. Transactions must be cancelled to change the default currency.","Kan standaardvaluta van het bedrijf niet wijzigen, want er zijn bestaande transacties. Transacties moeten worden geannuleerd om de standaardvaluta te wijzigen.",reviewed,erpnext
+Cannot change docstatus from 0 to 2,Kan documentstatus niet wijzigen van 0 naar 2,reviewed,frappe
+Cannot change docstatus from 1 to 0,Kan documentstatus niet wijzigen van 1 naar 0,reviewed,frappe
+Cannot change Fiscal Year Start Date and Fiscal Year End Date once the Fiscal Year is saved.,Kan startdatum en einddatum van het boekjaar niet wijzigen zodra het boekjaar is opgeslagen.,reviewed,erpnext
+Cannot change header content,Kan de inhoud van de koptekst niet wijzigen,reviewed,frappe
+Cannot change Service Stop Date for item in row {0},Kan de service-einddatum voor item in rij {0} niet wijzigen,reviewed,erpnext
+Cannot change state of Cancelled Document. Transition row {0},Status van het geannuleerde document kan niet worden gewijzigd. Overgangsregel {0},reviewed,frappe
+Cannot change status as student {0} is linked with student application {1},Kan niet status als student te veranderen {0} is gekoppeld aan student toepassing {1},reviewed,erpnext
+Cannot change user details in demo. Please signup for a new account at https://erpnext.com,Kan de gebruikersgegevens niet wijzigen in demo. Meld u alstublieft in voor een nieuw account op https://erpnext.com,reviewed,frappe
+Cannot change Variant properties after stock transaction. You will have to make a new Item to do this.,Varianteigenschappen kunnen niet worden gewijzigd na voorraadtransactie. U moet een nieuw artikel aanmaken.,reviewed,erpnext
+Cannot complete task {0} as its dependant task {1} are not ccompleted / cancelled.,Kan taak {0} niet voltooien omdat afhankelijke taak {1} niet is voltooid of geannuleerd.,reviewed,erpnext
+Cannot convert Cost Center to ledger as it has child nodes,Kan kostenplaats niet omzetten naar grootboek vanwege onderliggende nodes,reviewed,erpnext
+Cannot covert to Group because Account Type is selected.,Kan niet omzetten naar groep omdat accounttype is geselecteerd.,reviewed,erpnext
+Cannot create a Delivery Trip from Draft documents.,Kan geen bezorgreis maken vanuit conceptdocumenten.,reviewed,erpnext
+Cannot create a {0} against a child document: {1},Kan geen {0} maken tegen een onderliggend document: {1},reviewed,frappe
+Cannot create Retention Bonus for left Employees,Kan retentiebonus niet maken voor medewerkers die links zijn,reviewed,erpnext
+Cannot deactivate or cancel BOM as it is linked with other BOMs,Kan stuklijst niet deactiveren of annuleren aangezien het is gelinkt met andere stuklijsten.,reviewed,erpnext
+"Cannot declare as lost, because Quotation has been made.","Kan niet als verloren instellen, omdat offerte is gemaakt.",reviewed,erpnext
+Cannot deduct when category is for 'Valuation' or 'Valuation and Total',Kan niet aftrekken als categorie is voor ' Valuation ' of ' Valuation en Total ',reviewed,erpnext
+Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',Kan niet aftrekken als categorie is voor &#39;Valuation&#39; of &#39;Vaulation en Total&#39;,reviewed,erpnext
+Cannot delete file as it belongs to {0} {1} for which you do not have permissions,Kan het bestand niet verwijderen zoals het behoort tot {0} {1} waarvoor u geen rechten heeft,reviewed,frappe
+Cannot delete Home and Attachments folders,Kan home en bijlagenmappen niet verwijderen,reviewed,frappe
+Cannot delete or cancel because {0} {1} is linked with {2} {3} {4},Kan niet verwijderen of annuleren omdat {0} {1} is gekoppeld aan {2} {3} {4},reviewed,frappe
+"Cannot delete Serial No {0}, as it is used in stock transactions","Kan Serienummer {0} niet verwijderen, omdat het wordt gebruikt in voorraadtransacties",reviewed,erpnext
+Cannot delete standard action. You can hide it if you want,Kan standaardactie niet verwijderen. U kunt het verbergen als u dat wilt,reviewed,frappe
+Cannot delete standard field. You can hide it if you want,Kan standaardveld niet verwijderen. U kunt het verbergen als u dit wilt,reviewed,frappe
+Cannot delete standard link. You can hide it if you want,Kan standaardlink niet verwijderen. U kunt het verbergen als u dat wilt,reviewed,frappe
+Cannot delete {0},Kan {0} niet verwijderen,reviewed,frappe
+Cannot delete {0} as it has child nodes,Kan {0} niet verwijderen omdat het onderliggende nodes heeft,reviewed,frappe
+Cannot deliver Serial No {0} of item {1} as it is reserved to fullfill Sales Order {2},"Kan serienummer {0} van artikel {1} niet leveren, aangezien het is gereserveerd om verkooporder {2} te vervullen",reviewed,erpnext
+Cannot edit a standard report. Please duplicate and create a new report,Kan een standaard rapport niet bewerken. Gelieve te dupliceren en maak een nieuw rapport,reviewed,frappe
+Cannot edit cancelled document,Kan geannuleerd document niet bewerken,reviewed,frappe
+Cannot edit filters for standard charts,Filters voor standaarddiagrammen kunnen niet worden bewerkt,reviewed,frappe
+Cannot edit standard fields,Kan standaard velden niet bewerken,reviewed,frappe
+"Cannot edit Standard Notification. To edit, please disable this and duplicate it","Kan standaardmelding niet bewerken. Om te bewerken, schakel dit uit en dupliceer het",reviewed,frappe
+Cannot enable Distributed Cost Center for a Cost Center already allocated in another Distributed Cost Center,Kan gedistribueerde kostenplaats niet inschakelen voor een kostenplaats die al is toegewezen in een andere gedistribueerde kostenplaats,reviewed,erpnext
+Cannot enroll more than {0} students for this student group.,Kan niet meer dan {0} studenten voor deze groep studenten inschrijven.,reviewed,erpnext
+Cannot ensure delivery by Serial No as Item {0} is added with and without Ensure Delivery by Serial No.,"Kan levering met serienummer niet garanderen, aangezien artikel {0} wordt toegevoegd met en zonder Levering met serienummer garanderen.",reviewed,erpnext
+Cannot find a matching Item. Please select some other value for {0}.,Kan een bijpassende Item niet vinden. Selecteer een andere waarde voor {0}.,reviewed,erpnext
+Cannot find Item with this Barcode,Kan item met deze streepjescode niet vinden,reviewed,erpnext
+Cannot find {} for item {}. Please set the same in Item Master or Stock Settings.,Kan {} voor item {} niet vinden. Stel hetzelfde in bij Artikelstam- of Voorraadinstellingen.,reviewed,erpnext
+Cannot have multiple printers mapped to a single print format.,Er kunnen niet meerdere printers worden toegewezen aan één afdrukindeling.,reviewed,frappe
+Cannot link cancelled document: {0},Kan het geannuleerde document niet koppelen: {0},reviewed,frappe
+Cannot map because following condition fails:,"Kan niet toewijzen, omdat volgende voorwaarde mislukt:",reviewed,frappe
+Cannot mark attendance for future dates.,Kan aanwezigheid niet markeren voor toekomstige datums.,reviewed,erpnext
+Cannot match column {0} with any field,Kan kolom {0} niet koppelen aan een veld,reviewed,frappe
+Cannot move row,Kan rij niet verplaatsen,reviewed,frappe
+Cannot open instance when its {0} is open,Kan geen instantie openen als zijn {0} open is,reviewed,frappe
+Cannot open {0} when its instance is open,Kan {0} niet openen wanneer er een instantie van is geopend,reviewed,frappe
+Cannot Optimize Route as Driver Address is Missing.,Kan route niet optimaliseren omdat het adres van de bestuurder ontbreekt.,reviewed,erpnext
+"Cannot overbill for Item {0} in row {1} more than {2}. To allow over-billing, please set allowance in Accounts Settings","Kan voor item {0} in rij {1} meer dan {2} niet teveel factureren. Als u overfactureren wilt toestaan, stelt u een toeslag in Accounts-instellingen in",reviewed,erpnext
+Cannot produce more Item {0} than Sales Order quantity {1},Kan niet meer produceren van Artikel {0} dan de Verkooporder hoeveelheid {1},reviewed,erpnext
+Cannot promote Employee with status Left,Kan werknemer met status links niet promoten,reviewed,erpnext
+Cannot refer row number greater than or equal to current row number for this Charge type,Kan niet verwijzen rij getal groter dan of gelijk aan de huidige rijnummer voor dit type Charge,reviewed,erpnext
+Cannot Relieve Employee,Kan werknemer niet ontlasten,reviewed,erpnext
+Cannot Remove,Kan niet verwijderen,reviewed,frappe
+Cannot remove ID field,Kan ID-veld niet verwijderen,reviewed,frappe
+Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,Kan het type lading niet selecteren als 'On Vorige Row Bedrag ' of ' On Vorige Row Totaal ' voor de eerste rij,reviewed,erpnext
+Cannot set as Lost as Sales Order is made.,"Kan niet als verloren instellen, omdat er al een verkooporder is gemaakt.",reviewed,erpnext
+Cannot set authorization on basis of Discount for {0},Kan de autorisatie niet instellen op basis van korting voor {0},reviewed,erpnext
+Cannot set multiple Item Defaults for a company.,Kan niet meerdere item-standaardwaarden voor een bedrijf instellen.,reviewed,erpnext
+Cannot set Notification on Document Type {0},Kan melding niet instellen op documenttype {0},reviewed,frappe
+Cannot set quantity less than delivered quantity,Kan hoeveelheid niet lager instellen dan geleverde hoeveelheid,reviewed,erpnext
+Cannot set quantity less than received quantity,Kan hoeveelheid niet lager instellen dan ontvangen hoeveelheid,reviewed,erpnext
+Cannot set the field <b>{0}</b> for copying in variants,Kan veld <b>{0}</b> niet instellen voor het kopiëren in varianten,reviewed,erpnext
+"Cannot Submit, Employees left to mark attendance","Kan niet indienen, werknemers verlaten om aanwezigheid te markeren",reviewed,erpnext
+Cannot transfer Employee with status Left,Kan werknemer niet overnemen met status links,reviewed,erpnext
+Cannot update {0},Kan {0} niet updaten,reviewed,frappe
+Cannot use sub-query in order by,Kan geen gebruik maken van sub-query in bestelling door,reviewed,frappe
+Cannot {0} {1},Kan niet {0} {1},reviewed,frappe
+Cannot {0} {1} {2} without any negative outstanding invoice,Kan niet {0} {1} {2} zonder negatieve openstaande factuur,reviewed,erpnext
+Capacity,Capaciteit,reviewed,erpnext
+Capacity Planning,Capaciteit Planning,reviewed,erpnext
+"Capacity Planning Error, planned start time can not be same as end time","Capaciteitsplanningsfout, geplande starttijd kan niet hetzelfde zijn als eindtijd",reviewed,erpnext
+Capacity Planning For (Days),Capacity Planning Voor (Dagen),reviewed,erpnext
+Capital Equipments,Kapitaalgoederen,reviewed,erpnext
+Capital Stock,Kapitaal Stock,reviewed,erpnext
+Capital Work In Progress Account,Capital Work In Progress-account,reviewed,erpnext
+Capitalization doesn't help very much.,Kapitalisatie helpt niet veel.,reviewed,frappe
+Card,Kaart,reviewed,frappe
+Card Details,Kaart details,reviewed,frappe
+Card Label,Kaartlabel,reviewed,frappe
+Cards,Kaarten,reviewed,both
+Cart,kar,reviewed,erpnext
+Cart is Empty,Winkelwagen is leeg,reviewed,erpnext
+Case No(s) already in use. Try from Case No {0},Zaak nr. ( s ) al in gebruik. Probeer uit Zaak nr. {0},reviewed,erpnext
+Cash,Contant,reviewed,erpnext
+Cash Account will used for Sales Invoice creation,Geldrekening wordt gebruikt voor het maken van verkoopfacturen,reviewed,erpnext
+Cash Flow,Cashflow,reviewed,erpnext
+Cash Flow from Financing,De cashflow uit financiële activiteiten,reviewed,erpnext
+Cash Flow from Investing,De cashflow uit investeringsactiviteiten,reviewed,erpnext
+Cash Flow from Operations,De cashflow uit bedrijfsoperaties,reviewed,erpnext
+Cash Flow Mapping Template Details,Cash Flow Mapping Template-details,reviewed,erpnext
+Cash Flow Statement,Kasstroomoverzicht,reviewed,erpnext
+Cash In Hand,Contanten in de hand,reviewed,erpnext
+Cash or Bank Account is mandatory for making payment entry,Kas- of Bankrekening is verplicht om een  betaling aan te maken,reviewed,erpnext
+Cash/Bank Account,Kas/Bankrekening,reviewed,erpnext
+Cashier,Kassa,reviewed,erpnext
 Cashier Closing,Kassafsluiting,reviewed,erpnext
-Cashier Closing Payments,Kassa sluitingsbetalingen,unreviewed,erpnext
-Catch All,Vang alles,unreviewed,erpnext
-Categories,Categorieën,unreviewed,erpnext
-Categorize blog posts.,Categoriseren blogposts.,unreviewed,frappe
-Category,Categorie,unreviewed,both
-Category Description,categorie Omschrijving,unreviewed,frappe
-Category Name,Categorienaam,unreviewed,both
-Category-wise Asset Value,Categorie-georiënteerde vermogenswaarde,unreviewed,erpnext
-Caution,Voorzichtigheid,unreviewed,erpnext
-CC To,CC aan,unreviewed,erpnext
-"CC, BCC & Email Template","CC, BCC &amp; e-mailsjabloon",unreviewed,frappe
+Cashier Closing Payments,Kassa sluitingsbetalingen,reviewed,erpnext
+Catch All,Vang alles,reviewed,erpnext
+Categories,Categorieën,reviewed,erpnext
+Categorize blog posts.,Categoriseren blogposts.,reviewed,frappe
+Category,Categorie,reviewed,both
+Category Description,categorie Omschrijving,reviewed,frappe
+Category Name,Categorienaam,reviewed,both
+Category-wise Asset Value,Categorie-georiënteerde vermogenswaarde,reviewed,erpnext
+Caution,Voorzichtigheid,reviewed,erpnext
+CC To,CC aan,reviewed,erpnext
+"CC, BCC & Email Template","CC, BCC &amp; e-mailsjabloon",reviewed,frappe
 Cellphone Number,mobiel nummer,unreviewed,erpnext
 Center,Centreren,unreviewed,frappe
 Central Tax,Centrale belasting,unreviewed,erpnext

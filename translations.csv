@@ -100,104 +100,104 @@ A condition for a Shipping Rule,Een voorwaarde voor een Verzendregel,reviewed,er
 A Customer Group exists with same name please change the Customer name or rename the Customer Group,Er bestaat al een klantgroep met dezelfde naam. Wijzig de naam van de klant of de klantgroep.,reviewed,erpnext
 A customer is already linked to this Member,Er is al een klant aan dit lid gekoppeld,reviewed,erpnext
 A customer with the same name already exists,Er bestaat al een klant met dezelfde naam,reviewed,erpnext
-A Default Service Level Agreement already exists.,Er bestaat al een standaard Service Level Agreement.,unreviewed,erpnext
-A Distributed Cost Center cannot be added in the Distributed Cost Center allocation table.,Een gedistribueerde kostenplaats kan niet worden toegevoegd aan de verdeelde kostenplaats-allocatietabel.,unreviewed,erpnext
-A featured post must have a cover image,Een uitgelicht bericht moet een omslagafbeelding hebben,unreviewed,frappe
-A field with the name '{}' already exists in doctype {}.,Er bestaat al een veld met de naam &#39;{}&#39; in doctype {}.,unreviewed,frappe
-A Lead requires either a person's name or an organization's name,Een lead vereist de naam van een persoon of de naam van een organisatie,unreviewed,erpnext
-A Lead with this Email Address should exist,Een Lead met dit e-mailadres zou moeten bestaan,unreviewed,frappe
-A link to all the Locations in which the Crop is growing,Een link naar alle locaties waarin het gewas groeit,unreviewed,erpnext
-A list of resources which the Client App will have access to after the user allows it.<br> e.g. project,Een lijst van de middelen die de Client App toegang zal moeten nadat de gebruiker toelaat. <br> bijv project,unreviewed,frappe
-A log of request errors,Een log van het verzoekfouten,unreviewed,frappe
-A logical Warehouse against which stock entries are made.,Een logisch Magazijn waartegen voorraadboekingen worden gemaakt.,unreviewed,erpnext
-A Negative,Een negatief,unreviewed,erpnext
-A new account has been created for you at {0},Een nieuw account is aangemaakt voor u op {0},unreviewed,frappe
-A new appointment has been created for you with {0},Er is een nieuwe afspraak voor u gemaakt met {0},unreviewed,erpnext
-A Positive,Een positief,unreviewed,erpnext
-"A Product or a Service that is bought, sold or kept in stock.","Een Product of een Dienst dat wordt gekocht, verkocht of in voorraad wordt gehouden.",unreviewed,erpnext
-A question must have more than one options,Een vraag moet meerdere opties hebben,unreviewed,erpnext
-A qustion must have at least one correct options,Een vraag moet ten minste één juiste optie hebben,unreviewed,erpnext
-A recurring {0} {1} has been created for you via Auto Repeat {2}.,Er is een terugkerende {0} {1} voor u gemaakt via Auto Repeat {2}.,unreviewed,frappe
-A symbol for this currency. For e.g. $,Een symbool voor deze valuta. Voor bijvoorbeeld $,unreviewed,frappe
-A third party distributor / dealer / commission agent / affiliate / reseller who sells the companies products for a commission.,Een derde partij distributeur / dealer / commissionair / affiliate / reseller die uw producten voor een commissie verkoopt.,unreviewed,erpnext
-A user who posts blogs.,Een gebruiker die blogs plaatst.,unreviewed,frappe
-A word by itself is easy to guess.,Een vrijstaand woord is gemakkelijk te raden.,unreviewed,frappe
-AB Negative,AB Negatief,unreviewed,erpnext
-AB Positive,AB Positief,unreviewed,erpnext
-Abbr,Afk,unreviewed,erpnext
-Abbr can not be blank or space,Abbr kan niet leeg of ruimte,unreviewed,erpnext
-Abbreviation,Afkorting,unreviewed,erpnext
-Abbreviation already used for another company,Afkorting al gebruikt voor een ander bedrijf,unreviewed,erpnext
-Abbreviation cannot have more than 5 characters,Afkorting kan niet meer dan 5 tekens lang zijn,unreviewed,erpnext
-Abbreviation is mandatory,Afkorting is verplicht,unreviewed,erpnext
-Abdomen,Buik,unreviewed,erpnext
-About the Company,Over het bedrijf,unreviewed,erpnext
-About Us Settings,Over Ons Instellingen,unreviewed,frappe
-About Us Team Member,Over ons Teamlid,unreviewed,frappe
-About your company,Over uw bedrijf,unreviewed,erpnext
-About {0} minute remaining,Ongeveer {0} minuut resterend,unreviewed,frappe
-About {0} minutes remaining,Ongeveer {0} minuten resterend,unreviewed,frappe
-About {0} seconds remaining,Ongeveer {0} seconden resterend,unreviewed,frappe
-Above,Boven,unreviewed,erpnext
-Absent Student Report,Studenten afwezigheidsrapport,unreviewed,erpnext
-Academic,Academisch,unreviewed,erpnext
-Academic Term,Academisch semester,unreviewed,erpnext
-Academic Term and Program,Academische termijn en programma,unreviewed,erpnext
-Academic Term:,Academische termijn:,unreviewed,erpnext
-Academic Year,Academisch jaar,unreviewed,erpnext
-Academic Year Name,Academisch jaar naam,unreviewed,erpnext
-Academic Year:,Academiejaar:,unreviewed,erpnext
-Academics User,Academici Gebruiker,unreviewed,erpnext
-Accept Payment,Accepteer Betaling,unreviewed,frappe
-Acceptance Criteria,Acceptatiecriteria,unreviewed,erpnext
-Accepted,Geaccepteerd,unreviewed,erpnext
-Accepted + Rejected Qty must be equal to Received quantity for Item {0},Geaccepteerde + Verworpen Aantal moet gelijk zijn aan Ontvangen aantal zijn voor Artikel {0},unreviewed,erpnext
-Accepted Qty,Geaccepteerd Aantal,unreviewed,erpnext
-Accepted Qty as per Stock UOM,Geaccepteerde hoeveelheid volgens voorraadeenheid,unreviewed,erpnext
-Accepted Quantity,Geaccepteerd Aantal,unreviewed,erpnext
-Accepted Warehouse,Geaccepteerd Magazijn,unreviewed,erpnext
-Access Key ID,Toegang Key ID,unreviewed,frappe
-Access Key Secret,Toegang tot sleutelgeheim,unreviewed,frappe
+A Default Service Level Agreement already exists.,Er bestaat al een standaard Service Level Agreement.,reviewed,erpnext
+A Distributed Cost Center cannot be added in the Distributed Cost Center allocation table.,Een gedistribueerde kostenplaats kan niet worden toegevoegd aan de allocatietabel van gedistribueerde kostenplaatsen.,reviewed,erpnext
+A featured post must have a cover image,Een uitgelicht bericht moet een omslagafbeelding hebben,reviewed,frappe
+A field with the name '{}' already exists in doctype {}.,Er bestaat al een veld met de naam &#39;{}&#39; in doctype {}.,reviewed,frappe
+A Lead requires either a person's name or an organization's name,Een lead vereist de naam van een persoon of van een organisatie.,reviewed,erpnext
+A Lead with this Email Address should exist,Er moet een lead met dit e-mailadres bestaan.,reviewed,frappe
+A link to all the Locations in which the Crop is growing,Een koppeling naar alle locaties waar het gewas groeit.,reviewed,erpnext
+A list of resources which the Client App will have access to after the user allows it.<br> e.g. project,Een lijst van de resources waartoe de Client App toegang krijgt nadat de gebruiker toestemming heeft gegeven. <br> bijv. project,reviewed,frappe
+A log of request errors,Een log van verzoekfouten.,reviewed,frappe
+A logical Warehouse against which stock entries are made.,Een logisch magazijn waarop voorraadboekingen worden geboekt.,reviewed,erpnext
+A Negative,Een negatief,reviewed,erpnext
+A new account has been created for you at {0},Een nieuw account is aangemaakt voor u op {0},reviewed,frappe
+A new appointment has been created for you with {0},Er is een nieuwe afspraak voor u gemaakt met {0},reviewed,erpnext
+A Positive,Een positief,reviewed,erpnext
+"A Product or a Service that is bought, sold or kept in stock.","Een Product of een Dienst dat wordt gekocht, verkocht of in voorraad wordt gehouden.",reviewed,erpnext
+A question must have more than one options,Een vraag moet meer dan een optie hebben.,reviewed,erpnext
+A qustion must have at least one correct options,Een vraag moet ten minste een juiste optie hebben.,reviewed,erpnext
+A recurring {0} {1} has been created for you via Auto Repeat {2}.,Er is een terugkerende {0} {1} voor u gemaakt via Auto Repeat {2}.,reviewed,frappe
+A symbol for this currency. For e.g. $,Een symbool voor deze valuta. Bijvoorbeeld $.,reviewed,frappe
+A third party distributor / dealer / commission agent / affiliate / reseller who sells the companies products for a commission.,"Een derde partij distributeur, dealer, commissionair, affiliate of reseller die uw producten tegen commissie verkoopt.",reviewed,erpnext
+A user who posts blogs.,Een gebruiker die blogs plaatst.,reviewed,frappe
+A word by itself is easy to guess.,Een enkel woord is gemakkelijk te raden.,reviewed,frappe
+AB Negative,AB Negatief,reviewed,erpnext
+AB Positive,AB Positief,reviewed,erpnext
+Abbr,Afk.,reviewed,erpnext
+Abbr can not be blank or space,Afkorting mag niet leeg zijn of alleen spaties bevatten.,reviewed,erpnext
+Abbreviation,Afkorting,reviewed,erpnext
+Abbreviation already used for another company,Afkorting al gebruikt voor een ander bedrijf,reviewed,erpnext
+Abbreviation cannot have more than 5 characters,Afkorting mag niet meer dan 5 tekens bevatten.,reviewed,erpnext
+Abbreviation is mandatory,Afkorting is verplicht,reviewed,erpnext
+Abdomen,Abdomen,reviewed,erpnext
+About the Company,Over het bedrijf,reviewed,erpnext
+About Us Settings,Instellingen Over Ons,reviewed,frappe
+About Us Team Member,Teamlid Over Ons,reviewed,frappe
+About your company,Over uw bedrijf,reviewed,erpnext
+About {0} minute remaining,Nog ongeveer {0} minuut.,reviewed,frappe
+About {0} minutes remaining,Nog ongeveer {0} minuten.,reviewed,frappe
+About {0} seconds remaining,Nog ongeveer {0} seconden.,reviewed,frappe
+Above,Boven,reviewed,erpnext
+Absent Student Report,Rapport afwezige studenten,reviewed,erpnext
+Academic,Academisch,reviewed,erpnext
+Academic Term,Academische periode,reviewed,erpnext
+Academic Term and Program,Academische periode en programma,reviewed,erpnext
+Academic Term:,Academische periode:,reviewed,erpnext
+Academic Year,Academisch jaar,reviewed,erpnext
+Academic Year Name,Naam academisch jaar,reviewed,erpnext
+Academic Year:,Academisch jaar:,reviewed,erpnext
+Academics User,Academiegebruiker,reviewed,erpnext
+Accept Payment,Betaling accepteren,reviewed,frappe
+Acceptance Criteria,Acceptatiecriteria,reviewed,erpnext
+Accepted,Geaccepteerd,reviewed,erpnext
+Accepted + Rejected Qty must be equal to Received quantity for Item {0},Geaccepteerde + Verworpen hoeveelheid moet gelijk zijn aan ontvangen hoeveelheid voor artikel {0},reviewed,erpnext
+Accepted Qty,Geaccepteerde hoeveelheid,reviewed,erpnext
+Accepted Qty as per Stock UOM,Geaccepteerde hoeveelheid volgens voorraadeenheid,reviewed,erpnext
+Accepted Quantity,Geaccepteerde hoeveelheid,reviewed,erpnext
+Accepted Warehouse,Geaccepteerd Magazijn,reviewed,erpnext
+Access Key ID,Toegangssleutel-ID,reviewed,frappe
+Access Key Secret,Geheime toegangssleutel,reviewed,frappe
 Access Log,Toegangslog,reviewed,frappe
-Access not allowed from this IP Address,Toegang niet toegestaan vanaf dit IP-adres,unreviewed,frappe
-Access Token,Toegang Token,unreviewed,both
-Access Token Secret,Toegang tot Token Secret,unreviewed,erpnext
-Access Token URL,Toegang tot token-URL,unreviewed,frappe
-Accessable Value,Toegankelijke waarde,unreviewed,erpnext
-Account,Rekening,unreviewed,both
-account,Rekening,unreviewed,erpnext
-Account Balance,Rekeningbalans,unreviewed,erpnext
-"Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'","Accountbalans reeds in Credit, 'Balans moet zijn' mag niet als 'Debet' worden ingesteld",unreviewed,erpnext
-"Account balance already in Debit, you are not allowed to set 'Balance Must Be' as 'Credit'","Accountbalans reeds in Debet, 'Balans moet zijn' mag niet als 'Credit' worden ingesteld",unreviewed,erpnext
-Account Balance Processing Error,Fout bij verwerking rekeningsaldo,unreviewed,erpnext
+Access not allowed from this IP Address,Toegang niet toegestaan vanaf dit IP-adres,reviewed,frappe
+Access Token,Toegangstoken,reviewed,both
+Access Token Secret,Geheime toegangstoken,reviewed,erpnext
+Access Token URL,Toegangstoken-URL,reviewed,frappe
+Accessable Value,Toegankelijke waarde,reviewed,erpnext
+Account,Rekening,reviewed,both
+account,Rekening,reviewed,erpnext
+Account Balance,Rekeningsaldo,reviewed,erpnext
+"Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'","Accountbalans reeds in Credit, 'Balans moet zijn' mag niet als 'Debet' worden ingesteld",reviewed,erpnext
+"Account balance already in Debit, you are not allowed to set 'Balance Must Be' as 'Credit'","Accountbalans reeds in Debet, 'Balans moet zijn' mag niet als 'Credit' worden ingesteld",reviewed,erpnext
+Account Balance Processing Error,Fout bij verwerken rekeningsaldo,reviewed,erpnext
 Account Category,Rekeningcategorie,reviewed,custom
 Account Closing Balance,Rekeningeindsaldo,reviewed,custom
-Account Currency,Account Valuta,unreviewed,erpnext
-Account for Change Amount,Account for Change Bedrag,unreviewed,erpnext
+Account Currency,Rekening valuta,reviewed,erpnext
+Account for Change Amount,Rekening voor wisselgeld,reviewed,erpnext
 Account Head,Hoofdrekening,reviewed,erpnext
-Account is mandatory to get payment entries,Account is verplicht om betalingsinvoer te krijgen,unreviewed,erpnext
-Account is not set for the dashboard chart {0},Account is niet ingesteld voor de dashboardgrafiek {0},unreviewed,erpnext
-Account Missing,Account ontbreekt,unreviewed,erpnext
+Account is mandatory to get payment entries,Rekening is verplicht voor betalingsposten,reviewed,erpnext
+Account is not set for the dashboard chart {0},Rekening is niet ingesteld voor dashboardgrafiek {0},reviewed,erpnext
+Account Missing,Rekening ontbreekt,reviewed,erpnext
 Account Name,Rekeningnaam,reviewed,erpnext
-Account Not Found,Account niet gevonden,unreviewed,erpnext
+Account Not Found,Rekening niet gevonden,reviewed,erpnext
 Account Number,Rekeningnummer,reviewed,erpnext
-Account number for account {0} is not available.<br> Please setup your Chart of Accounts correctly.,Accountnummer voor account {0} is niet beschikbaar. <br> Stel uw rekeningschema correct in.,unreviewed,erpnext
-Account Number {0} already used in account {1},Accountnummer {0} al gebruikt in account {1},unreviewed,erpnext
-Account Paid From,Account betaald uit,unreviewed,erpnext
-Account Paid To,Rekening betaald aan,unreviewed,erpnext
-Account Pay Only,Rekening betalen enkel,unreviewed,erpnext
-Account Subtype,Subtype account,unreviewed,erpnext
+Account number for account {0} is not available.<br> Please setup your Chart of Accounts correctly.,Rekeningnummer voor rekening {0} is niet beschikbaar. <br> Stel uw rekeningschema correct in.,reviewed,erpnext
+Account Number {0} already used in account {1},Rekeningnummer {0} al in gebruik bij rekening {1},reviewed,erpnext
+Account Paid From,Betaald van rekening,reviewed,erpnext
+Account Paid To,Betaald aan rekening,reviewed,erpnext
+Account Pay Only,Alleen per rekening betalen,reviewed,erpnext
+Account Subtype,Rekening subtype,reviewed,erpnext
 Account Type,Rekeningtype,reviewed,erpnext
-Account Type for {0} must be {1},Rekening Type voor {0} moet {1},unreviewed,erpnext
-Account Value,Accountwaarde,unreviewed,erpnext
-Account with child nodes cannot be converted to ledger,Rekening met onderliggende nodes kunnen niet worden omgezet naar grootboek,unreviewed,erpnext
-Account with child nodes cannot be set as ledger,Rekening met de onderliggende knooppunten kan niet worden ingesteld als grootboek,unreviewed,erpnext
-Account with existing transaction can not be converted to group.,Rekening met bestaande transactie kan niet worden omgezet naar een groep .,unreviewed,erpnext
-Account with existing transaction can not be deleted,Rekening met bestaande transactie kan niet worden verwijderd,unreviewed,erpnext
-Account with existing transaction cannot be converted to ledger,Rekening met bestaande transactie kan niet worden geconverteerd naar grootboek,unreviewed,erpnext
-Account {0} does not belong to company: {1},Rekening {0} behoort niet tot bedrijf: {1},unreviewed,erpnext
-Account {0} does not belongs to company {1},Account {0} behoort niet tot bedrijf {1},unreviewed,erpnext
-Account {0} does not exist,Rekening {0} bestaat niet,unreviewed,erpnext
+Account Type for {0} must be {1},Rekening type voor {0} moet {1} zijn,reviewed,erpnext
+Account Value,Rekeningwaarde,reviewed,erpnext
+Account with child nodes cannot be converted to ledger,Rekening met onderliggende knooppunten kan niet worden omgezet naar grootboekrekening,reviewed,erpnext
+Account with child nodes cannot be set as ledger,Rekening met onderliggende knooppunten kan niet als grootboekrekening worden ingesteld,reviewed,erpnext
+Account with existing transaction can not be converted to group.,Rekening met bestaande transactie kan niet worden omgezet naar een groep .,reviewed,erpnext
+Account with existing transaction can not be deleted,Rekening met bestaande transactie kan niet worden verwijderd,reviewed,erpnext
+Account with existing transaction cannot be converted to ledger,Rekening met bestaande transactie kan niet worden omgezet naar grootboekrekening,reviewed,erpnext
+Account {0} does not belong to company: {1},Rekening {0} behoort niet tot bedrijf: {1},reviewed,erpnext
+Account {0} does not belongs to company {1},Rekening {0} behoort niet tot bedrijf {1},reviewed,erpnext
+Account {0} does not exist,Rekening {0} bestaat niet,reviewed,erpnext
 Account {0} does not exists,Rekening {0} bestaat niet,unreviewed,erpnext
 Account {0} does not exists in the dashboard chart {1},Account {0} bestaat niet in de dashboardgrafiek {1},unreviewed,erpnext
 Account {0} does not match with Company {1} in Mode of Account: {2},Rekening {0} komt niet overeen met Bedrijf {1} in Rekeningmodus: {2},unreviewed,erpnext

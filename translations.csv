@@ -1110,206 +1110,206 @@ Automate Appointment Invoicing,Automatiseer de facturering van afspraken,reviewe
 Automatic Linking can be activated only for one Email Account.,Automatisch koppelen kan slechts voor één e-mailaccount worden geactiveerd.,reviewed,frappe
 Automatic Linking can be activated only if Incoming is enabled.,Automatisch koppelen kan alleen worden geactiveerd als Inkomend is ingeschakeld.,reviewed,frappe
 Automatic Reconciliation,Automatische afstemming,reviewed,erpnext
-Automatically Add Taxes and Charges from Item Tax Template,Automatisch belastingen en heffingen toevoegen op basis van sjabloon voor artikelbelasting,unreviewed,erpnext
-Automatically Assign Documents to Users,Wijs automatisch documenten toe aan gebruikers,unreviewed,frappe
-Automatically Create New Batch,Maak automatisch een nieuwe partij aan,unreviewed,erpnext
-Automatically Fetch Payment Terms,Automatisch betalingsvoorwaarden ophalen,unreviewed,erpnext
-Automatically generates recurring documents.,Genereert automatisch terugkerende documenten.,unreviewed,frappe
-Automatically Process Deferred Accounting Entry,Automatisch uitgestelde boekhoudinvoer verwerken,unreviewed,erpnext
-Automatically Set Serial Nos Based on FIFO,Stel automatisch serienummers in op basis van FIFO,unreviewed,erpnext
-Automatically Set Serial Nos based on FIFO,Automatisch instellen serienummers op basis van FIFO,unreviewed,erpnext
-Automation,Automatisering,unreviewed,frappe
-Availability,Beschikbaarheid,unreviewed,erpnext
-Availability and Skills,Beschikbaarheid en vaardigheden,unreviewed,erpnext
-Availability Of Slots,Beschikbaarheid van slots,unreviewed,erpnext
-Availability Timeslot,Beschikbaarheid Timeslot,unreviewed,erpnext
-Available,Beschikbaar,unreviewed,erpnext
-Available Balance,beschikbaar saldo,unreviewed,erpnext
-Available Batch Qty at From Warehouse,Beschikbaar Aantal Batch bij Van Warehouse,unreviewed,erpnext
-Available Batch Qty at Warehouse,Verkrijgbaar Aantal Batch bij Warehouse,unreviewed,erpnext
-Available For Use Date,Beschikbaar voor gebruik datum,unreviewed,erpnext
-Available for use date is required,Beschikbaar voor gebruik datum is vereist,unreviewed,erpnext
+Automatically Add Taxes and Charges from Item Tax Template,Automatisch belastingen en heffingen toevoegen op basis van sjabloon voor artikelbelasting,reviewed,erpnext
+Automatically Assign Documents to Users,Wijs automatisch documenten toe aan gebruikers,reviewed,frappe
+Automatically Create New Batch,Maak automatisch een nieuwe batch aan,reviewed,erpnext
+Automatically Fetch Payment Terms,Automatisch betalingsvoorwaarden ophalen,reviewed,erpnext
+Automatically generates recurring documents.,Genereert automatisch terugkerende documenten.,reviewed,frappe
+Automatically Process Deferred Accounting Entry,Automatisch uitgestelde boekhoudinvoer verwerken,reviewed,erpnext
+Automatically Set Serial Nos Based on FIFO,Stel automatisch serienummers in op basis van FIFO,reviewed,erpnext
+Automatically Set Serial Nos based on FIFO,Automatisch instellen serienummers op basis van FIFO,reviewed,erpnext
+Automation,Automatisering,reviewed,frappe
+Availability,Beschikbaarheid,reviewed,erpnext
+Availability and Skills,Beschikbaarheid en vaardigheden,reviewed,erpnext
+Availability Of Slots,Beschikbaarheid van tijdsloten,reviewed,erpnext
+Availability Timeslot,Beschikbaarheidstijdslot,reviewed,erpnext
+Available,Beschikbaar,reviewed,erpnext
+Available Balance,Beschikbaar saldo,reviewed,erpnext
+Available Batch Qty at From Warehouse,Beschikbare batchhoeveelheid bij bronmagazijn,reviewed,erpnext
+Available Batch Qty at Warehouse,Beschikbare batchhoeveelheid bij magazijn,reviewed,erpnext
+Available For Use Date,Beschikbaar voor gebruik vanaf datum,reviewed,erpnext
+Available for use date is required,Beschikbaar voor gebruik vanaf datum is vereist,reviewed,erpnext
 Available Qty,Beschikbare hoeveelheid,reviewed,erpnext
-Available Qty at From Warehouse,Aantal beschikbaar bij Van Warehouse,unreviewed,erpnext
-Available Qty at Source Warehouse,Beschikbaar Aantal bij Source Warehouse,unreviewed,erpnext
-Available Qty at Warehouse,Qty bij Warehouse,unreviewed,erpnext
-Available Qty at WIP Warehouse,Beschikbaar Aantal bij WIP Warehouse,unreviewed,erpnext
-Available Quantity,beschikbare kwaliteit,unreviewed,erpnext
-"Available quantity is {0}, you need {1}","Beschikbare hoeveelheid is {0}, u heeft {1} nodig",unreviewed,erpnext
-Available Selling,Beschikbare verkoop,unreviewed,erpnext
-Available slots,Beschikbare slots,unreviewed,erpnext
-Available Stock,Beschikbare voorraad,unreviewed,erpnext
-Available Stock for Packing Items,Beschikbaar voor Verpakking Items,unreviewed,erpnext
-Available {0},Beschikbaar {0},unreviewed,erpnext
-Available-for-use Date,Beschikbaar voor gebruik Datum,unreviewed,erpnext
-Available-for-use Date should be after purchase date,Beschikbaar voor gebruik De datum moet na de aankoopdatum zijn,unreviewed,erpnext
-Availed ITC Central Tax,Gebruikt ITC Central Tax,unreviewed,erpnext
-Availed ITC Cess,Gebruikt ITC Cess,unreviewed,erpnext
-Availed ITC Integrated Tax,Gebruikte ITC Integrated Tax,unreviewed,erpnext
-Availed ITC State/UT Tax,Gebruikte ITC State / UT-belasting,unreviewed,erpnext
-Average,Gemiddelde,unreviewed,frappe
-Average Age,Gemiddelde leeftijd,unreviewed,erpnext
-Average Commission Rate,Gemiddelde Commissie Rate,unreviewed,erpnext
-Average Discount,Gemiddelde korting,unreviewed,erpnext
-Average of {0},Gemiddelde van {0},unreviewed,frappe
-Average Rate,Gemiddelde score,unreviewed,erpnext
-Average Response Time,Gemiddelde reactietijd,unreviewed,erpnext
-Average Score,Gemiddelde score,unreviewed,erpnext
-Average time taken by the supplier to deliver,De gemiddelde tijd die door de leverancier te leveren,unreviewed,erpnext
-Avg Daily Outgoing,Gem Daily Uitgaande,unreviewed,erpnext
-Avg. Buying Price List Rate,Gem. Prijslijst kopen,unreviewed,erpnext
-Avg. Selling Price List Rate,Gem. Prijslijst tarief verkopen,unreviewed,erpnext
-Avg. Selling Rate,Gem. Verkoopkoers,unreviewed,erpnext
-Avoid Confirmation,Vermijd bevestiging,unreviewed,erpnext
-Avoid dates and years that are associated with you.,Vermijd data en jaren die worden geassocieerd met u.,unreviewed,frappe
-Avoid recent years.,Vermijd de afgelopen jaren.,unreviewed,frappe
-Avoid sequences like abc or 6543 as they are easy to guess,Vermijd sequenties zoals abc of 6543 zoals ze zijn makkelijk te raden,unreviewed,frappe
-Avoid years that are associated with you.,Vermijd jaar die worden geassocieerd met u.,unreviewed,frappe
-Awaiting Password,In afwachting van wachtwoord,unreviewed,frappe
-Awaiting password,In afwachting van Password,unreviewed,frappe
-Away,Weg,unreviewed,frappe
-B Negative,B Negatief,unreviewed,erpnext
-B Positive,B positief,unreviewed,erpnext
-B+,B +,unreviewed,erpnext
-B2C Limit,B2C-limiet,unreviewed,erpnext
-Back to,Terug naar,unreviewed,erpnext
-Back to Course,Terug naar cursus,unreviewed,erpnext
-Back to Desk,Terug naar bureau,unreviewed,frappe
-Back to Home,Terug naar huis,unreviewed,frappe
-Back to Login,Terug naar Inloggen,unreviewed,frappe
-Back to Messages,Terug naar berichten,unreviewed,erpnext
-Backdated Stock Entry,Voorraadinvoer met terugwerkende kracht,unreviewed,erpnext
-Backflush Raw Materials,Backflush-grondstoffen,unreviewed,erpnext
-Backflush Raw Materials Based On,Grondstoffen afgeboekt op basis van,unreviewed,erpnext
-Backflush Raw Materials From Work-in-Progress Warehouse,Grondstoffen backflush uit werk-in-uitvoering magazijn,unreviewed,erpnext
-Backflush Raw Materials of Subcontract Based On,Backflush Grondstoffen van onderaanneming gebaseerd op,unreviewed,erpnext
-Background Color,Achtergrondkleur,unreviewed,frappe
-Background Email Queue,Achtergrond e-mail wachtrij,unreviewed,frappe
-Background Jobs,Achtergrond Jobs,unreviewed,frappe
-Background Workers,Achtergrond werknemers,unreviewed,frappe
-Backing up to Google Drive.,Back-up maken op Google Drive.,unreviewed,frappe
-Backup Details,Back-upgegevens,unreviewed,frappe
-Backup Files,Backup bestanden,unreviewed,frappe
-Backup Folder ID,Back-upmap-ID,unreviewed,frappe
-Backup Folder Name,Naam back-upmap,unreviewed,frappe
-Backup Frequency,Backup Frequentie,unreviewed,frappe
-Backup job is already queued. You will receive an email with the download link,Backup-taak is al in de rij. U ontvangt een email met de downloadlink,unreviewed,frappe
-Backup Limit,Backup limiet,unreviewed,frappe
-Backup public and private files along with the database.,Maak samen met de database een back-up van openbare en privébestanden.,unreviewed,frappe
-backward,achterwaarts,unreviewed,frappe
-Balance,Balans,unreviewed,erpnext
-Balance (Dr - Cr),Evenwicht (Dr - Cr),unreviewed,erpnext
-Balance ({0}),Saldo ({0}),unreviewed,erpnext
-Balance Details,Saldo Details,unreviewed,erpnext
-Balance for Account {0} must always be {1},Saldo van rekening {0} moet altijd {1} zijn,unreviewed,erpnext
-Balance In Account Currency,Saldo in accountvaluta,unreviewed,erpnext
-Balance In Base Currency,Balans in basisvaluta,unreviewed,erpnext
-Balance must be,Saldo moet worden,unreviewed,erpnext
-Balance Qty,Balans aantal,unreviewed,erpnext
-Balance Serial No,Weegschaal serienr,unreviewed,erpnext
-Balance Sheet,Balans,unreviewed,erpnext
-Balance Value,Balans Waarde,unreviewed,erpnext
-ban-circle,ban-cirkel,unreviewed,frappe
-Bank / Cash Account,Bank- / Kasrekening,unreviewed,erpnext
-Bank A/C No.,Bank A / C nr.,unreviewed,erpnext
-Bank Account,Bankrekening,unreviewed,erpnext
-Bank account '{0}' has been synchronized,Bankrekening &#39;{0}&#39; is gesynchroniseerd,unreviewed,erpnext
-Bank account cannot be named as {0},Bankrekening kan niet worden genoemd als {0},unreviewed,erpnext
-Bank Account Details,Bankgegevens,unreviewed,erpnext
-Bank Account Info,Bankrekeninggegevens,unreviewed,erpnext
-Bank Account No,Bankrekening nummer,unreviewed,erpnext
-Bank Account No.,Bankrekeningnummer,unreviewed,erpnext
+Available Qty at From Warehouse,Beschikbare hoeveelheid bij bronmagazijn,reviewed,erpnext
+Available Qty at Source Warehouse,Beschikbare hoeveelheid bij bronmagazijn,reviewed,erpnext
+Available Qty at Warehouse,Beschikbare hoeveelheid bij magazijn,reviewed,erpnext
+Available Qty at WIP Warehouse,Beschikbare hoeveelheid bij OHW-magazijn,reviewed,erpnext
+Available Quantity,Beschikbare hoeveelheid,reviewed,erpnext
+"Available quantity is {0}, you need {1}","Beschikbare hoeveelheid is {0}, u heeft {1} nodig",reviewed,erpnext
+Available Selling,Beschikbare verkoop,reviewed,erpnext
+Available slots,Beschikbare tijdsloten,reviewed,erpnext
+Available Stock,Beschikbare voorraad,reviewed,erpnext
+Available Stock for Packing Items,Beschikbare voorraad voor verpakkingsartikelen,reviewed,erpnext
+Available {0},Beschikbaar {0},reviewed,erpnext
+Available-for-use Date,Beschikbaar voor gebruik vanaf datum,reviewed,erpnext
+Available-for-use Date should be after purchase date,Beschikbaar voor gebruik vanaf datum moet na de aankoopdatum liggen,reviewed,erpnext
+Availed ITC Central Tax,Gebruikt ITC Central Tax,reviewed,erpnext
+Availed ITC Cess,Gebruikt ITC Cess,reviewed,erpnext
+Availed ITC Integrated Tax,Gebruikte ITC Integrated Tax,reviewed,erpnext
+Availed ITC State/UT Tax,Gebruikte ITC State / UT-belasting,reviewed,erpnext
+Average,Gemiddelde,reviewed,frappe
+Average Age,Gemiddelde leeftijd,reviewed,erpnext
+Average Commission Rate,Gemiddeld commissiepercentage,reviewed,erpnext
+Average Discount,Gemiddelde korting,reviewed,erpnext
+Average of {0},Gemiddelde van {0},reviewed,frappe
+Average Rate,Gemiddeld tarief,reviewed,erpnext
+Average Response Time,Gemiddelde reactietijd,reviewed,erpnext
+Average Score,Gemiddelde score,reviewed,erpnext
+Average time taken by the supplier to deliver,Gemiddelde levertijd van de leverancier,reviewed,erpnext
+Avg Daily Outgoing,Gem. dagelijks uitgaand,reviewed,erpnext
+Avg. Buying Price List Rate,Gem. inkoopprijslijsttarief,reviewed,erpnext
+Avg. Selling Price List Rate,Gem. verkoopprijslijsttarief,reviewed,erpnext
+Avg. Selling Rate,Gem. verkooptarief,reviewed,erpnext
+Avoid Confirmation,Bevestiging overslaan,reviewed,erpnext
+Avoid dates and years that are associated with you.,Vermijd datums en jaren die aan u gelinkt zijn.,reviewed,frappe
+Avoid recent years.,Vermijd recente jaren.,reviewed,frappe
+Avoid sequences like abc or 6543 as they are easy to guess,"Vermijd reeksen zoals abc of 6543, want die zijn makkelijk te raden",reviewed,frappe
+Avoid years that are associated with you.,Vermijd jaren die aan u gelinkt zijn.,reviewed,frappe
+Awaiting Password,Wacht op wachtwoord,reviewed,frappe
+Awaiting password,Wacht op wachtwoord,reviewed,frappe
+Away,Weg,reviewed,frappe
+B Negative,B Negatief,reviewed,erpnext
+B Positive,B Positief,reviewed,erpnext
+B+,B+,reviewed,erpnext
+B2C Limit,B2C-limiet,reviewed,erpnext
+Back to,Terug naar,reviewed,erpnext
+Back to Course,Terug naar cursus,reviewed,erpnext
+Back to Desk,Terug naar bureaublad,reviewed,frappe
+Back to Home,Terug naar startpagina,reviewed,frappe
+Back to Login,Terug naar inloggen,reviewed,frappe
+Back to Messages,Terug naar berichten,reviewed,erpnext
+Backdated Stock Entry,Voorraadinvoer met terugwerkende kracht,reviewed,erpnext
+Backflush Raw Materials,Backflush-grondstoffen,reviewed,erpnext
+Backflush Raw Materials Based On,Grondstoffen backflush op basis van,reviewed,erpnext
+Backflush Raw Materials From Work-in-Progress Warehouse,Grondstoffen backflush uit OHW-magazijn,reviewed,erpnext
+Backflush Raw Materials of Subcontract Based On,Grondstoffen backflush van uitbesteding op basis van,reviewed,erpnext
+Background Color,Achtergrondkleur,reviewed,frappe
+Background Email Queue,Achtergronde-mailwachtrij,reviewed,frappe
+Background Jobs,Achtergrondtaken,reviewed,frappe
+Background Workers,Achtergrondprocessen,reviewed,frappe
+Backing up to Google Drive.,Back-up maken op Google Drive.,reviewed,frappe
+Backup Details,Back-upgegevens,reviewed,frappe
+Backup Files,Back-upbestanden,reviewed,frappe
+Backup Folder ID,Back-upmap-ID,reviewed,frappe
+Backup Folder Name,Naam back-upmap,reviewed,frappe
+Backup Frequency,Back-upfrequentie,reviewed,frappe
+Backup job is already queued. You will receive an email with the download link,Back-uptaak staat al in de wachtrij. U ontvangt een e-mail met de downloadlink.,reviewed,frappe
+Backup Limit,Back-uplimiet,reviewed,frappe
+Backup public and private files along with the database.,Maak samen met de database een back-up van openbare en privébestanden.,reviewed,frappe
+backward,achterwaarts,reviewed,frappe
+Balance,Saldo,reviewed,erpnext
+Balance (Dr - Cr),Saldo (Db - Cr),reviewed,erpnext
+Balance ({0}),Saldo ({0}),reviewed,erpnext
+Balance Details,Saldogegevens,reviewed,erpnext
+Balance for Account {0} must always be {1},Saldo van rekening {0} moet altijd {1} zijn,reviewed,erpnext
+Balance In Account Currency,Saldo in rekeningvaluta,reviewed,erpnext
+Balance In Base Currency,Saldo in basisvaluta,reviewed,erpnext
+Balance must be,Saldo moet worden,reviewed,erpnext
+Balance Qty,Saldohoeveelheid,reviewed,erpnext
+Balance Serial No,Saldo serienr.,reviewed,erpnext
+Balance Sheet,Balans,reviewed,erpnext
+Balance Value,Balans Waarde,reviewed,erpnext
+ban-circle,ban-cirkel,reviewed,frappe
+Bank / Cash Account,Bank- / Kasrekening,reviewed,erpnext
+Bank A/C No.,Bank A / C nr.,reviewed,erpnext
+Bank Account,Bankrekening,reviewed,erpnext
+Bank account '{0}' has been synchronized,Bankrekening &#39;{0}&#39; is gesynchroniseerd,reviewed,erpnext
+Bank account cannot be named as {0},Bankrekening kan niet worden genoemd als {0},reviewed,erpnext
+Bank Account Details,Bankgegevens,reviewed,erpnext
+Bank Account Info,Bankrekeninggegevens,reviewed,erpnext
+Bank Account No,Bankrekening nummer,reviewed,erpnext
+Bank Account No.,Bankrekeningnummer,reviewed,erpnext
 Bank Account Subtype,Bankrekeningsubtype,reviewed,erpnext
 Bank Account Type,Bankrekeningtype,reviewed,erpnext
-Bank account {0} already exists and could not be created again,Bankrekening {0} bestaat al en kon niet opnieuw worden aangemaakt,unreviewed,erpnext
-Bank Accounts,Bankrekeningen,unreviewed,erpnext
-Bank accounts added,Bankrekeningen toegevoegd,unreviewed,erpnext
-Bank Balance,Banksaldo,unreviewed,erpnext
-Bank Charges,Bancaire kosten,unreviewed,erpnext
-Bank Charges Account,Bankkostenrekening,unreviewed,erpnext
-Bank Clearance,Bankvereffening,unreviewed,erpnext
-Bank Clearance Detail,Bankvereffeningsdetails,unreviewed,erpnext
-Bank Clearance Summary,Bankbewaring samenvatting,unreviewed,erpnext
-Bank Credit Balance,Bankkredietsaldo,unreviewed,erpnext
-Bank Data,Bankgegevens,unreviewed,erpnext
-Bank Data mapper doesn't exist,Bankgegevensmap bestaat niet,unreviewed,erpnext
-Bank Details,Bankgegevens,unreviewed,erpnext
-Bank Draft,Bankcheque,unreviewed,erpnext
-Bank Entry,Bank Invoer,unreviewed,erpnext
+Bank account {0} already exists and could not be created again,Bankrekening {0} bestaat al en kon niet opnieuw worden aangemaakt,reviewed,erpnext
+Bank Accounts,Bankrekeningen,reviewed,erpnext
+Bank accounts added,Bankrekeningen toegevoegd,reviewed,erpnext
+Bank Balance,Banksaldo,reviewed,erpnext
+Bank Charges,Bancaire kosten,reviewed,erpnext
+Bank Charges Account,Bankkostenrekening,reviewed,erpnext
+Bank Clearance,Bankvereffening,reviewed,erpnext
+Bank Clearance Detail,Bankvereffeningsdetails,reviewed,erpnext
+Bank Clearance Summary,Bankbewaring samenvatting,reviewed,erpnext
+Bank Credit Balance,Bankkredietsaldo,reviewed,erpnext
+Bank Data,Bankgegevens,reviewed,erpnext
+Bank Data mapper doesn't exist,Bankgegevensmap bestaat niet,reviewed,erpnext
+Bank Details,Bankgegevens,reviewed,erpnext
+Bank Draft,Bankcheque,reviewed,erpnext
+Bank Entry,Bank Invoer,reviewed,erpnext
 Bank Guarantee,Bankgarantie,reviewed,erpnext
-Bank Guarantee Number,Bankgarantie Nummer,unreviewed,erpnext
-Bank Guarantee Type,Type bankgarantie,unreviewed,erpnext
-Bank Header,Bankkop,unreviewed,erpnext
-Bank Name,Banknaam,unreviewed,erpnext
-Bank Overdraft Account,Bank Kredietrekening,unreviewed,erpnext
-Bank Reconciliation,Bank Aflettering,unreviewed,erpnext
-Bank Reconciliation Detail,Bank Aflettering Detail,unreviewed,erpnext
-Bank Reconciliation Statement,Bank Aflettering Statement,unreviewed,erpnext
-Bank Statement,Bankafschrift,unreviewed,erpnext
-Bank Statement balance as per General Ledger,Bankafschrift saldo per General Ledger,unreviewed,erpnext
+Bank Guarantee Number,Bankgarantie Nummer,reviewed,erpnext
+Bank Guarantee Type,Type bankgarantie,reviewed,erpnext
+Bank Header,Bankkop,reviewed,erpnext
+Bank Name,Banknaam,reviewed,erpnext
+Bank Overdraft Account,Bank Kredietrekening,reviewed,erpnext
+Bank Reconciliation,Bank Aflettering,reviewed,erpnext
+Bank Reconciliation Detail,Bank Aflettering Detail,reviewed,erpnext
+Bank Reconciliation Statement,Bank Aflettering Statement,reviewed,erpnext
+Bank Statement,Bankafschrift,reviewed,erpnext
+Bank Statement balance as per General Ledger,Bankafschrift saldo per General Ledger,reviewed,erpnext
 Bank Statement Import,Bankafschrift importeren,reviewed,custom
-Bank Statement Settings,Instellingen bankafschriften,unreviewed,erpnext
-Bank Statement Settings Item,Instellingen voor bankafschriftinstellingen,unreviewed,erpnext
-Bank Statement Transaction Entry,Rekeningoverzichtstransactie,unreviewed,erpnext
-Bank Statement Transaction Invoice Item,Rekeningoverzicht Transactie Rekening Item,unreviewed,erpnext
-Bank Statement Transaction Payment Item,Betalingstransactie voor bankafschrift,unreviewed,erpnext
-Bank Statement Transaction Settings Item,Bankafschrift Transaction Settings Item,unreviewed,erpnext
+Bank Statement Settings,Instellingen bankafschriften,reviewed,erpnext
+Bank Statement Settings Item,Instellingen voor bankafschriftinstellingen,reviewed,erpnext
+Bank Statement Transaction Entry,Rekeningoverzichtstransactie,reviewed,erpnext
+Bank Statement Transaction Invoice Item,Rekeningoverzicht Transactie Rekening Item,reviewed,erpnext
+Bank Statement Transaction Payment Item,Betalingstransactie voor bankafschrift,reviewed,erpnext
+Bank Statement Transaction Settings Item,Bankafschrift Transaction Settings Item,reviewed,erpnext
 Bank Transaction,Banktransactie,reviewed,erpnext
-Bank transaction creation error,Fout bij maken van banktransactie,unreviewed,erpnext
-Bank Transaction Entries,Banktransactieposten,unreviewed,erpnext
-Bank Transaction Mapping,Mapping van banktransacties,unreviewed,erpnext
-Bank Transaction Payments,Betalingen via banktransacties,unreviewed,erpnext
-Bank/Cash transactions against party or for internal transfer,Bank / Cash-transacties tegen de partij of voor interne overplaatsing,unreviewed,erpnext
-Banking,Bankieren,unreviewed,erpnext
-Banking and Payments,Bank en betalingen,unreviewed,erpnext
-Banner Image,Banner Afbeelding,unreviewed,frappe
-Banner is above the Top Menu Bar.,Banner is boven de top menubalk.,unreviewed,frappe
-Barcode Type,Streepjescodetype,unreviewed,erpnext
-Barcode {0} already used in Item {1},Barcode {0} is al gebruikt in het Item {1},unreviewed,erpnext
-Barcode {0} is not a valid {1} code,Barcode {0} is geen geldige {1} code,unreviewed,erpnext
-Base Amount (Company Currency),Basisbedrag (Company Munt),unreviewed,erpnext
-Base Change Amount (Company Currency),Base Change Bedrag (Company Munt),unreviewed,erpnext
-Base Hour Rate(Company Currency),Base Uur Rate (Company Munt),unreviewed,erpnext
-Base URL,Basis-URL,unreviewed,both
-Based On,Gebaseerd op,unreviewed,both
-Based On Data ( in years ),Gebaseerd op gegevens (in jaren),unreviewed,erpnext
-Based On Document,Gebaseerd op document,unreviewed,erpnext
-Based on Field,Gebaseerd op veld,unreviewed,frappe
-Based On Payment Terms,Op basis van betalingsvoorwaarden,unreviewed,erpnext
-Based on Permissions For User,Op basis van de machtigingen voor de gebruiker,unreviewed,frappe
-Based On Price List,Gebaseerd op prijslijst,unreviewed,erpnext
-based_on,gebaseerd op,unreviewed,erpnext
-Basic,Basis,unreviewed,frappe
-Basic Amount,Basisbedrag,unreviewed,erpnext
-Basic Amount (Company Currency),Basisbedrag (Company Munt),unreviewed,erpnext
-Basic Component,Basiscomponent,unreviewed,erpnext
-Basic Details,Basisgegevens,unreviewed,erpnext
-Basic Rate,Basis Tarief,unreviewed,erpnext
-Basic Rate (as per Stock UOM),Basistarief (per eenheid),unreviewed,erpnext
-Basic Rate (Company Currency),Basis Tarief (Bedrijfs Valuta),unreviewed,erpnext
-Batch,Partij,unreviewed,erpnext
-Batch Description,Batch Beschrijving,unreviewed,erpnext
-Batch Details,Batchgegevens,unreviewed,erpnext
-Batch Entries,Batchvermeldingen,unreviewed,erpnext
-Batch ID,Partij ID,unreviewed,erpnext
-Batch ID is mandatory,Batch ID is verplicht,unreviewed,erpnext
-Batch Identification,Batchidentificatie,unreviewed,erpnext
-Batch Item Expiry Status,Batch Item Vervaldatum Status,unreviewed,erpnext
-Batch Name,batch Naam,unreviewed,erpnext
-Batch No,Partij nr.,unreviewed,erpnext
-Batch no is required for batched item {0},Batch-nummer is vereist voor batch-artikel {0},unreviewed,erpnext
-Batch number is mandatory for Item {0},Partij nummer is verplicht voor artikel {0},unreviewed,erpnext
-Batch Number Series,Batchnummerserie,unreviewed,erpnext
-Batch Quantity,Batchhoeveelheid,unreviewed,erpnext
-Batch Size,Seriegrootte,unreviewed,erpnext
-Batch UOM,Batch maateenheid,unreviewed,erpnext
-Batch {0} already selected.,Batch {0} is al geselecteerd.,unreviewed,erpnext
-Batch {0} of Item {1} has expired.,Batch {0} van item {1} is verlopen.,unreviewed,erpnext
-Batch {0} of Item {1} is disabled.,Batch {0} van item {1} is uitgeschakeld.,unreviewed,erpnext
-Batch-Wise Balance History,Batchgewijze balansgeschiedenis,unreviewed,erpnext
-Batch:,Partij:,unreviewed,erpnext
-Batches,batches,unreviewed,erpnext
-because account {} is not linked to warehouse {},omdat account {} niet is gekoppeld aan magazijn {},unreviewed,erpnext
+Bank transaction creation error,Fout bij maken van banktransactie,reviewed,erpnext
+Bank Transaction Entries,Banktransactieposten,reviewed,erpnext
+Bank Transaction Mapping,Mapping van banktransacties,reviewed,erpnext
+Bank Transaction Payments,Betalingen via banktransacties,reviewed,erpnext
+Bank/Cash transactions against party or for internal transfer,Bank / Cash-transacties tegen de partij of voor interne overplaatsing,reviewed,erpnext
+Banking,Bankieren,reviewed,erpnext
+Banking and Payments,Bank en betalingen,reviewed,erpnext
+Banner Image,Banner Afbeelding,reviewed,frappe
+Banner is above the Top Menu Bar.,Banner is boven de top menubalk.,reviewed,frappe
+Barcode Type,Streepjescodetype,reviewed,erpnext
+Barcode {0} already used in Item {1},Barcode {0} is al gebruikt in het Item {1},reviewed,erpnext
+Barcode {0} is not a valid {1} code,Barcode {0} is geen geldige {1} code,reviewed,erpnext
+Base Amount (Company Currency),Basisbedrag (Company Munt),reviewed,erpnext
+Base Change Amount (Company Currency),Base Change Bedrag (Company Munt),reviewed,erpnext
+Base Hour Rate(Company Currency),Base Uur Rate (Company Munt),reviewed,erpnext
+Base URL,Basis-URL,reviewed,both
+Based On,Gebaseerd op,reviewed,both
+Based On Data ( in years ),Gebaseerd op gegevens (in jaren),reviewed,erpnext
+Based On Document,Gebaseerd op document,reviewed,erpnext
+Based on Field,Gebaseerd op veld,reviewed,frappe
+Based On Payment Terms,Op basis van betalingsvoorwaarden,reviewed,erpnext
+Based on Permissions For User,Op basis van de machtigingen voor de gebruiker,reviewed,frappe
+Based On Price List,Gebaseerd op prijslijst,reviewed,erpnext
+based_on,gebaseerd op,reviewed,erpnext
+Basic,Basis,reviewed,frappe
+Basic Amount,Basisbedrag,reviewed,erpnext
+Basic Amount (Company Currency),Basisbedrag (Company Munt),reviewed,erpnext
+Basic Component,Basiscomponent,reviewed,erpnext
+Basic Details,Basisgegevens,reviewed,erpnext
+Basic Rate,Basis Tarief,reviewed,erpnext
+Basic Rate (as per Stock UOM),Basistarief (per eenheid),reviewed,erpnext
+Basic Rate (Company Currency),Basis Tarief (Bedrijfs Valuta),reviewed,erpnext
+Batch,Partij,reviewed,erpnext
+Batch Description,Batch Beschrijving,reviewed,erpnext
+Batch Details,Batchgegevens,reviewed,erpnext
+Batch Entries,Batchvermeldingen,reviewed,erpnext
+Batch ID,Partij ID,reviewed,erpnext
+Batch ID is mandatory,Batch ID is verplicht,reviewed,erpnext
+Batch Identification,Batchidentificatie,reviewed,erpnext
+Batch Item Expiry Status,Batch Item Vervaldatum Status,reviewed,erpnext
+Batch Name,batch Naam,reviewed,erpnext
+Batch No,Partij nr.,reviewed,erpnext
+Batch no is required for batched item {0},Batch-nummer is vereist voor batch-artikel {0},reviewed,erpnext
+Batch number is mandatory for Item {0},Partij nummer is verplicht voor artikel {0},reviewed,erpnext
+Batch Number Series,Batchnummerserie,reviewed,erpnext
+Batch Quantity,Batchhoeveelheid,reviewed,erpnext
+Batch Size,Seriegrootte,reviewed,erpnext
+Batch UOM,Batch maateenheid,reviewed,erpnext
+Batch {0} already selected.,Batch {0} is al geselecteerd.,reviewed,erpnext
+Batch {0} of Item {1} has expired.,Batch {0} van item {1} is verlopen.,reviewed,erpnext
+Batch {0} of Item {1} is disabled.,Batch {0} van item {1} is uitgeschakeld.,reviewed,erpnext
+Batch-Wise Balance History,Batchgewijze balansgeschiedenis,reviewed,erpnext
+Batch:,Partij:,reviewed,erpnext
+Batches,batches,reviewed,erpnext
+because account {} is not linked to warehouse {},omdat account {} niet is gekoppeld aan magazijn {},reviewed,erpnext
 because expense is booked against this account in Purchase Receipt {},omdat onkosten worden geboekt op deze rekening in Aankoopbewijs {},unreviewed,erpnext
 Become a Seller,Word een verkoper,unreviewed,erpnext
 Before Cancel,Voor annuleren,unreviewed,frappe

@@ -701,207 +701,207 @@ Alternative Item Code,Alternatieve artikelcode,reviewed,erpnext
 Alternative item must not be same as item code,Alternatief artikel mag niet hetzelfde zijn als artikelcode,reviewed,erpnext
 Alternative Item Name,Alternatieve artikelnaam,reviewed,erpnext
 "Always add ""Draft"" Heading for printing draft documents",Voeg altijd &quot;Concept&quot; Heading for printing conceptdocumenten,reviewed,frappe
-Always sync your products from Amazon MWS before synching the Orders details,Synchroniseer altijd uw producten van Amazon MWS voordat u de bestelgegevens synchroniseert,unreviewed,erpnext
-Always use Account's Email Address as Sender,Gebruik altijd Account E-mailadres als afzender,unreviewed,frappe
-Always use Account's Name as Sender's Name,Gebruik altijd de accountnaam als afzendernaam,unreviewed,frappe
-Amazon MWS Settings,Amazon MWS-instellingen,unreviewed,erpnext
-Amazon will synch data updated after this date,Amazon synchroniseert gegevens die na deze datum zijn bijgewerkt,unreviewed,erpnext
-AMC Expiry Date,AMC Vervaldatum,unreviewed,erpnext
-Amend,Amenderen,unreviewed,frappe
+Always sync your products from Amazon MWS before synching the Orders details,Synchroniseer altijd uw producten van Amazon MWS voordat u de bestelgegevens synchroniseert,reviewed,erpnext
+Always use Account's Email Address as Sender,Gebruik altijd het e-mailadres van het account als afzender,reviewed,frappe
+Always use Account's Name as Sender's Name,Gebruik altijd de accountnaam als afzendernaam,reviewed,frappe
+Amazon MWS Settings,Amazon MWS-instellingen,reviewed,erpnext
+Amazon will synch data updated after this date,Amazon synchroniseert gegevens die na deze datum zijn bijgewerkt,reviewed,erpnext
+AMC Expiry Date,AMC-vervaldatum,reviewed,erpnext
+Amend,Corrigeren,reviewed,frappe
 Amended From,Gewijzigd van,reviewed,both
-Amending,Wijziging,unreviewed,frappe
-Amenities,voorzieningen,unreviewed,erpnext
-Amount,Bedrag,unreviewed,both
-Amount (Company Currency),Bedrag (Company Munt),unreviewed,erpnext
-Amount After Depreciation,Bedrag na afschrijvingen,unreviewed,erpnext
-Amount Based On Field,Bedrag op basis van Field,unreviewed,frappe
-Amount Delivered,Bedrag geleverd,unreviewed,erpnext
-Amount Difference,bedrag Verschil,unreviewed,erpnext
-Amount Field,bedrag Field,unreviewed,frappe
-Amount in customer's currency,Bedrag in de valuta van de klant,unreviewed,erpnext
-Amount In Figure,Bedrag In figuur,unreviewed,erpnext
-Amount must be greater than 0.,Het bedrag moet groter zijn dan 0.,unreviewed,frappe
-Amount of Integrated Tax,Bedrag van geïntegreerde belasting,unreviewed,erpnext
-Amount of TDS Deducted,Hoeveelheid TDS afgetrokken,unreviewed,erpnext
-Amount of {0} is required for Loan closure,Een bedrag van {0} is vereist voor het afsluiten van de lening,unreviewed,erpnext
-Amount should not be less than zero.,Bedrag mag niet minder dan nul zijn.,unreviewed,erpnext
-Amount to Bill,Neerkomen op Bill,unreviewed,erpnext
-Amount {0} {1} against {2} {3},Bedrag {0} {1} tegen {2} {3},unreviewed,erpnext
-Amount {0} {1} deducted against {2},Bedrag {0} {1} in mindering gebracht tegen {2},unreviewed,erpnext
-Amount {0} {1} transferred from {2} to {3},Bedrag {0} {1} overgebracht van {2} naar {3},unreviewed,erpnext
-Amount {0} {1} {2} {3},Bedrag {0} {1} {2} {3},unreviewed,erpnext
-An academic term with this 'Academic Year' {0} and 'Term Name' {1} already exists. Please modify these entries and try again.,Een wetenschappelijke term met deze &#39;Academisch Jaar&#39; {0} en &#39;Term Name&#39; {1} bestaat al. Wijzig deze ingangen en probeer het opnieuw.,unreviewed,erpnext
-An error occured during the payment process. Please contact us.,Er is een fout opgetreden tijdens het betalingsproces. Contacteer ons alsjeblieft.,unreviewed,frappe
-An error occurred during the update process,Er is een fout opgetreden tijdens het updateproces,unreviewed,erpnext
-An error occurred while setting Session Defaults,Er is een fout opgetreden bij het instellen van standaardwaarden voor sessies,unreviewed,frappe
-An icon file with .ico extension. Should be 16 x 16 px. Generated using a favicon generator. [favicon-generator.org],Een icoon bestand met de extensie .ico. Moet 16 x 16 px. Gegenereerd met behulp van een favicon generator. [favicon-generator.org],unreviewed,frappe
-An Inpatient Medication Order {0} against Patient Encounter {1} already exists.,Er bestaat al een bestelling voor intramurale medicatie {0} tegen ontmoeting met de patiënt {1}.,unreviewed,erpnext
-An invoice is already linked to this document,Aan dit document is al een factuur gekoppeld,unreviewed,erpnext
-"An item exists with same name ({0}), please change the item group name or rename the item","Een item bestaat met dezelfde naam ( {0} ) , wijzigt u de naam van het item groep of hernoem het item",unreviewed,erpnext
-"An Item Group exists with same name, please change the item name or rename the item group","Een artikel Group bestaat met dezelfde naam , moet u de naam van het item of de naam van de artikelgroep",unreviewed,erpnext
-Analyst,analist,unreviewed,erpnext
-Ancestors Of,Voorouders van,unreviewed,frappe
-and,en,unreviewed,both
-Andaman and Nicobar Islands,Andamanen en Nicobaren,unreviewed,frappe
-Annual,jaar-,unreviewed,both
-Annual Billing: {0},Jaarlijkse Billing: {0},unreviewed,erpnext
-Annual Expenses,jaarlijkse kosten,unreviewed,erpnext
-Annual Income,Jaarlijks inkomen,unreviewed,erpnext
-Anonymous,Anoniem,unreviewed,frappe
-Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4},Een ander budgetrecord &#39;{0}&#39; bestaat al voor {1} &#39;{2}&#39; en account &#39;{3}&#39; voor het fiscale jaar {4},unreviewed,erpnext
-Another Period Closing Entry {0} has been made after {1},Een ander Periode sluitpost {0} is gemaakt na {1},unreviewed,erpnext
-Another Sales Person {0} exists with the same Employee id,Een andere Sales Person {0} bestaat met dezelfde werknemer id,unreviewed,erpnext
-Another transaction is blocking this one. Please try again in a few seconds.,Andere transactie blokkeert deze. Probeer opnieuw in een paar seconden.,unreviewed,frappe
-"Another {0} with name {1} exists, select another name","Een ander {0} met de naam {1} bestaat, selecteert u een andere naam",unreviewed,frappe
-Antibiotic,Antibioticum,unreviewed,erpnext
-Antibiotic Name,Antibiotische naam,unreviewed,erpnext
-Any string-based printer languages can be used. Writing raw commands requires knowledge of the printer's native language provided by the printer manufacturer. Please refer to the developer manual provided by the printer manufacturer on how to write their native commands. These commands are rendered on the server side using the Jinja Templating Language.,"Elke string-gebaseerde printertalen kunnen worden gebruikt. Het schrijven van onbewerkte opdrachten vereist kennis van de moedertaal van de printer, geleverd door de printerfabrikant. Raadpleeg de ontwikkelaarshandleiding van de printerfabrikant over het schrijven van hun eigen opdrachten. Deze commando&#39;s worden aan de serverzijde weergegeven met behulp van de Jinja Templating Language.",unreviewed,frappe
-ap-northeast-1,ap-noordoost-1,unreviewed,frappe
-ap-northeast-2,ap-noordoost-2,unreviewed,frappe
-ap-northeast-3,ap-noordoost-3,unreviewed,frappe
-ap-south-1,ap-zuid-1,unreviewed,frappe
-ap-southeast-1,ap-zuidoosten-1,unreviewed,frappe
-ap-southeast-2,ap-zuidoosten-2,unreviewed,frappe
-"Apart from System Manager, roles with Set User Permissions right can set permissions for other users for that Document Type.","Afgezien van de System Manager, rollen met Set User Permissions recht kunt toestemmingen voor andere gebruikers voor dat type document.",unreviewed,frappe
-API Access,API-toegang,unreviewed,frappe
-API consumer key,API-gebruikerscode,unreviewed,erpnext
-API consumer secret,API-gebruikersgeheim,unreviewed,erpnext
-API Endpoint,API-eindpunt,unreviewed,both
-API Endpoint Args,API-eindpuntargumenten,unreviewed,frappe
-API Key cannot be  regenerated,API-sleutel kan niet worden geregenereerd,unreviewed,frappe
-API Key of the user(Event Subscriber) on the producer site,API Key van de gebruiker (Event Subscriber) op de producer-site,unreviewed,frappe
-API Method,API-methode,unreviewed,frappe
-API Secret Key,API geheime sleutel,unreviewed,erpnext
-API Secret of the user(Event Subscriber) on the producer site,API-geheim van de gebruiker (Event-abonnee) op de producer-site,unreviewed,frappe
-API Token,API-token,unreviewed,erpnext
-API Username,API Gebruikersnaam,unreviewed,frappe
-App Name,App Naam,unreviewed,frappe
-App not found,App niet gevonden,unreviewed,frappe
-App {0} already installed,App {0} reeds geïnstalleerd,unreviewed,frappe
-App {0} is not installed,App {0} is niet geïnstalleerd,unreviewed,frappe
-Apparel & Accessories,Kleding & Toebehoren,unreviewed,erpnext
-Appearance,Uiterlijk,unreviewed,erpnext
-"Append as communication against this DocType (must have fields, ""Status"", ""Subject"")","Voegen als communicatie tegen deze DocType (moet velden, ""Status"" hebben, ""Onderwerp"")",unreviewed,frappe
-Append Emails to Sent Folder,E-mails toevoegen aan map Verzonden,unreviewed,frappe
-Append To,Toevoegen aan,unreviewed,frappe
-Append To can be one of {0},Toevoegen aan kan een van {0},unreviewed,frappe
-Append To is mandatory for incoming mails,Toevoegen aan is verplicht voor inkomende mails,unreviewed,frappe
-Applicable Charges,Toepasselijke kosten,unreviewed,erpnext
-Applicable Document Types,Toepasselijke documenttypen,unreviewed,frappe
-Applicable For,Toepasselijk voor,unreviewed,both
-Applicable for Countries,Toepasselijk voor Landen,unreviewed,erpnext
-Applicable for external driver,Toepasbaar voor externe driver,unreviewed,erpnext
-Applicable for Users,Toepasbaar voor gebruikers,unreviewed,erpnext
-Applicable Holiday List,Toepasselijk Holiday Lijst,unreviewed,erpnext
-Applicable if the company is a limited liability company,Van toepassing als het bedrijf een naamloze vennootschap is,unreviewed,erpnext
-Applicable if the company is an Individual or a Proprietorship,Van toepassing als het bedrijf een individu of een eigenaar is,unreviewed,erpnext
-"Applicable if the company is SpA, SApA or SRL","Van toepassing als het bedrijf SpA, SApA of SRL is",unreviewed,erpnext
-Applicable Modules,Toepasselijke modules,unreviewed,erpnext
-Applicable on booking actual expenses,Van toepassing op het boeken van werkelijke uitgaven,unreviewed,erpnext
-Applicable on Material Request,Van toepassing op artikelaanvraag,unreviewed,erpnext
-Applicable on Purchase Order,Van toepassing op bestelling,unreviewed,erpnext
-Applicable To (Designation),Van toepassing zijn op (Benaming),unreviewed,erpnext
-Applicable To (Employee),Van toepassing zijn op (Werknemer),unreviewed,erpnext
-Applicable To (Role),Van toepassing zijn op (Rol),unreviewed,erpnext
-Applicable To (User),Van toepassing zijn op (Gebruiker),unreviewed,erpnext
-Application Fee,Aanvraagkosten,unreviewed,erpnext
-Application Logo,Toepassingslogo,unreviewed,frappe
-Application Name,Naam van de toepassing,unreviewed,frappe
-Application of Funds (Assets),Toepassing van kapitaal (Activa),unreviewed,erpnext
-Application Settings,Applicatie instellingen,unreviewed,erpnext
-Application Version,Applicatie versie,unreviewed,frappe
-Applied,Toegepast,unreviewed,erpnext
-Applied Coupon Code,Toegepaste couponcode,unreviewed,erpnext
-Applied On,Toegepast op,unreviewed,frappe
-Apply,Van toepassing zijn,unreviewed,frappe
-Apply Additional Discount On,Breng Extra Korting op,unreviewed,erpnext
-Apply Assignment Rule,Toewijzingsregel toepassen,unreviewed,frappe
-Apply Coupon Code,Couponcode toepassen,unreviewed,erpnext
-Apply Discount On,Breng Korting op,unreviewed,erpnext
-Apply Discount on Discounted Rate,Korting op kortingstarief toepassen,unreviewed,erpnext
-Apply Discount on Rate,Korting op tarief toepassen,unreviewed,erpnext
-Apply Document Permissions,Pas documentmachtigingen toe,unreviewed,frappe
-Apply Multiple Pricing Rules,Pas meerdere prijsregels toe,unreviewed,erpnext
-Apply On,toepassing op,unreviewed,erpnext
-Apply Only Once,Slechts eenmaal toepassen,unreviewed,frappe
-Apply Rule On Brand,Regel op merk toepassen,unreviewed,erpnext
-Apply Rule On Item Code,Regel toepassen op artikelcode,unreviewed,erpnext
-Apply Rule On Item Group,Regel toepassen op artikelgroep,unreviewed,erpnext
-Apply Rule On Other,Regel toepassen op andere,unreviewed,erpnext
-Apply Strict User Permissions,Strikte Gebruikersvergunningen toepassen,unreviewed,frappe
-Apply Tax Withholding Amount,Belastingvergoeding toepassen,unreviewed,erpnext
-Apply this rule if the User is the Owner,Pas deze regel als de gebruiker met de eigenaar,unreviewed,frappe
-Apply this rule only once per document,Pas deze regel slechts eenmaal per document toe,unreviewed,frappe
-Apply To All Document Types,Toepassen op alle documenttypen,unreviewed,frappe
-Apply to all Documents Types,Toepassen op alle soorten documenten,unreviewed,frappe
-Applying: {0},Toepassen: {0},unreviewed,frappe
+Amending,Corrigeren,reviewed,frappe
+Amenities,Voorzieningen,reviewed,erpnext
+Amount,Bedrag,reviewed,both
+Amount (Company Currency),Bedrag (bedrijfsvaluta),reviewed,erpnext
+Amount After Depreciation,Bedrag na afschrijvingen,reviewed,erpnext
+Amount Based On Field,Bedrag op basis van veld,reviewed,frappe
+Amount Delivered,Geleverd bedrag,reviewed,erpnext
+Amount Difference,Bedragverschil,reviewed,erpnext
+Amount Field,Bedragveld,reviewed,frappe
+Amount in customer's currency,Bedrag in de valuta van de klant,reviewed,erpnext
+Amount In Figure,Bedrag in letters,reviewed,erpnext
+Amount must be greater than 0.,Het bedrag moet groter zijn dan 0.,reviewed,frappe
+Amount of Integrated Tax,Bedrag van geïntegreerde belasting,reviewed,erpnext
+Amount of TDS Deducted,Bedrag TDS ingehouden,reviewed,erpnext
+Amount of {0} is required for Loan closure,Een bedrag van {0} is vereist voor het afsluiten van de lening,reviewed,erpnext
+Amount should not be less than zero.,Bedrag mag niet minder dan nul zijn.,reviewed,erpnext
+Amount to Bill,Te factureren bedrag,reviewed,erpnext
+Amount {0} {1} against {2} {3},Bedrag {0} {1} tegen {2} {3},reviewed,erpnext
+Amount {0} {1} deducted against {2},Bedrag {0} {1} in mindering gebracht tegen {2},reviewed,erpnext
+Amount {0} {1} transferred from {2} to {3},Bedrag {0} {1} overgebracht van {2} naar {3},reviewed,erpnext
+Amount {0} {1} {2} {3},Bedrag {0} {1} {2} {3},reviewed,erpnext
+An academic term with this 'Academic Year' {0} and 'Term Name' {1} already exists. Please modify these entries and try again.,Een wetenschappelijke term met deze &#39;Academisch Jaar&#39; {0} en &#39;Term Name&#39; {1} bestaat al. Wijzig deze ingangen en probeer het opnieuw.,reviewed,erpnext
+An error occured during the payment process. Please contact us.,Er is een fout opgetreden tijdens het betalingsproces. Neem contact met ons op.,reviewed,frappe
+An error occurred during the update process,Er is een fout opgetreden tijdens het updateproces,reviewed,erpnext
+An error occurred while setting Session Defaults,Er is een fout opgetreden bij het instellen van standaardwaarden voor sessies,reviewed,frappe
+An icon file with .ico extension. Should be 16 x 16 px. Generated using a favicon generator. [favicon-generator.org],Een icoon bestand met de extensie .ico. Moet 16 x 16 px. Gegenereerd met behulp van een favicon generator. [favicon-generator.org],reviewed,frappe
+An Inpatient Medication Order {0} against Patient Encounter {1} already exists.,Er bestaat al een bestelling voor intramurale medicatie {0} tegen ontmoeting met de patiënt {1}.,reviewed,erpnext
+An invoice is already linked to this document,Aan dit document is al een factuur gekoppeld,reviewed,erpnext
+"An item exists with same name ({0}), please change the item group name or rename the item","Een item bestaat met dezelfde naam ( {0} ) , wijzigt u de naam van het item groep of hernoem het item",reviewed,erpnext
+"An Item Group exists with same name, please change the item name or rename the item group","Een artikel Group bestaat met dezelfde naam , moet u de naam van het item of de naam van de artikelgroep",reviewed,erpnext
+Analyst,Analist,reviewed,erpnext
+Ancestors Of,Voorouders van,reviewed,frappe
+and,en,reviewed,both
+Andaman and Nicobar Islands,Andamanen en Nicobaren,reviewed,frappe
+Annual,Jaarlijks,reviewed,both
+Annual Billing: {0},Jaarlijkse facturering: {0},reviewed,erpnext
+Annual Expenses,Jaarlijkse kosten,reviewed,erpnext
+Annual Income,Jaarlijks inkomen,reviewed,erpnext
+Anonymous,Anoniem,reviewed,frappe
+Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4},Een ander budgetrecord &#39;{0}&#39; bestaat al voor {1} &#39;{2}&#39; en account &#39;{3}&#39; voor het fiscale jaar {4},reviewed,erpnext
+Another Period Closing Entry {0} has been made after {1},Er is na {1} een andere periodeafsluitingsboeking {0} aangemaakt,reviewed,erpnext
+Another Sales Person {0} exists with the same Employee id,Er bestaat al een andere verkoopmedewerker {0} met hetzelfde medewerker-id,reviewed,erpnext
+Another transaction is blocking this one. Please try again in a few seconds.,Andere transactie blokkeert deze. Probeer opnieuw in een paar seconden.,reviewed,frappe
+"Another {0} with name {1} exists, select another name","Een ander {0} met de naam {1} bestaat, selecteert u een andere naam",reviewed,frappe
+Antibiotic,Antibioticum,reviewed,erpnext
+Antibiotic Name,Naam antibioticum,reviewed,erpnext
+Any string-based printer languages can be used. Writing raw commands requires knowledge of the printer's native language provided by the printer manufacturer. Please refer to the developer manual provided by the printer manufacturer on how to write their native commands. These commands are rendered on the server side using the Jinja Templating Language.,"Elke string-gebaseerde printertalen kunnen worden gebruikt. Het schrijven van onbewerkte opdrachten vereist kennis van de moedertaal van de printer, geleverd door de printerfabrikant. Raadpleeg de ontwikkelaarshandleiding van de printerfabrikant over het schrijven van hun eigen opdrachten. Deze commando&#39;s worden aan de serverzijde weergegeven met behulp van de Jinja Templating Language.",reviewed,frappe
+ap-northeast-1,ap-northeast-1,reviewed,frappe
+ap-northeast-2,ap-northeast-2,reviewed,frappe
+ap-northeast-3,ap-northeast-3,reviewed,frappe
+ap-south-1,ap-south-1,reviewed,frappe
+ap-southeast-1,ap-southeast-1,reviewed,frappe
+ap-southeast-2,ap-southeast-2,reviewed,frappe
+"Apart from System Manager, roles with Set User Permissions right can set permissions for other users for that Document Type.","Afgezien van de System Manager, rollen met Set User Permissions recht kunt toestemmingen voor andere gebruikers voor dat type document.",reviewed,frappe
+API Access,API-toegang,reviewed,frappe
+API consumer key,API-consumersleutel,reviewed,erpnext
+API consumer secret,API-consumergeheim,reviewed,erpnext
+API Endpoint,API-eindpunt,reviewed,both
+API Endpoint Args,API-eindpuntargumenten,reviewed,frappe
+API Key cannot be  regenerated,API-sleutel kan niet opnieuw worden gegenereerd,reviewed,frappe
+API Key of the user(Event Subscriber) on the producer site,API Key van de gebruiker (Event Subscriber) op de producer-site,reviewed,frappe
+API Method,API-methode,reviewed,frappe
+API Secret Key,API-geheime sleutel,reviewed,erpnext
+API Secret of the user(Event Subscriber) on the producer site,API-geheim van de gebruiker (Event-abonnee) op de producer-site,reviewed,frappe
+API Token,API-token,reviewed,erpnext
+API Username,API-gebruikersnaam,reviewed,frappe
+App Name,Appnaam,reviewed,frappe
+App not found,App niet gevonden,reviewed,frappe
+App {0} already installed,App {0} reeds geïnstalleerd,reviewed,frappe
+App {0} is not installed,App {0} is niet geïnstalleerd,reviewed,frappe
+Apparel & Accessories,Kleding en accessoires,reviewed,erpnext
+Appearance,Uiterlijk,reviewed,erpnext
+"Append as communication against this DocType (must have fields, ""Status"", ""Subject"")","Voegen als communicatie tegen deze DocType (moet velden, ""Status"" hebben, ""Onderwerp"")",reviewed,frappe
+Append Emails to Sent Folder,E-mails toevoegen aan map Verzonden,reviewed,frappe
+Append To,Toevoegen aan,reviewed,frappe
+Append To can be one of {0},Toevoegen aan kan een van {0},reviewed,frappe
+Append To is mandatory for incoming mails,Toevoegen aan is verplicht voor inkomende mails,reviewed,frappe
+Applicable Charges,Toepasselijke kosten,reviewed,erpnext
+Applicable Document Types,Toepasselijke documenttypen,reviewed,frappe
+Applicable For,Toepasselijk voor,reviewed,both
+Applicable for Countries,Toepasselijk voor landen,reviewed,erpnext
+Applicable for external driver,Toepasselijk voor externe chauffeur,reviewed,erpnext
+Applicable for Users,Toepasbaar voor gebruikers,reviewed,erpnext
+Applicable Holiday List,Toepasselijke verloflijst,reviewed,erpnext
+Applicable if the company is a limited liability company,Van toepassing als het bedrijf een naamloze vennootschap is,reviewed,erpnext
+Applicable if the company is an Individual or a Proprietorship,Van toepassing als het bedrijf een eenmanszaak is,reviewed,erpnext
+"Applicable if the company is SpA, SApA or SRL","Van toepassing als het bedrijf SpA, SApA of SRL is",reviewed,erpnext
+Applicable Modules,Toepasselijke modules,reviewed,erpnext
+Applicable on booking actual expenses,Van toepassing op het boeken van werkelijke uitgaven,reviewed,erpnext
+Applicable on Material Request,Van toepassing op materiaalanvraag,reviewed,erpnext
+Applicable on Purchase Order,Van toepassing op bestelling,reviewed,erpnext
+Applicable To (Designation),Van toepassing zijn op (Benaming),reviewed,erpnext
+Applicable To (Employee),Van toepassing zijn op (Werknemer),reviewed,erpnext
+Applicable To (Role),Van toepassing zijn op (Rol),reviewed,erpnext
+Applicable To (User),Van toepassing zijn op (Gebruiker),reviewed,erpnext
+Application Fee,Aanvraagkosten,reviewed,erpnext
+Application Logo,Toepassingslogo,reviewed,frappe
+Application Name,Naam van de toepassing,reviewed,frappe
+Application of Funds (Assets),Toepassing van kapitaal (Activa),reviewed,erpnext
+Application Settings,Applicatie instellingen,reviewed,erpnext
+Application Version,Applicatie versie,reviewed,frappe
+Applied,Toegepast,reviewed,erpnext
+Applied Coupon Code,Toegepaste couponcode,reviewed,erpnext
+Applied On,Toegepast op,reviewed,frappe
+Apply,Van toepassing zijn,reviewed,frappe
+Apply Additional Discount On,Breng Extra Korting op,reviewed,erpnext
+Apply Assignment Rule,Toewijzingsregel toepassen,reviewed,frappe
+Apply Coupon Code,Couponcode toepassen,reviewed,erpnext
+Apply Discount On,Breng Korting op,reviewed,erpnext
+Apply Discount on Discounted Rate,Korting op kortingstarief toepassen,reviewed,erpnext
+Apply Discount on Rate,Korting op tarief toepassen,reviewed,erpnext
+Apply Document Permissions,Pas documentmachtigingen toe,reviewed,frappe
+Apply Multiple Pricing Rules,Pas meerdere prijsregels toe,reviewed,erpnext
+Apply On,toepassing op,reviewed,erpnext
+Apply Only Once,Slechts eenmaal toepassen,reviewed,frappe
+Apply Rule On Brand,Regel op merk toepassen,reviewed,erpnext
+Apply Rule On Item Code,Regel toepassen op artikelcode,reviewed,erpnext
+Apply Rule On Item Group,Regel toepassen op artikelgroep,reviewed,erpnext
+Apply Rule On Other,Regel toepassen op andere,reviewed,erpnext
+Apply Strict User Permissions,Strikte Gebruikersvergunningen toepassen,reviewed,frappe
+Apply Tax Withholding Amount,Belastingvergoeding toepassen,reviewed,erpnext
+Apply this rule if the User is the Owner,Pas deze regel als de gebruiker met de eigenaar,reviewed,frappe
+Apply this rule only once per document,Pas deze regel slechts eenmaal per document toe,reviewed,frappe
+Apply To All Document Types,Toepassen op alle documenttypen,reviewed,frappe
+Apply to all Documents Types,Toepassen op alle soorten documenten,reviewed,frappe
+Applying: {0},Toepassen: {0},reviewed,frappe
 Appointment,Afspraak,reviewed,erpnext
-Appointment Booked,Afspraak geboekt,unreviewed,erpnext
-Appointment Booking,Afspraak boeken,unreviewed,erpnext
-Appointment Booking Settings,Afspraak Boeking Instellingen,unreviewed,erpnext
-Appointment Booking Slots,Afspraak Boeking Slots,unreviewed,erpnext
-Appointment Cancelled.,Afspraak geannuleerd.,unreviewed,erpnext
-Appointment Cancelled. Please review and cancel the invoice {0},Afspraak geannuleerd. Controleer en annuleer de factuur {0},unreviewed,erpnext
-Appointment Confirmation,Afspraak bevestiging,unreviewed,erpnext
-Appointment Confirmation Message Not Sent,Afspraakbevestigingsbericht niet verzonden,unreviewed,erpnext
-Appointment date and Healthcare Practitioner are Mandatory,Datum afspraak en zorgverlener zijn verplicht,unreviewed,erpnext
-Appointment Datetime,Afspraak Datetime,unreviewed,erpnext
-Appointment Details,Afspraakdetails,unreviewed,erpnext
-Appointment Duration (In Minutes),Afspraakduur (in minuten),unreviewed,erpnext
-Appointment Duration (mins),Benoemingsduur (minuten),unreviewed,erpnext
+Appointment Booked,Afspraak geboekt,reviewed,erpnext
+Appointment Booking,Afspraak boeken,reviewed,erpnext
+Appointment Booking Settings,Afspraak Boeking Instellingen,reviewed,erpnext
+Appointment Booking Slots,Afspraak Boeking Slots,reviewed,erpnext
+Appointment Cancelled.,Afspraak geannuleerd.,reviewed,erpnext
+Appointment Cancelled. Please review and cancel the invoice {0},Afspraak geannuleerd. Controleer en annuleer de factuur {0},reviewed,erpnext
+Appointment Confirmation,Afspraak bevestiging,reviewed,erpnext
+Appointment Confirmation Message Not Sent,Afspraakbevestigingsbericht niet verzonden,reviewed,erpnext
+Appointment date and Healthcare Practitioner are Mandatory,Datum afspraak en zorgverlener zijn verplicht,reviewed,erpnext
+Appointment Datetime,Afspraak Datetime,reviewed,erpnext
+Appointment Details,Afspraakdetails,reviewed,erpnext
+Appointment Duration (In Minutes),Afspraakduur (in minuten),reviewed,erpnext
+Appointment Duration (mins),Benoemingsduur (minuten),reviewed,erpnext
 Appointment Letter,Aanstellingsbrief,reviewed,custom
 Appointment Letter Template,Aanstellingsbrief sjabloon,reviewed,custom
-Appointment overlaps with,Afspraak overlapt met,unreviewed,erpnext
-Appointment Reminder,Benoemingsherinnering,unreviewed,erpnext
-Appointment Status,Afspraakstatus,unreviewed,erpnext
-Appointment Type,Afspraakstype,unreviewed,erpnext
-Appointment With,Afspraak met,unreviewed,erpnext
-Appointment {0} and Sales Invoice {1} cancelled,Afspraak {0} en verkoopfactuur {1} geannuleerd,unreviewed,erpnext
-Appointments,afspraken,unreviewed,erpnext
-Appointments and Encounters,Afspraken en ontmoetingen,unreviewed,erpnext
-Appointments and Patient Encounters,Afspraken en ontmoetingen met patiënten,unreviewed,erpnext
-Appointments Overlapping,Afspraken overlappen,unreviewed,erpnext
+Appointment overlaps with,Afspraak overlapt met,reviewed,erpnext
+Appointment Reminder,Benoemingsherinnering,reviewed,erpnext
+Appointment Status,Afspraakstatus,reviewed,erpnext
+Appointment Type,Afspraakstype,reviewed,erpnext
+Appointment With,Afspraak met,reviewed,erpnext
+Appointment {0} and Sales Invoice {1} cancelled,Afspraak {0} en verkoopfactuur {1} geannuleerd,reviewed,erpnext
+Appointments,afspraken,reviewed,erpnext
+Appointments and Encounters,Afspraken en ontmoetingen,reviewed,erpnext
+Appointments and Patient Encounters,Afspraken en ontmoetingen met patiënten,reviewed,erpnext
+Appointments Overlapping,Afspraken overlappen,reviewed,erpnext
 Appraisal Cycle,Beoordelingscyclus,reviewed,custom
-Appraisal Template,Beoordeling Sjabloon,unreviewed,erpnext
-Appraisal {0} created for Employee {1} in the given date range,Beoordeling {0} gemaakt voor Employee {1} in de bepaalde periode,unreviewed,erpnext
-Appreciate,Waarderen,unreviewed,frappe
-Appreciation,Waardering,unreviewed,frappe
-Approval Required,Goedkeuring vereist,unreviewed,frappe
-Approval Status,Goedkeuringsstatus,unreviewed,frappe
-Approve,Goedkeuren,unreviewed,erpnext
-Approved,Aangenomen,unreviewed,frappe
-Approved Date,Goedgekeurde Datum,unreviewed,erpnext
-Approvers,Goedkeurders,unreviewed,erpnext
-Approving Role (above authorized value),Goedkeuren Rol (boven de toegestane waarde),unreviewed,erpnext
-Approving Role cannot be same as role the rule is Applicable To,Goedkeuring Rol kan niet hetzelfde zijn als de rol van de regel is van toepassing op,unreviewed,erpnext
-Approving User  (above authorized value),Goedkeuren gebruiker (boven de toegestane waarde),unreviewed,erpnext
-Approving User cannot be same as user the rule is Applicable To,Goedkeuring van Gebruiker kan niet hetzelfde zijn als gebruiker de regel is van toepassing op,unreviewed,erpnext
-"Apps using current key won't be able to access, are you sure?","Apps die de huidige sleutel gebruiken, hebben geen toegang, weet u het zeker?",unreviewed,erpnext
-April,april,unreviewed,erpnext
-Archive,Archief,unreviewed,frappe
-Archived,Gearchiveerd,unreviewed,frappe
-Archived Columns,gearchiveerd Columns,unreviewed,frappe
-Are you sure you want to cancel this appointment?,Weet je zeker dat je deze afspraak wilt annuleren?,unreviewed,erpnext
+Appraisal Template,Beoordeling Sjabloon,reviewed,erpnext
+Appraisal {0} created for Employee {1} in the given date range,Beoordeling {0} gemaakt voor Employee {1} in de bepaalde periode,reviewed,erpnext
+Appreciate,Waarderen,reviewed,frappe
+Appreciation,Waardering,reviewed,frappe
+Approval Required,Goedkeuring vereist,reviewed,frappe
+Approval Status,Goedkeuringsstatus,reviewed,frappe
+Approve,Goedkeuren,reviewed,erpnext
+Approved,Aangenomen,reviewed,frappe
+Approved Date,Goedgekeurde Datum,reviewed,erpnext
+Approvers,Goedkeurders,reviewed,erpnext
+Approving Role (above authorized value),Goedkeuren Rol (boven de toegestane waarde),reviewed,erpnext
+Approving Role cannot be same as role the rule is Applicable To,Goedkeuring Rol kan niet hetzelfde zijn als de rol van de regel is van toepassing op,reviewed,erpnext
+Approving User  (above authorized value),Goedkeuren gebruiker (boven de toegestane waarde),reviewed,erpnext
+Approving User cannot be same as user the rule is Applicable To,Goedkeuring van Gebruiker kan niet hetzelfde zijn als gebruiker de regel is van toepassing op,reviewed,erpnext
+"Apps using current key won't be able to access, are you sure?","Apps die de huidige sleutel gebruiken, hebben geen toegang, weet u het zeker?",reviewed,erpnext
+April,april,reviewed,erpnext
+Archive,Archief,reviewed,frappe
+Archived,Gearchiveerd,reviewed,frappe
+Archived Columns,gearchiveerd Columns,reviewed,frappe
+Are you sure you want to cancel this appointment?,Weet je zeker dat je deze afspraak wilt annuleren?,reviewed,erpnext
 Are you sure you want to delete,Weet je zeker dat je wilt verwijderen,reviewed,custom
-Are you sure you want to delete all rows?,Weet u zeker dat u alle rijen wilt verwijderen?,unreviewed,frappe
-Are you sure you want to delete the attachment?,Weet u zeker dat u de bijlage wilt verwijderen?,unreviewed,frappe
-Are you sure you want to delete this post?,Weet je zeker dat je dit bericht wilt verwijderen?,unreviewed,frappe
-Are you sure you want to generate a new report?,Weet u zeker dat u een nieuw rapport wilt genereren?,unreviewed,frappe
-Are you sure you want to merge {0} with {1}?,Weet u zeker dat u {0} wilt samenvoegen met {1}?,unreviewed,frappe
-Are you sure you want to relink this communication to {0}?,Weet u zeker dat u deze mededeling aan {0} opnieuw koppelen?,unreviewed,frappe
-Are you sure you want to reset all customizations?,Weet u zeker dat u alle aanpassingen opnieuw wilt instellen?,unreviewed,frappe
-Are you sure you want to save this document?,Weet u zeker dat u dit document wilt opslaan?,unreviewed,frappe
-Are you sure?,Weet je het zeker?,unreviewed,frappe
-Area,Gebied,unreviewed,erpnext
-Area UOM,UOM van het gebied,unreviewed,erpnext
+Are you sure you want to delete all rows?,Weet u zeker dat u alle rijen wilt verwijderen?,reviewed,frappe
+Are you sure you want to delete the attachment?,Weet u zeker dat u de bijlage wilt verwijderen?,reviewed,frappe
+Are you sure you want to delete this post?,Weet je zeker dat je dit bericht wilt verwijderen?,reviewed,frappe
+Are you sure you want to generate a new report?,Weet u zeker dat u een nieuw rapport wilt genereren?,reviewed,frappe
+Are you sure you want to merge {0} with {1}?,Weet u zeker dat u {0} wilt samenvoegen met {1}?,reviewed,frappe
+Are you sure you want to relink this communication to {0}?,Weet u zeker dat u deze mededeling aan {0} opnieuw koppelen?,reviewed,frappe
+Are you sure you want to reset all customizations?,Weet u zeker dat u alle aanpassingen opnieuw wilt instellen?,reviewed,frappe
+Are you sure you want to save this document?,Weet u zeker dat u dit document wilt opslaan?,reviewed,frappe
+Are you sure?,Weet je het zeker?,reviewed,frappe
+Area,Gebied,reviewed,erpnext
+Area UOM,UOM van het gebied,reviewed,erpnext
 Arrear,Achterstallig salaris,reviewed,erpnext
-Arrear Component,Achterstallige component,unreviewed,erpnext
-Arrival Quantity,Aankomsthoeveelheid,unreviewed,erpnext
-arrow-left,pijl-links,unreviewed,frappe
-arrow-right,pijl-rechts,unreviewed,frappe
-arrow-up,pijl-up,unreviewed,frappe
-Article,Artikel,unreviewed,erpnext
-"As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User.","Als een best practice , niet dezelfde set van toestemming regel op verschillende rollen toekennen. In plaats daarvan , stelt meerdere rollen aan dezelfde gebruiker .",unreviewed,frappe
+Arrear Component,Achterstallige component,reviewed,erpnext
+Arrival Quantity,Aankomsthoeveelheid,reviewed,erpnext
+arrow-left,pijl-links,reviewed,frappe
+arrow-right,pijl-rechts,reviewed,frappe
+arrow-up,pijl-up,reviewed,frappe
+Article,Artikel,reviewed,erpnext
+"As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User.","Als een best practice , niet dezelfde set van toestemming regel op verschillende rollen toekennen. In plaats daarvan , stelt meerdere rollen aan dezelfde gebruiker .",reviewed,frappe
 As Examiner,Als examinator,unreviewed,erpnext
 as no Purchase Receipt is created against Item {}.,aangezien er geen aankoopbewijs wordt aangemaakt voor artikel {}.,unreviewed,erpnext
 As On Date,Op Date,unreviewed,erpnext

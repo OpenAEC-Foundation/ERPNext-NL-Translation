@@ -1,105 +1,105 @@
 source,translation,status,origin
-"""amended_from"" field must be present to do an amendment.",&quot;modified_from&quot; veld moet aanwezig zijn om een wijziging uit te voeren.,unreviewed,frappe
-"""Company History""","""Bedrijfsgeschiedenis""",unreviewed,frappe
-"""Customer Provided Item"" cannot be Purchase Item also",Door klant toegevoegd artikel kan niet tegelijkertijd een koopartikel zijn,unreviewed,erpnext
-"""Customer Provided Item"" cannot have Valuation Rate",&#39;Door de klant verstrekt artikel&#39; kan geen waarderingspercentage hebben,unreviewed,erpnext
-"""From date"" can not be greater than or equal to ""To date""",&#39;Vanaf datum&#39; mag niet groter zijn dan of gelijk zijn aan &#39;Tot op heden&#39;,unreviewed,erpnext
-"""Is Fixed Asset"" cannot be unchecked, as Asset record exists against the item","""Is vaste activa"" kan niet worden uitgeschakeld, als Asset record bestaat voor dit item",unreviewed,erpnext
-"""Parent"" signifies the parent table in which this row must be added","""Bovenliggend"" betekent de bovenliggende tabel waarin deze rij moet worden toegevoegd",unreviewed,frappe
-"""Team Members"" or ""Management""","""Teamleden"" of ""Management""",unreviewed,frappe
-"""{0}"" is not a valid Google Sheets URL",&quot;{0}&quot; is geen geldige Google Spreadsheets-URL,unreviewed,frappe
-%  Delivered,% Geleverd,unreviewed,erpnext
-% Amount Billed,% Gefactureerd Bedrag,unreviewed,erpnext
-% Billed,% Gefactureerd,unreviewed,erpnext
-% Complete,% Compleet,unreviewed,erpnext
-% Complete Method,% Voltooid Methode,unreviewed,erpnext
-% Completed,% Voltooid,unreviewed,erpnext
-% Installed,% Geïnstalleerd,unreviewed,erpnext
-% Of Grand Total,% Van eindtotaal,unreviewed,erpnext
-% of materials billed against this Sales Order,% van de materialen in rekening gebracht voor deze Verkooporder,unreviewed,erpnext
-% of materials delivered against this Delivery Note,% van de geleverde materialen voor deze Vrachtbrief,unreviewed,erpnext
-% of materials delivered against this Sales Order,% van de geleverde materialen voor deze verkooporder,unreviewed,erpnext
-% Ordered,% Besteld,unreviewed,erpnext
-% Progress,% Voortgang,unreviewed,erpnext
-% Received,% Ontvangen,unreviewed,erpnext
-'Based On' and 'Group By' can not be same,'Gebaseerd op' en 'Groepeer per' kunnen niet hetzelfde zijn,unreviewed,erpnext
-'Date' is required,&#39;Datum&#39; is verplicht,unreviewed,erpnext
-'Days Since Last Order' must be greater than or equal to zero,'Dagen sinds laatste opdracht' moet groter of gelijk zijn aan nul,unreviewed,erpnext
-'Entries' cannot be empty,'Invoer' kan niet leeg zijn,unreviewed,erpnext
-'From Date' is required,'Van Datum' is vereist,unreviewed,erpnext
-'From Date' must be after 'To Date','Van Datum' moet na 'Tot Datum' zijn,unreviewed,erpnext
-'Has Serial No' can not be 'Yes' for non-stock item,'Heeft Serienummer' kan niet 'ja' zijn voor niet- voorraad artikel,unreviewed,erpnext
-'In Global Search' not allowed for type {0} in row {1},&#39;In Global Search&#39; niet toegestaan voor type {0} in rij {1},unreviewed,frappe
-'In List View' not allowed for type {0} in row {1},'In lijst weergave' niet toegestaan voor type {0} in rij {1},unreviewed,frappe
-'Opening',&#39;Opening&#39;,unreviewed,erpnext
-'Recipients' not specified,&#39;Ontvangers&#39; niet gespecificeerd,unreviewed,frappe
-'To Case No.' cannot be less than 'From Case No.','Tot Zaak nr' kan niet minder zijn dan 'Van Zaak nr',unreviewed,erpnext
-'To Date' is required,'Tot Datum' is vereist,unreviewed,erpnext
-'Total',&#39;Totaal&#39;,unreviewed,erpnext
-'Update Stock' can not be checked because items are not delivered via {0},'Bijwerken voorraad' kan niet worden aangevinkt omdat items niet worden geleverd via {0},unreviewed,erpnext
-'Update Stock' cannot be checked for fixed asset sale,&#39;Bijwerken Stock&#39; kan niet worden gecontroleerd op vaste activa te koop,unreviewed,erpnext
-'{0}' not allowed for type {1} in row {2},&#39;{0}&#39; niet toegestaan voor type {1} in rij {2},unreviewed,frappe
-(Ca+Mg)/K,(Ca + Mg) / K,unreviewed,erpnext
-(Forecast),(Voorspelling),unreviewed,erpnext
-(Hour Rate / 60) * Actual Operation Time,(Uurtarief / 60) * Werkelijk Gepresteerde Tijd,unreviewed,erpnext
-(including),(inclusief),unreviewed,erpnext
-(Mandatory),(Verplicht),unreviewed,frappe
-(Serial No: {0}) cannot be consumed as it's reserverd to fullfill Sales Order {1}.,(Serienummer: {0}) kan niet worden geconsumeerd omdat het is gereserveerd om verkooporder {1} te vervullen.,unreviewed,erpnext
-* Will be calculated in the transaction.,* Zal worden berekend in de transactie.,unreviewed,erpnext
-** Failed: {0} to {1}: {2},** Mislukt: {0} tot {1}: {2},unreviewed,frappe
-**Currency** Master,**Valuta** Stam,unreviewed,frappe
-**Fiscal Year** represents a Financial Year. All accounting entries and other major transactions are tracked against **Fiscal Year**.,**Boekjaar** staat voor een financieel jaar. Alle boekingen en andere belangrijke transacties worden bijgehouden in **boekjaar**.,unreviewed,erpnext
-**Monthly Distribution** helps you distribute the Budget/Target across months if you have seasonality in your business.,** Maandelijkse Distributie ** helpt u om de begroting / Target verdelen over maanden als u de seizoensgebondenheid in uw bedrijf.,unreviewed,erpnext
+"""amended_from"" field must be present to do an amendment.","Het veld ""amended_from"" moet aanwezig zijn om een correctie uit te voeren.",reviewed,frappe
+"""Company History""","""Bedrijfsgeschiedenis""",reviewed,frappe
+"""Customer Provided Item"" cannot be Purchase Item also",'Door klant verstrekt artikel' kan niet tegelijkertijd een inkooppost zijn,reviewed,erpnext
+"""Customer Provided Item"" cannot have Valuation Rate",'Door de klant verstrekt artikel' kan geen waarderingskoers hebben,reviewed,erpnext
+"""From date"" can not be greater than or equal to ""To date""",'Vanaf datum' mag niet groter zijn dan of gelijk zijn aan 'Tot datum',reviewed,erpnext
+"""Is Fixed Asset"" cannot be unchecked, as Asset record exists against the item","""Is vaste activa"" kan niet worden uitgeschakeld omdat er een activarecord bestaat voor dit artikel",reviewed,erpnext
+"""Parent"" signifies the parent table in which this row must be added","""Bovenliggende"" verwijst naar de bovenliggende tabel waarin deze rij moet worden toegevoegd",reviewed,frappe
+"""Team Members"" or ""Management""","""Teamleden"" of ""Management""",reviewed,frappe
+"""{0}"" is not a valid Google Sheets URL",&quot;{0}&quot; is geen geldige Google Spreadsheets-URL,reviewed,frappe
+%  Delivered,% Geleverd,reviewed,erpnext
+% Amount Billed,% Gefactureerd bedrag,reviewed,erpnext
+% Billed,% Gefactureerd,reviewed,erpnext
+% Complete,% Voltooid,reviewed,erpnext
+% Complete Method,Methode % Voltooid,reviewed,erpnext
+% Completed,% Voltooid,reviewed,erpnext
+% Installed,% Geïnstalleerd,reviewed,erpnext
+% Of Grand Total,% van eindtotaal,reviewed,erpnext
+% of materials billed against this Sales Order,% van de materialen gefactureerd voor deze verkooporder,reviewed,erpnext
+% of materials delivered against this Delivery Note,% van de geleverde materialen voor deze afleverbon,reviewed,erpnext
+% of materials delivered against this Sales Order,% van de geleverde materialen voor deze verkooporder,reviewed,erpnext
+% Ordered,% Besteld,reviewed,erpnext
+% Progress,% Voortgang,reviewed,erpnext
+% Received,% Ontvangen,reviewed,erpnext
+'Based On' and 'Group By' can not be same,'Gebaseerd op' en 'Groepeer per' kunnen niet hetzelfde zijn,reviewed,erpnext
+'Date' is required,&#39;Datum&#39; is verplicht,reviewed,erpnext
+'Days Since Last Order' must be greater than or equal to zero,'Dagen sinds laatste order' moet groter of gelijk zijn aan nul,reviewed,erpnext
+'Entries' cannot be empty,'Posten' kan niet leeg zijn,reviewed,erpnext
+'From Date' is required,'Vanaf datum' is verplicht,reviewed,erpnext
+'From Date' must be after 'To Date','Vanaf datum' moet na 'Tot datum' liggen,reviewed,erpnext
+'Has Serial No' can not be 'Yes' for non-stock item,'Heeft serienummer' kan niet 'Ja' zijn voor een niet-voorraad artikel,reviewed,erpnext
+'In Global Search' not allowed for type {0} in row {1},&#39;In Global Search&#39; niet toegestaan voor type {0} in rij {1},reviewed,frappe
+'In List View' not allowed for type {0} in row {1},'In lijstweergave' niet toegestaan voor type {0} in rij {1},reviewed,frappe
+'Opening','Beginsaldo',reviewed,erpnext
+'Recipients' not specified,&#39;Ontvangers&#39; niet gespecificeerd,reviewed,frappe
+'To Case No.' cannot be less than 'From Case No.','Tot zaak nr.' kan niet kleiner zijn dan 'Van zaak nr.',reviewed,erpnext
+'To Date' is required,'Tot datum' is verplicht,reviewed,erpnext
+'Total',&#39;Totaal&#39;,reviewed,erpnext
+'Update Stock' can not be checked because items are not delivered via {0},'Voorraad bijwerken' kan niet worden aangevinkt omdat artikelen niet worden geleverd via {0},reviewed,erpnext
+'Update Stock' cannot be checked for fixed asset sale,'Voorraad bijwerken' kan niet worden aangevinkt bij verkoop van vaste activa,reviewed,erpnext
+'{0}' not allowed for type {1} in row {2},&#39;{0}&#39; niet toegestaan voor type {1} in rij {2},reviewed,frappe
+(Ca+Mg)/K,(Ca + Mg) / K,reviewed,erpnext
+(Forecast),(Voorspelling),reviewed,erpnext
+(Hour Rate / 60) * Actual Operation Time,(Uurtarief / 60) * Werkelijke bewerkingstijd,reviewed,erpnext
+(including),(inclusief),reviewed,erpnext
+(Mandatory),(Verplicht),reviewed,frappe
+(Serial No: {0}) cannot be consumed as it's reserverd to fullfill Sales Order {1}.,(Serienummer: {0}) kan niet worden verbruikt omdat het gereserveerd is voor verkooporder {1}.,reviewed,erpnext
+* Will be calculated in the transaction.,* Wordt berekend in de transactie.,reviewed,erpnext
+** Failed: {0} to {1}: {2},** Mislukt: {0} tot {1}: {2},reviewed,frappe
+**Currency** Master,**Valuta** stamtabel,reviewed,frappe
+**Fiscal Year** represents a Financial Year. All accounting entries and other major transactions are tracked against **Fiscal Year**.,**Boekjaar** staat voor een financieel jaar. Alle boekingen en andere belangrijke transacties worden bijgehouden in **boekjaar**.,reviewed,erpnext
+**Monthly Distribution** helps you distribute the Budget/Target across months if you have seasonality in your business.,**Maandelijkse verdeling** helpt u de begroting/Target over maanden te verdelen als uw bedrijf seizoensgebonden is.,reviewed,erpnext
 + Add,+ Toevoegen,reviewed,custom
-...Adding Article to Topics,... Artikel aan onderwerpen toevoegen,unreviewed,erpnext
-...Adding Course to Programs,... Cursus aan programma&#39;s toevoegen,unreviewed,erpnext
-...Adding Quiz to Topics,... Quiz aan onderwerpen toevoegen,unreviewed,erpnext
-...Adding Topic to Courses,... Onderwerp aan cursussen toevoegen,unreviewed,erpnext
-0 - Draft; 1 - Submitted; 2 - Cancelled,0 - Ontwerp; 1 - Ingediend; 2 - Geannuleerd,unreviewed,frappe
-0 is highest,0 is hoogst,unreviewed,frappe
-01-Sales Return,01-Verkoopretour,unreviewed,erpnext
-02-Post Sale Discount,Korting voor 2 na verkoop,unreviewed,erpnext
-03-Deficiency in services,03-Tekortkoming in diensten,unreviewed,erpnext
-04-Correction in Invoice,04-correctie in factuur,unreviewed,erpnext
-05-Change in POS,05-Wijziging in POS,unreviewed,erpnext
-06-Finalization of Provisional assessment,06-Afronding van voorlopige aanslag,unreviewed,erpnext
-07-Others,07-anderen,unreviewed,erpnext
-1 comment,1 reactie,unreviewed,frappe
-1 Currency = [?] Fraction\nFor e.g. 1 USD = 100 Cent,1 Valuta = [?] Fractie \n Voor bijvoorbeeld 1 USD = 100 Cent,unreviewed,frappe
-1 exact match.,1 exacte match.,unreviewed,erpnext
-1 Google Calendar Event synced.,1 Google Agenda-evenement gesynchroniseerd.,unreviewed,frappe
-1 hour ago,1 uur geleden,unreviewed,frappe
-1 hr,1 uur,unreviewed,erpnext
-1 Loyalty Points = How much base currency?,1 Loyaliteitspunten = Hoeveel basisvaluta?,unreviewed,erpnext
-1 minute ago,1 minuut geleden,unreviewed,frappe
-1 month ago,1 maand geleden,unreviewed,frappe
-1 record will be exported,1 record wordt geëxporteerd,unreviewed,frappe
-1 Report,1 Rapport,unreviewed,frappe
-1 week ago,1 week geleden,unreviewed,frappe
-1 year ago,1 jaar geleden,unreviewed,frappe
-2 Yearly,2 Jaarlijks,unreviewed,erpnext
-30 mins,30 minuten,unreviewed,erpnext
-5 Records,5 records,unreviewed,frappe
-6 hrs,6 uur,unreviewed,erpnext
-90-Above,90-Boven,unreviewed,erpnext
-; not allowed in condition,; niet toegelaten in conditie,unreviewed,frappe
-<b>Company</b> is a mandatory filter.,<b>Bedrijf</b> is een verplicht filter.,unreviewed,erpnext
-<b>From Date</b> is a mandatory filter.,<b>Vanaf datum</b> is een verplicht filter.,unreviewed,erpnext
-<b>From Time</b> cannot be later than <b>To Time</b> for {0},<b>From Time</b> kan niet later zijn dan <b>To Time</b> voor {0},unreviewed,erpnext
-"<b>Single</b>: Results which require only a single input.\n<br>\n<b>Compound</b>: Results which require multiple event inputs.\n<br>\n<b>Descriptive</b>: Tests which have multiple result components with manual result entry.\n<br>\n<b>Grouped</b>: Test templates which are a group of other test templates.\n<br>\n<b>No Result</b>: Tests with no results, can be ordered and billed but no Lab Test will be created. e.g.. Sub Tests for Grouped results","<b>Enkelvoudig</b> : resultaten waarvoor slechts één invoer nodig is.<br> <b>Samengesteld</b> : resultaten waarvoor meerdere gebeurtenisinvoer nodig is.<br> <b>Beschrijvend</b> : tests met meerdere resultaatcomponenten met handmatige resultaatinvoer.<br> <b>Gegroepeerd</b> : testsjablonen die een groep andere testsjablonen zijn.<br> <b>Geen resultaat</b> : tests zonder resultaten kunnen worden besteld en gefactureerd, maar er wordt geen laboratoriumtest gemaakt. bijv. Subtests voor gegroepeerde resultaten",unreviewed,erpnext
-<b>To Date</b> is a mandatory filter.,<b>Tot op heden</b> is een verplicht filter.,unreviewed,erpnext
-"<h4>Default Template</h4>\n<p>Uses <a href=""http://jinja.pocoo.org/docs/templates/"">Jinja Templating</a> and all the fields of Address (including Custom Fields if any) will be available</p>\n<pre><code>{{ address_line1 }}&lt;br&gt;\n{% if address_line2 %}{{ address_line2 }}&lt;br&gt;{% endif -%}\n{{ city }}&lt;br&gt;\n{% if state %}{{ state }}&lt;br&gt;{% endif -%}\n{% if pincode %} PIN:  {{ pincode }}&lt;br&gt;{% endif -%}\n{{ country }}&lt;br&gt;\n{% if phone %}Phone: {{ phone }}&lt;br&gt;{% endif -%}\n{% if fax %}Fax: {{ fax }}&lt;br&gt;{% endif -%}\n{% if email_id %}Email: {{ email_id }}&lt;br&gt;{% endif -%}\n</code></pre>","<h4> Standaardsjabloon <!-- h4--> \n <p> Gebruikt <a href=""http://jinja.pocoo.org/docs/templates/""> Jinja Templating </a> en al de velden van Address ( inclusief aangepaste velden eventuele) zal beschikbaar <!-- p--> \n </p><pre> <code> {{address_line1}} &amp; lt; br &amp; gt; \n {% indien address_line2%} {{address_line2}} &amp; lt; br &amp; gt; { % endif -%} \n {{city}} &amp; lt; br &amp; gt; \n {% als state%} {{state}} &amp; lt; br &amp; gt; {% endif -%} \n {% als pincode%} PIN: {{pincode}} &amp; lt; br &amp; gt; {% endif -%} \n {{land}} &amp; lt; br &amp; gt; \n {% wanneer de telefoon%} Telefoon: {{telefoon}} &amp; lt; br &amp; gt; { % endif -%} \n {% per faxbericht%} Fax: {{fax}} &amp; lt; br &amp; gt; {% endif -%} \n {% indien email_id%} E-mail: {{email_id}} &amp; lt; br &amp; gt ; {% endif -%} \n <!-- code--> <!-- pre--></code></pre></h4>",unreviewed,frappe
-"<p>Set context before rendering a template. Example:</p><p>\n</p><div><pre><code>\ncontext.project = frappe.get_doc(""Project"", frappe.form_dict.name)\n</code></pre></div>","<p>Stel context in voordat u een sjabloon weergeeft. Voorbeeld:</p><p></p><div><pre> <code>context.project = frappe.get_doc(&quot;Project&quot;, frappe.form_dict.name)</code></pre></div>",unreviewed,frappe
-[Error],[Fout],unreviewed,erpnext
-[Important] [ERPNext] Auto Reorder Errors,[Belangrijk] [ERPNext] Fouten bij automatisch opnieuw ordenen,unreviewed,erpnext
-[{0}](#Form/Item/{0}) is out of stock,[{0}] (# Vorm / Item / {0}) is niet op voorraad,unreviewed,erpnext
-_report,_rapport,unreviewed,frappe
-`Freeze Stocks Older Than` should be smaller than %d days.,'Bevries Voorraden Ouder dan' moet minder dan %d dagen zijn.,unreviewed,erpnext
-A BOM with name {0} already exists for item {1}.,Er bestaat al een stuklijst met naam {0} voor artikel {1}.,unreviewed,erpnext
-A condition for a Shipping Rule,Een voorwaarde voor een Verzendregel,unreviewed,erpnext
-A Customer Group exists with same name please change the Customer name or rename the Customer Group,Een Klantgroep met dezelfde naam bestaat. Gelieve de naam van de Klant of de Klantgroep  wijzigen,unreviewed,erpnext
-A customer is already linked to this Member,Er is al een klant aan dit lid gekoppeld,unreviewed,erpnext
-A customer with the same name already exists,Er bestaat al een klant met dezelfde naam,unreviewed,erpnext
+...Adding Article to Topics,... Artikel aan onderwerpen toevoegen,reviewed,erpnext
+...Adding Course to Programs,... Cursus aan programma&#39;s toevoegen,reviewed,erpnext
+...Adding Quiz to Topics,... Quiz aan onderwerpen toevoegen,reviewed,erpnext
+...Adding Topic to Courses,... Onderwerp aan cursussen toevoegen,reviewed,erpnext
+0 - Draft; 1 - Submitted; 2 - Cancelled,0 - Concept; 1 - Ingediend; 2 - Geannuleerd,reviewed,frappe
+0 is highest,0 is hoogst,reviewed,frappe
+01-Sales Return,01-Verkoopretour,reviewed,erpnext
+02-Post Sale Discount,02-Korting na verkoop,reviewed,erpnext
+03-Deficiency in services,03-Tekortkoming in diensten,reviewed,erpnext
+04-Correction in Invoice,04-Correctie op factuur,reviewed,erpnext
+05-Change in POS,05-Wijziging in POS,reviewed,erpnext
+06-Finalization of Provisional assessment,06-Afronding van voorlopige aanslag,reviewed,erpnext
+07-Others,07-Overige,reviewed,erpnext
+1 comment,1 opmerking,reviewed,frappe
+1 Currency = [?] Fraction\nFor e.g. 1 USD = 100 Cent,1 Valuta = [?] Fractie \n Voor bijvoorbeeld 1 USD = 100 Cent,reviewed,frappe
+1 exact match.,1 exacte match.,reviewed,erpnext
+1 Google Calendar Event synced.,1 Google Agenda-evenement gesynchroniseerd.,reviewed,frappe
+1 hour ago,1 uur geleden,reviewed,frappe
+1 hr,1 uur,reviewed,erpnext
+1 Loyalty Points = How much base currency?,1 Loyaliteitspunt = Hoeveel basisvaluta?,reviewed,erpnext
+1 minute ago,1 minuut geleden,reviewed,frappe
+1 month ago,1 maand geleden,reviewed,frappe
+1 record will be exported,1 record wordt geëxporteerd,reviewed,frappe
+1 Report,1 Rapport,reviewed,frappe
+1 week ago,1 week geleden,reviewed,frappe
+1 year ago,1 jaar geleden,reviewed,frappe
+2 Yearly,2 Jaarlijks,reviewed,erpnext
+30 mins,30 minuten,reviewed,erpnext
+5 Records,5 records,reviewed,frappe
+6 hrs,6 uur,reviewed,erpnext
+90-Above,90 en hoger,reviewed,erpnext
+; not allowed in condition,; niet toegestaan in conditie,reviewed,frappe
+<b>Company</b> is a mandatory filter.,<b>Bedrijf</b> is een verplicht filter.,reviewed,erpnext
+<b>From Date</b> is a mandatory filter.,<b>Vanaf datum</b> is een verplicht filter.,reviewed,erpnext
+<b>From Time</b> cannot be later than <b>To Time</b> for {0},<b>From Time</b> kan niet later zijn dan <b>To Time</b> voor {0},reviewed,erpnext
+"<b>Single</b>: Results which require only a single input.\n<br>\n<b>Compound</b>: Results which require multiple event inputs.\n<br>\n<b>Descriptive</b>: Tests which have multiple result components with manual result entry.\n<br>\n<b>Grouped</b>: Test templates which are a group of other test templates.\n<br>\n<b>No Result</b>: Tests with no results, can be ordered and billed but no Lab Test will be created. e.g.. Sub Tests for Grouped results","<b>Enkelvoudig</b> : resultaten waarvoor slechts één invoer nodig is.<br> <b>Samengesteld</b> : resultaten waarvoor meerdere gebeurtenisinvoer nodig is.<br> <b>Beschrijvend</b> : tests met meerdere resultaatcomponenten met handmatige resultaatinvoer.<br> <b>Gegroepeerd</b> : testsjablonen die een groep andere testsjablonen zijn.<br> <b>Geen resultaat</b> : tests zonder resultaten kunnen worden besteld en gefactureerd, maar er wordt geen laboratoriumtest gemaakt. bijv. Subtests voor gegroepeerde resultaten",reviewed,erpnext
+<b>To Date</b> is a mandatory filter.,<b>Tot op heden</b> is een verplicht filter.,reviewed,erpnext
+"<h4>Default Template</h4>\n<p>Uses <a href=""http://jinja.pocoo.org/docs/templates/"">Jinja Templating</a> and all the fields of Address (including Custom Fields if any) will be available</p>\n<pre><code>{{ address_line1 }}&lt;br&gt;\n{% if address_line2 %}{{ address_line2 }}&lt;br&gt;{% endif -%}\n{{ city }}&lt;br&gt;\n{% if state %}{{ state }}&lt;br&gt;{% endif -%}\n{% if pincode %} PIN:  {{ pincode }}&lt;br&gt;{% endif -%}\n{{ country }}&lt;br&gt;\n{% if phone %}Phone: {{ phone }}&lt;br&gt;{% endif -%}\n{% if fax %}Fax: {{ fax }}&lt;br&gt;{% endif -%}\n{% if email_id %}Email: {{ email_id }}&lt;br&gt;{% endif -%}\n</code></pre>","<h4> Standaardsjabloon <!-- h4--> \n <p> Gebruikt <a href=""http://jinja.pocoo.org/docs/templates/""> Jinja Templating </a> en al de velden van Address ( inclusief aangepaste velden eventuele) zal beschikbaar <!-- p--> \n </p><pre> <code> {{address_line1}} &amp; lt; br &amp; gt; \n {% indien address_line2%} {{address_line2}} &amp; lt; br &amp; gt; { % endif -%} \n {{city}} &amp; lt; br &amp; gt; \n {% als state%} {{state}} &amp; lt; br &amp; gt; {% endif -%} \n {% als pincode%} PIN: {{pincode}} &amp; lt; br &amp; gt; {% endif -%} \n {{land}} &amp; lt; br &amp; gt; \n {% wanneer de telefoon%} Telefoon: {{telefoon}} &amp; lt; br &amp; gt; { % endif -%} \n {% per faxbericht%} Fax: {{fax}} &amp; lt; br &amp; gt; {% endif -%} \n {% indien email_id%} E-mail: {{email_id}} &amp; lt; br &amp; gt ; {% endif -%} \n <!-- code--> <!-- pre--></code></pre></h4>",reviewed,frappe
+"<p>Set context before rendering a template. Example:</p><p>\n</p><div><pre><code>\ncontext.project = frappe.get_doc(""Project"", frappe.form_dict.name)\n</code></pre></div>","<p>Stel context in voordat u een sjabloon weergeeft. Voorbeeld:</p><p></p><div><pre> <code>context.project = frappe.get_doc(&quot;Project&quot;, frappe.form_dict.name)</code></pre></div>",reviewed,frappe
+[Error],[Fout],reviewed,erpnext
+[Important] [ERPNext] Auto Reorder Errors,[Belangrijk] [ERPNext] Fouten bij automatische herbestelling,reviewed,erpnext
+[{0}](#Form/Item/{0}) is out of stock,[{0}] (# Vorm / Item / {0}) is niet op voorraad,reviewed,erpnext
+_report,_rapport,reviewed,frappe
+`Freeze Stocks Older Than` should be smaller than %d days.,'Bevries Voorraden Ouder dan' moet minder dan %d dagen zijn.,reviewed,erpnext
+A BOM with name {0} already exists for item {1}.,Er bestaat al een stuklijst met naam {0} voor artikel {1}.,reviewed,erpnext
+A condition for a Shipping Rule,Een voorwaarde voor een Verzendregel,reviewed,erpnext
+A Customer Group exists with same name please change the Customer name or rename the Customer Group,Er bestaat al een klantgroep met dezelfde naam. Wijzig de naam van de klant of de klantgroep.,reviewed,erpnext
+A customer is already linked to this Member,Er is al een klant aan dit lid gekoppeld,reviewed,erpnext
+A customer with the same name already exists,Er bestaat al een klant met dezelfde naam,reviewed,erpnext
 A Default Service Level Agreement already exists.,Er bestaat al een standaard Service Level Agreement.,unreviewed,erpnext
 A Distributed Cost Center cannot be added in the Distributed Cost Center allocation table.,Een gedistribueerde kostenplaats kan niet worden toegevoegd aan de verdeelde kostenplaats-allocatietabel.,unreviewed,erpnext
 A featured post must have a cover image,Een uitgelicht bericht moet een omslagafbeelding hebben,unreviewed,frappe

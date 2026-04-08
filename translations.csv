@@ -8650,200 +8650,200 @@ Review Levels,Beoordeling niveaus,reviewed,frappe
 Review Points,Review punten,reviewed,frappe
 Review Points:,Beoordelingspunten:,reviewed,frappe
 Reviews,beoordelingen,reviewed,both
-Revoke,Intrekken,unreviewed,frappe
-Revoke <Key></Key>,Intrekken&lt;Key&gt;&lt;/Key&gt;,unreviewed,erpnext
-Revoked,herroepen,unreviewed,frappe
-RFQs are not allowed for {0} due to a scorecard standing of {1},RFQ&#39;s zijn niet toegestaan voor {0} door een scorecard van {1},unreviewed,erpnext
-rgt,RGT,unreviewed,erpnext
-Right,Rechts,unreviewed,frappe
-Right Index,Rechter Index,unreviewed,erpnext
-Ringing,rinkelen,unreviewed,erpnext
-Risk Factors,Risicofactoren,unreviewed,erpnext
-Road,Weg,unreviewed,erpnext
-road,weg,unreviewed,frappe
-Robots.txt,robots.txt,unreviewed,frappe
-Role,Rol,unreviewed,frappe
-Role Allowed to Edit Frozen Stock,Rol toegestaan om bevroren voorraad te bewerken,unreviewed,erpnext
-Role Allowed to Set Frozen Accounts and Edit Frozen Entries,Rol toegestaan om bevroren accounts in te stellen en bevroren items te bewerken,unreviewed,erpnext
-Role and Level,Rol en Niveau,unreviewed,frappe
-Role Name,Rolnaam,unreviewed,frappe
-Role Permission for Page and Report,Rol Toestemming voor pagina en het verslag,unreviewed,frappe
-Role Permissions,Rol Machtigingen,unreviewed,frappe
-Role Permissions Manager,Rol Machtigingen Manager,unreviewed,frappe
-Role Profile,Rolprofiel,unreviewed,frappe
-Roles,Rollen,unreviewed,frappe
-Roles Assigned,Toegewezen Rollen,unreviewed,frappe
-Roles can be set for users from their User page.,Rollen kunnen worden ingesteld voor gebruikers vanaf hun gebruikers pagina .,unreviewed,frappe
-Roles HTML,Rollen HTML,unreviewed,frappe
-Roles Html,Rollen Html,unreviewed,frappe
-Room,Kamer,unreviewed,both
-Room Name,Kamer naam,unreviewed,erpnext
-Room Number,Kamernummer,unreviewed,erpnext
-Room Type,Kamertype,unreviewed,both
-Rooms Booked,Kamers geboekt,unreviewed,erpnext
-Root cannot be edited.,Root kan niet worden bewerkt .,unreviewed,erpnext
-Root cannot have a parent cost center,Root kan niet een bovenliggende kostenplaats hebben,unreviewed,erpnext
-Root Type,Hoofdtype,unreviewed,custom
-Root Type is mandatory,Root Type is verplicht,unreviewed,erpnext
-Root {0} cannot be deleted,Root {0} kan niet worden verwijderd,unreviewed,frappe
-Round Off,Afronden,unreviewed,erpnext
-Round Off Account,Afronden Account,unreviewed,erpnext
-Round Off Cost Center,Afronden kostenplaats,unreviewed,erpnext
-Round Robin,Rond Robin,unreviewed,frappe
-Rounded Total,Afgerond totaal,unreviewed,erpnext
-Rounded Total (Company Currency),Afgerond Totaal (Bedrijfsvaluta),unreviewed,erpnext
-Rounding Adjustment,Afrondingsverschil,unreviewed,erpnext
-Rounding Adjustment (Company Currency,Afronding aanpassing (bedrijfsmunt,unreviewed,erpnext
-Rounding Adjustment (Company Currency),Afronding aanpassing (bedrijfsmunt),unreviewed,erpnext
-Route History,Route geschiedenis,unreviewed,frappe
-Route Redirects,Route omleidingen,unreviewed,frappe
-Route to Success Link,Route naar succeskoppeling,unreviewed,frappe
-"Route: Example ""/desk""",Route: Voorbeeld &quot;/ desk&quot;,unreviewed,frappe
-Routing Name,Naam van routering,unreviewed,erpnext
-Row,Rij,unreviewed,frappe
-Row #,Rij #,unreviewed,both
-Row # {0}:,Rij # {0}:,unreviewed,erpnext
-Row # {0}: Batch No must be same as {1} {2},Rij # {0}: Batch Geen moet hetzelfde zijn als zijn {1} {2},unreviewed,erpnext
-Row # {0}: Cannot return more than {1} for Item {2},Rij # {0}: Kan niet meer dan terugkeren {1} voor post {2},unreviewed,erpnext
-Row # {0}: Rate cannot be greater than the rate used in {1} {2},Rij # {0}: De tarief kan niet groter zijn dan de tarief die wordt gebruikt in {1} {2},unreviewed,erpnext
-Row # {0}: Returned Item {1} does not exist in {2} {3},Rij # {0}: geretourneerd item {1} bestaat niet in {2} {3},unreviewed,erpnext
-Row # {0}: Serial No is mandatory,Rij # {0}: serienummer is verplicht,unreviewed,erpnext
-Row # {0}: Serial No {1} does not match with {2} {3},Rij # {0}: Serienummer {1} komt niet overeen met {2} {3},unreviewed,erpnext
-Row #{0} (Payment Table): Amount must be negative,Rij # {0} (betalingstabel): bedrag moet negatief zijn,unreviewed,erpnext
-Row #{0} (Payment Table): Amount must be positive,Rij # {0} (betalingstabel): bedrag moet positief zijn,unreviewed,erpnext
-Row #{0}:,Rij # {0}:,unreviewed,frappe
-Row #{0}: Accepted Warehouse and Supplier Warehouse cannot be same,Rij # {0}: Geaccepteerd magazijn en leveranciersmagazijn kunnen niet hetzelfde zijn,unreviewed,erpnext
-Row #{0}: Account {1} does not belong to company {2},Rij # {0}: account {1} hoort niet bij bedrijf {2},unreviewed,erpnext
-Row #{0}: Allocated Amount cannot be greater than outstanding amount.,Rij # {0}: Toegewezen bedrag mag niet groter zijn dan het uitstaande bedrag.,unreviewed,erpnext
-"Row #{0}: Asset {1} cannot be submitted, it is already {2}","Rij # {0}: Asset {1} kan niet worden ingediend, is het al {2}",unreviewed,erpnext
-Row #{0}: Cannot delete item {1} which has already been billed.,Rij # {0}: kan item {1} dat al is gefactureerd niet verwijderen.,unreviewed,erpnext
-Row #{0}: Cannot delete item {1} which has already been delivered,Rij # {0}: kan item {1} dat al is afgeleverd niet verwijderen,unreviewed,erpnext
-Row #{0}: Cannot delete item {1} which has already been received,Rij # {0}: kan item {1} dat al is ontvangen niet verwijderen,unreviewed,erpnext
-Row #{0}: Cannot delete item {1} which has work order assigned to it.,Rij # {0}: kan item {1} niet verwijderen waaraan een werkorder is toegewezen.,unreviewed,erpnext
-Row #{0}: Cannot delete item {1} which is assigned to customer's purchase order.,Rij # {0}: kan item {1} dat is toegewezen aan de bestelling van de klant niet verwijderen.,unreviewed,erpnext
-Row #{0}: Cannot select Supplier Warehouse while suppling raw materials to subcontractor,Rij # {0}: Kan leveranciersmagazijn niet selecteren tijdens het leveren van grondstoffen aan onderaannemer,unreviewed,erpnext
-Row #{0}: Cannot set Rate if amount is greater than billed amount for Item {1}.,Rij # {0}: kan Tarief niet instellen als het bedrag groter is dan het gefactureerde bedrag voor artikel {1}.,unreviewed,erpnext
-Row #{0}: Check Out datetime cannot be less than Check In datetime,Rij # {0}: datetime voor uitchecken kan niet minder zijn dan datetime voor inchecken,unreviewed,erpnext
-Row #{0}: Child Item should not be a Product Bundle. Please remove Item {1} and Save,Rij # {0}: onderliggend item mag geen productbundel zijn. Verwijder item {1} en sla het op,unreviewed,erpnext
-Row #{0}: Clearance date {1} cannot be before Cheque Date {2},Rij # {0}: Clearance date {1} kan niet vóór Cheque Date {2},unreviewed,erpnext
-Row #{0}: Conversion Factor is mandatory,Rij # {0}: conversiefactor is verplicht,unreviewed,erpnext
-Row #{0}: Cost Center {1} does not belong to company {2},Rij # {0}: Kostenplaats {1} hoort niet bij bedrijf {2},unreviewed,erpnext
-Row #{0}: Duplicate entry in References {1} {2},Rij # {0}: Duplicate entry in Referenties {1} {2},unreviewed,erpnext
-Row #{0}: Expected Delivery Date cannot be before Purchase Order Date,Rij # {0}: Verwachte Afleverdatum kan niet vóór de Aankoopdatum zijn,unreviewed,erpnext
-Row #{0}: Invalid Local Fieldname,Rij # {0}: ongeldige lokale veldnaam,unreviewed,frappe
-Row #{0}: Item added,Rij # {0}: item toegevoegd,unreviewed,erpnext
-Row #{0}: Item {1} is already fully received in Purchase Order {2},Rij # {0}: artikel {1} is al volledig ontvangen in inkooporder {2},unreviewed,erpnext
-Row #{0}: Item {1} is not a Serialized/Batched Item. It cannot have a Serial No/Batch No against it.,Rij # {0}: artikel {1} is geen geserialiseerd / batch artikel. Het kan geen serienummer / batchnummer hebben.,unreviewed,erpnext
-Row #{0}: Journal Entry {1} does not have account {2} or already matched against another voucher,Rij # {0}: Journal Entry {1} heeft geen account {2} of al vergeleken met een ander voucher,unreviewed,erpnext
-Row #{0}: Not allowed to change Supplier as Purchase Order already exists,Rij # {0}: Niet toegestaan om van leverancier te veranderen als bestelling al bestaat,unreviewed,erpnext
-Row #{0}: Operation {1} is not completed for {2} qty of finished goods in Work Order {3}. Please update operation status via Job Card {4}.,Rij # {0}: bewerking {1} is niet voltooid voor {2} aantal voltooide goederen in werkorder {3}. Werk de bedieningsstatus bij via opdrachtkaart {4}.,unreviewed,erpnext
-Row #{0}: Payment document is required to complete the transaction,Rij # {0}: Betalingsdocument is vereist om de transactie te voltooien,unreviewed,erpnext
-Row #{0}: Please enter the result value for {1},Rij # {0}: voer de resultaatwaarde in voor {1},unreviewed,erpnext
-Row #{0}: Please set Mapping or Default Value for the field {1} since its a dependency field,Rij # {0}: stel de toewijzing of standaardwaarde in voor het veld {1} aangezien het een afhankelijkheidsveld is,unreviewed,frappe
-Row #{0}: Please set remote value filters for the field {1} to fetch the unique remote dependency document,Rij # {0}: stel filters voor externe waarden in voor het veld {1} om het unieke externe afhankelijkheidsdocument op te halen,unreviewed,frappe
-Row #{0}: Please set reorder quantity,Rij # {0}: Stel nabestelling hoeveelheid,unreviewed,erpnext
-Row #{0}: Please specify Serial No for Item {1},Rij #{0}: Voer serienummer in voor artikel {1},unreviewed,erpnext
-Row #{0}: Qty increased by 1,Rij # {0}: aantal verhoogd met 1,unreviewed,erpnext
-Row #{0}: Quantity for Item {1} cannot be zero.,Rij # {0}: Artikelhoeveelheid voor item {1} kan niet nul zijn.,unreviewed,erpnext
-Row #{0}: Rate must be same as {1}: {2} ({3} / {4}),Rij # {0}: Beoordeel moet hetzelfde zijn als zijn {1}: {2} ({3} / {4}),unreviewed,erpnext
-Row #{0}: Reference Document Type must be one of Expense Claim or Journal Entry,Rij # {0}: Referentiedocumenttype moet één van de kostenrekening of het journaalboekje zijn,unreviewed,erpnext
-"Row #{0}: Reference Document Type must be one of Purchase Order, Purchase Invoice or Journal Entry","Rij # {0}: Reference document moet een van Purchase Order, Purchase Invoice of Inboeken zijn",unreviewed,erpnext
-"Row #{0}: Reference Document Type must be one of Sales Order, Sales Invoice, Journal Entry or Dunning","Rij # {0}: het type referentiedocument moet een verkooporder, verkoopfactuur, journaalboeking of aanmaning zijn",unreviewed,erpnext
-Row #{0}: Rejected Qty can not be entered in Purchase Return,Rij # {0}: Afgekeurd Aantal niet in Purchase Return kunnen worden ingevoerd,unreviewed,erpnext
-Row #{0}: Rejected Warehouse is mandatory against rejected Item {1},Rij # {0}: Afgekeurd Warehouse is verplicht tegen verworpen Item {1},unreviewed,erpnext
-Row #{0}: Reqd by Date cannot be before Transaction Date,Rij # {0}: Gewenste datum mag niet vóór Transactiedatum liggen,unreviewed,erpnext
-Row #{0}: Serial No {1} does not belong to Batch {2},Rij # {0}: Serienummer {1} hoort niet bij Batch {2},unreviewed,erpnext
-Row #{0}: Service End Date cannot be before Invoice Posting Date,Rij # {0}: Einddatum van de service kan niet vóór de boekingsdatum van de factuur liggen,unreviewed,erpnext
-Row #{0}: Service Start and End Date is required for deferred accounting,Rij # {0}: Service-start- en einddatum is vereist voor uitgestelde boekhouding,unreviewed,erpnext
-Row #{0}: Service Start Date cannot be greater than Service End Date,Rij # {0}: Service startdatum kan niet groter zijn dan service einddatum,unreviewed,erpnext
-Row #{0}: Set Supplier for item {1},Rij # {0}: Stel Leverancier voor punt {1},unreviewed,erpnext
-Row #{0}: Status must be {1} for Invoice Discounting {2},Rij # {0}: Status moet {1} zijn voor factuurkorting {2},unreviewed,erpnext
-Row #{0}: The batch {1} has already expired.,Rij # {0}: de batch {1} is al verlopen.,unreviewed,erpnext
-"Row #{0}: The batch {1} has only {2} qty. Please select another batch which has {3} qty available or split the row into multiple rows, to deliver/issue from multiple batches","Rij # {0}: De partij {1} heeft slechts {2} aantal. Selecteer alstublieft een andere partij die {3} beschikbaar heeft of verdeel de rij in meerdere rijen, om te leveren / uit te voeren vanuit meerdere batches",unreviewed,erpnext
-Row #{0}: Timings conflicts with row {1},Rij #{0}: Tijden conflicteren met rij {1},unreviewed,erpnext
-Row #{0}: {1} can not be negative for item {2},Row # {0}: {1} kan niet negatief voor producten van post {2},unreviewed,erpnext
-Row #{0}: {1} is required to create the Opening {2} Invoices,Rij # {0}: {1} is vereist om de openingsfacturen {2} te maken,unreviewed,erpnext
-Row #{}: Currency of {} - {} doesn't matches company currency.,Rij # {}: valuta van {} - {} komt niet overeen met de valuta van het bedrijf.,unreviewed,erpnext
-Row #{}: Depreciation Posting Date should not be equal to Available for Use Date.,Rij # {}: Afschrijvingsboekingsdatum mag niet gelijk zijn aan Beschikbaar voor gebruik.,unreviewed,erpnext
-Row #{}: Item Code: {} is not available under warehouse {}.,Rij # {}: artikelcode: {} is niet beschikbaar onder magazijn {}.,unreviewed,erpnext
-Row #{}: No batch selected against item: {}. Please select a batch or remove it to complete transaction.,Rij # {}: geen batch geselecteerd voor item: {}. Selecteer een batch of verwijder deze om de transactie te voltooien.,unreviewed,erpnext
-Row #{}: No serial number selected against item: {}. Please select one or remove it to complete transaction.,Rij # {}: geen serienummer geselecteerd voor item: {}. Selecteer er een of verwijder deze om de transactie te voltooien.,unreviewed,erpnext
-Row #{}: Original Invoice {} of return invoice {} is {}.,Rij # {}: originele factuur {} van retourfactuur {} is {}.,unreviewed,erpnext
-Row #{}: Please asign task to a member.,Rij # {}: wijs de taak toe aan een lid.,unreviewed,erpnext
-Row #{}: Please select a serial no and batch against item: {} or remove it to complete transaction.,Rij # {}: selecteer een serienummer en batch voor artikel: {} of verwijder het om de transactie te voltooien.,unreviewed,erpnext
-Row #{}: POS Invoice {} has been {},Rij # {}: POS-factuur {} is {},unreviewed,erpnext
-Row #{}: POS Invoice {} is not against customer {},Rij # {}: POS-factuur {} is niet gericht op klant {},unreviewed,erpnext
-Row #{}: POS Invoice {} is not submitted yet,Rij # {}: POS-factuur {} is nog niet verzonden,unreviewed,erpnext
-Row #{}: Selling rate for item {} is lower than its {}. Selling {} should be atleast {},Rij # {}: het verkooppercentage voor artikel {} is lager dan zijn {}. Verkopen {} zou minstens {} moeten zijn,unreviewed,erpnext
-Row #{}: Serial No {} cannot be returned since it was not transacted in original invoice {},Rij # {}: serienummer {} kan niet worden geretourneerd omdat deze niet is verwerkt in de originele factuur {},unreviewed,erpnext
-Row #{}: Serial No. {} has already been transacted into another POS Invoice. Please select valid serial no.,Rij # {}: serienummer {} is al verwerkt in een andere POS-factuur. Selecteer een geldig serienummer.,unreviewed,erpnext
-Row #{}: Serial Nos. {} has already been transacted into another POS Invoice. Please select valid serial no.,Rij # {}: serienummers {} is al verwerkt in een andere POS-factuur. Selecteer een geldig serienummer.,unreviewed,erpnext
-Row #{}: Stock quantity not enough for Item Code: {} under warehouse {}. Available quantity {}.,Rij # {}: voorraadhoeveelheid niet genoeg voor artikelcode: {} onder magazijn {}. Beschikbare kwaliteit {}.,unreviewed,erpnext
-Row #{}: You cannot add postive quantities in a return invoice. Please remove item {} to complete the return.,Rij # {}: u kunt geen positieve hoeveelheden toevoegen aan een retourfactuur. Verwijder item {} om de retourzending te voltooien.,unreviewed,erpnext
-Row #{}: You must select {} serial numbers for item {}.,Rij # {}: u moet {} serienummers voor artikel {} selecteren.,unreviewed,erpnext
-Row #{}: {},Rij # {}: {},unreviewed,erpnext
-Row #{}: {} of {} should be {}. Please modify the account or select a different account.,Rij # {}: {} van {} moet {} zijn. Pas het account aan of selecteer een ander account.,unreviewed,erpnext
-Row #{}: {} {} does not exist.,Rij # {}: {} {} bestaat niet.,unreviewed,erpnext
-Row Index,Rij-index,unreviewed,frappe
-Row Name,Rij naam,unreviewed,frappe
-Row No,Rij nr,unreviewed,frappe
-Row No {0}: Amount cannot be greater than Pending Amount against Expense Claim {1}. Pending Amount is {2},Rij Geen {0}: Bedrag kan niet groter zijn dan afwachting Bedrag tegen Expense conclusie {1} zijn. In afwachting van Bedrag is {2},unreviewed,erpnext
-Row Number,Rij nummer,unreviewed,frappe
-Row Spacing,Rijafstand,unreviewed,erpnext
-Row Spacing UOM,Rijafstand UOM,unreviewed,erpnext
-Row Status,Rij status,unreviewed,frappe
-Row Values Changed,Rijwaarden Changed,unreviewed,frappe
-Row {0},Rij {0},unreviewed,frappe
-Row {0} : Operation is required against the raw material item {1},Rij {0}: bewerking vereist ten opzichte van het artikel met de grondstof {1},unreviewed,erpnext
-Row {0}# Item {1} cannot be transferred more than {2} against Purchase Order {3},Rij {0} # artikel {1} kan niet meer dan {2} worden overgedragen tegen bestelling {3},unreviewed,erpnext
-Row {0}: Activity Type is mandatory.,Rij {0}: Activiteit Type is verplicht.,unreviewed,erpnext
-Row {0}: Advance against Customer must be credit,Rij {0}: Advance tegen Klant moet krediet,unreviewed,erpnext
-Row {0}: Advance against Supplier must be debit,Rij {0}: Advance tegen Leverancier worden debiteren,unreviewed,erpnext
-Row {0}: Allocated amount {1} must be less than or equals to invoice outstanding amount {2},Rij {0}: Toegewezen bedrag {1} moet kleiner zijn dan of gelijk aan openstaande bedrag te factureren {2},unreviewed,erpnext
-Row {0}: Allocated amount {1} must be less than or equals to Payment Entry amount {2},Rij {0}: Toegewezen bedrag {1} moet kleiner zijn dan of gelijk aan Payment Entry bedrag {2},unreviewed,erpnext
-Row {0}: An Reorder entry already exists for this warehouse {1},Rij {0}: Er bestaat al een nabestelling voor dit magazijn {1},unreviewed,erpnext
-Row {0}: Bill of Materials not found for the Item {1},Rij {0}: Bill of Materials niet gevonden voor het artikel {1},unreviewed,erpnext
-Row {0}: Cannot create Inpatient Medication Entry against cancelled Inpatient Medication Order {1},Rij {0}: kan geen opname voor intramurale medicatie maken tegen geannuleerde medicatiebestelling voor intramurale patiënten {1},unreviewed,erpnext
-Row {0}: Conversion Factor is mandatory,Rij {0}: Conversie Factor is verplicht,unreviewed,erpnext
-Row {0}: Cost center is required for an item {1},Rij {0}: Kostencentrum is vereist voor een item {1},unreviewed,erpnext
-Row {0}: Credit entry can not be linked with a {1},Rij {0}: kan creditering niet worden gekoppeld met een {1},unreviewed,erpnext
-Row {0}: Currency of the BOM #{1} should be equal to the selected currency {2},Rij {0}: Munt van de BOM # {1} moet gelijk zijn aan de geselecteerde valuta zijn {2},unreviewed,erpnext
-Row {0}: Debit entry can not be linked with a {1},Rij {0}: debitering niet kan worden verbonden met een {1},unreviewed,erpnext
-Row {0}: Delivery Warehouse ({1}) and Customer Warehouse ({2}) can not be same,Rij {0}: Delivery Warehouse ({1}) en Customer Warehouse ({2}) kunnen niet hetzelfde zijn,unreviewed,erpnext
-Row {0}: Depreciation Start Date is required,Rij {0}: startdatum van afschrijving is vereist,unreviewed,erpnext
-Row {0}: Due Date in the Payment Terms table cannot be before Posting Date,Rij {0}: de vervaldatum in de tabel met betalingsvoorwaarden mag niet vóór de boekingsdatum liggen,unreviewed,erpnext
-Row {0}: Enter location for the asset item {1},Rij {0}: geef de locatie op voor het item item {1},unreviewed,erpnext
-Row {0}: Exchange Rate is mandatory,Rij {0}: Wisselkoers is verplicht,unreviewed,erpnext
-Row {0}: Expected Value After Useful Life must be less than Gross Purchase Amount,Rij {0}: verwachte waarde na bruikbare levensduur moet lager zijn dan bruto inkoopbedrag,unreviewed,erpnext
-"Row {0}: For Supplier {1}, Email Address is Required to send an email",Rij {0}: voor leverancier {1} is het e-mailadres vereist om een e-mail te verzenden,unreviewed,erpnext
-Row {0}: From Time and To Time is mandatory.,Rij {0}: Van tijd en binnen Tijd is verplicht.,unreviewed,erpnext
-Row {0}: From Time and To Time of {1} is overlapping with {2},Rij {0}: Van tijd en de tijd van de {1} overlapt met {2},unreviewed,erpnext
-Row {0}: From time must be less than to time,Rij {0}: van tijd moet korter zijn dan tot tijd,unreviewed,erpnext
-Row {0}: Hours value must be greater than zero.,Rij {0}: Aantal uren moet groter zijn dan nul.,unreviewed,erpnext
-Row {0}: Invalid Item Tax Template for item {1},Rij {0}: ongeldige BTW-sjabloon voor artikel voor artikel {1},unreviewed,erpnext
-Row {0}: Invalid reference {1},Rij {0}: Invalid referentie {1},unreviewed,erpnext
-Row {0}: Not allowed to disable Mandatory for standard fields,Rij {0}: niet toegestaan verplicht voor standaardvelden uitschakelen,unreviewed,frappe
-Row {0}: Not allowed to enable Allow on Submit for standard fields,Rij {0}: Niet toegestaan om te schakelen Sta op Submit voor standaard velden,unreviewed,frappe
-Row {0}: Party / Account does not match with {1} / {2} in {3} {4},Rij {0}: Party / Account komt niet overeen met {1} / {2} in {3} {4},unreviewed,erpnext
-Row {0}: Party Type and Party is required for Receivable / Payable account {1},Rij {0}: Party Type en Party is vereist voor Debiteuren / Crediteuren rekening {1},unreviewed,erpnext
-Row {0}: Payment against Sales/Purchase Order should always be marked as advance,Rij {0}: Betaling tegen Sales / Purchase Order moet altijd worden gemarkeerd als voorschot,unreviewed,erpnext
-Row {0}: Please check 'Is Advance' against Account {1} if this is an advance entry.,Rij {0}: Kijk 'Is Advance' tegen Account {1} als dit is een voorschot binnenkomst.,unreviewed,erpnext
-Row {0}: Please set at Tax Exemption Reason in Sales Taxes and Charges,Rij {0}: Stel in op Belastingvrijstellingsreden in omzetbelasting en kosten,unreviewed,erpnext
-Row {0}: Please set the correct code on Mode of Payment {1},Rij {0}: stel de juiste code in op Betalingswijze {1},unreviewed,erpnext
-Row {0}: Please set the Mode of Payment in Payment Schedule,Rij {0}: stel de Betalingswijze in Betalingsschema in,unreviewed,erpnext
-Row {0}: Quality Inspection rejected for item {1},Rij {0}: kwaliteitscontrole afgewezen voor artikel {1},unreviewed,erpnext
-Row {0}: Quantity not available for {4} in warehouse {1} at posting time of the entry ({2} {3}),Rij {0}: hoeveelheid niet beschikbaar voor {4} in magazijn {1} op het moment van boeking ({2} {3}),unreviewed,erpnext
-Row {0}: select the workstation against the operation {1},Rij {0}: selecteer het werkstation tegen de bewerking {1},unreviewed,erpnext
-Row {0}: Subcontracted Item is mandatory for the raw material {1},Rij {0}: uitbesteed artikel is verplicht voor de grondstof {1},unreviewed,erpnext
-"Row {0}: The item {1}, quantity must be positive number","Rij {0}: het artikel {1}, de hoeveelheid moet een positief getal zijn",unreviewed,erpnext
-Row {0}: This Medication Order is already marked as completed,Rij {0}: deze medicatiebestelling is al gemarkeerd als voltooid,unreviewed,erpnext
-Row {0}: UOM Conversion Factor is mandatory,Rij {0}: Verpakking Conversie Factor is verplicht,unreviewed,erpnext
-Row {0}: user has not applied the rule {1} on the item {2},Rij {0}: gebruiker heeft regel {1} niet toegepast op item {2},unreviewed,erpnext
-Row {0}: {1} must be greater than 0,Rij {0}: {1} moet groter zijn dan 0,unreviewed,erpnext
-Row {0}: {1} Serial numbers required for Item {2}. You have provided {3}.,Rij {0}: {1} Serienummers vereist voor item {2}. U heeft {3} verstrekt.,unreviewed,erpnext
-Row {0}: {1} {2} does not match with {3},Rij {0}: {1} {2} niet overeenkomt met {3},unreviewed,erpnext
-Row {0}:Sibling Date of Birth cannot be greater than today.,Rij {0}: Geboortedatum broer of zus kan niet groter zijn dan vandaag.,unreviewed,erpnext
-Row {0}:Start Date must be before End Date,Rij {0} : Start Datum moet voor Einddatum zijn,unreviewed,erpnext
+Revoke,Intrekken,reviewed,frappe
+Revoke <Key></Key>,Intrekken&lt;Key&gt;&lt;/Key&gt;,reviewed,erpnext
+Revoked,herroepen,reviewed,frappe
+RFQs are not allowed for {0} due to a scorecard standing of {1},RFQ&#39;s zijn niet toegestaan voor {0} door een scorecard van {1},reviewed,erpnext
+rgt,rgt,reviewed,erpnext
+Right,Rechts,reviewed,frappe
+Right Index,Rechter Index,reviewed,erpnext
+Ringing,rinkelen,reviewed,erpnext
+Risk Factors,Risicofactoren,reviewed,erpnext
+Road,Weg,reviewed,erpnext
+road,weg,reviewed,frappe
+Robots.txt,robots.txt,reviewed,frappe
+Role,Rol,reviewed,frappe
+Role Allowed to Edit Frozen Stock,Rol toegestaan om bevroren voorraad te bewerken,reviewed,erpnext
+Role Allowed to Set Frozen Accounts and Edit Frozen Entries,Rol toegestaan om bevroren accounts in te stellen en bevroren items te bewerken,reviewed,erpnext
+Role and Level,Rol en Niveau,reviewed,frappe
+Role Name,Rolnaam,reviewed,frappe
+Role Permission for Page and Report,Rolmachtiging voor pagina en rapport,reviewed,frappe
+Role Permissions,Rolmachtigingen,reviewed,frappe
+Role Permissions Manager,Rolmachtigingenbeheerder,reviewed,frappe
+Role Profile,Rolprofiel,reviewed,frappe
+Roles,Rollen,reviewed,frappe
+Roles Assigned,Toegewezen rollen,reviewed,frappe
+Roles can be set for users from their User page.,Rollen kunnen worden ingesteld voor gebruikers vanaf hun gebruikers pagina .,reviewed,frappe
+Roles HTML,Rollen HTML,reviewed,frappe
+Roles Html,Rollen Html,reviewed,frappe
+Room,Kamer,reviewed,both
+Room Name,Kamernaam,reviewed,erpnext
+Room Number,Kamernummer,reviewed,erpnext
+Room Type,Kamertype,reviewed,both
+Rooms Booked,Kamers geboekt,reviewed,erpnext
+Root cannot be edited.,Root kan niet worden bewerkt .,reviewed,erpnext
+Root cannot have a parent cost center,Root kan niet een bovenliggende kostenplaats hebben,reviewed,erpnext
+Root Type,Hoofdtype,reviewed,custom
+Root Type is mandatory,Root Type is verplicht,reviewed,erpnext
+Root {0} cannot be deleted,Root {0} kan niet worden verwijderd,reviewed,frappe
+Round Off,Afronden,reviewed,erpnext
+Round Off Account,Afrondingsrekening,reviewed,erpnext
+Round Off Cost Center,Afrondingskostenplaats,reviewed,erpnext
+Round Robin,Round-robin,reviewed,frappe
+Rounded Total,Afgerond totaal,reviewed,erpnext
+Rounded Total (Company Currency),Afgerond Totaal (Bedrijfsvaluta),reviewed,erpnext
+Rounding Adjustment,Afrondingsverschil,reviewed,erpnext
+Rounding Adjustment (Company Currency,Afrondingsverschil (bedrijfsvaluta,reviewed,erpnext
+Rounding Adjustment (Company Currency),Afrondingsverschil (bedrijfsvaluta),reviewed,erpnext
+Route History,Routegeschiedenis,reviewed,frappe
+Route Redirects,Routeomleidingen,reviewed,frappe
+Route to Success Link,Route naar succeskoppeling,reviewed,frappe
+"Route: Example ""/desk""",Route: Voorbeeld &quot;/ desk&quot;,reviewed,frappe
+Routing Name,Naam van routering,reviewed,erpnext
+Row,Rij,reviewed,frappe
+Row #,Rij #,reviewed,both
+Row # {0}:,Rij # {0}:,reviewed,erpnext
+Row # {0}: Batch No must be same as {1} {2},Rij # {0}: Batchnr. moet hetzelfde zijn als {1} {2},reviewed,erpnext
+Row # {0}: Cannot return more than {1} for Item {2},Rij # {0}: Kan niet meer dan terugkeren {1} voor post {2},reviewed,erpnext
+Row # {0}: Rate cannot be greater than the rate used in {1} {2},Rij # {0}: De tarief kan niet groter zijn dan de tarief die wordt gebruikt in {1} {2},reviewed,erpnext
+Row # {0}: Returned Item {1} does not exist in {2} {3},Rij # {0}: geretourneerd item {1} bestaat niet in {2} {3},reviewed,erpnext
+Row # {0}: Serial No is mandatory,Rij # {0}: serienummer is verplicht,reviewed,erpnext
+Row # {0}: Serial No {1} does not match with {2} {3},Rij # {0}: Serienummer {1} komt niet overeen met {2} {3},reviewed,erpnext
+Row #{0} (Payment Table): Amount must be negative,Rij # {0} (betalingstabel): bedrag moet negatief zijn,reviewed,erpnext
+Row #{0} (Payment Table): Amount must be positive,Rij # {0} (betalingstabel): bedrag moet positief zijn,reviewed,erpnext
+Row #{0}:,Rij # {0}:,reviewed,frappe
+Row #{0}: Accepted Warehouse and Supplier Warehouse cannot be same,Rij # {0}: Geaccepteerd magazijn en leveranciersmagazijn kunnen niet hetzelfde zijn,reviewed,erpnext
+Row #{0}: Account {1} does not belong to company {2},Rij # {0}: account {1} hoort niet bij bedrijf {2},reviewed,erpnext
+Row #{0}: Allocated Amount cannot be greater than outstanding amount.,Rij # {0}: Toegewezen bedrag mag niet groter zijn dan het uitstaande bedrag.,reviewed,erpnext
+"Row #{0}: Asset {1} cannot be submitted, it is already {2}","Rij # {0}: Asset {1} kan niet worden ingediend, is het al {2}",reviewed,erpnext
+Row #{0}: Cannot delete item {1} which has already been billed.,Rij # {0}: kan item {1} dat al is gefactureerd niet verwijderen.,reviewed,erpnext
+Row #{0}: Cannot delete item {1} which has already been delivered,Rij # {0}: kan item {1} dat al is afgeleverd niet verwijderen,reviewed,erpnext
+Row #{0}: Cannot delete item {1} which has already been received,Rij # {0}: kan item {1} dat al is ontvangen niet verwijderen,reviewed,erpnext
+Row #{0}: Cannot delete item {1} which has work order assigned to it.,Rij # {0}: kan item {1} niet verwijderen waaraan een werkorder is toegewezen.,reviewed,erpnext
+Row #{0}: Cannot delete item {1} which is assigned to customer's purchase order.,Rij # {0}: kan item {1} dat is toegewezen aan de bestelling van de klant niet verwijderen.,reviewed,erpnext
+Row #{0}: Cannot select Supplier Warehouse while suppling raw materials to subcontractor,Rij # {0}: Kan leveranciersmagazijn niet selecteren tijdens het leveren van grondstoffen aan onderaannemer,reviewed,erpnext
+Row #{0}: Cannot set Rate if amount is greater than billed amount for Item {1}.,Rij # {0}: kan Tarief niet instellen als het bedrag groter is dan het gefactureerde bedrag voor artikel {1}.,reviewed,erpnext
+Row #{0}: Check Out datetime cannot be less than Check In datetime,Rij # {0}: datetime voor uitchecken kan niet minder zijn dan datetime voor inchecken,reviewed,erpnext
+Row #{0}: Child Item should not be a Product Bundle. Please remove Item {1} and Save,Rij # {0}: onderliggend item mag geen productbundel zijn. Verwijder item {1} en sla het op,reviewed,erpnext
+Row #{0}: Clearance date {1} cannot be before Cheque Date {2},Rij # {0}: Clearance date {1} kan niet vóór Cheque Date {2},reviewed,erpnext
+Row #{0}: Conversion Factor is mandatory,Rij # {0}: conversiefactor is verplicht,reviewed,erpnext
+Row #{0}: Cost Center {1} does not belong to company {2},Rij # {0}: Kostenplaats {1} hoort niet bij bedrijf {2},reviewed,erpnext
+Row #{0}: Duplicate entry in References {1} {2},Rij # {0}: Duplicate entry in Referenties {1} {2},reviewed,erpnext
+Row #{0}: Expected Delivery Date cannot be before Purchase Order Date,Rij # {0}: Verwachte Afleverdatum kan niet vóór de Aankoopdatum zijn,reviewed,erpnext
+Row #{0}: Invalid Local Fieldname,Rij # {0}: ongeldige lokale veldnaam,reviewed,frappe
+Row #{0}: Item added,Rij # {0}: item toegevoegd,reviewed,erpnext
+Row #{0}: Item {1} is already fully received in Purchase Order {2},Rij # {0}: artikel {1} is al volledig ontvangen in inkooporder {2},reviewed,erpnext
+Row #{0}: Item {1} is not a Serialized/Batched Item. It cannot have a Serial No/Batch No against it.,Rij # {0}: artikel {1} is geen geserialiseerd / batch artikel. Het kan geen serienummer / batchnummer hebben.,reviewed,erpnext
+Row #{0}: Journal Entry {1} does not have account {2} or already matched against another voucher,Rij #{0}: Journaalboeking {1} heeft geen rekening {2} of is al verrekend met een ander boekstuk,reviewed,erpnext
+Row #{0}: Not allowed to change Supplier as Purchase Order already exists,Rij # {0}: Niet toegestaan om van leverancier te veranderen als bestelling al bestaat,reviewed,erpnext
+Row #{0}: Operation {1} is not completed for {2} qty of finished goods in Work Order {3}. Please update operation status via Job Card {4}.,Rij # {0}: bewerking {1} is niet voltooid voor {2} aantal voltooide goederen in werkorder {3}. Werk de bedieningsstatus bij via opdrachtkaart {4}.,reviewed,erpnext
+Row #{0}: Payment document is required to complete the transaction,Rij # {0}: Betalingsdocument is vereist om de transactie te voltooien,reviewed,erpnext
+Row #{0}: Please enter the result value for {1},Rij # {0}: voer de resultaatwaarde in voor {1},reviewed,erpnext
+Row #{0}: Please set Mapping or Default Value for the field {1} since its a dependency field,Rij # {0}: stel de toewijzing of standaardwaarde in voor het veld {1} aangezien het een afhankelijkheidsveld is,reviewed,frappe
+Row #{0}: Please set remote value filters for the field {1} to fetch the unique remote dependency document,Rij # {0}: stel filters voor externe waarden in voor het veld {1} om het unieke externe afhankelijkheidsdocument op te halen,reviewed,frappe
+Row #{0}: Please set reorder quantity,Rij # {0}: Stel nabestelling hoeveelheid,reviewed,erpnext
+Row #{0}: Please specify Serial No for Item {1},Rij #{0}: Voer serienummer in voor artikel {1},reviewed,erpnext
+Row #{0}: Qty increased by 1,Rij # {0}: aantal verhoogd met 1,reviewed,erpnext
+Row #{0}: Quantity for Item {1} cannot be zero.,Rij # {0}: Artikelhoeveelheid voor item {1} kan niet nul zijn.,reviewed,erpnext
+Row #{0}: Rate must be same as {1}: {2} ({3} / {4}),Rij # {0}: Beoordeel moet hetzelfde zijn als zijn {1}: {2} ({3} / {4}),reviewed,erpnext
+Row #{0}: Reference Document Type must be one of Expense Claim or Journal Entry,Rij # {0}: Referentiedocumenttype moet één van de kostenrekening of het journaalboekje zijn,reviewed,erpnext
+"Row #{0}: Reference Document Type must be one of Purchase Order, Purchase Invoice or Journal Entry","Rij # {0}: Reference document moet een van Purchase Order, Purchase Invoice of Inboeken zijn",reviewed,erpnext
+"Row #{0}: Reference Document Type must be one of Sales Order, Sales Invoice, Journal Entry or Dunning","Rij # {0}: het type referentiedocument moet een verkooporder, verkoopfactuur, journaalboeking of aanmaning zijn",reviewed,erpnext
+Row #{0}: Rejected Qty can not be entered in Purchase Return,Rij # {0}: Afgekeurd Aantal niet in Purchase Return kunnen worden ingevoerd,reviewed,erpnext
+Row #{0}: Rejected Warehouse is mandatory against rejected Item {1},Rij # {0}: Afgekeurd Warehouse is verplicht tegen verworpen Item {1},reviewed,erpnext
+Row #{0}: Reqd by Date cannot be before Transaction Date,Rij # {0}: Gewenste datum mag niet vóór Transactiedatum liggen,reviewed,erpnext
+Row #{0}: Serial No {1} does not belong to Batch {2},Rij # {0}: Serienummer {1} hoort niet bij Batch {2},reviewed,erpnext
+Row #{0}: Service End Date cannot be before Invoice Posting Date,Rij # {0}: Einddatum van de service kan niet vóór de boekingsdatum van de factuur liggen,reviewed,erpnext
+Row #{0}: Service Start and End Date is required for deferred accounting,Rij # {0}: Service-start- en einddatum is vereist voor uitgestelde boekhouding,reviewed,erpnext
+Row #{0}: Service Start Date cannot be greater than Service End Date,Rij # {0}: Service startdatum kan niet groter zijn dan service einddatum,reviewed,erpnext
+Row #{0}: Set Supplier for item {1},Rij # {0}: Stel Leverancier voor punt {1},reviewed,erpnext
+Row #{0}: Status must be {1} for Invoice Discounting {2},Rij # {0}: Status moet {1} zijn voor factuurkorting {2},reviewed,erpnext
+Row #{0}: The batch {1} has already expired.,Rij # {0}: de batch {1} is al verlopen.,reviewed,erpnext
+"Row #{0}: The batch {1} has only {2} qty. Please select another batch which has {3} qty available or split the row into multiple rows, to deliver/issue from multiple batches","Rij # {0}: De partij {1} heeft slechts {2} aantal. Selecteer alstublieft een andere partij die {3} beschikbaar heeft of verdeel de rij in meerdere rijen, om te leveren / uit te voeren vanuit meerdere batches",reviewed,erpnext
+Row #{0}: Timings conflicts with row {1},Rij #{0}: Tijden conflicteren met rij {1},reviewed,erpnext
+Row #{0}: {1} can not be negative for item {2},Row # {0}: {1} kan niet negatief voor producten van post {2},reviewed,erpnext
+Row #{0}: {1} is required to create the Opening {2} Invoices,Rij # {0}: {1} is vereist om de openingsfacturen {2} te maken,reviewed,erpnext
+Row #{}: Currency of {} - {} doesn't matches company currency.,Rij # {}: valuta van {} - {} komt niet overeen met de valuta van het bedrijf.,reviewed,erpnext
+Row #{}: Depreciation Posting Date should not be equal to Available for Use Date.,Rij # {}: Afschrijvingsboekingsdatum mag niet gelijk zijn aan Beschikbaar voor gebruik.,reviewed,erpnext
+Row #{}: Item Code: {} is not available under warehouse {}.,Rij # {}: artikelcode: {} is niet beschikbaar onder magazijn {}.,reviewed,erpnext
+Row #{}: No batch selected against item: {}. Please select a batch or remove it to complete transaction.,Rij # {}: geen batch geselecteerd voor item: {}. Selecteer een batch of verwijder deze om de transactie te voltooien.,reviewed,erpnext
+Row #{}: No serial number selected against item: {}. Please select one or remove it to complete transaction.,Rij # {}: geen serienummer geselecteerd voor item: {}. Selecteer er een of verwijder deze om de transactie te voltooien.,reviewed,erpnext
+Row #{}: Original Invoice {} of return invoice {} is {}.,Rij # {}: originele factuur {} van retourfactuur {} is {}.,reviewed,erpnext
+Row #{}: Please asign task to a member.,Rij # {}: wijs de taak toe aan een lid.,reviewed,erpnext
+Row #{}: Please select a serial no and batch against item: {} or remove it to complete transaction.,Rij # {}: selecteer een serienummer en batch voor artikel: {} of verwijder het om de transactie te voltooien.,reviewed,erpnext
+Row #{}: POS Invoice {} has been {},Rij # {}: POS-factuur {} is {},reviewed,erpnext
+Row #{}: POS Invoice {} is not against customer {},Rij # {}: POS-factuur {} is niet gericht op klant {},reviewed,erpnext
+Row #{}: POS Invoice {} is not submitted yet,Rij # {}: POS-factuur {} is nog niet verzonden,reviewed,erpnext
+Row #{}: Selling rate for item {} is lower than its {}. Selling {} should be atleast {},Rij # {}: het verkooppercentage voor artikel {} is lager dan zijn {}. Verkopen {} zou minstens {} moeten zijn,reviewed,erpnext
+Row #{}: Serial No {} cannot be returned since it was not transacted in original invoice {},Rij # {}: serienummer {} kan niet worden geretourneerd omdat deze niet is verwerkt in de originele factuur {},reviewed,erpnext
+Row #{}: Serial No. {} has already been transacted into another POS Invoice. Please select valid serial no.,Rij # {}: serienummer {} is al verwerkt in een andere POS-factuur. Selecteer een geldig serienummer.,reviewed,erpnext
+Row #{}: Serial Nos. {} has already been transacted into another POS Invoice. Please select valid serial no.,Rij # {}: serienummers {} is al verwerkt in een andere POS-factuur. Selecteer een geldig serienummer.,reviewed,erpnext
+Row #{}: Stock quantity not enough for Item Code: {} under warehouse {}. Available quantity {}.,Rij # {}: voorraadhoeveelheid niet genoeg voor artikelcode: {} onder magazijn {}. Beschikbare kwaliteit {}.,reviewed,erpnext
+Row #{}: You cannot add postive quantities in a return invoice. Please remove item {} to complete the return.,Rij # {}: u kunt geen positieve hoeveelheden toevoegen aan een retourfactuur. Verwijder item {} om de retourzending te voltooien.,reviewed,erpnext
+Row #{}: You must select {} serial numbers for item {}.,Rij # {}: u moet {} serienummers voor artikel {} selecteren.,reviewed,erpnext
+Row #{}: {},Rij # {}: {},reviewed,erpnext
+Row #{}: {} of {} should be {}. Please modify the account or select a different account.,Rij # {}: {} van {} moet {} zijn. Pas het account aan of selecteer een ander account.,reviewed,erpnext
+Row #{}: {} {} does not exist.,Rij # {}: {} {} bestaat niet.,reviewed,erpnext
+Row Index,Rij-index,reviewed,frappe
+Row Name,Rij naam,reviewed,frappe
+Row No,Rij nr,reviewed,frappe
+Row No {0}: Amount cannot be greater than Pending Amount against Expense Claim {1}. Pending Amount is {2},Rij Geen {0}: Bedrag kan niet groter zijn dan afwachting Bedrag tegen Expense conclusie {1} zijn. In afwachting van Bedrag is {2},reviewed,erpnext
+Row Number,Rij nummer,reviewed,frappe
+Row Spacing,Rijafstand,reviewed,erpnext
+Row Spacing UOM,Rijafstand UOM,reviewed,erpnext
+Row Status,Rij status,reviewed,frappe
+Row Values Changed,Rijwaarden Changed,reviewed,frappe
+Row {0},Rij {0},reviewed,frappe
+Row {0} : Operation is required against the raw material item {1},Rij {0}: bewerking vereist ten opzichte van het artikel met de grondstof {1},reviewed,erpnext
+Row {0}# Item {1} cannot be transferred more than {2} against Purchase Order {3},Rij {0} # artikel {1} kan niet meer dan {2} worden overgedragen tegen bestelling {3},reviewed,erpnext
+Row {0}: Activity Type is mandatory.,Rij {0}: Activiteit Type is verplicht.,reviewed,erpnext
+Row {0}: Advance against Customer must be credit,Rij {0}: Advance tegen Klant moet krediet,reviewed,erpnext
+Row {0}: Advance against Supplier must be debit,Rij {0}: Advance tegen Leverancier worden debiteren,reviewed,erpnext
+Row {0}: Allocated amount {1} must be less than or equals to invoice outstanding amount {2},Rij {0}: Toegewezen bedrag {1} moet kleiner zijn dan of gelijk aan openstaande bedrag te factureren {2},reviewed,erpnext
+Row {0}: Allocated amount {1} must be less than or equals to Payment Entry amount {2},Rij {0}: Toegewezen bedrag {1} moet kleiner zijn dan of gelijk aan Payment Entry bedrag {2},reviewed,erpnext
+Row {0}: An Reorder entry already exists for this warehouse {1},Rij {0}: Er bestaat al een nabestelling voor dit magazijn {1},reviewed,erpnext
+Row {0}: Bill of Materials not found for the Item {1},Rij {0}: Bill of Materials niet gevonden voor het artikel {1},reviewed,erpnext
+Row {0}: Cannot create Inpatient Medication Entry against cancelled Inpatient Medication Order {1},Rij {0}: kan geen opname voor intramurale medicatie maken tegen geannuleerde medicatiebestelling voor intramurale patiënten {1},reviewed,erpnext
+Row {0}: Conversion Factor is mandatory,Rij {0}: Conversie Factor is verplicht,reviewed,erpnext
+Row {0}: Cost center is required for an item {1},Rij {0}: Kostencentrum is vereist voor een item {1},reviewed,erpnext
+Row {0}: Credit entry can not be linked with a {1},Rij {0}: kan creditering niet worden gekoppeld met een {1},reviewed,erpnext
+Row {0}: Currency of the BOM #{1} should be equal to the selected currency {2},Rij {0}: Munt van de BOM # {1} moet gelijk zijn aan de geselecteerde valuta zijn {2},reviewed,erpnext
+Row {0}: Debit entry can not be linked with a {1},Rij {0}: debitering niet kan worden verbonden met een {1},reviewed,erpnext
+Row {0}: Delivery Warehouse ({1}) and Customer Warehouse ({2}) can not be same,Rij {0}: Delivery Warehouse ({1}) en Customer Warehouse ({2}) kunnen niet hetzelfde zijn,reviewed,erpnext
+Row {0}: Depreciation Start Date is required,Rij {0}: startdatum van afschrijving is vereist,reviewed,erpnext
+Row {0}: Due Date in the Payment Terms table cannot be before Posting Date,Rij {0}: de vervaldatum in de tabel met betalingsvoorwaarden mag niet vóór de boekingsdatum liggen,reviewed,erpnext
+Row {0}: Enter location for the asset item {1},Rij {0}: geef de locatie op voor het item item {1},reviewed,erpnext
+Row {0}: Exchange Rate is mandatory,Rij {0}: Wisselkoers is verplicht,reviewed,erpnext
+Row {0}: Expected Value After Useful Life must be less than Gross Purchase Amount,Rij {0}: verwachte waarde na bruikbare levensduur moet lager zijn dan bruto inkoopbedrag,reviewed,erpnext
+"Row {0}: For Supplier {1}, Email Address is Required to send an email",Rij {0}: voor leverancier {1} is het e-mailadres vereist om een e-mail te verzenden,reviewed,erpnext
+Row {0}: From Time and To Time is mandatory.,Rij {0}: Van tijd en binnen Tijd is verplicht.,reviewed,erpnext
+Row {0}: From Time and To Time of {1} is overlapping with {2},Rij {0}: Van tijd en de tijd van de {1} overlapt met {2},reviewed,erpnext
+Row {0}: From time must be less than to time,Rij {0}: van tijd moet korter zijn dan tot tijd,reviewed,erpnext
+Row {0}: Hours value must be greater than zero.,Rij {0}: Aantal uren moet groter zijn dan nul.,reviewed,erpnext
+Row {0}: Invalid Item Tax Template for item {1},Rij {0}: ongeldige BTW-sjabloon voor artikel voor artikel {1},reviewed,erpnext
+Row {0}: Invalid reference {1},Rij {0}: Invalid referentie {1},reviewed,erpnext
+Row {0}: Not allowed to disable Mandatory for standard fields,Rij {0}: niet toegestaan verplicht voor standaardvelden uitschakelen,reviewed,frappe
+Row {0}: Not allowed to enable Allow on Submit for standard fields,Rij {0}: Niet toegestaan om te schakelen Sta op Submit voor standaard velden,reviewed,frappe
+Row {0}: Party / Account does not match with {1} / {2} in {3} {4},Rij {0}: Party / Account komt niet overeen met {1} / {2} in {3} {4},reviewed,erpnext
+Row {0}: Party Type and Party is required for Receivable / Payable account {1},Rij {0}: Party Type en Party is vereist voor Debiteuren / Crediteuren rekening {1},reviewed,erpnext
+Row {0}: Payment against Sales/Purchase Order should always be marked as advance,Rij {0}: Betaling tegen Sales / Purchase Order moet altijd worden gemarkeerd als voorschot,reviewed,erpnext
+Row {0}: Please check 'Is Advance' against Account {1} if this is an advance entry.,Rij {0}: Kijk 'Is Advance' tegen Account {1} als dit is een voorschot binnenkomst.,reviewed,erpnext
+Row {0}: Please set at Tax Exemption Reason in Sales Taxes and Charges,Rij {0}: Stel in op Belastingvrijstellingsreden in omzetbelasting en kosten,reviewed,erpnext
+Row {0}: Please set the correct code on Mode of Payment {1},Rij {0}: stel de juiste code in op Betalingswijze {1},reviewed,erpnext
+Row {0}: Please set the Mode of Payment in Payment Schedule,Rij {0}: stel de Betalingswijze in Betalingsschema in,reviewed,erpnext
+Row {0}: Quality Inspection rejected for item {1},Rij {0}: kwaliteitscontrole afgewezen voor artikel {1},reviewed,erpnext
+Row {0}: Quantity not available for {4} in warehouse {1} at posting time of the entry ({2} {3}),Rij {0}: hoeveelheid niet beschikbaar voor {4} in magazijn {1} op het moment van boeking ({2} {3}),reviewed,erpnext
+Row {0}: select the workstation against the operation {1},Rij {0}: selecteer het werkstation tegen de bewerking {1},reviewed,erpnext
+Row {0}: Subcontracted Item is mandatory for the raw material {1},Rij {0}: uitbesteed artikel is verplicht voor de grondstof {1},reviewed,erpnext
+"Row {0}: The item {1}, quantity must be positive number","Rij {0}: het artikel {1}, de hoeveelheid moet een positief getal zijn",reviewed,erpnext
+Row {0}: This Medication Order is already marked as completed,Rij {0}: deze medicatiebestelling is al gemarkeerd als voltooid,reviewed,erpnext
+Row {0}: UOM Conversion Factor is mandatory,Rij {0}: Verpakking Conversie Factor is verplicht,reviewed,erpnext
+Row {0}: user has not applied the rule {1} on the item {2},Rij {0}: gebruiker heeft regel {1} niet toegepast op item {2},reviewed,erpnext
+Row {0}: {1} must be greater than 0,Rij {0}: {1} moet groter zijn dan 0,reviewed,erpnext
+Row {0}: {1} Serial numbers required for Item {2}. You have provided {3}.,Rij {0}: {1} Serienummers vereist voor item {2}. U heeft {3} verstrekt.,reviewed,erpnext
+Row {0}: {1} {2} does not match with {3},Rij {0}: {1} {2} niet overeenkomt met {3},reviewed,erpnext
+Row {0}:Sibling Date of Birth cannot be greater than today.,Rij {0}: Geboortedatum broer of zus kan niet groter zijn dan vandaag.,reviewed,erpnext
+Row {0}:Start Date must be before End Date,Rij {0} : Start Datum moet voor Einddatum zijn,reviewed,erpnext
 "Row {1}: Quantity ({0}) cannot be a fraction. To allow this, disable '{2}' in UOM {3}.",Rij {1}: hoeveelheid ({0}) mag geen breuk zijn. Schakel &#39;{2}&#39; uit in maateenheid {3} om dit toe te staan.,unreviewed,erpnext
 Row {}: Asset Naming Series is mandatory for the auto creation for item {},Rij {}: Serie voor naamgeving van items is verplicht voor het automatisch maken van item {},unreviewed,erpnext
 Row {}: Expense Head changed to {},Rij {}: uitgavenkop gewijzigd in {},unreviewed,erpnext

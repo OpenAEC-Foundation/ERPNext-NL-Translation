@@ -12845,306 +12845,306 @@ Estimated Cost Per Position,Geschatte kosten per functie,reviewed,hrms
 Evaluation,Evaluatie,reviewed,hrms
 Evaluation Date,Evaluatiedatum,reviewed,hrms
 Evaluation Method cannot be changed as there are existing appraisals created for this cycle,De evaluatiemethode kan niet worden gewijzigd omdat er al beoordelingen zijn aangemaakt voor deze cyclus,reviewed,hrms
-Event Details,,unreviewed,hrms
-Event Link,,unreviewed,hrms
-Event Location,,unreviewed,hrms
-Event Name,,unreviewed,hrms
-Event Status,,unreviewed,hrms
-Every 2 Weeks,,unreviewed,hrms
-Every 3 Weeks,,unreviewed,hrms
-Every 4 Weeks,,unreviewed,hrms
-Every Valid Check-in and Check-out,,unreviewed,hrms
-Every Week,,unreviewed,hrms
+Event Details,Gebeurtenisdetails,reviewed,hrms
+Event Link,Gebeurteniskoppeling,reviewed,hrms
+Event Location,Locatie van de gebeurtenis,reviewed,hrms
+Event Name,Naam van de gebeurtenis,reviewed,hrms
+Event Status,Status van de gebeurtenis,reviewed,hrms
+Every 2 Weeks,Elke 2 weken,reviewed,hrms
+Every 3 Weeks,Elke 3 weken,reviewed,hrms
+Every 4 Weeks,Elke 4 weken,reviewed,hrms
+Every Valid Check-in and Check-out,Elke geldige in- en uitklokking,reviewed,hrms
+Every Week,Elke week,reviewed,hrms
 "Everyone, let’s congratulate them on their work anniversary!",,unreviewed,hrms
 "Everyone, let’s congratulate {0} on their birthday.",,unreviewed,hrms
-Exam,,unreviewed,hrms
-Exchange rate of Payment Entry against Employee Advance,,unreviewed,hrms
-Exclude Holidays,,unreviewed,hrms
-Excluded {0} Non-Encashable Leaves for {1},,unreviewed,hrms
-Exempted from Income Tax,,unreviewed,hrms
-Exemption,,unreviewed,hrms
-Exemption Category,,unreviewed,hrms
-Exemption Declaration,,unreviewed,hrms
-Exemption Proofs,,unreviewed,hrms
-Exemption Sub Category,,unreviewed,hrms
-Exemption Submission Proof,,unreviewed,hrms
-Existing Record,,unreviewed,hrms
-Existing Shift Assignments,,unreviewed,hrms
-Exit Confirmed,,unreviewed,hrms
-Exit Details,,unreviewed,hrms
-Exit Interview Pending,,unreviewed,hrms
-Exit Interview Summary,,unreviewed,hrms
-Exit Interview {0} already exists for Employee: {1},,unreviewed,hrms
-Exit Questionnaire,,unreviewed,hrms
-Exit Questionnaire Notification,,unreviewed,hrms
-Exit Questionnaire Notification Template,,unreviewed,hrms
-Exit Questionnaire Pending,,unreviewed,hrms
-Exit Questionnaire Web Form,,unreviewed,hrms
-Exits (This Month),,unreviewed,hrms
-Expected Average Rating,,unreviewed,hrms
-Expected By,,unreviewed,hrms
-Expected Compensation,,unreviewed,hrms
-Expected Salary Range per month,,unreviewed,hrms
-Expected Skill Set,,unreviewed,hrms
-Expected Skillset,,unreviewed,hrms
-Expense Approver Mandatory In Expense Claim,,unreviewed,hrms
-Expense Claim Account,,unreviewed,hrms
-Expense Claim Advance,,unreviewed,hrms
-Expense Claim Detail,,unreviewed,hrms
-Expense Claim Summary,,unreviewed,hrms
-Expense Claim Type,,unreviewed,hrms
-Expense Claim for Vehicle Log {0},,unreviewed,hrms
-Expense Claim {0} already exists for the Vehicle Log,,unreviewed,hrms
-Expense Date,,unreviewed,hrms
-Expense Item,,unreviewed,hrms
-Expense Proof,,unreviewed,hrms
-Expense Tax,,unreviewed,hrms
-Expense Taxes and Charges,,unreviewed,hrms
-Expense Type,,unreviewed,hrms
-Expenses & Advances,,unreviewed,hrms
-Expenses Settings,,unreviewed,hrms
-Expire Allocation,,unreviewed,hrms
-Expire Carry Forwarded Leaves (Days),,unreviewed,hrms
-Expire Leaves,,unreviewed,hrms
-Expired Leave(s),,unreviewed,hrms
-Expired Leaves,,unreviewed,hrms
-Explanation,,unreviewed,hrms
-Exporting...,,unreviewed,hrms
-Failed to create/submit {0} for employees:,,unreviewed,hrms
-Failed to delete defaults for country {0}.,,unreviewed,hrms
-Failed to download PDF: {0},,unreviewed,hrms
-Failed to send the Interview Reschedule notification. Please configure your email account.,,unreviewed,hrms
-Failed to setup defaults for country {0}.,,unreviewed,hrms
-Failed to submit some leave policy assignments:,,unreviewed,hrms
-Failed to update the Job Applicant status,,unreviewed,hrms
-Failed to {0} {1} for employees:,,unreviewed,hrms
-Failure Details,,unreviewed,hrms
-Failure Reason,,unreviewed,hrms
-Failure of Automatic Allocation of Earned Leaves,,unreviewed,hrms
-Feb,,unreviewed,hrms
-Feedback Count,,unreviewed,hrms
-Feedback HTML,,unreviewed,hrms
-Feedback Ratings,,unreviewed,hrms
-Feedback Reminder Notification Template,,unreviewed,hrms
-Feedback Score,,unreviewed,hrms
-Feedback Submitted,,unreviewed,hrms
-Feedback Summary,,unreviewed,hrms
-Feedback already submitted for the Interview {0}. Please cancel the previous Interview Feedback {1} to continue.,,unreviewed,hrms
-Feedback cannot be recorded for an absent Employee.,,unreviewed,hrms
-Feedback {0} added successfully,,unreviewed,hrms
-Fetch Geolocation,,unreviewed,hrms
-Fetch Overtime Details,,unreviewed,hrms
-Fetch Shift,,unreviewed,hrms
-Fetch Shifts,,unreviewed,hrms
-Fetching Employees,,unreviewed,hrms
-Fetching Shift,,unreviewed,hrms
-Fetching your geolocation,,unreviewed,hrms
-File Preview,,unreviewed,hrms
-Fill the form and save it,,unreviewed,hrms
-Filled,,unreviewed,hrms
-Filter Employees,,unreviewed,hrms
-Filter by Shift,,unreviewed,hrms
-Final Decision,,unreviewed,hrms
-Final Score,,unreviewed,hrms
-Final Score Formula,,unreviewed,hrms
-First Check-in and Last Check-out,,unreviewed,hrms
-First Day,,unreviewed,hrms
-First Name ,,unreviewed,hrms
-Fiscal Year {0} not found,,unreviewed,hrms
-Fixed Hourly Rate,,unreviewed,hrms
-Flexible Benefit,,unreviewed,hrms
-Flexible Benefits,,unreviewed,hrms
-Flexible Component,,unreviewed,hrms
-Flight,,unreviewed,hrms
-FnF Pending,,unreviewed,hrms
-Follow via Email,,unreviewed,hrms
-Food,,unreviewed,hrms
-For Designation ,,unreviewed,hrms
-For Employee,,unreviewed,hrms
-"For a day of leave taken, if you still pay (say) 50% of the daily salary, then enter 0.50 in this field.",,unreviewed,hrms
-Formula,,unreviewed,hrms
-Fraction of Applicable Earnings ,,unreviewed,hrms
-Fraction of Daily Salary for Half Day,,unreviewed,hrms
-Fraction of Daily Salary per Leave,,unreviewed,hrms
-Fractional Cost,,unreviewed,hrms
-Frappe HR,,unreviewed,hrms
-From Amount,,unreviewed,hrms
-From Date must come before To Date,,unreviewed,hrms
-From Date {0} cannot be after Payroll Period end date {1},,unreviewed,hrms
-From Date {0} cannot be after employee's relieving Date {1},,unreviewed,hrms
-From Date {0} cannot be before Payroll Period start date {1},,unreviewed,hrms
-From Date {0} cannot be before employee's joining Date {1},,unreviewed,hrms
-From and to dates are madatory for recurring type additional salaries.,,unreviewed,hrms
-From date can not be less than employee's joining date,,unreviewed,hrms
-From date can not be less than employee's joining date.,,unreviewed,hrms
-"From here, you can enable encashment for the balance leaves.",,unreviewed,hrms
-From {0} to {1},,unreviewed,hrms
-From(Year),,unreviewed,hrms
-Fuchsia,,unreviewed,hrms
-Fuel Expense,,unreviewed,hrms
-Fuel Expenses,,unreviewed,hrms
-Fuel Price,,unreviewed,hrms
-Fuel Qty,,unreviewed,hrms
-Full and Final Asset,,unreviewed,hrms
-Full and Final Outstanding Statement,,unreviewed,hrms
-Full-time,,unreviewed,hrms
-Fully Sponsored,,unreviewed,hrms
-Funded Amount,,unreviewed,hrms
-Future Income Tax,,unreviewed,hrms
-Future dates not allowed,,unreviewed,hrms
-Gain Loss Account,,unreviewed,hrms
-Geolocation Error,,unreviewed,hrms
-Geolocation is not supported by your current browser,,unreviewed,hrms
-Get Details From Declaration,,unreviewed,hrms
-Get Employees,,unreviewed,hrms
-Get Job Requisitions,,unreviewed,hrms
-Get Template,,unreviewed,hrms
-Get the app on your device for easy access & a better experience!,,unreviewed,hrms
-Get the app on your iPhone for easy access & a better experience,,unreviewed,hrms
-Gluten Free,,unreviewed,hrms
-Go to Login,,unreviewed,hrms
-Go to Reset Password page,,unreviewed,hrms
-Goal Completion (%),,unreviewed,hrms
-Goal Score,,unreviewed,hrms
-Goal Score (%),,unreviewed,hrms
-Goal Score (weighted),,unreviewed,hrms
-Goal progress percentage cannot be more than 100.,,unreviewed,hrms
-Goal should be aligned with the same KRA as its parent goal.,,unreviewed,hrms
-Goal should be owned by the same employee as its parent goal.,,unreviewed,hrms
-Goal should belong to the same Appraisal Cycle as its parent goal.,,unreviewed,hrms
-Goal updated successfully,,unreviewed,hrms
-Goals updated successfully,,unreviewed,hrms
-Gratuity Applicable Component,,unreviewed,hrms
-Gratuity Rule Slab,,unreviewed,hrms
-Grievance,,unreviewed,hrms
-Grievance Against,,unreviewed,hrms
-Grievance Against Party,,unreviewed,hrms
-Grievance Details,,unreviewed,hrms
-Grievance Type,,unreviewed,hrms
-Gross Earnings,,unreviewed,hrms
-Gross Pay,,unreviewed,hrms
-Gross Pay (Company Currency),,unreviewed,hrms
-Gross Year To Date,,unreviewed,hrms
-Gross Year To Date(Company Currency),,unreviewed,hrms
-Group goal's progress is auto-calculated based on the child goals.,,unreviewed,hrms
-HR,,unreviewed,hrms
-HR & Payroll,,unreviewed,hrms
-HR & Payroll Settings,,unreviewed,hrms
-HR Settings,,unreviewed,hrms
-HR Setup,,unreviewed,hrms
-HRMS,,unreviewed,hrms
-Half Day Date,,unreviewed,hrms
-Half Day Date is mandatory,,unreviewed,hrms
-Half Day Date should be between From Date and To Date,,unreviewed,hrms
-Half Day Date should be in between Work From Date and Work End Date,,unreviewed,hrms
-Half Day Marked Employee Header,,unreviewed,hrms
-Half Day Records,,unreviewed,hrms
-Half day date should be in between from date and to date,,unreviewed,hrms
-Health Insurance Name,,unreviewed,hrms
-Hey {}! This email is to remind you about the upcoming holidays.,,unreviewed,hrms
-"Hey, {0} 👋",,unreviewed,hrms
-Hiring Count,,unreviewed,hrms
-Hiring Settings,,unreviewed,hrms
-Holiday List Assignment for {0} already exists for date {1}: {2},,unreviewed,hrms
-Holiday List End,,unreviewed,hrms
-Holiday List Start,,unreviewed,hrms
-Holiday List for Optional Leave,,unreviewed,hrms
-Holidays in this month,,unreviewed,hrms
-Holidays this Month.,,unreviewed,hrms
-Holidays this Week.,,unreviewed,hrms
-Horizontal Break,,unreviewed,hrms
-Hour Rate (Company Currency),,unreviewed,hrms
-Hourly Rate,,unreviewed,hrms
-House rent paid days overlapping with {0},,unreviewed,hrms
-House rented dates required for exemption calculation,,unreviewed,hrms
-House rented dates should be atleast 15 days apart,,unreviewed,hrms
-IFSC,,unreviewed,hrms
-IFSC Code,,unreviewed,hrms
-IN,,unreviewed,hrms
-Identification Document Number,,unreviewed,hrms
-"If checked, Payroll Payable will be booked against each employee",,unreviewed,hrms
-"If checked, flexible benefits are considered only if benefit application exists",,unreviewed,hrms
-"If checked, hides and disables Rounded Total field in Salary Slips",,unreviewed,hrms
-"If checked, overtime slip creation can be handled as part of payroll processing",,unreviewed,hrms
-"If checked, the full amount will be deducted from taxable income before calculating income tax without any declaration or proof submission.",,unreviewed,hrms
-"If enabled, Tax Exemption Declaration will be considered for income tax calculation.",,unreviewed,hrms
-"If enabled, auto attendance will be marked on holidays if Employee Checkins exist",,unreviewed,hrms
-"If enabled, deducts payment days for absent attendance on holidays. By default, holidays are considered as paid",,unreviewed,hrms
-"If enabled, the amount will be excluded from accounting entries during Journal Entry creation.",,unreviewed,hrms
-"If enabled, the component will be considered as a tax component and the amount will be auto-calculated as per the configured income tax slabs",,unreviewed,hrms
-"If enabled, the component will be considered in the Income Tax Deductions report",,unreviewed,hrms
-"If enabled, the component will not be displayed in the salary slip if the amount is zero",,unreviewed,hrms
-"If enabled, the total no. of applications received for this opening will be displayed on the website",,unreviewed,hrms
-"If enabled, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. ",,unreviewed,hrms
-"If enabled, this component allows to accrue amounts without adding them to earnings. The accrued balance is tracked in the Employee Benefit Ledger and can be paid out later as needed.",,unreviewed,hrms
-"If enabled, this component will be included in arrear calculations",,unreviewed,hrms
-"If enabled, total no. of working days will include holidays, and this will reduce the value of Salary Per Day",,unreviewed,hrms
-"If greater than zero, this sets the maximum benefit amount assignable to any employee",,unreviewed,hrms
-"If not checked, the list will have to be added to each Department where it has to be applied.",,unreviewed,hrms
-"If selected, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. ",,unreviewed,hrms
-"If set, the job opening will be closed automatically after this date",,unreviewed,hrms
-"If you are using loans in salary slips, please install the {0} app from Frappe Cloud Marketplace or GitHub to continue using loan integration with payroll.",,unreviewed,hrms
-Import Attendance,,unreviewed,hrms
-In Time,,unreviewed,hrms
-"In case of any error during this background process, the system will add a comment about the error on this Payroll Entry and revert to the Submitted status",,unreviewed,hrms
-Incentive,,unreviewed,hrms
-Incentive Amount,,unreviewed,hrms
-Include Company Descendants,,unreviewed,hrms
-Include Holidays,,unreviewed,hrms
-Include Shift Attendance Without Checkins,,unreviewed,hrms
-Include holidays in Total no. of Working Days,,unreviewed,hrms
-Include holidays within leaves as leaves,,unreviewed,hrms
-Income Source,,unreviewed,hrms
-Income Tax Amount,,unreviewed,hrms
-Income Tax Breakup,,unreviewed,hrms
-Income Tax Component,,unreviewed,hrms
-Income Tax Computation,,unreviewed,hrms
-Income Tax Deducted Till Date,,unreviewed,hrms
-Income Tax Deductions,,unreviewed,hrms
-Income Tax Slab Other Charges,,unreviewed,hrms
-Income Tax Slab is mandatory since the Salary Structure {0} has a tax component {1},,unreviewed,hrms
-Income Tax Slab must be effective on or before Payroll Period Start Date: {0},,unreviewed,hrms
-Income Tax Slab not set in Salary Structure Assignment: {0},,unreviewed,hrms
-Income Tax Slab: {0} is disabled,,unreviewed,hrms
-Income from Other Sources,,unreviewed,hrms
-Incorrect Weightage Allocation,,unreviewed,hrms
-"Indicates the number of leaves that cannot be encashed from the leave balance. E.g. with a leave balance of 10 and 4 Non-Encashable Leaves, you can encash 6, while the remaining 4 can be carried forward or expired",,unreviewed,hrms
-Inspection,,unreviewed,hrms
-Install,,unreviewed,hrms
-Install Frappe HR,,unreviewed,hrms
-Insufficient Balance,,unreviewed,hrms
-Insufficient leave balance for Leave Type {0},,unreviewed,hrms
-Interest Amount,,unreviewed,hrms
-Interest Income Account,,unreviewed,hrms
-Intern,,unreviewed,hrms
-International,,unreviewed,hrms
-Internet,,unreviewed,hrms
-Interview,,unreviewed,hrms
-Interview Detail,,unreviewed,hrms
-Interview Details,,unreviewed,hrms
-Interview Feedback Reminder,,unreviewed,hrms
-Interview Feedback {0} submitted successfully,,unreviewed,hrms
-Interview Not Rescheduled,,unreviewed,hrms
-Interview Reminder,,unreviewed,hrms
-Interview Reminder Notification Template,,unreviewed,hrms
-Interview Rescheduled successfully,,unreviewed,hrms
-Interview Round {0} is only applicable for the Designation {1},,unreviewed,hrms
-Interview Round {0} is only for Designation {1}. Job Applicant has applied for the role {2},,unreviewed,hrms
-Interview Scheduled Date,,unreviewed,hrms
-Interview Status,,unreviewed,hrms
-Interview Summary,,unreviewed,hrms
-Interview: {0} Rescheduled,,unreviewed,hrms
-Interviewer,,unreviewed,hrms
-Interviewers,,unreviewed,hrms
-Interviews,,unreviewed,hrms
-Interviews (This Week),,unreviewed,hrms
-Invalid Accrual Component,,unreviewed,hrms
-Invalid Additional Salary,,unreviewed,hrms
-Invalid Arrear Component,,unreviewed,hrms
-Invalid Benefit Amounts,,unreviewed,hrms
-Invalid Dates,,unreviewed,hrms
-Invalid LWP Days Reversed,,unreviewed,hrms
-Invalid Leave Ledger Entry,,unreviewed,hrms
+Exam,Examen,reviewed,hrms
+Exchange rate of Payment Entry against Employee Advance,Wisselkoers van betalingsboeking ten opzichte van werknemersvoorschot,reviewed,hrms
+Exclude Holidays,Feestdagen uitsluiten,reviewed,hrms
+Excluded {0} Non-Encashable Leaves for {1},{0} niet-uitbetaalbare verlofdagen uitgesloten voor {1},reviewed,hrms
+Exempted from Income Tax,Vrijgesteld van inkomstenbelasting,reviewed,hrms
+Exemption,Vrijstelling,reviewed,hrms
+Exemption Category,Vrijstellingscategorie,reviewed,hrms
+Exemption Declaration,Vrijstellingsverklaring,reviewed,hrms
+Exemption Proofs,Bewijsstukken voor vrijstelling,reviewed,hrms
+Exemption Sub Category,Vrijstellingssubcategorie,reviewed,hrms
+Exemption Submission Proof,Bewijs van vrijstellingsindiening,reviewed,hrms
+Existing Record,Bestaande record,reviewed,hrms
+Existing Shift Assignments,Bestaande diensttoewijzingen,reviewed,hrms
+Exit Confirmed,Uitdiensttreding bevestigd,reviewed,hrms
+Exit Details,Details uitdiensttreding,reviewed,hrms
+Exit Interview Pending,Exitgesprek in afwachting,reviewed,hrms
+Exit Interview Summary,Samenvatting exitgesprek,reviewed,hrms
+Exit Interview {0} already exists for Employee: {1},Exitgesprek {0} bestaat al voor werknemer: {1},reviewed,hrms
+Exit Questionnaire,Exitvragenlijst,reviewed,hrms
+Exit Questionnaire Notification,Melding exitvragenlijst,reviewed,hrms
+Exit Questionnaire Notification Template,Template voor melding exitvragenlijst,reviewed,hrms
+Exit Questionnaire Pending,Exitvragenlijst in afwachting,reviewed,hrms
+Exit Questionnaire Web Form,Webformulier exitvragenlijst,reviewed,hrms
+Exits (This Month),Uitdiensttredingen (deze maand),reviewed,hrms
+Expected Average Rating,Verwachte gemiddelde beoordeling,reviewed,hrms
+Expected By,Verwacht op,reviewed,hrms
+Expected Compensation,Verwachte beloning,reviewed,hrms
+Expected Salary Range per month,Verwachte salarisrange per maand,reviewed,hrms
+Expected Skill Set,Vereiste vaardigheden,reviewed,hrms
+Expected Skillset,Vereiste vaardigheden,reviewed,hrms
+Expense Approver Mandatory In Expense Claim,Goedkeurder verplicht bij declaratie,reviewed,hrms
+Expense Claim Account,Rekening voor declaratie,reviewed,hrms
+Expense Claim Advance,Voorschot op declaratie,reviewed,hrms
+Expense Claim Detail,Declaratieregel,reviewed,hrms
+Expense Claim Summary,Samenvatting declaratie,reviewed,hrms
+Expense Claim Type,Soort declaratie,reviewed,hrms
+Expense Claim for Vehicle Log {0},Declaratie voor voertuiglog {0},reviewed,hrms
+Expense Claim {0} already exists for the Vehicle Log,Declaratie {0} bestaat al voor de voertuiglog,reviewed,hrms
+Expense Date,Declaratiedatum,reviewed,hrms
+Expense Item,Declaratiepost,reviewed,hrms
+Expense Proof,Bewijsstuk declaratie,reviewed,hrms
+Expense Tax,BTW op declaratie,reviewed,hrms
+Expense Taxes and Charges,BTW en heffingen op declaratie,reviewed,hrms
+Expense Type,Declaratietype,reviewed,hrms
+Expenses & Advances,Declaraties en voorschotten,reviewed,hrms
+Expenses Settings,Instellingen declaraties,reviewed,hrms
+Expire Allocation,Verloftoewijzing laten vervallen,reviewed,hrms
+Expire Carry Forwarded Leaves (Days),Meegenomen verlof laten vervallen (dagen),reviewed,hrms
+Expire Leaves,Verlof laten vervallen,reviewed,hrms
+Expired Leave(s),Vervallen verlofdag(en),reviewed,hrms
+Expired Leaves,Vervallen verlof,reviewed,hrms
+Explanation,Toelichting,reviewed,hrms
+Exporting...,Exporteren...,reviewed,hrms
+Failed to create/submit {0} for employees:,Aanmaken/indienen van {0} voor werknemers mislukt:,reviewed,hrms
+Failed to delete defaults for country {0}.,Verwijderen van standaardwaarden voor land {0} is mislukt.,reviewed,hrms
+Failed to download PDF: {0},Downloaden van PDF mislukt: {0},reviewed,hrms
+Failed to send the Interview Reschedule notification. Please configure your email account.,Versturen van de herschikkingsmelding voor het sollicitatiegesprek is mislukt. Controleer uw e-mailinstellingen.,reviewed,hrms
+Failed to setup defaults for country {0}.,Instellen van standaardwaarden voor land {0} is mislukt.,reviewed,hrms
+Failed to submit some leave policy assignments:,Indienen van enkele verlofbeleidstoewijzingen is mislukt:,reviewed,hrms
+Failed to update the Job Applicant status,Bijwerken van de status van de sollicitant is mislukt,reviewed,hrms
+Failed to {0} {1} for employees:,{0} van {1} voor werknemers mislukt:,reviewed,hrms
+Failure Details,Details van de fout,reviewed,hrms
+Failure Reason,Reden van de fout,reviewed,hrms
+Failure of Automatic Allocation of Earned Leaves,Mislukking van automatische toewijzing van opgebouwd verlof,reviewed,hrms
+Feb,Feb,reviewed,hrms
+Feedback Count,Aantal beoordelingen,reviewed,hrms
+Feedback HTML,Feedback HTML,reviewed,hrms
+Feedback Ratings,Beoordelingsscores,reviewed,hrms
+Feedback Reminder Notification Template,Template voor herinnering beoordelingsverzoek,reviewed,hrms
+Feedback Score,Beoordelingsscore,reviewed,hrms
+Feedback Submitted,Beoordeling ingediend,reviewed,hrms
+Feedback Summary,Samenvatting beoordeling,reviewed,hrms
+Feedback already submitted for the Interview {0}. Please cancel the previous Interview Feedback {1} to continue.,Er is al een beoordeling ingediend voor sollicitatiegesprek {0}. Annuleer de vorige interviewbeoordeling {1} om verder te gaan.,reviewed,hrms
+Feedback cannot be recorded for an absent Employee.,Er kan geen beoordeling worden geregistreerd voor een afwezige werknemer.,reviewed,hrms
+Feedback {0} added successfully,Beoordeling {0} succesvol toegevoegd,reviewed,hrms
+Fetch Geolocation,Locatie ophalen,reviewed,hrms
+Fetch Overtime Details,Overuren ophalen,reviewed,hrms
+Fetch Shift,Dienst ophalen,reviewed,hrms
+Fetch Shifts,Diensten ophalen,reviewed,hrms
+Fetching Employees,Werknemers ophalen...,reviewed,hrms
+Fetching Shift,Dienst ophalen...,reviewed,hrms
+Fetching your geolocation,Uw locatie wordt bepaald,reviewed,hrms
+File Preview,Bestandsvoorbeeld,reviewed,hrms
+Fill the form and save it,Vul het formulier in en sla het op,reviewed,hrms
+Filled,Ingevuld,reviewed,hrms
+Filter Employees,Werknemers filteren,reviewed,hrms
+Filter by Shift,Filteren op dienst,reviewed,hrms
+Final Decision,Definitieve beslissing,reviewed,hrms
+Final Score,Eindscore,reviewed,hrms
+Final Score Formula,Eindscore formule,reviewed,hrms
+First Check-in and Last Check-out,Eerste inklokking en laatste uitklokking,reviewed,hrms
+First Day,Eerste dag,reviewed,hrms
+First Name ,Voornaam ,reviewed,hrms
+Fiscal Year {0} not found,Boekjaar {0} niet gevonden,reviewed,hrms
+Fixed Hourly Rate,Vast uurtarief,reviewed,hrms
+Flexible Benefit,Flexibele arbeidsvoorwaarde,reviewed,hrms
+Flexible Benefits,Flexibele arbeidsvoorwaarden,reviewed,hrms
+Flexible Component,Flexibel salariscomponent,reviewed,hrms
+Flight,Vlucht,reviewed,hrms
+FnF Pending,Eindafrekening in behandeling,reviewed,hrms
+Follow via Email,Volgen via e-mail,reviewed,hrms
+Food,Maaltijd,reviewed,hrms
+For Designation ,Voor functietitel ,reviewed,hrms
+For Employee,Voor werknemer,reviewed,hrms
+"For a day of leave taken, if you still pay (say) 50% of the daily salary, then enter 0.50 in this field.","Als u voor een verlofdag toch (bijvoorbeeld) 50% van het dagelijks salaris uitbetaalt, voer dan 0,50 in dit veld in.",reviewed,hrms
+Formula,Formule,reviewed,hrms
+Fraction of Applicable Earnings ,Breukdeel van toepasselijke verdiensten ,reviewed,hrms
+Fraction of Daily Salary for Half Day,Breukdeel van dagsalaris voor halve dag,reviewed,hrms
+Fraction of Daily Salary per Leave,Breukdeel van dagsalaris per verlofdag,reviewed,hrms
+Fractional Cost,Fractionele kosten,reviewed,hrms
+Frappe HR,Frappe HR,reviewed,hrms
+From Amount,Vanaf bedrag,reviewed,hrms
+From Date must come before To Date,Begindatum moet voor einddatum liggen,reviewed,hrms
+From Date {0} cannot be after Payroll Period end date {1},Begindatum {0} mag niet na de einddatum van de salarisperiode {1} liggen,reviewed,hrms
+From Date {0} cannot be after employee's relieving Date {1},Begindatum {0} mag niet na de uitdiensttreddatum van de werknemer {1} liggen,reviewed,hrms
+From Date {0} cannot be before Payroll Period start date {1},Begindatum {0} mag niet voor de startdatum van de salarisperiode {1} liggen,reviewed,hrms
+From Date {0} cannot be before employee's joining Date {1},Begindatum {0} mag niet voor de datum van indiensttreding van de werknemer {1} liggen,reviewed,hrms
+From and to dates are madatory for recurring type additional salaries.,Begin- en einddatum zijn verplicht voor terugkerende aanvullende salarissen.,reviewed,hrms
+From date can not be less than employee's joining date,Begindatum mag niet voor de datum van indiensttreding van de werknemer liggen,reviewed,hrms
+From date can not be less than employee's joining date.,Begindatum mag niet voor de datum van indiensttreding van de werknemer liggen.,reviewed,hrms
+"From here, you can enable encashment for the balance leaves.",Hier kunt u het uitbetalen van het verlofoverschot inschakelen.,reviewed,hrms
+From {0} to {1},Van {0} tot {1},reviewed,hrms
+From(Year),Vanaf (jaar),reviewed,hrms
+Fuchsia,Fuchsia,reviewed,hrms
+Fuel Expense,Brandstofkosten,reviewed,hrms
+Fuel Expenses,Brandstofkosten,reviewed,hrms
+Fuel Price,Brandstofprijs,reviewed,hrms
+Fuel Qty,Brandstofhoeveelheid,reviewed,hrms
+Full and Final Asset,Activa eindafrekening,reviewed,hrms
+Full and Final Outstanding Statement,Openstaande posten eindafrekening,reviewed,hrms
+Full-time,Voltijd,reviewed,hrms
+Fully Sponsored,Volledig gesponsord,reviewed,hrms
+Funded Amount,Gefinancierd bedrag,reviewed,hrms
+Future Income Tax,Toekomstige inkomstenbelasting,reviewed,hrms
+Future dates not allowed,Toekomstige datums zijn niet toegestaan,reviewed,hrms
+Gain Loss Account,Rekening koerswinst en -verlies,reviewed,hrms
+Geolocation Error,Geolocatiefout,reviewed,hrms
+Geolocation is not supported by your current browser,Geolocatie wordt niet ondersteund door uw huidige browser,reviewed,hrms
+Get Details From Declaration,Gegevens ophalen uit declaratie,reviewed,hrms
+Get Employees,Werknemers ophalen,reviewed,hrms
+Get Job Requisitions,Vacatureverzoeken ophalen,reviewed,hrms
+Get Template,Template ophalen,reviewed,hrms
+Get the app on your device for easy access & a better experience!,Download de app op uw apparaat voor eenvoudige toegang en een betere ervaring!,reviewed,hrms
+Get the app on your iPhone for easy access & a better experience,Download de app op uw iPhone voor eenvoudige toegang en een betere ervaring,reviewed,hrms
+Gluten Free,Glutenvrij,reviewed,hrms
+Go to Login,Naar Login gaan,reviewed,hrms
+Go to Reset Password page,Naar de pagina wachtwoord opnieuw instellen gaan,reviewed,hrms
+Goal Completion (%),Doelrealisatie (%),reviewed,hrms
+Goal Score,Doelscore,reviewed,hrms
+Goal Score (%),Doelscore (%),reviewed,hrms
+Goal Score (weighted),Doelscore (gewogen),reviewed,hrms
+Goal progress percentage cannot be more than 100.,Het voortgangspercentage van het doel mag niet meer dan 100 zijn.,reviewed,hrms
+Goal should be aligned with the same KRA as its parent goal.,Het doel moet zijn afgestemd op hetzelfde KRA als het bovenliggende doel.,reviewed,hrms
+Goal should be owned by the same employee as its parent goal.,Het doel moet worden beheerd door dezelfde werknemer als het bovenliggende doel.,reviewed,hrms
+Goal should belong to the same Appraisal Cycle as its parent goal.,Het doel moet bij dezelfde beoordelingscyclus horen als het bovenliggende doel.,reviewed,hrms
+Goal updated successfully,Doel succesvol bijgewerkt,reviewed,hrms
+Goals updated successfully,Doelen succesvol bijgewerkt,reviewed,hrms
+Gratuity Applicable Component,Salariscomponent voor gratificatie,reviewed,hrms
+Gratuity Rule Slab,Schijf gratificatieregel,reviewed,hrms
+Grievance,Klacht,reviewed,hrms
+Grievance Against,Klacht tegen,reviewed,hrms
+Grievance Against Party,Partij waartegen klacht is ingediend,reviewed,hrms
+Grievance Details,Klachtgegevens,reviewed,hrms
+Grievance Type,Klachttype,reviewed,hrms
+Gross Earnings,Bruto verdiensten,reviewed,hrms
+Gross Pay,Brutoloon,reviewed,hrms
+Gross Pay (Company Currency),Brutoloon (bedrijfsvaluta),reviewed,hrms
+Gross Year To Date,Bruto jaar tot heden,reviewed,hrms
+Gross Year To Date(Company Currency),Bruto jaar tot heden (bedrijfsvaluta),reviewed,hrms
+Group goal's progress is auto-calculated based on the child goals.,De voortgang van het groepsdoel wordt automatisch berekend op basis van de onderliggende doelen.,reviewed,hrms
+HR,HR,reviewed,hrms
+HR & Payroll,HR & Payroll,reviewed,hrms
+HR & Payroll Settings,HR & Payroll instellingen,reviewed,hrms
+HR Settings,HR-instellingen,reviewed,hrms
+HR Setup,HR-configuratie,reviewed,hrms
+HRMS,HRMS,reviewed,hrms
+Half Day Date,Datum halve dag,reviewed,hrms
+Half Day Date is mandatory,Datum halve dag is verplicht,reviewed,hrms
+Half Day Date should be between From Date and To Date,Datum halve dag moet tussen begindatum en einddatum liggen,reviewed,hrms
+Half Day Date should be in between Work From Date and Work End Date,Datum halve dag moet tussen de werkbegindatum en de werkeindatum liggen,reviewed,hrms
+Half Day Marked Employee Header,Koptekst werknemer gemarkeerd als halve dag,reviewed,hrms
+Half Day Records,Registraties halve dag,reviewed,hrms
+Half day date should be in between from date and to date,Datum halve dag moet tussen begindatum en einddatum liggen,reviewed,hrms
+Health Insurance Name,Naam ziektekostenverzekering,reviewed,hrms
+Hey {}! This email is to remind you about the upcoming holidays.,Hallo {}! Dit is een herinnering aan de aankomende feestdagen.,reviewed,hrms
+"Hey, {0} 👋","Hallo, {0} 👋",reviewed,hrms
+Hiring Count,Aantal aan te nemen medewerkers,reviewed,hrms
+Hiring Settings,Wervingsinstellingen,reviewed,hrms
+Holiday List Assignment for {0} already exists for date {1}: {2},Vakantielijst-toewijzing voor {0} bestaat al voor datum {1}: {2},reviewed,hrms
+Holiday List End,Einddatum vakantielijst,reviewed,hrms
+Holiday List Start,Startdatum vakantielijst,reviewed,hrms
+Holiday List for Optional Leave,Vakantielijst voor facultatief verlof,reviewed,hrms
+Holidays in this month,Feestdagen deze maand,reviewed,hrms
+Holidays this Month.,Feestdagen deze maand.,reviewed,hrms
+Holidays this Week.,Feestdagen deze week.,reviewed,hrms
+Horizontal Break,Horizontale scheiding,reviewed,hrms
+Hour Rate (Company Currency),Uurtarief (bedrijfsvaluta),reviewed,hrms
+Hourly Rate,Uurtarief,reviewed,hrms
+House rent paid days overlapping with {0},Betaalde huurperiode overlapt met {0},reviewed,hrms
+House rented dates required for exemption calculation,Huurperiode vereist voor berekening van vrijstelling,reviewed,hrms
+House rented dates should be atleast 15 days apart,Huurperiodes moeten minimaal 15 dagen uit elkaar liggen,reviewed,hrms
+IFSC,IFSC,reviewed,hrms
+IFSC Code,IFSC Code,reviewed,hrms
+IN,IN,reviewed,hrms
+Identification Document Number,Identificatiedocumentnummer,reviewed,hrms
+"If checked, Payroll Payable will be booked against each employee","Als aangevinkt, wordt de salarisschuld per werknemer geboekt",reviewed,hrms
+"If checked, flexible benefits are considered only if benefit application exists","Als aangevinkt, worden flexibele vergoedingen alleen meegenomen als er een vergoedingsaanvraag bestaat",reviewed,hrms
+"If checked, hides and disables Rounded Total field in Salary Slips","Als aangevinkt, wordt het veld Afgerond totaal verborgen en uitgeschakeld op salarisstroken",reviewed,hrms
+"If checked, overtime slip creation can be handled as part of payroll processing","Als aangevinkt, kan de aanmaak van overwerkoverzichten worden verwerkt als onderdeel van de salarisadministratie",reviewed,hrms
+"If checked, the full amount will be deducted from taxable income before calculating income tax without any declaration or proof submission.","Als aangevinkt, wordt het volledige bedrag afgetrokken van het belastbaar inkomen voordat de inkomstenbelasting wordt berekend, zonder vereiste aangifte of bewijsoverdracht.",reviewed,hrms
+"If enabled, Tax Exemption Declaration will be considered for income tax calculation.","Als ingeschakeld, wordt de belastingvrijstellingsverklaring meegenomen in de inkomstenbelastingberekening.",reviewed,hrms
+"If enabled, auto attendance will be marked on holidays if Employee Checkins exist","Als ingeschakeld, wordt aanwezigheid op feestdagen automatisch geregistreerd als er werknemer-inchecks zijn",reviewed,hrms
+"If enabled, deducts payment days for absent attendance on holidays. By default, holidays are considered as paid","Als ingeschakeld, worden betaalddagen afgetrokken bij afwezigheid op feestdagen. Standaard worden feestdagen als betaald beschouwd",reviewed,hrms
+"If enabled, the amount will be excluded from accounting entries during Journal Entry creation.","Als ingeschakeld, wordt het bedrag uitgesloten van boekingen bij het aanmaken van een dagboekboeking.",reviewed,hrms
+"If enabled, the component will be considered as a tax component and the amount will be auto-calculated as per the configured income tax slabs","Als ingeschakeld, wordt de component beschouwd als belastingcomponent en wordt het bedrag automatisch berekend op basis van de ingestelde belastingschijven",reviewed,hrms
+"If enabled, the component will be considered in the Income Tax Deductions report","Als ingeschakeld, wordt de component meegenomen in het rapport Inkomstenbelastinginhoudingen",reviewed,hrms
+"If enabled, the component will not be displayed in the salary slip if the amount is zero","Als ingeschakeld, wordt de component niet weergegeven op de salarisstrook als het bedrag nul is",reviewed,hrms
+"If enabled, the total no. of applications received for this opening will be displayed on the website","Als ingeschakeld, wordt het totale aantal ontvangen sollicitaties voor deze vacature op de website weergegeven",reviewed,hrms
+"If enabled, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. ","Als ingeschakeld, draagt de waarde van deze component niet bij aan de inkomsten of inhoudingen. De waarde kan echter wel worden gebruikt door andere componenten die kunnen worden opgeteld of afgetrokken.",reviewed,hrms
+"If enabled, this component allows to accrue amounts without adding them to earnings. The accrued balance is tracked in the Employee Benefit Ledger and can be paid out later as needed.","Als ingeschakeld, kunnen bedragen worden opgebouwd zonder ze toe te voegen aan het loon. Het opgebouwde saldo wordt bijgehouden in het vergoedingsgrootboek van de werknemer en kan later naar behoefte worden uitbetaald.",reviewed,hrms
+"If enabled, this component will be included in arrear calculations","Als ingeschakeld, wordt deze component meegenomen in de nabetaling berekeningen",reviewed,hrms
+"If enabled, total no. of working days will include holidays, and this will reduce the value of Salary Per Day","Als ingeschakeld, tellen feestdagen mee als werkdagen waardoor de waarde van Salaris per dag lager uitvalt",reviewed,hrms
+"If greater than zero, this sets the maximum benefit amount assignable to any employee","Als groter dan nul, stelt dit het maximale vergoedingsbedrag in dat aan een werknemer kan worden toegewezen",reviewed,hrms
+"If not checked, the list will have to be added to each Department where it has to be applied.","Als niet aangevinkt, moet de lijst worden toegevoegd aan elke afdeling waar deze van toepassing is.",reviewed,hrms
+"If selected, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. ","Als geselecteerd, draagt de waarde van deze component niet bij aan de inkomsten of inhoudingen. De waarde kan echter wel worden gebruikt door andere componenten die kunnen worden opgeteld of afgetrokken.",reviewed,hrms
+"If set, the job opening will be closed automatically after this date","Als ingesteld, wordt de vacature na deze datum automatisch gesloten",reviewed,hrms
+"If you are using loans in salary slips, please install the {0} app from Frappe Cloud Marketplace or GitHub to continue using loan integration with payroll.","Als u leningen gebruikt in salarisstroken, installeer dan de {0} app uit de Frappe Cloud Marketplace of GitHub om de leningintegratie met de salarisadministratie te blijven gebruiken.",reviewed,hrms
+Import Attendance,Import Aanwezigheid,reviewed,hrms
+In Time,Intijdstempel,reviewed,hrms
+"In case of any error during this background process, the system will add a comment about the error on this Payroll Entry and revert to the Submitted status",Bij een fout tijdens dit achtergrondproces voegt het systeem een opmerking toe aan deze salarisadministratieboeking en wordt de status teruggezet naar Ingediend,reviewed,hrms
+Incentive,Incentive,reviewed,hrms
+Incentive Amount,Incentivebedrag,reviewed,hrms
+Include Company Descendants,Inclusief onderliggende bedrijven,reviewed,hrms
+Include Holidays,Feestdagen meenemen,reviewed,hrms
+Include Shift Attendance Without Checkins,Dienstroosteraanwezigheid zonder inchecks meenemen,reviewed,hrms
+Include holidays in Total no. of Working Days,Feestdagen meenemen in het totale aantal werkdagen,reviewed,hrms
+Include holidays within leaves as leaves,Feestdagen binnen verlofperioden als verlof meetellen,reviewed,hrms
+Income Source,Inkomensbron,reviewed,hrms
+Income Tax Amount,Inkomstenbelastingbedrag,reviewed,hrms
+Income Tax Breakup,Inkomstenbelasting uitsplitsing,reviewed,hrms
+Income Tax Component,Inkomstenbelastingcomponent,reviewed,hrms
+Income Tax Computation,Inkomstenbelastingberekening,reviewed,hrms
+Income Tax Deducted Till Date,Ingehouden inkomstenbelasting tot datum,reviewed,hrms
+Income Tax Deductions,Inkomstenbelastinginhoudingen,reviewed,hrms
+Income Tax Slab Other Charges,Belastingschijf overige heffingen,reviewed,hrms
+Income Tax Slab is mandatory since the Salary Structure {0} has a tax component {1},Belastingschijf is verplicht omdat Salarisstructuur {0} een belastingcomponent {1} bevat,reviewed,hrms
+Income Tax Slab must be effective on or before Payroll Period Start Date: {0},Belastingschijf moet ingaan op of vóór de startdatum van de salarisperiode: {0},reviewed,hrms
+Income Tax Slab not set in Salary Structure Assignment: {0},Belastingschijf niet ingesteld in salarisstructuurtoewijzing: {0},reviewed,hrms
+Income Tax Slab: {0} is disabled,Belastingschijf: {0} is uitgeschakeld,reviewed,hrms
+Income from Other Sources,Inkomen uit overige bronnen,reviewed,hrms
+Incorrect Weightage Allocation,Onjuiste weging toegewezen,reviewed,hrms
+"Indicates the number of leaves that cannot be encashed from the leave balance. E.g. with a leave balance of 10 and 4 Non-Encashable Leaves, you can encash 6, while the remaining 4 can be carried forward or expired","Geeft het aantal verlofdagen aan dat niet kan worden uitbetaald vanuit het verlofsaldo. Bijvoorbeeld: bij een verlofsaldo van 10 en 4 niet-uitbetaalbare verlofdagen kunt u 6 dagen uitbetalen, terwijl de resterende 4 dagen kunnen worden meegenomen of vervallen",reviewed,hrms
+Inspection,Inspectie,reviewed,hrms
+Install,Installeren,reviewed,hrms
+Install Frappe HR,Install Frappe HR,reviewed,hrms
+Insufficient Balance,Onvoldoende saldo,reviewed,hrms
+Insufficient leave balance for Leave Type {0},Onvoldoende verlofsaldo voor verloftype {0},reviewed,hrms
+Interest Amount,Rentebedrag,reviewed,hrms
+Interest Income Account,Renteinkomstenrekening,reviewed,hrms
+Intern,Stagiair,reviewed,hrms
+International,Internationaal,reviewed,hrms
+Internet,Internet,reviewed,hrms
+Interview,Sollicitatiegesprek,reviewed,hrms
+Interview Detail,Sollicitatiegespreksdetail,reviewed,hrms
+Interview Details,Sollicitatiegespreksdetails,reviewed,hrms
+Interview Feedback Reminder,Herinnering sollicitatiegesprek feedback,reviewed,hrms
+Interview Feedback {0} submitted successfully,Sollicitatiegesprek feedback {0} succesvol ingediend,reviewed,hrms
+Interview Not Rescheduled,Sollicitatiegesprek niet verzet,reviewed,hrms
+Interview Reminder,Herinnering sollicitatiegesprek,reviewed,hrms
+Interview Reminder Notification Template,Notificatie Template herinnering sollicitatiegesprek,reviewed,hrms
+Interview Rescheduled successfully,Sollicitatiegesprek succesvol verzet,reviewed,hrms
+Interview Round {0} is only applicable for the Designation {1},Gespreksronde {0} is alleen van toepassing op de functietitel {1},reviewed,hrms
+Interview Round {0} is only for Designation {1}. Job Applicant has applied for the role {2},Gespreksronde {0} is alleen voor functietitel {1}. De sollicitant heeft gesolliciteerd voor de rol {2},reviewed,hrms
+Interview Scheduled Date,Geplande datum sollicitatiegesprek,reviewed,hrms
+Interview Status,Status sollicitatiegesprek,reviewed,hrms
+Interview Summary,Samenvatting sollicitatiegesprek,reviewed,hrms
+Interview: {0} Rescheduled,Sollicitatiegesprek: {0} verzet,reviewed,hrms
+Interviewer,Interviewer,reviewed,hrms
+Interviewers,Interviewers,reviewed,hrms
+Interviews,Sollicitatiegesprekken,reviewed,hrms
+Interviews (This Week),Sollicitatiegesprekken (deze week),reviewed,hrms
+Invalid Accrual Component,Ongeldige opbouwcomponent,reviewed,hrms
+Invalid Additional Salary,Ongeldig aanvullend salaris,reviewed,hrms
+Invalid Arrear Component,Ongeldige nabetalingscomponent,reviewed,hrms
+Invalid Benefit Amounts,Ongeldige vergoedingsbedragen,reviewed,hrms
+Invalid Dates,Ongeldige datums,reviewed,hrms
+Invalid LWP Days Reversed,Ongeldig aantal teruggedraaide LWP-dagen,reviewed,hrms
+Invalid Leave Ledger Entry,Ongeldige verlofgrootboekboeking,reviewed,hrms
 Invalid Payroll Payable Account. The account currency must be {0} or {1},,unreviewed,hrms
 Invalid Shift Times,,unreviewed,hrms
 Invalid parameters provided. Please pass the required arguments.,,unreviewed,hrms

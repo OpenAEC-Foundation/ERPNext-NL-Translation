@@ -1,5 +1,6 @@
-![Vertalingen](https://img.shields.io/badge/vertalingen-12.182-brightgreen)
+![Vertalingen](https://img.shields.io/badge/vertalingen-16.797-brightgreen)
 ![Reviewed](https://img.shields.io/badge/reviewed-100%25-success)
+![Apps](https://img.shields.io/badge/apps-7-blue)
 ![Frappe](https://img.shields.io/badge/Frappe-v15%20%7C%20v16-blue)
 ![Licentie](https://img.shields.io/badge/licentie-MIT-green)
 
@@ -21,16 +22,29 @@ De ingebouwde community-vertalingen van ERPNext bevatten veel fouten: letterlijk
 | Collapse | Ineenstorting | Inklappen |
 | Stock Entry | Aandeleninvoer | Voorraadmutatie |
 
-Dit project biedt een complete set van 12.182 vertalingen die zijn beoordeeld op correctheid in de context waarin ze worden gebruikt.
+Dit project biedt een complete set van 16.797 vertalingen voor 7 Frappe/ERPNext apps, beoordeeld op correctheid in de context waarin ze worden gebruikt.
 
 ## Status
 
 | Metriek | Waarde |
 |---------|--------|
-| Totaal vertalingen | 12.182 |
-| AI-reviewed | 12.182 (100%) |
-| Correcties toegepast | ~1.500+ |
-| Live op productie | 12.182 |
+| Totaal vertalingen | 16.797 |
+| AI-reviewed | 16.797 (100%) |
+| Correcties toegepast | ~4.000+ |
+| Live op productie | 16.797 |
+| Apps gedekt | 7 (Frappe, ERPNext, HRMS, CRM, Helpdesk, Insights, Banking) |
+
+### Vertalingen per app
+
+| App | Vertalingen | Status |
+|-----|------------|--------|
+| Frappe Framework | 3.917 | 100% reviewed |
+| ERPNext | 7.747 | 100% reviewed |
+| Frappe HR (HRMS) | 2.062 | 100% reviewed |
+| Frappe CRM | 1.102 | 100% reviewed |
+| Helpdesk | 785 | 100% reviewed |
+| Insights | 449 | 100% reviewed |
+| GoCardless Banking | 217 | 100% reviewed |
 
 ## Aanpak
 
@@ -120,11 +134,11 @@ pip install requests anthropic
 Reviewed vertalingen worden gedeployed naar ERPNext instances via het `Translation` doctype. Dit overschrijft de ingebouwde .po vertalingen waar nodig.
 
 **Actieve deployments:**
-- Kort Geytenbeek Architecten (12.182 vertalingen)
+- Kort Geytenbeek Architecten (16.797 vertalingen, 7 apps)
 
 ## Herkomst
 
-Basis: Frappe v15 `nl.csv` (4.798 vertalingen) + ERPNext v15 `nl.csv` (8.746 vertalingen). Identity-mappings (983 stuks waar bron gelijk is aan vertaling) verwijderd. AI-review uitgevoerd op 2026-04-08 met contextbewuste domeinanalyse in 65 batches.
+Basis: Frappe v16 + ERPNext v16 .csv bestanden + .po bestanden van HRMS, CRM, Helpdesk, Insights en GoCardless Banking. Identity-mappings verwijderd. AI-review uitgevoerd op 2026-04-08 met contextbewuste domeinanalyse in 112 batches (65 basis + 47 custom apps via parallelle agent teams).
 
 ## Bijdragen
 

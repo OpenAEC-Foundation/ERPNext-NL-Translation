@@ -2307,206 +2307,206 @@ Create Chart Of Accounts Based On,Maak rekeningschema op basis van,reviewed,erpn
 Create Contacts from Incoming Emails,Maak contacten op basis van inkomende e-mails,reviewed,frappe
 Create Customer,Klant maken,reviewed,erpnext
 Create customer quotes,Maak een offerte voor de klant,reviewed,erpnext
-Create Delivery Trip,Maak bezorgreis aan,unreviewed,erpnext
-Create Document,Maak een document,unreviewed,erpnext
-Create Employee,Werknemer aanmaken,unreviewed,erpnext
-Create Employee Records,Maak Employee Records,unreviewed,erpnext
-"Create Employee records to manage leaves, expense claims and payroll","Maak Employee records bladeren, declaraties en salarisadministratie beheren",unreviewed,erpnext
-Create Entry,Invoer maken,unreviewed,frappe
-Create Fee Schedule,Creëer een vergoedingsschema,unreviewed,erpnext
-Create Fees,Fees maken,unreviewed,erpnext
-Create Inter Company Journal Entry,Creëer Inter Company Journaalboeking,unreviewed,erpnext
-Create Invoice,Factuur maken,unreviewed,erpnext
-Create Invoices,Facturen maken,unreviewed,erpnext
-Create Job Card,Maak een opdrachtkaart,unreviewed,erpnext
-Create Journal Entry,Maak een journaalboeking,unreviewed,erpnext
-Create Lab Test(s) on Sales Invoice Submission,Creëer labtest (en) op het indienen van verkoopfacturen,unreviewed,erpnext
-Create Lead,Creëer Lead,unreviewed,erpnext
-Create Leads,Maak Leads,unreviewed,erpnext
-Create Log,Maak logboek,unreviewed,frappe
-Create Maintenance Visit,Maak onderhoudsbezoek,unreviewed,erpnext
-Create Material Request,Materiaalaanvraag maken,unreviewed,erpnext
-Create missing customer or supplier.,Ontbrekende klant of leverancier creëren.,unreviewed,erpnext
-Create Missing Party,Ontbrekende partij maken,unreviewed,erpnext
-Create Multiple,Maak meerdere,unreviewed,erpnext
-Create New,Maak nieuw,unreviewed,frappe
-Create New Contact,Nieuw contact maken,unreviewed,erpnext
-Create New Lead,Maak een nieuwe lead,unreviewed,erpnext
-Create New Payment/Journal Entry,Nieuwe betaling / journaalboeking creëren,unreviewed,erpnext
-Create Opening Sales and Purchase Invoices,Maak openingsverkoop- en inkoopfacturen aan,unreviewed,erpnext
-Create Payment Entries,Creëer betalingsinvoer,unreviewed,erpnext
-Create Payment Entry,Maak betalingsinvoer,unreviewed,erpnext
-Create Pick List,Maak een keuzelijst,unreviewed,erpnext
-Create POS Opening Entry,Maak een POS-openingsitem,unreviewed,erpnext
-Create Post,Maak bericht,unreviewed,frappe
-Create Print Format,Maak Print Format,unreviewed,erpnext
-Create Purchase Order,Bestelling creëren,unreviewed,erpnext
-Create Purchase Orders,Maak Bestellingen,unreviewed,erpnext
-Create Quality Inspection for Item {0},Creëer kwaliteitsinspectie voor artikel {0},unreviewed,erpnext
-Create Quotation,Maak Offerte,unreviewed,erpnext
-Create Receiver List,Maak Ontvanger Lijst,unreviewed,erpnext
-Create rules to restrict transactions based on values.,Regels maken om transacties op basis van waarden te beperken.,unreviewed,erpnext
-Create Sales Invoice,Creëer verkoopfactuur,unreviewed,erpnext
-Create Sales Order,Klantorder creëren,unreviewed,erpnext
-Create Sales Orders to help you plan your work and deliver on-time,Creëer verkooporders om u te helpen uw werk te plannen en op tijd te leveren,unreviewed,erpnext
-Create Sample Collection document for Lab Test,Maak een Sample Collection-document voor Lab Test,unreviewed,erpnext
-Create Sample Retention Stock Entry,Creëer monster retentie voorraad invoer,unreviewed,erpnext
-Create Student,Maak een student aan,unreviewed,erpnext
-Create Student Batch,Maak studentenbatch aan,unreviewed,erpnext
-Create Student Groups,Maak Student Groepen,unreviewed,erpnext
-Create Supplier Quotation,Offerte voor leveranciers maken,unreviewed,erpnext
-Create Tax Template,Maak een BTW-sjabloon,unreviewed,erpnext
-Create TaxJar Transaction,Maak een TaxJar-transactie,unreviewed,erpnext
-Create Timesheet,Maak een urenstaat,unreviewed,erpnext
-Create User,Gebruiker aanmaken,unreviewed,erpnext
-Create User Email,Maak gebruikers-e-mail aan,unreviewed,frappe
-Create User Permission,Maak gebruiker toestemming,unreviewed,erpnext
-Create Users,Gebruikers maken,unreviewed,erpnext
-Create Variant,Maak een variant,unreviewed,erpnext
-Create Variants,Maak varianten,unreviewed,erpnext
-Create your first {0},Maak je eerste {0},unreviewed,frappe
-Created,gemaakt,unreviewed,frappe
-created,Gemaakt,unreviewed,frappe
+Create Delivery Trip,Bezorgreis aanmaken,reviewed,erpnext
+Create Document,Document aanmaken,reviewed,erpnext
+Create Employee,Werknemer aanmaken,reviewed,erpnext
+Create Employee Records,Werknemersrecords aanmaken,reviewed,erpnext
+"Create Employee records to manage leaves, expense claims and payroll","Werknemersrecords aanmaken voor verlof, declaraties en salarisadministratie",reviewed,erpnext
+Create Entry,Boeking aanmaken,reviewed,frappe
+Create Fee Schedule,Vergoedingsschema aanmaken,reviewed,erpnext
+Create Fees,Kosten aanmaken,reviewed,erpnext
+Create Inter Company Journal Entry,Intercompany journaalboeking aanmaken,reviewed,erpnext
+Create Invoice,Factuur aanmaken,reviewed,erpnext
+Create Invoices,Facturen aanmaken,reviewed,erpnext
+Create Job Card,Opdrachtkaart aanmaken,reviewed,erpnext
+Create Journal Entry,Journaalboeking aanmaken,reviewed,erpnext
+Create Lab Test(s) on Sales Invoice Submission,Labtest(s) aanmaken bij indienen verkoopfactuur,reviewed,erpnext
+Create Lead,Lead aanmaken,reviewed,erpnext
+Create Leads,Leads aanmaken,reviewed,erpnext
+Create Log,Logboek aanmaken,reviewed,frappe
+Create Maintenance Visit,Onderhoudsbezoek aanmaken,reviewed,erpnext
+Create Material Request,Materiaalaanvraag aanmaken,reviewed,erpnext
+Create missing customer or supplier.,Ontbrekende klant of leverancier aanmaken.,reviewed,erpnext
+Create Missing Party,Ontbrekende partij aanmaken,reviewed,erpnext
+Create Multiple,Meerdere aanmaken,reviewed,erpnext
+Create New,Nieuw aanmaken,reviewed,frappe
+Create New Contact,Nieuw contact aanmaken,reviewed,erpnext
+Create New Lead,Nieuwe lead aanmaken,reviewed,erpnext
+Create New Payment/Journal Entry,Nieuwe betaling of journaalboeking aanmaken,reviewed,erpnext
+Create Opening Sales and Purchase Invoices,Maak openingsverkoop- en inkoopfacturen aan,reviewed,erpnext
+Create Payment Entries,Betalingsboekingen aanmaken,reviewed,erpnext
+Create Payment Entry,Betalingsboeking aanmaken,reviewed,erpnext
+Create Pick List,Keuzelijst aanmaken,reviewed,erpnext
+Create POS Opening Entry,POS-openingsboeking aanmaken,reviewed,erpnext
+Create Post,Bericht aanmaken,reviewed,frappe
+Create Print Format,Afdrukindeling aanmaken,reviewed,erpnext
+Create Purchase Order,Inkooporder aanmaken,reviewed,erpnext
+Create Purchase Orders,Inkooporders aanmaken,reviewed,erpnext
+Create Quality Inspection for Item {0},Kwaliteitsinspectie aanmaken voor artikel {0},reviewed,erpnext
+Create Quotation,Offerte aanmaken,reviewed,erpnext
+Create Receiver List,Ontvangerlijst aanmaken,reviewed,erpnext
+Create rules to restrict transactions based on values.,Regels maken om transacties op basis van waarden te beperken.,reviewed,erpnext
+Create Sales Invoice,Verkoopfactuur aanmaken,reviewed,erpnext
+Create Sales Order,Verkooporder aanmaken,reviewed,erpnext
+Create Sales Orders to help you plan your work and deliver on-time,Verkooporders aanmaken om uw werk te plannen en op tijd te leveren,reviewed,erpnext
+Create Sample Collection document for Lab Test,Maak een Sample Collection-document voor Lab Test,reviewed,erpnext
+Create Sample Retention Stock Entry,Monsterbehoud voorraadpost aanmaken,reviewed,erpnext
+Create Student,Student aanmaken,reviewed,erpnext
+Create Student Batch,Studentenbatch aanmaken,reviewed,erpnext
+Create Student Groups,Studentengroepen aanmaken,reviewed,erpnext
+Create Supplier Quotation,Leveranciersofferte aanmaken,reviewed,erpnext
+Create Tax Template,BTW-sjabloon aanmaken,reviewed,erpnext
+Create TaxJar Transaction,TaxJar-transactie aanmaken,reviewed,erpnext
+Create Timesheet,Urenregistratie aanmaken,reviewed,erpnext
+Create User,Gebruiker aanmaken,reviewed,erpnext
+Create User Email,Gebruikers-e-mail aanmaken,reviewed,frappe
+Create User Permission,Gebruikerstoestemming aanmaken,reviewed,erpnext
+Create Users,Gebruikers aanmaken,reviewed,erpnext
+Create Variant,Variant aanmaken,reviewed,erpnext
+Create Variants,Varianten aanmaken,reviewed,erpnext
+Create your first {0},Maak uw eerste {0} aan,reviewed,frappe
+Created,Aangemaakt,reviewed,frappe
+created,aangemaakt,reviewed,frappe
 Created By,Aangemaakt door,reviewed,frappe
-Created Custom Field {0} in {1},Aangepast veld {0} van {1} gemaakt,unreviewed,frappe
+Created Custom Field {0} in {1},Aangepast veld {0} in {1} aangemaakt,reviewed,frappe
 Created On,Aangemaakt op,reviewed,frappe
-created {0},gemaakt {0},unreviewed,frappe
-Created {0} records successfully.,{0} records succesvol aangemaakt.,unreviewed,frappe
-Created {0} scorecards for {1} between:,Gecreëerd {0} scorecards voor {1} tussen:,unreviewed,erpnext
+created {0},aangemaakt {0},reviewed,frappe
+Created {0} records successfully.,{0} records succesvol aangemaakt.,reviewed,frappe
+Created {0} scorecards for {1} between:,{0} scorecards aangemaakt voor {1} tussen:,reviewed,erpnext
 Creating,Aanmaken,reviewed,custom
-Creating Accounts...,Accounts maken ...,unreviewed,erpnext
-Creating bank entries...,Bankboekingen maken ...,unreviewed,erpnext
-Creating Company and Importing Chart of Accounts,Bedrijf aanmaken en rekeningschema importeren,unreviewed,erpnext
-Creating Dimensions...,Dimensies maken ...,unreviewed,erpnext
-Creating Fees,Fees creëren,unreviewed,erpnext
-Creating Lab Tests...,Labotests maken ...,unreviewed,erpnext
-Creating Purchase Order ...,Inkooporder creëren ...,unreviewed,erpnext
-Creating student groups,Leergroepen creëren,unreviewed,erpnext
-Creating {0},{0} maken,unreviewed,frappe
-Creating {0} Invoice,{0} factuur aanmaken,unreviewed,erpnext
-Creating {} out of {} {},{} Creëren uit {} {},unreviewed,erpnext
-Creation Date,Aanmaakdatum,unreviewed,erpnext
-Creation Document No,Aanmaken Document nr,unreviewed,erpnext
-Creation Document Type,Aanmaken Document type,unreviewed,erpnext
-Creation Time,Aanmaaktijd,unreviewed,erpnext
-Creation User,Creatie gebruiker,unreviewed,erpnext
-Credentials,Inloggegevens,unreviewed,erpnext
-Credit,Krediet,unreviewed,erpnext
-Credit ({0}),Krediet ({0}),unreviewed,erpnext
-Credit Amount,Credit Bedrag,unreviewed,erpnext
-Credit Amount in Account Currency,Credit Bedrag in account Valuta,unreviewed,erpnext
-Credit Balance,Batig saldo,unreviewed,erpnext
-Credit Card,Kredietkaart,unreviewed,erpnext
-Credit Card Entry,Kredietkaart invoer,unreviewed,erpnext
-Credit Days,Credit Dagen,unreviewed,erpnext
-Credit Days cannot be a negative number,Kredietdagen mogen geen negatief getal zijn,unreviewed,erpnext
-Credit in Company Currency,Credit Company in Valuta,unreviewed,erpnext
-Credit Limit,Kredietlimiet,unreviewed,erpnext
-Credit Limit and Payment Terms,Kredietlimiet en betalingsvoorwaarden,unreviewed,erpnext
-Credit limit has been crossed for customer {0} ({1}/{2}),Kredietlimiet is overschreden voor klant {0} ({1} / {2}),unreviewed,erpnext
-Credit limit is already defined for the Company {0},Kredietlimiet is al gedefinieerd voor het bedrijf {0},unreviewed,erpnext
-Credit limit reached for customer {0},Kredietlimiet bereikt voor klant {0},unreviewed,erpnext
-Credit Limits,Kredietlimieten,unreviewed,erpnext
-Credit Months,Kredietmaanden,unreviewed,erpnext
+Creating Accounts...,Rekeningen aanmaken...,reviewed,erpnext
+Creating bank entries...,Bankboekingen aanmaken...,reviewed,erpnext
+Creating Company and Importing Chart of Accounts,Bedrijf aanmaken en rekeningschema importeren,reviewed,erpnext
+Creating Dimensions...,Dimensies aanmaken...,reviewed,erpnext
+Creating Fees,Kosten aanmaken,reviewed,erpnext
+Creating Lab Tests...,Labtests aanmaken...,reviewed,erpnext
+Creating Purchase Order ...,Inkooporder aanmaken...,reviewed,erpnext
+Creating student groups,Studentengroepen aanmaken,reviewed,erpnext
+Creating {0},{0} aanmaken,reviewed,frappe
+Creating {0} Invoice,{0}-factuur aanmaken,reviewed,erpnext
+Creating {} out of {} {},{} aanmaken uit {} {},reviewed,erpnext
+Creation Date,Aanmaakdatum,reviewed,erpnext
+Creation Document No,Aanmaaknummer document,reviewed,erpnext
+Creation Document Type,Documenttype bij aanmaak,reviewed,erpnext
+Creation Time,Aanmaaktijd,reviewed,erpnext
+Creation User,Aanmakende gebruiker,reviewed,erpnext
+Credentials,Inloggegevens,reviewed,erpnext
+Credit,Credit,reviewed,erpnext
+Credit ({0}),Credit ({0}),reviewed,erpnext
+Credit Amount,Creditbedrag,reviewed,erpnext
+Credit Amount in Account Currency,Creditbedrag in rekeningvaluta,reviewed,erpnext
+Credit Balance,Creditsaldo,reviewed,erpnext
+Credit Card,Creditcard,reviewed,erpnext
+Credit Card Entry,Creditcardboeking,reviewed,erpnext
+Credit Days,Kredietdagen,reviewed,erpnext
+Credit Days cannot be a negative number,Kredietdagen mogen geen negatief getal zijn,reviewed,erpnext
+Credit in Company Currency,Credit in bedrijfsvaluta,reviewed,erpnext
+Credit Limit,Kredietlimiet,reviewed,erpnext
+Credit Limit and Payment Terms,Kredietlimiet en betalingsvoorwaarden,reviewed,erpnext
+Credit limit has been crossed for customer {0} ({1}/{2}),Kredietlimiet overschreden voor klant {0} ({1}/{2}),reviewed,erpnext
+Credit limit is already defined for the Company {0},Kredietlimiet al gedefinieerd voor bedrijf {0},reviewed,erpnext
+Credit limit reached for customer {0},Kredietlimiet bereikt voor klant {0},reviewed,erpnext
+Credit Limits,Kredietlimieten,reviewed,erpnext
+Credit Months,Kredietmaanden,reviewed,erpnext
 Credit Note,Creditnota,reviewed,erpnext
-Credit Note Amount,Credit Note Bedrag,unreviewed,erpnext
+Credit Note Amount,Credit Note Bedrag,reviewed,erpnext
 Credit Note Issued,Creditnota uitgegeven,reviewed,erpnext
-Credit Note {0} has been created automatically,Kredietnota {0} is automatisch aangemaakt,unreviewed,erpnext
-Credit To,Met dank aan,unreviewed,erpnext
-Creditors,crediteuren,unreviewed,erpnext
-Creditors Account set in Tally,Schuldeisersrekening ingesteld in Tally,unreviewed,erpnext
-Criteria,criteria,unreviewed,erpnext
-Criteria Formula,Criteria Formule,unreviewed,erpnext
-Criteria Name,Criteria Naam,unreviewed,erpnext
-Criteria Weight,Criteria Gewicht,unreviewed,erpnext
-Criteria weights must add up to 100%,Criteriumgewichten moeten maximaal 100%,unreviewed,erpnext
-Criticism,Kritiek,unreviewed,frappe
-Criticize,Bekritiseren,unreviewed,frappe
-Cron,cron,unreviewed,frappe
-Cron Format,Cron-indeling,unreviewed,frappe
-Crop,Gewas,unreviewed,frappe
-Crop Name,Gewasnaam,unreviewed,erpnext
-Crop Spacing,Uitsnede bijsnijden,unreviewed,erpnext
-Crop Spacing UOM,Gewasafstand UOM,unreviewed,erpnext
-Crops & Lands,Gewassen en land,unreviewed,erpnext
-Cross Listing of Item in multiple groups,Kruis Notering van Punt in meerdere groepen,unreviewed,erpnext
-CSS Class,CSS-klasse,unreviewed,frappe
-CTA Label,CTA-label,unreviewed,frappe
-CTA URL,CTA-URL,unreviewed,frappe
-Ctrl + Down,Ctrl + Omlaag,unreviewed,frappe
-Ctrl + Enter to submit,Ctrl + Enter om in te dienen,unreviewed,erpnext
-Ctrl + Up,Ctrl + Omhoog,unreviewed,frappe
-Ctrl+Enter to add comment,Ctrl + Enter om commentaar toe te voegen,unreviewed,frappe
-Ctrl+Enter to submit,Ctrl + Enter om te verzenden,unreviewed,erpnext
-Cumulative Transaction Threshold,Cumulatieve transactiedrempel,unreviewed,erpnext
-Currency,Valuta,unreviewed,both
-Currency and Price List,Valuta en Prijslijst,unreviewed,erpnext
-Currency can not be changed after making entries using some other currency,Valuta kan niet na het maken van data met behulp van een andere valuta worden veranderd,unreviewed,erpnext
+Credit Note {0} has been created automatically,Kredietnota {0} is automatisch aangemaakt,reviewed,erpnext
+Credit To,Met dank aan,reviewed,erpnext
+Creditors,crediteuren,reviewed,erpnext
+Creditors Account set in Tally,Schuldeisersrekening ingesteld in Tally,reviewed,erpnext
+Criteria,criteria,reviewed,erpnext
+Criteria Formula,Criteria Formule,reviewed,erpnext
+Criteria Name,Criteria Naam,reviewed,erpnext
+Criteria Weight,Criteria Gewicht,reviewed,erpnext
+Criteria weights must add up to 100%,Criteriumgewichten moeten maximaal 100%,reviewed,erpnext
+Criticism,Kritiek,reviewed,frappe
+Criticize,Bekritiseren,reviewed,frappe
+Cron,cron,reviewed,frappe
+Cron Format,Cron-indeling,reviewed,frappe
+Crop,Gewas,reviewed,frappe
+Crop Name,Gewasnaam,reviewed,erpnext
+Crop Spacing,Uitsnede bijsnijden,reviewed,erpnext
+Crop Spacing UOM,Gewasafstand UOM,reviewed,erpnext
+Crops & Lands,Gewassen en land,reviewed,erpnext
+Cross Listing of Item in multiple groups,Kruis Notering van Punt in meerdere groepen,reviewed,erpnext
+CSS Class,CSS-klasse,reviewed,frappe
+CTA Label,CTA-label,reviewed,frappe
+CTA URL,CTA-URL,reviewed,frappe
+Ctrl + Down,Ctrl + Omlaag,reviewed,frappe
+Ctrl + Enter to submit,Ctrl + Enter om in te dienen,reviewed,erpnext
+Ctrl + Up,Ctrl + Omhoog,reviewed,frappe
+Ctrl+Enter to add comment,Ctrl + Enter om commentaar toe te voegen,reviewed,frappe
+Ctrl+Enter to submit,Ctrl + Enter om te verzenden,reviewed,erpnext
+Cumulative Transaction Threshold,Cumulatieve transactiedrempel,reviewed,erpnext
+Currency,Valuta,reviewed,both
+Currency and Price List,Valuta en Prijslijst,reviewed,erpnext
+Currency can not be changed after making entries using some other currency,Valuta kan niet na het maken van data met behulp van een andere valuta worden veranderd,reviewed,erpnext
 Currency Exchange,Wisselkoers,reviewed,erpnext
-Currency Exchange must be applicable for Buying or for Selling.,Valutawissel moet van toepassing zijn voor Kopen of Verkopen.,unreviewed,erpnext
-Currency exchange rate master.,Wisselkoers stam.,unreviewed,erpnext
-Currency Exchange Settings,Valutaveursinstellingen,unreviewed,erpnext
-Currency for {0} must be {1},Munt voor {0} moet {1},unreviewed,erpnext
-Currency is required for Price List {0},Munt is nodig voor prijslijst {0},unreviewed,erpnext
-Currency Name,Valutanaam,unreviewed,frappe
-Currency of the Closing Account must be {0},Valuta van de Closing rekening moet worden {0},unreviewed,erpnext
-Currency of the price list {0} must be {1} or {2},Valuta van de prijslijst {0} moet {1} of {2} zijn,unreviewed,erpnext
-Currency Precision,Valuta Precisie,unreviewed,frappe
-Currency should be same as Price List Currency: {0},Valuta moet hetzelfde zijn als prijsvaluta: {0},unreviewed,erpnext
-Current,Actueel,unreviewed,frappe
-Current Academic Term,Huidige academische term,unreviewed,erpnext
-Current Academic Year,Huidig Academisch Jaar,unreviewed,erpnext
-Current Address,Huidige adres,unreviewed,erpnext
-Current Address Is,Huidige adres is,unreviewed,erpnext
-Current Amount,Huidige hoeveelheid,unreviewed,erpnext
-Current Asset Value,Huidige activawaarde,unreviewed,erpnext
-Current Assets,Vlottende Activa,unreviewed,erpnext
-Current Balance,Huidig saldo,unreviewed,erpnext
-Current BOM,Huidige Stuklijst,unreviewed,erpnext
-Current BOM and New BOM can not be same,Huidige stuklijst en nieuwe stuklijst kunnen niet hetzelfde zijn,unreviewed,erpnext
-Current Exchange Rate,Huidige wisselkoers,unreviewed,erpnext
-Current Fiscal Year,Huidige fiscale jaar,unreviewed,erpnext
-Current Invoice End Date,Huidige factuur einddatum,unreviewed,erpnext
-Current Invoice Start Date,Huidige startdatum factuur,unreviewed,erpnext
-Current invoice {0} is missing,Huidige factuur {0} ontbreekt,unreviewed,erpnext
-Current Liabilities,Kortlopende Schulden,unreviewed,erpnext
-Current Mapping,Huidige toewijzing,unreviewed,frappe
-Current Mapping Action,Huidige toewijzingsactie,unreviewed,frappe
-Current Mapping Delete Start,Huidige toewijzing Start verwijderen,unreviewed,frappe
-Current Mapping Start,Huidige toewijzingstart,unreviewed,frappe
-Current Mapping Type,Huidige toewijzingstype,unreviewed,frappe
-Current Order,Huidige bestelling,unreviewed,erpnext
-Current Qty,Huidige aantal,unreviewed,erpnext
-Current Serial No,Huidig serienummer,unreviewed,erpnext
-Current State,Huidige toestand,unreviewed,erpnext
-Current Status,Actuele status,unreviewed,erpnext
-Current status,Huidige status,unreviewed,frappe
-Current Stock,Huidige voorraad,unreviewed,erpnext
-Current Time,Huidige tijd,unreviewed,erpnext
-Current Valuation Rate,Huidige Valuation Rate,unreviewed,erpnext
-Currently no stock available in any warehouse,Momenteel geen voorraad beschikbaar in een magazijn,unreviewed,erpnext
-Currently Replying,Momenteel aan het beantwoorden,unreviewed,frappe
-Currently updating {0},Momenteel wordt {0} bijgewerkt,unreviewed,frappe
-Currently Viewing,Momenteel wordt bekeken,unreviewed,frappe
-Currently you have {0} review points,Momenteel heb je {0} beoordelingspunten,unreviewed,frappe
-Custodian,Bewaarder,unreviewed,erpnext
-Custody,Hechtenis,unreviewed,erpnext
-Custom,Aangepast,unreviewed,frappe
-Custom Base URL,Aangepaste basis-URL,unreviewed,frappe
-Custom Configuration,Aangepaste configuratie,unreviewed,frappe
-Custom CSS,Aangepaste CSS,unreviewed,frappe
-Custom Data,Aangepaste gegevens,unreviewed,erpnext
-Custom Documents,Aangepaste documenten,unreviewed,frappe
-Custom Field,Aangepast veld,unreviewed,frappe
-Custom Field {0} is created by the Administrator and can only be deleted through the Administrator account.,Aangepast veld {0} wordt gemaakt door de beheerder en kan alleen worden verwijderd via de beheerdersaccount.,unreviewed,frappe
-Custom Fields can only be added to a standard DocType.,Aangepaste velden kunnen alleen worden toegevoegd aan een standaard DocType.,unreviewed,frappe
-Custom Fields cannot be added to core DocTypes.,Aangepaste velden kunnen niet worden toegevoegd aan kern DocTypes.,unreviewed,frappe
-Custom Format,Aangepast formaat,unreviewed,frappe
-Custom HTML,Aangepaste HTML,unreviewed,both
-Custom HTML Help,Aangepaste HTML Help,unreviewed,frappe
-Custom JS,Aangepaste JS,unreviewed,frappe
-Custom Menu Items,Aangepaste menu-items,unreviewed,frappe
-Custom Options,Aangepaste opties,unreviewed,frappe
+Currency Exchange must be applicable for Buying or for Selling.,Valutawissel moet van toepassing zijn voor Kopen of Verkopen.,reviewed,erpnext
+Currency exchange rate master.,Wisselkoers stam.,reviewed,erpnext
+Currency Exchange Settings,Valutaveursinstellingen,reviewed,erpnext
+Currency for {0} must be {1},Munt voor {0} moet {1},reviewed,erpnext
+Currency is required for Price List {0},Munt is nodig voor prijslijst {0},reviewed,erpnext
+Currency Name,Valutanaam,reviewed,frappe
+Currency of the Closing Account must be {0},Valuta van de Closing rekening moet worden {0},reviewed,erpnext
+Currency of the price list {0} must be {1} or {2},Valuta van de prijslijst {0} moet {1} of {2} zijn,reviewed,erpnext
+Currency Precision,Valuta Precisie,reviewed,frappe
+Currency should be same as Price List Currency: {0},Valuta moet hetzelfde zijn als prijsvaluta: {0},reviewed,erpnext
+Current,Actueel,reviewed,frappe
+Current Academic Term,Huidige academische term,reviewed,erpnext
+Current Academic Year,Huidig Academisch Jaar,reviewed,erpnext
+Current Address,Huidige adres,reviewed,erpnext
+Current Address Is,Huidige adres is,reviewed,erpnext
+Current Amount,Huidige hoeveelheid,reviewed,erpnext
+Current Asset Value,Huidige activawaarde,reviewed,erpnext
+Current Assets,Vlottende Activa,reviewed,erpnext
+Current Balance,Huidig saldo,reviewed,erpnext
+Current BOM,Huidige Stuklijst,reviewed,erpnext
+Current BOM and New BOM can not be same,Huidige stuklijst en nieuwe stuklijst kunnen niet hetzelfde zijn,reviewed,erpnext
+Current Exchange Rate,Huidige wisselkoers,reviewed,erpnext
+Current Fiscal Year,Huidige fiscale jaar,reviewed,erpnext
+Current Invoice End Date,Huidige factuur einddatum,reviewed,erpnext
+Current Invoice Start Date,Huidige startdatum factuur,reviewed,erpnext
+Current invoice {0} is missing,Huidige factuur {0} ontbreekt,reviewed,erpnext
+Current Liabilities,Kortlopende Schulden,reviewed,erpnext
+Current Mapping,Huidige toewijzing,reviewed,frappe
+Current Mapping Action,Huidige toewijzingsactie,reviewed,frappe
+Current Mapping Delete Start,Huidige toewijzing Start verwijderen,reviewed,frappe
+Current Mapping Start,Huidige toewijzingstart,reviewed,frappe
+Current Mapping Type,Huidige toewijzingstype,reviewed,frappe
+Current Order,Huidige bestelling,reviewed,erpnext
+Current Qty,Huidige aantal,reviewed,erpnext
+Current Serial No,Huidig serienummer,reviewed,erpnext
+Current State,Huidige toestand,reviewed,erpnext
+Current Status,Actuele status,reviewed,erpnext
+Current status,Huidige status,reviewed,frappe
+Current Stock,Huidige voorraad,reviewed,erpnext
+Current Time,Huidige tijd,reviewed,erpnext
+Current Valuation Rate,Huidige Valuation Rate,reviewed,erpnext
+Currently no stock available in any warehouse,Momenteel geen voorraad beschikbaar in een magazijn,reviewed,erpnext
+Currently Replying,Momenteel aan het beantwoorden,reviewed,frappe
+Currently updating {0},Momenteel wordt {0} bijgewerkt,reviewed,frappe
+Currently Viewing,Momenteel wordt bekeken,reviewed,frappe
+Currently you have {0} review points,Momenteel heb je {0} beoordelingspunten,reviewed,frappe
+Custodian,Bewaarder,reviewed,erpnext
+Custody,Hechtenis,reviewed,erpnext
+Custom,Aangepast,reviewed,frappe
+Custom Base URL,Aangepaste basis-URL,reviewed,frappe
+Custom Configuration,Aangepaste configuratie,reviewed,frappe
+Custom CSS,Aangepaste CSS,reviewed,frappe
+Custom Data,Aangepaste gegevens,reviewed,erpnext
+Custom Documents,Aangepaste documenten,reviewed,frappe
+Custom Field,Aangepast veld,reviewed,frappe
+Custom Field {0} is created by the Administrator and can only be deleted through the Administrator account.,Aangepast veld {0} wordt gemaakt door de beheerder en kan alleen worden verwijderd via de beheerdersaccount.,reviewed,frappe
+Custom Fields can only be added to a standard DocType.,Aangepaste velden kunnen alleen worden toegevoegd aan een standaard DocType.,reviewed,frappe
+Custom Fields cannot be added to core DocTypes.,Aangepaste velden kunnen niet worden toegevoegd aan kern DocTypes.,reviewed,frappe
+Custom Format,Aangepast formaat,reviewed,frappe
+Custom HTML,Aangepaste HTML,reviewed,both
+Custom HTML Help,Aangepaste HTML Help,reviewed,frappe
+Custom JS,Aangepaste JS,reviewed,frappe
+Custom Menu Items,Aangepaste menu-items,reviewed,frappe
+Custom Options,Aangepaste opties,reviewed,frappe
 Custom Overrides,Aangepaste overschrijvingen,unreviewed,frappe
 Custom Remarks,Aangepaste opmerkingen,unreviewed,erpnext
 Custom Report,Aangepast rapport,unreviewed,frappe

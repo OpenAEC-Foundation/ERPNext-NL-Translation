@@ -198,112 +198,112 @@ Account with existing transaction cannot be converted to ledger,Rekening met bes
 Account {0} does not belong to company: {1},Rekening {0} behoort niet tot bedrijf: {1},reviewed,erpnext
 Account {0} does not belongs to company {1},Rekening {0} behoort niet tot bedrijf {1},reviewed,erpnext
 Account {0} does not exist,Rekening {0} bestaat niet,reviewed,erpnext
-Account {0} does not exists,Rekening {0} bestaat niet,unreviewed,erpnext
-Account {0} does not exists in the dashboard chart {1},Account {0} bestaat niet in de dashboardgrafiek {1},unreviewed,erpnext
-Account {0} does not match with Company {1} in Mode of Account: {2},Rekening {0} komt niet overeen met Bedrijf {1} in Rekeningmodus: {2},unreviewed,erpnext
-Account {0} exists in parent company {1}.,Account {0} bestaat in moederbedrijf {1}.,unreviewed,erpnext
-Account {0} has been entered multiple times,Account {0} is meerdere keren ingevoerd,unreviewed,erpnext
-Account {0} is added in the child company {1},Account {0} is toegevoegd in het onderliggende bedrijf {1},unreviewed,erpnext
-Account {0} is frozen,Rekening {0} is bevroren,unreviewed,erpnext
-Account {0} is invalid. Account Currency must be {1},Account {0} is ongeldig. Account Valuta moet {1} zijn,unreviewed,erpnext
-Account {0}: Parent account {1} can not be a ledger,Rekening {0}: Bovenliggende rekening {1} kan geen grootboek zijn,unreviewed,erpnext
-Account {0}: Parent account {1} does not belong to company: {2},Rekening {0}: Bovenliggende rekening {1} hoort niet bij bedrijf: {2},unreviewed,erpnext
-Account {0}: Parent account {1} does not exist,Rekening {0}: Bovenliggende rekening {1} bestaat niet,unreviewed,erpnext
-Account {0}: You can not assign itself as parent account,Rekening {0}: U kunt niet de rekening zelf toewijzen als bovenliggende rekening,unreviewed,erpnext
-Account: <b>{0}</b> is capital Work in progress and can not be updated by Journal Entry,Account: <b>{0}</b> is hoofdletter onderhanden werk en kan niet worden bijgewerkt via journaalboeking,unreviewed,erpnext
-Account: {0} can only be updated via Stock Transactions,Account: {0} kan alleen worden bijgewerkt via Voorraad Transacties,unreviewed,erpnext
-Account: {0} is not permitted under Payment Entry,Account: {0} is niet toegestaan onder Betaling invoeren,unreviewed,erpnext
-Account: {0} with currency: {1} can not be selected,Account: {0} met valuta: {1} kan niet worden geselecteerd,unreviewed,erpnext
-Accounting,Boekhouding,unreviewed,erpnext
-Accounting Details,Boekhouding Details,unreviewed,erpnext
+Account {0} does not exists,Rekening {0} bestaat niet,reviewed,erpnext
+Account {0} does not exists in the dashboard chart {1},Rekening {0} bestaat niet in de dashboardgrafiek {1},reviewed,erpnext
+Account {0} does not match with Company {1} in Mode of Account: {2},Rekening {0} komt niet overeen met Bedrijf {1} in Betalingsmodus: {2},reviewed,erpnext
+Account {0} exists in parent company {1}.,Rekening {0} bestaat in moederbedrijf {1}.,reviewed,erpnext
+Account {0} has been entered multiple times,Rekening {0} is meerdere keren ingevoerd,reviewed,erpnext
+Account {0} is added in the child company {1},Rekening {0} is toegevoegd in het onderliggende bedrijf {1},reviewed,erpnext
+Account {0} is frozen,Rekening {0} is bevroren,reviewed,erpnext
+Account {0} is invalid. Account Currency must be {1},Rekening {0} is ongeldig. Rekeningvaluta moet {1} zijn,reviewed,erpnext
+Account {0}: Parent account {1} can not be a ledger,Rekening {0}: Bovenliggende rekening {1} kan geen grootboek zijn,reviewed,erpnext
+Account {0}: Parent account {1} does not belong to company: {2},Rekening {0}: Bovenliggende rekening {1} hoort niet bij bedrijf: {2},reviewed,erpnext
+Account {0}: Parent account {1} does not exist,Rekening {0}: Bovenliggende rekening {1} bestaat niet,reviewed,erpnext
+Account {0}: You can not assign itself as parent account,Rekening {0}: U kunt niet de rekening zelf toewijzen als bovenliggende rekening,reviewed,erpnext
+Account: <b>{0}</b> is capital Work in progress and can not be updated by Journal Entry,Rekening: <b>{0}</b> is onderhanden werk en kan niet worden bijgewerkt via journaalboeking,reviewed,erpnext
+Account: {0} can only be updated via Stock Transactions,Rekening: {0} kan alleen worden bijgewerkt via voorraadtransacties,reviewed,erpnext
+Account: {0} is not permitted under Payment Entry,Rekening: {0} is niet toegestaan bij betalingsboeking,reviewed,erpnext
+Account: {0} with currency: {1} can not be selected,Rekening: {0} met valuta: {1} kan niet worden geselecteerd,reviewed,erpnext
+Accounting,Boekhouding,reviewed,erpnext
+Accounting Details,Boekhoudgegevens,reviewed,erpnext
 Accounting Dimension,Boekhouddimensie,reviewed,erpnext
-Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}.,Boekhoudingsdimensie <b>{0}</b> is vereist voor rekening &#39;Balans&#39; {1}.,unreviewed,erpnext
-Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}.,Boekhoudingsdimensie <b>{0}</b> is vereist voor rekening &#39;Winst en verlies&#39; {1}.,unreviewed,erpnext
-Accounting Dimension Detail,Detail boekhoudingsdimensie,unreviewed,erpnext
+Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}.,Boekhoudingsdimensie <b>{0}</b> is vereist voor rekening &#39;Balans&#39; {1}.,reviewed,erpnext
+Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}.,Boekhoudingsdimensie <b>{0}</b> is vereist voor rekening &#39;Winst en verlies&#39; {1}.,reviewed,erpnext
+Accounting Dimension Detail,Boekhouddimensie detail,reviewed,erpnext
 Accounting Dimension Filter,Boekhouddimensie filter,reviewed,custom
-Accounting Dimensions,Boekhoudafmetingen,unreviewed,erpnext
-Accounting Entries,Boekingen,unreviewed,erpnext
-Accounting entries are frozen up to this date. Nobody can create or modify entries except users with the role specified below,Boekhoudposten zijn tot op deze datum bevroren. Niemand kan items maken of wijzigen behalve gebruikers met de hieronder gespecificeerde rol,unreviewed,erpnext
-Accounting Entry for Asset,Boekhoudingsinvoer voor activa,unreviewed,erpnext
-Accounting Entry for Service,Boekhoudkundige invoer voor service,unreviewed,erpnext
-Accounting Entry for Stock,Boekingen voor Voorraad,unreviewed,erpnext
-Accounting Entry for {0}: {1} can only be made in currency: {2},Rekening ingave voor {0}: {1} kan alleen worden gedaan in valuta: {2},unreviewed,erpnext
-Accounting journal entries.,Journaalposten.,unreviewed,erpnext
-Accounting Ledger,Boekhoudboek,unreviewed,erpnext
-Accounting Period,Financiele periode,unreviewed,erpnext
-Accounting Period overlaps with {0},Boekhoudperiode overlapt met {0},unreviewed,erpnext
-Accounts,Rekeningen,unreviewed,erpnext
-Accounts Frozen Till Date,Accounts bevroren tot datum,unreviewed,erpnext
-Accounts Manager,Rekeningen Beheerder,unreviewed,both
-Accounts Payable,Crediteuren,unreviewed,erpnext
-Accounts Payable Summary,Crediteuren Samenvatting,unreviewed,erpnext
-Accounts Receivable,Debiteuren,unreviewed,erpnext
-Accounts Receivable Credit Account,Accounts debiteurenrekening,unreviewed,erpnext
-Accounts Receivable Discounted Account,Accounts Debiteuren met korting,unreviewed,erpnext
-Accounts Receivable Summary,Debiteuren Samenvatting,unreviewed,erpnext
-Accounts Receivable Unpaid Account,Accounts te ontvangen onbetaalde account,unreviewed,erpnext
-Accounts Settings,Rekeningen Instellingen,unreviewed,erpnext
-Accounts table cannot be blank.,Rekeningtabel mag niet leeg zijn.,unreviewed,erpnext
-Accounts User,Gebruikersaccounts,unreviewed,both
-Accumulated Depreciation,Cumulatieve afschrijvingen,unreviewed,erpnext
-Accumulated Depreciation Account,Cumulatieve afschrijvingen Rekening,unreviewed,erpnext
-Accumulated Depreciation Amount,Cumulatieve afschrijvingen Bedrag,unreviewed,erpnext
-Accumulated Depreciation as on,Cumulatieve afschrijvingen per,unreviewed,erpnext
-Accumulated Monthly,Maandelijks geaccumuleerd,unreviewed,erpnext
-Accumulated Values,Geaccumuleerde waarden,unreviewed,erpnext
-Accumulated Values in Group Company,Geaccumuleerde waarden in groepsmaatschappij,unreviewed,erpnext
-Achieved ({}),Behaald ({}),unreviewed,erpnext
-Achievement,Prestatie,unreviewed,erpnext
-Acquisition Date,Aankoopdatum,unreviewed,erpnext
-Action,Actie,unreviewed,both
-Action / Route,Actie / route,unreviewed,frappe
-Action Failed,Actie is mislukt,unreviewed,frappe
-Action if Accumulated Monthly Budget Exceeded on Actual,Actie als de geaccumuleerde maandelijkse begroting de werkelijke waarde overschrijdt,unreviewed,erpnext
-Action if Accumulated Monthly Budget Exceeded on MR,Actie als Gecumuleerd maandbudget is overschreden op MR,unreviewed,erpnext
-Action if Accumulated Monthly Budget Exceeded on PO,Actie als de gecumuleerde maandelijkse begroting is overschreden op PO,unreviewed,erpnext
-Action if Annual Budget Exceeded on Actual,Actie als de jaarlijkse begroting het feitelijke percentage overschrijdt,unreviewed,erpnext
-Action if Annual Budget Exceeded on MR,Actie als de jaarlijkse begroting de MR overschrijdt,unreviewed,erpnext
-Action if Annual Budget Exceeded on PO,Actie als jaarbegroting op PO overschreden,unreviewed,erpnext
-Action If Quality Inspection Is Not Submitted,Actie als er geen kwaliteitsinspectie wordt ingediend,unreviewed,erpnext
-Action Initialised,Actie geïnitialiseerd,unreviewed,erpnext
-Action Timeout (Seconds),Actie-time-out (seconden),unreviewed,frappe
-Action Type,actie type,unreviewed,frappe
-Actions,Acties,unreviewed,both
-"Actions for workflow (e.g. Approve, Cancel).","Acties voor workflow ( bijv. goedkeuren , Annuleren) .",unreviewed,frappe
-Actions performed,Uitgevoerde acties,unreviewed,erpnext
-Active,Actief,unreviewed,both
-Active Assist,Actieve assist,unreviewed,erpnext
-Active Domains,Actieve domeinen,unreviewed,frappe
-Active Leads,Actieve leads,unreviewed,erpnext
-Active Menu,Actief menu,unreviewed,erpnext
-Active Sessions,actieve sessies,unreviewed,frappe
-Activities,Activiteiten,unreviewed,erpnext
-Activity,Activiteit,unreviewed,both
+Accounting Dimensions,Boekhouddimensies,reviewed,erpnext
+Accounting Entries,Boekingen,reviewed,erpnext
+Accounting entries are frozen up to this date. Nobody can create or modify entries except users with the role specified below,"Boekingen zijn bevroren tot deze datum. Niemand kan boekingen maken of wijzigen, behalve gebruikers met de hieronder opgegeven rol.",reviewed,erpnext
+Accounting Entry for Asset,Boeking voor activa,reviewed,erpnext
+Accounting Entry for Service,Boeking voor dienst,reviewed,erpnext
+Accounting Entry for Stock,Boeking voor voorraad,reviewed,erpnext
+Accounting Entry for {0}: {1} can only be made in currency: {2},Boeking voor {0}: {1} kan alleen worden gedaan in valuta: {2},reviewed,erpnext
+Accounting journal entries.,Journaalposten.,reviewed,erpnext
+Accounting Ledger,Grootboek,reviewed,erpnext
+Accounting Period,Boekhoudperiode,reviewed,erpnext
+Accounting Period overlaps with {0},Boekhoudperiode overlapt met {0},reviewed,erpnext
+Accounts,Rekeningen,reviewed,erpnext
+Accounts Frozen Till Date,Rekeningen bevroren tot datum,reviewed,erpnext
+Accounts Manager,Accounts Manager,reviewed,both
+Accounts Payable,Crediteuren,reviewed,erpnext
+Accounts Payable Summary,Crediteuren samenvatting,reviewed,erpnext
+Accounts Receivable,Debiteuren,reviewed,erpnext
+Accounts Receivable Credit Account,Credietrekening debiteuren,reviewed,erpnext
+Accounts Receivable Discounted Account,Debiteurenrekening met korting,reviewed,erpnext
+Accounts Receivable Summary,Debiteuren samenvatting,reviewed,erpnext
+Accounts Receivable Unpaid Account,Onbetaalde debiteurenrekening,reviewed,erpnext
+Accounts Settings,Rekeningen instellingen,reviewed,erpnext
+Accounts table cannot be blank.,Rekeningtabel mag niet leeg zijn.,reviewed,erpnext
+Accounts User,Rekeningen gebruiker,reviewed,both
+Accumulated Depreciation,Cumulatieve afschrijvingen,reviewed,erpnext
+Accumulated Depreciation Account,Rekening cumulatieve afschrijvingen,reviewed,erpnext
+Accumulated Depreciation Amount,Bedrag cumulatieve afschrijvingen,reviewed,erpnext
+Accumulated Depreciation as on,Cumulatieve afschrijvingen per,reviewed,erpnext
+Accumulated Monthly,Maandelijks geaccumuleerd,reviewed,erpnext
+Accumulated Values,Geaccumuleerde waarden,reviewed,erpnext
+Accumulated Values in Group Company,Geaccumuleerde waarden in groepsmaatschappij,reviewed,erpnext
+Achieved ({}),Behaald ({}),reviewed,erpnext
+Achievement,Prestatie,reviewed,erpnext
+Acquisition Date,Aankoopdatum,reviewed,erpnext
+Action,Actie,reviewed,both
+Action / Route,Actie / route,reviewed,frappe
+Action Failed,Actie is mislukt,reviewed,frappe
+Action if Accumulated Monthly Budget Exceeded on Actual,Actie als de geaccumuleerde maandelijkse begroting de werkelijke waarde overschrijdt,reviewed,erpnext
+Action if Accumulated Monthly Budget Exceeded on MR,Actie als gecumuleerd maandbudget is overschreden op MR,reviewed,erpnext
+Action if Accumulated Monthly Budget Exceeded on PO,Actie als de gecumuleerde maandelijkse begroting is overschreden op PO,reviewed,erpnext
+Action if Annual Budget Exceeded on Actual,Actie als de jaarlijkse begroting de werkelijke waarde overschrijdt,reviewed,erpnext
+Action if Annual Budget Exceeded on MR,Actie als de jaarlijkse begroting de MR overschrijdt,reviewed,erpnext
+Action if Annual Budget Exceeded on PO,Actie als de jaarbegroting op PO wordt overschreden,reviewed,erpnext
+Action If Quality Inspection Is Not Submitted,Actie als er geen kwaliteitsinspectie wordt ingediend,reviewed,erpnext
+Action Initialised,Actie geïnitialiseerd,reviewed,erpnext
+Action Timeout (Seconds),Actie-time-out (seconden),reviewed,frappe
+Action Type,Actietype,reviewed,frappe
+Actions,Acties,reviewed,both
+"Actions for workflow (e.g. Approve, Cancel).","Acties voor workflow ( bijv. goedkeuren , Annuleren) .",reviewed,frappe
+Actions performed,Uitgevoerde acties,reviewed,erpnext
+Active,Actief,reviewed,both
+Active Assist,Active Assist,reviewed,erpnext
+Active Domains,Actieve domeinen,reviewed,frappe
+Active Leads,Actieve leads,reviewed,erpnext
+Active Menu,Actief menu,reviewed,erpnext
+Active Sessions,Actieve sessies,reviewed,frappe
+Activities,Activiteiten,reviewed,erpnext
+Activity,Activiteit,reviewed,both
 Activity Cost,Activiteitskosten,reviewed,erpnext
-Activity Cost exists for Employee {0} against Activity Type - {1},Activiteit Kosten bestaat voor Employee {0} tegen Activity Type - {1},unreviewed,erpnext
-Activity Cost per Employee,Activiteitskosten per werknemer,unreviewed,erpnext
-Activity Date,Activiteitsdatum,unreviewed,erpnext
+Activity Cost exists for Employee {0} against Activity Type - {1},Activiteitskosten bestaan al voor medewerker {0} voor activiteitstype - {1},reviewed,erpnext
+Activity Cost per Employee,Activiteitskosten per werknemer,reviewed,erpnext
+Activity Date,Activiteitsdatum,reviewed,erpnext
 Activity Log,Activiteitenlog,reviewed,frappe
-Activity Log by,Activiteitenlogboek door,unreviewed,frappe
-Activity log of all users.,Activiteitenlogboek van alle gebruikers.,unreviewed,frappe
+Activity Log by,Activiteitenlogboek door,reviewed,frappe
+Activity log of all users.,Activiteitenlogboek van alle gebruikers.,reviewed,frappe
 Activity Type,Activiteitstype,reviewed,erpnext
-Actual,Werkelijk,unreviewed,erpnext
-Actual Batch Quantity,Werkelijke batchhoeveelheid,unreviewed,erpnext
-Actual Cost,Werkelijke kosten,unreviewed,erpnext
-Actual Date,Werkelijke Datum,unreviewed,erpnext
-Actual Delivery Date,Werkelijke leverdatum,unreviewed,erpnext
-Actual End Date,Werkelijke Einddatum,unreviewed,erpnext
-Actual End Date (via Timesheet),Werkelijke Einddatum (via Urenregistratie),unreviewed,erpnext
-Actual End Time,Werkelijke Eindtijd,unreviewed,erpnext
-Actual Operating Cost,Werkelijke operationele kosten,unreviewed,erpnext
-Actual Operation Time,Werkelijke Operatie Duur,unreviewed,erpnext
+Actual,Werkelijk,reviewed,erpnext
+Actual Batch Quantity,Werkelijke batchhoeveelheid,reviewed,erpnext
+Actual Cost,Werkelijke kosten,reviewed,erpnext
+Actual Date,Werkelijke datum,reviewed,erpnext
+Actual Delivery Date,Werkelijke leverdatum,reviewed,erpnext
+Actual End Date,Werkelijke einddatum,reviewed,erpnext
+Actual End Date (via Timesheet),Werkelijke einddatum (via urenregistratie),reviewed,erpnext
+Actual End Time,Werkelijke eindtijd,reviewed,erpnext
+Actual Operating Cost,Werkelijke operationele kosten,reviewed,erpnext
+Actual Operation Time,Werkelijke operatieduur,reviewed,erpnext
 Actual Qty,Werkelijke hoeveelheid,reviewed,erpnext
-Actual Qty (at source/target),Werkelijke Aantal (bij de bron / doel),unreviewed,erpnext
-Actual Qty After Transaction,Werkelijke Aantal Na Transactie,unreviewed,erpnext
-Actual qty in stock,Werkelijke hoeveelheid op voorraad,unreviewed,erpnext
-Actual Qty is mandatory,Werkelijke aantal is verplicht,unreviewed,erpnext
-Actual Qty {0} / Waiting Qty {1},Werkelijk Aantal {0} / Aantal Wachten {1},unreviewed,erpnext
-Actual Qty: Quantity available in the warehouse.,Werkelijke Aantal: Aantal beschikbaar in het magazijn.,unreviewed,erpnext
+Actual Qty (at source/target),Werkelijke Aantal (bij de bron / doel),reviewed,erpnext
+Actual Qty After Transaction,Werkelijke Aantal Na Transactie,reviewed,erpnext
+Actual qty in stock,Werkelijke hoeveelheid op voorraad,reviewed,erpnext
+Actual Qty is mandatory,Werkelijke aantal is verplicht,reviewed,erpnext
+Actual Qty {0} / Waiting Qty {1},Werkelijk Aantal {0} / Aantal Wachten {1},reviewed,erpnext
+Actual Qty: Quantity available in the warehouse.,Werkelijke Aantal: Aantal beschikbaar in het magazijn.,reviewed,erpnext
 Actual Quantity,Werkelijke hoeveelheid,unreviewed,erpnext
 Actual Start Date,Werkelijke Startdatum,unreviewed,erpnext
 Actual Start Date (via Timesheet),Werkelijke Startdatum (via Urenregistratie),unreviewed,erpnext

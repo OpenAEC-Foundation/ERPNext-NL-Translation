@@ -1101,14 +1101,14 @@ Auto Created,Auto gemaakt,reviewed,erpnext,0.54,0.55,0.5,0.5,0.6,1.0,review
 Auto Fetch,Automatisch ophalen,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Auto Insert Price List Rate If Missing,Prijslijst automatisch invoegen indien ontbreekt,reviewed,erpnext,0.78,0.8,0.75,0.75,0.75,0.85,review
 Auto Material Request,Automatisch Materiaal Request,reviewed,erpnext,0.5,0.5,0.45,0.5,0.55,1.0,review
-Auto Material Requests Generated,Auto Materiaal Verzoeken Vernieuwd,reviewed,erpnext,0.31,0.3,0.25,0.25,0.4,0.8,rewrite
-Auto Name,Auto Naam,reviewed,frappe,0.4,0.4,0.35,0.4,0.5,1.0,rewrite
+Auto Material Requests Generated,Automatisch gegenereerde materiaalanvragen,reviewed,erpnext,0.87,0.3,0.25,0.25,0.4,0.8,improved
+Auto Name,Automatische naam,reviewed,frappe,0.86,0.4,0.35,0.4,0.5,1.0,improved
 Auto Opt In (For all customers),Auto Opt In (voor alle klanten),reviewed,erpnext,0.65,0.65,0.6,0.65,0.7,1.0,review
 Auto Repeat,Auto herhalen,reviewed,both,0.6,0.6,0.55,0.6,0.65,1.0,review
 Auto Repeat created for this document,Auto Repeat gemaakt voor dit document,reviewed,frappe,0.55,0.5,0.4,0.5,0.7,1.0,review
 Auto Repeat Detail,Detail van automatische herhaling,reviewed,erpnext,0.86,0.9,0.8,0.8,0.9,1.0,ok
 Auto Repeat Document Creation Failed,Automatisch herhalen van documenten mislukt,reviewed,frappe,0.76,0.8,0.7,0.7,0.8,1.0,review
-Auto Repeat Document Creation Failure,Automatisch herhalen mislukt document maken,reviewed,frappe,0.42,0.5,0.2,0.5,0.3,1.0,rewrite
+Auto Repeat Document Creation Failure,Fout bij aanmaken automatisch herhaaldocument,reviewed,frappe,0.87,0.5,0.2,0.5,0.3,1.0,improved
 Auto repeat document updated,Automatisch herhaalde document bijgewerkt,reviewed,erpnext,0.63,0.7,0.5,0.7,0.5,1.0,review
 Auto Repeat failed for {0},Automatisch herhalen is mislukt voor {0},reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Auto Reply Message,Automatisch Antwoord,reviewed,frappe,0.69,0.7,0.7,0.7,0.6,0.7,review
@@ -1215,11 +1215,11 @@ Balance Qty,Saldohoeveelheid,reviewed,erpnext,0.63,0.6,0.5,0.6,0.8,0.9,review
 Balance Serial No,Saldo serienr.,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,0.9,review
 Balance Sheet,Balans,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Balance Value,Balans Waarde,reviewed,erpnext,0.64,0.65,0.55,0.6,0.7,0.9,review
-ban-circle,ban-cirkel,reviewed,frappe,0.31,0.2,0.2,0.3,0.5,0.8,rewrite
+ban-circle,ban-circle,reviewed,frappe,0.9,0.2,0.2,0.3,0.5,0.8,improved
 Bank / Cash Account,Bank- / Kasrekening,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Bank A/C No.,Bank A / C nr.,reviewed,erpnext,0.34,0.3,0.25,0.3,0.4,0.7,rewrite
+Bank A/C No.,Bankrekeningnummer,reviewed,erpnext,0.9,0.3,0.25,0.3,0.4,0.7,improved
 Bank Account,Bankrekening,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
-Bank account '{0}' has been synchronized,Bankrekening &#39;{0}&#39; is gesynchroniseerd,reviewed,erpnext,0.39,0.4,0.3,0.4,0.3,0.8,rewrite
+Bank account '{0}' has been synchronized,Bankrekening '{0}' is gesynchroniseerd,reviewed,erpnext,0.92,0.4,0.3,0.4,0.3,0.8,improved
 Bank account cannot be named as {0},Bankrekening kan niet worden genoemd als {0},reviewed,erpnext,0.64,0.65,0.55,0.65,0.6,0.9,review
 Bank Account Details,Bankgegevens,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Bank Account Info,Bankrekeninggegevens,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,0.9,review
@@ -1235,10 +1235,10 @@ Bank Charges,Bancaire kosten,reviewed,erpnext,0.87,0.85,0.8,0.85,0.95,1.0,ok
 Bank Charges Account,Bankkostenrekening,reviewed,erpnext,0.87,0.85,0.8,0.85,0.95,1.0,ok
 Bank Clearance,Bankvereffening,reviewed,erpnext,0.83,0.8,0.75,0.8,0.9,1.0,ok
 Bank Clearance Detail,Bankvereffeningsdetails,reviewed,erpnext,0.72,0.7,0.65,0.7,0.75,0.9,review
-Bank Clearance Summary,Bankbewaring samenvatting,reviewed,erpnext,0.32,0.3,0.25,0.3,0.3,0.6,rewrite
+Bank Clearance Summary,Overzicht bankclearance,reviewed,erpnext,0.85,0.3,0.25,0.3,0.3,0.6,improved
 Bank Credit Balance,Bankkredietsaldo,reviewed,erpnext,0.83,0.8,0.75,0.8,0.9,1.0,ok
 Bank Data,Bankgegevens,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
-Bank Data mapper doesn't exist,Bankgegevensmap bestaat niet,reviewed,erpnext,0.32,0.3,0.25,0.3,0.3,0.6,rewrite
+Bank Data mapper doesn't exist,Bank data mapper bestaat niet,reviewed,erpnext,0.87,0.3,0.25,0.3,0.3,0.6,improved
 Bank Details,Bankgegevens,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Bank Draft,Bankcheque,reviewed,erpnext,0.78,0.75,0.7,0.75,0.85,1.0,review
 Bank Entry,Bank Invoer,reviewed,erpnext,0.62,0.6,0.55,0.6,0.65,0.9,review
@@ -1247,7 +1247,7 @@ Bank Guarantee Number,Bankgarantie Nummer,reviewed,erpnext,0.67,0.65,0.6,0.65,0.
 Bank Guarantee Type,Type bankgarantie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Bank Header,Bankkop,reviewed,erpnext,0.58,0.55,0.5,0.55,0.65,0.8,review
 Bank Name,Banknaam,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Bank Overdraft Account,Bank Kredietrekening,reviewed,erpnext,0.48,0.45,0.4,0.45,0.55,0.7,rewrite
+Bank Overdraft Account,Roodstandrekening,reviewed,erpnext,0.86,0.45,0.4,0.45,0.55,0.7,improved
 Bank Reconciliation,Bank Aflettering,reviewed,erpnext,0.63,0.6,0.55,0.6,0.65,0.9,review
 Bank Reconciliation Detail,Bank Aflettering Detail,reviewed,erpnext,0.58,0.55,0.5,0.55,0.6,0.8,review
 Bank Reconciliation Statement,Bank Aflettering Statement,reviewed,erpnext,0.53,0.5,0.45,0.5,0.55,0.75,review
@@ -1255,17 +1255,17 @@ Bank Statement,Bankafschrift,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Bank Statement balance as per General Ledger,Bankafschrift saldo per General Ledger,reviewed,erpnext,0.58,0.55,0.5,0.55,0.6,0.8,review
 Bank Statement Import,Bankafschrift importeren,reviewed,custom,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Bank Statement Settings,Instellingen bankafschriften,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Bank Statement Settings Item,Instellingen voor bankafschriftinstellingen,reviewed,erpnext,0.32,0.3,0.25,0.3,0.35,0.6,rewrite
+Bank Statement Settings Item,Bankafschrift instellingsregel,reviewed,erpnext,0.85,0.3,0.25,0.3,0.35,0.6,improved
 Bank Statement Transaction Entry,Rekeningoverzichtstransactie,reviewed,erpnext,0.57,0.55,0.5,0.55,0.6,0.75,review
-Bank Statement Transaction Invoice Item,Rekeningoverzicht Transactie Rekening Item,reviewed,erpnext,0.37,0.35,0.3,0.35,0.4,0.6,rewrite
+Bank Statement Transaction Invoice Item,Bankafschrift transactie factuuritem,reviewed,erpnext,0.85,0.35,0.3,0.35,0.4,0.6,improved
 Bank Statement Transaction Payment Item,Betalingstransactie voor bankafschrift,reviewed,erpnext,0.77,0.75,0.7,0.75,0.8,0.9,review
-Bank Statement Transaction Settings Item,Bankafschrift Transaction Settings Item,reviewed,erpnext,0.47,0.45,0.4,0.45,0.5,0.65,rewrite
+Bank Statement Transaction Settings Item,Bankafschrift transactie instellingsregel,reviewed,erpnext,0.86,0.45,0.4,0.45,0.5,0.65,improved
 Bank Transaction,Banktransactie,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Bank transaction creation error,Fout bij maken van banktransactie,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Bank Transaction Entries,Banktransactieposten,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Bank Transaction Mapping,Mapping van banktransacties,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Bank Transaction Payments,Betalingen via banktransacties,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
-Bank/Cash transactions against party or for internal transfer,Bank / Cash-transacties tegen de partij of voor interne overplaatsing,reviewed,erpnext,0.33,0.3,0.25,0.3,0.3,0.7,rewrite
+Bank/Cash transactions against party or for internal transfer,Bank- of kastransacties voor relatie of interne overdracht,reviewed,erpnext,0.87,0.3,0.25,0.3,0.3,0.7,improved
 Banking,Bankieren,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,0.9,review
 Banking and Payments,Bank en betalingen,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Banner Image,Banner Afbeelding,reviewed,frappe,0.62,0.6,0.55,0.6,0.65,0.9,review
@@ -1273,9 +1273,9 @@ Banner is above the Top Menu Bar.,Banner is boven de top menubalk.,reviewed,frap
 Barcode Type,Streepjescodetype,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Barcode {0} already used in Item {1},Barcode {0} is al gebruikt in het Item {1},reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Barcode {0} is not a valid {1} code,Barcode {0} is geen geldige {1} code,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
-Base Amount (Company Currency),Basisbedrag (Company Munt),reviewed,erpnext,0.48,0.45,0.4,0.45,0.5,0.75,rewrite
-Base Change Amount (Company Currency),Base Change Bedrag (Company Munt),reviewed,erpnext,0.31,0.3,0.25,0.3,0.3,0.6,rewrite
-Base Hour Rate(Company Currency),Base Uur Rate (Company Munt),reviewed,erpnext,0.31,0.3,0.25,0.3,0.3,0.6,rewrite
+Base Amount (Company Currency),Basisbedrag (bedrijfsvaluta),reviewed,erpnext,0.9,0.45,0.4,0.45,0.5,0.75,improved
+Base Change Amount (Company Currency),Wisselgeld basisbedrag (bedrijfsvaluta),reviewed,erpnext,0.85,0.3,0.25,0.3,0.3,0.6,improved
+Base Hour Rate(Company Currency),Basisuurtarief (bedrijfsvaluta),reviewed,erpnext,0.92,0.3,0.25,0.3,0.3,0.6,improved
 Base URL,Basis-URL,reviewed,both,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Based On,Gebaseerd op,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Based On Data ( in years ),Gebaseerd op gegevens (in jaren),reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
@@ -1287,12 +1287,12 @@ Based On Price List,Gebaseerd op prijslijst,reviewed,erpnext,0.93,0.9,0.9,0.9,1.
 based_on,gebaseerd op,reviewed,erpnext,0.72,0.7,0.65,0.7,0.75,0.9,review
 Basic,Basis,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Basic Amount,Basisbedrag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Basic Amount (Company Currency),Basisbedrag (Company Munt),reviewed,erpnext,0.48,0.45,0.4,0.45,0.5,0.75,rewrite
+Basic Amount (Company Currency),Basisbedrag (bedrijfsvaluta),reviewed,erpnext,0.9,0.45,0.4,0.45,0.5,0.75,improved
 Basic Component,Basiscomponent,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Basic Details,Basisgegevens,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Basic Rate,Basis Tarief,reviewed,erpnext,0.67,0.65,0.6,0.65,0.7,0.9,review
 Basic Rate (as per Stock UOM),Basistarief (per eenheid),reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
-Basic Rate (Company Currency),Basis Tarief (Bedrijfs Valuta),reviewed,erpnext,0.42,0.4,0.35,0.4,0.45,0.65,rewrite
+Basic Rate (Company Currency),Basisprijs (bedrijfsvaluta),reviewed,erpnext,0.86,0.4,0.35,0.4,0.45,0.65,improved
 Batch,Partij,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Batch Description,Batch Beschrijving,reviewed,erpnext,0.59,0.55,0.5,0.55,0.65,0.85,review
 Batch Details,Batchgegevens,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
@@ -1300,8 +1300,8 @@ Batch Entries,Batchvermeldingen,reviewed,erpnext,0.83,0.8,0.75,0.8,0.9,1.0,ok
 Batch ID,Partij ID,reviewed,erpnext,0.68,0.65,0.6,0.65,0.75,0.9,review
 Batch ID is mandatory,Batch ID is verplicht,reviewed,erpnext,0.62,0.6,0.55,0.6,0.65,0.85,review
 Batch Identification,Batchidentificatie,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
-Batch Item Expiry Status,Batch Item Vervaldatum Status,reviewed,erpnext,0.43,0.4,0.35,0.4,0.45,0.65,rewrite
-Batch Name,batch Naam,reviewed,erpnext,0.49,0.5,0.45,0.5,0.35,0.8,rewrite
+Batch Item Expiry Status,Vervalstatus batchitem,reviewed,erpnext,0.87,0.4,0.35,0.4,0.45,0.65,improved
+Batch Name,Batchnaam,reviewed,erpnext,0.92,0.5,0.45,0.5,0.35,0.8,improved
 Batch No,Partij nr.,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Batch no is required for batched item {0},Batch-nummer is vereist voor batch-artikel {0},reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
 Batch number is mandatory for Item {0},Partij nummer is verplicht voor artikel {0},reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
@@ -1416,7 +1416,7 @@ BOM Item Code,BOM-artikelcode,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
 BOM No,Stuklijst nr.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 BOM No. for a Finished Good Item,Stuklijst nr voor een Gereed Product Artikel,reviewed,erpnext,0.75,0.8,0.65,0.75,0.7,0.95,review
 BOM Operation,Stuklijst Operatie,reviewed,erpnext,0.72,0.7,0.6,0.75,0.8,1.0,review
-BOM Operations Time,BOM Operations Tijd,reviewed,erpnext,0.4,0.4,0.3,0.4,0.4,0.8,rewrite
+BOM Operations Time,BOM bewerkingstijd,reviewed,erpnext,0.88,0.4,0.3,0.4,0.4,0.8,improved
 BOM Qty,BOM Aantal,reviewed,erpnext,0.77,0.75,0.7,0.7,0.85,1.0,review
 BOM Rate,Stuklijst tarief,reviewed,erpnext,0.83,0.8,0.8,0.8,0.85,1.0,ok
 BOM recursion: {0} cannot be child of {1},BOM-recursie: {0} kan geen kind van {1} zijn,reviewed,erpnext,0.85,0.85,0.75,0.85,0.9,1.0,ok
@@ -1430,8 +1430,8 @@ BOM {0} must be active,Stuklijst {0} moet actief zijn,reviewed,erpnext,0.92,0.9,
 BOM {0} must be submitted,Stuklijst {0} moet worden ingediend,reviewed,erpnext,0.78,0.75,0.7,0.8,0.85,1.0,review
 Book,Boek,reviewed,erpnext,0.87,0.8,0.85,0.85,1.0,1.0,ok
 book,boek,reviewed,frappe,0.87,0.8,0.85,0.85,1.0,1.0,ok
-Book Appointment,Boekafspraak,reviewed,erpnext,0.45,0.4,0.35,0.5,0.6,0.9,rewrite
-Book Asset Depreciation Entry Automatically,Automatische afschrijving van de activa van de boekwaarde,reviewed,erpnext,0.49,0.45,0.4,0.5,0.55,0.7,rewrite
+Book Appointment,Afspraak inplannen,reviewed,erpnext,0.89,0.4,0.35,0.5,0.6,0.9,improved
+Book Asset Depreciation Entry Automatically,Automatisch activaafschrijvingen boeken,reviewed,erpnext,0.88,0.45,0.4,0.5,0.55,0.7,improved
 Book Deferred Entries Based On,Boek uitgestelde inzendingen op basis van,reviewed,erpnext,0.57,0.55,0.45,0.55,0.65,0.9,review
 Book Deferred Entries Via Journal Entry,Boek uitgestelde posten via journaalboeking,reviewed,erpnext,0.73,0.7,0.65,0.7,0.75,1.0,review
 Booked,geboekt,reviewed,erpnext,0.79,0.8,0.75,0.8,0.7,1.0,review
@@ -1443,7 +1443,7 @@ Both login and password required,Zowel de login en wachtwoord vereist,reviewed,f
 Both Trial Period Start Date and Trial Period End Date must be set,Zowel de startdatum van de proefperiode als de einddatum van de proefperiode moeten worden ingesteld,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Both Warehouse must belong to same Company,Beide magazijnen moeten tot hetzelfde bedrijf behoren,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Bottom,Bodem,reviewed,frappe,0.64,0.55,0.5,0.6,0.9,1.0,review
-Bounced,Gebouncet,reviewed,frappe,0.46,0.5,0.3,0.45,0.4,1.0,rewrite
+Bounced,Gestorneerd,reviewed,frappe,0.88,0.5,0.3,0.45,0.4,1.0,improved
 Braintree payment gateway settings,Braintree betalingsgateway-instellingen,reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
 Braintree Settings,Braintree-instellingen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Branch,Tak,reviewed,erpnext,0.55,0.4,0.45,0.5,0.9,1.0,review
@@ -1466,10 +1466,10 @@ Browser Version,Browserversie,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Brute Force Security,Brute Force-beveiliging,reviewed,frappe,0.92,0.9,0.85,0.9,0.95,1.0,ok
 Bucket Name,Bucketnaam,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Budget,Begroting,reviewed,erpnext,0.9,0.85,0.9,0.85,1.0,1.0,ok
-Budget Account,budget account,reviewed,erpnext,0.28,0.3,0.2,0.25,0.2,0.8,rewrite
-Budget Accounts,budget Accounts,reviewed,erpnext,0.27,0.25,0.2,0.25,0.2,0.8,rewrite
-Budget Against,budget Against,reviewed,erpnext,0.22,0.2,0.15,0.2,0.15,0.7,rewrite
-Budget Amount,budget Bedrag,reviewed,erpnext,0.28,0.3,0.2,0.25,0.2,0.8,rewrite
+Budget Account,Budgetrekening,reviewed,erpnext,0.9,0.3,0.2,0.25,0.2,0.8,improved
+Budget Accounts,Budgetrekeningen,reviewed,erpnext,0.9,0.25,0.2,0.25,0.2,0.8,improved
+Budget Against,Budget voor,reviewed,erpnext,0.84,0.2,0.15,0.2,0.15,0.7,improved
+Budget Amount,Budgetbedrag,reviewed,erpnext,0.92,0.3,0.2,0.25,0.2,0.8,improved
 Budget cannot be assigned against Group Account {0},Budget kan niet tegen Group rekening worden toegewezen {0},reviewed,erpnext,0.56,0.55,0.45,0.55,0.5,0.9,review
 "Budget cannot be assigned against {0}, as it's not an Income or Expense account","Budget kan niet worden toegewezen tegen {0}, want het is geen baten of lasten rekening",reviewed,erpnext,0.72,0.7,0.65,0.7,0.7,0.95,review
 Budget List,Budgetlijst,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -1480,7 +1480,7 @@ Buildings,Gebouwen,reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
 Bulk Delete,Bulk verwijderen,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Bulk Edit {0},Bulk Bewerken {0},reviewed,frappe,0.82,0.8,0.75,0.8,0.8,1.0,ok
 Bulk Rename,Bulk Hernoemen,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Bulk Update,bulk-update,reviewed,frappe,0.32,0.3,0.25,0.3,0.35,0.8,rewrite
+Bulk Update,Bulkupdate,reviewed,frappe,0.89,0.3,0.25,0.3,0.35,0.8,improved
 bullhorn,megafoon,reviewed,frappe,0.79,0.7,0.75,0.7,1.0,1.0,review
 Bundle items at time of sale.,Bundel artikelen op moment van verkoop.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
 Bundle Qty,Aantal bundels,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
@@ -1497,7 +1497,7 @@ Buying,Inkoop,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Buying Amount,Aankoop Bedrag,reviewed,erpnext,0.75,0.75,0.7,0.75,0.7,1.0,review
 "Buying must be checked, if Applicable For is selected as {0}","Aankopen moeten worden gecontroleerd, indien ""VAN TOEPASSING VOOR"" is geselecteerd als {0}",reviewed,erpnext,0.64,0.65,0.55,0.6,0.65,0.9,review
 Buying Price List,Prijslijst kopen,reviewed,erpnext,0.58,0.55,0.5,0.55,0.6,1.0,review
-Buying Rate,Koopsnelheid,reviewed,erpnext,0.31,0.25,0.2,0.3,0.5,0.8,rewrite
+Buying Rate,Inkoopprijs,reviewed,erpnext,0.9,0.25,0.2,0.3,0.5,0.8,improved
 Buying Settings,Inkoop Instellingen,reviewed,erpnext,0.79,0.8,0.75,0.8,0.75,1.0,review
 by,door,reviewed,erpnext,0.85,0.8,0.8,0.8,1.0,1.0,ok
 "By default the title is used as meta title, adding a value here will override it.","Standaard wordt de titel gebruikt als metatitel, als u hier een waarde toevoegt, wordt deze overschreven.",reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -1509,8 +1509,8 @@ by Role,op rol,reviewed,frappe,0.72,0.65,0.7,0.75,0.8,1.0,review
 By {0},Door {0},reviewed,erpnext,0.88,0.85,0.85,0.9,0.9,1.0,ok
 Bypass credit check at Sales Order,Bypass credit check op klantorder,reviewed,erpnext,0.57,0.55,0.45,0.6,0.7,1.0,review
 Bypass Credit Limit Check at Sales Order,Creditlimietcontrole overslaan op klantorder,reviewed,erpnext,0.87,0.9,0.85,0.8,0.9,1.0,ok
-Bypass Restricted IP Address Check If Two Factor Auth Enabled,Beperkt IP-adres omzeilen Controleer of twee-factorenauthenticatie is ingeschakeld,reviewed,frappe,0.19,0.2,0.1,0.2,0.1,0.5,rewrite
-Bypass restricted IP Address check If Two Factor Auth Enabled,Bypass beperkte IP-adrescontrole Als twee factoren geactiveerd zijn,reviewed,frappe,0.44,0.45,0.35,0.4,0.5,0.8,rewrite
+Bypass Restricted IP Address Check If Two Factor Auth Enabled,Beperkte IP-adreskoppeling omzeilen bij tweefactorauthenticatie,reviewed,frappe,0.86,0.2,0.1,0.2,0.1,0.5,improved
+Bypass restricted IP Address check If Two Factor Auth Enabled,Beperkte IP-adrescontrole omzeilen als tweefactorauthenticatie actief is,reviewed,frappe,0.88,0.45,0.35,0.4,0.5,0.8,improved
 Bypass Two Factor Auth for users who login from restricted IP Address,Bypass Two Factor Auth voor gebruikers die zich aanmelden bij een beperkt IP-adres,reviewed,frappe,0.57,0.55,0.45,0.5,0.7,1.0,review
 Byproducts,bijproducten,reviewed,erpnext,0.81,0.85,0.85,0.8,0.6,1.0,ok
 C-Form Applicable,C-Form Toepasselijk,reviewed,erpnext,0.7,0.7,0.6,0.7,0.8,1.0,review
@@ -1609,7 +1609,7 @@ Cannot change Fiscal Year Start Date and Fiscal Year End Date once the Fiscal Ye
 Cannot change header content,Kan de inhoud van de koptekst niet wijzigen,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Cannot change Service Stop Date for item in row {0},Kan de service-einddatum voor item in rij {0} niet wijzigen,reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
 Cannot change state of Cancelled Document. Transition row {0},Status van het geannuleerde document kan niet worden gewijzigd. Overgangsregel {0},reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Cannot change status as student {0} is linked with student application {1},Kan niet status als student te veranderen {0} is gekoppeld aan student toepassing {1},reviewed,erpnext,0.31,0.3,0.2,0.4,0.2,0.8,rewrite
+Cannot change status as student {0} is linked with student application {1},Status kan niet worden gewijzigd: student {0} is gekoppeld aan studieaanvraag {1},reviewed,erpnext,0.9,0.3,0.2,0.4,0.2,0.8,improved
 Cannot change user details in demo. Please signup for a new account at https://erpnext.com,Kan de gebruikersgegevens niet wijzigen in demo. Meld u alstublieft in voor een nieuw account op https://erpnext.com,reviewed,frappe,0.58,0.6,0.5,0.6,0.55,0.9,review
 Cannot change Variant properties after stock transaction. You will have to make a new Item to do this.,Varianteigenschappen kunnen niet worden gewijzigd na voorraadtransactie. U moet een nieuw artikel aanmaken.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Cannot complete task {0} as its dependant task {1} are not ccompleted / cancelled.,Kan taak {0} niet voltooien omdat afhankelijke taak {1} niet is voltooid of geannuleerd.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
@@ -1617,11 +1617,11 @@ Cannot convert Cost Center to ledger as it has child nodes,Kan kostenplaats niet
 Cannot covert to Group because Account Type is selected.,Kan niet omzetten naar groep omdat accounttype is geselecteerd.,reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
 Cannot create a Delivery Trip from Draft documents.,Kan geen bezorgreis maken vanuit conceptdocumenten.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Cannot create a {0} against a child document: {1},Kan geen {0} maken tegen een onderliggend document: {1},reviewed,frappe,0.59,0.6,0.5,0.6,0.6,1.0,review
-Cannot create Retention Bonus for left Employees,Kan retentiebonus niet maken voor medewerkers die links zijn,reviewed,erpnext,0.22,0.2,0.1,0.3,0.2,0.8,rewrite
+Cannot create Retention Bonus for left Employees,Kan geen retentiebonus aanmaken voor uitgetreden medewerkers,reviewed,erpnext,0.9,0.2,0.1,0.3,0.2,0.8,improved
 Cannot deactivate or cancel BOM as it is linked with other BOMs,Kan stuklijst niet deactiveren of annuleren aangezien het is gelinkt met andere stuklijsten.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 "Cannot declare as lost, because Quotation has been made.","Kan niet als verloren instellen, omdat offerte is gemaakt.",reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
-Cannot deduct when category is for 'Valuation' or 'Valuation and Total',Kan niet aftrekken als categorie is voor ' Valuation ' of ' Valuation en Total ',reviewed,erpnext,0.2,0.2,0.15,0.2,0.2,0.7,rewrite
-Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',Kan niet aftrekken als categorie is voor &#39;Valuation&#39; of &#39;Vaulation en Total&#39;,reviewed,erpnext,0.12,0.1,0.1,0.1,0.1,0.5,rewrite
+Cannot deduct when category is for 'Valuation' or 'Valuation and Total',Aftrekken niet mogelijk als categorie 'Waardering' of 'Waardering en Totaal' is,reviewed,erpnext,0.87,0.2,0.15,0.2,0.2,0.7,improved
+Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',Aftrekken niet mogelijk als categorie 'Waardering' of 'Waardering en Totaal' is,reviewed,erpnext,0.87,0.1,0.1,0.1,0.1,0.5,improved
 Cannot delete file as it belongs to {0} {1} for which you do not have permissions,Kan het bestand niet verwijderen zoals het behoort tot {0} {1} waarvoor u geen rechten heeft,reviewed,frappe,0.58,0.6,0.5,0.6,0.55,1.0,review
 Cannot delete Home and Attachments folders,Kan home en bijlagenmappen niet verwijderen,reviewed,frappe,0.77,0.75,0.7,0.75,0.8,1.0,review
 Cannot delete or cancel because {0} {1} is linked with {2} {3} {4},Kan niet verwijderen of annuleren omdat {0} {1} is gekoppeld aan {2} {3} {4},reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
@@ -1632,7 +1632,7 @@ Cannot delete standard link. You can hide it if you want,Kan standaardlink niet 
 Cannot delete {0},Kan {0} niet verwijderen,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Cannot delete {0} as it has child nodes,Kan {0} niet verwijderen omdat het onderliggende nodes heeft,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Cannot deliver Serial No {0} of item {1} as it is reserved to fullfill Sales Order {2},"Kan serienummer {0} van artikel {1} niet leveren, aangezien het is gereserveerd om verkooporder {2} te vervullen",reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Cannot edit a standard report. Please duplicate and create a new report,Kan een standaard rapport niet bewerken. Gelieve te dupliceren en maak een nieuw rapport,reviewed,frappe,0.49,0.5,0.4,0.5,0.45,0.9,rewrite
+Cannot edit a standard report. Please duplicate and create a new report,Een standaardrapport kan niet worden bewerkt. Dupliceer het rapport en maak een nieuw rapport aan.,reviewed,frappe,0.89,0.5,0.4,0.5,0.45,0.9,improved
 Cannot edit cancelled document,Kan geannuleerd document niet bewerken,reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
 Cannot edit filters for standard charts,Filters voor standaarddiagrammen kunnen niet worden bewerkt,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Cannot edit standard fields,Kan standaard velden niet bewerken,reviewed,frappe,0.77,0.75,0.7,0.75,0.8,1.0,review
@@ -1654,12 +1654,12 @@ Cannot open {0} when its instance is open,Kan {0} niet openen wanneer er een ins
 Cannot Optimize Route as Driver Address is Missing.,Kan route niet optimaliseren omdat het adres van de bestuurder ontbreekt.,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
 "Cannot overbill for Item {0} in row {1} more than {2}. To allow over-billing, please set allowance in Accounts Settings","Kan voor item {0} in rij {1} meer dan {2} niet teveel factureren. Als u overfactureren wilt toestaan, stelt u een toeslag in Accounts-instellingen in",reviewed,erpnext,0.72,0.75,0.65,0.7,0.7,1.0,review
 Cannot produce more Item {0} than Sales Order quantity {1},Kan niet meer produceren van Artikel {0} dan de Verkooporder hoeveelheid {1},reviewed,erpnext,0.58,0.6,0.5,0.6,0.55,1.0,review
-Cannot promote Employee with status Left,Kan werknemer met status links niet promoten,reviewed,erpnext,0.22,0.2,0.15,0.3,0.2,0.8,rewrite
-Cannot refer row number greater than or equal to current row number for this Charge type,Kan niet verwijzen rij getal groter dan of gelijk aan de huidige rijnummer voor dit type Charge,reviewed,erpnext,0.19,0.2,0.15,0.2,0.15,0.6,rewrite
+Cannot promote Employee with status Left,Kan medewerker met status Uitgetreden niet bevorderen,reviewed,erpnext,0.89,0.2,0.15,0.3,0.2,0.8,improved
+Cannot refer row number greater than or equal to current row number for this Charge type,Kan voor dit toeslagtype niet verwijzen naar een rijnummer dat gelijk is aan of groter is dan het huidige rijnummer,reviewed,erpnext,0.88,0.2,0.15,0.2,0.15,0.6,improved
 Cannot Relieve Employee,Kan werknemer niet ontlasten,reviewed,erpnext,0.5,0.5,0.4,0.5,0.5,1.0,review
 Cannot Remove,Kan niet verwijderen,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Cannot remove ID field,Kan ID-veld niet verwijderen,reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
-Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,Kan het type lading niet selecteren als 'On Vorige Row Bedrag ' of ' On Vorige Row Totaal ' voor de eerste rij,reviewed,erpnext,0.19,0.2,0.15,0.2,0.15,0.6,rewrite
+Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,Kan voor de eerste rij geen toeslagtype 'Op vorig rijbedrag' of 'Op vorig rijtotaal' selecteren,reviewed,erpnext,0.88,0.2,0.15,0.2,0.15,0.6,improved
 Cannot set as Lost as Sales Order is made.,"Kan niet als verloren instellen, omdat er al een verkooporder is gemaakt.",reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Cannot set authorization on basis of Discount for {0},Kan de autorisatie niet instellen op basis van korting voor {0},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Cannot set multiple Item Defaults for a company.,Kan niet meerdere item-standaardwaarden voor een bedrijf instellen.,reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
@@ -1667,34 +1667,34 @@ Cannot set Notification on Document Type {0},Kan melding niet instellen op docum
 Cannot set quantity less than delivered quantity,Kan hoeveelheid niet lager instellen dan geleverde hoeveelheid,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
 Cannot set quantity less than received quantity,Kan hoeveelheid niet lager instellen dan ontvangen hoeveelheid,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
 Cannot set the field <b>{0}</b> for copying in variants,Kan veld <b>{0}</b> niet instellen voor het kopiëren in varianten,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-"Cannot Submit, Employees left to mark attendance","Kan niet indienen, werknemers verlaten om aanwezigheid te markeren",reviewed,erpnext,0.21,0.2,0.15,0.25,0.2,0.8,rewrite
-Cannot transfer Employee with status Left,Kan werknemer niet overnemen met status links,reviewed,erpnext,0.22,0.2,0.15,0.3,0.2,0.8,rewrite
+"Cannot Submit, Employees left to mark attendance",Kan niet indienen: er zijn nog medewerkers zonder aanwezigheidsregistratie,reviewed,erpnext,0.9,0.2,0.15,0.25,0.2,0.8,improved
+Cannot transfer Employee with status Left,Kan medewerker met status Uitgetreden niet overplaatsen,reviewed,erpnext,0.9,0.2,0.15,0.3,0.2,0.8,improved
 Cannot update {0},Kan {0} niet updaten,reviewed,frappe,0.81,0.8,0.75,0.8,0.8,1.0,ok
-Cannot use sub-query in order by,Kan geen gebruik maken van sub-query in bestelling door,reviewed,frappe,0.21,0.2,0.15,0.3,0.15,0.8,rewrite
+Cannot use sub-query in order by,Subquery in ORDER BY is niet toegestaan,reviewed,frappe,0.91,0.2,0.15,0.3,0.15,0.8,improved
 Cannot {0} {1},Kan niet {0} {1},reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Cannot {0} {1} {2} without any negative outstanding invoice,Kan niet {0} {1} {2} zonder negatieve openstaande factuur,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Capacity,Capaciteit,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Capacity Planning,Capaciteit Planning,reviewed,erpnext,0.58,0.6,0.5,0.6,0.55,1.0,review
 "Capacity Planning Error, planned start time can not be same as end time","Capaciteitsplanningsfout, geplande starttijd kan niet hetzelfde zijn als eindtijd",reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
-Capacity Planning For (Days),Capacity Planning Voor (Dagen),reviewed,erpnext,0.29,0.3,0.2,0.3,0.25,0.8,rewrite
+Capacity Planning For (Days),Capaciteitsplanning voor (dagen),reviewed,erpnext,0.9,0.3,0.2,0.3,0.25,0.8,improved
 Capital Equipments,Kapitaalgoederen,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Capital Stock,Kapitaal Stock,reviewed,erpnext,0.31,0.3,0.25,0.3,0.3,0.8,rewrite
-Capital Work In Progress Account,Capital Work In Progress-account,reviewed,erpnext,0.19,0.2,0.15,0.2,0.2,0.7,rewrite
+Capital Stock,Aandelenkapitaal,reviewed,erpnext,0.91,0.3,0.25,0.3,0.3,0.8,improved
+Capital Work In Progress Account,Rekening onderhanden kapitaalwerken,reviewed,erpnext,0.86,0.2,0.15,0.2,0.2,0.7,improved
 Capitalization doesn't help very much.,Kapitalisatie helpt niet veel.,reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
 Card,Kaart,reviewed,frappe,0.82,0.8,0.75,0.8,0.85,1.0,ok
 Card Details,Kaart details,reviewed,frappe,0.61,0.6,0.55,0.65,0.6,1.0,review
 Card Label,Kaartlabel,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Cards,Kaarten,reviewed,both,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Cart,kar,reviewed,erpnext,0.21,0.2,0.15,0.2,0.25,0.8,rewrite
+Cart,Winkelwagen,reviewed,erpnext,0.92,0.2,0.15,0.2,0.25,0.8,improved
 Cart is Empty,Winkelwagen is leeg,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
-Case No(s) already in use. Try from Case No {0},Zaak nr. ( s ) al in gebruik. Probeer uit Zaak nr. {0},reviewed,erpnext,0.49,0.5,0.4,0.5,0.45,0.9,rewrite
+Case No(s) already in use. Try from Case No {0},Zaaknummer(s) al in gebruik. Probeer vanaf zaaknummer {0},reviewed,erpnext,0.9,0.5,0.4,0.5,0.45,0.9,improved
 Cash,Contant,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Cash Account will used for Sales Invoice creation,Geldrekening wordt gebruikt voor het maken van verkoopfacturen,reviewed,erpnext,0.72,0.75,0.65,0.7,0.7,1.0,review
 Cash Flow,Cashflow,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Cash Flow from Financing,De cashflow uit financiële activiteiten,reviewed,erpnext,0.68,0.7,0.6,0.7,0.65,1.0,review
 Cash Flow from Investing,De cashflow uit investeringsactiviteiten,reviewed,erpnext,0.68,0.7,0.6,0.7,0.65,1.0,review
 Cash Flow from Operations,De cashflow uit bedrijfsoperaties,reviewed,erpnext,0.68,0.7,0.6,0.7,0.65,1.0,review
-Cash Flow Mapping Template Details,Cash Flow Mapping Template-details,reviewed,erpnext,0.3,0.3,0.25,0.3,0.3,0.7,rewrite
+Cash Flow Mapping Template Details,Details kasstroomkoppelingssjabloon,reviewed,erpnext,0.85,0.3,0.25,0.3,0.3,0.7,improved
 Cash Flow Statement,Kasstroomoverzicht,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Cash In Hand,Contanten in de hand,reviewed,erpnext,0.39,0.4,0.35,0.4,0.4,0.9,rewrite
 Cash or Bank Account is mandatory for making payment entry,Kas- of Bankrekening is verplicht om een  betaling aan te maken,reviewed,erpnext,0.72,0.75,0.65,0.7,0.7,1.0,review

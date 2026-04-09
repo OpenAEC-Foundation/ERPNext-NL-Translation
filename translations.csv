@@ -14775,308 +14775,308 @@ Failed to send email!,E-mail verzenden is mislukt!,reviewed,crm,0.84,0.85,0.8,0.
 Failed to update Twilio call status,Bijwerken Twilio oproepstatus mislukt,reviewed,crm,0.78,0.8,0.7,0.75,0.85,0.9,review
 Failed to update attending status,Bijwerken van deelnamestatus is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Failed to update source,Bijwerken van bron mislukt,reviewed,crm,0.84,0.85,0.8,0.8,0.9,1.0,ok
-Failed to update template,Bijwerken van sjabloon is mislukt,reviewed,crm,,,,,,,
-Failure Logs,Foutenlogboek,reviewed,crm,,,,,,,
-Fields Order,Veldvolgorde,reviewed,crm,,,,,,,
-"File ""{0}"" was skipped because of invalid file type","Bestand ""{0}"" is overgeslagen vanwege een ongeldig bestandstype",reviewed,crm,,,,,,,
-"File ""{0}"" was skipped because only {1} uploads are allowed","Bestand ""{0}"" is overgeslagen omdat slechts {1} uploads zijn toegestaan",reviewed,crm,,,,,,,
-"File ""{0}"" was skipped because only {1} uploads are allowed for DocType ""{2}""","Bestand ""{0}"" werd overgeslagen omdat alleen {1} uploads toegestaan zijn voor DocType ""{2}""",reviewed,crm,,,,,,,
-First Name is mandatory,Voornaam is verplicht,reviewed,crm,,,,,,,
-First Response Due,Eerste reactie vervaldatum,reviewed,crm,,,,,,,
-First Response TIme,Eerste reactietijd,reviewed,crm,,,,,,,
-First name,Voornaam,reviewed,crm,,,,,,,
-"For all-day events, <b>set a time</b> to send reminders before the event starts","Voor evenementen die de hele dag duren, <b>stel een tijd in</b> om herinneringen te versturen voor het evenement begint",reviewed,crm,,,,,,,
-Forecasted Revenue,Verwachte omzet,reviewed,crm,,,,,,,
-Forecasted revenue,Verwachte omzet,reviewed,crm,,,,,,,
-Forecasting,Prognoses,reviewed,crm,,,,,,,
-Forecasting disabled successfully,Voorspelling succesvol uitgeschakeld,reviewed,crm,,,,,,,
-Forecasting enabled successfully,Prognose succesvol ingeschakeld,reviewed,crm,,,,,,,
-Form,Formulier,reviewed,crm,,,,,,,
-Form Name,Formuliernaam,reviewed,crm,,,,,,,
-Form Script updated successfully,Formulier Script succesvol bijgewerkt,reviewed,crm,,,,,,,
-Frappe CRM mobile,Frappe CRM mobiel,reviewed,crm,,,,,,,
-Frappe Mail Site,Frappe Mail Site,reviewed,crm,,,,,,,
-From Type,Afzendertype,reviewed,crm,,,,,,,
-Funnel Conversion,Funnelconversie,reviewed,crm,,,,,,,
-Funnel conversion,Funnelconversie,reviewed,crm,,,,,,,
-Geographic distribution of deals and revenue,Geografische verdeling van deals en omzet,reviewed,crm,,,,,,,
-GitHub Repository,GitHub Repository,reviewed,crm,,,,,,,
-Go to Invite Page,Ga naar uitnodigingspagina,reviewed,crm,,,,,,,
-Go to Website,Ga naar website,reviewed,crm,,,,,,,
-Going?,Aanwezig?,reviewed,crm,,,,,,,
-Grid Row,Rasterrij,reviewed,crm,,,,,,,
-Group By Field,Groepeer op veld,reviewed,crm,,,,,,,
-Group By: ,Groepeer op: ,reviewed,crm,,,,,,,
-Hang Up,Ophangen,reviewed,crm,,,,,,,
-Hello,Hallo,reviewed,crm,,,,,,,
+Failed to update template,Bijwerken van sjabloon is mislukt,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Failure Logs,Foutenlogboek,reviewed,crm,0.77,0.7,0.75,0.8,0.9,0.95,review
+Fields Order,Veldvolgorde,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+"File ""{0}"" was skipped because of invalid file type","Bestand ""{0}"" is overgeslagen vanwege een ongeldig bestandstype",reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+"File ""{0}"" was skipped because only {1} uploads are allowed","Bestand ""{0}"" is overgeslagen omdat slechts {1} uploads zijn toegestaan",reviewed,crm,0.86,0.85,0.8,0.85,0.9,0.95,ok
+"File ""{0}"" was skipped because only {1} uploads are allowed for DocType ""{2}""","Bestand ""{0}"" werd overgeslagen omdat alleen {1} uploads toegestaan zijn voor DocType ""{2}""",reviewed,crm,0.76,0.75,0.7,0.75,0.8,0.95,review
+First Name is mandatory,Voornaam is verplicht,reviewed,crm,0.91,0.9,0.9,0.9,0.9,0.95,ok
+First Response Due,Eerste reactie vervaldatum,reviewed,crm,0.68,0.65,0.6,0.7,0.75,0.9,review
+First Response TIme,Eerste reactietijd,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+First name,Voornaam,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
+"For all-day events, <b>set a time</b> to send reminders before the event starts","Voor evenementen die de hele dag duren, <b>stel een tijd in</b> om herinneringen te versturen voor het evenement begint",reviewed,crm,0.74,0.75,0.65,0.75,0.7,0.9,review
+Forecasted Revenue,Verwachte omzet,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Forecasted revenue,Verwachte omzet,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Forecasting,Prognoses,reviewed,crm,0.85,0.8,0.85,0.85,0.9,0.95,ok
+Forecasting disabled successfully,Voorspelling succesvol uitgeschakeld,reviewed,crm,0.72,0.7,0.7,0.65,0.85,0.95,review
+Forecasting enabled successfully,Prognose succesvol ingeschakeld,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Form,Formulier,reviewed,crm,0.9,0.85,0.9,0.9,0.95,0.95,ok
+Form Name,Formuliernaam,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Form Script updated successfully,Formulier Script succesvol bijgewerkt,reviewed,crm,0.71,0.7,0.65,0.7,0.75,0.9,review
+Frappe CRM mobile,Frappe CRM mobiel,reviewed,crm,0.83,0.8,0.8,0.85,0.9,0.95,ok
+Frappe Mail Site,Frappe Mail Site,reviewed,crm,0.89,0.85,0.85,0.9,0.9,1.0,ok
+From Type,Afzendertype,reviewed,crm,0.82,0.8,0.8,0.8,0.85,0.95,ok
+Funnel Conversion,Funnelconversie,reviewed,crm,0.81,0.8,0.75,0.8,0.85,0.95,ok
+Funnel conversion,Funnelconversie,reviewed,crm,0.81,0.8,0.75,0.8,0.85,0.95,ok
+Geographic distribution of deals and revenue,Geografische verdeling van deals en omzet,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+GitHub Repository,GitHub Repository,reviewed,crm,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Go to Invite Page,Ga naar uitnodigingspagina,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Go to Website,Ga naar website,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Going?,Aanwezig?,reviewed,crm,0.82,0.8,0.8,0.8,0.85,0.95,ok
+Grid Row,Rasterrij,reviewed,crm,0.81,0.8,0.75,0.8,0.85,0.95,ok
+Group By Field,Groepeer op veld,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Group By: ,Groepeer op: ,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Hang Up,Ophangen,reviewed,crm,0.77,0.75,0.7,0.75,0.85,0.95,review
+Hello,Hallo,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
 "Hi John, \
 \
 Can you please provide more details on this...","Hallo John, \
 \
-Kunt u alstublieft meer details hierover geven...",reviewed,crm,,,,,,,
-Hide Label,Label verbergen,reviewed,crm,,,,,,,
-Hide Password,Verberg wachtwoord,reviewed,crm,,,,,,,
-Hide Preview,Voorbeeld verbergen,reviewed,crm,,,,,,,
-Hide Recording,Verberg opname,reviewed,crm,,,,,,,
-Home Actions,Startpagina-acties,reviewed,crm,,,,,,,
-"I understand, Add Conditions","Ik begrijp het, Voorwaarden toevoegen",reviewed,crm,,,,,,,
-"If enabled, a lead will be automatically created when an incoming email is received from an unknown contact.","Indien ingeschakeld, wordt automatisch een Lead aangemaakt wanneer een inkomende e-mail wordt ontvangen van een onbekend contact.",reviewed,crm,,,,,,,
-"If enabled, all outgoing emails will be sent from this account. Note: Only one account can be default outgoing.","Indien ingeschakeld, worden alle uitgaande e-mails verzonden vanuit dit account. Opmerking: slechts een account kan het standaard uitgaande account zijn.",reviewed,crm,,,,,,,
-"If enabled, all replies to your company (eg: replies@yourcompany.com) will come to this account. Note: Only one account can be default incoming.","Indien ingeschakeld, komen alle antwoorden aan uw bedrijf (bijv: replies@uwbedrijf.com) naar dit account. Opmerking: slechts een account kan het standaard inkomende account zijn.",reviewed,crm,,,,,,,
-"If enabled, emails will be pulled from this account.","Indien ingeschakeld, worden e-mails opgehaald uit dit account.",reviewed,crm,,,,,,,
-"If enabled, outgoing emails can be sent from this account.","Indien ingeschakeld, kunnen uitgaande e-mails vanaf deze account worden verzonden.",reviewed,crm,,,,,,,
-In less than a minute,Minder dan een minuut geleden,reviewed,crm,,,,,,,
-Inbound Call,Binnenkomend gesprek,reviewed,crm,,,,,,,
-Incoming call...,Inkomende oproep...,reviewed,crm,,,,,,,
-Industries,Sectoren,reviewed,crm,,,,,,,
-Initiating call...,Gesprek wordt gestart...,reviewed,crm,,,,,,,
-Insert Email Template,E-mailsjabloon invoegen,reviewed,crm,,,,,,,
-Integration,Integratie,reviewed,crm,,,,,,,
-Integration Not Enabled,Integratie niet ingeschakeld,reviewed,crm,,,,,,,
-Invalid Email Address,Ongeldig e-mailadres,reviewed,crm,,,,,,,
-Invalid Email or Password,Ongeldig e-mailadres of wachtwoord,reviewed,crm,,,,,,,
-Invalid Exotel Number,Ongeldig Exotel Nummer,reviewed,crm,,,,,,,
-Invalid Start Or End Time,Ongeldige start- of eindtijd,reviewed,crm,,,,,,,
-Invalid Twilio account,Ongeldig Twilio-account,reviewed,crm,,,,,,,
-Invalid Twilio application,Ongeldige Twilio-applicatie,reviewed,crm,,,,,,,
-Invalid Website URL,Ongeldige website-URL,reviewed,crm,,,,,,,
-Invalid access token provided for Facebook.,Ongeldig toegangstoken opgegeven voor Facebook.,reviewed,crm,,,,,,,
-Invalid chart name,Ongeldige grafiektitel,reviewed,crm,,,,,,,
-Invalid email ID,Ongeldig e-mailadres,reviewed,crm,,,,,,,
-Invalid email address,Ongeldig e-mailadres,reviewed,crm,,,,,,,
-Invalid field,Ongeldig veld,reviewed,crm,,,,,,,
-"Invalid fields, check if all are filled in and values are correct.","Ongeldige velden, controleer of alle velden zijn ingevuld en de waarden correct zijn.",reviewed,crm,,,,,,,
-Invalid fields: {0},Ongeldige velden: {0},reviewed,crm,,,,,,,
-Invalid lead details supplied.,Ongeldige Lead-gegevens opgegeven.,reviewed,crm,,,,,,,
-Invalid or expired key,Ongeldige of verlopen sleutel,reviewed,crm,,,,,,,
-Invalid page or not permitted to access,Ongeldige pagina of niet toegestaan om te openen,reviewed,crm,,,,,,,
-Invitations sent successfully,Uitnodigingen succesvol verzonden,reviewed,crm,,,,,,,
-Invite Agent,Medewerker uitnodigen,reviewed,crm,,,,,,,
-Invite As,Uitnodigen als,reviewed,crm,,,,,,,
-Invite By Email,Uitnodigen via e-mail,reviewed,crm,,,,,,,
-Invite New User,Nodig nieuwe gebruiker uit,reviewed,crm,,,,,,,
-Invite User,Gebruiker uitnodigen,reviewed,crm,,,,,,,
-Invite Users,Gebruikers uitnodigen,reviewed,crm,,,,,,,
-Invite users to access CRM. Specify their roles to control access and permissions,Nodig gebruikers uit voor toegang tot CRM. Specificeer hun rollen om de toegang en rechten te beheren,reviewed,crm,,,,,,,
-Invite your team,Nodig uw team uit,reviewed,crm,,,,,,,
-Invited By,Uitgenodigd door,reviewed,crm,,,,,,,
-Is ERPNext installed on a different site?,Is ERPNext op een andere locatie geïnstalleerd?,reviewed,crm,,,,,,,
-It appears that there are currently no {0} available. You can create more {0} by using the Create button.,Er zijn momenteel geen {0} beschikbaar. U kunt meer {0} aanmaken via de knop Aanmaken.,reviewed,crm,,,,,,,
-"It will make deal's ""Expected Closure Date"" & ""Expected Deal Value"" mandatory to get accurate forecasting insights","De ""Verwachte sluitingsdatum"" en ""Verwachte transactiewaarde"" van de deal worden verplicht om nauwkeurige voorspellingsinzichten te krijgen",reviewed,crm,,,,,,,
-Items are required,Items zijn verplicht,reviewed,crm,,,,,,,
-Items must be a list,Items moeten een lijst zijn,reviewed,crm,,,,,,,
-"John, Jane, Doe","Jan, Marie, De Vries",reviewed,crm,,,,,,,
-Kanban Columns,Kanban-kolommen,reviewed,crm,,,,,,,
-Kanban Fields,Kanban-velden,reviewed,crm,,,,,,,
-Kanban Settings,Kanban-instellingen,reviewed,crm,,,,,,,
-Kanban settings,Kanban-instellingen,reviewed,crm,,,,,,,
-Language & Time,Taal en tijd,reviewed,crm,,,,,,,
-Last 30 Days,Afgelopen 30 dagen,reviewed,crm,,,,,,,
-Last 6 Months,Afgelopen 6 maanden,reviewed,crm,,,,,,,
-Last 60 Days,Afgelopen 60 dagen,reviewed,crm,,,,,,,
-Last 7 Days,Afgelopen 7 dagen,reviewed,crm,,,,,,,
-Last 90 Days,Afgelopen 90 dagen,reviewed,crm,,,,,,,
-Last Responded On,Laatst gereageerd op,reviewed,crm,,,,,,,
-Last Response Time,Laatste reactietijd,reviewed,crm,,,,,,,
-Last Status Change Log,Laatste statuswijzigingslog,reviewed,crm,,,,,,,
-Last Synced At,Laatst gesynchroniseerd op,reviewed,crm,,,,,,,
-Last name,Achternaam,reviewed,crm,,,,,,,
-Last user assigned by this rule,Laatste gebruiker toegewezen door deze regel,reviewed,crm,,,,,,,
-Lead Data,Lead-gegevens,reviewed,crm,,,,,,,
-Lead Owner cannot be same as the Lead Email Address,De Lead-eigenaar mag niet hetzelfde zijn als het e-mailadres van de Lead,reviewed,crm,,,,,,,
-Lead Sources,Lead-bronnen,reviewed,crm,,,,,,,
-Lead Statuses,Lead-statussen,reviewed,crm,,,,,,,
-Lead Sync Source,Lead Sync-bron,reviewed,crm,,,,,,,
-Lead Sync Source created successfully,Lead Sync-bron succesvol aangemaakt,reviewed,crm,,,,,,,
-Lead Syncing,Lead-synchronisatie,reviewed,crm,,,,,,,
-Lead from call {0},Lead vanuit gesprek {0},reviewed,crm,,,,,,,
-Lead generation channel analysis,Lead-generatiekanaalanalyse,reviewed,crm,,,,,,,
-Lead sync initiated.,Lead-synchronisatie is gestart.,reviewed,crm,,,,,,,
-Lead sync source deleted successfully,Lead Sync-bron succesvol verwijderd,reviewed,crm,,,,,,,
-Lead to deal conversion pipeline,Lead-naar-deal-conversiepipeline,reviewed,crm,,,,,,,
-Leads by Source,Leads per bron,reviewed,crm,,,,,,,
-Leads by source,Leads per bron,reviewed,crm,,,,,,,
-Learn about conditions,Meer informatie over voorwaarden,reviewed,crm,,,,,,,
-Library,Bibliotheek,reviewed,crm,,,,,,,
-Light,Licht,reviewed,crm,,,,,,,
-Listen,Luisteren,reviewed,crm,,,,,,,
-Load Default Columns,Standaardkolommen laden,reviewed,crm,,,,,,,
-Log a Call,Gesprek vastleggen,reviewed,crm,,,,,,,
-Login to Frappe Cloud?,Inloggen bij Frappe Cloud?,reviewed,crm,,,,,,,
-Login with Different Account,Inloggen met een ander account,reviewed,crm,,,,,,,
-Lost Deal Reasons,Redenen voor verloren Deal,reviewed,crm,,,,,,,
-Lost Details,Details verloren,reviewed,crm,,,,,,,
-Lost Notes,Notities bij verlies,reviewed,crm,,,,,,,
-"Lost Notes are required when Lost Reason is ""Other""","Notities bij verlies zijn verplicht wanneer de reden voor verlies ""Overig"" is",reviewed,crm,,,,,,,
-Lost Reason is required,Reden voor verlies is verplicht,reviewed,crm,,,,,,,
-Lost deal reasons,Redenen voor verloren deal,reviewed,crm,,,,,,,
-Make Call,Gesprek starten,reviewed,crm,,,,,,,
-Make Private,Privé maken,reviewed,crm,,,,,,,
-Make Public,Openbaar maken,reviewed,crm,,,,,,,
-Make a Call,Een gesprek starten,reviewed,crm,,,,,,,
-Make attachment {0},Bijlage {0} maken,reviewed,crm,,,,,,,
-Make {0} as default calling medium,Stel {0} in als standaard gespreksmedium,reviewed,crm,,,,,,,
-"Makes ""Expected Closure Date"" and ""Expected Deal Value"" mandatory for deal value forecasting","Maakt ""Verwachte sluitingsdatum"" en ""Verwachte transactiewaarde"" verplicht voor het voorspellen van de transactiewaarde",reviewed,crm,,,,,,,
-"Manage CRM users by adding or inviting them, and assign roles to control their access and permissions","Beheer CRM-gebruikers door ze toe te voegen of uit te nodigen, en wijs rollen toe om hun toegang en rechten te beheren",reviewed,crm,,,,,,,
-Manage your account emails and email signature for communication.,Beheer uw account-e-mails en e-mailhandtekening voor communicatie.,reviewed,crm,,,,,,,
-Manage your email accounts to send and receive emails directly from CRM. You can add multiple accounts and set one as default for incoming and outgoing emails.,Beheer uw e-mailaccounts om direct e-mails te verzenden en ontvangen vanuit CRM. U kunt meerdere accounts toevoegen en één als standaard instellen voor inkomende en uitgaande e-mails.,reviewed,crm,,,,,,,
-Manage your email signature,Beheer uw e-mailhandtekening,reviewed,crm,,,,,,,
-Manage your profile & login information.,Beheer uw profielgegevens en inloggegevens.,reviewed,crm,,,,,,,
-Manage your service level agreement policies,Beheer uw serviceniveauovereenkomstbeleid,reviewed,crm,,,,,,,
-Mandatory field error: {0},Fout verplicht veld: {0},reviewed,crm,,,,,,,
-Mandatory field(s) {0} must be mapped,Verplicht(e) veld(en) {0} moet(en) worden gekoppeld,reviewed,crm,,,,,,,
-Mandatory fields required: {0},Verplichte velden ontbreken: {0},reviewed,crm,,,,,,,
-Mapped to CRM Field,Gekoppeld aan CRM-veld,reviewed,crm,,,,,,,
-Mark all as read,Alles als gelezen markeren,reviewed,crm,,,,,,,
-Mark lead/deal as replied on response,Lead/Deal als beantwoord markeren bij reactie,reviewed,crm,,,,,,,
-"May 1, 2025",1 mei 2025,reviewed,crm,,,,,,,
-Maybe,Misschien,reviewed,crm,,,,,,,
-Medium,Gemiddeld,reviewed,crm,,,,,,,
-Minimize,Minimaliseren,reviewed,crm,,,,,,,
-Missed Call,Gemiste oproep,reviewed,crm,,,,,,,
-Missing mandatory fields: {0},Verplichte velden ontbreken: {0},reviewed,crm,,,,,,,
-Mobile App Installation,Mobiele app installeren,reviewed,crm,,,,,,,
-Mobile No. should be a number,Mobiel nummer moet een getal zijn,reviewed,crm,,,,,,,
-Mobile Number Missing,Mobiel nummer ontbreekt,reviewed,crm,,,,,,,
-More Options,Meer opties,reviewed,crm,,,,,,,
-Move to Next Section,Naar volgende sectie,reviewed,crm,,,,,,,
-Move to Next Tab,Naar volgende tab,reviewed,crm,,,,,,,
-Move to Previous Section,Naar vorige sectie,reviewed,crm,,,,,,,
-Move to Previous Tab,Naar vorige tab,reviewed,crm,,,,,,,
-My Open Deals,Mijn open deals,reviewed,crm,,,,,,,
-Name is required,Naam is verplicht,reviewed,crm,,,,,,,
-Nested Conditions,Geneste voorwaarden,reviewed,crm,,,,,,,
-New Assignment Rule,Nieuwe toewijzingsregel,reviewed,crm,,,,,,,
-New Assignment Rule Name,Naam nieuwe toewijzingsregel,reviewed,crm,,,,,,,
-New Comment,Nieuwe opmerking,reviewed,crm,,,,,,,
-New Lead Sync Source,Nieuwe Lead Sync-bron,reviewed,crm,,,,,,,
-New Message,Nieuw bericht,reviewed,crm,,,,,,,
-New Note,Nieuwe notitie,reviewed,crm,,,,,,,
-New Organization,Nieuwe organisatie,reviewed,crm,,,,,,,
-New SLA Policy,Nieuw SLA-beleid,reviewed,crm,,,,,,,
-New SLA Policy Name,Naam nieuw SLA-beleid,reviewed,crm,,,,,,,
-New Section,Nieuwe sectie,reviewed,crm,,,,,,,
-New Tab,Nieuwe tab,reviewed,crm,,,,,,,
-New Task,Nieuwe taak,reviewed,crm,,,,,,,
-New Template,Nieuwe Template,reviewed,crm,,,,,,,
-New contact will be created based on the person's details,Er wordt een nieuw contact aangemaakt op basis van de gegevens van de persoon,reviewed,crm,,,,,,,
-New organization will be created based on the data in details section,Er wordt een nieuwe organisatie aangemaakt op basis van de gegevens in het detailgedeelte,reviewed,crm,,,,,,,
-Next 6 Months,Volgende 6 maanden,reviewed,crm,,,,,,,
-Next Month,Volgende maand,reviewed,crm,,,,,,,
-Next Quarter,Volgend kwartaal,reviewed,crm,,,,,,,
-Next Step,Volgende stap,reviewed,crm,,,,,,,
-Next Week,Volgende week,reviewed,crm,,,,,,,
-Next Year,Volgend jaar,reviewed,crm,,,,,,,
-No Answer,Geen antwoord,reviewed,crm,,,,,,,
-No Contacts Added,Geen contacten toegevoegd,reviewed,crm,,,,,,,
-No Details Added,Geen details toegevoegd,reviewed,crm,,,,,,,
-No Events Scheduled,Geen evenementen gepland,reviewed,crm,,,,,,,
-No Failure Logs Found,Geen foutlogboeken gevonden,reviewed,crm,,,,,,,
-No Mobile Number Set,Geen mobiel nummer ingesteld,reviewed,crm,,,,,,,
-No New Notifications,Geen nieuwe meldingen,reviewed,crm,,,,,,,
-No Primary Contact Set,Geen primair contact ingesteld,reviewed,crm,,,,,,,
-No Priorities in the list,Geen prioriteiten in de lijst,reviewed,crm,,,,,,,
-No Results Found,Geen resultaten gevonden,reviewed,crm,,,,,,,
-No Templates Found,Geen Templates gevonden,reviewed,crm,,,,,,,
-No Title,Geen Titel,reviewed,crm,,,,,,,
-No Users Found,Geen gebruikers gevonden,reviewed,crm,,,,,,,
-No Website Found,Geen website gevonden,reviewed,crm,,,,,,,
-No Workdays in the List,Geen werkdagen in de lijst,reviewed,crm,,,,,,,
-No changes made,Geen wijzigingen aangebracht,reviewed,crm,,,,,,,
-No events coming up. Create a new one to keep things on track.,Geen komende evenementen. Maak een nieuw evenement aan om alles op schema te houden.,reviewed,crm,,,,,,,
-No holiday list found,Geen verloflijst gevonden,reviewed,crm,,,,,,,
-No {0} Found,Geen {0} Gevonden,reviewed,crm,,,,,,,
-No {0} available,Geen {0} beschikbaar,reviewed,crm,,,,,,,
-No.,Nr.,reviewed,crm,,,,,,,
-No. of Employees,Aantal werknemers,reviewed,crm,,,,,,,
-Not Synced,Niet gesynchroniseerd,reviewed,crm,,,,,,,
-Not allowed to add contact to Deal,Niet toegestaan om een contact toe te voegen aan een Deal,reviewed,crm,,,,,,,
-Not allowed to convert Lead to Deal,Niet toegestaan om Lead om te zetten naar Deal,reviewed,crm,,,,,,,
-Not allowed to remove contact from Deal,Niet toegestaan om een contact van een Deal te verwijderen,reviewed,crm,,,,,,,
-Not allowed to set primary contact for Deal,Niet toegestaan om het primaire contact voor een Deal in te stellen,reviewed,crm,,,,,,,
-Not equals,Niet gelijk aan,reviewed,crm,,,,,,,
-Not implemented yet!,Nog niet geïmplementeerd!,reviewed,crm,,,,,,,
-Not in,Niet in,reviewed,crm,,,,,,,
-Not like,Niet zoals,reviewed,crm,,,,,,,
-Not permitted to access reference document {0} {1}.,Geen toegang tot referentiedocument {0} {1}.,reviewed,crm,,,,,,,
-Not permitted to access the referenced WhatsApp message.,Geen toegang tot het gekoppelde WhatsApp-bericht.,reviewed,crm,,,,,,,
-Note deleted,Notitie verwijderd,reviewed,crm,,,,,,,
-Notes View,Notitiesoverzicht,reviewed,crm,,,,,,,
-Notification Text,Meldingstekst,reviewed,crm,,,,,,,
-Notification Type Doc,Meldingstype Doc,reviewed,crm,,,,,,,
-Notification Type Doctype,Meldingstype Doctype,reviewed,crm,,,,,,,
-Number Chart,Nummergrafiek,reviewed,crm,,,,,,,
-Number of deals,Aantal deals,reviewed,crm,,,,,,,
-Number of deals and total value per salesperson,Aantal deals en totale waarde per verkoper,reviewed,crm,,,,,,,
-Old Condition,Oude conditie,reviewed,crm,,,,,,,
-Old Conditions,Oude condities,reviewed,crm,,,,,,,
-Ongoing Deals,Lopende deals,reviewed,crm,,,,,,,
-Ongoing deals,Lopende deals,reviewed,crm,,,,,,,
-Only System Managers can assign the Sales Manager role,Alleen System Managers kunnen de Sales Manager rol toewijzen,reviewed,crm,,,,,,,
-Only System Managers can assign the System Manager role,Alleen System Managers kunnen de System Manager rol toewijzen,reviewed,crm,,,,,,,
-Only System Managers can modify other System Managers,Alleen System Managers kunnen andere System Managers wijzigen,reviewed,crm,,,,,,,
-Only image files are allowed,Alleen afbeeldingsbestanden zijn toegestaan,reviewed,crm,,,,,,,
-Only sales users can access WhatsApp features.,Alleen verkoopgebruikers hebben toegang tot WhatsApp-functies.,reviewed,crm,,,,,,,
-Open Lead,Open Lead,reviewed,crm,,,,,,,
-Open Nested Conditions,Geneste condities openen,reviewed,crm,,,,,,,
-Open Website,Website openen,reviewed,crm,,,,,,,
-Open in Portal,Openen in portal,reviewed,crm,,,,,,,
-Open in new window,Openen in nieuw venster,reviewed,crm,,,,,,,
-Or create leads manually,Of maak leads handmatig aan,reviewed,crm,,,,,,,
-Organization Details,Organisatiegegevens,reviewed,crm,,,,,,,
-Organization Logo,Organisatielogo,reviewed,crm,,,,,,,
-Organization is required to create a customer,Een organisatie is verplicht om een klant aan te maken,reviewed,crm,,,,,,,
-Organizations,Organisaties,reviewed,crm,,,,,,,
-Organizer,Organisator,reviewed,crm,,,,,,,
-Other Features,Overige functies,reviewed,crm,,,,,,,
-Others,Anderen,reviewed,crm,,,,,,,
-Outbound Call,Uitgaande oproep,reviewed,crm,,,,,,,
-Owner: {0},Eigenaar: {0},reviewed,crm,,,,,,,
-Page Name,Paginanaam,reviewed,crm,,,,,,,
-Parent CRM Territory,Bovenliggend CRM-gebied,reviewed,crm,,,,,,,
-Password cannot be reset by Demo User {},Het wachtwoord kan niet worden gereset door de demogebruiker {},reviewed,crm,,,,,,,
-Password is required,Wachtwoord is verplicht,reviewed,crm,,,,,,,
-Password must be at least 8 characters,Het wachtwoord moet minimaal 8 tekens bevatten,reviewed,crm,,,,,,,
-"Password must contain lowercase, uppercase, number, and symbol","Het wachtwoord moet kleine letters, hoofdletters, cijfers en symbolen bevatten",reviewed,crm,,,,,,,
-Password updated successfully,Wachtwoord succesvol bijgewerkt,reviewed,crm,,,,,,,
-Passwords do not match,De wachtwoorden komen niet overeen,reviewed,crm,,,,,,,
-Passwords match,De wachtwoorden komen overeen,reviewed,crm,,,,,,,
-Payment Reminder,Betalingsherinnering,reviewed,crm,,,,,,,
-Payment Reminder from Frappé - (#{{ name }}),Betalingsherinnering van Frappé - (#{{ name }}),reviewed,crm,,,,,,,
-Payment reminder from Frappé - (#{{ name }}),Betalingsherinnering van Frappé - (#{{ name }}),reviewed,crm,,,,,,,
-Pending Invites,Openstaande uitnodigingen,reviewed,crm,,,,,,,
-Person,Persoon,reviewed,crm,,,,,,,
-Personal Mobile No.,Persoonlijk mobiel nr.,reviewed,crm,,,,,,,
-Phone Numbers,Telefoonnummers,reviewed,crm,,,,,,,
-Pin View,Weergave vastzetten,reviewed,crm,,,,,,,
-Pinned,Vastgezet,reviewed,crm,,,,,,,
-Pinned View,Vastgezette weergave,reviewed,crm,,,,,,,
-Pinned Views,Vastgepinde weergaven,reviewed,crm,,,,,,,
-Playback Speed,Afspeelsnelheid,reviewed,crm,,,,,,,
-Please check your access token,Controleer uw toegangstoken,reviewed,crm,,,,,,,
-Please enable twilio settings before making a call.,Activeer de twilio-instellingen voordat u een gesprek start.,reviewed,crm,,,,,,,
-Please enter a valid URL,Voer een geldige URL in,reviewed,crm,,,,,,,
-Please fix the errors in the form,Los de fouten in het formulier op,reviewed,crm,,,,,,,
-Please select a Priority,Selecteer een prioriteit,reviewed,crm,,,,,,,
-Please select a currency before saving.,Selecteer een valuta voordat u opslaat.,reviewed,crm,,,,,,,
-Please select a lead gen form before syncing!,Selecteer een lead gen-formulier voordat u gaat synchroniseren!,reviewed,crm,,,,,,,
-Please select an existing contact,Selecteer een bestaand contactpersoon,reviewed,crm,,,,,,,
-Please select an existing organization,Selecteer een bestaande organisatie,reviewed,crm,,,,,,,
-Please set a mobile number to make calls,Stel een mobiel nummer in om te bellen,reviewed,crm,,,,,,,
-Please set a website to visit,Stel een website in om te bezoeken,reviewed,crm,,,,,,,
-Please set an email address to send emails,Stel een e-mailadres in om e-mails te versturen,reviewed,crm,,,,,,,
-Please setup Exotel intergration,Stel de Exotel-integratie in,reviewed,crm,,,,,,,
-Please specify a reason for losing the deal.,Geef een reden op voor het verliezen van de deal.,reviewed,crm,,,,,,,
-Please specify a reason for losing the lead.,Geef een reden op voor het verliezen van de lead.,reviewed,crm,,,,,,,
-Please specify the reason for losing the deal.,Geef de reden op voor het verliezen van de deal.,reviewed,crm,,,,,,,
-Please specify the reason for losing the lead.,Geef de reden op voor het verliezen van de lead.,reviewed,crm,,,,,,,
-Policy Name,Beleidsnaam,reviewed,crm,,,,,,,
-Preferences,Voorkeuren,reviewed,crm,,,,,,,
-Preferences Updated Successfully,Voorkeuren succesvol bijgewerkt,reviewed,crm,,,,,,,
-Primary Contact Set,Primaire Contact ingesteld,reviewed,crm,,,,,,,
-Primary email,Primair e-mailadres,reviewed,crm,,,,,,,
-Primary mobile no,Primair mobiel nummer,reviewed,crm,,,,,,,
-Primary phone,Primair telefoonnummer,reviewed,crm,,,,,,,
+Kunt u alstublieft meer details hierover geven...",reviewed,crm,0.76,0.75,0.7,0.75,0.8,0.9,review
+Hide Label,Label verbergen,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Hide Password,Verberg wachtwoord,reviewed,crm,0.77,0.75,0.7,0.75,0.85,0.95,review
+Hide Preview,Voorbeeld verbergen,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Hide Recording,Verberg opname,reviewed,crm,0.77,0.75,0.7,0.75,0.85,0.95,review
+Home Actions,Startpagina-acties,reviewed,crm,0.81,0.8,0.75,0.8,0.85,0.95,ok
+"I understand, Add Conditions","Ik begrijp het, Voorwaarden toevoegen",reviewed,crm,0.71,0.7,0.65,0.7,0.75,0.9,review
+"If enabled, a lead will be automatically created when an incoming email is received from an unknown contact.","Indien ingeschakeld, wordt automatisch een Lead aangemaakt wanneer een inkomende e-mail wordt ontvangen van een onbekend contact.",reviewed,crm,0.84,0.85,0.8,0.8,0.85,0.95,ok
+"If enabled, all outgoing emails will be sent from this account. Note: Only one account can be default outgoing.","Indien ingeschakeld, worden alle uitgaande e-mails verzonden vanuit dit account. Opmerking: slechts een account kan het standaard uitgaande account zijn.",reviewed,crm,0.81,0.8,0.75,0.8,0.85,0.95,ok
+"If enabled, all replies to your company (eg: replies@yourcompany.com) will come to this account. Note: Only one account can be default incoming.","Indien ingeschakeld, komen alle antwoorden aan uw bedrijf (bijv: replies@uwbedrijf.com) naar dit account. Opmerking: slechts een account kan het standaard inkomende account zijn.",reviewed,crm,0.81,0.8,0.75,0.8,0.85,0.95,ok
+"If enabled, emails will be pulled from this account.","Indien ingeschakeld, worden e-mails opgehaald uit dit account.",reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+"If enabled, outgoing emails can be sent from this account.","Indien ingeschakeld, kunnen uitgaande e-mails vanaf deze account worden verzonden.",reviewed,crm,0.76,0.75,0.7,0.75,0.8,0.9,review
+In less than a minute,Minder dan een minuut geleden,reviewed,crm,0.71,0.7,0.65,0.7,0.75,0.9,review
+Inbound Call,Binnenkomend gesprek,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Incoming call...,Inkomende oproep...,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Industries,Sectoren,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Initiating call...,Gesprek wordt gestart...,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Insert Email Template,E-mailsjabloon invoegen,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Integration,Integratie,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Integration Not Enabled,Integratie niet ingeschakeld,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invalid Email Address,Ongeldig e-mailadres,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Invalid Email or Password,Ongeldig e-mailadres of wachtwoord,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Invalid Exotel Number,Ongeldig Exotel Nummer,reviewed,crm,0.72,0.7,0.65,0.7,0.75,0.9,review
+Invalid Start Or End Time,Ongeldige start- of eindtijd,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invalid Twilio account,Ongeldig Twilio-account,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invalid Twilio application,Ongeldige Twilio-applicatie,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invalid Website URL,Ongeldige website-URL,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invalid access token provided for Facebook.,Ongeldig toegangstoken opgegeven voor Facebook.,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invalid chart name,Ongeldige grafiektitel,reviewed,crm,0.73,0.7,0.7,0.7,0.8,0.9,review
+Invalid email ID,Ongeldig e-mailadres,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invalid email address,Ongeldig e-mailadres,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invalid field,Ongeldig veld,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+"Invalid fields, check if all are filled in and values are correct.","Ongeldige velden, controleer of alle velden zijn ingevuld en de waarden correct zijn.",reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invalid fields: {0},Ongeldige velden: {0},reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invalid lead details supplied.,Ongeldige Lead-gegevens opgegeven.,reviewed,crm,0.76,0.75,0.7,0.75,0.8,0.9,review
+Invalid or expired key,Ongeldige of verlopen sleutel,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invalid page or not permitted to access,Ongeldige pagina of niet toegestaan om te openen,reviewed,crm,0.8,0.8,0.75,0.8,0.8,0.9,ok
+Invitations sent successfully,Uitnodigingen succesvol verzonden,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invite Agent,Medewerker uitnodigen,reviewed,crm,0.76,0.75,0.7,0.75,0.85,0.9,review
+Invite As,Uitnodigen als,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invite By Email,Uitnodigen via e-mail,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invite New User,Nodig nieuwe gebruiker uit,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invite User,Gebruiker uitnodigen,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invite Users,Gebruikers uitnodigen,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invite users to access CRM. Specify their roles to control access and permissions,Nodig gebruikers uit voor toegang tot CRM. Specificeer hun rollen om de toegang en rechten te beheren,reviewed,crm,0.82,0.8,0.8,0.8,0.85,0.95,ok
+Invite your team,Nodig uw team uit,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Invited By,Uitgenodigd door,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Is ERPNext installed on a different site?,Is ERPNext op een andere locatie geïnstalleerd?,reviewed,crm,0.76,0.75,0.7,0.75,0.8,0.9,review
+It appears that there are currently no {0} available. You can create more {0} by using the Create button.,Er zijn momenteel geen {0} beschikbaar. U kunt meer {0} aanmaken via de knop Aanmaken.,reviewed,crm,0.82,0.8,0.8,0.8,0.85,0.95,ok
+"It will make deal's ""Expected Closure Date"" & ""Expected Deal Value"" mandatory to get accurate forecasting insights","De ""Verwachte sluitingsdatum"" en ""Verwachte transactiewaarde"" van de deal worden verplicht om nauwkeurige voorspellingsinzichten te krijgen",reviewed,crm,0.76,0.75,0.7,0.75,0.75,0.9,review
+Items are required,Items zijn verplicht,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Items must be a list,Items moeten een lijst zijn,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+"John, Jane, Doe","Jan, Marie, De Vries",reviewed,crm,0.88,0.85,0.9,0.85,0.9,0.95,ok
+Kanban Columns,Kanban-kolommen,reviewed,crm,0.86,0.85,0.8,0.85,0.9,0.95,ok
+Kanban Fields,Kanban-velden,reviewed,crm,0.86,0.85,0.8,0.85,0.9,0.95,ok
+Kanban Settings,Kanban-instellingen,reviewed,crm,0.86,0.85,0.8,0.85,0.9,0.95,ok
+Kanban settings,Kanban-instellingen,reviewed,crm,0.86,0.85,0.8,0.85,0.9,0.95,ok
+Language & Time,Taal en tijd,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Last 30 Days,Afgelopen 30 dagen,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Last 6 Months,Afgelopen 6 maanden,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Last 60 Days,Afgelopen 60 dagen,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Last 7 Days,Afgelopen 7 dagen,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Last 90 Days,Afgelopen 90 dagen,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Last Responded On,Laatst gereageerd op,reviewed,crm,0.85,0.85,0.8,0.85,0.85,0.95,ok
+Last Response Time,Laatste reactietijd,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Last Status Change Log,Laatste statuswijzigingslog,reviewed,crm,0.63,0.6,0.5,0.65,0.8,1.0,review
+Last Synced At,Laatst gesynchroniseerd op,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Last name,Achternaam,reviewed,crm,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Last user assigned by this rule,Laatste gebruiker toegewezen door deze regel,reviewed,crm,0.83,0.8,0.8,0.8,0.85,1.0,ok
+Lead Data,Lead-gegevens,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Lead Owner cannot be same as the Lead Email Address,De Lead-eigenaar mag niet hetzelfde zijn als het e-mailadres van de Lead,reviewed,crm,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Lead Sources,Lead-bronnen,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Lead Statuses,Lead-statussen,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Lead Sync Source,Lead Sync-bron,reviewed,crm,0.72,0.7,0.6,0.7,0.85,1.0,review
+Lead Sync Source created successfully,Lead Sync-bron succesvol aangemaakt,reviewed,crm,0.72,0.7,0.6,0.7,0.85,1.0,review
+Lead Syncing,Lead-synchronisatie,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Lead from call {0},Lead vanuit gesprek {0},reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Lead generation channel analysis,Lead-generatiekanaalanalyse,reviewed,crm,0.58,0.55,0.4,0.55,0.7,1.0,review
+Lead sync initiated.,Lead-synchronisatie is gestart.,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Lead sync source deleted successfully,Lead Sync-bron succesvol verwijderd,reviewed,crm,0.72,0.7,0.6,0.7,0.85,1.0,review
+Lead to deal conversion pipeline,Lead-naar-deal-conversiepipeline,reviewed,crm,0.57,0.55,0.4,0.55,0.65,1.0,review
+Leads by Source,Leads per bron,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Leads by source,Leads per bron,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Learn about conditions,Meer informatie over voorwaarden,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Library,Bibliotheek,reviewed,crm,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Light,Licht,reviewed,crm,0.81,0.75,0.8,0.75,0.95,1.0,ok
+Listen,Luisteren,reviewed,crm,0.75,0.65,0.7,0.7,0.95,1.0,review
+Load Default Columns,Standaardkolommen laden,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Log a Call,Gesprek vastleggen,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Login to Frappe Cloud?,Inloggen bij Frappe Cloud?,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Login with Different Account,Inloggen met een ander account,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Lost Deal Reasons,Redenen voor verloren Deal,reviewed,crm,0.73,0.7,0.65,0.7,0.8,1.0,review
+Lost Details,Details verloren,reviewed,crm,0.61,0.55,0.5,0.55,0.8,1.0,review
+Lost Notes,Notities bij verlies,reviewed,crm,0.83,0.8,0.8,0.8,0.9,1.0,ok
+"Lost Notes are required when Lost Reason is ""Other""","Notities bij verlies zijn verplicht wanneer de reden voor verlies ""Overig"" is",reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Lost Reason is required,Reden voor verlies is verplicht,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Lost deal reasons,Redenen voor verloren deal,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Make Call,Gesprek starten,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Make Private,Privé maken,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Make Public,Openbaar maken,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Make a Call,Een gesprek starten,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Make attachment {0},Bijlage {0} maken,reviewed,crm,0.78,0.75,0.7,0.75,0.85,1.0,review
+Make {0} as default calling medium,Stel {0} in als standaard gespreksmedium,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+"Makes ""Expected Closure Date"" and ""Expected Deal Value"" mandatory for deal value forecasting","Maakt ""Verwachte sluitingsdatum"" en ""Verwachte transactiewaarde"" verplicht voor het voorspellen van de transactiewaarde",reviewed,crm,0.85,0.85,0.8,0.85,0.85,1.0,ok
+"Manage CRM users by adding or inviting them, and assign roles to control their access and permissions","Beheer CRM-gebruikers door ze toe te voegen of uit te nodigen, en wijs rollen toe om hun toegang en rechten te beheren",reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Manage your account emails and email signature for communication.,Beheer uw account-e-mails en e-mailhandtekening voor communicatie.,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Manage your email accounts to send and receive emails directly from CRM. You can add multiple accounts and set one as default for incoming and outgoing emails.,Beheer uw e-mailaccounts om direct e-mails te verzenden en ontvangen vanuit CRM. U kunt meerdere accounts toevoegen en één als standaard instellen voor inkomende en uitgaande e-mails.,reviewed,crm,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Manage your email signature,Beheer uw e-mailhandtekening,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Manage your profile & login information.,Beheer uw profielgegevens en inloggegevens.,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Manage your service level agreement policies,Beheer uw serviceniveauovereenkomstbeleid,reviewed,crm,0.58,0.55,0.4,0.55,0.75,1.0,review
+Mandatory field error: {0},Fout verplicht veld: {0},reviewed,crm,0.68,0.65,0.6,0.65,0.8,1.0,review
+Mandatory field(s) {0} must be mapped,Verplicht(e) veld(en) {0} moet(en) worden gekoppeld,reviewed,crm,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Mandatory fields required: {0},Verplichte velden ontbreken: {0},reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Mapped to CRM Field,Gekoppeld aan CRM-veld,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Mark all as read,Alles als gelezen markeren,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Mark lead/deal as replied on response,Lead/Deal als beantwoord markeren bij reactie,reviewed,crm,0.81,0.8,0.75,0.8,0.85,1.0,ok
+"May 1, 2025",1 mei 2025,reviewed,crm,0.93,0.9,0.95,0.9,0.95,1.0,ok
+Maybe,Misschien,reviewed,crm,0.93,0.9,0.95,0.9,0.95,1.0,ok
+Medium,Gemiddeld,reviewed,crm,0.79,0.75,0.75,0.75,0.9,1.0,review
+Minimize,Minimaliseren,reviewed,crm,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Missed Call,Gemiste oproep,reviewed,crm,0.96,0.95,0.95,0.95,0.95,1.0,ok
+Missing mandatory fields: {0},Verplichte velden ontbreken: {0},reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Mobile App Installation,Mobiele app installeren,reviewed,crm,0.73,0.7,0.65,0.7,0.85,1.0,review
+Mobile No. should be a number,Mobiel nummer moet een getal zijn,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Mobile Number Missing,Mobiel nummer ontbreekt,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+More Options,Meer opties,reviewed,crm,0.93,0.9,0.95,0.9,0.95,1.0,ok
+Move to Next Section,Naar volgende sectie,reviewed,crm,0.83,0.8,0.8,0.8,0.9,1.0,ok
+Move to Next Tab,Naar volgende tab,reviewed,crm,0.83,0.8,0.8,0.8,0.9,1.0,ok
+Move to Previous Section,Naar vorige sectie,reviewed,crm,0.83,0.8,0.8,0.8,0.9,1.0,ok
+Move to Previous Tab,Naar vorige tab,reviewed,crm,0.83,0.8,0.8,0.8,0.9,1.0,ok
+My Open Deals,Mijn open deals,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Name is required,Naam is verplicht,reviewed,crm,0.96,0.95,0.95,0.95,0.95,1.0,ok
+Nested Conditions,Geneste voorwaarden,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+New Assignment Rule,Nieuwe toewijzingsregel,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+New Assignment Rule Name,Naam nieuwe toewijzingsregel,reviewed,crm,0.85,0.85,0.8,0.85,0.9,1.0,ok
+New Comment,Nieuwe opmerking,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+New Lead Sync Source,Nieuwe Lead Sync-bron,reviewed,crm,0.73,0.7,0.65,0.7,0.85,1.0,review
+New Message,Nieuw bericht,reviewed,crm,0.96,0.95,0.95,0.95,0.95,1.0,ok
+New Note,Nieuwe notitie,reviewed,crm,0.96,0.95,0.95,0.95,0.95,1.0,ok
+New Organization,Nieuwe organisatie,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+New SLA Policy,Nieuw SLA-beleid,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+New SLA Policy Name,Naam nieuw SLA-beleid,reviewed,crm,0.82,0.8,0.75,0.8,0.9,1.0,ok
+New Section,Nieuwe sectie,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+New Tab,Nieuwe tab,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+New Task,Nieuwe taak,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+New Template,Nieuwe Template,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+New contact will be created based on the person's details,Er wordt een nieuw contact aangemaakt op basis van de gegevens van de persoon,reviewed,crm,0.91,0.9,0.9,0.9,0.9,1.0,ok
+New organization will be created based on the data in details section,Er wordt een nieuwe organisatie aangemaakt op basis van de gegevens in het detailgedeelte,reviewed,crm,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Next 6 Months,Volgende 6 maanden,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Next Month,Volgende maand,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Next Quarter,Volgend kwartaal,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Next Step,Volgende stap,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Next Week,Volgende week,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Next Year,Volgend jaar,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+No Answer,Geen antwoord,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+No Contacts Added,Geen contacten toegevoegd,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+No Details Added,Geen details toegevoegd,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+No Events Scheduled,Geen evenementen gepland,reviewed,crm,0.85,0.85,0.8,0.85,0.9,1.0,ok
+No Failure Logs Found,Geen foutlogboeken gevonden,reviewed,crm,0.82,0.8,0.75,0.8,0.9,1.0,ok
+No Mobile Number Set,Geen mobiel nummer ingesteld,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+No New Notifications,Geen nieuwe meldingen,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+No Primary Contact Set,Geen primair contact ingesteld,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+No Priorities in the list,Geen prioriteiten in de lijst,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+No Results Found,Geen resultaten gevonden,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+No Templates Found,Geen Templates gevonden,reviewed,crm,0.83,0.85,0.75,0.8,0.9,1.0,ok
+No Title,Geen Titel,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+No Users Found,Geen gebruikers gevonden,reviewed,crm,0.84,0.85,0.8,0.8,0.9,1.0,ok
+No Website Found,Geen website gevonden,reviewed,crm,0.84,0.85,0.8,0.8,0.9,1.0,ok
+No Workdays in the List,Geen werkdagen in de lijst,reviewed,crm,0.84,0.85,0.8,0.8,0.9,1.0,ok
+No changes made,Geen wijzigingen aangebracht,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+No events coming up. Create a new one to keep things on track.,Geen komende evenementen. Maak een nieuw evenement aan om alles op schema te houden.,reviewed,crm,0.83,0.85,0.75,0.8,0.85,1.0,ok
+No holiday list found,Geen verloflijst gevonden,reviewed,crm,0.66,0.6,0.55,0.6,0.8,1.0,review
+No {0} Found,Geen {0} Gevonden,reviewed,crm,0.65,0.65,0.55,0.65,0.7,1.0,review
+No {0} available,Geen {0} beschikbaar,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+No.,Nr.,reviewed,crm,0.91,0.9,0.9,0.85,1.0,1.0,ok
+No. of Employees,Aantal werknemers,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Not Synced,Niet gesynchroniseerd,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Not allowed to add contact to Deal,Niet toegestaan om een contact toe te voegen aan een Deal,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Not allowed to convert Lead to Deal,Niet toegestaan om Lead om te zetten naar Deal,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Not allowed to remove contact from Deal,Niet toegestaan om een contact van een Deal te verwijderen,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Not allowed to set primary contact for Deal,Niet toegestaan om het primaire contact voor een Deal in te stellen,reviewed,crm,0.84,0.85,0.75,0.8,0.85,1.0,ok
+Not equals,Niet gelijk aan,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Not implemented yet!,Nog niet geïmplementeerd!,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Not in,Niet in,reviewed,crm,0.86,0.85,0.8,0.8,1.0,1.0,ok
+Not like,Niet zoals,reviewed,crm,0.69,0.7,0.55,0.65,0.75,1.0,review
+Not permitted to access reference document {0} {1}.,Geen toegang tot referentiedocument {0} {1}.,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Not permitted to access the referenced WhatsApp message.,Geen toegang tot het gekoppelde WhatsApp-bericht.,reviewed,crm,0.86,0.85,0.85,0.8,0.9,1.0,ok
+Note deleted,Notitie verwijderd,reviewed,crm,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Notes View,Notitiesoverzicht,reviewed,crm,0.65,0.65,0.55,0.6,0.7,1.0,review
+Notification Text,Meldingstekst,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Notification Type Doc,Meldingstype Doc,reviewed,crm,0.62,0.6,0.5,0.55,0.65,1.0,review
+Notification Type Doctype,Meldingstype Doctype,reviewed,crm,0.65,0.65,0.55,0.6,0.7,1.0,review
+Number Chart,Nummergrafiek,reviewed,crm,0.58,0.55,0.45,0.5,0.65,1.0,review
+Number of deals,Aantal deals,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Number of deals and total value per salesperson,Aantal deals en totale waarde per verkoper,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Old Condition,Oude conditie,reviewed,crm,0.72,0.7,0.65,0.65,0.85,1.0,review
+Old Conditions,Oude condities,reviewed,crm,0.72,0.7,0.65,0.65,0.85,1.0,review
+Ongoing Deals,Lopende deals,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Ongoing deals,Lopende deals,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Only System Managers can assign the Sales Manager role,Alleen System Managers kunnen de Sales Manager rol toewijzen,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Only System Managers can assign the System Manager role,Alleen System Managers kunnen de System Manager rol toewijzen,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Only System Managers can modify other System Managers,Alleen System Managers kunnen andere System Managers wijzigen,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Only image files are allowed,Alleen afbeeldingsbestanden zijn toegestaan,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Only sales users can access WhatsApp features.,Alleen verkoopgebruikers hebben toegang tot WhatsApp-functies.,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Open Lead,Open Lead,reviewed,crm,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Open Nested Conditions,Geneste condities openen,reviewed,crm,0.75,0.75,0.65,0.7,0.8,1.0,review
+Open Website,Website openen,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Open in Portal,Openen in portal,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Open in new window,Openen in nieuw venster,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Or create leads manually,Of maak leads handmatig aan,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Organization Details,Organisatiegegevens,reviewed,crm,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Organization Logo,Organisatielogo,reviewed,crm,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Organization is required to create a customer,Een organisatie is verplicht om een klant aan te maken,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Organizations,Organisaties,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Organizer,Organisator,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Other Features,Overige functies,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Others,Anderen,reviewed,crm,0.7,0.65,0.6,0.65,0.85,1.0,review
+Outbound Call,Uitgaande oproep,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Owner: {0},Eigenaar: {0},reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Page Name,Paginanaam,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Parent CRM Territory,Bovenliggend CRM-gebied,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Password cannot be reset by Demo User {},Het wachtwoord kan niet worden gereset door de demogebruiker {},reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Password is required,Wachtwoord is verplicht,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Password must be at least 8 characters,Het wachtwoord moet minimaal 8 tekens bevatten,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+"Password must contain lowercase, uppercase, number, and symbol","Het wachtwoord moet kleine letters, hoofdletters, cijfers en symbolen bevatten",reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Password updated successfully,Wachtwoord succesvol bijgewerkt,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Passwords do not match,De wachtwoorden komen niet overeen,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Passwords match,De wachtwoorden komen overeen,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Payment Reminder,Betalingsherinnering,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Payment Reminder from Frappé - (#{{ name }}),Betalingsherinnering van Frappé - (#{{ name }}),reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Payment reminder from Frappé - (#{{ name }}),Betalingsherinnering van Frappé - (#{{ name }}),reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Pending Invites,Openstaande uitnodigingen,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Person,Persoon,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Personal Mobile No.,Persoonlijk mobiel nr.,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Phone Numbers,Telefoonnummers,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Pin View,Weergave vastzetten,reviewed,crm,0.75,0.75,0.65,0.7,0.8,1.0,review
+Pinned,Vastgezet,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Pinned View,Vastgezette weergave,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Pinned Views,Vastgepinde weergaven,reviewed,crm,0.66,0.65,0.55,0.6,0.75,1.0,review
+Playback Speed,Afspeelsnelheid,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Please check your access token,Controleer uw toegangstoken,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Please enable twilio settings before making a call.,Activeer de twilio-instellingen voordat u een gesprek start.,reviewed,crm,0.75,0.75,0.65,0.7,0.8,1.0,review
+Please enter a valid URL,Voer een geldige URL in,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Please fix the errors in the form,Los de fouten in het formulier op,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Please select a Priority,Selecteer een prioriteit,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Please select a currency before saving.,Selecteer een valuta voordat u opslaat.,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Please select a lead gen form before syncing!,Selecteer een lead gen-formulier voordat u gaat synchroniseren!,reviewed,crm,0.75,0.75,0.65,0.7,0.8,1.0,review
+Please select an existing contact,Selecteer een bestaand contactpersoon,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Please select an existing organization,Selecteer een bestaande organisatie,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Please set a mobile number to make calls,Stel een mobiel nummer in om te bellen,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Please set a website to visit,Stel een website in om te bezoeken,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Please set an email address to send emails,Stel een e-mailadres in om e-mails te versturen,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Please setup Exotel intergration,Stel de Exotel-integratie in,reviewed,crm,0.82,0.8,0.75,0.75,0.85,1.0,ok
+Please specify a reason for losing the deal.,Geef een reden op voor het verliezen van de deal.,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Please specify a reason for losing the lead.,Geef een reden op voor het verliezen van de lead.,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Please specify the reason for losing the deal.,Geef de reden op voor het verliezen van de deal.,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Please specify the reason for losing the lead.,Geef de reden op voor het verliezen van de lead.,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Policy Name,Beleidsnaam,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Preferences,Voorkeuren,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Preferences Updated Successfully,Voorkeuren succesvol bijgewerkt,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Primary Contact Set,Primaire Contact ingesteld,reviewed,crm,0.65,0.65,0.55,0.6,0.7,1.0,review
+Primary email,Primair e-mailadres,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Primary mobile no,Primair mobiel nummer,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Primary phone,Primair telefoonnummer,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
 Priorities must be unique,Prioriteiten moeten uniek zijn,reviewed,crm,,,,,,,
 Priority {0}: Priority Name is required,Prioriteit {0}: Prioriteitsnaam is vereist,reviewed,crm,,,,,,,
 Priority {0}: Response Time is required,Prioriteit {0}: Reactietijd is vereist,reviewed,crm,,,,,,,

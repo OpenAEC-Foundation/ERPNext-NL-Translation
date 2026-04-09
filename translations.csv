@@ -8456,9 +8456,9 @@ Report Item,Rapportagepost,reviewed,erpnext,0.82,0.45,0.45,0.4,0.8,1.0,improved
 Report Name,Rapportnaam,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Report of all document shares,Overzicht van alle gedeelde documenten,reviewed,frappe,0.9,0.4,0.35,0.4,0.4,0.9,improved
 Report Preference,Rapportvoorkeur,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Report Reference Doctype,Rapportreferentie Doctype,reviewed,frappe,0.78,0.8,0.7,0.75,0.8,1.0,review
+Report Reference Doctype,Rapport referentie doctype,reviewed,frappe,0.82,0.8,0.7,0.75,0.8,1.0,improved
 Report Settings,Rapportinstellingen,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
-Report Start Time,Starttijd melden,reviewed,frappe,0.6,0.55,0.5,0.5,0.8,1.0,review
+Report Start Time,Rapportstarttijd,reviewed,frappe,0.83,0.55,0.5,0.5,0.8,1.0,improved
 Report this Item,Meld dit item,reviewed,erpnext,0.85,0.85,0.85,0.75,1.0,1.0,ok
 Report Type,Rapport Type,reviewed,both,0.82,0.85,0.8,0.8,0.7,1.0,ok
 Report Type is mandatory,Rapport type is verplicht,reviewed,erpnext,0.82,0.85,0.8,0.8,0.7,1.0,ok
@@ -8477,113 +8477,113 @@ Repost Item Valuation,Artikelwaardering herboeken,reviewed,custom,0.93,0.9,0.9,0
 Repost Payment Ledger,Betalingsgrootboek herboeken,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Represents a User in the system.,Vertegenwoordigt een gebruiker in het systeem.,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Represents Company,Vertegenwoordigt bedrijf,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Represents the states allowed in one document and role assigned to change the state.,Vertegenwoordigt de staten toegestaan in één document en de rol toegewezen aan de staat te veranderen.,reviewed,frappe,0.55,0.65,0.4,0.6,0.4,0.9,review
-Reqd By Date,Benodigd op datum,reviewed,erpnext,0.75,0.75,0.7,0.7,0.8,1.0,review
-Reqd by date,Op datum vereist,reviewed,erpnext,0.71,0.7,0.65,0.65,0.8,1.0,review
+Represents the states allowed in one document and role assigned to change the state.,Geeft de toegestane statussen in één document aan en de rol die is toegewezen om de status te wijzigen.,reviewed,frappe,0.88,0.65,0.4,0.6,0.4,0.9,improved
+Reqd By Date,Uiterste datum,reviewed,erpnext,0.85,0.75,0.7,0.7,0.8,1.0,improved
+Reqd by date,Uiterste leverdatum,reviewed,erpnext,0.84,0.7,0.65,0.65,0.8,1.0,improved
 Reqd Qty,Gewenste hoeveelheid,reviewed,erpnext,0.8,0.75,0.8,0.7,1.0,1.0,ok
 Request Body consists of an invalid JSON structure,Request Body bestaat uit een ongeldige JSON-structuur,reviewed,frappe,0.84,0.85,0.8,0.8,0.9,1.0,ok
-Request Data,Verzoek om gegevens,reviewed,frappe,0.64,0.6,0.55,0.55,0.9,1.0,review
+Request Data,Aanvraaggegevens,reviewed,frappe,0.84,0.6,0.55,0.55,0.9,1.0,improved
 Request for,Verzoek tot,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
 Request for Information,Informatieaanvraag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Request for purchase.,Inkoopaanvraag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Request For Quotation,Offerte aanvragen,reviewed,erpnext,0.71,0.7,0.7,0.6,0.8,1.0,review
-Request for Quotation,Offerte-verzoek,reviewed,erpnext,0.68,0.7,0.65,0.55,0.8,1.0,review
-Request for Quotation Item,Offerte Item,reviewed,erpnext,0.65,0.65,0.65,0.55,0.75,0.7,review
-Request for Quotation Supplier,Offerte Supplier,reviewed,erpnext,0.58,0.6,0.55,0.5,0.65,0.6,review
+Request For Quotation,Offerteaanvraag,reviewed,erpnext,0.88,0.7,0.7,0.6,0.8,1.0,improved
+Request for Quotation,Offerteaanvraag,reviewed,erpnext,0.9,0.7,0.65,0.55,0.8,1.0,improved
+Request for Quotation Item,Offerteaanvraagartikel,reviewed,erpnext,0.84,0.65,0.65,0.55,0.75,0.7,improved
+Request for Quotation Supplier,Offerteaanvraag leverancier,reviewed,erpnext,0.86,0.6,0.55,0.5,0.65,0.6,improved
 Request for quotation.,Aanvraag voor een offerte.,reviewed,erpnext,0.85,0.85,0.85,0.7,1.0,1.0,ok
-Request for Quotations,Verzoek om offertes,reviewed,erpnext,0.75,0.75,0.75,0.6,0.9,1.0,review
+Request for Quotations,Offerteaanvragen,reviewed,erpnext,0.89,0.75,0.75,0.6,0.9,1.0,improved
 Request for Raw Materials,Verzoek om grondstoffen,reviewed,erpnext,0.86,0.85,0.85,0.8,1.0,1.0,ok
 Request Structure,Verzoekstructuur,reviewed,frappe,0.86,0.85,0.8,0.85,1.0,1.0,ok
 Request Timed Out,Time-out,reviewed,frappe,0.8,0.8,0.8,0.8,1.0,0.7,ok
 Request Type,Aanvraag type,reviewed,erpnext,0.8,0.85,0.75,0.75,0.65,1.0,ok
 Request URL,Verzoek-URL,reviewed,frappe,0.85,0.4,0.35,0.4,0.6,0.9,improved
 Requested,Aangevraagd,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
-Requested Amount,Gevraagde bedrag,reviewed,erpnext,0.79,0.85,0.75,0.8,0.6,1.0,review
-Requested Items To Be Transferred,Aangevraagde Artikelen te Verplaatsen,reviewed,erpnext,0.72,0.8,0.65,0.7,0.6,1.0,review
+Requested Amount,Gevraagd bedrag,reviewed,erpnext,0.88,0.85,0.75,0.8,0.6,1.0,improved
+Requested Items To Be Transferred,Aangevraagde artikelen over te boeken,reviewed,erpnext,0.86,0.8,0.65,0.7,0.6,1.0,improved
 Requested Items to Order and Receive,Gevraagde artikelen om te bestellen en te ontvangen,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
 Requested Numbers,Gevraagde nummers,reviewed,erpnext,0.87,0.5,0.3,0.3,0.5,0.7,improved
 Requested Qty,Aangevraagde Hoeveelheid,reviewed,erpnext,0.87,0.9,0.85,0.85,0.8,1.0,ok
-"Requested Qty: Quantity requested for purchase, but not ordered.","Aangevraagd Hoeveelheid: Aantal gevraagd om in te kopen, maar nog niet besteld.",reviewed,erpnext,0.72,0.8,0.65,0.7,0.55,1.0,review
+"Requested Qty: Quantity requested for purchase, but not ordered.","Aangevraagde hoeveelheid: Hoeveelheid aangevraagd voor inkoop, maar nog niet besteld.",reviewed,erpnext,0.88,0.8,0.65,0.7,0.55,1.0,improved
 Requested Quantity,gevraagde hoeveelheid,reviewed,erpnext,0.83,0.85,0.85,0.8,0.6,1.0,ok
 Requesting Department,Verzoekende afdeling,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Requesting payment against {0} {1} for amount {2},Betalingsverzoek voor {0} {1} ter hoogte van {2},reviewed,erpnext,0.9,0.3,0.25,0.4,0.3,0.6,improved
 Requesting Practitioner,Verzoekende behandelaar,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Requesting Site,Verzoekende site,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Requestor,aanvrager,reviewed,erpnext,0.58,0.6,0.55,0.55,0.5,1.0,review
+Requestor,Aanvrager,reviewed,erpnext,0.87,0.6,0.55,0.55,0.5,1.0,improved
 Require Result Value,Vereiste resultaatwaarde,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
-Require Trusted Certificate,Vereist vertrouwd certificaat,reviewed,frappe,0.78,0.75,0.7,0.8,0.8,1.0,review
+Require Trusted Certificate,Vertrouwd certificaat vereist,reviewed,frappe,0.86,0.75,0.7,0.8,0.8,1.0,improved
 Required,Verplicht,reviewed,custom,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Required By,Benodigd op,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,1.0,ok
-Required Date,Benodigd op datum,reviewed,erpnext,0.5,0.45,0.4,0.5,0.5,1.0,review
+Required Date,Vereiste datum,reviewed,erpnext,0.88,0.45,0.4,0.5,0.5,1.0,improved
 Required Items,Vereiste items,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Required On,Vereist op,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Required only for sample item.,Alleen benodigd voor Artikelmonster.,reviewed,erpnext,0.68,0.65,0.6,0.65,0.7,1.0,review
+Required only for sample item.,Alleen vereist voor een monsterartikel.,reviewed,erpnext,0.86,0.65,0.6,0.65,0.7,1.0,improved
 Required Qty,Benodigde hoeveelheid,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Required Quantity,Benodigde hoeveelheid,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Required Skills,Benodigde vaardigheden,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
-Requirement,eis,reviewed,erpnext,0.68,0.7,0.65,0.65,0.5,1.0,review
+Requirement,Vereiste,reviewed,erpnext,0.86,0.7,0.65,0.65,0.5,1.0,improved
 Requires Fulfilment,Afhandeling vereist,reviewed,erpnext,0.85,0.2,0.2,0.25,0.3,0.8,improved
-Reschedule,Afspraak verzetten,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Reschedule,Herplannen,reviewed,erpnext,0.88,0.75,0.7,0.75,0.85,1.0,improved
 Research,Onderzoek,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Researcher,Onderzoeker,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 "Reselect, if the chosen address is edited after save","Selecteer opnieuw, als het gekozen adres is bewerkt na opslaan",reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
 "Reselect, if the chosen contact is edited after save","Selecteer opnieuw, als het gekozen contact is bewerkt na opslaan",reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
 Resend Payment Email,Betalingsmail opnieuw verzenden,reviewed,erpnext,0.9,0.2,0.15,0.25,0.2,0.7,improved
 Reservation End Time,Eindtijd van reservering,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Reservation Time,Reservatietijd,reviewed,erpnext,0.61,0.6,0.55,0.6,0.6,1.0,review
+Reservation Time,Reserveringstijd,reviewed,erpnext,0.87,0.6,0.55,0.6,0.6,1.0,improved
 Reserve Warehouse,Magazijn reserveren,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,1.0,ok
-Reserved,gereserveerd,reviewed,erpnext,0.63,0.65,0.6,0.65,0.5,1.0,review
+Reserved,Gereserveerd,reviewed,erpnext,0.86,0.65,0.6,0.65,0.5,1.0,improved
 Reserved Balance,Gereserveerd saldo,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Reserved for manufacturing,Gereserveerd voor productie,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Reserved for sale,Gereserveerd voor verkoop,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Reserved for sub contracting,Gereserveerd voor onderaanneming,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Reserved Qty,Gereserveerde hoeveelheid,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Reserved Qty for Production,Aantal voorbehouden voor productie,reviewed,erpnext,0.58,0.55,0.5,0.5,0.6,1.0,review
+Reserved Qty for Production,Gereserveerde hoeveelheid voor productie,reviewed,erpnext,0.88,0.55,0.5,0.5,0.6,1.0,improved
 Reserved Qty for Production: Raw materials quantity to make manufacturing items.,Gereserveerde hoeveelheid voor productie: hoeveelheid grondstoffen om productieartikelen te maken.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Reserved Qty for sub contract,Gereserveerde hoeveelheid voor subcontract,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Reserved Qty for Subcontract: Raw materials quantity to make subcontracted items.,Gereserveerde hoeveelheid voor uitbesteding: hoeveelheid grondstoffen om uitbestede artikelen te maken.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-"Reserved Qty: Quantity ordered for sale, but not delivered.","Gereserveerde Hoeveelheid: Aantal toegewezen aan verkoop, maar nog niet geleverd.",reviewed,erpnext,0.67,0.65,0.6,0.65,0.65,1.0,review
+"Reserved Qty: Quantity ordered for sale, but not delivered.","Gereserveerde hoeveelheid: Hoeveelheid besteld voor verkoop, maar nog niet geleverd.",reviewed,erpnext,0.89,0.65,0.6,0.65,0.65,1.0,improved
 Reserved Quantity,Gereserveerde Hoeveelheid,reviewed,erpnext,0.85,0.85,0.85,0.8,0.85,1.0,ok
 Reserved Quantity for Production,Gereserveerde hoeveelheid voor productie,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Reserved Warehouse is mandatory for Item {0} in Raw Materials supplied,Gereserveerd magazijn is verplicht voor artikel {0} in geleverde grondstoffen,reviewed,erpnext,0.86,0.85,0.85,0.85,0.85,1.0,ok
 Reset Chart,Grafiek resetten,reviewed,frappe,0.85,0.35,0.3,0.4,0.4,1.0,improved
 Reset Fields,Velden resetten,reviewed,frappe,0.87,0.45,0.4,0.45,0.45,1.0,improved
 Reset LDAP Password,Reset LDAP-wachtwoord,reviewed,frappe,0.82,0.8,0.8,0.8,0.85,1.0,ok
-Reset Permissions for {0}?,Reset Machtigingen voor {0} ?,reviewed,frappe,0.61,0.6,0.55,0.6,0.5,1.0,review
+Reset Permissions for {0}?,Machtigingen opnieuw instellen voor {0}?,reviewed,frappe,0.88,0.6,0.55,0.6,0.5,1.0,improved
 Reset to defaults,Terugzetten naar standaard,reviewed,frappe,0.88,0.45,0.4,0.5,0.5,1.0,improved
 Reset your password,Stel je wachtwoord opnieuw in,reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
 Resetting Service Level Agreement.,Service Level Agreement resetten.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Resignation Letter Date,Ontslagbrief Datum,reviewed,erpnext,0.62,0.6,0.55,0.6,0.55,1.0,review
+Resignation Letter Date,Datum ontslagbrief,reviewed,erpnext,0.87,0.6,0.55,0.6,0.55,1.0,improved
 resize-horizontal,resize-horizontal,reviewed,frappe,0.9,0.2,0.2,0.25,0.2,0.8,improved
 resize-vertical,resize-vertical,reviewed,frappe,0.9,0.2,0.2,0.25,0.2,0.8,improved
 Resolution,Oplossing,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Resolution By,Resolutie door,reviewed,erpnext,0.57,0.55,0.5,0.5,0.6,1.0,review
-Resolution By Variance,Resolutie door variantie,reviewed,erpnext,0.57,0.55,0.5,0.5,0.55,1.0,review
-Resolution Date,Oplossing Datum,reviewed,erpnext,0.66,0.65,0.6,0.65,0.55,1.0,review
-Resolution Details,Oplossing Details,reviewed,erpnext,0.66,0.65,0.6,0.65,0.55,1.0,review
-Resolution Time,Resolutie tijd,reviewed,erpnext,0.59,0.6,0.55,0.55,0.5,1.0,review
-Resolutions,resoluties,reviewed,erpnext,0.63,0.65,0.6,0.6,0.5,1.0,review
+Resolution By,Opgelost door,reviewed,erpnext,0.87,0.55,0.5,0.5,0.6,1.0,improved
+Resolution By Variance,Oplossingsafwijking,reviewed,erpnext,0.85,0.55,0.5,0.5,0.55,1.0,improved
+Resolution Date,Oplossingsdatum,reviewed,erpnext,0.88,0.65,0.6,0.65,0.55,1.0,improved
+Resolution Details,Oplossingsdetails,reviewed,erpnext,0.88,0.65,0.6,0.65,0.55,1.0,improved
+Resolution Time,Oplostijd,reviewed,erpnext,0.88,0.6,0.55,0.55,0.5,1.0,improved
+Resolutions,Oplossingen,reviewed,erpnext,0.87,0.65,0.6,0.6,0.5,1.0,improved
 Resolve,Oplossen,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Resolve error and upload again.,Los de fout op en upload opnieuw.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Resolved,Opgelost,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Resolved By,Opgelost door,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Respiratory rate,Ademhalingsfrequentie,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Respiratory Rate:,Ademhalingsfrequentie:,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Response,antwoord,reviewed,frappe,0.64,0.65,0.6,0.65,0.5,1.0,review
+Response,Antwoord,reviewed,frappe,0.86,0.65,0.6,0.65,0.5,1.0,improved
 response,antwoord,reviewed,frappe,0.8,0.8,0.75,0.8,0.8,1.0,ok
 Response and Resolution Time,Reactietijd en oplossingstijd,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Response By,Reactie door,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Response By Variance,Reactie door variantie,reviewed,erpnext,0.58,0.55,0.5,0.55,0.55,1.0,review
+Response By Variance,Reactieafwijking,reviewed,erpnext,0.86,0.55,0.5,0.55,0.55,1.0,improved
 Response Details,Reactiedetails,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Response Key List,Lijst met responssleutels,reviewed,erpnext,0.83,0.3,0.25,0.3,0.25,0.8,improved
-Response Options,Antwoord opties,reviewed,erpnext,0.7,0.7,0.65,0.7,0.65,1.0,review
+Response Options,Antwoordopties,reviewed,erpnext,0.88,0.7,0.65,0.7,0.65,1.0,improved
 Response Time for {0} priority in row {1} can't be greater than Resolution Time.,Reactietijd voor {0} prioriteit in rij {1} kan niet groter zijn dan Oplossingstijd.,reviewed,erpnext,0.83,0.85,0.8,0.8,0.8,1.0,ok
 Response Type,Responstype,reviewed,frappe,0.85,0.25,0.2,0.25,0.2,0.8,improved
 Responsible,Verantwoordelijk,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Rest Of The World,Rest van de wereld,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
-Restart Subscription,Start Abonnement opnieuw,reviewed,erpnext,0.77,0.75,0.7,0.75,0.75,1.0,review
+Restart Subscription,Abonnement hervatten,reviewed,erpnext,0.87,0.75,0.7,0.75,0.75,1.0,improved
 Restaurant Manager,Restaurant manager,reviewed,erpnext,0.8,0.8,0.75,0.8,0.75,1.0,ok
-Restaurant Menu Item,Restaurant Menu-item,reviewed,erpnext,0.76,0.75,0.7,0.75,0.75,1.0,review
+Restaurant Menu Item,Restaurantmenuartikel,reviewed,erpnext,0.85,0.75,0.7,0.75,0.75,1.0,improved
 Restaurant Order Entry,Restaurantbestelling,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
 Restaurant Order Entry Item,Restaurantbestellingregel,reviewed,erpnext,0.83,0.45,0.4,0.45,0.45,1.0,improved
 Restaurant Reservation,Restaurant reservering,reviewed,erpnext,0.8,0.8,0.75,0.8,0.75,1.0,ok
@@ -8594,32 +8594,32 @@ Restore Original Permissions,Originele machtigingen herstellen,reviewed,frappe,0
 Restore to default settings?,Herstellen naar standaardinstellingen?,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Restored,Hersteld,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
 restored {0} as {1},{0} hersteld als {1},reviewed,frappe,0.9,0.3,0.25,0.3,0.3,0.8,improved
-Restoring Deleted Document,Herstel verwijderd document,reviewed,frappe,0.66,0.65,0.6,0.65,0.65,1.0,review
+Restoring Deleted Document,Verwijderd document herstellen,reviewed,frappe,0.87,0.65,0.6,0.65,0.65,1.0,improved
 Restrict Backdated Leave Applications,Beperk verlofaanvragen met terugwerkende kracht,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Restrict IP,Beperken IP,reviewed,frappe,0.57,0.55,0.5,0.55,0.5,1.0,review
-Restrict to Countries,Beperken tot landen,reviewed,erpnext,0.57,0.55,0.5,0.55,0.5,1.0,review
-Restrict To Domain,Beperken tot domein,reviewed,frappe,0.57,0.55,0.5,0.55,0.5,1.0,review
-Restrict to Domain,Beperkt tot Domein,reviewed,frappe,0.56,0.55,0.5,0.5,0.5,1.0,review
+Restrict IP,IP-adres beperken,reviewed,frappe,0.87,0.55,0.5,0.55,0.5,1.0,improved
+Restrict to Countries,Beperkt tot landen,reviewed,erpnext,0.85,0.55,0.5,0.55,0.5,1.0,improved
+Restrict To Domain,Beperkt tot domein,reviewed,frappe,0.86,0.55,0.5,0.55,0.5,1.0,improved
+Restrict to Domain,Beperkt tot domein,reviewed,frappe,0.87,0.55,0.5,0.5,0.5,1.0,improved
 Restrict user for specific document,Beperk gebruiker voor specifiek document,reviewed,frappe,0.86,0.85,0.85,0.85,0.85,1.0,ok
 Restrict user from this IP address only. Multiple IP addresses can be added by separating with commas. Also accepts partial IP addresses like (111.111.111),"Beperk de gebruiker tot dit IP-adres. Meerdere IP-adressen kunnen worden toegevoegd, gescheiden door komma's. Gedeeltelijke IP-adressen worden ook geaccepteerd, zoals (111.111.111).",reviewed,frappe,0.9,0.4,0.35,0.4,0.35,0.8,improved
 Restricted,Beperkt,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Restrictions,beperkingen,reviewed,frappe,0.64,0.65,0.6,0.65,0.5,1.0,review
+Restrictions,Beperkingen,reviewed,frappe,0.86,0.65,0.6,0.65,0.5,1.0,improved
 Result already Submitted,Resultaat is al verzonden,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Result Component,Resultaatcomponent,reviewed,erpnext,0.83,0.75,0.8,0.85,1.0,1.0,ok
 Result Date,Resultaatdatum,reviewed,erpnext,0.83,0.75,0.8,0.85,1.0,1.0,ok
-Result Datetime,Resultaat Datetime,reviewed,erpnext,0.59,0.6,0.5,0.6,0.7,0.7,review
-Result Emailed Message,Resultaat per e-mail bericht,reviewed,erpnext,0.63,0.65,0.55,0.6,0.65,0.9,review
+Result Datetime,Resultaat datum en tijd,reviewed,erpnext,0.85,0.6,0.5,0.6,0.7,0.7,improved
+Result Emailed Message,Per e-mail verzonden resultaat,reviewed,erpnext,0.86,0.65,0.55,0.6,0.65,0.9,improved
 Result Format,Resultaatformaat,reviewed,erpnext,0.86,0.8,0.85,0.85,1.0,1.0,ok
-Result HTML,resultaat HTML,reviewed,erpnext,0.65,0.7,0.65,0.55,0.6,0.9,review
-Result Legend,Legenda resultaat,reviewed,erpnext,0.67,0.65,0.6,0.6,0.8,1.0,review
-Result Legend Print,Resultaat Legenda afdrukken,reviewed,erpnext,0.57,0.55,0.5,0.55,0.6,0.9,review
-Result Preview Field,Resultaat Voorbeeldveld,reviewed,erpnext,0.69,0.65,0.6,0.65,0.8,1.0,review
-Result Printed Message,Resultaat Afgedrukt bericht,reviewed,erpnext,0.57,0.55,0.5,0.55,0.6,0.9,review
-Result Route Field,Resultaat Routeveld,reviewed,erpnext,0.7,0.65,0.65,0.65,0.85,1.0,review
-Result Title Field,Resultaat Titelveld,reviewed,erpnext,0.7,0.65,0.65,0.65,0.85,1.0,review
-Result Value,Resultaat Waarde,reviewed,erpnext,0.68,0.65,0.6,0.65,0.75,1.0,review
-Resume,Hervat,reviewed,erpnext,0.62,0.6,0.55,0.6,0.7,1.0,review
-Resume Sending,doorgaan met het verzenden,reviewed,frappe,0.62,0.65,0.6,0.5,0.65,0.9,review
+Result HTML,Resultaat HTML,reviewed,erpnext,0.86,0.7,0.65,0.55,0.6,0.9,improved
+Result Legend,Resultatenlegenda,reviewed,erpnext,0.87,0.65,0.6,0.6,0.8,1.0,improved
+Result Legend Print,Resultatenlegenda afdrukken,reviewed,erpnext,0.87,0.55,0.5,0.55,0.6,0.9,improved
+Result Preview Field,Resultaatvoorbeeldveld,reviewed,erpnext,0.86,0.65,0.6,0.65,0.8,1.0,improved
+Result Printed Message,Afgedrukt resultaatbericht,reviewed,erpnext,0.87,0.55,0.5,0.55,0.6,0.9,improved
+Result Route Field,Resultaat routeveld,reviewed,erpnext,0.74,0.65,0.65,0.65,0.85,1.0,improved
+Result Title Field,Resultaat titelveld,reviewed,erpnext,0.74,0.65,0.65,0.65,0.85,1.0,improved
+Result Value,Resultaatwaarde,reviewed,erpnext,0.78,0.65,0.6,0.65,0.75,1.0,improved
+Resume,Doorgaan,reviewed,erpnext,0.8,0.6,0.55,0.6,0.7,1.0,improved
+Resume Sending,Verzenden hervatten,reviewed,frappe,0.8,0.65,0.6,0.5,0.65,0.9,improved
 Retail & Wholesale,Retail & Groothandel,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Retail Operations,Retailactiviteiten,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Retain Sample,Bewaar monster,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
@@ -8627,50 +8627,50 @@ Retained Earnings,Ingehouden winsten,reviewed,erpnext,0.86,0.85,0.8,0.85,1.0,1.0
 Retake,Opnieuw opnemen,reviewed,frappe,0.87,0.35,0.3,0.35,0.7,0.9,improved
 Retention Stock Entry already created or Sample Quantity not provided,Retentievoorraadpost al aangemaakt of voorbeeldhoeveelheid niet opgegeven,reviewed,erpnext,0.74,0.4,0.3,0.4,0.6,0.85,improved
 Retirement Age,Pensioenleeftijd,reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
-Retry,opnieuw proberen,reviewed,frappe,0.67,0.7,0.65,0.6,0.7,1.0,review
+Retry,Opnieuw proberen,reviewed,frappe,0.78,0.7,0.65,0.6,0.7,1.0,improved
 Return,Retour,reviewed,erpnext,0.91,0.85,0.9,0.9,1.0,1.0,ok
 Return / Debit Note,Retour / Debitnota,reviewed,erpnext,0.88,0.2,0.15,0.2,0.3,0.5,improved
 Return Against Delivery Note,Retour op pakbon,reviewed,erpnext,0.85,0.3,0.25,0.3,0.4,0.6,improved
-Return Against POS Invoice,Retourneren tegen POS-factuur,reviewed,erpnext,0.78,0.75,0.7,0.75,0.9,1.0,review
+Return Against POS Invoice,Retour op POS-factuur,reviewed,erpnext,0.84,0.75,0.7,0.75,0.9,1.0,improved
 Return Against Purchase Invoice,Retour op inkoopfactuur,reviewed,erpnext,0.88,0.25,0.2,0.25,0.35,0.5,improved
 Return Against Purchase Receipt,Retour op ontvangstbon,reviewed,erpnext,0.84,0.25,0.2,0.25,0.35,0.5,improved
 Return Against Sales Invoice,Retour op verkoopfactuur,reviewed,erpnext,0.88,0.25,0.2,0.25,0.35,0.5,improved
-Return amount cannot be greater unclaimed amount,Retourbedrag kan niet hoger zijn opgeëist bedrag,reviewed,erpnext,0.54,0.55,0.45,0.55,0.45,0.75,review
-Return to the Verification screen and enter the code displayed by your authentication app,Ga terug naar het scherm Verificatie en voer de code in die door uw verificatieapparaat wordt weergegeven,reviewed,frappe,0.76,0.75,0.7,0.75,0.85,0.9,review
+Return amount cannot be greater unclaimed amount,Retourbedrag kan niet groter zijn dan het niet-geclaimde bedrag,reviewed,erpnext,0.82,0.55,0.45,0.55,0.45,0.75,improved
+Return to the Verification screen and enter the code displayed by your authentication app,Ga terug naar het verificatiescherm en voer de code in die uw authenticatie-app weergeeft,reviewed,frappe,0.84,0.75,0.7,0.75,0.85,0.9,improved
 Returned Amount,Geretourneerd bedrag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Returned Qty,Geretourneerde hoeveelheid,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Returns,Retouren,reviewed,erpnext,0.9,0.3,0.25,0.3,0.6,0.7,improved
 Reverse Charge,Btw-verlegging,reviewed,erpnext,0.9,0.35,0.35,0.4,0.8,0.9,improved
-Reverse Icon Color,Reverse Icon Kleur,reviewed,frappe,0.55,0.55,0.45,0.5,0.6,0.9,review
-Revert,terugkeren,reviewed,frappe,0.61,0.6,0.55,0.55,0.7,1.0,review
-Revert Of,Terugkeren van,reviewed,frappe,0.62,0.6,0.55,0.55,0.75,1.0,review
-Reverted,teruggekeerd,reviewed,frappe,0.55,0.5,0.45,0.5,0.7,1.0,review
-Reverting length to {0} for '{1}' in '{2}'. Setting the length as {3} will cause truncation of data.,"Lengte terugzetten naar {0} voor &#39;{1}&#39; in &#39;{2}&#39;. Als u de lengte instelt op {3}, worden de gegevens afgekapt.",reviewed,frappe,0.63,0.6,0.55,0.6,0.7,0.85,review
+Reverse Icon Color,Omgekeerde pictogramkleur,reviewed,frappe,0.78,0.55,0.45,0.5,0.6,0.9,improved
+Revert,Terugdraaien,reviewed,frappe,0.82,0.6,0.55,0.55,0.7,1.0,improved
+Revert Of,Terugdraaien van,reviewed,frappe,0.8,0.6,0.55,0.55,0.75,1.0,improved
+Reverted,Teruggedraaid,reviewed,frappe,0.82,0.5,0.45,0.5,0.7,1.0,improved
+Reverting length to {0} for '{1}' in '{2}'. Setting the length as {3} will cause truncation of data.,"Lengte terugdraaien naar {0} voor '{1}' in '{2}'. Als u de lengte instelt op {3}, worden gegevens afgekapt.",reviewed,frappe,0.82,0.6,0.55,0.6,0.7,0.85,improved
 Review,Beoordeling,reviewed,both,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Review and Action,Beoordeling en actie,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Review Date,Herzieningsdatum,reviewed,erpnext,0.84,0.8,0.8,0.8,1.0,1.0,ok
-Review Details,Details herzien,reviewed,erpnext,0.63,0.6,0.55,0.6,0.75,1.0,review
-Review Invitation Sent,Review Uitnodiging verzonden,reviewed,erpnext,0.7,0.7,0.65,0.65,0.75,1.0,review
-Review Level,Review niveau,reviewed,frappe,0.65,0.65,0.6,0.6,0.7,1.0,review
-Review Levels,Beoordeling niveaus,reviewed,frappe,0.65,0.65,0.6,0.65,0.65,1.0,review
-Review Points,Review punten,reviewed,frappe,0.65,0.65,0.6,0.6,0.7,1.0,review
+Review Details,Details bekijken,reviewed,erpnext,0.8,0.6,0.55,0.6,0.75,1.0,improved
+Review Invitation Sent,Beoordelingsuitnodiging verzonden,reviewed,erpnext,0.82,0.7,0.65,0.65,0.75,1.0,improved
+Review Level,Beoordelingsniveau,reviewed,frappe,0.82,0.65,0.6,0.6,0.7,1.0,improved
+Review Levels,Beoordelingsniveaus,reviewed,frappe,0.84,0.65,0.6,0.65,0.65,1.0,improved
+Review Points,Beoordelingspunten,reviewed,frappe,0.84,0.65,0.6,0.6,0.7,1.0,improved
 Review Points:,Beoordelingspunten:,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Reviews,beoordelingen,reviewed,both,0.72,0.75,0.7,0.65,0.7,1.0,review
+Reviews,Beoordelingen,reviewed,both,0.82,0.75,0.7,0.65,0.7,1.0,improved
 Revoke,Intrekken,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Revoke <Key></Key>,Intrekken&lt;Key&gt;&lt;/Key&gt;,reviewed,erpnext,0.65,0.6,0.55,0.65,0.75,0.85,review
-Revoked,herroepen,reviewed,frappe,0.67,0.65,0.6,0.65,0.75,1.0,review
-RFQs are not allowed for {0} due to a scorecard standing of {1},RFQ&#39;s zijn niet toegestaan voor {0} door een scorecard van {1},reviewed,erpnext,0.63,0.6,0.55,0.6,0.65,0.8,review
+Revoke <Key></Key>,Intrekken <Key></Key>,reviewed,erpnext,0.8,0.6,0.55,0.65,0.75,0.85,improved
+Revoked,Ingetrokken,reviewed,frappe,0.82,0.65,0.6,0.65,0.75,1.0,improved
+RFQs are not allowed for {0} due to a scorecard standing of {1},RFQ's zijn niet toegestaan voor {0} vanwege een scorecardstatus van {1},reviewed,erpnext,0.84,0.6,0.55,0.6,0.65,0.8,improved
 rgt,rgt,reviewed,erpnext,0.97,0.9,1.0,1.0,1.0,1.0,ok
 Right,Rechts,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Right Index,Rechter Index,reviewed,erpnext,0.78,0.75,0.75,0.75,0.85,1.0,review
-Ringing,rinkelen,reviewed,erpnext,0.54,0.5,0.45,0.5,0.65,0.9,review
+Right Index,Rechterwijsvinger,reviewed,erpnext,0.8,0.75,0.75,0.75,0.85,1.0,improved
+Ringing,Overgaan,reviewed,erpnext,0.82,0.5,0.45,0.5,0.65,0.9,improved
 Risk Factors,Risicofactoren,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Road,Weg,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 road,weg,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Robots.txt,robots.txt,reviewed,frappe,0.99,0.95,1.0,1.0,1.0,1.0,ok
 Role,Rol,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Role Allowed to Edit Frozen Stock,Rol toegestaan om bevroren voorraad te bewerken,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
-Role Allowed to Set Frozen Accounts and Edit Frozen Entries,Rol toegestaan om bevroren accounts in te stellen en bevroren items te bewerken,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,0.9,review
+Role Allowed to Set Frozen Accounts and Edit Frozen Entries,Rol gemachtigd om geblokkeerde rekeningen in te stellen en geblokkeerde boekingen te bewerken,reviewed,erpnext,0.84,0.75,0.7,0.75,0.85,0.9,improved
 Role and Level,Rol en Niveau,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Role Name,Rolnaam,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Role Permission for Page and Report,Rolmachtiging voor pagina en rapport,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
@@ -8679,7 +8679,7 @@ Role Permissions Manager,Rolmachtigingenbeheerder,reviewed,frappe,0.86,0.85,0.8,
 Role Profile,Rolprofiel,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Roles,Rollen,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Roles Assigned,Toegewezen rollen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Roles can be set for users from their User page.,Rollen kunnen worden ingesteld voor gebruikers vanaf hun gebruikers pagina .,reviewed,frappe,0.74,0.75,0.65,0.75,0.7,0.95,review
+Roles can be set for users from their User page.,Rollen kunnen worden ingesteld voor gebruikers via hun gebruikerspagina.,reviewed,frappe,0.86,0.75,0.65,0.75,0.7,0.95,improved
 Roles HTML,Rollen HTML,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Roles Html,Rollen Html,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Room,Kamer,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -8687,11 +8687,11 @@ Room Name,Kamernaam,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Room Number,Kamernummer,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Room Type,Kamertype,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Rooms Booked,Kamers geboekt,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Root cannot be edited.,Root kan niet worden bewerkt .,reviewed,erpnext,0.7,0.7,0.65,0.7,0.7,0.95,review
-Root cannot have a parent cost center,Root kan niet een bovenliggende kostenplaats hebben,reviewed,erpnext,0.63,0.6,0.55,0.6,0.65,0.95,review
+Root cannot be edited.,Het hoofdelement kan niet worden bewerkt.,reviewed,erpnext,0.82,0.7,0.65,0.7,0.7,0.95,improved
+Root cannot have a parent cost center,Het hoofdelement kan geen bovenliggende kostenplaats hebben,reviewed,erpnext,0.84,0.6,0.55,0.6,0.65,0.95,improved
 Root Type,Hoofdtype,reviewed,custom,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Root Type is mandatory,Root Type is verplicht,reviewed,erpnext,0.67,0.65,0.6,0.65,0.75,1.0,review
-Root {0} cannot be deleted,Root {0} kan niet worden verwijderd,reviewed,frappe,0.68,0.65,0.6,0.65,0.8,1.0,review
+Root Type is mandatory,Basistype is verplicht,reviewed,erpnext,0.82,0.65,0.6,0.65,0.75,1.0,improved
+Root {0} cannot be deleted,Hoofdelement {0} kan niet worden verwijderd,reviewed,frappe,0.82,0.65,0.6,0.65,0.8,1.0,improved
 Round Off,Afronden,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Round Off Account,Afrondingsrekening,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Round Off Cost Center,Afrondingskostenplaats,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -8703,15 +8703,15 @@ Rounding Adjustment (Company Currency,Afrondingsverschil (bedrijfsvaluta,reviewe
 Rounding Adjustment (Company Currency),Afrondingsverschil (bedrijfsvaluta),reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Route History,Routegeschiedenis,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Route Redirects,Routeomleidingen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Route to Success Link,Route naar succeskoppeling,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
-"Route: Example ""/desk""",Route: Voorbeeld &quot;/ desk&quot;,reviewed,frappe,0.58,0.55,0.5,0.55,0.6,0.85,review
-Routing Name,Naam van routering,reviewed,erpnext,0.65,0.55,0.55,0.7,0.85,1.0,review
+Route to Success Link,Koppeling naar succespagina,reviewed,frappe,0.82,0.75,0.7,0.75,0.85,1.0,improved
+"Route: Example ""/desk""","Route: Voorbeeld ""/desk""",reviewed,frappe,0.84,0.55,0.5,0.55,0.6,0.85,improved
+Routing Name,Routeringnaam,reviewed,erpnext,0.8,0.55,0.55,0.7,0.85,1.0,improved
 Row,Rij,reviewed,frappe,0.97,0.9,1.0,1.0,1.0,1.0,ok
 Row #,Rij #,reviewed,both,0.95,0.9,0.9,1.0,1.0,1.0,ok
 Row # {0}:,Rij # {0}:,reviewed,erpnext,0.95,0.9,0.9,1.0,1.0,1.0,ok
 Row # {0}: Batch No must be same as {1} {2},Rij # {0}: Batchnr. moet hetzelfde zijn als {1} {2},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row # {0}: Cannot return more than {1} for Item {2},Rij #{0}: Kan niet meer dan {1} retourneren voor artikel {2},reviewed,erpnext,0.86,0.3,0.2,0.5,0.2,0.8,improved
-Row # {0}: Rate cannot be greater than the rate used in {1} {2},Rij # {0}: De tarief kan niet groter zijn dan de tarief die wordt gebruikt in {1} {2},reviewed,erpnext,0.54,0.55,0.45,0.65,0.4,1.0,review
+Row # {0}: Rate cannot be greater than the rate used in {1} {2},Rij #{0}: Het tarief kan niet hoger zijn dan het tarief in {1} {2},reviewed,erpnext,0.86,0.55,0.45,0.65,0.4,1.0,improved
 Row # {0}: Returned Item {1} does not exist in {2} {3},Rij # {0}: geretourneerd item {1} bestaat niet in {2} {3},reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
 Row # {0}: Serial No is mandatory,Rij # {0}: serienummer is verplicht,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row # {0}: Serial No {1} does not match with {2} {3},Rij # {0}: Serienummer {1} komt niet overeen met {2} {3},reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
@@ -8721,7 +8721,7 @@ Row #{0}:,Rij # {0}:,reviewed,frappe,0.95,0.9,0.9,1.0,1.0,1.0,ok
 Row #{0}: Accepted Warehouse and Supplier Warehouse cannot be same,Rij # {0}: Geaccepteerd magazijn en leveranciersmagazijn kunnen niet hetzelfde zijn,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Account {1} does not belong to company {2},Rij # {0}: account {1} hoort niet bij bedrijf {2},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Allocated Amount cannot be greater than outstanding amount.,Rij # {0}: Toegewezen bedrag mag niet groter zijn dan het uitstaande bedrag.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-"Row #{0}: Asset {1} cannot be submitted, it is already {2}","Rij # {0}: Asset {1} kan niet worden ingediend, is het al {2}",reviewed,erpnext,0.58,0.55,0.45,0.65,0.5,1.0,review
+"Row #{0}: Asset {1} cannot be submitted, it is already {2}","Rij #{0}: Activum {1} kan niet worden ingediend, het is al {2}",reviewed,erpnext,0.84,0.55,0.45,0.65,0.5,1.0,improved
 Row #{0}: Cannot delete item {1} which has already been billed.,Rij # {0}: kan item {1} dat al is gefactureerd niet verwijderen.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Cannot delete item {1} which has already been delivered,Rij # {0}: kan item {1} dat al is afgeleverd niet verwijderen,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Cannot delete item {1} which has already been received,Rij # {0}: kan item {1} dat al is ontvangen niet verwijderen,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
@@ -8729,12 +8729,12 @@ Row #{0}: Cannot delete item {1} which has work order assigned to it.,Rij # {0}:
 Row #{0}: Cannot delete item {1} which is assigned to customer's purchase order.,Rij # {0}: kan item {1} dat is toegewezen aan de bestelling van de klant niet verwijderen.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Cannot select Supplier Warehouse while suppling raw materials to subcontractor,Rij # {0}: Kan leveranciersmagazijn niet selecteren tijdens het leveren van grondstoffen aan onderaannemer,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Cannot set Rate if amount is greater than billed amount for Item {1}.,Rij # {0}: kan Tarief niet instellen als het bedrag groter is dan het gefactureerde bedrag voor artikel {1}.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Row #{0}: Check Out datetime cannot be less than Check In datetime,Rij # {0}: datetime voor uitchecken kan niet minder zijn dan datetime voor inchecken,reviewed,erpnext,0.6,0.55,0.5,0.65,0.6,1.0,review
+Row #{0}: Check Out datetime cannot be less than Check In datetime,Rij #{0}: Uitchecktijdstip kan niet vroeger zijn dan het inchecktijdstip,reviewed,erpnext,0.86,0.55,0.5,0.65,0.6,1.0,improved
 Row #{0}: Child Item should not be a Product Bundle. Please remove Item {1} and Save,Rij # {0}: onderliggend item mag geen productbundel zijn. Verwijder item {1} en sla het op,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Clearance date {1} cannot be before Cheque Date {2},Rij #{0}: Verwerkingsdatum {1} mag niet vóór chequedatum {2} liggen,reviewed,erpnext,0.87,0.45,0.4,0.5,0.5,0.7,improved
 Row #{0}: Conversion Factor is mandatory,Rij # {0}: conversiefactor is verplicht,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Cost Center {1} does not belong to company {2},Rij # {0}: Kostenplaats {1} hoort niet bij bedrijf {2},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Row #{0}: Duplicate entry in References {1} {2},Rij # {0}: Duplicate entry in Referenties {1} {2},reviewed,erpnext,0.57,0.55,0.5,0.55,0.6,0.9,review
+Row #{0}: Duplicate entry in References {1} {2},Rij #{0}: Dubbele vermelding in referenties {1} {2},reviewed,erpnext,0.84,0.55,0.5,0.55,0.6,0.9,improved
 Row #{0}: Expected Delivery Date cannot be before Purchase Order Date,Rij # {0}: Verwachte Afleverdatum kan niet vóór de Aankoopdatum zijn,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Invalid Local Fieldname,Rij # {0}: ongeldige lokale veldnaam,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Item added,Rij # {0}: item toegevoegd,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
@@ -8742,7 +8742,7 @@ Row #{0}: Item {1} is already fully received in Purchase Order {2},Rij # {0}: ar
 Row #{0}: Item {1} is not a Serialized/Batched Item. It cannot have a Serial No/Batch No against it.,Rij # {0}: artikel {1} is geen geserialiseerd / batch artikel. Het kan geen serienummer / batchnummer hebben.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Journal Entry {1} does not have account {2} or already matched against another voucher,Rij #{0}: Journaalboeking {1} heeft geen rekening {2} of is al verrekend met een ander boekstuk,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Not allowed to change Supplier as Purchase Order already exists,Rij # {0}: Niet toegestaan om van leverancier te veranderen als bestelling al bestaat,reviewed,erpnext,0.83,0.85,0.75,0.8,0.8,1.0,ok
-Row #{0}: Operation {1} is not completed for {2} qty of finished goods in Work Order {3}. Please update operation status via Job Card {4}.,Rij # {0}: bewerking {1} is niet voltooid voor {2} aantal voltooide goederen in werkorder {3}. Werk de bedieningsstatus bij via opdrachtkaart {4}.,reviewed,erpnext,0.67,0.65,0.6,0.7,0.65,1.0,review
+Row #{0}: Operation {1} is not completed for {2} qty of finished goods in Work Order {3}. Please update operation status via Job Card {4}.,Rij #{0}: Bewerking {1} is niet voltooid voor {2} stuks gereed product in werkorder {3}. Werk de bewerkingsstatus bij via taakkaart {4}.,reviewed,erpnext,0.86,0.65,0.6,0.7,0.65,1.0,improved
 Row #{0}: Payment document is required to complete the transaction,Rij # {0}: Betalingsdocument is vereist om de transactie te voltooien,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Please enter the result value for {1},Rij # {0}: voer de resultaatwaarde in voor {1},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Please set Mapping or Default Value for the field {1} since its a dependency field,Rij # {0}: stel de toewijzing of standaardwaarde in voor het veld {1} aangezien het een afhankelijkheidsveld is,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
@@ -8752,7 +8752,7 @@ Row #{0}: Please specify Serial No for Item {1},Rij #{0}: Voer serienummer in vo
 Row #{0}: Qty increased by 1,Rij # {0}: aantal verhoogd met 1,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Quantity for Item {1} cannot be zero.,Rij # {0}: Artikelhoeveelheid voor item {1} kan niet nul zijn.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Rate must be same as {1}: {2} ({3} / {4}),Rij #{0}: Tarief moet gelijk zijn aan {1}: {2} ({3} / {4}),reviewed,erpnext,0.88,0.2,0.15,0.4,0.15,0.8,improved
-Row #{0}: Reference Document Type must be one of Expense Claim or Journal Entry,Rij # {0}: Referentiedocumenttype moet één van de kostenrekening of het journaalboekje zijn,reviewed,erpnext,0.53,0.5,0.45,0.55,0.5,0.9,review
+Row #{0}: Reference Document Type must be one of Expense Claim or Journal Entry,Rij #{0}: Referentiedocumenttype moet Onkostendeclaratie of Journaalpost zijn,reviewed,erpnext,0.86,0.5,0.45,0.55,0.5,0.9,improved
 "Row #{0}: Reference Document Type must be one of Purchase Order, Purchase Invoice or Journal Entry","Rij #{0}: Referentiedocumenttype moet Inkooporder, Inkoopfactuur of Journaalpost zijn",reviewed,erpnext,0.86,0.45,0.4,0.5,0.5,0.8,improved
 "Row #{0}: Reference Document Type must be one of Sales Order, Sales Invoice, Journal Entry or Dunning","Rij # {0}: het type referentiedocument moet een verkooporder, verkoopfactuur, journaalboeking of aanmaning zijn",reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Rejected Qty can not be entered in Purchase Return,Rij #{0}: Afgekeurde hoeveelheid kan niet worden ingevoerd bij een inkoopretour,reviewed,erpnext,0.87,0.3,0.25,0.45,0.25,0.8,improved
@@ -8761,16 +8761,16 @@ Row #{0}: Reqd by Date cannot be before Transaction Date,Rij # {0}: Gewenste dat
 Row #{0}: Serial No {1} does not belong to Batch {2},Rij # {0}: Serienummer {1} hoort niet bij Batch {2},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Service End Date cannot be before Invoice Posting Date,Rij # {0}: Einddatum van de service kan niet vóór de boekingsdatum van de factuur liggen,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: Service Start and End Date is required for deferred accounting,Rij # {0}: Service-start- en einddatum is vereist voor uitgestelde boekhouding,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Row #{0}: Service Start Date cannot be greater than Service End Date,Rij # {0}: Service startdatum kan niet groter zijn dan service einddatum,reviewed,erpnext,0.77,0.75,0.7,0.8,0.75,1.0,review
+Row #{0}: Service Start Date cannot be greater than Service End Date,Rij #{0}: Servicestartdatum kan niet later zijn dan de service-einddatum,reviewed,erpnext,0.86,0.75,0.7,0.8,0.75,1.0,improved
 Row #{0}: Set Supplier for item {1},Rij #{0}: Stel een leverancier in voor artikel {1},reviewed,erpnext,0.88,0.3,0.25,0.45,0.3,0.7,improved
 Row #{0}: Status must be {1} for Invoice Discounting {2},Rij # {0}: Status moet {1} zijn voor factuurkorting {2},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: The batch {1} has already expired.,Rij # {0}: de batch {1} is al verlopen.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-"Row #{0}: The batch {1} has only {2} qty. Please select another batch which has {3} qty available or split the row into multiple rows, to deliver/issue from multiple batches","Rij # {0}: De partij {1} heeft slechts {2} aantal. Selecteer alstublieft een andere partij die {3} beschikbaar heeft of verdeel de rij in meerdere rijen, om te leveren / uit te voeren vanuit meerdere batches",reviewed,erpnext,0.76,0.75,0.7,0.75,0.75,1.0,review
+"Row #{0}: The batch {1} has only {2} qty. Please select another batch which has {3} qty available or split the row into multiple rows, to deliver/issue from multiple batches",Rij #{0}: Partij {1} heeft slechts {2} stuks. Selecteer een andere partij met {3} stuks beschikbaar of splits de rij in meerdere rijen om vanuit meerdere partijen te leveren of uit te geven.,reviewed,erpnext,0.86,0.75,0.7,0.75,0.75,1.0,improved
 Row #{0}: Timings conflicts with row {1},Rij #{0}: Tijden conflicteren met rij {1},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{0}: {1} can not be negative for item {2},Rij #{0}: {1} mag niet negatief zijn voor artikel {2},reviewed,erpnext,0.9,0.2,0.15,0.3,0.15,0.6,improved
 Row #{0}: {1} is required to create the Opening {2} Invoices,Rij # {0}: {1} is vereist om de openingsfacturen {2} te maken,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{}: Currency of {} - {} doesn't matches company currency.,Rij # {}: valuta van {} - {} komt niet overeen met de valuta van het bedrijf.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Row #{}: Depreciation Posting Date should not be equal to Available for Use Date.,Rij # {}: Afschrijvingsboekingsdatum mag niet gelijk zijn aan Beschikbaar voor gebruik.,reviewed,erpnext,0.76,0.75,0.7,0.8,0.75,0.85,review
+Row #{}: Depreciation Posting Date should not be equal to Available for Use Date.,Rij #{}: De afschrijvingsboekingsdatum mag niet gelijk zijn aan de datum beschikbaar voor gebruik.,reviewed,erpnext,0.86,0.75,0.7,0.8,0.75,0.85,improved
 Row #{}: Item Code: {} is not available under warehouse {}.,Rij # {}: artikelcode: {} is niet beschikbaar onder magazijn {}.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{}: No batch selected against item: {}. Please select a batch or remove it to complete transaction.,Rij # {}: geen batch geselecteerd voor item: {}. Selecteer een batch of verwijder deze om de transactie te voltooien.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{}: No serial number selected against item: {}. Please select one or remove it to complete transaction.,Rij # {}: geen serienummer geselecteerd voor item: {}. Selecteer er een of verwijder deze om de transactie te voltooien.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
@@ -8778,12 +8778,12 @@ Row #{}: Original Invoice {} of return invoice {} is {}.,Rij # {}: originele fac
 Row #{}: Please asign task to a member.,Rij # {}: wijs de taak toe aan een lid.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{}: Please select a serial no and batch against item: {} or remove it to complete transaction.,Rij # {}: selecteer een serienummer en batch voor artikel: {} of verwijder het om de transactie te voltooien.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{}: POS Invoice {} has been {},Rij # {}: POS-factuur {} is {},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Row #{}: POS Invoice {} is not against customer {},Rij # {}: POS-factuur {} is niet gericht op klant {},reviewed,erpnext,0.76,0.75,0.7,0.8,0.75,1.0,review
-Row #{}: POS Invoice {} is not submitted yet,Rij # {}: POS-factuur {} is nog niet verzonden,reviewed,erpnext,0.76,0.75,0.7,0.8,0.75,1.0,review
-Row #{}: Selling rate for item {} is lower than its {}. Selling {} should be atleast {},Rij # {}: het verkooppercentage voor artikel {} is lager dan zijn {}. Verkopen {} zou minstens {} moeten zijn,reviewed,erpnext,0.75,0.75,0.7,0.75,0.7,1.0,review
+Row #{}: POS Invoice {} is not against customer {},Rij #{}: POS-factuur {} is niet van klant {},reviewed,erpnext,0.84,0.75,0.7,0.8,0.75,1.0,improved
+Row #{}: POS Invoice {} is not submitted yet,Rij #{}: POS-factuur {} is nog niet ingediend,reviewed,erpnext,0.84,0.75,0.7,0.8,0.75,1.0,improved
+Row #{}: Selling rate for item {} is lower than its {}. Selling {} should be atleast {},Rij #{}: De verkoopprijs voor artikel {} is lager dan {}. De verkoopprijs {} moet minimaal {} zijn.,reviewed,erpnext,0.86,0.75,0.7,0.75,0.7,1.0,improved
 Row #{}: Serial No {} cannot be returned since it was not transacted in original invoice {},Rij # {}: serienummer {} kan niet worden geretourneerd omdat deze niet is verwerkt in de originele factuur {},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{}: Serial No. {} has already been transacted into another POS Invoice. Please select valid serial no.,Rij # {}: serienummer {} is al verwerkt in een andere POS-factuur. Selecteer een geldig serienummer.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Row #{}: Serial Nos. {} has already been transacted into another POS Invoice. Please select valid serial no.,Rij # {}: serienummers {} is al verwerkt in een andere POS-factuur. Selecteer een geldig serienummer.,reviewed,erpnext,0.75,0.75,0.7,0.8,0.65,1.0,review
+Row #{}: Serial Nos. {} has already been transacted into another POS Invoice. Please select valid serial no.,Rij #{}: Serienummer {} is al verwerkt in een andere POS-factuur. Selecteer een geldig serienummer.,reviewed,erpnext,0.86,0.75,0.7,0.8,0.65,1.0,improved
 Row #{}: Stock quantity not enough for Item Code: {} under warehouse {}. Available quantity {}.,Rij #{}: Voorraad onvoldoende voor artikelcode {} in magazijn {}. Beschikbare hoeveelheid: {}.,reviewed,erpnext,0.88,0.4,0.35,0.55,0.35,0.8,improved
 Row #{}: You cannot add postive quantities in a return invoice. Please remove item {} to complete the return.,Rij # {}: u kunt geen positieve hoeveelheden toevoegen aan een retourfactuur. Verwijder item {} om de retourzending te voltooien.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{}: You must select {} serial numbers for item {}.,Rij # {}: u moet {} serienummers voor artikel {} selecteren.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
@@ -8791,12 +8791,12 @@ Row #{}: {},Rij # {}: {},reviewed,erpnext,0.95,0.9,0.9,1.0,1.0,1.0,ok
 Row #{}: {} of {} should be {}. Please modify the account or select a different account.,Rij # {}: {} van {} moet {} zijn. Pas het account aan of selecteer een ander account.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row #{}: {} {} does not exist.,Rij # {}: {} {} bestaat niet.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row Index,Rij-index,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Row Name,Rij naam,reviewed,frappe,0.77,0.75,0.7,0.8,0.8,1.0,review
+Row Name,Rijnaam,reviewed,frappe,0.82,0.75,0.7,0.8,0.8,1.0,improved
 Row No,Rij nr,reviewed,frappe,0.8,0.8,0.75,0.8,0.8,1.0,ok
 Row No {0}: Amount cannot be greater than Pending Amount against Expense Claim {1}. Pending Amount is {2},Rij {0}: Bedrag mag niet groter zijn dan het openstaande bedrag bij declaratie {1}. Openstaand bedrag: {2},reviewed,erpnext,0.88,0.15,0.1,0.25,0.1,0.5,improved
 Row Number,Rij nummer,reviewed,frappe,0.8,0.8,0.75,0.8,0.8,1.0,ok
 Row Spacing,Rijafstand,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Row Spacing UOM,Rijafstand UOM,reviewed,erpnext,0.76,0.75,0.7,0.75,0.8,1.0,review
+Row Spacing UOM,Rijafstand maateenheid,reviewed,erpnext,0.8,0.75,0.7,0.75,0.8,1.0,improved
 Row Status,Rij status,reviewed,frappe,0.8,0.8,0.75,0.8,0.8,1.0,ok
 Row Values Changed,Rijwaarden gewijzigd,reviewed,frappe,0.9,0.35,0.3,0.45,0.35,0.7,improved
 Row {0},Rij {0},reviewed,frappe,0.95,0.9,0.9,1.0,1.0,1.0,ok
@@ -8805,53 +8805,53 @@ Row {0}# Item {1} cannot be transferred more than {2} against Purchase Order {3}
 Row {0}: Activity Type is mandatory.,Rij {0}: Activiteit Type is verplicht.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Row {0}: Advance against Customer must be credit,Rij {0}: Voorschot aan klant moet een creditpost zijn,reviewed,erpnext,0.88,0.3,0.25,0.45,0.25,0.7,improved
 Row {0}: Advance against Supplier must be debit,Rij {0}: Voorschot aan leverancier moet een debetpost zijn,reviewed,erpnext,0.88,0.3,0.25,0.45,0.25,0.7,improved
-Row {0}: Allocated amount {1} must be less than or equals to invoice outstanding amount {2},Rij {0}: Toegewezen bedrag {1} moet kleiner zijn dan of gelijk aan openstaande bedrag te factureren {2},reviewed,erpnext,0.67,0.85,0.45,0.6,0.55,0.9,review
-Row {0}: Allocated amount {1} must be less than or equals to Payment Entry amount {2},Rij {0}: Toegewezen bedrag {1} moet kleiner zijn dan of gelijk aan Payment Entry bedrag {2},reviewed,erpnext,0.71,0.85,0.55,0.65,0.6,0.9,review
+Row {0}: Allocated amount {1} must be less than or equals to invoice outstanding amount {2},Rij {0}: Toegewezen bedrag {1} moet kleiner zijn dan of gelijk zijn aan het openstaande factuurbedrag {2},reviewed,erpnext,0.86,0.85,0.45,0.6,0.55,0.9,improved
+Row {0}: Allocated amount {1} must be less than or equals to Payment Entry amount {2},Rij {0}: Het toegewezen bedrag {1} mag niet hoger zijn dan het bedrag van de betaalboeking {2},reviewed,erpnext,0.81,0.85,0.55,0.65,0.6,0.9,improved
 Row {0}: An Reorder entry already exists for this warehouse {1},Rij {0}: Er bestaat al een nabestelling voor dit magazijn {1},reviewed,erpnext,0.87,0.9,0.8,0.85,0.85,0.95,ok
 Row {0}: Bill of Materials not found for the Item {1},Rij {0}: Bill of Materials niet gevonden voor het artikel {1},reviewed,erpnext,0.87,0.9,0.8,0.85,0.85,0.95,ok
-Row {0}: Cannot create Inpatient Medication Entry against cancelled Inpatient Medication Order {1},Rij {0}: kan geen opname voor intramurale medicatie maken tegen geannuleerde medicatiebestelling voor intramurale patiënten {1},reviewed,erpnext,0.56,0.7,0.35,0.5,0.4,0.8,review
-Row {0}: Conversion Factor is mandatory,Rij {0}: Conversie Factor is verplicht,reviewed,erpnext,0.74,0.75,0.65,0.7,0.8,0.9,review
+Row {0}: Cannot create Inpatient Medication Entry against cancelled Inpatient Medication Order {1},Rij {0}: Het is niet mogelijk een medicatieboeking aan te maken voor een geannuleerde klinische medicatieopdracht {1},reviewed,erpnext,0.82,0.7,0.35,0.5,0.4,0.8,improved
+Row {0}: Conversion Factor is mandatory,Rij {0}: Conversiefactor is verplicht,reviewed,erpnext,0.82,0.75,0.65,0.7,0.8,0.9,improved
 Row {0}: Cost center is required for an item {1},Rij {0}: Kostencentrum is vereist voor een item {1},reviewed,erpnext,0.82,0.85,0.75,0.8,0.8,0.9,ok
-Row {0}: Credit entry can not be linked with a {1},Rij {0}: kan creditering niet worden gekoppeld met een {1},reviewed,erpnext,0.57,0.7,0.4,0.55,0.35,0.85,review
-Row {0}: Currency of the BOM #{1} should be equal to the selected currency {2},Rij {0}: Munt van de BOM # {1} moet gelijk zijn aan de geselecteerde valuta zijn {2},reviewed,erpnext,0.54,0.75,0.3,0.55,0.25,0.8,review
-Row {0}: Debit entry can not be linked with a {1},Rij {0}: debitering niet kan worden verbonden met een {1},reviewed,erpnext,0.53,0.7,0.3,0.5,0.25,0.85,review
-Row {0}: Delivery Warehouse ({1}) and Customer Warehouse ({2}) can not be same,Rij {0}: Delivery Warehouse ({1}) en Customer Warehouse ({2}) kunnen niet hetzelfde zijn,reviewed,erpnext,0.7,0.75,0.6,0.6,0.7,0.9,review
+Row {0}: Credit entry can not be linked with a {1},Rij {0}: Een creditboeking kan niet worden gekoppeld aan een {1},reviewed,erpnext,0.82,0.7,0.4,0.55,0.35,0.85,improved
+Row {0}: Currency of the BOM #{1} should be equal to the selected currency {2},Rij {0}: De valuta van stuklijst #{1} moet overeenkomen met de geselecteerde valuta {2},reviewed,erpnext,0.84,0.75,0.3,0.55,0.25,0.8,improved
+Row {0}: Debit entry can not be linked with a {1},Rij {0}: Een debetboeking kan niet worden gekoppeld aan een {1},reviewed,erpnext,0.84,0.7,0.3,0.5,0.25,0.85,improved
+Row {0}: Delivery Warehouse ({1}) and Customer Warehouse ({2}) can not be same,Rij {0}: Leveringsmagazijn ({1}) en klantmagazijn ({2}) mogen niet hetzelfde zijn,reviewed,erpnext,0.83,0.75,0.6,0.6,0.7,0.9,improved
 Row {0}: Depreciation Start Date is required,Rij {0}: startdatum van afschrijving is vereist,reviewed,erpnext,0.82,0.85,0.75,0.8,0.8,0.9,ok
 Row {0}: Due Date in the Payment Terms table cannot be before Posting Date,Rij {0}: de vervaldatum in de tabel met betalingsvoorwaarden mag niet vóór de boekingsdatum liggen,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
-Row {0}: Enter location for the asset item {1},Rij {0}: geef de locatie op voor het item item {1},reviewed,erpnext,0.51,0.7,0.3,0.5,0.25,0.75,review
+Row {0}: Enter location for the asset item {1},Rij {0}: Geef de locatie op voor activapost {1},reviewed,erpnext,0.8,0.7,0.3,0.5,0.25,0.75,improved
 Row {0}: Exchange Rate is mandatory,Rij {0}: Wisselkoers is verplicht,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Row {0}: Expected Value After Useful Life must be less than Gross Purchase Amount,Rij {0}: verwachte waarde na bruikbare levensduur moet lager zijn dan bruto inkoopbedrag,reviewed,erpnext,0.89,0.9,0.85,0.85,0.85,0.95,ok
 "Row {0}: For Supplier {1}, Email Address is Required to send an email",Rij {0}: voor leverancier {1} is het e-mailadres vereist om een e-mail te verzenden,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Row {0}: From Time and To Time is mandatory.,Rij {0}: Begintijd en eindtijd zijn verplicht.,reviewed,erpnext,0.9,0.65,0.25,0.45,0.2,0.8,improved
 Row {0}: From Time and To Time of {1} is overlapping with {2},Rij {0}: Begintijd en eindtijd van {1} overlappen met {2},reviewed,erpnext,0.89,0.65,0.3,0.45,0.25,0.75,improved
-Row {0}: From time must be less than to time,Rij {0}: van tijd moet korter zijn dan tot tijd,reviewed,erpnext,0.59,0.7,0.4,0.55,0.45,0.85,review
+Row {0}: From time must be less than to time,Rij {0}: Begintijd moet eerder zijn dan eindtijd,reviewed,erpnext,0.88,0.7,0.4,0.55,0.45,0.85,improved
 Row {0}: Hours value must be greater than zero.,Rij {0}: Aantal uren moet groter zijn dan nul.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
-Row {0}: Invalid Item Tax Template for item {1},Rij {0}: ongeldige BTW-sjabloon voor artikel voor artikel {1},reviewed,erpnext,0.51,0.65,0.35,0.5,0.3,0.7,review
+Row {0}: Invalid Item Tax Template for item {1},Rij {0}: Ongeldig btw-sjabloon voor artikel {1},reviewed,erpnext,0.85,0.65,0.35,0.5,0.3,0.7,improved
 Row {0}: Invalid reference {1},Rij {0}: Ongeldige referentie {1},reviewed,erpnext,0.92,0.7,0.2,0.3,0.2,0.8,improved
-Row {0}: Not allowed to disable Mandatory for standard fields,Rij {0}: niet toegestaan verplicht voor standaardvelden uitschakelen,reviewed,frappe,0.68,0.75,0.55,0.6,0.6,0.85,review
+Row {0}: Not allowed to disable Mandatory for standard fields,Rij {0}: Verplicht veld kan niet worden uitgeschakeld voor standaardvelden,reviewed,frappe,0.82,0.75,0.55,0.6,0.6,0.85,improved
 Row {0}: Not allowed to enable Allow on Submit for standard fields,Rij {0}: 'Toestaan bij indienen' mag niet worden ingeschakeld voor standaardvelden,reviewed,frappe,0.87,0.65,0.25,0.4,0.2,0.75,improved
-Row {0}: Party / Account does not match with {1} / {2} in {3} {4},Rij {0}: Party / Account komt niet overeen met {1} / {2} in {3} {4},reviewed,erpnext,0.67,0.7,0.55,0.55,0.65,0.9,review
-Row {0}: Party Type and Party is required for Receivable / Payable account {1},Rij {0}: Party Type en Party is vereist voor Debiteuren / Crediteuren rekening {1},reviewed,erpnext,0.67,0.75,0.55,0.6,0.6,0.85,review
-Row {0}: Payment against Sales/Purchase Order should always be marked as advance,Rij {0}: Betaling tegen Sales / Purchase Order moet altijd worden gemarkeerd als voorschot,reviewed,erpnext,0.73,0.8,0.65,0.65,0.7,0.85,review
+Row {0}: Party / Account does not match with {1} / {2} in {3} {4},Rij {0}: Partij / Rekening komt niet overeen met {1} / {2} in {3} {4},reviewed,erpnext,0.8,0.7,0.55,0.55,0.65,0.9,improved
+Row {0}: Party Type and Party is required for Receivable / Payable account {1},Rij {0}: Partijtype en partij zijn verplicht voor debiteuren-/crediteurenrekening {1},reviewed,erpnext,0.85,0.75,0.55,0.6,0.6,0.85,improved
+Row {0}: Payment against Sales/Purchase Order should always be marked as advance,Rij {0}: Betaling voor een verkoop- of inkooporder moet altijd als voorschot worden gemarkeerd,reviewed,erpnext,0.85,0.8,0.65,0.65,0.7,0.85,improved
 Row {0}: Please check 'Is Advance' against Account {1} if this is an advance entry.,Rij {0}: Vink 'Is voorschot' aan bij rekening {1} als dit een voorschotboeking betreft.,reviewed,erpnext,0.88,0.65,0.3,0.45,0.25,0.75,improved
-Row {0}: Please set at Tax Exemption Reason in Sales Taxes and Charges,Rij {0}: Stel in op Belastingvrijstellingsreden in omzetbelasting en kosten,reviewed,erpnext,0.63,0.7,0.5,0.55,0.55,0.8,review
+Row {0}: Please set at Tax Exemption Reason in Sales Taxes and Charges,Rij {0}: Vul de reden van belastingvrijstelling in bij Omzetbelasting en toeslagen,reviewed,erpnext,0.82,0.7,0.5,0.55,0.55,0.8,improved
 Row {0}: Please set the correct code on Mode of Payment {1},Rij {0}: stel de juiste code in op Betalingswijze {1},reviewed,erpnext,0.89,0.9,0.85,0.85,0.85,0.95,ok
 Row {0}: Please set the Mode of Payment in Payment Schedule,Rij {0}: stel de Betalingswijze in Betalingsschema in,reviewed,erpnext,0.89,0.9,0.85,0.85,0.85,0.95,ok
 Row {0}: Quality Inspection rejected for item {1},Rij {0}: kwaliteitscontrole afgewezen voor artikel {1},reviewed,erpnext,0.89,0.9,0.85,0.85,0.85,0.95,ok
 Row {0}: Quantity not available for {4} in warehouse {1} at posting time of the entry ({2} {3}),Rij {0}: hoeveelheid niet beschikbaar voor {4} in magazijn {1} op het moment van boeking ({2} {3}),reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
-Row {0}: select the workstation against the operation {1},Rij {0}: selecteer het werkstation tegen de bewerking {1},reviewed,erpnext,0.67,0.75,0.55,0.6,0.6,0.85,review
+Row {0}: select the workstation against the operation {1},Rij {0}: Selecteer een werkstation voor bewerking {1},reviewed,erpnext,0.84,0.75,0.55,0.6,0.6,0.85,improved
 Row {0}: Subcontracted Item is mandatory for the raw material {1},Rij {0}: uitbesteed artikel is verplicht voor de grondstof {1},reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,0.9,ok
 "Row {0}: The item {1}, quantity must be positive number","Rij {0}: het artikel {1}, de hoeveelheid moet een positief getal zijn",reviewed,erpnext,0.89,0.9,0.85,0.85,0.85,0.95,ok
 Row {0}: This Medication Order is already marked as completed,Rij {0}: deze medicatiebestelling is al gemarkeerd als voltooid,reviewed,erpnext,0.89,0.9,0.85,0.85,0.85,0.95,ok
-Row {0}: UOM Conversion Factor is mandatory,Rij {0}: Verpakking Conversie Factor is verplicht,reviewed,erpnext,0.51,0.55,0.35,0.4,0.5,0.75,review
+Row {0}: UOM Conversion Factor is mandatory,Rij {0}: Conversiefactor voor maateenheid is verplicht,reviewed,erpnext,0.83,0.55,0.35,0.4,0.5,0.75,improved
 Row {0}: user has not applied the rule {1} on the item {2},Rij {0}: gebruiker heeft regel {1} niet toegepast op item {2},reviewed,erpnext,0.89,0.9,0.85,0.85,0.85,0.95,ok
 Row {0}: {1} must be greater than 0,Rij {0}: {1} moet groter zijn dan 0,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,0.95,ok
 Row {0}: {1} Serial numbers required for Item {2}. You have provided {3}.,Rij {0}: {1} Serienummers vereist voor item {2}. U heeft {3} verstrekt.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.85,0.95,ok
 Row {0}: {1} {2} does not match with {3},Rij {0}: {1} {2} komt niet overeen met {3},reviewed,erpnext,0.92,0.7,0.3,0.45,0.25,0.8,improved
 Row {0}:Sibling Date of Birth cannot be greater than today.,Rij {0}: Geboortedatum broer of zus kan niet groter zijn dan vandaag.,reviewed,erpnext,0.82,0.85,0.75,0.8,0.8,0.9,ok
-Row {0}:Start Date must be before End Date,Rij {0} : Start Datum moet voor Einddatum zijn,reviewed,erpnext,0.7,0.75,0.6,0.65,0.6,0.85,review
-"Row {1}: Quantity ({0}) cannot be a fraction. To allow this, disable '{2}' in UOM {3}.",Rij {1}: hoeveelheid ({0}) mag geen breuk zijn. Schakel &#39;{2}&#39; uit in maateenheid {3} om dit toe te staan.,reviewed,erpnext,0.7,0.8,0.6,0.65,0.55,0.85,review
-Row {}: Asset Naming Series is mandatory for the auto creation for item {},Rij {}: Serie voor naamgeving van items is verplicht voor het automatisch maken van item {},reviewed,erpnext,0.62,0.65,0.5,0.55,0.55,0.8,review
+Row {0}:Start Date must be before End Date,Rij {0}: Startdatum moet voor de einddatum liggen,reviewed,erpnext,0.88,0.75,0.6,0.65,0.6,0.85,improved
+"Row {1}: Quantity ({0}) cannot be a fraction. To allow this, disable '{2}' in UOM {3}.",Rij {1}: Hoeveelheid ({0}) mag geen breuk zijn. Schakel '{2}' uit bij maateenheid {3} om dit toe te staan.,reviewed,erpnext,0.86,0.8,0.6,0.65,0.55,0.85,improved
+Row {}: Asset Naming Series is mandatory for the auto creation for item {},Rij {}: Activanummerreeks is verplicht voor het automatisch aanmaken van artikel {},reviewed,erpnext,0.83,0.65,0.5,0.55,0.55,0.8,improved
 Row {}: Expense Head changed to {},Rij {}: uitgavenkop gewijzigd in {},reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,0.9,ok
 Row({0}): {1} is already discounted in {2},Rij ({0}): {1} is al verdisconteerd in {2},reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,0.9,ok
 Rows Added,Rijen toegevoegd,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,0.95,ok
@@ -8864,38 +8864,38 @@ Rule Applied,Regel toegepast,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,0.95,ok
 Rule Conditions,Regelvoorwaarden,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,0.9,ok
 Rule Description,Regelbeschrijving,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,0.95,ok
 Rule Name,Regelnaam,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,0.95,ok
-Rules defining transition of state in the workflow.,Regels met betrekking tot de overgang van de staat in de workflow.,reviewed,frappe,0.67,0.75,0.55,0.6,0.6,0.85,review
+Rules defining transition of state in the workflow.,Regels voor statusovergangen in de workflow.,reviewed,frappe,0.87,0.75,0.55,0.6,0.6,0.85,improved
 Rules for adding shipping costs.,Regels voor het toevoegen van verzendkosten.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.85,0.95,ok
 Rules for applying different promotional schemes.,Regels voor het toepassen van verschillende promotieregelingen.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.85,0.95,ok
-Rules for applying pricing and discount.,Regels voor de toepassing van prijzen en kortingen .,reviewed,erpnext,0.73,0.8,0.65,0.7,0.6,0.85,review
+Rules for applying pricing and discount.,Regels voor prijsstelling en kortingen.,reviewed,erpnext,0.86,0.8,0.65,0.7,0.6,0.85,improved
 "Rules for how states are transitions, like next state and which role is allowed to change state etc.","Regels voor de manier waarop stadia overgaan, zoals 'volgend stadium' en welke rol dit stadium mag veranderen, etc.",reviewed,frappe,0.82,0.85,0.75,0.75,0.8,0.9,ok
 Rules with higher priority number will be applied first.,Regels met een hoger prioriteitsnummer worden eerst toegepast.,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,0.95,ok
 Run,Uitvoeren,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,0.95,ok
 Run Jobs only Daily if Inactive For (Days),Taken alleen dagelijks uitvoeren indien inactief gedurende (dagen),reviewed,frappe,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Run scheduled jobs only if checked,Voer geplande taken alleen uit als dit is aangevinkt,reviewed,frappe,0.88,0.65,0.3,0.4,0.25,0.8,improved
-S.O. No.,VO nr.,reviewed,erpnext,0.61,0.6,0.5,0.5,0.7,0.8,review
+S.O. No.,Verkooporder nr.,reviewed,erpnext,0.82,0.6,0.5,0.5,0.7,0.8,improved
 S3 Backup complete!,S3 Back-up voltooid!,reviewed,frappe,0.89,0.9,0.85,0.85,0.85,0.95,ok
 S3 Backup Settings,S3 Back-upinstellingen,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,0.95,ok
 S3 Bucket Details,S3-bucketgegevens,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,0.95,ok
 sa-east-1,sa-east-1,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Safety Stock,Veiligheidsvoorraad,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,0.95,ok
 Salary,Salaris,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,0.95,ok
-Salary Mode,Salaris Modus,reviewed,erpnext,0.61,0.7,0.45,0.55,0.55,0.8,review
+Salary Mode,Betalingswijze salaris,reviewed,erpnext,0.81,0.7,0.45,0.55,0.55,0.8,improved
 Salary Slip,Salarisstrook,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
-Salary Slip submitted for period from {0} to {1},Salarisslip ingediend voor een periode van {0} tot {1},reviewed,erpnext,0.65,0.75,0.5,0.6,0.55,0.85,review
-Salary Structure must be submitted before submission of Tax Ememption Declaration,De salarisstructuur moet worden ingediend voordat de belastingemissieverklaring wordt ingediend,reviewed,erpnext,0.59,0.7,0.45,0.55,0.4,0.8,review
+Salary Slip submitted for period from {0} to {1},Loonstrook voor de periode van {0} tot en met {1} is ingediend,reviewed,erpnext,0.85,0.75,0.5,0.6,0.55,0.85,improved
+Salary Structure must be submitted before submission of Tax Ememption Declaration,Dien eerst de salarisstructuur in voordat u de belastingvrijstellingsverklaring indient,reviewed,erpnext,0.84,0.7,0.45,0.55,0.4,0.8,improved
 Salary Withholding,Salarisinhouding,reviewed,custom,0.89,0.9,0.85,0.85,0.9,0.95,ok
-Sales,verkoop,reviewed,erpnext,0.64,0.7,0.55,0.55,0.55,0.85,review
+Sales,Verkoop,reviewed,erpnext,0.86,0.7,0.55,0.55,0.55,0.85,improved
 Sales Account,Verkooprekening,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Sales Analytics,Verkoopanalyse,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
-Sales and Returns,Verkoop en retourneren,reviewed,erpnext,0.68,0.75,0.55,0.6,0.6,0.85,review
-Sales campaigns.,Verkoop campagnes,reviewed,erpnext,0.68,0.75,0.6,0.65,0.55,0.8,review
+Sales and Returns,Verkoop en retouren,reviewed,erpnext,0.87,0.75,0.55,0.6,0.6,0.85,improved
+Sales campaigns.,Verkoopscampagnes.,reviewed,erpnext,0.84,0.75,0.6,0.65,0.55,0.8,improved
 Sales Contributions and Incentives,Verkoopbijdragen en incentives,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Sales Defaults,Standaard verkoopwaarden,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Sales Details,Verkoopgegevens,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Sales Expenses,Verkoopkosten,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Sales Forecast,Verkoopprognose,reviewed,custom,0.91,0.9,0.9,0.9,0.9,0.95,ok
-Sales Funnel,Verkoop Trechter,reviewed,erpnext,0.63,0.7,0.5,0.55,0.6,0.8,review
+Sales Funnel,Verkooptrechter,reviewed,erpnext,0.85,0.7,0.5,0.55,0.6,0.8,improved
 Sales Invoice,Verkoopfactuur,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,0.95,ok
 Sales Invoice Advance,Verkoopfactuur Voorschot,reviewed,erpnext,0.81,0.85,0.75,0.75,0.8,0.9,ok
 Sales Invoice Item,Verkoopfactuur Artikel,reviewed,erpnext,0.81,0.85,0.75,0.75,0.8,0.9,ok
@@ -8903,59 +8903,59 @@ Sales Invoice No,Verkoopfactuur nr.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95
 Sales Invoice or Patient Encounter is required to create Lab Tests,Een verkoopfactuur of een ontmoeting met de patiënt is vereist om laboratoriumtests te maken,reviewed,erpnext,0.81,0.85,0.75,0.75,0.8,0.9,ok
 Sales Invoice Payment,Verkoopfactuurbetaling,reviewed,erpnext,0.8,0.85,0.75,0.75,0.75,0.9,ok
 Sales Invoice Series,Verkoopfactuurserie,reviewed,erpnext,0.8,0.85,0.75,0.75,0.75,0.9,ok
-Sales Invoice Trends,Verkoopfactuur Trends,reviewed,erpnext,0.74,0.8,0.65,0.7,0.7,0.85,review
+Sales Invoice Trends,Trendoverzicht verkoopfacturen,reviewed,erpnext,0.85,0.8,0.65,0.7,0.7,0.85,improved
 Sales Invoice {0} has already been submitted,Verkoopfactuur {0} is al ingediend,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Sales Invoice {0} must be cancelled before cancelling this Sales Order,Verkoopfactuur {0} moet worden geannuleerd voordat deze verkooporder kan worden geannuleerd.,reviewed,erpnext,0.87,0.85,0.8,0.9,0.9,1.0,ok
 Sales Manager,Verkoopmanager,reviewed,both,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Sales Monthly History,Maandelijks verkoopoverzicht,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Sales Order,Verkooporder,reviewed,erpnext,0.93,0.9,0.9,0.95,1.0,1.0,ok
 Sales Order Analysis,Analyse van verkooporders,reviewed,erpnext,0.88,0.85,0.8,0.9,1.0,1.0,ok
-Sales Order Date,Verkooporder Datum,reviewed,erpnext,0.7,0.7,0.55,0.7,0.7,1.0,review
-Sales Order Item,Verkooporder Artikel,reviewed,erpnext,0.7,0.7,0.55,0.7,0.7,1.0,review
-Sales Order required for Item {0},Verkooporder nodig voor Artikel {0},reviewed,erpnext,0.76,0.75,0.65,0.75,0.8,1.0,review
+Sales Order Date,Verkooporderdatum,reviewed,erpnext,0.87,0.7,0.55,0.7,0.7,1.0,improved
+Sales Order Item,Verkooporderartikel,reviewed,erpnext,0.87,0.7,0.55,0.7,0.7,1.0,improved
+Sales Order required for Item {0},Verkooporder vereist voor artikel {0},reviewed,erpnext,0.86,0.75,0.65,0.75,0.8,1.0,improved
 Sales Order Series,Verkooporderreeks,reviewed,erpnext,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Sales Order to Payment,Van verkooporder tot betaling,reviewed,erpnext,0.9,0.9,0.85,0.85,1.0,1.0,ok
-Sales Order Trends,Verkooporder Trends,reviewed,erpnext,0.7,0.7,0.55,0.7,0.7,1.0,review
-"Sales Order {0} has reservation for the item {1}, you can only deliver reserved {1} against {0}.","Verkooporder {0} heeft een reservering voor het artikel {1}, u kunt alleen gereserveerd leveren {1} tegen {0}.",reviewed,erpnext,0.52,0.55,0.35,0.6,0.4,0.9,review
+Sales Order Trends,Verkoopordertrends,reviewed,erpnext,0.85,0.7,0.55,0.7,0.7,1.0,improved
+"Sales Order {0} has reservation for the item {1}, you can only deliver reserved {1} against {0}.",Verkooporder {0} heeft een reservering voor artikel {1}. U kunt alleen het gereserveerde artikel {1} leveren op basis van verkooporder {0}.,reviewed,erpnext,0.84,0.55,0.35,0.6,0.4,0.9,improved
 Sales Order {0} is not submitted,Verkooporder {0} is niet ingediend,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Sales Order {0} is not valid,Verkooporder {0} is niet geldig,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Sales Orders,Verkooporders,reviewed,erpnext,0.93,0.9,0.9,0.95,1.0,1.0,ok
 Sales orders are not available for production,Verkooporders zijn niet beschikbaar voor productie,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Sales Orders Required,Verkooporders vereist,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Sales Orders to Bill,Te factureren verkooporders,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Sales Orders to Deliver,Verkooporders om te bezorgen,reviewed,erpnext,0.68,0.65,0.55,0.65,0.7,1.0,review
+Sales Orders to Deliver,Te leveren verkooporders,reviewed,erpnext,0.88,0.65,0.55,0.65,0.7,1.0,improved
 Sales Partner,Verkooppartner,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Sales Partner and Commission,Verkooppartner en provisie,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Sales Partner Commission Summary,Verkooppartner Commissie Samenvatting,reviewed,erpnext,0.6,0.6,0.45,0.6,0.55,1.0,review
+Sales Partner Commission Summary,Commissieoverzicht verkooppartners,reviewed,erpnext,0.86,0.6,0.45,0.6,0.55,1.0,improved
 Sales Partner Name,Verkooppartnernaam,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Sales Partner Target,Verkoop Partner Doel,reviewed,erpnext,0.62,0.6,0.5,0.6,0.65,1.0,review
-Sales Partner Target Variance based on Item Group,Doelafhankelijke verkooppartner op basis van artikelgroep,reviewed,erpnext,0.55,0.55,0.4,0.55,0.55,0.9,review
-Sales Partner Transaction Summary,Verkooppartner Transactieoverzicht,reviewed,erpnext,0.64,0.65,0.5,0.65,0.6,1.0,review
+Sales Partner Target,Doelstelling verkooppartner,reviewed,erpnext,0.84,0.6,0.5,0.6,0.65,1.0,improved
+Sales Partner Target Variance based on Item Group,Afwijking doelstelling verkooppartner per artikelgroep,reviewed,erpnext,0.85,0.55,0.4,0.55,0.55,0.9,improved
+Sales Partner Transaction Summary,Transactieoverzicht verkooppartners,reviewed,erpnext,0.87,0.65,0.5,0.65,0.6,1.0,improved
 Sales Partner Type,Verkooppartnertype,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Sales Partners Commission,Verkoop Partners Commissie,reviewed,erpnext,0.56,0.55,0.45,0.55,0.55,1.0,review
+Sales Partners Commission,Commissie verkooppartners,reviewed,erpnext,0.84,0.55,0.45,0.55,0.55,1.0,improved
 Sales Payment Summary,Samenvatting verkoopbetaling,reviewed,erpnext,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Sales Person,Verkoopmedewerker,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Sales person,Verkoopmedewerker,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Sales Person Commission Summary,Provisienoverzicht verkooppersoon,reviewed,erpnext,0.88,0.45,0.3,0.45,0.35,1.0,improved
 Sales Person Name,Naam verkoopmedewerker,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Sales Person Target Variance Based On Item Group,Doelgroepvariant verkoper op basis van artikelgroep,reviewed,erpnext,0.66,0.65,0.55,0.65,0.65,0.9,review
-Sales Person Targets,Verkoper Doelen,reviewed,erpnext,0.66,0.65,0.55,0.65,0.65,1.0,review
-Sales Person-wise Transaction Summary,Verkopergebaseerd Transactie Overzicht,reviewed,erpnext,0.55,0.55,0.4,0.55,0.5,1.0,review
+Sales Person Target Variance Based On Item Group,Afwijking verkoperdoelstelling per artikelgroep,reviewed,erpnext,0.85,0.65,0.55,0.65,0.65,0.9,improved
+Sales Person Targets,Verkoperdoelstellingen,reviewed,erpnext,0.86,0.65,0.55,0.65,0.65,1.0,improved
+Sales Person-wise Transaction Summary,Transactieoverzicht per verkoper,reviewed,erpnext,0.88,0.55,0.4,0.55,0.5,1.0,improved
 Sales Price List,Verkoopprijslijst,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Sales Register,Verkoopregister,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Sales Return,Verkoopretour,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Sales Settings,Verkoopinstellingen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Sales Stage,Verkoopfase,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Sales Summary,Verkoopoverzicht,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Sales Taxes and Charges,Verkoop Belasting en Toeslagen,reviewed,erpnext,0.65,0.65,0.5,0.65,0.6,1.0,review
+Sales Taxes and Charges,Omzetbelasting en toeslagen,reviewed,erpnext,0.85,0.65,0.5,0.65,0.6,1.0,improved
 Sales Taxes and Charges Template,Verkoopbelasting- en kostensjabloon,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Sales Team,Verkoop team,reviewed,erpnext,0.65,0.65,0.5,0.65,0.6,1.0,review
-Sales Team Details,Verkoop Team Details,reviewed,erpnext,0.61,0.6,0.45,0.6,0.55,1.0,review
-Sales Team1,Verkoop Team1,reviewed,erpnext,0.57,0.55,0.45,0.55,0.5,1.0,review
+Sales Team,Verkoopteam,reviewed,erpnext,0.88,0.65,0.5,0.65,0.6,1.0,improved
+Sales Team Details,Verkoopteamdetails,reviewed,erpnext,0.84,0.6,0.45,0.6,0.55,1.0,improved
+Sales Team1,Verkoopteam1,reviewed,erpnext,0.82,0.55,0.45,0.55,0.5,1.0,improved
 Sales Update Frequency,Frequentie van verkoopupdates,reviewed,erpnext,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Sales User,Verkoopgebruiker,reviewed,both,0.85,0.45,0.35,0.45,0.6,1.0,improved
 Sales Value,Verkoopwaarde,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
-"Sales, Purchase, Accounting Defaults","Verkoop, Aankoop, Accountingstandaards",reviewed,erpnext,0.64,0.65,0.5,0.65,0.55,1.0,review
+"Sales, Purchase, Accounting Defaults","Standaardinstellingen Verkoop, Inkoop en Boekhouding",reviewed,erpnext,0.85,0.65,0.5,0.65,0.55,1.0,improved
 Salesforce,Verkoopsteam,reviewed,frappe,0.51,0.45,0.35,0.45,0.8,1.0,review
 Salutation,Aanhef,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Same Company is entered more than once,Hetzelfde bedrijf is meer dan één keer ingevoerd,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok

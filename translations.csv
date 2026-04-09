@@ -11999,199 +11999,199 @@ zoom-out,uitzoomen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 {0} is not a valid file url,{0} is geen geldige bestands-URL,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 {0} is not a valid Name,{0} is geen geldige naam,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 {0} is not a valid Phone Number,{0} is geen geldig telefoonnummer,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
-{0} is not a valid report format. Report format should one of the following {1},{0} is geen geldige rapportindeling. Rapportindeling moet een van de volgende {1} zijn,reviewed,frappe,,,,,,,
-{0} is not a valid state! Check for typos or enter the ISO code for your state.,{0} is geen geldige staat! Controleer op typefouten of voer de ISO-code voor uw staat in.,reviewed,erpnext,,,,,,,
-{0} is not a valid Value for Attribute {1} of Item {2}.,{0} is geen geldige waarde voor kenmerk {1} van artikel {2}.,reviewed,erpnext,,,,,,,
-{0} is not a valid Workflow State. Please update your Workflow and try again.,{0} is geen geldige workflowstatus. Werk uw Workflow bij en probeer het opnieuw.,reviewed,frappe,,,,,,,
-{0} is not added in the table,{0} is niet toegevoegd aan de tabel,reviewed,erpnext,,,,,,,
-{0} is not enabled in {1},{0} is niet ingeschakeld in {1},reviewed,erpnext,,,,,,,
-{0} is not the default supplier for any items.,{0} is niet de standaardleverancier voor artikelen.,reviewed,erpnext,,,,,,,
-{0} is now default print format for {1} doctype,{0} is nu standaard afdrukformaat voor {1} doctype,reviewed,frappe,,,,,,,
-{0} is now the default Fiscal Year. Please refresh your browser for the change to take effect.,{0} is nu het standaard Boekjaar. Ververs uw browser om de wijziging door te voeren .,reviewed,erpnext,,,,,,,
-{0} is on a Half day Leave on {1},{0} heeft een halve dag verlof op {1},reviewed,erpnext,,,,,,,
-{0} is on hold till {1},{0} staat in de wacht totdat {1},reviewed,erpnext,,,,,,,
-{0} is on Leave on {1},{0} heeft verlof op {1},reviewed,erpnext,,,,,,,
-{0} is required,{0} is verplicht,reviewed,both,,,,,,,
-{0} is saved,{0} is opgeslagen,reviewed,frappe,,,,,,,
-{0} item found.,{0} item gevonden.,reviewed,erpnext,,,,,,,
-{0} items found.,{0} items gevonden.,reviewed,erpnext,,,,,,,
-{0} items produced,{0} items geproduceerd,reviewed,erpnext,,,,,,,
-{0} items selected,{0} items geselecteerd,reviewed,frappe,,,,,,,
-{0} List,{0} Lijst,reviewed,frappe,,,,,,,
-{0} logged in,{0} ingelogd,reviewed,frappe,,,,,,,
-{0} logged out: {1},{0} afgemeld: {1},reviewed,frappe,,,,,,,
-{0} medication order completed,{0} medicatiebestelling voltooid,reviewed,erpnext,,,,,,,
-{0} medication orders completed,{0} medicatiebestellingen voltooid,reviewed,erpnext,,,,,,,
-{0} mentioned you in a comment in {1} {2},{0} heeft je genoemd in een reactie in {1} {2},reviewed,frappe,,,,,,,
-{0} minutes ago,{0} minuten geleden,reviewed,frappe,,,,,,,
-{0} months ago,{0} maanden geleden,reviewed,frappe,,,,,,,
-{0} must appear only once,{0} mag slechts eenmaal voorkomen,reviewed,erpnext,,,,,,,
-{0} must be after {1},{0} moet na {1} zijn,reviewed,frappe,,,,,,,
-{0} must be negative in return document,{0} moet negatief zijn in teruggave document,reviewed,erpnext,,,,,,,
-{0} must be one of {1},{0} moet een van {1} zijn,reviewed,frappe,,,,,,,
-{0} must be set first,{0} moet eerst worden ingesteld,reviewed,frappe,,,,,,,
-{0} must be unique,{0} moet uniek zijn,reviewed,frappe,,,,,,,
-{0} Name,{0} Naam,reviewed,frappe,,,,,,,
-{0} not a valid State,{0} geen geldig Status,reviewed,frappe,,,,,,,
-{0} not allowed to be renamed,{0} mag niet worden hernoemd,reviewed,frappe,,,,,,,
-{0} not allowed to transact with {1}. Please change the Company.,{0} mag niet transacties uitvoeren met {1}. Wijzig het bedrijf.,reviewed,erpnext,,,,,,,
-{0} not found,{0} niet gevonden,reviewed,frappe,,,,,,,
-{0} not found for item {1},{0} niet gevonden voor item {1},reviewed,erpnext,,,,,,,
-{0} Number {1} is already used in {2} {3},{0} Nummer {1} wordt al gebruikt in {2} {3},reviewed,erpnext,,,,,,,
-{0} of {1},{0} van {1},reviewed,frappe,,,,,,,
-{0} of {1} ({2} rows with children),{0} van {1} ({2} rijen met onderliggende items),reviewed,frappe,,,,,,,
-{0} on {1},{0} op {1},reviewed,erpnext,,,,,,,
-{0} Operations: {1},{0} Bewerkingen: {1},reviewed,erpnext,,,,,,,
-{0} or {1},{0} of {1},reviewed,frappe,,,,,,,
-{0} or {1} is mandatory,{0} of {1} is verplicht,reviewed,erpnext,,,,,,,
-{0} out of {1},{0} van {1},reviewed,erpnext,,,,,,,
-{0} parameter is invalid,{0} parameter is ongeldig,reviewed,erpnext,,,,,,,
-{0} payment entries can not be filtered by {1},{0} betaling items kunnen niet worden gefilterd door {1},reviewed,erpnext,,,,,,,
-{0} record deleted,{0} record verwijderd,reviewed,frappe,,,,,,,
-{0} records deleted,{0} records verwijderd,reviewed,frappe,,,,,,,
-{0} records will be exported,{0} records worden geëxporteerd,reviewed,frappe,,,,,,,
-{0} Report,{0} Rapport,reviewed,frappe,,,,,,,
-{0} Reports,{0} Rapporten,reviewed,frappe,,,,,,,
-{0} Request for {1},{0} Verzoek om {1},reviewed,erpnext,,,,,,,
-{0} Result submittted,{0} Resultaat ingediend,reviewed,erpnext,,,,,,,
-"{0} Retain Sample is based on batch, please check Has Batch No to retain sample of item",{0} Bewaar monster is gebaseerd op batch. Controleer Heeft batchnummer om een monster van het artikel te behouden,reviewed,erpnext,,,,,,,
-{0} reverted your point on {1},{0} heeft uw punt teruggezet op {1},reviewed,frappe,,,,,,,
-{0} reverted your points on {1},{0} heeft uw punten teruggezet op {1},reviewed,frappe,,,,,,,
-{0} reverted {1},{0} heeft {1} teruggedraaid,reviewed,frappe,,,,,,,
-{0} room must have atmost one user.,{0} ruimte mag maximaal een gebruiker hebben.,reviewed,frappe,,,,,,,
-{0} rows for {1},{0} rijen voor {1},reviewed,frappe,,,,,,,
-{0} saved successfully,{0} succesvol opgeslagen,reviewed,frappe,,,,,,,
-{0} self assigned this task: {1},{0} heeft deze taak zelf toegewezen: {1},reviewed,frappe,,,,,,,
-{0} Serial No {1} cannot be delivered,{0} Serienummer {1} kan niet worden geleverd,reviewed,erpnext,,,,,,,
-{0} Serial Numbers required for Item {1}. You have provided {2}.,{0} serienummers vereist voor artikel {1}. U hebt {2} opgegeven.,reviewed,erpnext,,,,,,,
-{0} session completed,{0} sessie voltooid,reviewed,erpnext,,,,,,,
-{0} sessions completed,{0} sessies voltooid,reviewed,erpnext,,,,,,,
-{0} Settings,{0} Instellingen,reviewed,frappe,,,,,,,
-{0} Settings not found,{0} Instellingen niet gevonden,reviewed,frappe,,,,,,,
-{0} shared a document {1} {2} with you,{0} heeft een document {1} {2} met u gedeeld,reviewed,frappe,,,,,,,
-{0} shared this document with everyone,{0} deelde dit document met iedereen,reviewed,frappe,,,,,,,
-{0} shared this document with {1},{0} deelde dit document met {1},reviewed,frappe,,,,,,,
-{0} should be a value between 0 and 100,{0} moet een waarde tussen 0 en 100 zijn,reviewed,erpnext,,,,,,,
-{0} should not be same as {1},{0} mag niet hetzelfde zijn als {1},reviewed,frappe,,,,,,,
-{0} Student Groups created.,{0} Studentgroepen aangemaakt.,reviewed,erpnext,,,,,,,
-{0} Students have been enrolled,{0} Studenten zijn ingeschreven,reviewed,erpnext,,,,,,,
-{0} subscribers added,{0} abonnees toegevoegd,reviewed,frappe,,,,,,,
-{0} to stop receiving emails of this type,{0} om te stoppen met het ontvangen van e-mails van dit type,reviewed,frappe,,,,,,,
-{0} to {1},{0} tot {1},reviewed,frappe,,,,,,,
-{0} translations pending,{0} vertalingen in behandeling,reviewed,frappe,,,,,,,
-{0} Tree,{0} Boom,reviewed,frappe,,,,,,,
-{0} un-shared this document with {1},{0} maakte de deling van dit document met {1} ongedaan,reviewed,frappe,,,,,,,
-{0} units of [{1}](#Form/Item/{1}) found in [{2}](#Form/Warehouse/{2}),{0} eenheden van [{1}] (#Vorm/Item/{1}) gevonden in [{2}](#Vorm/Magazijn/{2}),reviewed,erpnext,,,,,,,
-{0} units of Item {1} is not available.,{0} eenheden van artikel {1} is niet beschikbaar.,reviewed,erpnext,,,,,,,
-{0} units of {1} needed in {2} on {3} {4} for {5} to complete this transaction.,{0} eenheden van {1} die nodig zijn in {2} op {3} {4} te {5} om deze transactie te voltooien.,reviewed,erpnext,,,,,,,
-{0} units of {1} needed in {2} to complete this transaction.,{0} eenheden van {1} die nodig zijn in {2} om deze transactie te voltooien.,reviewed,erpnext,,,,,,,
-{0} updated,{0} bijgewerkt,reviewed,frappe,,,,,,,
-{0} valid serial nos for Item {1},{0} geldig serienummers voor Artikel {1},reviewed,erpnext,,,,,,,
-{0} values selected,{0} waarden geselecteerd,reviewed,frappe,,,,,,,
-{0} variants created.,{0} varianten gemaakt.,reviewed,erpnext,,,,,,,
-{0} Web page views,{0} paginaweergaven,reviewed,frappe,,,,,,,
-{0} weeks ago,{0} weken geleden,reviewed,frappe,,,,,,,
-{0} with {1},{0} met {1},reviewed,erpnext,,,,,,,
-{0} y,{0} j,reviewed,frappe,,,,,,,
-{0} years ago,{0} jaar geleden,reviewed,frappe,,,,,,,
-{0} {1} added,{0} {1} toegevoegd,reviewed,frappe,,,,,,,
-{0} {1} added to Dashboard {2},{0} {1} toegevoegd aan Dashboard {2},reviewed,frappe,,,,,,,
-{0} {1} already exists,{0} {1} bestaat al,reviewed,frappe,,,,,,,
-"{0} {1} cannot be ""{2}"". It should be one of ""{3}""","{0} {1} kan niet ""{2}"" worden. Het moet één zijn van ""{3}""",reviewed,frappe,,,,,,,
-{0} {1} cannot be a leaf node as it has children,"{0} {1} kan geen leaf node zijn, want hij is vertakt",reviewed,frappe,,,,,,,
-{0} {1} created,{0} {1} aangemaakt,reviewed,erpnext,,,,,,,
-{0} {1} does not exist,{0} {1} bestaat niet,reviewed,erpnext,,,,,,,
-"{0} {1} does not exist, select a new target to merge","{0} {1} bestaat niet, kies een nieuw doel om samen te voegen",reviewed,frappe,,,,,,,
-{0} {1} has accounting entries in currency {2} for company {3}. Please select a receivable or payable account with currency {2}.,{0} {1} heeft boekhoudgegevens in valuta {2} voor bedrijf {3}. Selecteer een te ontvangen of te betalen rekening met valuta {2}.,reviewed,erpnext,,,,,,,
-{0} {1} has been added to all the selected topics successfully.,{0} {1} is met succes toegevoegd aan alle geselecteerde onderwerpen.,reviewed,erpnext,,,,,,,
-{0} {1} has been modified. Please refresh.,{0} {1} is gewijzigd. Vernieuw aub.,reviewed,erpnext,,,,,,,
-{0} {1} has not been submitted so the action cannot be completed,{0} {1} is niet ingediend dus de actie kan niet voltooid worden,reviewed,erpnext,,,,,,,
-"{0} {1} is associated with {2}, but Party Account is {3}","{0} {1} is geassocieerd met {2}, maar relatie Account is {3}",reviewed,erpnext,,,,,,,
-{0} {1} is cancelled or closed,{0} {1} is geannuleerd of gesloten,reviewed,erpnext,,,,,,,
-{0} {1} is cancelled or stopped,{0} {1} is geannuleerd of gestopt,reviewed,erpnext,,,,,,,
-{0} {1} is cancelled so the action cannot be completed,{0} {1} is geannuleerd dus de actie kan niet voltooid worden,reviewed,erpnext,,,,,,,
-{0} {1} is closed,{0} {1} is gesloten,reviewed,erpnext,,,,,,,
-{0} {1} is disabled,{0} {1} is uitgeschakeld,reviewed,erpnext,,,,,,,
-{0} {1} is frozen,{0} {1} is bevroren,reviewed,erpnext,,,,,,,
-{0} {1} is fully billed,{0} {1} is volledig gefactureerd,reviewed,erpnext,,,,,,,
-{0} {1} is linked with the following submitted documents: {2},{0} {1} is gekoppeld aan de volgende ingediende documenten: {2},reviewed,frappe,,,,,,,
-{0} {1} is not active,{0} {1} is niet actief,reviewed,erpnext,,,,,,,
-{0} {1} is not associated with {2} {3},{0} {1} is niet gekoppeld aan {2} {3},reviewed,erpnext,,,,,,,
-{0} {1} is not present in the parent company,{0} {1} is niet aanwezig in het moederbedrijf,reviewed,erpnext,,,,,,,
-{0} {1} is not submitted,{0} {1} is niet ingediend,reviewed,erpnext,,,,,,,
-{0} {1} must be submitted,{0} {1} moet worden ingediend,reviewed,erpnext,,,,,,,
-{0} {1} not found,{0} {1} niet gevonden,reviewed,frappe,,,,,,,
-{0} {1} not in any active Fiscal Year.,{0} {1} in geen enkel actief fiscale jaar.,reviewed,erpnext,,,,,,,
-{0} {1} status is {2},{0} {1} status {2},reviewed,erpnext,,,,,,,
-{0} {1} to {2},{0} {1} tot {2},reviewed,frappe,,,,,,,
-{0} {1}: 'Profit and Loss' type account {2} not allowed in Opening Entry,{0} {1}: Account van het type winst- en verliesrekening {2} niet toegestaan in openingspost,reviewed,erpnext,,,,,,,
-{0} {1}: Account {2} does not belong to Company {3},{0} {1}: Rekening {2} behoort niet tot bedrijf {3},reviewed,erpnext,,,,,,,
-{0} {1}: Account {2} is inactive,{0} {1}: Rekening {2} is niet actief,reviewed,erpnext,,,,,,,
-{0} {1}: Accounting Entry for {2} can only be made in currency: {3},{0} {1}: Boeking voor {2} kan alleen worden gemaakt in valuta: {3},reviewed,erpnext,,,,,,,
-{0} {1}: Cost Center is mandatory for Item {2},{0} {1}: kostenplaats is verplicht voor artikel {2},reviewed,erpnext,,,,,,,
-{0} {1}: Cost Center is required for 'Profit and Loss' account {2}. Please set up a default Cost Center for the Company.,{0} {1}: Kostenplaats is vereist voor de winst- en verliesrekening {2}. Stel een standaard kostenplaats in voor het bedrijf.,reviewed,erpnext,,,,,,,
-{0} {1}: Cost Center {2} does not belong to Company {3},{0} {1}: Kostenplaats {2} behoort niet tot bedrijf {3},reviewed,erpnext,,,,,,,
-{0} {1}: Customer is required against Receivable account {2},{0} {1}: Klant is vereist bij debiteurenrekening {2},reviewed,erpnext,,,,,,,
-{0} {1}: Either debit or credit amount is required for {2},{0} {1}: Ofwel debet of credit bedrag is vereist voor {2},reviewed,erpnext,,,,,,,
-{0} {1}: Submitted Record cannot be deleted. You must {2} Cancel {3} it first.,{0} {1}: Ingediend record kan niet worden verwijderd. U moet het eerst {2} annuleren {3}.,reviewed,frappe,,,,,,,
-{0} {1}: Supplier is required against Payable account {2},{0} {1}: Leverancier is vereist bij crediteurenrekening {2},reviewed,erpnext,,,,,,,
-{0}% Billed,{0}% gefactureerd,reviewed,erpnext,,,,,,,
-{0}% Delivered,{0}% Geleverd,reviewed,erpnext,,,,,,,
-"{0}, complete the operation {1} before the operation {2}.","{0}, voltooi de bewerking {1} vóór de bewerking {2}.",reviewed,erpnext,,,,,,,
-"{0}, Row {1}","{0}, Rij {1}",reviewed,frappe,,,,,,,
-"{0}: '{1}' ({3}) will get truncated, as max characters allowed is {2}","{0}: {1} &#39;({3}) zal afgekapt krijgen, als maximum toegestane tekens is {2}",reviewed,frappe,,,,,,,
-{0}: Cannot set Amend without Cancel,{0} : Kan niet Wijzigen zonder te Annuleren,reviewed,frappe,,,,,,,
-{0}: Cannot set Assign Amend if not Submittable,{0}: Kan wijziging niet doorvoeren indien niet indienbaar,reviewed,frappe,,,,,,,
-{0}: Cannot set Assign Submit if not Submittable,"{0} : Kan niet op ""In te dienen"" gezet worden indien niet indienbaar",reviewed,frappe,,,,,,,
-{0}: Cannot set Cancel without Submit,{0} : Kan niet Annuleren zonder in te dienen,reviewed,frappe,,,,,,,
-{0}: Cannot set import as {1} is not importable,{0} : Kan niet Importeren omdat {1} niet importeerbaar is,reviewed,frappe,,,,,,,
-{0}: Cannot set Import without Create,{0} : Kan niet importeren zonder aan te maken,reviewed,frappe,,,,,,,
-"{0}: Cannot set Submit, Cancel, Amend without Write","{0} : Kan niet Indienen, Annuleren, Wijzigen zonder te Schrijven",reviewed,frappe,,,,,,,
-"{0}: Failed to attach new recurring document. To enable attaching document in the auto repeat notification email, enable {1} in Print Settings",{0}: kan geen nieuw terugkerend document bijvoegen. Schakel {1} in Afdrukinstellingen in om het bijvoegen van een document in de e-mail voor automatisch herhalen in te schakelen,reviewed,frappe,,,,,,,
-{0}: Field '{1}' cannot be set as Unique as it has non-unique values,{0}: Veld &#39;{1}&#39; kan niet als Uniek worden ingesteld omdat het niet-unieke waarden heeft,reviewed,frappe,,,,,,,
-{0}: Field {1} in row {2} cannot be hidden and mandatory without default,{0}: Veld {1} in rij {2} kan niet standaard worden verborgen en verplicht,reviewed,frappe,,,,,,,
-{0}: Field {1} of type {2} cannot be mandatory,{0}: Veld {1} van type {2} kan niet verplicht zijn,reviewed,frappe,,,,,,,
-{0}: Fieldname cannot be one of {1},{0}: Veldnaam mag geen van {1} zijn,reviewed,frappe,,,,,,,
-{0}: Fieldname {1} appears multiple times in rows {2},{0}: Veldnaam {1} verschijnt meerdere keren in rijen {2},reviewed,frappe,,,,,,,
-{0}: Fieldtype {1} for {2} cannot be unique,{0}: Veldtype {1} voor {2} kan niet uniek zijn,reviewed,frappe,,,,,,,
-{0}: From {1},{0}: Van {1},reviewed,erpnext,,,,,,,
-{0}: No basic permissions set,{0} : Geen basis machtigingen ingesteld,reviewed,frappe,,,,,,,
-"{0}: Only one rule allowed with the same Role, Level and {1}","{0}: Slechts één regel toegestaan met dezelfde rol, niveau en {1}",reviewed,frappe,,,,,,,
-{0}: Options must be a valid DocType for field {1} in row {2},{0}: Opties moeten een geldig DocType zijn voor veld {1} in rij {2},reviewed,frappe,,,,,,,
-{0}: Options required for Link or Table type field {1} in row {2},{0}: opties vereist voor het veld Link of Tabeltype {1} in rij {2},reviewed,frappe,,,,,,,
-{0}: Options {1} must be the same as doctype name {2} for the field {3},{0}: Opties {1} moeten hetzelfde zijn als doctype naam {2} voor het veld {3},reviewed,frappe,,,,,,,
-{0}: Other permission rules may also apply,{0}: er kunnen ook andere toestemmingsregels van toepassing zijn,reviewed,frappe,,,,,,,
-{0}: Permission at level 0 must be set before higher levels are set,{0}: Toestemming op niveau 0 moet worden ingesteld voordat hogere niveaus worden ingesteld,reviewed,frappe,,,,,,,
-{0}: {1} does not exists,{0}: {1} bestaat niet,reviewed,erpnext,,,,,,,
-{0}: {1} in {2},{0}: {1} van {2},reviewed,frappe,,,,,,,
-{0}: {1} is set to state {2},{0}: {1} is ingesteld op staat {2},reviewed,frappe,,,,,,,
-{0}: {1} must be less than {2},{0}: {1} moet kleiner zijn dan {2},reviewed,erpnext,,,,,,,
-{0}: {1} not found in Invoice Details table,{0}: {1} niet gevonden in Factuur Details tabel,reviewed,erpnext,,,,,,,
-{0}: {1} vs {2},{0}: {1} versus {2},reviewed,frappe,,,,,,,
-{0}:Fieldtype {1} for {2} cannot be indexed,{0}: Veldtype {1} voor {2} kan niet worden geïndexeerd,reviewed,frappe,,,,,,,
-{0}{1} Did you rename the item? Please contact Administrator / Tech support,{0} {1} Heeft u de naam van het item gewijzigd? Neem contact op met de beheerder / technische ondersteuning,reviewed,erpnext,,,,,,,
-{1} Not in Stock,{1} Niet op voorraad,reviewed,erpnext,,,,,,,
-{function} of {fieldlabel},{function} van {fieldlabel},reviewed,frappe,,,,,,,
-{{{0}}} is not a valid fieldname pattern. It should be {{field_name}}.,{{{0}}} is een ongeldig veldnaampatroon. Gebruik {{field_name}}.,reviewed,frappe,,,,,,,
-{} Assets created for {},{} Activa gemaakt voor {},reviewed,erpnext,,,,,,,
-{} can't be cancelled since the Loyalty Points earned has been redeemed. First cancel the {} No {},{} kan niet worden geannuleerd omdat de verdiende loyaliteitspunten zijn ingewisseld. Annuleer eerst de {} Nee {},reviewed,erpnext,,,,,,,
-{} Complete,{} Compleet,reviewed,frappe,,,,,,,
-{} has submitted assets linked to it. You need to cancel the assets to create purchase return.,{} heeft items ingediend die eraan zijn gekoppeld. U moet de activa annuleren om een inkoopretour te creëren.,reviewed,erpnext,,,,,,,
-{} is not a valid date string.,{} is geen geldige datumtekenreeks.,reviewed,frappe,,,,,,,
-{} is required to generate E-Way Bill JSON,{} is vereist om E-Way Bill JSON te genereren,reviewed,erpnext,,,,,,,
-{} of {},{} van {},reviewed,erpnext,,,,,,,
-← Back to upload files,← Terug naar bestanden uploaden,reviewed,frappe,,,,,,,
- Salary slips starting on or after this date will be considered for arrear calculations, Salarisstroken vanaf deze datum worden meegenomen in de nabetaling berekening,reviewed,hrms,,,,,,,
- Unlink Payment on Cancellation of Employee Advance, Betaling ontkoppelen bij annulering van werknemersvoorschot,reviewed,hrms,,,,,,,
-"""From Date"" can not be greater than or equal to ""To Date""","""Begindatum"" mag niet gelijk aan of later zijn dan ""Einddatum""",reviewed,hrms,,,,,,,
-% Utilization (B + NB) / T,% Benutting (B + NB) / T,reviewed,hrms,,,,,,,
-% Utilization (B / T),% Benutting (B / T),reviewed,hrms,,,,,,,
-'employee_field_value' and 'timestamp' are required.,'employee_field_value' en 'timestamp' zijn verplicht.,reviewed,hrms,,,,,,,
-) for {0},) voor {0},reviewed,hrms,,,,,,,
-...Fetching Employees,...Werknemers ophalen,reviewed,hrms,,,,,,,
-<b>Base</b> amount has not been set for the following employee(s): {0},<b>Basis</b>bedrag is niet ingesteld voor de volgende werknemer(s): {0},reviewed,hrms,,,,,,,
-<b>Example:</b> SAL-{first_name}-{date_of_birth.year} <br>This will generate a password like SAL-Jane-1972,<b>Voorbeeld:</b> SAL-{first_name}-{date_of_birth.year} <br>Dit genereert een wachtwoord zoals SAL-Jane-1972,reviewed,hrms,,,,,,,
-<b>Total Leaves Allocated</b> are more than the number of days in the allocation period,<b>Totaal toegewezen verlof</b> is meer dan het aantal dagen in de toewijzingsperiode,reviewed,hrms,,,,,,,
+{0} is not a valid report format. Report format should one of the following {1},{0} is geen geldige rapportindeling. Rapportindeling moet een van de volgende {1} zijn,reviewed,frappe,0.84,0.85,0.8,0.85,0.8,0.9,ok
+{0} is not a valid state! Check for typos or enter the ISO code for your state.,{0} is geen geldige staat! Controleer op typefouten of voer de ISO-code voor uw staat in.,reviewed,erpnext,0.75,0.7,0.75,0.75,0.8,0.9,review
+{0} is not a valid Value for Attribute {1} of Item {2}.,{0} is geen geldige waarde voor kenmerk {1} van artikel {2}.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
+{0} is not a valid Workflow State. Please update your Workflow and try again.,{0} is geen geldige workflowstatus. Werk uw Workflow bij en probeer het opnieuw.,reviewed,frappe,0.84,0.85,0.8,0.8,0.85,1.0,ok
+{0} is not added in the table,{0} is niet toegevoegd aan de tabel,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+{0} is not enabled in {1},{0} is niet ingeschakeld in {1},reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} is not the default supplier for any items.,{0} is niet de standaardleverancier voor artikelen.,reviewed,erpnext,0.71,0.7,0.65,0.75,0.75,0.75,review
+{0} is now default print format for {1} doctype,{0} is nu standaard afdrukformaat voor {1} doctype,reviewed,frappe,0.75,0.75,0.7,0.75,0.7,0.9,review
+{0} is now the default Fiscal Year. Please refresh your browser for the change to take effect.,{0} is nu het standaard Boekjaar. Ververs uw browser om de wijziging door te voeren .,reviewed,erpnext,0.81,0.85,0.75,0.8,0.7,1.0,ok
+{0} is on a Half day Leave on {1},{0} heeft een halve dag verlof op {1},reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} is on hold till {1},{0} staat in de wacht totdat {1},reviewed,erpnext,0.54,0.55,0.45,0.6,0.4,0.8,review
+{0} is on Leave on {1},{0} heeft verlof op {1},reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} is required,{0} is verplicht,reviewed,both,0.96,0.95,0.95,0.95,0.95,1.0,ok
+{0} is saved,{0} is opgeslagen,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
+{0} item found.,{0} item gevonden.,reviewed,erpnext,0.86,0.85,0.85,0.8,0.85,1.0,ok
+{0} items found.,{0} items gevonden.,reviewed,erpnext,0.86,0.85,0.85,0.8,0.85,1.0,ok
+{0} items produced,{0} items geproduceerd,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} items selected,{0} items geselecteerd,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} List,{0} Lijst,reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} logged in,{0} ingelogd,reviewed,frappe,0.88,0.9,0.85,0.85,0.85,1.0,ok
+{0} logged out: {1},{0} afgemeld: {1},reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} medication order completed,{0} medicatiebestelling voltooid,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} medication orders completed,{0} medicatiebestellingen voltooid,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} mentioned you in a comment in {1} {2},{0} heeft je genoemd in een reactie in {1} {2},reviewed,frappe,0.84,0.85,0.8,0.8,0.8,1.0,ok
+{0} minutes ago,{0} minuten geleden,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
+{0} months ago,{0} maanden geleden,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
+{0} must appear only once,{0} mag slechts eenmaal voorkomen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} must be after {1},{0} moet na {1} zijn,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} must be negative in return document,{0} moet negatief zijn in teruggave document,reviewed,erpnext,0.71,0.75,0.65,0.7,0.6,0.9,review
+{0} must be one of {1},{0} moet een van {1} zijn,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} must be set first,{0} moet eerst worden ingesteld,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} must be unique,{0} moet uniek zijn,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
+{0} Name,{0} Naam,reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} not a valid State,{0} geen geldig Status,reviewed,frappe,0.51,0.55,0.45,0.5,0.35,0.7,review
+{0} not allowed to be renamed,{0} mag niet worden hernoemd,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} not allowed to transact with {1}. Please change the Company.,{0} mag niet transacties uitvoeren met {1}. Wijzig het bedrijf.,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
+{0} not found,{0} niet gevonden,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
+{0} not found for item {1},{0} niet gevonden voor item {1},reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} Number {1} is already used in {2} {3},{0} Nummer {1} wordt al gebruikt in {2} {3},reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} of {1},{0} van {1},reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} of {1} ({2} rows with children),{0} van {1} ({2} rijen met onderliggende items),reviewed,frappe,0.84,0.85,0.8,0.8,0.8,1.0,ok
+{0} on {1},{0} op {1},reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} Operations: {1},{0} Bewerkingen: {1},reviewed,erpnext,0.83,0.85,0.8,0.8,0.8,1.0,ok
+{0} or {1},{0} of {1},reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} or {1} is mandatory,{0} of {1} is verplicht,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} out of {1},{0} van {1},reviewed,erpnext,0.69,0.7,0.65,0.65,0.7,0.8,review
+{0} parameter is invalid,{0} parameter is ongeldig,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} payment entries can not be filtered by {1},{0} betaling items kunnen niet worden gefilterd door {1},reviewed,erpnext,0.54,0.55,0.45,0.55,0.45,0.8,review
+{0} record deleted,{0} record verwijderd,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} records deleted,{0} records verwijderd,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} records will be exported,{0} records worden geëxporteerd,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} Report,{0} Rapport,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} Reports,{0} Rapporten,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} Request for {1},{0} Verzoek om {1},reviewed,erpnext,0.67,0.7,0.6,0.65,0.6,0.85,review
+{0} Result submittted,{0} Resultaat ingediend,reviewed,erpnext,0.81,0.8,0.8,0.8,0.8,0.9,ok
+"{0} Retain Sample is based on batch, please check Has Batch No to retain sample of item",{0} Bewaar monster is gebaseerd op batch. Controleer Heeft batchnummer om een monster van het artikel te behouden,reviewed,erpnext,0.8,0.8,0.75,0.75,0.8,1.0,ok
+{0} reverted your point on {1},{0} heeft uw punt teruggezet op {1},reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} reverted your points on {1},{0} heeft uw punten teruggezet op {1},reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} reverted {1},{0} heeft {1} teruggedraaid,reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} room must have atmost one user.,{0} ruimte mag maximaal een gebruiker hebben.,reviewed,frappe,0.8,0.8,0.75,0.75,0.75,1.0,ok
+{0} rows for {1},{0} rijen voor {1},reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} saved successfully,{0} succesvol opgeslagen,reviewed,frappe,0.93,0.95,0.9,0.9,0.9,1.0,ok
+{0} self assigned this task: {1},{0} heeft deze taak zelf toegewezen: {1},reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} Serial No {1} cannot be delivered,{0} Serienummer {1} kan niet worden geleverd,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} Serial Numbers required for Item {1}. You have provided {2}.,{0} serienummers vereist voor artikel {1}. U hebt {2} opgegeven.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} session completed,{0} sessie voltooid,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} sessions completed,{0} sessies voltooid,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} Settings,{0} Instellingen,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} Settings not found,{0} Instellingen niet gevonden,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} shared a document {1} {2} with you,{0} heeft een document {1} {2} met u gedeeld,reviewed,frappe,0.84,0.85,0.8,0.8,0.8,1.0,ok
+{0} shared this document with everyone,{0} deelde dit document met iedereen,reviewed,frappe,0.73,0.75,0.65,0.7,0.7,1.0,review
+{0} shared this document with {1},{0} deelde dit document met {1},reviewed,frappe,0.73,0.75,0.65,0.7,0.7,1.0,review
+{0} should be a value between 0 and 100,{0} moet een waarde tussen 0 en 100 zijn,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} should not be same as {1},{0} mag niet hetzelfde zijn als {1},reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} Student Groups created.,{0} Studentgroepen aangemaakt.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} Students have been enrolled,{0} Studenten zijn ingeschreven,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} subscribers added,{0} abonnees toegevoegd,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} to stop receiving emails of this type,{0} om te stoppen met het ontvangen van e-mails van dit type,reviewed,frappe,0.84,0.85,0.8,0.8,0.8,1.0,ok
+{0} to {1},{0} tot {1},reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} translations pending,{0} vertalingen in behandeling,reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
+{0} Tree,{0} Boom,reviewed,frappe,0.66,0.7,0.55,0.6,0.65,0.9,review
+{0} un-shared this document with {1},{0} maakte de deling van dit document met {1} ongedaan,reviewed,frappe,0.79,0.8,0.75,0.75,0.75,1.0,review
+{0} units of [{1}](#Form/Item/{1}) found in [{2}](#Form/Warehouse/{2}),{0} eenheden van [{1}] (#Vorm/Item/{1}) gevonden in [{2}](#Vorm/Magazijn/{2}),reviewed,erpnext,0.31,0.3,0.25,0.3,0.25,0.6,rewrite
+{0} units of Item {1} is not available.,{0} eenheden van artikel {1} is niet beschikbaar.,reviewed,erpnext,0.66,0.7,0.6,0.65,0.55,0.9,review
+{0} units of {1} needed in {2} on {3} {4} for {5} to complete this transaction.,{0} eenheden van {1} die nodig zijn in {2} op {3} {4} te {5} om deze transactie te voltooien.,reviewed,erpnext,0.44,0.5,0.35,0.45,0.3,0.7,rewrite
+{0} units of {1} needed in {2} to complete this transaction.,{0} eenheden van {1} die nodig zijn in {2} om deze transactie te voltooien.,reviewed,erpnext,0.51,0.55,0.45,0.5,0.4,0.8,review
+{0} updated,{0} bijgewerkt,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
+{0} valid serial nos for Item {1},{0} geldig serienummers voor Artikel {1},reviewed,erpnext,0.53,0.55,0.45,0.55,0.4,0.75,review
+{0} values selected,{0} waarden geselecteerd,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} variants created.,{0} varianten gemaakt.,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} Web page views,{0} paginaweergaven,reviewed,frappe,0.79,0.8,0.75,0.75,0.75,0.9,review
+{0} weeks ago,{0} weken geleden,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
+{0} with {1},{0} met {1},reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} y,{0} j,reviewed,frappe,0.82,0.8,0.8,0.8,0.8,1.0,ok
+{0} years ago,{0} jaar geleden,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
+{0} {1} added,{0} {1} toegevoegd,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} {1} added to Dashboard {2},{0} {1} toegevoegd aan Dashboard {2},reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+{0} {1} already exists,{0} {1} bestaat al,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
+"{0} {1} cannot be ""{2}"". It should be one of ""{3}""","{0} {1} kan niet ""{2}"" worden. Het moet één zijn van ""{3}""",reviewed,frappe,0.79,0.8,0.75,0.75,0.75,1.0,review
+{0} {1} cannot be a leaf node as it has children,"{0} {1} kan geen leaf node zijn, want hij is vertakt",reviewed,frappe,0.57,0.6,0.45,0.5,0.5,0.8,review
+{0} {1} created,{0} {1} aangemaakt,reviewed,erpnext,0.94,0.9,0.9,0.95,1.0,1.0,ok
+{0} {1} does not exist,{0} {1} bestaat niet,reviewed,erpnext,0.95,0.9,0.95,0.95,1.0,1.0,ok
+"{0} {1} does not exist, select a new target to merge","{0} {1} bestaat niet, kies een nieuw doel om samen te voegen",reviewed,frappe,0.9,0.85,0.85,0.9,1.0,1.0,ok
+{0} {1} has accounting entries in currency {2} for company {3}. Please select a receivable or payable account with currency {2}.,{0} {1} heeft boekhoudgegevens in valuta {2} voor bedrijf {3}. Selecteer een te ontvangen of te betalen rekening met valuta {2}.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+{0} {1} has been added to all the selected topics successfully.,{0} {1} is met succes toegevoegd aan alle geselecteerde onderwerpen.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{0} {1} has been modified. Please refresh.,{0} {1} is gewijzigd. Vernieuw aub.,reviewed,erpnext,0.84,0.85,0.75,0.85,0.8,1.0,ok
+{0} {1} has not been submitted so the action cannot be completed,{0} {1} is niet ingediend dus de actie kan niet voltooid worden,reviewed,erpnext,0.83,0.85,0.75,0.85,0.75,1.0,ok
+"{0} {1} is associated with {2}, but Party Account is {3}","{0} {1} is geassocieerd met {2}, maar relatie Account is {3}",reviewed,erpnext,0.64,0.65,0.55,0.6,0.7,0.9,review
+{0} {1} is cancelled or closed,{0} {1} is geannuleerd of gesloten,reviewed,erpnext,0.94,0.9,0.9,0.95,1.0,1.0,ok
+{0} {1} is cancelled or stopped,{0} {1} is geannuleerd of gestopt,reviewed,erpnext,0.94,0.9,0.9,0.95,1.0,1.0,ok
+{0} {1} is cancelled so the action cannot be completed,{0} {1} is geannuleerd dus de actie kan niet voltooid worden,reviewed,erpnext,0.83,0.85,0.75,0.85,0.75,1.0,ok
+{0} {1} is closed,{0} {1} is gesloten,reviewed,erpnext,0.94,0.9,0.9,0.95,1.0,1.0,ok
+{0} {1} is disabled,{0} {1} is uitgeschakeld,reviewed,erpnext,0.94,0.9,0.9,0.95,1.0,1.0,ok
+{0} {1} is frozen,{0} {1} is bevroren,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{0} {1} is fully billed,{0} {1} is volledig gefactureerd,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{0} {1} is linked with the following submitted documents: {2},{0} {1} is gekoppeld aan de volgende ingediende documenten: {2},reviewed,frappe,0.89,0.85,0.85,0.85,1.0,1.0,ok
+{0} {1} is not active,{0} {1} is niet actief,reviewed,erpnext,0.94,0.9,0.9,0.95,1.0,1.0,ok
+{0} {1} is not associated with {2} {3},{0} {1} is niet gekoppeld aan {2} {3},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{0} {1} is not present in the parent company,{0} {1} is niet aanwezig in het moederbedrijf,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{0} {1} is not submitted,{0} {1} is niet ingediend,reviewed,erpnext,0.94,0.9,0.9,0.95,1.0,1.0,ok
+{0} {1} must be submitted,{0} {1} moet worden ingediend,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{0} {1} not found,{0} {1} niet gevonden,reviewed,frappe,0.94,0.9,0.9,0.95,1.0,1.0,ok
+{0} {1} not in any active Fiscal Year.,{0} {1} in geen enkel actief fiscale jaar.,reviewed,erpnext,0.65,0.7,0.55,0.7,0.4,0.9,review
+{0} {1} status is {2},{0} {1} status {2},reviewed,erpnext,0.61,0.65,0.5,0.65,0.4,0.8,review
+{0} {1} to {2},{0} {1} tot {2},reviewed,frappe,0.87,0.8,0.85,0.85,1.0,1.0,ok
+{0} {1}: 'Profit and Loss' type account {2} not allowed in Opening Entry,{0} {1}: Account van het type winst- en verliesrekening {2} niet toegestaan in openingspost,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+{0} {1}: Account {2} does not belong to Company {3},{0} {1}: Rekening {2} behoort niet tot bedrijf {3},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{0} {1}: Account {2} is inactive,{0} {1}: Rekening {2} is niet actief,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{0} {1}: Accounting Entry for {2} can only be made in currency: {3},{0} {1}: Boeking voor {2} kan alleen worden gemaakt in valuta: {3},reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{0} {1}: Cost Center is mandatory for Item {2},{0} {1}: kostenplaats is verplicht voor artikel {2},reviewed,erpnext,0.81,0.85,0.75,0.75,0.7,1.0,ok
+{0} {1}: Cost Center is required for 'Profit and Loss' account {2}. Please set up a default Cost Center for the Company.,{0} {1}: Kostenplaats is vereist voor de winst- en verliesrekening {2}. Stel een standaard kostenplaats in voor het bedrijf.,reviewed,erpnext,0.9,0.9,0.85,0.85,1.0,1.0,ok
+{0} {1}: Cost Center {2} does not belong to Company {3},{0} {1}: Kostenplaats {2} behoort niet tot bedrijf {3},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{0} {1}: Customer is required against Receivable account {2},{0} {1}: Klant is vereist bij debiteurenrekening {2},reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{0} {1}: Either debit or credit amount is required for {2},{0} {1}: Ofwel debet of credit bedrag is vereist voor {2},reviewed,erpnext,0.75,0.8,0.65,0.75,0.6,1.0,review
+{0} {1}: Submitted Record cannot be deleted. You must {2} Cancel {3} it first.,{0} {1}: Ingediend record kan niet worden verwijderd. U moet het eerst {2} annuleren {3}.,reviewed,frappe,0.74,0.75,0.65,0.75,0.7,0.9,review
+{0} {1}: Supplier is required against Payable account {2},{0} {1}: Leverancier is vereist bij crediteurenrekening {2},reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{0}% Billed,{0}% gefactureerd,reviewed,erpnext,0.9,0.9,0.85,0.85,1.0,1.0,ok
+{0}% Delivered,{0}% Geleverd,reviewed,erpnext,0.76,0.75,0.7,0.65,0.85,1.0,review
+"{0}, complete the operation {1} before the operation {2}.","{0}, voltooi de bewerking {1} vóór de bewerking {2}.",reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"{0}, Row {1}","{0}, Rij {1}",reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"{0}: '{1}' ({3}) will get truncated, as max characters allowed is {2}","{0}: {1} &#39;({3}) zal afgekapt krijgen, als maximum toegestane tekens is {2}",reviewed,frappe,0.28,0.3,0.2,0.3,0.2,0.4,rewrite
+{0}: Cannot set Amend without Cancel,{0} : Kan niet Wijzigen zonder te Annuleren,reviewed,frappe,0.63,0.65,0.55,0.6,0.6,0.9,review
+{0}: Cannot set Assign Amend if not Submittable,{0}: Kan wijziging niet doorvoeren indien niet indienbaar,reviewed,frappe,0.81,0.8,0.75,0.75,0.85,1.0,ok
+{0}: Cannot set Assign Submit if not Submittable,"{0} : Kan niet op ""In te dienen"" gezet worden indien niet indienbaar",reviewed,frappe,0.6,0.6,0.5,0.55,0.6,0.9,review
+{0}: Cannot set Cancel without Submit,{0} : Kan niet Annuleren zonder in te dienen,reviewed,frappe,0.6,0.6,0.5,0.55,0.55,0.9,review
+{0}: Cannot set import as {1} is not importable,{0} : Kan niet Importeren omdat {1} niet importeerbaar is,reviewed,frappe,0.7,0.7,0.6,0.65,0.7,0.9,review
+{0}: Cannot set Import without Create,{0} : Kan niet importeren zonder aan te maken,reviewed,frappe,0.82,0.8,0.75,0.75,0.9,1.0,ok
+"{0}: Cannot set Submit, Cancel, Amend without Write","{0} : Kan niet Indienen, Annuleren, Wijzigen zonder te Schrijven",reviewed,frappe,0.69,0.7,0.6,0.65,0.65,0.9,review
+"{0}: Failed to attach new recurring document. To enable attaching document in the auto repeat notification email, enable {1} in Print Settings",{0}: kan geen nieuw terugkerend document bijvoegen. Schakel {1} in Afdrukinstellingen in om het bijvoegen van een document in de e-mail voor automatisch herhalen in te schakelen,reviewed,frappe,0.81,0.85,0.75,0.8,0.7,0.9,ok
+{0}: Field '{1}' cannot be set as Unique as it has non-unique values,{0}: Veld &#39;{1}&#39; kan niet als Uniek worden ingesteld omdat het niet-unieke waarden heeft,reviewed,frappe,0.63,0.65,0.5,0.6,0.6,0.9,review
+{0}: Field {1} in row {2} cannot be hidden and mandatory without default,{0}: Veld {1} in rij {2} kan niet standaard worden verborgen en verplicht,reviewed,frappe,0.67,0.7,0.6,0.65,0.6,0.85,review
+{0}: Field {1} of type {2} cannot be mandatory,{0}: Veld {1} van type {2} kan niet verplicht zijn,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{0}: Fieldname cannot be one of {1},{0}: Veldnaam mag geen van {1} zijn,reviewed,frappe,0.87,0.85,0.8,0.85,0.9,1.0,ok
+{0}: Fieldname {1} appears multiple times in rows {2},{0}: Veldnaam {1} verschijnt meerdere keren in rijen {2},reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{0}: Fieldtype {1} for {2} cannot be unique,{0}: Veldtype {1} voor {2} kan niet uniek zijn,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{0}: From {1},{0}: Van {1},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{0}: No basic permissions set,{0} : Geen basis machtigingen ingesteld,reviewed,frappe,0.74,0.75,0.65,0.7,0.8,1.0,review
+"{0}: Only one rule allowed with the same Role, Level and {1}","{0}: Slechts één regel toegestaan met dezelfde rol, niveau en {1}",reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{0}: Options must be a valid DocType for field {1} in row {2},{0}: Opties moeten een geldig DocType zijn voor veld {1} in rij {2},reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{0}: Options required for Link or Table type field {1} in row {2},{0}: opties vereist voor het veld Link of Tabeltype {1} in rij {2},reviewed,frappe,0.74,0.8,0.65,0.7,0.65,1.0,review
+{0}: Options {1} must be the same as doctype name {2} for the field {3},{0}: Opties {1} moeten hetzelfde zijn als doctype naam {2} voor het veld {3},reviewed,frappe,0.83,0.85,0.75,0.8,0.85,1.0,ok
+{0}: Other permission rules may also apply,{0}: er kunnen ook andere toestemmingsregels van toepassing zijn,reviewed,frappe,0.77,0.8,0.7,0.75,0.8,1.0,review
+{0}: Permission at level 0 must be set before higher levels are set,{0}: Toestemming op niveau 0 moet worden ingesteld voordat hogere niveaus worden ingesteld,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{0}: {1} does not exists,{0}: {1} bestaat niet,reviewed,erpnext,0.94,0.9,0.9,0.95,1.0,1.0,ok
+{0}: {1} in {2},{0}: {1} van {2},reviewed,frappe,0.74,0.7,0.7,0.7,0.9,0.9,review
+{0}: {1} is set to state {2},{0}: {1} is ingesteld op staat {2},reviewed,frappe,0.74,0.75,0.65,0.7,0.8,1.0,review
+{0}: {1} must be less than {2},{0}: {1} moet kleiner zijn dan {2},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{0}: {1} not found in Invoice Details table,{0}: {1} niet gevonden in Factuur Details tabel,reviewed,erpnext,0.82,0.85,0.75,0.8,0.8,1.0,ok
+{0}: {1} vs {2},{0}: {1} versus {2},reviewed,frappe,0.83,0.8,0.75,0.8,1.0,1.0,ok
+{0}:Fieldtype {1} for {2} cannot be indexed,{0}: Veldtype {1} voor {2} kan niet worden geïndexeerd,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{0}{1} Did you rename the item? Please contact Administrator / Tech support,{0} {1} Heeft u de naam van het item gewijzigd? Neem contact op met de beheerder / technische ondersteuning,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,0.9,ok
+{1} Not in Stock,{1} Niet op voorraad,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{function} of {fieldlabel},{function} van {fieldlabel},reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{{{0}}} is not a valid fieldname pattern. It should be {{field_name}}.,{{{0}}} is een ongeldig veldnaampatroon. Gebruik {{field_name}}.,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{} Assets created for {},{} Activa gemaakt voor {},reviewed,erpnext,0.77,0.8,0.7,0.75,0.75,1.0,review
+{} can't be cancelled since the Loyalty Points earned has been redeemed. First cancel the {} No {},{} kan niet worden geannuleerd omdat de verdiende loyaliteitspunten zijn ingewisseld. Annuleer eerst de {} Nee {},reviewed,erpnext,0.72,0.75,0.65,0.7,0.65,0.9,review
+{} Complete,{} Compleet,reviewed,frappe,0.9,0.85,0.85,0.85,1.0,1.0,ok
+{} has submitted assets linked to it. You need to cancel the assets to create purchase return.,{} heeft items ingediend die eraan zijn gekoppeld. U moet de activa annuleren om een inkoopretour te creëren.,reviewed,erpnext,0.57,0.6,0.45,0.55,0.45,0.8,review
+{} is not a valid date string.,{} is geen geldige datumtekenreeks.,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{} is required to generate E-Way Bill JSON,{} is vereist om E-Way Bill JSON te genereren,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
+{} of {},{} van {},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+← Back to upload files,← Terug naar bestanden uploaden,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+ Salary slips starting on or after this date will be considered for arrear calculations, Salarisstroken vanaf deze datum worden meegenomen in de nabetaling berekening,reviewed,hrms,0.81,0.85,0.75,0.8,0.75,1.0,ok
+ Unlink Payment on Cancellation of Employee Advance, Betaling ontkoppelen bij annulering van werknemersvoorschot,reviewed,hrms,0.92,0.9,0.85,0.9,1.0,1.0,ok
+"""From Date"" can not be greater than or equal to ""To Date""","""Begindatum"" mag niet gelijk aan of later zijn dan ""Einddatum""",reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
+% Utilization (B + NB) / T,% Benutting (B + NB) / T,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+% Utilization (B / T),% Benutting (B / T),reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+'employee_field_value' and 'timestamp' are required.,'employee_field_value' en 'timestamp' zijn verplicht.,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
+) for {0},) voor {0},reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
+...Fetching Employees,...Werknemers ophalen,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
+<b>Base</b> amount has not been set for the following employee(s): {0},<b>Basis</b>bedrag is niet ingesteld voor de volgende werknemer(s): {0},reviewed,hrms,0.92,0.9,0.85,0.9,1.0,1.0,ok
+<b>Example:</b> SAL-{first_name}-{date_of_birth.year} <br>This will generate a password like SAL-Jane-1972,<b>Voorbeeld:</b> SAL-{first_name}-{date_of_birth.year} <br>Dit genereert een wachtwoord zoals SAL-Jane-1972,reviewed,hrms,0.92,0.9,0.85,0.9,1.0,1.0,ok
+<b>Total Leaves Allocated</b> are more than the number of days in the allocation period,<b>Totaal toegewezen verlof</b> is meer dan het aantal dagen in de toewijzingsperiode,reviewed,hrms,0.92,0.9,0.85,0.9,1.0,1.0,ok
 "<h3>Help</h3>
 
 <p>Notes:</p>
@@ -12236,7 +12236,7 @@ zoom-out,uitzoomen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 <li>TDS berekenen op basis van dienstverbandtype <code>employment_type</code> 
 <pre><code>Condition: employment_type==""Intern""</code></pre>
 <pre><code>Amount: 1000</code></pre></li>
-</ol>",reviewed,hrms,,,,,,,
+</ol>",reviewed,hrms,0.92,0.9,0.85,0.9,0.95,1.0,ok
 "<h4>Condition Examples</h4>
 <ol>
 <li>Applying tax if employee born between 31-12-1937 and 01-01-1958 (Employees aged 60 to 80)<br>
@@ -12249,112 +12249,112 @@ zoom-out,uitzoomen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 <code>Condition: date_of_birth&gt;date(1937, 12, 31) and date_of_birth&lt;date(1958, 01, 01)</code></li><br><li>Belasting toepassen op basis van geslacht werknemer<br>
 <code>Condition: gender==""Male""</code></li><br>
 <li>Belasting toepassen op basis van salariscomponent<br>
-<code>Condition: base &gt; 10000</code></li></ol>",reviewed,hrms,,,,,,,
-<h5>Employees on Half Day</h5>,<h5>Werknemers op halve dag</h5>,reviewed,hrms,,,,,,,
-<h5>Unmarked Employees</h5>,<h5>Niet geregistreerde werknemers</h5>,reviewed,hrms,,,,,,,
-<hr>,,reviewed,hrms,,,,,,,
-"<span class=""h4""><b>Transactions &amp; Reports</b></span>","<span class=""h4""><b>Transacties &amp; Rapporten</b></span>",reviewed,hrms,,,,,,,
-"<span style=""font-size: 18px;""><b>Masters &amp; Reports</b></span>","<span style=""font-size: 18px;""><b>Stamgegevens &amp; Rapporten</b></span>",reviewed,hrms,,,,,,,
-<table class='table table-bordered'><tr><th>{0}</th><th>{1}</th></tr>,,reviewed,hrms,,,,,,,
-A Job Requisition for {0} requested by {1} already exists: {2},Een vacatureaanvraag voor {0} aangevraagd door {1} bestaat al: {2},reviewed,hrms,,,,,,,
-A friendly reminder of an important date for our team.,Een vriendelijke herinnering aan een belangrijke datum voor ons team.,reviewed,hrms,,,,,,,
-A {0} exists between {1} and {2} (,Er bestaat een {0} tussen {1} en {2} (,reviewed,hrms,,,,,,,
-Absent,Afwezig,reviewed,hrms,,,,,,,
-Absent Days,Afwezige dagen,reviewed,hrms,,,,,,,
-Absent Records,Afwezigheidsregistraties,reviewed,hrms,,,,,,,
-Account No,Rekeningnummer,reviewed,hrms,,,,,,,
-"Account type should be set {0} for payroll payable account {1}, please set and try again","Rekeningtype moet worden ingesteld op {0} voor salarisbetalingsrekening {1}, stel dit in en probeer opnieuw",reviewed,hrms,,,,,,,
-Account {0} does not match with Company {1},Rekening {0} komt niet overeen met bedrijf {1},reviewed,hrms,,,,,,,
-Accounting & Payment,Boekhouding & Betaling,reviewed,hrms,,,,,,,
-Accounting Reports,Boekhoudkundige rapporten,reviewed,hrms,,,,,,,
-Accounts not set for Salary Component {0},Rekeningen niet ingesteld voor salariscomponent {0},reviewed,hrms,,,,,,,
-Accrual,Toerekening,reviewed,hrms,,,,,,,
-Accrual Arrears,Toegerekende nabetalingen,reviewed,hrms,,,,,,,
-Accrual Component,Toerekeningscomponent,reviewed,hrms,,,,,,,
-Accrual Component can only be set for Earning Salary Components.,Een toerekeningscomponent kan alleen worden ingesteld voor verdienende salariscomponenten.,reviewed,hrms,,,,,,,
-Accrual Component can only be set for Flexible Benefit Salary Components with accrual payout methods.,Een toerekeningscomponent kan alleen worden ingesteld voor flexibele vergoedingssalariscomponenten met toerekeningsuitbetalingsmethoden.,reviewed,hrms,,,,,,,
-Accrual Component must be set for Flexible Benefit Salary Components with accrual payout methods.,Een toerekeningscomponent moet worden ingesteld voor flexibele vergoedingssalariscomponenten met toerekeningsuitbetalingsmethoden.,reviewed,hrms,,,,,,,
-Accrual Journal Entry for salaries from {0} to {1},Toerekenende journaalboeking voor salarissen van {0} tot {1},reviewed,hrms,,,,,,,
-Accrue and payout at end of payroll period,Toerekenen en uitbetalen aan het einde van de salarisperiode,reviewed,hrms,,,,,,,
-"Accrue per cycle, pay only on claim","Per cyclus toerekenen, alleen uitbetalen op declaratie",reviewed,hrms,,,,,,,
-Accrued Benefits,Opgebouwde vergoedingen,reviewed,hrms,,,,,,,
-Accrued Earnings Report,Rapport opgebouwde verdiensten,reviewed,hrms,,,,,,,
-Accrued amount {0} is less than paid amount {1} for Benefit {2} in payroll period {3},Opgebouwd bedrag {0} is lager dan betaald bedrag {1} voor vergoeding {2} in salarisperiode {3},reviewed,hrms,,,,,,,
-Action on Submission,Actie bij indiening,reviewed,hrms,,,,,,,
-Activity Name,Activiteitsnaam,reviewed,hrms,,,,,,,
-Actual Amount,Werkelijk bedrag,reviewed,hrms,,,,,,,
-Actual Encashable Days,Werkelijk uitbetaalbare dagen,reviewed,hrms,,,,,,,
-Actual Overtime Duration,Werkelijke overwerktijd,reviewed,hrms,,,,,,,
-Actual balances aren't available because the leave application spans over different leave allocations. You can still apply for leaves which would be compensated during the next allocation.,Werkelijke saldi zijn niet beschikbaar omdat de verlofaanvraag meerdere verloeftoewijzingen overspant. U kunt nog steeds verlof aanvragen dat wordt gecompenseerd bij de volgende toewijzing.,reviewed,hrms,,,,,,,
-Add Day-wise Dates,Datums per dag toevoegen,reviewed,hrms,,,,,,,
-Add Employee Property,Werknemerskenmerk toevoegen,reviewed,hrms,,,,,,,
-Add Expense,Declaratie toevoegen,reviewed,hrms,,,,,,,
-Add Feedback,Feedback toevoegen,reviewed,hrms,,,,,,,
-Add Tax,Belasting toevoegen,reviewed,hrms,,,,,,,
-Add to Details,Toevoegen aan details,reviewed,hrms,,,,,,,
-Add unused leaves from previous allocations,Ongebruikt verlof uit vorige toewijzingen toevoegen,reviewed,hrms,,,,,,,
-Add unused leaves from previous leave period's allocation to this allocation,Ongebruikt verlof uit de toewijzing van de vorige verlofperiode toevoegen aan deze toewijzing,reviewed,hrms,,,,,,,
-Added tax components from the Salary Component master as the salary structure didn't have any tax component.,Belastingcomponenten toegevoegd vanuit de salariscomponent stamgegevens omdat de salarisstructuur geen belastingcomponent had.,reviewed,hrms,,,,,,,
-Added to details,Toegevoegd aan details,reviewed,hrms,,,,,,,
-Additional Amount,Aanvullend bedrag,reviewed,hrms,,,,,,,
-Additional Information ,Aanvullende informatie ,reviewed,hrms,,,,,,,
-Additional PF,Aanvullend PF,reviewed,hrms,,,,,,,
-Additional Salary,Aanvullend salaris,reviewed,hrms,,,,,,,
-Additional Salary ,Aanvullend salaris ,reviewed,hrms,,,,,,,
-Additional Salary for referral bonus can only be created against Employee Referral with status {0},Aanvullend salaris voor verwijzingsbonus kan alleen worden aangemaakt tegen een werknemersverwijzing met status {0},reviewed,hrms,,,,,,,
-Additional Salary for this salary component with {0} enabled already exists for this date,Aanvullend salaris voor dit salariscomponent met {0} ingeschakeld bestaat al voor deze datum,reviewed,hrms,,,,,,,
-Additional Salary: {0} already exist for Salary Component: {1} for period {2} and {3},Aanvullend salaris: {0} bestaat al voor salariscomponent: {1} voor periode {2} en {3},reviewed,hrms,,,,,,,
-Address of Organizer,Adres van organisator,reviewed,hrms,,,,,,,
-Adjust Allocation,Toewijzing aanpassen,reviewed,hrms,,,,,,,
-Adjustment Created Successfully,Aanpassing succesvol aangemaakt,reviewed,hrms,,,,,,,
-Adjustment Type,Aanpassingstype,reviewed,hrms,,,,,,,
-Advance,Voorschot,reviewed,hrms,,,,,,,
-Advance Account Required,Voorschotrekening vereist,reviewed,hrms,,,,,,,
-Advance Account is mandatory. Please set the {0} in the Company {1} and submit this document.,Voorschotrekening is verplicht. Stel {0} in bij bedrijf {1} en dien dit document in.,reviewed,hrms,,,,,,,
-Advance Account {} currency should be same as Salary Currency of Employee {}. Please select same currency Advance Account,Valuta van voorschotrekening {} moet overeenkomen met de salarisvaluta van werknemer {}. Selecteer een voorschotrekening met dezelfde valuta,reviewed,hrms,,,,,,,
-Advanced Filters,Geavanceerde filters,reviewed,hrms,,,,,,,
-All Exchange Gain/Loss amount of {0} has been booked through {1},Alle koerswinst/-verlies van {0} is geboekt via {1},reviewed,hrms,,,,,,,
-All Goals,Alle doelen,reviewed,hrms,,,,,,,
-All Jobs,Alle vacatures,reviewed,hrms,,,,,,,
-All allocated assets should be returned before submission,Alle toegewezen bedrijfsmiddelen moeten worden teruggebracht voor indiening,reviewed,hrms,,,,,,,
-All the mandatory tasks for employee creation are not completed yet.,Niet alle verplichte taken voor het aanmaken van de werknemer zijn nog voltooid.,reviewed,hrms,,,,,,,
-Allocate Based On Leave Policy,Toewijzen op basis van verlofbeleid,reviewed,hrms,,,,,,,
-Allocate Leave,Verlof toewijzen,reviewed,hrms,,,,,,,
-Allocate leaves to {0} employee(s)?,Verlof toewijzen aan {0} werknemer(s)?,reviewed,hrms,,,,,,,
-Allocate on Day,Toewijzen op dag,reviewed,hrms,,,,,,,
-Allocated Amount (Company Currency),Toegewezen bedrag (bedrijfsvaluta),reviewed,hrms,,,,,,,
-Allocated Leaves,Toegewezen verlof,reviewed,hrms,,,,,,,
-Allocated Via,Toegewezen via,reviewed,hrms,,,,,,,
-Allocating Leave,Verlof toewijzen,reviewed,hrms,,,,,,,
-Allocation Date,Toewijzingsdatum,reviewed,hrms,,,,,,,
-Allocation Details,Toewijzingsdetails,reviewed,hrms,,,,,,,
-Allocation Expired!,Toewijzing verlopen!,reviewed,hrms,,,,,,,
-Allocation is greater than the maximum allowed {0} for leave type {1},Toewijzing is groter dan het maximaal toegestane {0} voor verloftype {1},reviewed,hrms,,,,,,,
-Allocation to Adjust,Aan te passen toewijzing,reviewed,hrms,,,,,,,
-Allocation was skipped due to exceeding annual allocation set in leave policy,Toewijzing is overgeslagen omdat de jaarlijkse toewijzing uit het verlofbeleid wordt overschreden,reviewed,hrms,,,,,,,
-Allocation was skipped due to maximum leave allocation limit set in leave type. Please increase the limit and retry failed allocation.,Toewijzing is overgeslagen vanwege de maximale verloftoewijzingslimiet ingesteld in het verloftype. Verhoog de limiet en probeer de mislukte toewijzing opnieuw.,reviewed,hrms,,,,,,,
-Allow Employee Checkin from Mobile App,Inchecken werknemer via mobiele app toestaan,reviewed,hrms,,,,,,,
-Allow Encashment,Uitbetaling toestaan,reviewed,hrms,,,,,,,
-Allow Geolocation Tracking,Locatiebepaling toestaan,reviewed,hrms,,,,,,,
-Allow Leave Application After (Working Days),Verlofaanvraag toestaan na (werkdagen),reviewed,hrms,,,,,,,
-Allow Multiple Shift Assignments for Same Date,Meerdere diensttoewijzingen toestaan voor dezelfde datum,reviewed,hrms,,,,,,,
-Allow Negative Balance,Negatief saldo toestaan,reviewed,hrms,,,,,,,
-Allow Over Allocation,Overtoewijzing toestaan,reviewed,hrms,,,,,,,
-Allow Tax Exemption,Belastingvrijstelling toestaan,reviewed,hrms,,,,,,,
-Allow User,Gebruiker toestaan,reviewed,hrms,,,,,,,
-Allow Users,Gebruikers toestaan,reviewed,hrms,,,,,,,
-Allow check-out after shift end time (in minutes),Uitklokken na eindtijd dienst toestaan (in minuten),reviewed,hrms,,,,,,,
-Allow claim for full benefit amount,Declaratie voor volledig vergoedingsbedrag toestaan,reviewed,hrms,,,,,,,
-Allow the following users to approve Leave Applications for block days.,Sta de volgende gebruikers toe verlofaanvragen goed te keuren voor geblokkeerde dagen.,reviewed,hrms,,,,,,,
-Allows allocating more leaves than the number of days in the allocation period.,Staat toe meer verlofdagen toe te wijzen dan het aantal dagen in de toewijzingsperiode.,reviewed,hrms,,,,,,,
-Alternating entries as IN and OUT during the same shift,Afwisselende registraties als IN en UIT tijdens dezelfde dienst,reviewed,hrms,,,,,,,
-Amount Based on Formula,Bedrag op basis van formule,reviewed,hrms,,,,,,,
-Amount based on formula,Bedrag op basis van formule,reviewed,hrms,,,,,,,
-Amount claimed via Expense Claim,Bedrag gedeclareerd via declaratie,reviewed,hrms,,,,,,,
-Amount of expense,Declaratiebedrag,reviewed,hrms,,,,,,,
-Amount paid against this encashment,Uitbetaald bedrag voor deze verlofuitkering,reviewed,hrms,,,,,,,
-Amount scheduled for deduction via salary,Bedrag gepland voor inhouding via salaris,reviewed,hrms,,,,,,,
-Amount should not be less than zero,Bedrag mag niet kleiner zijn dan nul,reviewed,hrms,,,,,,,
+<code>Condition: base &gt; 10000</code></li></ol>",reviewed,hrms,0.92,0.9,0.85,0.9,0.95,1.0,ok
+<h5>Employees on Half Day</h5>,<h5>Werknemers op halve dag</h5>,reviewed,hrms,0.82,0.85,0.75,0.8,0.8,1.0,ok
+<h5>Unmarked Employees</h5>,<h5>Niet geregistreerde werknemers</h5>,reviewed,hrms,0.92,0.9,0.85,0.9,1.0,1.0,ok
+<hr>,,reviewed,hrms,0.5,0.5,0.5,0.5,0.5,0.5,review
+"<span class=""h4""><b>Transactions &amp; Reports</b></span>","<span class=""h4""><b>Transacties &amp; Rapporten</b></span>",reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"<span style=""font-size: 18px;""><b>Masters &amp; Reports</b></span>","<span style=""font-size: 18px;""><b>Stamgegevens &amp; Rapporten</b></span>",reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
+<table class='table table-bordered'><tr><th>{0}</th><th>{1}</th></tr>,,reviewed,hrms,0.85,1.0,1.0,1.0,1.0,0.0,ok
+A Job Requisition for {0} requested by {1} already exists: {2},Een vacatureaanvraag voor {0} aangevraagd door {1} bestaat al: {2},reviewed,hrms,0.91,0.9,0.85,0.9,0.9,1.0,ok
+A friendly reminder of an important date for our team.,Een vriendelijke herinnering aan een belangrijke datum voor ons team.,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
+A {0} exists between {1} and {2} (,Er bestaat een {0} tussen {1} en {2} (,reviewed,hrms,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Absent,Afwezig,reviewed,hrms,0.98,0.95,1.0,1.0,1.0,1.0,ok
+Absent Days,Afwezige dagen,reviewed,hrms,0.73,0.7,0.65,0.75,0.8,1.0,review
+Absent Records,Afwezigheidsregistraties,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Account No,Rekeningnummer,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+"Account type should be set {0} for payroll payable account {1}, please set and try again","Rekeningtype moet worden ingesteld op {0} voor salarisbetalingsrekening {1}, stel dit in en probeer opnieuw",reviewed,hrms,0.86,0.85,0.8,0.85,0.85,1.0,ok
+Account {0} does not match with Company {1},Rekening {0} komt niet overeen met bedrijf {1},reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Accounting & Payment,Boekhouding & Betaling,reviewed,hrms,0.93,0.9,0.85,0.9,1.0,1.0,ok
+Accounting Reports,Boekhoudkundige rapporten,reviewed,hrms,0.77,0.7,0.7,0.75,0.9,1.0,review
+Accounts not set for Salary Component {0},Rekeningen niet ingesteld voor salariscomponent {0},reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Accrual,Toerekening,reviewed,hrms,0.88,0.85,0.8,0.8,1.0,1.0,ok
+Accrual Arrears,Toegerekende nabetalingen,reviewed,hrms,0.81,0.8,0.75,0.75,0.9,1.0,ok
+Accrual Component,Toerekeningscomponent,reviewed,hrms,0.81,0.8,0.7,0.75,1.0,1.0,ok
+Accrual Component can only be set for Earning Salary Components.,Een toerekeningscomponent kan alleen worden ingesteld voor verdienende salariscomponenten.,reviewed,hrms,0.8,0.8,0.7,0.75,0.85,1.0,review
+Accrual Component can only be set for Flexible Benefit Salary Components with accrual payout methods.,Een toerekeningscomponent kan alleen worden ingesteld voor flexibele vergoedingssalariscomponenten met toerekeningsuitbetalingsmethoden.,reviewed,hrms,0.74,0.75,0.6,0.7,0.8,1.0,review
+Accrual Component must be set for Flexible Benefit Salary Components with accrual payout methods.,Een toerekeningscomponent moet worden ingesteld voor flexibele vergoedingssalariscomponenten met toerekeningsuitbetalingsmethoden.,reviewed,hrms,0.74,0.75,0.6,0.7,0.8,1.0,review
+Accrual Journal Entry for salaries from {0} to {1},Toerekenende journaalboeking voor salarissen van {0} tot {1},reviewed,hrms,0.8,0.8,0.7,0.75,0.85,1.0,review
+Accrue and payout at end of payroll period,Toerekenen en uitbetalen aan het einde van de salarisperiode,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
+"Accrue per cycle, pay only on claim","Per cyclus toerekenen, alleen uitbetalen op declaratie",reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Accrued Benefits,Opgebouwde vergoedingen,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Accrued Earnings Report,Rapport opgebouwde verdiensten,reviewed,hrms,0.81,0.8,0.75,0.75,0.9,1.0,ok
+Accrued amount {0} is less than paid amount {1} for Benefit {2} in payroll period {3},Opgebouwd bedrag {0} is lager dan betaald bedrag {1} voor vergoeding {2} in salarisperiode {3},reviewed,hrms,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Action on Submission,Actie bij indiening,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Activity Name,Activiteitsnaam,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Actual Amount,Werkelijk bedrag,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Actual Encashable Days,Werkelijk uitbetaalbare dagen,reviewed,hrms,0.81,0.8,0.75,0.75,0.9,1.0,ok
+Actual Overtime Duration,Werkelijke overwerktijd,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Actual balances aren't available because the leave application spans over different leave allocations. You can still apply for leaves which would be compensated during the next allocation.,Werkelijke saldi zijn niet beschikbaar omdat de verlofaanvraag meerdere verloeftoewijzingen overspant. U kunt nog steeds verlof aanvragen dat wordt gecompenseerd bij de volgende toewijzing.,reviewed,hrms,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Add Day-wise Dates,Datums per dag toevoegen,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Add Employee Property,Werknemerskenmerk toevoegen,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Add Expense,Declaratie toevoegen,reviewed,hrms,0.78,0.75,0.7,0.7,1.0,1.0,review
+Add Feedback,Feedback toevoegen,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Add Tax,Belasting toevoegen,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Add to Details,Toevoegen aan details,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Add unused leaves from previous allocations,Ongebruikt verlof uit vorige toewijzingen toevoegen,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Add unused leaves from previous leave period's allocation to this allocation,Ongebruikt verlof uit de toewijzing van de vorige verlofperiode toevoegen aan deze toewijzing,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Added tax components from the Salary Component master as the salary structure didn't have any tax component.,Belastingcomponenten toegevoegd vanuit de salariscomponent stamgegevens omdat de salarisstructuur geen belastingcomponent had.,reviewed,hrms,0.78,0.75,0.7,0.75,0.8,1.0,review
+Added to details,Toegevoegd aan details,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Additional Amount,Aanvullend bedrag,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Additional Information ,Aanvullende informatie ,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Additional PF,Aanvullend PF,reviewed,hrms,0.79,0.7,0.7,0.7,1.0,1.0,review
+Additional Salary,Aanvullend salaris,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Additional Salary ,Aanvullend salaris ,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Additional Salary for referral bonus can only be created against Employee Referral with status {0},Aanvullend salaris voor verwijzingsbonus kan alleen worden aangemaakt tegen een werknemersverwijzing met status {0},reviewed,hrms,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Additional Salary for this salary component with {0} enabled already exists for this date,Aanvullend salaris voor dit salariscomponent met {0} ingeschakeld bestaat al voor deze datum,reviewed,hrms,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Additional Salary: {0} already exist for Salary Component: {1} for period {2} and {3},Aanvullend salaris: {0} bestaat al voor salariscomponent: {1} voor periode {2} en {3},reviewed,hrms,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Address of Organizer,Adres van organisator,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Adjust Allocation,Toewijzing aanpassen,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Adjustment Created Successfully,Aanpassing succesvol aangemaakt,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Adjustment Type,Aanpassingstype,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Advance,Voorschot,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Advance Account Required,Voorschotrekening vereist,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Advance Account is mandatory. Please set the {0} in the Company {1} and submit this document.,Voorschotrekening is verplicht. Stel {0} in bij bedrijf {1} en dien dit document in.,reviewed,hrms,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Advance Account {} currency should be same as Salary Currency of Employee {}. Please select same currency Advance Account,Valuta van voorschotrekening {} moet overeenkomen met de salarisvaluta van werknemer {}. Selecteer een voorschotrekening met dezelfde valuta,reviewed,hrms,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Advanced Filters,Geavanceerde filters,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+All Exchange Gain/Loss amount of {0} has been booked through {1},Alle koerswinst/-verlies van {0} is geboekt via {1},reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
+All Goals,Alle doelen,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+All Jobs,Alle vacatures,reviewed,hrms,0.93,0.9,0.85,0.9,1.0,1.0,ok
+All allocated assets should be returned before submission,Alle toegewezen bedrijfsmiddelen moeten worden teruggebracht voor indiening,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
+All the mandatory tasks for employee creation are not completed yet.,Niet alle verplichte taken voor het aanmaken van de werknemer zijn nog voltooid.,reviewed,hrms,0.78,0.75,0.7,0.75,0.8,1.0,review
+Allocate Based On Leave Policy,Toewijzen op basis van verlofbeleid,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allocate Leave,Verlof toewijzen,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Allocate leaves to {0} employee(s)?,Verlof toewijzen aan {0} werknemer(s)?,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Allocate on Day,Toewijzen op dag,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allocated Amount (Company Currency),Toegewezen bedrag (bedrijfsvaluta),reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allocated Leaves,Toegewezen verlof,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Allocated Via,Toegewezen via,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allocating Leave,Verlof toewijzen,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allocation Date,Toewijzingsdatum,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Allocation Details,Toewijzingsdetails,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Allocation Expired!,Toewijzing verlopen!,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Allocation is greater than the maximum allowed {0} for leave type {1},Toewijzing is groter dan het maximaal toegestane {0} voor verloftype {1},reviewed,hrms,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Allocation to Adjust,Aan te passen toewijzing,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allocation was skipped due to exceeding annual allocation set in leave policy,Toewijzing is overgeslagen omdat de jaarlijkse toewijzing uit het verlofbeleid wordt overschreden,reviewed,hrms,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Allocation was skipped due to maximum leave allocation limit set in leave type. Please increase the limit and retry failed allocation.,Toewijzing is overgeslagen vanwege de maximale verloftoewijzingslimiet ingesteld in het verloftype. Verhoog de limiet en probeer de mislukte toewijzing opnieuw.,reviewed,hrms,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Allow Employee Checkin from Mobile App,Inchecken werknemer via mobiele app toestaan,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allow Encashment,Uitbetaling toestaan,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allow Geolocation Tracking,Locatiebepaling toestaan,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allow Leave Application After (Working Days),Verlofaanvraag toestaan na (werkdagen),reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allow Multiple Shift Assignments for Same Date,Meerdere diensttoewijzingen toestaan voor dezelfde datum,reviewed,hrms,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Allow Negative Balance,Negatief saldo toestaan,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Allow Over Allocation,Overtoewijzing toestaan,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allow Tax Exemption,Belastingvrijstelling toestaan,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Allow User,Gebruiker toestaan,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allow Users,Gebruikers toestaan,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Allow check-out after shift end time (in minutes),Uitklokken na eindtijd dienst toestaan (in minuten),reviewed,hrms,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Allow claim for full benefit amount,Declaratie voor volledig vergoedingsbedrag toestaan,reviewed,hrms,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Allow the following users to approve Leave Applications for block days.,Sta de volgende gebruikers toe verlofaanvragen goed te keuren voor geblokkeerde dagen.,reviewed,hrms,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Allows allocating more leaves than the number of days in the allocation period.,Staat toe meer verlofdagen toe te wijzen dan het aantal dagen in de toewijzingsperiode.,reviewed,hrms,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Alternating entries as IN and OUT during the same shift,Afwisselende registraties als IN en UIT tijdens dezelfde dienst,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Amount Based on Formula,Bedrag op basis van formule,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Amount based on formula,Bedrag op basis van formule,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Amount claimed via Expense Claim,Bedrag gedeclareerd via declaratie,reviewed,hrms,0.77,0.75,0.7,0.7,0.85,1.0,review
+Amount of expense,Declaratiebedrag,reviewed,hrms,0.77,0.75,0.7,0.7,0.9,1.0,review
+Amount paid against this encashment,Uitbetaald bedrag voor deze verlofuitkering,reviewed,hrms,0.81,0.8,0.75,0.8,0.9,1.0,ok
+Amount scheduled for deduction via salary,Bedrag gepland voor inhouding via salaris,reviewed,hrms,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Amount should not be less than zero,Bedrag mag niet kleiner zijn dan nul,reviewed,hrms,0.94,0.9,0.9,0.9,1.0,1.0,ok
 Amount that has been paid against this advance,Bedrag dat is uitbetaald voor dit voorschot,reviewed,hrms,,,,,,,
 An Arrear document already exists for employee {0} with salary structure {1} in payroll period {2},Er bestaat al een nabetalingsdocument voor werknemer {0} met salarisstructuur {1} in de salarisperiode {2},reviewed,hrms,,,,,,,
 An attendance record is linked to this checkin. Please cancel the attendance before modifying time.,Er is een aanwezigheidsregistratie gekoppeld aan deze inklokking. Annuleer de aanwezigheid voordat u de tijd wijzigt.,reviewed,hrms,,,,,,,

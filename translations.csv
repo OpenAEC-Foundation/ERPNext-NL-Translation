@@ -16283,297 +16283,297 @@ Append this table with another table or query,Voeg deze tabel samen met een ande
 Apply Filters,Filters toepassen,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Apply User Permissions,Gebruikersrechten toepassen,reviewed,insights,0.89,0.9,0.85,0.85,1.0,1.0,ok
 Apply a custom operation using python script,Pas een aangepaste bewerking toe met een Python-script,reviewed,insights,0.89,0.9,0.85,0.85,0.9,1.0,ok
-Are you sure you want to log out?,Weet u zeker dat u wilt uitloggen?,reviewed,insights,,,,,,,
-Authentication Type,Authenticatietype,reviewed,insights,,,,,,,
-Auto Execute Query,Query automatisch uitvoeren,reviewed,insights,,,,,,,
-Automatically arrange cards vertically to fill empty spaces,Kaarten automatisch verticaal rangschikken om lege ruimtes te vullen,reviewed,insights,,,,,,,
-Average of...,Gemiddelde van...,reviewed,insights,,,,,,,
-Basic Authentication,Basic Authentication,reviewed,insights,,,,,,,
-Before Import Script,Script voor Import,reviewed,insights,,,,,,,
-Below average,Onder gemiddelde,reviewed,insights,,,,,,,
-BigQuery,BigQuery,reviewed,insights,,,,,,,
-BigQuery Configuration,BigQuery Configuration,reviewed,insights,,,,,,,
-BigQuery Dataset ID,BigQuery Dataset ID,reviewed,insights,,,,,,,
-BigQuery Project ID,BigQuery Project ID,reviewed,insights,,,,,,,
-BigQuery Service Account Key (JSON),BigQuery Service Account Key (JSON),reviewed,insights,,,,,,,
-Bottom N percent,Onderste N procent,reviewed,insights,,,,,,,
-Bottom N values,Onderste N waarden,reviewed,insights,,,,,,,
-Bulk Enqueue,Bulkwachtrij,reviewed,insights,,,,,,,
-Bulk Enqueue Import Job,Import-taak in bulkwachtrij plaatsen,reviewed,insights,,,,,,,
-Bulk Enqueue Progress,Voortgang bulkwachtrij,reviewed,insights,,,,,,,
-Cache Query Results For (Minutes),Query-resultaten cachen voor (minuten),reviewed,insights,,,,,,,
-Can Edit,Kan bewerken,reviewed,insights,,,,,,,
-Can View,Kan bekijken,reviewed,insights,,,,,,,
-Cardinality,Kardinaliteit,reviewed,insights,,,,,,,
-Check once a day,Eenmaal per dag controleren,reviewed,insights,,,,,,,
-Check once a month,Eenmaal per maand controleren,reviewed,insights,,,,,,,
-Check once a week,Eenmaal per week controleren,reviewed,insights,,,,,,,
-Check once an hour,Eenmaal per uur controleren,reviewed,insights,,,,,,,
-Choose Columns,Kolommen kiezen,reviewed,insights,,,,,,,
-ClickHouse,ClickHouse,reviewed,insights,,,,,,,
-Color Scale,Kleurschaal,reviewed,insights,,,,,,,
-Comma seperated URLs to whitelist for embedding charts & dashboards,Kommagescheiden URL's op de acceptatielijst voor het insluiten van grafieken en dashboards,reviewed,insights,,,,,,,
-Compact Layout,Compacte indeling,reviewed,insights,,,,,,,
-Config,Configuratie,reviewed,insights,,,,,,,
-Connect,Verbinden,reviewed,insights,,,,,,,
-Connect to ClickHouse,Verbinding maken met ClickHouse,reviewed,insights,,,,,,,
-Connect to ClickHouse database,Verbinding maken met ClickHouse-database,reviewed,insights,,,,,,,
-Connect to DuckDB,Verbinding maken met DuckDB,reviewed,insights,,,,,,,
-Connect to DuckDB database,Verbinding maken met DuckDB-database,reviewed,insights,,,,,,,
-Connect to MariaDB,Verbinding maken met MariaDB,reviewed,insights,,,,,,,
-Connect to MariaDB database,Verbinding maken met MariaDB-database,reviewed,insights,,,,,,,
-Connect to PostgreSQL,Verbinding maken met PostgreSQL,reviewed,insights,,,,,,,
-Connect to PostgreSQL database,Verbinding maken met PostgreSQL-database,reviewed,insights,,,,,,,
-Connection String,Verbindingsreeks,reviewed,insights,,,,,,,
-Convert to Expression,Omzetten naar expressie,reviewed,insights,,,,,,,
-Copy JSON,JSON kopiëren,reviewed,insights,,,,,,,
-Copy Query,Query kopiëren,reviewed,insights,,,,,,,
-Count of...,Aantal van...,reviewed,insights,,,,,,,
-Create Alert,Melding aanmaken,reviewed,insights,,,,,,,
-Create Measure,Meetwaarde aanmaken,reviewed,insights,,,,,,,
-Create Team,Team aanmaken,reviewed,insights,,,,,,,
-Create a dashboard in your workbook to view it here.,Maak een Dashboard aan in uw werkboek om het hier te bekijken.,reviewed,insights,,,,,,,
-Creation,Aanmaakdatum,reviewed,insights,,,,,,,
-Cron expression to schedule the script. Note: The scheduler checks for jobs every hour.,Cron-expressie om het script te plannen. Let op: de planner controleert elk uur op taken.,reviewed,insights,,,,,,,
-CumulativeSum,Cumulatieve som,reviewed,insights,,,,,,,
-Custom Condition,Aangepaste voorwaarde,reviewed,insights,,,,,,,
-Custom Headers,Aangepaste headers,reviewed,insights,,,,,,,
-Custom Join Condition,Aangepaste koppelingsvoorwaarde,reviewed,insights,,,,,,,
-Custom Operation,Aangepaste bewerking,reviewed,insights,,,,,,,
-Custom headers for API requests (non-sensitive data only),Aangepaste headers voor API-verzoeken (alleen niet-gevoelige gegevens),reviewed,insights,,,,,,,
-Dashboard Access Updated,Dashboard-toegang bijgewerkt,reviewed,insights,,,,,,,
-Data Backup,Gegevensback-up,reviewed,insights,,,,,,,
-Data Query,Gegevensquery,reviewed,insights,,,,,,,
-Data Source,Gegevensbron,reviewed,insights,,,,,,,
-Data Sources,Gegevensbronnen,reviewed,insights,,,,,,,
-Data Sources | Insights,Gegevensbronnen | Insights,reviewed,insights,,,,,,,
-Data Store,Gegevensopslag,reviewed,insights,,,,,,,
-Data Type,Gegevenstype,reviewed,insights,,,,,,,
-Database Type,Databasetype,reviewed,insights,,,,,,,
-Date Rules,Datumregels,reviewed,insights,,,,,,,
-Datetime,Datum en tijd,reviewed,insights,,,,,,,
-Decimal,Decimaal,reviewed,insights,,,,,,,
-Demo Data Ready,Demogegevens gereed,reviewed,insights,,,,,,,
-Disable Alert,Melding uitschakelen,reviewed,insights,,,,,,,
-Drill Down,Inzoomen,reviewed,insights,,,,,,,
-Drop Duplicates,Duplicaten verwijderen,reviewed,insights,,,,,,,
-DuckDB,DuckDB,reviewed,insights,,,,,,,
-Duplicate Chart,Grafiek dupliceren,reviewed,insights,,,,,,,
-Duplicate Query,Query dupliceren,reviewed,insights,,,,,,,
-Duration (Seconds),Duur (seconden),reviewed,insights,,,,,,,
-Edit Text,Tekst bewerken,reviewed,insights,,,,,,,
-Empty - Click 'Add Filter' to add a filter,Leeg. Klik op 'Filter toevoegen' om een filter toe te voegen.,reviewed,insights,,,,,,,
-Enable Alert,Melding inschakelen,reviewed,insights,,,,,,,
-Enable Data Store,Gegevensopslag inschakelen,reviewed,insights,,,,,,,
-Enable Permissions,Rechten inschakelen,reviewed,insights,,,,,,,
-Enable Stored Procedure Execution,Uitvoering van opgeslagen procedures inschakelen,reviewed,insights,,,,,,,
-Ended At,Beëindigd om,reviewed,insights,,,,,,,
-Enqueue,In wachtrij plaatsen,reviewed,insights,,,,,,,
-Enter filename,Voer bestandsnaam in,reviewed,insights,,,,,,,
-Enter filter label...,Voer filterlabel in...,reviewed,insights,,,,,,,
-Enter text,Voer tekst in,reviewed,insights,,,,,,,
-Enter the URL of the DuckDB file,Voer de URL van het DuckDB-bestand in,reviewed,insights,,,,,,,
-Enter your text content here...,Voer hier uw tekstinhoud in...,reviewed,insights,,,,,,,
-Execution Failed,Uitvoering mislukt,reviewed,insights,,,,,,,
-Execution Successful,Uitvoering geslaagd,reviewed,insights,,,,,,,
-Execution Time (seconds),Uitvoeringstijd (seconden),reviewed,insights,,,,,,,
-Export Format,Exportindeling,reviewed,insights,,,,,,,
-Export as PNG,Exporteren als PNG,reviewed,insights,,,,,,,
-Expression,Expressie,reviewed,insights,,,,,,,
-Failed to format SQL,SQL opmaken mislukt,reviewed,insights,,,,,,,
-Failed to import table,Tabel importeren mislukt,reviewed,insights,,,,,,,
-Failed to process uploaded file,Verwerking van geüpload bestand mislukt,reviewed,insights,,,,,,,
-Failed to setup demo data,Instellen van demogegevens mislukt,reviewed,insights,,,,,,,
-Favorites,Favorieten,reviewed,insights,,,,,,,
-Fetched from cache,Opgehaald uit cache,reviewed,insights,,,,,,,
-Fetched in {0}s,Opgehaald in {0}s,reviewed,insights,,,,,,,
-Filename,Bestandsnaam,reviewed,insights,,,,,,,
-Filter Icon,Filterpictogram,reviewed,insights,,,,,,,
-Filter Rows,Rijen filteren,reviewed,insights,,,,,,,
-Filter rows based on columns or expressions,Rijen filteren op basis van kolommen of expressies,reviewed,insights,,,,,,,
-Fiscal Year Start,Begin boekjaar,reviewed,insights,,,,,,,
-Folder and item must belong to the same workbook,Map en item moeten tot hetzelfde werkboek behoren,reviewed,insights,,,,,,,
-Force Refresh,Vernieuwing forceren,reviewed,insights,,,,,,,
-Force Run,Uitvoering forceren,reviewed,insights,,,,,,,
-Foreign Key,Externe sleutel,reviewed,insights,,,,,,,
-Foreign Table,Externe tabel,reviewed,insights,,,,,,,
-Foreign Table Label,Label externe tabel,reviewed,insights,,,,,,,
-Format Option,Opmaakinstellingen,reviewed,insights,,,,,,,
-Format SQL,SQL opmaken,reviewed,insights,,,,,,,
-Frappe Insights,Frappe Insights,reviewed,insights,,,,,,,
-Generated SQL,Gegenereerde SQL,reviewed,insights,,,,,,,
-Green-Red,Groen-Rood,reviewed,insights,,,,,,,
-Group & Summarize,Groeperen en samenvatten,reviewed,insights,,,,,,,
-Group rows by columns and summarize the data,Rijen groeperen op kolommen en gegevens samenvatten,reviewed,insights,,,,,,,
-HTTP Headers,HTTP Headers,reviewed,insights,,,,,,,
-Highlight Cell,Cel markeren,reviewed,insights,,,,,,,
-Horizontal,Horizontaal,reviewed,insights,,,,,,,
-Import Failed,Import mislukt,reviewed,insights,,,,,,,
-Import Job,Importtaak,reviewed,insights,,,,,,,
-Import Query,Query importeren,reviewed,insights,,,,,,,
-Import Table,Tabel importeren,reviewed,insights,,,,,,,
-Import job has been queued,Importtaak is in de wachtrij geplaatst,reviewed,insights,,,,,,,
-Import to Warehouse,Importeren naar magazijn,reviewed,insights,,,,,,,
-India,India,reviewed,insights,,,,,,,
-Insights Admin,Insights Admin,reviewed,insights,,,,,,,
-Insights Alert,Insights Alert,reviewed,insights,,,,,,,
-Insights Chart,Insights Chart,reviewed,insights,,,,,,,
-Insights Chart v3,Insights Chart v3,reviewed,insights,,,,,,,
-Insights Dashboard,Insights Dashboard,reviewed,insights,,,,,,,
-Insights Dashboard Chart v3,Insights Dashboard Chart v3,reviewed,insights,,,,,,,
-Insights Dashboard Item,Insights Dashboard Item,reviewed,insights,,,,,,,
-Insights Dashboard v3,Insights Dashboard v3,reviewed,insights,,,,,,,
-Insights Data Source,Insights Data Source,reviewed,insights,,,,,,,
-Insights Data Source v3,Insights Data Source v3,reviewed,insights,,,,,,,
-Insights Folder,Insights Folder,reviewed,insights,,,,,,,
-Insights Notebook,Insights Notebook,reviewed,insights,,,,,,,
-Insights Notebook Page,Insights Notebook Page,reviewed,insights,,,,,,,
-Insights Query,Insights Query,reviewed,insights,,,,,,,
-Insights Query Chart,Insights Query Chart,reviewed,insights,,,,,,,
-Insights Query Column,Insights Query Column,reviewed,insights,,,,,,,
-Insights Query Execution Log,Insights Query Execution Log,reviewed,insights,,,,,,,
-Insights Query Result,Insights Query Result,reviewed,insights,,,,,,,
-Insights Query Table,Insights Query Table,reviewed,insights,,,,,,,
-Insights Query Transform,Insights Query Transform,reviewed,insights,,,,,,,
-Insights Query Variable,Insights Query Variable,reviewed,insights,,,,,,,
-Insights Query v3,Insights Query v3,reviewed,insights,,,,,,,
-Insights Resource Permission,Insights Resource Permission,reviewed,insights,,,,,,,
-Insights Secret Key,Insights Secret Key,reviewed,insights,,,,,,,
-Insights Settings,Insights Settings,reviewed,insights,,,,,,,
-Insights Table,Insights Table,reviewed,insights,,,,,,,
-Insights Table Column,Insights Table Column,reviewed,insights,,,,,,,
-Insights Table Import,Insights Table Import,reviewed,insights,,,,,,,
-Insights Table Import Job,Insights Table Import Job,reviewed,insights,,,,,,,
-Insights Table Import Log,Insights Table Import Log,reviewed,insights,,,,,,,
-Insights Table Link,Insights Table Link,reviewed,insights,,,,,,,
-Insights Table Link v3,Insights Table Link v3,reviewed,insights,,,,,,,
-Insights Table v3,Insights Table v3,reviewed,insights,,,,,,,
-Insights Team,Insights Team,reviewed,insights,,,,,,,
-Insights Team Member,Insights Team Member,reviewed,insights,,,,,,,
-Insights User,Insights User,reviewed,insights,,,,,,,
-Insights User Invitation,Insights User Invitation,reviewed,insights,,,,,,,
-Insights Workbook,Insights Workbook,reviewed,insights,,,,,,,
-Integer,Integer,reviewed,insights,,,,,,,
-Invitation Expired,Uitnodiging verlopen,reviewed,insights,,,,,,,
-Invitation Sent,Uitnodiging verzonden,reviewed,insights,,,,,,,
-Is Assisted Query,Is ondersteunde query,reviewed,insights,,,,,,,
-Is Builder Query,Is builder-query,reviewed,insights,,,,,,,
-Is DuckLake,Is DuckLake,reviewed,insights,,,,,,,
-Is Expanded,Is uitgevouwen,reviewed,insights,,,,,,,
-Is Expression,Is expressie,reviewed,insights,,,,,,,
-Is Frappe Database,Is Frappe-database,reviewed,insights,,,,,,,
-Is Native Query,Is native Query,reviewed,insights,,,,,,,
-Is Query Based,Is Query-gebaseerd,reviewed,insights,,,,,,,
-Is Saved as Table,Is opgeslagen als Tabel,reviewed,insights,,,,,,,
-Is Script Query,Is Script Query,reviewed,insights,,,,,,,
-Is Site Database,Is sitedatabase,reviewed,insights,,,,,,,
-Join Table,Tabel koppelen,reviewed,insights,,,,,,,
-Join Telegram Group,Word lid van de Telegram-groep,reviewed,insights,,,,,,,
-Join this table with another table or query,Koppel deze Tabel aan een andere Tabel of Query,reviewed,insights,,,,,,,
-Justify,Uitlijnen,reviewed,insights,,,,,,,
-Last Executed On,Laatst uitgevoerd op,reviewed,insights,,,,,,,
-Last Log,Laatste log,reviewed,insights,,,,,,,
-Last Run,Laatste uitvoering,reviewed,insights,,,,,,,
-Last Status,Laatste status,reviewed,insights,,,,,,,
-Last Synced,Laatste synchronisatie,reviewed,insights,,,,,,,
-Left Column,Linker Kolom,reviewed,insights,,,,,,,
-Left Table,Linker Tabel,reviewed,insights,,,,,,,
-Legacy,Verouderd,reviewed,insights,,,,,,,
-Linked Charts,Gekoppelde Grafieken,reviewed,insights,,,,,,,
-Linked Queries,Gekoppelde Queries,reviewed,insights,,,,,,,
-Logs,Logboeken,reviewed,insights,,,,,,,
-Long Int,Lang geheel getal,reviewed,insights,,,,,,,
-Manage Team,Team beheren,reviewed,insights,,,,,,,
-Manage Workbook Access,Werkmaptoegang beheren,reviewed,insights,,,,,,,
-MariaDB,MariaDB,reviewed,insights,,,,,,,
-Mark as Failed,Markeren als mislukt,reviewed,insights,,,,,,,
-Markdown supported,Markdown ondersteund,reviewed,insights,,,,,,,
-Max Execution Time (Seconds),Maximale uitvoeringstijd (seconden),reviewed,insights,,,,,,,
-Max Memory Usage,Maximaal geheugengebruik,reviewed,insights,,,,,,,
-Max Records To Sync,Maximaal aantal records te synchroniseren,reviewed,insights,,,,,,,
-Maximum of...,Maximum van...,reviewed,insights,,,,,,,
-Measure Name,Naam meetwaarde,reviewed,insights,,,,,,,
-Memory Limit (MB),Geheugenlimiet (MB),reviewed,insights,,,,,,,
-Minimum of...,Minimum van...,reviewed,insights,,,,,,,
-Modified,Gewijzigd,reviewed,insights,,,,,,,
-N:1,N:1,reviewed,insights,,,,,,,
-N:N,N:N,reviewed,insights,,,,,,,
-New Alert,Nieuwe melding,reviewed,insights,,,,,,,
-New Dashboard,Nieuw Dashboard,reviewed,insights,,,,,,,
-New Data Source,Nieuwe Databron,reviewed,insights,,,,,,,
-New Query,Nieuwe Query,reviewed,insights,,,,,,,
-New Workbook,Nieuwe werkmap,reviewed,insights,,,,,,,
-Next Execution,Volgende uitvoering,reviewed,insights,,,,,,,
-No Dashboards,Geen Dashboards,reviewed,insights,,,,,,,
-No Queries Found,Geen Queries gevonden,reviewed,insights,,,,,,,
-No Tables Found,Geen Tabellen gevonden,reviewed,insights,,,,,,,
-No Tables Stored,Geen Tabellen opgeslagen,reviewed,insights,,,,,,,
-No Workbooks,Geen werkmappen,reviewed,insights,,,,,,,
-No alerts,Geen meldingen,reviewed,insights,,,,,,,
-No columns selected,Geen Kolommen geselecteerd,reviewed,insights,,,,,,,
-No data sources to display.,Geen databronnen om weer te geven.,reviewed,insights,,,,,,,
-No data sources.,Geen databronnen.,reviewed,insights,,,,,,,
-No tables found for the selected data source.,Geen Tabellen gevonden voor de geselecteerde databron.,reviewed,insights,,,,,,,
-No tables found in the data store.,Geen Tabellen gevonden in de gegevensopslag.,reviewed,insights,,,,,,,
-No teams to display.,Geen teams om weer te geven.,reviewed,insights,,,,,,,
-No teams.,Geen teams.,reviewed,insights,,,,,,,
-No users to display.,Geen gebruikers om weer te geven.,reviewed,insights,,,,,,,
-No users.,Geen gebruikers.,reviewed,insights,,,,,,,
-No workbooks created,Geen werkmappen aangemaakt,reviewed,insights,,,,,,,
-No workbooks to display.,Geen werkmappen om weer te geven.,reviewed,insights,,,,,,,
-Notebook,Notitieboek,reviewed,insights,,,,,,,
-Old Name,Oude Naam,reviewed,insights,,,,,,,
-Open Workbook,Werkmap openen,reviewed,insights,,,,,,,
-Parquet File,Parquet-bestand,reviewed,insights,,,,,,,
-Pending Execution,Wachtende uitvoering,reviewed,insights,,,,,,,
-Permissions updated,Rechten bijgewerkt,reviewed,insights,,,,,,,
-Persistent state storage for the script,Permanente statusopslag voor het script,reviewed,insights,,,,,,,
-Pick Starting Data,Kies begingegevens,reviewed,insights,,,,,,,
-Pivot,Pivot,reviewed,insights,,,,,,,
-Please select a data source first,Selecteer eerst een databron,reviewed,insights,,,,,,,
-Please wait while we refresh the tables from your data source,Een ogenblik geduld terwijl we de Tabellen vernieuwen vanuit uw databron,reviewed,insights,,,,,,,
-Position & Size,Positie en grootte,reviewed,insights,,,,,,,
-PostgreSQL,PostgreSQL,reviewed,insights,,,,,,,
-Preview Image,Voorbeeldafbeelding,reviewed,insights,,,,,,,
-Primary Key,Primaire sleutel,reviewed,insights,,,,,,,
-Queries,Queries,reviewed,insights,,,,,,,
-Query,Query,reviewed,insights,,,,,,,
-Query Result Limit,Limiet Queryresultaten,reviewed,insights,,,,,,,
-Quick Actions,Snelle acties,reviewed,insights,,,,,,,
-REST API,REST API,reviewed,insights,,,,,,,
-Ranking Condition,Rangschikkingsvoorwaarde,reviewed,insights,,,,,,,
-Ranking Rules,Rangschikkingsregels,reviewed,insights,,,,,,,
-Red-Green,Rood-groen,reviewed,insights,,,,,,,
-Refresh Preview,Voorbeeld vernieuwen,reviewed,insights,,,,,,,
-Refresh Stored Tables,Opgeslagen Tabellen vernieuwen,reviewed,insights,,,,,,,
-Refresh Tables,Tabellen vernieuwen,reviewed,insights,,,,,,,
-Refreshing Tables,Tabellen worden vernieuwd,reviewed,insights,,,,,,,
-Remove Sort,Sortering verwijderen,reviewed,insights,,,,,,,
-Reset Layout,Lay-out opnieuw instellen,reviewed,insights,,,,,,,
-Reset Options,Opties resetten,reviewed,insights,,,,,,,
-Resolve Locations,Locaties oplossen,reviewed,insights,,,,,,,
-Resource,Resource,reviewed,insights,,,,,,,
-Resource Type,Brontype,reviewed,insights,,,,,,,
-Result,Resultaat,reviewed,insights,,,,,,,
-Result Row Count,Aantal rijen in resultaat,reviewed,insights,,,,,,,
-Results,Resultaten,reviewed,insights,,,,,,,
-Results Row Count,Aantal rijen in resultaten,reviewed,insights,,,,,,,
-Right Column,Rechterkolom,reviewed,insights,,,,,,,
-Right Table,Rechtertabel,reviewed,insights,,,,,,,
-Row Limit,Rijlimiet,reviewed,insights,,,,,,,
-Row Size (KB),Rijgrootte (KB),reviewed,insights,,,,,,,
-Rows Imported,Rijen geïmporteerd,reviewed,insights,,,,,,,
-Rule Type,Regeltype,reviewed,insights,,,,,,,
-Run {0} of {1},Uitvoering {0} van {1},reviewed,insights,,,,,,,
-SQLite,SQLite,reviewed,insights,,,,,,,
-Sample data and workbook have been set up successfully,Voorbeelddata en werkboek zijn succesvol ingesteld,reviewed,insights,,,,,,,
-Sample data with workbook has been set up successfully,Voorbeelddata met werkboek is succesvol ingesteld,reviewed,insights,,,,,,,
-Save Variables,Variabelen opslaan,reviewed,insights,,,,,,,
-Schedule (Cron),Planning (Cron),reviewed,insights,,,,,,,
-Schema,Schema,reviewed,insights,,,,,,,
-Script Log,Scriptlog,reviewed,insights,,,,,,,
-Search by Title,Zoek op titel,reviewed,insights,,,,,,,
-Search by name,Zoek op naam,reviewed,insights,,,,,,,
+Are you sure you want to log out?,Weet u zeker dat u wilt uitloggen?,reviewed,insights,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Authentication Type,Authenticatietype,reviewed,insights,0.86,0.85,0.8,0.85,0.9,0.95,ok
+Auto Execute Query,Query automatisch uitvoeren,reviewed,insights,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Automatically arrange cards vertically to fill empty spaces,Kaarten automatisch verticaal rangschikken om lege ruimtes te vullen,reviewed,insights,0.86,0.85,0.8,0.85,0.9,0.95,ok
+Average of...,Gemiddelde van...,reviewed,insights,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Basic Authentication,Basic Authentication,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Before Import Script,Script voor Import,reviewed,insights,0.82,0.8,0.75,0.8,0.85,0.9,ok
+Below average,Onder gemiddelde,reviewed,insights,0.84,0.85,0.8,0.85,0.8,0.9,ok
+BigQuery,BigQuery,reviewed,insights,0.91,0.9,0.9,0.9,0.9,0.95,ok
+BigQuery Configuration,BigQuery Configuration,reviewed,insights,0.7,0.7,0.65,0.7,0.7,0.8,review
+BigQuery Dataset ID,BigQuery Dataset ID,reviewed,insights,0.87,0.85,0.85,0.85,0.9,0.95,ok
+BigQuery Project ID,BigQuery Project ID,reviewed,insights,0.87,0.85,0.85,0.85,0.9,0.95,ok
+BigQuery Service Account Key (JSON),BigQuery Service Account Key (JSON),reviewed,insights,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Bottom N percent,Onderste N procent,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Bottom N values,Onderste N waarden,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Bulk Enqueue,Bulkwachtrij,reviewed,insights,0.76,0.75,0.65,0.75,0.8,0.85,review
+Bulk Enqueue Import Job,Import-taak in bulkwachtrij plaatsen,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Bulk Enqueue Progress,Voortgang bulkwachtrij,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Cache Query Results For (Minutes),Query-resultaten cachen voor (minuten),reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Can Edit,Kan bewerken,reviewed,insights,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Can View,Kan bekijken,reviewed,insights,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Cardinality,Kardinaliteit,reviewed,insights,0.81,0.8,0.75,0.8,0.85,0.9,ok
+Check once a day,Eenmaal per dag controleren,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Check once a month,Eenmaal per maand controleren,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Check once a week,Eenmaal per week controleren,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Check once an hour,Eenmaal per uur controleren,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Choose Columns,Kolommen kiezen,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+ClickHouse,ClickHouse,reviewed,insights,0.91,0.9,0.9,0.9,0.9,0.95,ok
+Color Scale,Kleurschaal,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Comma seperated URLs to whitelist for embedding charts & dashboards,Kommagescheiden URL's op de acceptatielijst voor het insluiten van grafieken en dashboards,reviewed,insights,0.78,0.8,0.7,0.75,0.75,0.9,review
+Compact Layout,Compacte indeling,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Config,Configuratie,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Connect,Verbinden,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Connect to ClickHouse,Verbinding maken met ClickHouse,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Connect to ClickHouse database,Verbinding maken met ClickHouse-database,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Connect to DuckDB,Verbinding maken met DuckDB,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Connect to DuckDB database,Verbinding maken met DuckDB-database,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Connect to MariaDB,Verbinding maken met MariaDB,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Connect to MariaDB database,Verbinding maken met MariaDB-database,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Connect to PostgreSQL,Verbinding maken met PostgreSQL,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Connect to PostgreSQL database,Verbinding maken met PostgreSQL-database,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Connection String,Verbindingsreeks,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Convert to Expression,Omzetten naar expressie,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Copy JSON,JSON kopiëren,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Copy Query,Query kopiëren,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Count of...,Aantal van...,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Create Alert,Melding aanmaken,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Create Measure,Meetwaarde aanmaken,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Create Team,Team aanmaken,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Create a dashboard in your workbook to view it here.,Maak een Dashboard aan in uw werkboek om het hier te bekijken.,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Creation,Aanmaakdatum,reviewed,insights,0.8,0.8,0.75,0.8,0.85,0.85,ok
+Cron expression to schedule the script. Note: The scheduler checks for jobs every hour.,Cron-expressie om het script te plannen. Let op: de planner controleert elk uur op taken.,reviewed,insights,0.86,0.85,0.8,0.85,0.85,0.95,ok
+CumulativeSum,Cumulatieve som,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Custom Condition,Aangepaste voorwaarde,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Custom Headers,Aangepaste headers,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Custom Join Condition,Aangepaste koppelingsvoorwaarde,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Custom Operation,Aangepaste bewerking,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Custom headers for API requests (non-sensitive data only),Aangepaste headers voor API-verzoeken (alleen niet-gevoelige gegevens),reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Dashboard Access Updated,Dashboard-toegang bijgewerkt,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Data Backup,Gegevensback-up,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Data Query,Gegevensquery,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Data Source,Gegevensbron,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Data Sources,Gegevensbronnen,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Data Sources | Insights,Gegevensbronnen | Insights,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Data Store,Gegevensopslag,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Data Type,Gegevenstype,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Database Type,Databasetype,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Date Rules,Datumregels,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Datetime,Datum en tijd,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Decimal,Decimaal,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Demo Data Ready,Demogegevens gereed,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Disable Alert,Melding uitschakelen,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Drill Down,Inzoomen,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Drop Duplicates,Duplicaten verwijderen,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+DuckDB,DuckDB,reviewed,insights,0.91,0.9,0.9,0.9,0.9,0.95,ok
+Duplicate Chart,Grafiek dupliceren,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Duplicate Query,Query dupliceren,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Duration (Seconds),Duur (seconden),reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Edit Text,Tekst bewerken,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Empty - Click 'Add Filter' to add a filter,Leeg. Klik op 'Filter toevoegen' om een filter toe te voegen.,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Enable Alert,Melding inschakelen,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Enable Data Store,Gegevensopslag inschakelen,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Enable Permissions,Rechten inschakelen,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Enable Stored Procedure Execution,Uitvoering van opgeslagen procedures inschakelen,reviewed,insights,0.84,0.85,0.75,0.85,0.85,0.9,ok
+Ended At,Beëindigd om,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Enqueue,In wachtrij plaatsen,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Enter filename,Voer bestandsnaam in,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Enter filter label...,Voer filterlabel in...,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Enter text,Voer tekst in,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Enter the URL of the DuckDB file,Voer de URL van het DuckDB-bestand in,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Enter your text content here...,Voer hier uw tekstinhoud in...,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
+Execution Failed,Uitvoering mislukt,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Execution Successful,Uitvoering geslaagd,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Execution Time (seconds),Uitvoeringstijd (seconden),reviewed,insights,0.94,0.9,0.95,0.9,1.0,1.0,ok
+Export Format,Exportindeling,reviewed,insights,0.91,0.9,0.85,0.85,1.0,1.0,ok
+Export as PNG,Exporteren als PNG,reviewed,insights,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Expression,Expressie,reviewed,insights,0.82,0.8,0.7,0.8,1.0,1.0,ok
+Failed to format SQL,SQL opmaken mislukt,reviewed,insights,0.83,0.85,0.7,0.85,0.85,1.0,ok
+Failed to import table,Tabel importeren mislukt,reviewed,insights,0.83,0.85,0.7,0.85,0.85,1.0,ok
+Failed to process uploaded file,Verwerking van geüpload bestand mislukt,reviewed,insights,0.84,0.85,0.75,0.85,0.9,1.0,ok
+Failed to setup demo data,Instellen van demogegevens mislukt,reviewed,insights,0.83,0.85,0.7,0.85,0.85,1.0,ok
+Favorites,Favorieten,reviewed,insights,0.98,0.95,1.0,0.95,1.0,1.0,ok
+Fetched from cache,Opgehaald uit cache,reviewed,insights,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Fetched in {0}s,Opgehaald in {0}s,reviewed,insights,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Filename,Bestandsnaam,reviewed,insights,0.98,0.95,1.0,0.95,1.0,1.0,ok
+Filter Icon,Filterpictogram,reviewed,insights,0.82,0.8,0.65,0.8,1.0,1.0,ok
+Filter Rows,Rijen filteren,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Filter rows based on columns or expressions,Rijen filteren op basis van kolommen of expressies,reviewed,insights,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Fiscal Year Start,Begin boekjaar,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Folder and item must belong to the same workbook,Map en item moeten tot hetzelfde werkboek behoren,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Force Refresh,Vernieuwing forceren,reviewed,insights,0.87,0.85,0.75,0.85,1.0,1.0,ok
+Force Run,Uitvoering forceren,reviewed,insights,0.87,0.85,0.75,0.85,1.0,1.0,ok
+Foreign Key,Externe sleutel,reviewed,insights,0.87,0.85,0.75,0.85,1.0,1.0,ok
+Foreign Table,Externe tabel,reviewed,insights,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Foreign Table Label,Label externe tabel,reviewed,insights,0.81,0.8,0.7,0.8,0.85,1.0,ok
+Format Option,Opmaakinstellingen,reviewed,insights,0.79,0.75,0.7,0.75,1.0,0.9,review
+Format SQL,SQL opmaken,reviewed,insights,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Frappe Insights,Frappe Insights,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Generated SQL,Gegenereerde SQL,reviewed,insights,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Green-Red,Groen-Rood,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Group & Summarize,Groeperen en samenvatten,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Group rows by columns and summarize the data,Rijen groeperen op kolommen en gegevens samenvatten,reviewed,insights,0.92,0.9,0.85,0.9,1.0,1.0,ok
+HTTP Headers,HTTP Headers,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Highlight Cell,Cel markeren,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Horizontal,Horizontaal,reviewed,insights,0.98,0.95,1.0,0.95,1.0,1.0,ok
+Import Failed,Import mislukt,reviewed,insights,0.88,0.85,0.8,0.85,1.0,1.0,ok
+Import Job,Importtaak,reviewed,insights,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Import Query,Query importeren,reviewed,insights,0.88,0.85,0.8,0.85,1.0,1.0,ok
+Import Table,Tabel importeren,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Import job has been queued,Importtaak is in de wachtrij geplaatst,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Import to Warehouse,Importeren naar magazijn,reviewed,insights,0.81,0.75,0.75,0.75,1.0,1.0,ok
+India,India,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Admin,Insights Admin,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Alert,Insights Alert,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Chart,Insights Chart,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Chart v3,Insights Chart v3,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Dashboard,Insights Dashboard,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Dashboard Chart v3,Insights Dashboard Chart v3,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Dashboard Item,Insights Dashboard Item,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Dashboard v3,Insights Dashboard v3,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Data Source,Insights Data Source,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Data Source v3,Insights Data Source v3,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Folder,Insights Folder,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Notebook,Insights Notebook,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Notebook Page,Insights Notebook Page,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Query,Insights Query,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Query Chart,Insights Query Chart,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Query Column,Insights Query Column,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Query Execution Log,Insights Query Execution Log,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Query Result,Insights Query Result,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Query Table,Insights Query Table,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Query Transform,Insights Query Transform,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Query Variable,Insights Query Variable,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Query v3,Insights Query v3,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Resource Permission,Insights Resource Permission,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Secret Key,Insights Secret Key,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Settings,Insights Settings,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Table,Insights Table,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Table Column,Insights Table Column,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Table Import,Insights Table Import,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Table Import Job,Insights Table Import Job,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Table Import Log,Insights Table Import Log,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Table Link,Insights Table Link,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Table Link v3,Insights Table Link v3,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Table v3,Insights Table v3,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Team,Insights Team,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Team Member,Insights Team Member,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights User,Insights User,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights User Invitation,Insights User Invitation,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Insights Workbook,Insights Workbook,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Integer,Integer,reviewed,insights,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Invitation Expired,Uitnodiging verlopen,reviewed,insights,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Invitation Sent,Uitnodiging verzonden,reviewed,insights,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Is Assisted Query,Is ondersteunde query,reviewed,insights,0.77,0.75,0.65,0.75,0.85,1.0,review
+Is Builder Query,Is builder-query,reviewed,insights,0.81,0.8,0.7,0.8,0.9,1.0,ok
+Is DuckLake,Is DuckLake,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Is Expanded,Is uitgevouwen,reviewed,insights,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Is Expression,Is expressie,reviewed,insights,0.84,0.8,0.75,0.8,1.0,1.0,ok
+Is Frappe Database,Is Frappe-database,reviewed,insights,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Is Native Query,Is native Query,reviewed,insights,0.77,0.75,0.65,0.75,0.8,1.0,review
+Is Query Based,Is Query-gebaseerd,reviewed,insights,0.74,0.75,0.6,0.7,0.75,1.0,review
+Is Saved as Table,Is opgeslagen als Tabel,reviewed,insights,0.8,0.8,0.75,0.75,0.85,1.0,review
+Is Script Query,Is Script Query,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Is Site Database,Is sitedatabase,reviewed,insights,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Join Table,Tabel koppelen,reviewed,insights,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Join Telegram Group,Word lid van de Telegram-groep,reviewed,insights,0.93,0.9,0.95,0.9,1.0,1.0,ok
+Join this table with another table or query,Koppel deze Tabel aan een andere Tabel of Query,reviewed,insights,0.82,0.8,0.75,0.75,0.9,1.0,ok
+Justify,Uitlijnen,reviewed,insights,0.74,0.7,0.65,0.7,1.0,0.85,review
+Last Executed On,Laatst uitgevoerd op,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Last Log,Laatste log,reviewed,insights,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Last Run,Laatste uitvoering,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Last Status,Laatste status,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Last Synced,Laatste synchronisatie,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Left Column,Linker Kolom,reviewed,insights,0.74,0.8,0.7,0.6,0.8,1.0,review
+Left Table,Linker Tabel,reviewed,insights,0.74,0.8,0.7,0.6,0.8,1.0,review
+Legacy,Verouderd,reviewed,insights,0.89,0.85,0.9,0.85,1.0,1.0,ok
+Linked Charts,Gekoppelde Grafieken,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+Linked Queries,Gekoppelde Queries,reviewed,insights,0.78,0.8,0.75,0.7,0.85,1.0,review
+Logs,Logboeken,reviewed,insights,0.9,0.85,0.9,0.9,1.0,1.0,ok
+Long Int,Lang geheel getal,reviewed,insights,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Manage Team,Team beheren,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Manage Workbook Access,Werkmaptoegang beheren,reviewed,insights,0.86,0.85,0.8,0.85,0.9,1.0,ok
+MariaDB,MariaDB,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Mark as Failed,Markeren als mislukt,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Markdown supported,Markdown ondersteund,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Max Execution Time (Seconds),Maximale uitvoeringstijd (seconden),reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Max Memory Usage,Maximaal geheugengebruik,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Max Records To Sync,Maximaal aantal records te synchroniseren,reviewed,insights,0.83,0.85,0.75,0.8,0.8,1.0,ok
+Maximum of...,Maximum van...,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Measure Name,Naam meetwaarde,reviewed,insights,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Memory Limit (MB),Geheugenlimiet (MB),reviewed,insights,0.94,0.95,0.9,0.9,1.0,1.0,ok
+Minimum of...,Minimum van...,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Modified,Gewijzigd,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+N:1,N:1,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+N:N,N:N,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+New Alert,Nieuwe melding,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+New Dashboard,Nieuw Dashboard,reviewed,insights,0.77,0.8,0.75,0.65,0.8,1.0,review
+New Data Source,Nieuwe Databron,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+New Query,Nieuwe Query,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+New Workbook,Nieuwe werkmap,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Next Execution,Volgende uitvoering,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+No Dashboards,Geen Dashboards,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+No Queries Found,Geen Queries gevonden,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+No Tables Found,Geen Tabellen gevonden,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+No Tables Stored,Geen Tabellen opgeslagen,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+No Workbooks,Geen werkmappen,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+No alerts,Geen meldingen,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+No columns selected,Geen Kolommen geselecteerd,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+No data sources to display.,Geen databronnen om weer te geven.,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
+No data sources.,Geen databronnen.,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+No tables found for the selected data source.,Geen Tabellen gevonden voor de geselecteerde databron.,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+No tables found in the data store.,Geen Tabellen gevonden in de gegevensopslag.,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+No teams to display.,Geen teams om weer te geven.,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
+No teams.,Geen teams.,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+No users to display.,Geen gebruikers om weer te geven.,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
+No users.,Geen gebruikers.,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+No workbooks created,Geen werkmappen aangemaakt,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+No workbooks to display.,Geen werkmappen om weer te geven.,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Notebook,Notitieboek,reviewed,insights,0.81,0.75,0.8,0.75,1.0,1.0,ok
+Old Name,Oude Naam,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+Open Workbook,Werkmap openen,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Parquet File,Parquet-bestand,reviewed,insights,0.94,0.95,0.9,0.9,1.0,1.0,ok
+Pending Execution,Wachtende uitvoering,reviewed,insights,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Permissions updated,Rechten bijgewerkt,reviewed,insights,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Persistent state storage for the script,Permanente statusopslag voor het script,reviewed,insights,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Pick Starting Data,Kies begingegevens,reviewed,insights,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Pivot,Pivot,reviewed,insights,0.93,0.9,0.9,0.95,1.0,1.0,ok
+Please select a data source first,Selecteer eerst een databron,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Please wait while we refresh the tables from your data source,Een ogenblik geduld terwijl we de Tabellen vernieuwen vanuit uw databron,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+Position & Size,Positie en grootte,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+PostgreSQL,PostgreSQL,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Preview Image,Voorbeeldafbeelding,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Primary Key,Primaire sleutel,reviewed,insights,0.95,0.95,0.9,0.95,1.0,1.0,ok
+Queries,Queries,reviewed,insights,0.92,0.9,0.85,0.95,1.0,1.0,ok
+Query,Query,reviewed,insights,0.92,0.9,0.85,0.95,1.0,1.0,ok
+Query Result Limit,Limiet Queryresultaten,reviewed,insights,0.73,0.75,0.65,0.65,0.7,1.0,review
+Quick Actions,Snelle acties,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+REST API,REST API,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Ranking Condition,Rangschikkingsvoorwaarde,reviewed,insights,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Ranking Rules,Rangschikkingsregels,reviewed,insights,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Red-Green,Rood-groen,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Refresh Preview,Voorbeeld vernieuwen,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Refresh Stored Tables,Opgeslagen Tabellen vernieuwen,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+Refresh Tables,Tabellen vernieuwen,reviewed,insights,0.77,0.8,0.8,0.65,0.8,1.0,review
+Refreshing Tables,Tabellen worden vernieuwd,reviewed,insights,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Remove Sort,Sortering verwijderen,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Reset Layout,Lay-out opnieuw instellen,reviewed,insights,0.89,0.9,0.85,0.85,1.0,1.0,ok
+Reset Options,Opties resetten,reviewed,insights,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Resolve Locations,Locaties oplossen,reviewed,insights,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Resource,Resource,reviewed,insights,0.82,0.8,0.75,0.8,1.0,1.0,ok
+Resource Type,Brontype,reviewed,insights,0.82,0.8,0.8,0.75,1.0,1.0,ok
+Result,Resultaat,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Result Row Count,Aantal rijen in resultaat,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Results,Resultaten,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Results Row Count,Aantal rijen in resultaten,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Right Column,Rechterkolom,reviewed,insights,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Right Table,Rechtertabel,reviewed,insights,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Row Limit,Rijlimiet,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Row Size (KB),Rijgrootte (KB),reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Rows Imported,Rijen geïmporteerd,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Rule Type,Regeltype,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Run {0} of {1},Uitvoering {0} van {1},reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
+SQLite,SQLite,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Sample data and workbook have been set up successfully,Voorbeelddata en werkboek zijn succesvol ingesteld,reviewed,insights,0.79,0.8,0.75,0.7,0.85,1.0,review
+Sample data with workbook has been set up successfully,Voorbeelddata met werkboek is succesvol ingesteld,reviewed,insights,0.79,0.8,0.75,0.7,0.85,1.0,review
+Save Variables,Variabelen opslaan,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Schedule (Cron),Planning (Cron),reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Schema,Schema,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Script Log,Scriptlog,reviewed,insights,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Search by Title,Zoek op titel,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Search by name,Zoek op naam,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Secrets,Geheimen,reviewed,insights,,,,,,,
 Select Charts,Grafieken selecteren,reviewed,insights,,,,,,,
 Select Columns to Add,Kolommen selecteren om toe te voegen,reviewed,insights,,,,,,,

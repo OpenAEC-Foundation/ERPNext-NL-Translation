@@ -7037,29 +7037,29 @@ Payer Settings,Betalersinstellingen,reviewed,erpnext,0.84,0.55,0.4,0.45,0.55,1.0
 Payment,Betaling,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Payment Account,Betaalrekening,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Payment against {0} {1} cannot be greater than Outstanding Amount {2},Betaling voor {0} {1} mag niet groter zijn dan het openstaande bedrag {2},reviewed,erpnext,0.83,0.35,0.2,0.4,0.25,0.9,improved
-Payment Amount,Betaling Bedrag,reviewed,erpnext,0.62,0.65,0.55,0.6,0.6,1.0,review
+Payment Amount,Betalingsbedrag,reviewed,erpnext,0.89,0.65,0.55,0.6,0.6,1.0,improved
 Payment amount cannot be less than or equal to 0,Het betalingsbedrag mag niet lager zijn dan of gelijk zijn aan 0,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
-Payment Cancelled,betaling geannuleerd,reviewed,frappe,0.71,0.75,0.7,0.7,0.55,1.0,review
+Payment Cancelled,Betaling geannuleerd,reviewed,frappe,0.84,0.75,0.7,0.7,0.55,1.0,improved
 Payment Cancelled. Please check your GoCardless Account for more details,Betaling geannuleerd. Controleer uw GoCardless-account voor meer informatie,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Payment Channel,Betalingskanaal,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Payment Confirmation,Betalingsbevestiging,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
-Payment Deductions or Loss,Betaling Aftrek of verlies,reviewed,erpnext,0.56,0.55,0.5,0.5,0.6,1.0,review
+Payment Deductions or Loss,Betalingsaftrekken of verlies,reviewed,erpnext,0.83,0.55,0.5,0.5,0.6,1.0,improved
 Payment Description,Betalingsomschrijving,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
-Payment Document,betaling Document,reviewed,erpnext,0.57,0.65,0.45,0.5,0.45,1.0,review
+Payment Document,Betalingsdocument,reviewed,erpnext,0.9,0.65,0.45,0.5,0.45,1.0,improved
 Payment Document Type,Type betaaldocument,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Payment Due Date,Betaling Vervaldatum,reviewed,erpnext,0.63,0.65,0.55,0.6,0.6,1.0,review
+Payment Due Date,Betalingsvervaldatum,reviewed,erpnext,0.88,0.65,0.55,0.6,0.6,1.0,improved
 Payment Entries,Betalingsboekingen,reviewed,erpnext,0.82,0.45,0.25,0.35,0.3,0.85,improved
 Payment Entries {0} are un-linked,Betalingsboekingen {0} zijn ontkoppeld,reviewed,erpnext,0.81,0.3,0.2,0.3,0.25,0.9,improved
 Payment Entry,Betalingsboeking,reviewed,erpnext,0.83,0.4,0.25,0.3,0.3,1.0,improved
 Payment Entry already exists,Betalingsboeking bestaat al,reviewed,erpnext,0.85,0.5,0.4,0.45,0.55,1.0,improved
 Payment Entry Deduction,Inhouding betalingsboeking,reviewed,erpnext,0.78,0.35,0.25,0.3,0.35,1.0,improved
 Payment Entry has been modified after you pulled it. Please pull it again.,De betalingsboeking is gewijzigd nadat u deze hebt opgehaald. Haal deze opnieuw op.,reviewed,erpnext,0.85,0.25,0.1,0.25,0.15,0.8,improved
-Payment Entry is already created,Betaling Entry is al gemaakt,reviewed,erpnext,0.5,0.5,0.45,0.45,0.6,1.0,review
+Payment Entry is already created,Betalingsboeking is al aangemaakt,reviewed,erpnext,0.88,0.5,0.45,0.45,0.6,1.0,improved
 Payment Entry Reference,Referentie betalingsboeking,reviewed,erpnext,0.79,0.3,0.2,0.25,0.25,0.85,improved
 Payment Failed,Betaling mislukt,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Payment Failed. Please check your GoCardless Account for more details,Betaling mislukt. Controleer uw GoCardless-account voor meer informatie,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Payment From / To,Betaling van / naar,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Payment Gateway Account,Betalingsgateway rekening,reviewed,custom,0.69,0.7,0.65,0.65,0.7,1.0,review
+Payment Gateway Account,Betalingsgateway-account,reviewed,custom,0.87,0.7,0.65,0.65,0.7,1.0,improved
 "Payment Gateway Account not created, please create one manually.",Payment Gateway-account is niet aangemaakt. Maak er handmatig een aan.,reviewed,erpnext,0.83,0.2,0.15,0.25,0.2,0.5,improved
 Payment ID,Betaal-ID,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Payment Invoice Items,Factuurartikelen voor betaling,reviewed,erpnext,0.78,0.5,0.4,0.45,0.5,1.0,improved
@@ -7067,14 +7067,14 @@ Payment Ledger Entry,Betalingsgrootboekregel,reviewed,custom,0.91,0.9,0.85,0.9,0
 Payment Method,Betalingswijze,reviewed,erpnext,0.91,0.9,0.9,0.85,0.95,1.0,ok
 Payment Methods,Betaalmethodes,reviewed,erpnext,0.8,0.8,0.8,0.7,0.85,1.0,ok
 Payment methods are mandatory. Please add at least one payment method.,Betaalmethoden zijn verplicht. Voeg ten minste één betaalmethode toe.,reviewed,erpnext,0.93,0.95,0.9,0.9,0.95,1.0,ok
-Payment Mode,Betaling Mode,reviewed,erpnext,0.52,0.55,0.45,0.5,0.55,1.0,review
+Payment Mode,Betalingswijze,reviewed,erpnext,0.91,0.55,0.45,0.5,0.55,1.0,improved
 Payment Name,Betalingsnaam,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Payment Order,Betalingsopdracht,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Payment Order Reference,Referentie betalingsopdracht,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Payment Order Status,Status betalingsopdracht,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Payment Order Type,Type betalingsopdracht,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Payment Ordered,Betaling besteld,reviewed,erpnext,0.59,0.55,0.5,0.55,0.7,1.0,review
-Payment Period Based On Invoice Date,Betaling Periode gebaseerd op factuurdatum,reviewed,erpnext,0.65,0.65,0.6,0.6,0.7,1.0,review
+Payment Ordered,Betaalopdracht,reviewed,erpnext,0.86,0.55,0.5,0.55,0.7,1.0,improved
+Payment Period Based On Invoice Date,Betalingsperiode op basis van factuurdatum,reviewed,erpnext,0.9,0.65,0.6,0.6,0.7,1.0,improved
 Payment Plan,Betaalplan,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Payment Receipt Note,Betalingsontvangstnotitie,reviewed,erpnext,0.76,0.45,0.35,0.4,0.45,1.0,improved
 Payment Received,Betaling ontvangen,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
@@ -7090,18 +7090,18 @@ Payment Request Type,Type betalingsverzoek,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9
 Payment request {0} created,Betalingsverzoek {0} gemaakt,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Payment Schedule,Betalingsschema,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Payment Success,Betaling geslaagd,reviewed,frappe,0.86,0.55,0.4,0.45,0.4,1.0,improved
-Payment Success Url,Betaling Succes URL,reviewed,erpnext,0.57,0.6,0.5,0.55,0.55,1.0,review
+Payment Success Url,URL na geslaagde betaling,reviewed,erpnext,0.88,0.6,0.5,0.55,0.55,1.0,improved
 Payment Tems,Betalingstermijnen,reviewed,erpnext,0.81,0.3,0.55,0.3,0.9,0.6,improved
 Payment Term,Betalingsvoorwaarde,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
-Payment Term Name,Betalingstermijn,reviewed,erpnext,0.7,0.65,0.7,0.6,0.9,0.85,review
+Payment Term Name,Naam betalingstermijn,reviewed,erpnext,0.87,0.65,0.7,0.6,0.9,0.85,improved
 Payment Terms,Betaalvoorwaarden,reviewed,erpnext,0.81,0.8,0.8,0.75,0.9,1.0,ok
 Payment Terms based on conditions,Betalingsvoorwaarden op basis van voorwaarden,reviewed,erpnext,0.81,0.8,0.75,0.8,0.9,1.0,ok
 Payment Terms Template,Betalingsvoorwaarden sjabloon,reviewed,erpnext,0.8,0.8,0.75,0.8,0.8,1.0,ok
-Payment Terms Template Detail,Betalingsvoorwaarden sjabloondetail,reviewed,erpnext,0.77,0.75,0.7,0.75,0.8,1.0,review
-Payment Type,Betaling Type,reviewed,erpnext,0.57,0.6,0.5,0.55,0.55,1.0,review
+Payment Terms Template Detail,Sjabloonregel betalingsvoorwaarden,reviewed,erpnext,0.85,0.75,0.7,0.75,0.8,1.0,improved
+Payment Type,Betalingstype,reviewed,erpnext,0.9,0.6,0.5,0.55,0.55,1.0,improved
 "Payment Type must be one of Receive, Pay and Internal Transfer","Betalingstype moet een van de volgende zijn: Ontvangen, Betalen of Interne overboeking",reviewed,erpnext,0.84,0.35,0.25,0.35,0.3,0.9,improved
 Payments,Betalingen,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
-PayPal payment gateway settings,PayPal betaling gateway-instellingen,reviewed,frappe,0.64,0.65,0.6,0.6,0.65,1.0,review
+PayPal payment gateway settings,PayPal betalingsgateway-instellingen,reviewed,frappe,0.88,0.65,0.6,0.6,0.65,1.0,improved
 PayPal Settings,PayPal-instellingen,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Payroll Correction,Salariscorrectie,reviewed,custom,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Payroll Cost Center,Loonkostencentrum,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -7110,38 +7110,38 @@ Payslip,loonstrook,reviewed,erpnext,0.84,0.85,0.85,0.85,0.7,1.0,ok
 Paytm payment gateway settings,Paytm betalingsgateway-instellingen,reviewed,frappe,0.86,0.85,0.85,0.85,0.9,1.0,ok
 Paytm Settings,Paytm-instellingen,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
 PDF generation failed,PDF-generatie mislukt,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
-PDF generation failed because of broken image links,PDF generatie mislukt vanwege gebroken image koppelingen,reviewed,frappe,0.74,0.8,0.65,0.65,0.7,1.0,review
+PDF generation failed because of broken image links,PDF-generatie mislukt door verbroken afbeeldingskoppelingen,reviewed,frappe,0.9,0.8,0.65,0.65,0.7,1.0,improved
 PDF Page Size,PDF-paginaformaat,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
 "PDF printing via ""Raw Print"" is not yet supported. Please remove the printer mapping in Printer Settings and try again.",PDF-afdrukken via &quot;Raw Print&quot; wordt nog niet ondersteund. Verwijder de printertoewijzing in Printerinstellingen en probeer het opnieuw.,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 PDF Settings,PDF-instellingen,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
 pencil,potlood,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
-Pending,In afwachting van,reviewed,both,0.52,0.55,0.4,0.45,0.6,0.8,review
+Pending,In behandeling,reviewed,both,0.87,0.55,0.4,0.45,0.6,0.8,improved
 Pending Activities,Openstaande activiteiten,reviewed,erpnext,0.81,0.35,0.3,0.35,0.4,0.8,improved
 Pending activities for today,Openstaande activiteiten voor vandaag,reviewed,erpnext,0.82,0.35,0.3,0.35,0.4,0.8,improved
 Pending Amount,Openstaand bedrag,reviewed,erpnext,0.83,0.3,0.25,0.3,0.35,0.8,improved
-Pending Approval,In afwachting van goedkeuring,reviewed,frappe,0.79,0.75,0.8,0.75,0.85,1.0,review
+Pending Approval,Wacht op goedkeuring,reviewed,frappe,0.88,0.75,0.8,0.75,0.85,1.0,improved
 Pending Leaves,Openstaande verlofaanvragen,reviewed,erpnext,0.84,0.1,0.05,0.1,0.3,0.5,improved
 Pending Qty,Openstaand aantal,reviewed,erpnext,0.8,0.3,0.25,0.3,0.35,0.8,improved
 Pending Quantity,Openstaande hoeveelheid,reviewed,erpnext,0.8,0.35,0.3,0.35,0.4,0.8,improved
-Pending Review,In afwachting van beoordeling,reviewed,erpnext,0.74,0.7,0.7,0.7,0.8,1.0,review
+Pending Review,Wacht op beoordeling,reviewed,erpnext,0.88,0.7,0.7,0.7,0.8,1.0,improved
 Pending SO Items For Purchase Request,Openstaande verkooporderartikelen voor inkoopverzoek,reviewed,erpnext,0.79,0.4,0.3,0.35,0.4,0.8,improved
-Pending Verification,wachten op verificatie,reviewed,frappe,0.72,0.7,0.7,0.65,0.75,1.0,review
-Pending Work Order,In afwachting van werkopdracht,reviewed,erpnext,0.69,0.65,0.65,0.65,0.75,1.0,review
+Pending Verification,Wacht op verificatie,reviewed,frappe,0.87,0.7,0.7,0.65,0.75,1.0,improved
+Pending Work Order,Openstaande werkopdracht,reviewed,erpnext,0.89,0.65,0.65,0.65,0.75,1.0,improved
 Pension Funds,Pensioenfondsen,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
 per hour,per uur,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Per Month,Per maand,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
-Per Transferred,Per overgedragen,reviewed,erpnext,0.59,0.6,0.55,0.55,0.6,0.85,review
+Per Transferred,Per overdracht,reviewed,erpnext,0.82,0.6,0.55,0.55,0.6,0.85,improved
 Per Week,Per week,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Per Year,Per jaar,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Percent,Percentage,reviewed,frappe,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Percent Complete,Percentage compleet,reviewed,frappe,0.82,0.8,0.8,0.8,0.85,1.0,ok
-Percentage Allocation,Percentage Toewijzing,reviewed,erpnext,0.74,0.75,0.7,0.7,0.75,1.0,review
+Percentage Allocation,Percentageverdeling,reviewed,erpnext,0.88,0.75,0.7,0.7,0.75,1.0,improved
 Percentage Allocation should be equal to 100%,Percentage toewijzing moet gelijk zijn aan 100%,reviewed,erpnext,0.8,0.8,0.8,0.75,0.8,1.0,ok
-Percentage you are allowed to transfer more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to transfer 110 units.,"Percentage dat u meer mag overbrengen tegen de bestelde hoeveelheid. Bijvoorbeeld: als u 100 eenheden heeft besteld. en uw toelage is 10%, dan mag u 110 eenheden overdragen.",reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,1.0,review
-Perception Analysis,Perceptie Analyse,reviewed,erpnext,0.73,0.75,0.7,0.7,0.75,1.0,review
-Perennial,eeuwigdurend,reviewed,erpnext,0.7,0.7,0.65,0.65,0.7,0.9,review
+Percentage you are allowed to transfer more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to transfer 110 units.,"Percentage waarmee u meer mag leveren dan de bestelde hoeveelheid. Bijvoorbeeld: als u 100 eenheden heeft besteld en uw marge is 10%, dan mag u 110 eenheden overdragen.",reviewed,erpnext,0.88,0.8,0.75,0.75,0.8,1.0,improved
+Perception Analysis,Perceptieanalyse,reviewed,erpnext,0.87,0.75,0.7,0.7,0.75,1.0,improved
+Perennial,Meerjarig,reviewed,erpnext,0.88,0.7,0.65,0.65,0.7,0.9,improved
 Performance,Prestatie,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-performing either one below:,uitvoeren van een van de onderstaande:,reviewed,erpnext,0.65,0.65,0.6,0.6,0.65,0.9,review
+performing either one below:,voer een van de volgende uit:,reviewed,erpnext,0.87,0.65,0.6,0.6,0.65,0.9,improved
 Period,periode,reviewed,both,0.81,0.85,0.8,0.75,0.7,1.0,ok
 Period Based On,Periode gebaseerd op,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Period based On,Periode gebaseerd op,reviewed,erpnext,0.85,0.85,0.85,0.8,0.9,1.0,ok
@@ -7152,60 +7152,60 @@ Period Name,Periodenaam,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Period Score,Periodescore,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Period Settings,Periode-instellingen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Period Start Date,Begindatum van de periode,reviewed,erpnext,0.83,0.8,0.8,0.8,0.85,1.0,ok
-Periodicity,periodiciteit,reviewed,erpnext,0.78,0.8,0.75,0.75,0.7,1.0,review
-Permanent,blijvend,reviewed,frappe,0.55,0.55,0.5,0.5,0.55,0.8,review
-Permanent Address,Vast Adres,reviewed,erpnext,0.77,0.75,0.75,0.75,0.8,1.0,review
-Permanent Address Is,Vast Adres is,reviewed,erpnext,0.77,0.75,0.75,0.75,0.8,1.0,review
+Periodicity,Periodiciteit,reviewed,erpnext,0.86,0.8,0.75,0.75,0.7,1.0,improved
+Permanent,Permanent,reviewed,frappe,0.88,0.55,0.5,0.5,0.55,0.8,improved
+Permanent Address,Vast adres,reviewed,erpnext,0.88,0.75,0.75,0.75,0.8,1.0,improved
+Permanent Address Is,Vast adres is,reviewed,erpnext,0.88,0.75,0.75,0.75,0.8,1.0,improved
 Permanently Cancel {0}?,Definitief {0} annuleren?,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Permanently delete,Definitief verwijderen,reviewed,custom,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Permanently delete {0}?,Definitief {0} verwijderen?,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
-Permanently Submit {0}?,Definitief {0} invoeren?,reviewed,frappe,0.64,0.65,0.6,0.6,0.65,1.0,review
+Permanently Submit {0}?,Definitief {0} indienen?,reviewed,frappe,0.88,0.65,0.6,0.6,0.65,1.0,improved
 Permission Error,Machtigingsfout,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Permission Level,Machtigingsniveau,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Permission Levels,Machtigingsniveaus,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Permission Log,Rechtenlog,reviewed,custom,0.74,0.75,0.7,0.7,0.75,1.0,review
+Permission Log,Autorisatielog,reviewed,custom,0.86,0.75,0.7,0.7,0.75,1.0,improved
 Permission Rules,Machtigingsregels,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Permissions,Machtigingen,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Permissions are automatically applied to Standard Reports and searches.,Machtigingen worden automatisch toegepast op standaardrapporten en zoekopdrachten.,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 "Permissions are set on Roles and Document Types (called DocTypes) by setting rights like Read, Write, Create, Delete, Submit, Cancel, Amend, Report, Import, Export, Print, Email and Set User Permissions.","Machtigingen worden ingesteld op rollen en documenttypen (ook wel DocTypes genaamd) door rechten toe te kennen zoals Lezen, Schrijven, Aanmaken, Verwijderen, Indienen, Annuleren, Wijzigen, Rapporteren, Importeren, Exporteren, Afdrukken, E-mailen en Gebruikersmachtigingen instellen.",reviewed,frappe,0.83,0.5,0.4,0.45,0.45,0.9,improved
 Permissions at higher levels are Field Level permissions. All Fields have a Permission Level set against them and the rules defined at that permissions apply to the field. This is useful in case you want to hide or make certain field read-only for certain Roles.,Machtigingen op hogere niveaus zijn veldniveaumachtigingen. Elk veld heeft een machtigingsniveau en de regels die op dat niveau zijn ingesteld gelden voor dat veld. Dit is handig als u bepaalde velden wilt verbergen of alleen-lezen wilt maken voor bepaalde rollen.,reviewed,frappe,0.84,0.35,0.3,0.3,0.3,0.8,improved
-"Permissions at level 0 are Document Level permissions, i.e. they are primary for access to the document.","Machtigingen op niveau 0 zijn Document Level permissies, dwz ze zijn primair voor toegang tot het document.",reviewed,frappe,0.69,0.7,0.65,0.65,0.65,0.9,review
+"Permissions at level 0 are Document Level permissions, i.e. they are primary for access to the document.","Machtigingen op niveau 0 zijn documentniveaumachtigingen, dat wil zeggen dat ze primair bepalend zijn voor toegang tot het document.",reviewed,frappe,0.88,0.7,0.65,0.65,0.65,0.9,improved
 Permissions get applied on Users based on what Roles they are assigned.,"Machtigingen worden toegepast op Gebruikers, gebaseerd op de toegewezen rollen.",reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Permitted Documents For User,Toegestane documenten voor Gebruiker,reviewed,frappe,0.79,0.8,0.75,0.75,0.8,1.0,review
+Permitted Documents For User,Toegestane documenten voor gebruiker,reviewed,frappe,0.88,0.8,0.75,0.75,0.8,1.0,improved
 Perpetual inventory required for the company {0} to view this report.,Permanente voorraad vereist voor bedrijf {0} om dit rapport te bekijken.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Person Name,Persoonsnaam,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Person Responsible,Verantwoordelijke persoon,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Person URN,Persoon URN,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Personal,Persoonlijk,reviewed,both,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Personal and Social History,Persoonlijke en sociale geschiedenis,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,1.0,ok
-Personal Bio,Persoonlijke Bio,reviewed,erpnext,0.74,0.75,0.7,0.7,0.75,1.0,review
+Personal Bio,Persoonlijke biografie,reviewed,erpnext,0.86,0.75,0.7,0.7,0.75,1.0,improved
 Personal Data Deletion Request,Verzoek persoonsgegevens verwijderen,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Personal Data Download Request,Verzoek persoonsgegevens downloaden,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Personal Details,Persoonlijke gegevens,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Personal Email,Persoonlijke e-mail,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Petrol,Benzine,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
-Pharmaceutical,farmaceutisch,reviewed,erpnext,0.73,0.75,0.7,0.7,0.65,0.9,review
+Pharmaceutical,Farmaceutisch,reviewed,erpnext,0.87,0.75,0.7,0.7,0.65,0.9,improved
 Pharmaceuticals,Farmacie,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Phone,Telefoon,reviewed,both,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Phone (Office),Telefoon (kantoor),reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Phone (R),Telefoon (R),reviewed,erpnext,0.72,0.7,0.7,0.7,0.75,0.9,review
+Phone (R),Telefoon (R),reviewed,erpnext,0.85,0.7,0.7,0.7,0.75,0.9,improved
 Phone No,Telefoonnummer,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Phone No.,Telefoonnummer,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Phone Number,Telefoonnummer,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Physician,Arts,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Pick Columns,Kies Kolommen,reviewed,frappe,0.82,0.8,0.8,0.8,0.85,1.0,ok
 Pick List,Picklijst,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Pick List Item,Keuzelijstitem,reviewed,erpnext,0.74,0.75,0.7,0.7,0.75,1.0,review
-Pick/Drop by Guardian,Pick / Drop door Guardian,reviewed,erpnext,0.54,0.55,0.45,0.5,0.5,0.85,review
-Picked Qty,Gekozen aantal,reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,1.0,review
+Pick List Item,Picklijstregel,reviewed,erpnext,0.88,0.75,0.7,0.7,0.75,1.0,improved
+Pick/Drop by Guardian,Ophalen/wegbrengen door voogd,reviewed,erpnext,0.89,0.55,0.45,0.5,0.5,0.85,improved
+Picked Qty,Gepickt aantal,reviewed,erpnext,0.86,0.8,0.75,0.75,0.8,1.0,improved
 picture,afbeelding,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Pie,Cirkeldiagram,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Pin Globally,Pin wereldwijd,reviewed,frappe,0.57,0.55,0.5,0.55,0.6,0.9,review
+Pin Globally,Voor iedereen vastzetten,reviewed,frappe,0.87,0.55,0.5,0.55,0.6,0.9,improved
 Pin To Bottom,Vastzetten onderaan,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Pin To Top,Vastzetten bovenaan,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Place of Issue,Plaats van uitgifte,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Place of Supply,Plaats van levering,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Place Of Supply (State/UT),Plaats van levering (staat / UT),reviewed,erpnext,0.74,0.7,0.7,0.75,0.8,0.9,review
+Place Of Supply (State/UT),Plaats van levering (staat/UT),reviewed,erpnext,0.86,0.7,0.7,0.75,0.8,0.9,improved
 Place Order,Plaats bestelling,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Places,plaatsen,reviewed,frappe,0.85,0.8,0.85,0.85,0.9,1.0,ok
 Plaid Access Token,Plaid-toegangstoken,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
@@ -7215,8 +7215,8 @@ Plaid Environment,Plaid-omgeving,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Plaid invalid request error,Plaid-fout: ongeldig verzoek,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Plaid Settings,Plaid-instellingen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Plaid transactions sync error,Plaid-synchronisatiefout voor transacties,reviewed,erpnext,0.86,0.85,0.75,0.85,0.9,1.0,ok
-Plan for maintenance visits.,Plan voor onderhoud bezoeken.,reviewed,erpnext,0.67,0.7,0.6,0.7,0.6,0.9,review
-Plan material for sub-assemblies,Plan materiaal voor onderdelen,reviewed,erpnext,0.71,0.7,0.65,0.7,0.7,0.9,review
+Plan for maintenance visits.,Plan voor onderhoudsbezoeken.,reviewed,erpnext,0.9,0.7,0.6,0.7,0.6,0.9,improved
+Plan material for sub-assemblies,Materiaalplanning voor subassemblages,reviewed,erpnext,0.88,0.7,0.65,0.7,0.7,0.9,improved
 Plan Name,Plannaam,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Plan operations X days in advance,Plan operaties X dagen van tevoren,reviewed,erpnext,0.83,0.8,0.75,0.8,0.9,1.0,ok
 Plan time logs outside Workstation working hours,Plan tijdregistraties buiten de werkuren van het werkstation,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
@@ -7226,18 +7226,18 @@ Planned End Date,Geplande einddatum,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Planned End Time,Geplande eindtijd,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Planned Operating Cost,Geplande bedrijfskosten,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Planned Qty,Geplande hoeveelheid,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-"Planned Qty: Quantity, for which, Work Order has been raised, but is pending to be manufactured.","Gepland aantal: Hoeveelheid waarvoor werkorder is opgehaald, maar nog in productie is.",reviewed,erpnext,0.68,0.7,0.55,0.75,0.6,0.9,review
+"Planned Qty: Quantity, for which, Work Order has been raised, but is pending to be manufactured.","Gepland aantal: hoeveelheid waarvoor een werkorder is aangemaakt, maar de productie nog niet is gestart.",reviewed,erpnext,0.89,0.7,0.55,0.75,0.6,0.9,improved
 Planned Quantity,Geplande hoeveelheid,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Planned Start Date,Geplande startdatum,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Planned Start Time,Geplande starttijd,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Plans,Plannen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Plant,Fabriek,reviewed,frappe,0.64,0.55,0.5,0.6,0.9,1.0,review
+Plant,Vestiging,reviewed,frappe,0.86,0.55,0.5,0.6,0.9,1.0,improved
 Plant Analysis,Plantanalyse,reviewed,erpnext,0.84,0.8,0.8,0.8,1.0,1.0,ok
 Plant Analysis Criteria,Criteria voor plantanalyse,reviewed,erpnext,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Plant Analysis Criterias,Plantanalysecriteria,reviewed,erpnext,0.72,0.2,0.1,0.2,0.1,0.3,improved
 Plant Floor,Werkvloer,reviewed,custom,0.89,0.85,0.85,0.85,1.0,1.0,ok
-Planting Area,Plant gebied,reviewed,erpnext,0.62,0.6,0.5,0.65,0.7,0.9,review
-Planting UOM,UOM planten,reviewed,erpnext,0.62,0.6,0.5,0.65,0.7,0.9,review
+Planting Area,Beplantingsoppervlak,reviewed,erpnext,0.86,0.6,0.5,0.65,0.7,0.9,improved
+Planting UOM,Beplantingseenheid,reviewed,erpnext,0.85,0.6,0.5,0.65,0.7,0.9,improved
 Plants and Machineries,Installaties en Machines,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 play,spelen,reviewed,frappe,0.86,0.8,0.85,0.85,1.0,1.0,ok
 play-circle,play-cirkel,reviewed,frappe,0.83,0.8,0.75,0.8,0.9,1.0,ok
@@ -7246,9 +7246,9 @@ Please add a Temporary Opening account in Chart of Accounts,Voeg een tijdelijk o
 Please add a valid comment.,Voeg een geldige opmerking toe.,reviewed,frappe,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Please add Mode of payments and opening balance details.,Voeg betalingswijze en beginsaldodetails toe.,reviewed,erpnext,0.84,0.85,0.75,0.8,0.85,1.0,ok
 Please add programs to enable admission application.,Voeg programma's toe om toelatingsaanvragen mogelijk te maken.,reviewed,erpnext,0.82,0.5,0.3,0.5,0.3,0.7,improved
-Please add the account to root level Company -,Voeg het account toe aan hoofdniveau Bedrijf -,reviewed,erpnext,0.72,0.7,0.65,0.75,0.7,0.9,review
-Please add the account to root level Company - {},Voeg het account toe aan Bedrijf op hoofdniveau - {},reviewed,erpnext,0.76,0.75,0.7,0.75,0.8,0.9,review
-Please ask your administrator to verify your sign-up,Vraag uw beheerder om uw sign-up te controleren,reviewed,frappe,0.79,0.8,0.7,0.75,0.8,1.0,review
+Please add the account to root level Company -,Voeg het account toe aan het hoofdniveau van het bedrijf.,reviewed,erpnext,0.88,0.7,0.65,0.75,0.7,0.9,improved
+Please add the account to root level Company - {},Voeg het account toe aan het bedrijf op hoofdniveau - {},reviewed,erpnext,0.84,0.75,0.7,0.75,0.8,0.9,improved
+Please ask your administrator to verify your sign-up,Vraag uw beheerder uw registratie te controleren,reviewed,frappe,0.88,0.8,0.7,0.75,0.8,1.0,improved
 Please attach a file first.,Eerst een bestand toevoegen.,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Please attach an image file to set HTML,Voeg een afbeeldingsbestand toe om HTML in te stellen,reviewed,frappe,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Please check Multi Currency option to allow accounts with other currency,Schakel de optie Meerdere valuta's in om rekeningen in andere valuta's toe te staan.,reviewed,erpnext,0.85,0.2,0.1,0.2,0.1,0.5,improved
@@ -7265,15 +7265,15 @@ Please click on 'Generate Schedule' to get schedule,Klik op 'Genereer Planning' 
 Please click on the following button to set your new password,Klik op de volgende knop om uw nieuwe wachtwoord in te stellen,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Please click on the following link to set your new password,Klik op de volgende link om je nieuwe wachtwoord in te stellen,reviewed,frappe,0.86,0.85,0.75,0.85,0.9,1.0,ok
 Please close this window,Sluit dit venster,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Please Configure Clinical Procedure Consumable Item in,Configureer de klinische procedure verbruiksartikel in,reviewed,erpnext,0.67,0.65,0.6,0.65,0.7,0.9,review
-Please confirm your action to {0} this document.,Bevestig uw actie aan {0} dit document.,reviewed,frappe,0.57,0.6,0.45,0.6,0.5,0.8,review
+Please Configure Clinical Procedure Consumable Item in,Configureer het verbruiksartikel voor klinische procedures in,reviewed,erpnext,0.82,0.65,0.6,0.65,0.7,0.9,improved
+Please confirm your action to {0} this document.,Bevestig dat u dit document wilt {0}.,reviewed,frappe,0.88,0.6,0.45,0.6,0.5,0.8,improved
 Please convert the parent account in corresponding child company to a group account.,Converteer het bovenliggende account in het corresponderende onderliggende bedrijf naar een groepsaccount.,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Please create <b>DATEV Settings</b> for Company <b>{}</b>.,Maak <b>DATEV-instellingen</b> voor bedrijf <b>{}</b> .,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
-Please create adjustment Journal Entry for amount {0},Maak een aanpassing Journaalboeking voor bedrag {0},reviewed,erpnext,0.74,0.75,0.65,0.75,0.7,0.9,review
+Please create adjustment Journal Entry for amount {0},Maak een correctiejournaalpost aan voor bedrag {0},reviewed,erpnext,0.87,0.75,0.65,0.75,0.7,0.9,improved
 Please create Card first,Maak eerst een kaart aan,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Please create chart first,Maak eerst een grafiek,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Please create Customer from Lead {0}.,Maak een klant op basis van lead {0}.,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
-Please create purchase receipt or purchase invoice for the item {0},Maak een aankoopbevestiging of een inkoopfactuur voor het artikel {0},reviewed,erpnext,0.73,0.75,0.65,0.75,0.7,0.9,review
+Please create purchase receipt or purchase invoice for the item {0},Maak een inkoopbon of inkoopfactuur aan voor artikel {0},reviewed,erpnext,0.87,0.75,0.65,0.75,0.7,0.9,improved
 Please define grade for Threshold 0%,Definieer een cijfer voor drempel 0%,reviewed,erpnext,0.8,0.3,0.2,0.3,0.2,0.6,improved
 Please do not change the rows above {0},Pas aub de rijen boven {0} niet aan.,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Please do not change the template headings.,Wijzig de sjabloonkoppen niet.,reviewed,frappe,0.82,0.4,0.3,0.4,0.3,0.7,improved
@@ -7281,58 +7281,58 @@ Please do not create more than 500 items at a time,Maak niet meer dan 500 items 
 Please duplicate this to make changes,Dupliceer dit document om wijzigingen aan te brengen.,reviewed,frappe,0.84,0.4,0.3,0.4,0.3,0.6,improved
 Please Duplicate this Website Theme to customize.,Dupliceer dit websitethema om het aan te passen.,reviewed,frappe,0.84,0.35,0.25,0.35,0.25,0.6,improved
 Please enable Allow Negative Stock in Stock Settings or create Stock Entry to proceed.,Schakel Negatieve voorraad toestaan in Voorraadinstellingen in of maak voorraadinvoer om door te gaan.,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
-Please enable Applicable on Booking Actual Expenses,Activeer alstublieft bij het boeken van werkelijke kosten,reviewed,erpnext,0.67,0.65,0.6,0.65,0.7,0.9,review
-Please enable Applicable on Purchase Order and Applicable on Booking Actual Expenses,Schakel dit van toepassing op inkooporder in en van toepassing op het boeken van werkelijke kosten,reviewed,erpnext,0.68,0.7,0.6,0.7,0.65,0.9,review
+Please enable Applicable on Booking Actual Expenses,Schakel 'Van toepassing op boeken werkelijke kosten' in,reviewed,erpnext,0.84,0.65,0.6,0.65,0.7,0.9,improved
+Please enable Applicable on Purchase Order and Applicable on Booking Actual Expenses,Schakel 'Van toepassing op inkooporder' en 'Van toepassing op boeken werkelijke kosten' in,reviewed,erpnext,0.87,0.7,0.6,0.7,0.65,0.9,improved
 Please enable developer mode to create new connection,Activeer de ontwikkelaarsmodus om een nieuwe verbinding te maken,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Please enable pop-ups,Schakel aub pop - ups in,reviewed,both,0.68,0.7,0.6,0.65,0.7,0.9,review
+Please enable pop-ups,Schakel pop-ups in,reviewed,both,0.92,0.7,0.6,0.65,0.7,0.9,improved
 Please enable pop-ups in your browser,Schakel pop-ups in uw browser in,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Please enable twilio settings before sending WhatsApp messages,Schakel de Twilio-instellingen in voordat u WhatsApp-berichten verzendt,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Please enable Twilio settings to send WhatsApp messages,Schakel de Twilio-instellingen in om WhatsApp-berichten te verzenden,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
-Please ensure that your profile has an email address,Zorg ervoor dat uw profiel heeft een e-mailadres,reviewed,frappe,0.57,0.6,0.45,0.6,0.5,0.8,review
+Please ensure that your profile has an email address,Zorg ervoor dat uw profiel een e-mailadres heeft,reviewed,frappe,0.92,0.6,0.45,0.6,0.5,0.8,improved
 Please ensure {} account is a Balance Sheet account.,Zorg ervoor dat de {} rekening een balansrekening is.,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Please ensure {} account is a Balance Sheet account. You can change the parent account to a Balance Sheet account or select a different account.,Zorg ervoor dat de {} rekening een balansrekening is. U kunt de bovenliggende rekening wijzigen in een balansrekening of een andere rekening selecteren.,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Please ensure {} account is a Payable account. Change the account type to Payable or select a different account.,Zorg ervoor dat {} rekening een te betalen rekening is. Wijzig het rekeningtype in Betaalbaar of selecteer een andere rekening.,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Please ensure {} account is a Receivable account.,Zorg ervoor dat {} rekening een te ontvangen rekening is.,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
-Please enter,Voer in a.u.b.,reviewed,custom,0.62,0.65,0.5,0.6,0.5,0.8,review
+Please enter,Vul in,reviewed,custom,0.88,0.65,0.5,0.6,0.5,0.8,improved
 Please enter 'Is Subcontracted' as Yes or No,Vul 'Is Uitbesteed' in als Ja of Nee,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
-Please enter <b>Difference Account</b> or set default <b>Stock Adjustment Account</b> for company {0},Voer een <b>verschilaccount in</b> of stel de standaard <b>voorraadaanpassingsaccount in</b> voor bedrijf {0},reviewed,erpnext,0.74,0.75,0.65,0.75,0.7,0.9,review
+Please enter <b>Difference Account</b> or set default <b>Stock Adjustment Account</b> for company {0},Voer een <b>Verschilrekening</b> in of stel een standaard <b>Voorraadaanpassingsrekening</b> in voor bedrijf {0},reviewed,erpnext,0.88,0.75,0.65,0.75,0.7,0.9,improved
 Please enter a coupon code,Voer een couponcode in,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Please enter a valid coupon code,Voer een geldige couponcode in,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Please enter Access Token URL,Voer de Access Token-URL in,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Please enter Account for Change Amount,Voer een rekening in voor het wisselgeldbedrag,reviewed,erpnext,0.79,0.35,0.25,0.35,0.2,0.5,improved
 Please enter API Consumer Key,Voer de API-consumentcode in,reviewed,erpnext,0.83,0.8,0.75,0.8,0.9,1.0,ok
-Please enter API Consumer Secret,Voer alstublieft API-gebruikersgeheim in,reviewed,erpnext,0.7,0.7,0.6,0.7,0.7,0.9,review
-Please enter Approving Role or Approving User,Vul de Goedkeurders Rol of Goedkeurende Gebruiker in,reviewed,erpnext,0.74,0.75,0.65,0.75,0.7,0.9,review
+Please enter API Consumer Secret,Voer de API Consumer Secret in,reviewed,erpnext,0.88,0.7,0.6,0.7,0.7,0.9,improved
+Please enter Approving Role or Approving User,Voer een goedkeurende rol of goedkeurende gebruiker in,reviewed,erpnext,0.87,0.75,0.65,0.75,0.7,0.9,improved
 Please enter atleast 1 invoice in the table,Vul tenminste 1 factuur in in de tabel,reviewed,erpnext,0.87,0.85,0.8,0.85,0.85,1.0,ok
 Please enter Authorize URL,Voer de autorisatie-URL in,reviewed,frappe,0.84,0.45,0.35,0.45,0.35,0.7,improved
 Please enter Base URL,Voer de basis-URL in,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Please enter Client ID before social login is enabled,Voer een client-ID in voordat sociale aanmelding is ingeschakeld,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Please enter Client Secret before social login is enabled,Voer Client Secret in voordat sociale aanmelding is ingeschakeld,reviewed,frappe,0.8,0.8,0.75,0.7,0.85,1.0,review
-Please enter company first,Vul aub eerst bedrijf in,reviewed,erpnext,0.72,0.75,0.65,0.7,0.7,0.9,review
-Please enter company name first,Vul aub eerst de naam van het bedrijf in,reviewed,erpnext,0.78,0.8,0.7,0.7,0.85,1.0,review
-Please enter Cost Center,Vul kostenplaats in,reviewed,erpnext,0.8,0.8,0.75,0.8,0.8,0.9,review
-Please enter default currency in Company Master,Vul de standaard valuta in in Bedrijfsstam,reviewed,erpnext,0.68,0.7,0.6,0.65,0.7,0.9,review
+Please enter Client Secret before social login is enabled,Voer de Client Secret in voordat social login wordt ingeschakeld,reviewed,frappe,0.88,0.8,0.75,0.7,0.85,1.0,improved
+Please enter company first,Vul eerst een bedrijf in,reviewed,erpnext,0.9,0.75,0.65,0.7,0.7,0.9,improved
+Please enter company name first,Vul eerst de bedrijfsnaam in,reviewed,erpnext,0.92,0.8,0.7,0.7,0.85,1.0,improved
+Please enter Cost Center,Vul een kostenplaats in,reviewed,erpnext,0.91,0.8,0.75,0.8,0.8,0.9,improved
+Please enter default currency in Company Master,Voer de standaardvaluta in bij Bedrijfsstam,reviewed,erpnext,0.87,0.7,0.6,0.65,0.7,0.9,improved
 Please enter Delivery Date,Vul de Leveringsdatum in,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Please enter distributed cost center,Voer de gedistribueerde kostenplaats in,reviewed,erpnext,0.76,0.75,0.65,0.75,0.9,1.0,review
-Please enter Employee Id of this sales person,Vul Employee Id van deze verkoper,reviewed,erpnext,0.55,0.6,0.5,0.55,0.4,0.6,review
-Please enter Expense Account,Vul Kostenrekening in,reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,0.9,review
-Please enter From Date and To Date to generate JSON,Voer de From Date en To Date in om JSON te genereren,reviewed,erpnext,0.67,0.65,0.55,0.6,0.75,1.0,review
-Please enter GSTIN and state for the Company Address {0},Voer GSTIN in en vermeld het bedrijfsadres {0},reviewed,erpnext,0.52,0.5,0.5,0.55,0.6,0.5,review
-Please enter Item Code to get batch no,Vul de artikelcode  in om batchnummer op te halen,reviewed,erpnext,0.79,0.8,0.75,0.75,0.75,1.0,review
-Please enter Item Code to get Batch Number,Vul de artikelcode voor Batch Number krijgen,reviewed,erpnext,0.52,0.55,0.4,0.5,0.3,0.8,review
-Please enter Item Code to get item taxes,Voer artikelcode in om artikelbelastingen te ontvangen,reviewed,erpnext,0.74,0.75,0.65,0.7,0.8,0.9,review
-Please enter Item first,Vul eerst artikel in,reviewed,erpnext,0.76,0.75,0.7,0.75,0.75,0.9,review
+Please enter distributed cost center,Voer een verdeelde kostenplaats in,reviewed,erpnext,0.85,0.75,0.65,0.75,0.9,1.0,improved
+Please enter Employee Id of this sales person,Vul het medewerker-ID van deze verkoper in,reviewed,erpnext,0.89,0.6,0.5,0.55,0.4,0.6,improved
+Please enter Expense Account,Vul een kostenrekening in,reviewed,erpnext,0.91,0.8,0.75,0.75,0.8,0.9,improved
+Please enter From Date and To Date to generate JSON,Voer de begindatum en einddatum in om JSON te genereren,reviewed,erpnext,0.89,0.65,0.55,0.6,0.75,1.0,improved
+Please enter GSTIN and state for the Company Address {0},Voer het GSTIN en de staat in voor bedrijfsadres {0},reviewed,erpnext,0.87,0.5,0.5,0.55,0.6,0.5,improved
+Please enter Item Code to get batch no,Vul de artikelcode in om het batchnummer op te halen,reviewed,erpnext,0.91,0.8,0.75,0.75,0.75,1.0,improved
+Please enter Item Code to get Batch Number,Vul de artikelcode in om het batchnummer op te halen,reviewed,erpnext,0.91,0.55,0.4,0.5,0.3,0.8,improved
+Please enter Item Code to get item taxes,Voer de artikelcode in om de artikelbelastingen op te halen,reviewed,erpnext,0.89,0.75,0.65,0.7,0.8,0.9,improved
+Please enter Item first,Vul eerst een artikel in,reviewed,erpnext,0.91,0.75,0.7,0.75,0.75,0.9,improved
 Please enter Maintaince Details first,Vul eerst Onderhoudsdetails in,reviewed,erpnext,0.81,0.8,0.75,0.75,0.85,1.0,ok
-Please enter message before sending,Vul bericht in alvorens te verzenden,reviewed,erpnext,0.73,0.75,0.65,0.7,0.75,0.9,review
-Please enter parent cost center,Vul bovenliggende kostenplaats in,reviewed,erpnext,0.8,0.8,0.75,0.8,0.8,0.9,review
+Please enter message before sending,Vul een bericht in voordat u verzendt,reviewed,erpnext,0.9,0.75,0.65,0.7,0.75,0.9,improved
+Please enter parent cost center,Vul een bovenliggende kostenplaats in,reviewed,erpnext,0.91,0.8,0.75,0.8,0.8,0.9,improved
 Please enter Planned Qty for Item {0} at row {1},Vul Gepland Aantal in voor artikel {0} op rij {1},reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Please enter Preferred Contact Email,Voer het voorkeurs-e-mailadres voor contact in,reviewed,erpnext,0.81,0.5,0.4,0.45,0.2,0.5,improved
-Please enter Production Item first,Vul eerst Productie Artikel in,reviewed,erpnext,0.73,0.75,0.65,0.7,0.75,0.9,review
+Please enter Production Item first,Vul eerst een productieartikel in,reviewed,erpnext,0.9,0.75,0.65,0.7,0.75,0.9,improved
 Please enter Purchase Receipt first,Voer eerst een inkoopbon in,reviewed,erpnext,0.85,0.3,0.2,0.3,0.2,0.4,improved
 Please enter quantity for Item {0},Vul het aantal in voor artikel {0},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Please enter Receipt Document,Voer het ontvangstdocument in,reviewed,erpnext,0.83,0.4,0.3,0.35,0.2,0.5,improved
 Please enter Redirect URL,Voer de omleidings-URL in,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Please enter Reference date,Vul Peildatum in,reviewed,erpnext,0.75,0.75,0.7,0.7,0.8,0.9,review
+Please enter Reference date,Vul een referentiedatum in,reviewed,erpnext,0.88,0.75,0.7,0.7,0.8,0.9,improved
 Please enter relieving date.,Voer de uitdienstredingsdatum in.,reviewed,erpnext,0.82,0.25,0.15,0.2,0.1,0.5,improved
 Please enter Reqd by Date,Voer de vereiste datum in,reviewed,erpnext,0.82,0.2,0.15,0.2,0.3,0.5,improved
 Please enter serial numbers for serialized item {0},Voer serienummers in voor artikelen met serienummer {0},reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -7340,9 +7340,9 @@ Please enter the company name to confirm,Voer de bedrijfsnaam in om te bevestige
 Please enter the password,Voer het wachtwoord in,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Please enter the phone number first,Voer eerst het telefoonnummer in,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Please enter valid email address,Vul alstublieft een geldig e-mailadres in,reviewed,erpnext,0.83,0.85,0.8,0.75,0.9,1.0,ok
-Please enter valid Financial Year Start and End Dates,Voer geldige boekjaar begin- en einddatum,reviewed,erpnext,0.66,0.7,0.65,0.7,0.5,0.7,review
+Please enter valid Financial Year Start and End Dates,Voer geldige begin- en einddatums voor het boekjaar in,reviewed,erpnext,0.9,0.7,0.65,0.7,0.5,0.7,improved
 Please enter valid mobile nos,Voer geldige mobiele nummers in,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Please enter values for App Access Key and App Secret Key,Vul de waarden voor App Access Key en App Secret Key,reviewed,frappe,0.58,0.6,0.55,0.6,0.4,0.7,review
+Please enter values for App Access Key and App Secret Key,Vul de waarden in voor App Access Key en App Secret Key,reviewed,frappe,0.9,0.6,0.55,0.6,0.4,0.7,improved
 Please enter Warehouse and Date,Voer Magazijn en datum in,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Please enter Woocommerce Server URL,Voer de URL van de Woocommerce-server in,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please enter Write Off Account,Voer afboekingsrekening in,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,0.9,ok
@@ -7353,10 +7353,10 @@ Please fill in all the details to generate Assessment Result.,Vul alle details i
 Please fill the Material Requests table,Vul de tabel met materiaalverzoeken in,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please fill the Sales Orders table,Vul de tabel met verkooporders in,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please find attached {0}: {1},Zie bijgevoegde {0}: {1},reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Please generate keys for the Event Subscriber User {0} first.,Genereer eerst sleutels voor de Gebeurtenisabonneegebruiker {0}.,reviewed,frappe,0.76,0.75,0.65,0.7,0.85,1.0,review
+Please generate keys for the Event Subscriber User {0} first.,Genereer eerst sleutels voor de Event Subscriber-gebruiker {0}.,reviewed,frappe,0.87,0.75,0.65,0.7,0.85,1.0,improved
 Please hide the standard navbar items instead of deleting them,Verberg de standaardnavigatiebalkitems in plaats van ze te verwijderen,reviewed,frappe,0.83,0.85,0.75,0.8,0.9,1.0,ok
-Please identify/create Account (Group) for type - {0},Identificeer / maak account (groep) voor type - {0},reviewed,erpnext,0.78,0.8,0.7,0.75,0.8,1.0,review
-Please identify/create Account (Ledger) for type - {0},Identificeer / maak account (grootboek) voor type - {0},reviewed,erpnext,0.78,0.8,0.7,0.75,0.8,1.0,review
+Please identify/create Account (Group) for type - {0},Identificeer of maak een account (groep) aan voor type {0},reviewed,erpnext,0.88,0.8,0.7,0.75,0.8,1.0,improved
+Please identify/create Account (Ledger) for type - {0},Zoek of maak een grootboekrekening aan voor type {0},reviewed,erpnext,0.86,0.8,0.7,0.75,0.8,1.0,improved
 Please Install the ldap3 library via pip to use ldap functionality.,Installeer de ldap3-bibliotheek via pip om de ldap-functionaliteit te gebruiken.,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please login as a Marketplace User to edit this item.,Meld u aan als Marketplace-gebruiker om dit item te bewerken.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please login as a Marketplace User to report this item.,Meld u aan als Marketplace-gebruiker om dit item te melden.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -7364,7 +7364,7 @@ Please login as another user to register on Marketplace,Meld u aan als een ander
 Please make sure that there are no empty columns in the file.,Zorg ervoor dat er geen lege kolommen in het bestand staan.,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Please make sure the employees above report to another Active employee.,Zorg ervoor dat de bovenstaande medewerkers zich melden bij een andere actieve medewerker.,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
 Please make sure the Reference Communication Docs are not circularly linked.,Zorg ervoor dat de referentiecommunicatiedocumenten niet circulair zijn gekoppeld.,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,1.0,ok
-Please make sure you really want to delete all the transactions for this company. Your master data will remain as it is. This action cannot be undone.,Zorg ervoor dat u echt wilt alle transacties voor dit bedrijf te verwijderen. Uw stamgegevens zal blijven zoals het is. Deze actie kan niet ongedaan gemaakt worden.,reviewed,erpnext,0.64,0.7,0.5,0.65,0.5,1.0,review
+Please make sure you really want to delete all the transactions for this company. Your master data will remain as it is. This action cannot be undone.,Zorg ervoor dat u alle transacties voor dit bedrijf echt wilt verwijderen. Uw stamgegevens blijven ongewijzigd. Deze actie kan niet ongedaan worden gemaakt.,reviewed,erpnext,0.91,0.7,0.5,0.65,0.5,1.0,improved
 Please mention Basic and HRA component in Company,Vermeld de basis- en HRA-component in het bedrijf,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Please mention no of visits required,Vermeld het benodigde aantal bezoeken,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please mention Round Off Account in Company,Vermeld de afrondingsrekening in het bedrijf,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -7373,23 +7373,23 @@ Please mention the Lead Name in Lead {0},Vermeld de leadnaam in lead {0},reviewe
 Please pull items from Delivery Note,Haal artikelen op uit afleverbon,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please refresh to get the latest document.,Vernieuw om het nieuwste document te krijgen.,reviewed,frappe,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Please register the SIREN number in the company information file,Registreer het SIREN-nummer in het bedrijfsinformatiedossier,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Please remove this Invoice {0} from C-Form {1},Verwijder dit Invoice {0} van C-Form {1},reviewed,erpnext,0.75,0.75,0.65,0.7,0.8,1.0,review
+Please remove this Invoice {0} from C-Form {1},Verwijder factuur {0} uit C-Form {1},reviewed,erpnext,0.88,0.75,0.65,0.7,0.8,1.0,improved
 Please remove this item and try to submit again or update the posting time.,Verwijder dit item en probeer het opnieuw in te dienen of werk de tijd voor het plaatsen bij.,reviewed,erpnext,0.83,0.85,0.75,0.8,0.85,1.0,ok
 "Please Restock Items and Update the Pick List to continue. To discontinue, cancel the Pick List.",Vul items bij en werk de keuzelijst bij om door te gaan. Annuleer de keuzelijst om te stoppen.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Please save before attaching.,Gelieve opslaan voordat het bevestigen.,reviewed,frappe,0.56,0.6,0.45,0.55,0.4,0.9,review
+Please save before attaching.,Sla op voordat u een bijlage toevoegt.,reviewed,frappe,0.91,0.6,0.45,0.55,0.4,0.9,improved
 Please save first,Sla eerst op,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please save the document before assignment,Sla het document op voor de toewijzing,reviewed,frappe,0.85,0.4,0.3,0.4,0.2,0.6,improved
 Please save the document before removing assignment,Sla het document op voor het verwijderen van de toewijzing,reviewed,frappe,0.85,0.35,0.25,0.35,0.2,0.5,improved
 Please save the Newsletter before sending,Sla de nieuwsbrief op voor het verzenden,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please save the patient first,Sla de patiënt alstublieft eerst op,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Please save the report again to rebuild or update,Sla het rapport opnieuw op om het opnieuw te bouwen of bij te werken,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
-Please save the report first,Sla het rapport eerst,reviewed,frappe,0.63,0.65,0.55,0.65,0.5,0.8,review
+Please save the report first,Sla het rapport eerst op,reviewed,frappe,0.93,0.65,0.55,0.65,0.5,0.8,improved
 Please save to edit the template.,Sla op om de sjabloon te bewerken.,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please select,Selecteer a.u.b.,reviewed,custom,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Please select <b>Template Type</b> to download template,Selecteer het <b>sjabloontype</b> om de sjabloon te downloaden,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
-Please select a Amount Field.,Selecteer een veld Aantal.,reviewed,frappe,0.59,0.6,0.5,0.55,0.55,0.9,review
-Please select a batch,Selecteer een batch alsjeblieft,reviewed,erpnext,0.75,0.75,0.65,0.7,0.8,1.0,review
-Please select a Batch for Item {0}. Unable to find a single batch that fulfills this requirement,Selecteer een partij voor item {0}. Kan geen enkele batch vinden die aan deze eis voldoet,reviewed,erpnext,0.68,0.7,0.6,0.6,0.7,1.0,review
+Please select a Amount Field.,Selecteer een bedragveld.,reviewed,frappe,0.9,0.6,0.5,0.55,0.55,0.9,improved
+Please select a batch,Selecteer een batch,reviewed,erpnext,0.92,0.75,0.65,0.7,0.8,1.0,improved
+Please select a Batch for Item {0}. Unable to find a single batch that fulfills this requirement,Selecteer een batch voor artikel {0}. Er is geen batch gevonden die aan deze vereiste voldoet.,reviewed,erpnext,0.89,0.7,0.6,0.6,0.7,1.0,improved
 Please select a BOM,Selecteer een stuklijst,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please Select a Company,Selecteer een bedrijf,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please select a Company,Selecteer een bedrijf,reviewed,erpnext,0.86,0.3,0.3,0.3,0.6,0.5,improved
@@ -7397,10 +7397,10 @@ Please Select a Company First,Selecteer eerst een bedrijf,reviewed,erpnext,0.92,
 Please select a Company first.,Selecteer eerst een bedrijf.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please Select a Company.,Selecteer een bedrijf.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please Select a Customer,Selecteer een klant,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Please select a Customer,Selecteer een klant alsjeblieft,reviewed,erpnext,0.75,0.75,0.65,0.7,0.8,1.0,review
+Please select a Customer,Selecteer een klant,reviewed,erpnext,0.93,0.75,0.65,0.7,0.8,1.0,improved
 Please select a default mode of payment,Selecteer een standaard betalingsmethode,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please select a Delivery Note,Selecteer een afleverbon,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Please select a field to edit from numpad,Selecteer alstublieft een veld om van numpad te bewerken,reviewed,erpnext,0.6,0.65,0.5,0.6,0.5,0.9,review
+Please select a field to edit from numpad,Selecteer een veld om te bewerken via het numpad,reviewed,erpnext,0.91,0.65,0.5,0.6,0.5,0.9,improved
 Please select a file or url,Selecteer een bestand of url,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Please select a Mode of Payment first,Selecteer eerst een betalingsmethode,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please select a new name to rename,Selecteer een nieuwe naam om de naam te wijzigen,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
@@ -7410,25 +7410,25 @@ Please Select a Supplier,Selecteer een leverancier,reviewed,erpnext,0.96,0.95,0.
 Please select a Supplier,Selecteer een leverancier,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Please select a table,Selecteer een tabel,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Please select a valid csv file with data,Selecteer een geldig CSV-bestand met gegevens,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Please select a valid Date,Selecteer een geldige datum alstublieft,reviewed,erpnext,0.79,0.85,0.7,0.6,0.85,1.0,review
+Please select a valid Date,Selecteer een geldige datum,reviewed,erpnext,0.93,0.85,0.7,0.6,0.85,1.0,improved
 Please select a valid date filter,Selecteer een geldig datumfilter,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Please select a value for {0} quotation_to {1},Selecteer een waarde voor {0} quotation_to {1},reviewed,erpnext,0.74,0.7,0.7,0.7,0.9,0.8,review
+Please select a value for {0} quotation_to {1},Selecteer een waarde voor {0} Offerte aan {1},reviewed,erpnext,0.84,0.7,0.7,0.7,0.9,0.8,improved
 Please select a warehouse,Selecteer een magazijn,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Please select a warehouse to get available quantities,Selecteer een magazijn om beschikbare hoeveelheden te krijgen,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
-"Please select Allocated Amount, Invoice Type and Invoice Number in atleast one row","Selecteer toegewezen bedrag, Factuur Type en factuurnummer in tenminste één rij",reviewed,erpnext,0.78,0.8,0.75,0.65,0.7,1.0,review
+"Please select Allocated Amount, Invoice Type and Invoice Number in atleast one row","Selecteer het toegewezen bedrag, het factuurtype en het factuurnummer in minimaal één rij",reviewed,erpnext,0.91,0.8,0.75,0.65,0.7,1.0,improved
 Please select another payment method. Mpesa does not support transactions in currency '{0}',Selecteer een andere betalingsmethode. Mpesa ondersteunt geen transacties in valuta &#39;{0}&#39;,reviewed,erpnext,0.81,0.8,0.85,0.8,0.9,0.7,ok
-Please select another payment method. PayPal does not support transactions in currency '{0}',Selecteer een andere betaalmethode. PayPal biedt geen ondersteuning voor transacties in valuta &#39;{0}&#39;,reviewed,frappe,0.74,0.8,0.75,0.6,0.85,0.7,review
+Please select another payment method. PayPal does not support transactions in currency '{0}',Selecteer een andere betaalmethode. PayPal ondersteunt geen transacties in valuta '{0}'.,reviewed,frappe,0.91,0.8,0.75,0.6,0.85,0.7,improved
 Please select another payment method. Paytm does not support transactions in currency '{0}',Selecteer een andere betalingsmethode. Paytm ondersteunt geen transacties in valuta &#39;{0}&#39;,reviewed,frappe,0.82,0.85,0.85,0.8,0.9,0.7,ok
-Please select another payment method. Razorpay does not support transactions in currency '{0}',Selecteer een andere betaalmethode. Razorpay ondersteunt geen transacties in valuta &#39;{0}&#39;,reviewed,frappe,0.75,0.8,0.8,0.6,0.85,0.7,review
-Please select another payment method. Stripe does not support transactions in currency '{0}',Selecteer een andere betaalmethode. Stripe ondersteunt geen transacties in valuta &#39;{0}&#39;,reviewed,both,0.75,0.8,0.8,0.6,0.85,0.7,review
+Please select another payment method. Razorpay does not support transactions in currency '{0}',Selecteer een andere betaalmethode. Razorpay ondersteunt geen transacties in valuta '{0}'.,reviewed,frappe,0.87,0.8,0.8,0.6,0.85,0.7,improved
+Please select another payment method. Stripe does not support transactions in currency '{0}',Selecteer een andere betaalmethode. Stripe ondersteunt geen transacties in valuta '{0}'.,reviewed,both,0.87,0.8,0.8,0.6,0.85,0.7,improved
 Please select applicable Doctypes,Selecteer toepasselijke Doctypes,reviewed,frappe,0.85,0.85,0.75,0.8,0.9,1.0,ok
-Please select Apply Discount On,Selecteer korting toepassen op,reviewed,erpnext,0.66,0.7,0.5,0.65,0.55,0.9,review
+Please select Apply Discount On,Selecteer kortingsgrondslag,reviewed,erpnext,0.84,0.7,0.5,0.65,0.55,0.9,improved
 Please select at least one domain.,Selecteer minimaal één domein.,reviewed,erpnext,0.94,0.95,0.9,0.9,1.0,1.0,ok
-Please select atleast 1 column from {0} to sort/group,Selecteer tenminste 1 kolom {0} sorteren / groeperen,reviewed,frappe,0.69,0.8,0.6,0.65,0.55,0.75,review
+Please select atleast 1 column from {0} to sort/group,Selecteer minimaal 1 kolom uit {0} om op te sorteren of te groeperen.,reviewed,frappe,0.88,0.8,0.6,0.65,0.55,0.75,improved
 Please select batches for batched item {0},Selecteer batches voor batchartikel {0},reviewed,erpnext,0.9,0.9,0.85,0.85,0.95,1.0,ok
 Please select BOM against item {0},Selecteer een stuklijst met item {0},reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
-Please select BOM for Item in Row {0},Selecteer BOM voor post in rij {0},reviewed,erpnext,0.76,0.75,0.75,0.55,0.85,1.0,review
-Please select BOM in BOM field for Item {0},Selecteer BOM in BOM veld voor post {0},reviewed,erpnext,0.74,0.75,0.75,0.5,0.8,1.0,review
+Please select BOM for Item in Row {0},Selecteer een stuklijst (BOM) voor het artikel in rij {0}.,reviewed,erpnext,0.86,0.75,0.75,0.55,0.85,1.0,improved
+Please select BOM in BOM field for Item {0},Selecteer een BOM in het veld BOM voor artikel {0}.,reviewed,erpnext,0.86,0.75,0.75,0.5,0.8,1.0,improved
 Please Select Both Company and Party Type First,Selecteer eerst zowel bedrijf als relatietype,reviewed,erpnext,0.94,0.95,0.9,0.9,0.95,1.0,ok
 Please select Category first,Selecteer eerst een Categorie,reviewed,erpnext,0.91,0.9,0.9,0.85,0.9,1.0,ok
 Please select Charge Type first,Selecteer eerst het toeslagtype,reviewed,erpnext,0.94,0.95,0.9,0.9,0.95,1.0,ok
@@ -7442,29 +7442,29 @@ Please select correct account,Selecteer juiste account,reviewed,erpnext,0.85,0.8
 Please select Course,Selecteer de cursus,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Please select Customer first,Selecteer eerst Klant,reviewed,erpnext,0.83,0.85,0.8,0.75,0.8,1.0,ok
 Please select date,Kies een datum,reviewed,erpnext,0.85,0.85,0.9,0.6,0.95,1.0,ok
-Please select DocType first,Selecteer DocType eerste,reviewed,frappe,0.79,0.8,0.75,0.8,0.6,1.0,review
+Please select DocType first,Selecteer eerst een DocType.,reviewed,frappe,0.92,0.8,0.75,0.8,0.6,1.0,improved
 Please select document type first.,Selecteer eerst het documenttype.,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Please select Drug,Selecteer alstublieft Drug,reviewed,erpnext,0.66,0.7,0.6,0.5,0.7,0.8,review
+Please select Drug,Selecteer een geneesmiddel.,reviewed,erpnext,0.88,0.7,0.6,0.5,0.7,0.8,improved
 Please select Entity Type first,Selecteer eerst entiteitstype,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please select Existing Company for creating Chart of Accounts,Kies een bestaand bedrijf voor het maken van Rekeningschema,reviewed,erpnext,0.8,0.8,0.85,0.6,0.8,1.0,ok
 Please select Healthcare Service,Selecteer een zorgservice,reviewed,erpnext,0.86,0.85,0.8,0.8,0.9,1.0,ok
 Please select item code,Selecteer artikelcode,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
 Please select Item Code first,Selecteer eerst de artikelcode,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
-"Please select Item where ""Is Stock Item"" is ""No"" and ""Is Sales Item"" is ""Yes"" and there is no other Product Bundle","Selecteer Item, waar &quot;Is Stock Item&quot; is &quot;Nee&quot; en &quot;Is Sales Item&quot; is &quot;Ja&quot; en er is geen enkel ander product Bundle",reviewed,erpnext,0.68,0.7,0.7,0.7,0.75,0.5,review
+"Please select Item where ""Is Stock Item"" is ""No"" and ""Is Sales Item"" is ""Yes"" and there is no other Product Bundle","Selecteer een artikel waarbij ""Is Stock Item"" 'Nee' is, ""Is Sales Item"" 'Ja' is en er geen andere productbundel bestaat.",reviewed,erpnext,0.86,0.7,0.7,0.7,0.75,0.5,improved
 Please select Maintenance Status as Completed or remove Completion Date,Selecteer Onderhoudsstatus als voltooid of verwijder de voltooiingsdatum,reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
 Please select Minimum Password Score,Selecteer alstublieft de minimum wachtwoordcijfer,reviewed,frappe,0.66,0.7,0.55,0.55,0.5,1.0,review
 Please select month and year,Selecteer maand en jaar,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Please select Party Type first,Selecteer Party Type eerste,reviewed,erpnext,0.77,0.8,0.75,0.7,0.6,1.0,review
-Please select Patient,Selecteer alstublieft Patiënt,reviewed,erpnext,0.77,0.8,0.7,0.6,0.8,1.0,review
-Please select patient,Selecteer alstublieft Patiënt,reviewed,erpnext,0.77,0.8,0.7,0.6,0.8,1.0,review
+Please select Party Type first,Selecteer eerst een Party Type.,reviewed,erpnext,0.89,0.8,0.75,0.7,0.6,1.0,improved
+Please select Patient,Selecteer een patiënt.,reviewed,erpnext,0.91,0.8,0.7,0.6,0.8,1.0,improved
+Please select patient,Selecteer een patiënt.,reviewed,erpnext,0.91,0.8,0.7,0.6,0.8,1.0,improved
 Please select Patient first,Selecteer eerst de patiënt,reviewed,erpnext,0.95,0.95,0.95,0.9,1.0,1.0,ok
 Please select Patient to get Lab Tests,Selecteer Patiënt om Lab-tests te krijgen,reviewed,erpnext,0.81,0.8,0.75,0.75,0.8,1.0,ok
-Please select Posting Date before selecting Party,Selecteer Boekingsdatum voordat Party selecteren,reviewed,erpnext,0.68,0.75,0.55,0.65,0.45,1.0,review
-Please select Posting Date first,Selecteer Boekingsdatum eerste,reviewed,erpnext,0.78,0.8,0.75,0.75,0.6,1.0,review
+Please select Posting Date before selecting Party,Selecteer de boekingsdatum voordat u een partij selecteert.,reviewed,erpnext,0.9,0.75,0.55,0.65,0.45,1.0,improved
+Please select Posting Date first,Selecteer eerst de boekingsdatum.,reviewed,erpnext,0.92,0.8,0.75,0.75,0.6,1.0,improved
 Please select prefix first,Selecteer eerst een voorvoegsel,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Please select Price List,Selecteer Prijslijst,reviewed,erpnext,0.86,0.85,0.85,0.8,0.85,1.0,ok
-Please select Program,Selecteer alsjeblieft Programma,reviewed,erpnext,0.72,0.75,0.7,0.5,0.7,1.0,review
-Please select Qty against item {0},Selecteer alstublieft aantal tegen item {0},reviewed,erpnext,0.73,0.75,0.65,0.6,0.7,1.0,review
+Please select Program,Selecteer een programma.,reviewed,erpnext,0.91,0.75,0.7,0.5,0.7,1.0,improved
+Please select Qty against item {0},Selecteer een hoeveelheid voor artikel {0}.,reviewed,erpnext,0.89,0.75,0.65,0.6,0.7,1.0,improved
 Please select quantity on row {0},Selecteer het aantal op rij {0},reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Please select Sample Retention Warehouse in Stock Settings first,Selecteer eerst Sample Retention Warehouse in Stock Settings,reviewed,erpnext,0.89,0.85,0.85,0.85,0.95,1.0,ok
 Please select Start Date and End Date for Item {0},Selecteer Start- en Einddatum voor Artikel {0},reviewed,erpnext,0.91,0.9,0.9,0.85,0.9,1.0,ok
@@ -7480,42 +7480,42 @@ Please select weekly off day,Selecteer wekelijkse vrije dag,reviewed,erpnext,0.8
 Please select {0},Selecteer {0},reviewed,both,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Please select {0} first,Selecteer eerst {0},reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Please set 'Apply Additional Discount On',Stel 'Extra korting toepassen op' in,reviewed,erpnext,0.84,0.4,0.2,0.3,0.3,0.5,improved
-Please set 'Asset Depreciation Cost Center' in Company {0},Stel &#39;Asset Afschrijvingen Cost Center&#39; in Company {0},reviewed,erpnext,0.58,0.6,0.55,0.5,0.7,0.6,review
-Please set 'Gain/Loss Account on Asset Disposal' in Company {0},Stel &#39;winst / verliesrekening op de verkoop van activa in Company {0},reviewed,erpnext,0.59,0.6,0.6,0.55,0.6,0.6,review
+Please set 'Asset Depreciation Cost Center' in Company {0},Stel 'Kostplaats afschrijvingen vaste activa' in voor bedrijf {0}.,reviewed,erpnext,0.86,0.6,0.55,0.5,0.7,0.6,improved
+Please set 'Gain/Loss Account on Asset Disposal' in Company {0},Stel 'Winst-/verliesrekening bij verkoop vaste activa' in voor bedrijf {0}.,reviewed,erpnext,0.87,0.6,0.6,0.55,0.6,0.6,improved
 Please set a Company,Stel een bedrijf in,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Please set a Customer linked to the Patient,Stel een klant in die is gekoppeld aan de patiënt,reviewed,erpnext,0.95,0.95,0.9,0.95,0.95,1.0,ok
 Please set a default company address,Stel een standaard bedrijfsadres in,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Please set a default Holiday List for Employee {0} or Company {1},Stel een standaard Holiday-lijst voor Employee {0} of Company {1},reviewed,erpnext,0.79,0.75,0.75,0.7,0.85,1.0,review
-Please set a printer mapping for this print format in the Printer Settings,Stel een printermap in voor dit afdrukformaat in de Printerinstellingen,reviewed,frappe,0.75,0.7,0.65,0.7,0.8,1.0,review
+Please set a default Holiday List for Employee {0} or Company {1},Stel een standaard verloflijst in voor medewerker {0} of bedrijf {1}.,reviewed,erpnext,0.88,0.75,0.75,0.7,0.85,1.0,improved
+Please set a printer mapping for this print format in the Printer Settings,Stel een printertoewijzing in voor dit afdrukformaat in de printerinstellingen.,reviewed,frappe,0.88,0.7,0.65,0.7,0.8,1.0,improved
 Please set a Supplier against the Items to be considered in the Purchase Order.,Stel een leverancier in op de items die in de bestelling moeten worden opgenomen.,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Please set account heads in GST Settings for Compnay {0},Stel accountkoppen in GST-instellingen voor Compnay {0},reviewed,erpnext,0.86,0.85,0.8,0.8,0.9,1.0,ok
 Please set account in Warehouse {0},Stel een account in in Magazijn {0},reviewed,erpnext,0.85,0.85,0.8,0.8,0.85,1.0,ok
-Please set Account in Warehouse {0} or Default Inventory Account in Company {1},Stel een account in in Warehouse {0} of Default Inventory Account in bedrijf {1},reviewed,erpnext,0.69,0.7,0.65,0.55,0.75,0.85,review
+Please set Account in Warehouse {0} or Default Inventory Account in Company {1},Stel een rekening in voor magazijn {0} of een standaard voorraadrekening in bedrijf {1}.,reviewed,erpnext,0.87,0.7,0.65,0.55,0.75,0.85,improved
 Please set an active menu for Restaurant {0},Stel een actief menu in voor Restaurant {0},reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Please set an email id for the Lead {0},Stel een e-mail-ID in voor de lead {0},reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please set API Key and Secret on the producer and consumer sites first.,Stel eerst API-sleutel en geheim in op de producenten- en consumentensites.,reviewed,frappe,0.86,0.85,0.8,0.8,0.9,1.0,ok
-Please set associated account in Tax Withholding Category {0} against Company {1},Stel bijbehorende account in belastinginhoud {0} in voor bedrijf {1},reviewed,erpnext,0.72,0.7,0.7,0.6,0.7,1.0,review
+Please set associated account in Tax Withholding Category {0} against Company {1},Stel de bijbehorende rekening in bij bronbelastingcategorie {0} voor bedrijf {1}.,reviewed,erpnext,0.88,0.7,0.7,0.6,0.7,1.0,improved
 Please set at least one row in the Taxes and Charges Table,Stel ten minste één rij in de tabel Belastingen en kosten in,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Please set B2C Limit in GST Settings.,Stel B2C-limiet in GST-instellingen in.,reviewed,erpnext,0.94,0.95,0.9,0.9,0.95,1.0,ok
 Please set Base URL in Social Login Key for Frappe,Stel de Base URL in Social Login Key voor Frappe in,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Please Set Chart,Stel een grafiek in,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Please set Company,Stel alsjeblieft bedrijf in,reviewed,erpnext,0.77,0.8,0.75,0.6,0.75,1.0,review
-Please set Company filter blank if Group By is 'Company',Stel alsjeblieft Bedrijfsfilter leeg als Group By is &#39;Company&#39;,reviewed,erpnext,0.66,0.7,0.65,0.55,0.7,0.7,review
-Please set Customer in Patient {0},Stel klant in patiënt {0},reviewed,erpnext,0.76,0.75,0.7,0.75,0.65,1.0,review
-Please set default account in Salary Component {0},Stel standaard account aan Salaris Component {0},reviewed,erpnext,0.67,0.7,0.6,0.55,0.55,1.0,review
+Please set Company,Selecteer een bedrijf.,reviewed,erpnext,0.89,0.8,0.75,0.6,0.75,1.0,improved
+Please set Company filter blank if Group By is 'Company',Laat het bedrijfsfilter leeg als 'Groeperen op' is ingesteld op 'Bedrijf'.,reviewed,erpnext,0.88,0.7,0.65,0.55,0.7,0.7,improved
+Please set Customer in Patient {0},Stel een klant in bij patiënt {0}.,reviewed,erpnext,0.89,0.75,0.7,0.75,0.65,1.0,improved
+Please set default account in Salary Component {0},Stel een standaardrekening in voor salariscomponent {0}.,reviewed,erpnext,0.9,0.7,0.6,0.55,0.55,1.0,improved
 Please set default Cash or Bank account in Mode of Payment {0},Stel een standaard Kas- of Bankrekening in bij Betaalwijze {0},reviewed,erpnext,0.94,0.95,0.9,0.9,0.95,1.0,ok
-Please set default Cash or Bank account in Mode of Payment {},Stel een standaard contant of bankrekening in in Betalingsmethode {},reviewed,erpnext,0.7,0.75,0.65,0.55,0.6,1.0,review
-Please set default Cash or Bank account in Mode of Payments {},Stel standaard contant geld of bankrekening in in Betalingsmethode {},reviewed,erpnext,0.55,0.55,0.45,0.6,0.4,0.8,review
-Please set default customer in Restaurant Settings,Stel de standaardklant in in restaurantinstellingen,reviewed,erpnext,0.61,0.7,0.5,0.65,0.4,0.85,review
+Please set default Cash or Bank account in Mode of Payment {},Stel een standaard kas- of bankrekening in bij betalingsmethode {}.,reviewed,erpnext,0.9,0.75,0.65,0.55,0.6,1.0,improved
+Please set default Cash or Bank account in Mode of Payments {},Stel een standaard kas- of bankrekening in bij betalingsmethode {}.,reviewed,erpnext,0.9,0.55,0.45,0.6,0.4,0.8,improved
+Please set default customer in Restaurant Settings,Stel de standaardklant in bij de restaurantinstellingen.,reviewed,erpnext,0.9,0.7,0.5,0.65,0.4,0.85,improved
 Please set Default Payroll Payable Account in Company {0},Stel de standaard salarisbetalingsrekening in bij bedrijf {0},reviewed,erpnext,0.83,0.3,0.2,0.25,0.2,0.3,improved
-Please set default UOM in Stock Settings,Stel de standaard UOM in bij Voorraadinstellingen,reviewed,erpnext,0.73,0.7,0.65,0.75,0.8,0.85,review
+Please set default UOM in Stock Settings,Stel de standaard meeteenheid (UOM) in bij de voorraadinstellingen.,reviewed,erpnext,0.89,0.7,0.65,0.75,0.8,0.85,improved
 Please set default {0} in Company {1},Stel de standaard {0} in bij bedrijf {1},reviewed,erpnext,0.87,0.25,0.2,0.25,0.2,0.3,improved
 "Please set defaults for Customer Group, Territory and Selling Price List in Selling Settings","Stel de standaardwaarden in voor klantgroep, territorium en verkoopprijslijst in de verkoopinstellingen",reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,0.9,ok
 Please set Depreciation related Accounts in Asset Category {0} or Company {1},Stel de afschrijvingsgerelateerde rekeningen in bij activacategorie {0} of bedrijf {1},reviewed,erpnext,0.84,0.4,0.35,0.4,0.4,0.6,improved
-Please set Dropbox access keys in your site config,Stel Dropbox access keys in in uw site configuratie,reviewed,frappe,0.64,0.65,0.55,0.6,0.7,0.8,review
+Please set Dropbox access keys in your site config,Stel de Dropbox-toegangssleutels in via uw siteconfiguratie.,reviewed,frappe,0.9,0.65,0.55,0.6,0.7,0.8,improved
 Please set Email Address,Stel een e-mailadres in,reviewed,frappe,0.87,0.3,0.25,0.4,0.2,0.3,improved
-Please set filter based on Item or Warehouse,Stel filter op basis van artikel of Warehouse,reviewed,erpnext,0.57,0.55,0.5,0.55,0.6,0.7,review
-Please set filter based on Item or Warehouse due to a large amount of entries.,Stel filter in op basis van artikel of magazijn vanwege een groot aantal invoer.,reviewed,erpnext,0.71,0.7,0.65,0.7,0.7,0.85,review
+Please set filter based on Item or Warehouse,Stel een filter in op artikel of magazijn.,reviewed,erpnext,0.89,0.55,0.5,0.55,0.6,0.7,improved
+Please set filter based on Item or Warehouse due to a large amount of entries.,Stel een filter in op artikel of magazijn vanwege het grote aantal regels.,reviewed,erpnext,0.9,0.7,0.65,0.7,0.7,0.85,improved
 Please set filters,Stel filters in,reviewed,frappe,0.88,0.25,0.2,0.35,0.2,0.3,improved
 Please set filters value in Report Filter table.,Stel filterwaarden in de rapportfiltertabel in.,reviewed,frappe,0.84,0.35,0.3,0.4,0.3,0.5,improved
 Please set GST Accounts in GST Settings,Stel GST-accounts in via GST-instellingen,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,0.9,ok
@@ -7524,21 +7524,21 @@ Please set leave policy for employee {0} in Employee / Grade record,Stel het ver
 Please set Naming Series for {0} via Setup > Settings > Naming Series,Stel de nummerreeks in voor {0} via Instellingen > Instellingen > Nummerreeks,reviewed,erpnext,0.83,0.4,0.35,0.4,0.4,0.6,improved
 Please set Number of Depreciations Booked,Stel het aantal geboekte afschrijvingen in,reviewed,erpnext,0.87,0.25,0.2,0.3,0.2,0.3,improved
 Please set recurring after saving,Stel de herhaling in na het opslaan,reviewed,erpnext,0.84,0.25,0.2,0.3,0.2,0.3,improved
-Please Set Supplier Group in Buying Settings.,Gelieve Leveranciergroep in te stellen in Koopinstellingen.,reviewed,erpnext,0.64,0.65,0.55,0.6,0.7,0.8,review
+Please Set Supplier Group in Buying Settings.,Stel een leveranciersgroep in bij de inkoopinstellingen.,reviewed,erpnext,0.91,0.65,0.55,0.6,0.7,0.8,improved
 Please set the Customer Address,Stel het klantadres in,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,0.9,ok
 Please set the Default Cost Center in {0} company.,Stel de standaard kostenplaats in bij bedrijf {0}.,reviewed,erpnext,0.87,0.45,0.4,0.5,0.45,0.7,improved
-Please set the Email ID for the Student to send the Payment Request,Stel het e-mail-ID voor de student in om het betalingsverzoek te verzenden,reviewed,erpnext,0.76,0.75,0.7,0.75,0.8,0.85,review
+Please set the Email ID for the Student to send the Payment Request,Stel het e-mailadres van de student in om het betalingsverzoek te verzenden.,reviewed,erpnext,0.9,0.75,0.7,0.75,0.8,0.85,improved
 Please set the following documents in this Dashboard as standard first.,Stel eerst de volgende documenten in dit Dashboard als standaard in.,reviewed,frappe,0.83,0.82,0.8,0.82,0.85,0.9,ok
 Please set the initiator name and the security credential,Stel de naam van de initiator en de beveiligingsreferentie in,reviewed,erpnext,0.82,0.8,0.78,0.8,0.85,0.9,ok
 Please set the Item Code first,Stel eerst de productcode in,reviewed,erpnext,0.82,0.8,0.78,0.8,0.85,0.9,ok
 Please set the Paid Amount first,Stel eerst het betaalde bedrag in,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,0.9,ok
 Please set the Payment Schedule,Stel het betalingsschema in,reviewed,erpnext,0.83,0.82,0.8,0.82,0.85,0.9,ok
 Please set the series to be used.,Stel de reeks in die moet worden gebruikt.,reviewed,frappe,0.82,0.8,0.78,0.8,0.85,0.9,ok
-Please set Unrealized Exchange Gain/Loss Account in Company {0},Stel een niet-gerealiseerde Exchange-winst / verliesrekening in in bedrijf {0},reviewed,erpnext,0.66,0.65,0.6,0.65,0.65,0.8,review
+Please set Unrealized Exchange Gain/Loss Account in Company {0},Stel de rekening voor niet-gerealiseerde koerswinsten en -verliezen in bij bedrijf {0}.,reviewed,erpnext,0.88,0.65,0.6,0.65,0.65,0.8,improved
 Please set up the Campaign Schedule in the Campaign {0},Stel het campagneschema in de campagne {0} in,reviewed,erpnext,0.82,0.8,0.78,0.8,0.85,0.9,ok
 Please set User ID field in an Employee record to set Employee Role,Vul het veld Gebruikers-ID in een medewerkerrecord in om de medewerkersrol in te stellen,reviewed,erpnext,0.83,0.3,0.25,0.3,0.2,0.35,improved
 Please set valid GSTIN No. in Company Address for company {0},Stel een geldig GSTIN-nummer in het bedrijfsadres in voor bedrijf {0},reviewed,erpnext,0.81,0.8,0.78,0.8,0.82,0.88,ok
-Please set Warehouse in Woocommerce Settings,Stel Magazijn in in Woocommerce-instellingen,reviewed,erpnext,0.76,0.75,0.72,0.75,0.8,0.85,review
+Please set Warehouse in Woocommerce Settings,Stel het magazijn in bij de WooCommerce-instellingen.,reviewed,erpnext,0.91,0.75,0.72,0.75,0.8,0.85,improved
 Please set {0},Stel {0} in,reviewed,erpnext,0.83,0.82,0.8,0.82,0.85,0.9,ok
 Please set {0} for address {1},Stel {0} in voor adres {1},reviewed,erpnext,0.83,0.82,0.8,0.82,0.85,0.9,ok
 "Please set {0} for Batched Item {1}, which is used to set {2} on Submit.","Stel {0} in voor batchartikel {1}, dat wordt gebruikt om {2} in te stellen op Verzenden.",reviewed,erpnext,0.81,0.8,0.78,0.8,0.82,0.88,ok
@@ -7547,25 +7547,25 @@ Please setup a default bank account for company {0},Stel een standaard bankreken
 Please setup a message first,Stel eerst een bericht in,reviewed,frappe,0.83,0.82,0.8,0.82,0.85,0.9,ok
 Please setup default Email Account from Setup > Email > Email Account,Stel het standaard e-mailaccount in via Instellingen > E-mail > E-mailaccount,reviewed,frappe,0.85,0.4,0.35,0.4,0.35,0.55,improved
 Please setup Instructor Naming System in Education > Education Settings,Stel het naamgevingssysteem voor instructeurs in via Onderwijs > Onderwijsinstellingen,reviewed,erpnext,0.83,0.4,0.35,0.4,0.4,0.55,improved
-Please setup Razorpay Plan ID,Stel een Razorpay Plan-ID in,reviewed,erpnext,0.79,0.78,0.75,0.78,0.8,0.85,review
-"Please setup SMS before setting it as an authentication method, via SMS Settings","Installeer alstublieft SMS voordat u deze instelt als een verificatiemethode, via SMS-instellingen",reviewed,frappe,0.56,0.55,0.5,0.55,0.55,0.7,review
-Please setup Students under Student Groups,Stel de studenten onder Student Groups in,reviewed,erpnext,0.76,0.75,0.72,0.75,0.8,0.85,review
-Please specify,Specificeer,reviewed,both,0.76,0.75,0.72,0.75,0.8,0.85,review
-Please specify a valid 'From Case No.',Geef een geldig 'Van Zaaknummer',reviewed,erpnext,0.66,0.65,0.62,0.65,0.7,0.75,review
+Please setup Razorpay Plan ID,Stel een Razorpay-plan-ID in.,reviewed,erpnext,0.9,0.78,0.75,0.78,0.8,0.85,improved
+"Please setup SMS before setting it as an authentication method, via SMS Settings",Configureer SMS via de SMS-instellingen voordat u dit instelt als verificatiemethode.,reviewed,frappe,0.9,0.55,0.5,0.55,0.55,0.7,improved
+Please setup Students under Student Groups,Voeg studenten toe aan de studentgroepen.,reviewed,erpnext,0.89,0.75,0.72,0.75,0.8,0.85,improved
+Please specify,Geef een waarde op.,reviewed,both,0.87,0.75,0.72,0.75,0.8,0.85,improved
+Please specify a valid 'From Case No.',Geef een geldig 'Vanaf zaaknummer' op.,reviewed,erpnext,0.88,0.65,0.62,0.65,0.7,0.75,improved
 Please specify a valid Row ID for row {0} in table {1},Geef een geldige rij-ID voor rij {0} in tabel {1},reviewed,erpnext,0.82,0.8,0.78,0.8,0.85,0.9,ok
 Please specify a {0},Geef een {0} op,reviewed,erpnext,0.82,0.8,0.78,0.8,0.85,0.9,ok
-Please specify at least one attribute in the Attributes table,Gelieve ten minste één attribuut in de tabel attributen opgeven,reviewed,erpnext,0.56,0.55,0.5,0.55,0.55,0.7,review
-Please specify Company,Specificeer Bedrijf,reviewed,erpnext,0.65,0.65,0.6,0.65,0.65,0.75,review
-Please specify Company to proceed,Specificeer Bedrijf om verder te gaan,reviewed,erpnext,0.65,0.65,0.6,0.65,0.65,0.75,review
+Please specify at least one attribute in the Attributes table,Geef ten minste één attribuut op in de tabel Kenmerken.,reviewed,erpnext,0.89,0.55,0.5,0.55,0.55,0.7,improved
+Please specify Company,Selecteer een bedrijf.,reviewed,erpnext,0.89,0.65,0.6,0.65,0.65,0.75,improved
+Please specify Company to proceed,Selecteer een bedrijf om door te gaan.,reviewed,erpnext,0.9,0.65,0.6,0.65,0.65,0.75,improved
 Please specify currency in Company,Geef de valuta op in het bedrijf,reviewed,erpnext,0.82,0.8,0.78,0.8,0.85,0.9,ok
-Please specify either Quantity or Valuation Rate or both,Specificeer ofwel Hoeveelheid of Waarderingstarief of beide,reviewed,erpnext,0.56,0.55,0.5,0.55,0.55,0.7,review
+Please specify either Quantity or Valuation Rate or both,"Voer de hoeveelheid of het waarderingstarief in, of beide.",reviewed,erpnext,0.9,0.55,0.5,0.55,0.55,0.7,improved
 Please specify from/to range,Geef een van/tot-bereik op,reviewed,erpnext,0.82,0.8,0.78,0.8,0.85,0.9,ok
-Please specify which date field must be checked,Geef aan welke datum veld moet worden gecontroleerd,reviewed,frappe,0.61,0.6,0.55,0.6,0.55,0.75,review
-Please specify which value field must be checked,Geef aan welke waarde veld moet worden gecontroleerd,reviewed,frappe,0.61,0.6,0.55,0.6,0.55,0.75,review
+Please specify which date field must be checked,Geef aan welk datumveld gecontroleerd moet worden.,reviewed,frappe,0.91,0.6,0.55,0.6,0.55,0.75,improved
+Please specify which value field must be checked,Geef aan welk waardeveld gecontroleerd moet worden.,reviewed,frappe,0.91,0.6,0.55,0.6,0.55,0.75,improved
 Please supply the specified items at the best possible rates,Lever de opgegeven artikelen tegen de best mogelijke tarieven,reviewed,erpnext,0.85,0.35,0.3,0.4,0.3,0.45,improved
 Please try again,Probeer het opnieuw,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Please Update SMS Settings,Werk SMS-instellingen bij,reviewed,frappe,0.82,0.8,0.78,0.8,0.85,0.9,ok
-Please verify your Email Address,Verifieer uw email adres alstublieft,reviewed,frappe,0.65,0.65,0.6,0.65,0.65,0.75,review
+Please verify your Email Address,Bevestig uw e-mailadres.,reviewed,frappe,0.92,0.65,0.6,0.65,0.65,0.75,improved
 Please wait 3 days before resending the reminder.,Wacht 3 dagen voordat je de herinnering opnieuw verzendt.,reviewed,erpnext,0.83,0.82,0.8,0.82,0.85,0.9,ok
 plus-sign,plus-teken,reviewed,frappe,0.76,0.75,0.72,0.75,0.8,0.85,review
 PO Supplied Item,PO Geleverd item,reviewed,erpnext,0.76,0.75,0.72,0.75,0.8,0.85,review

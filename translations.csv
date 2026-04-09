@@ -14467,138 +14467,138 @@ CRM Lead Status,CRM Lead-status,reviewed,crm,0.76,0.75,0.7,0.75,0.8,1.0,review
 CRM Lost Reason,CRM-verlorenreden,reviewed,crm,0.75,0.75,0.65,0.75,0.8,1.0,review
 CRM Notification,CRM-melding,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
 CRM Organization,CRM-organisatie,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
-CRM Portal Page,CRM-portaalpagina,reviewed,crm,,,,,,,
-CRM Products,CRM-producten,reviewed,crm,,,,,,,
-CRM Rolling Response Time,CRM doorlopende responstijd,reviewed,crm,,,,,,,
-CRM Service Day,CRM Servicedag,reviewed,crm,,,,,,,
-CRM Service Level Agreement,CRM Service Level-overeenkomst,reviewed,crm,,,,,,,
-CRM Service Level Priority,CRM Service Level-prioriteit,reviewed,crm,,,,,,,
-CRM Status Change Log,CRM statuswijzigingslog,reviewed,crm,,,,,,,
-CRM Task,CRM-taak,reviewed,crm,,,,,,,
-CRM Telephony Agent,CRM telefonie-agent,reviewed,crm,,,,,,,
-CRM Telephony Phone,CRM telefonietelefoon,reviewed,crm,,,,,,,
-CRM Territory,CRM-territorium,reviewed,crm,,,,,,,
-CRM Twilio Settings,CRM Twilio-instellingen,reviewed,crm,,,,,,,
-CRM View Settings,CRM-weergave-instellingen,reviewed,crm,,,,,,,
-Calendar Settings,Agenda-instellingen,reviewed,crm,,,,,,,
-Call Received By,Oproep ontvangen door,reviewed,crm,,,,,,,
-Call duration in seconds,Gespreksduur in seconden,reviewed,crm,,,,,,,
-Call log not found,Oproepenlog niet gevonden,reviewed,crm,,,,,,,
-Call using {0},Bellen via {0},reviewed,crm,,,,,,,
-Call with John Doe,Gesprek met John Doe,reviewed,crm,,,,,,,
-Caller,Beller,reviewed,crm,,,,,,,
-Calling Medium,Belmedium,reviewed,crm,,,,,,,
-Calling...,Bellen...,reviewed,crm,,,,,,,
-Can't retry sync for this without source!,Nieuwe synchronisatiepoging niet mogelijk zonder bron!,reviewed,crm,,,,,,,
-Cannot assign this role,Deze rol kan niet worden toegewezen,reviewed,crm,,,,,,,
-Cannot change role of user with Admin access,De rol van een gebruiker met beheerderstoegang kan niet worden gewijzigd,reviewed,crm,,,,,,,
-Cannot delete standard items {0},Kan standaard items {0} niet verwijderen,reviewed,crm,,,,,,,
-Cannot enable rule without adding users in it,Regel kan niet worden ingeschakeld zonder gebruikers toe te voegen,reviewed,crm,,,,,,,
-Cannot invite for this role,Uitnodiging voor deze rol is niet mogelijk,reviewed,crm,,,,,,,
-Capture,Vastleggen,reviewed,crm,,,,,,,
-Capturing Leads,Leads vastleggen,reviewed,crm,,,,,,,
-Change Image,Afbeelding wijzigen,reviewed,crm,,,,,,,
-Change Photo,Foto wijzigen,reviewed,crm,,,,,,,
-Change Status,Status wijzigen,reviewed,crm,,,,,,,
-Change deal status,Deal-status wijzigen,reviewed,crm,,,,,,,
-Change language of the application.,Wijzig de taal van de applicatie.,reviewed,crm,,,,,,,
-Change timezone of the application.,Wijzig de tijdzone van de applicatie.,reviewed,crm,,,,,,,
-Change your account password for security.,Wijzig uw accountwachtwoord voor de beveiliging.,reviewed,crm,,,,,,,
-Choose Existing,Bestaande kiezen,reviewed,crm,,,,,,,
-Choose Existing Contact,Bestaand contact kiezen,reviewed,crm,,,,,,,
-Choose Existing Organization,Bestaande organisatie kiezen,reviewed,crm,,,,,,,
-Choose how long this SLA policy will be active.,Kies hoe lang dit SLA-beleid actief is.,reviewed,crm,,,,,,,
-Choose how you want to use the application by setting your preferences.,Kies hoe u de applicatie wilt gebruiken door uw voorkeuren in te stellen.,reviewed,crm,,,,,,,
-Choose how {0} are assigned among salespeople.,Kies hoe {0} worden toegewezen onder verkopers.,reviewed,crm,,,,,,,
-Choose the Email Service Provider you want to configure.,Kies de e-mailserviceprovider die u wilt configureren.,reviewed,crm,,,,,,,
-Choose the days of the week when this rule should be active.,Kies de dagen van de week waarop deze regel actief moet zijn.,reviewed,crm,,,,,,,
-Choose which leads/deals are affected by this policy.,Kies welke leads/deals door dit beleid worden beinvloed.,reviewed,crm,,,,,,,
-Choose which {0} are affected by this un-assignment rule.,Kies welke {0} worden beinvloed door deze niet-toewijzingsregel.,reviewed,crm,,,,,,,
-Clear All Filters,Alle filters wissen,reviewed,crm,,,,,,,
-Clear Assignment,Toewijzing wissen,reviewed,crm,,,,,,,
-Clear Demo Data,Demonstratiegegevens wissen,reviewed,crm,,,,,,,
-Clear Sort,Sortering wissen,reviewed,crm,,,,,,,
-Close Panel,Paneel sluiten,reviewed,crm,,,,,,,
-Closed Date,Sluitingsdatum,reviewed,crm,,,,,,,
-Column Field,Kolomveld,reviewed,crm,,,,,,,
-Comment sent!,Reactie verzonden!,reviewed,crm,,,,,,,
-Common reasons for losing deals,Veel voorkomende redenen voor het mislopen van deals,reviewed,crm,,,,,,,
-Communication Status,Communicatiestatus,reviewed,crm,,,,,,,
-Communication Statuses,Communicatiestatussen,reviewed,crm,,,,,,,
-Company in ERPNext site,Bedrijf in ERPNext-site,reviewed,crm,,,,,,,
-Conditions for this rule were created from,Voorwaarden voor deze regel zijn gemaakt vanuit,reviewed,crm,,,,,,,
-Configure Telephony Settings for your CRM,Configureer de telefonie-instellingen voor uw CRM,reviewed,crm,,,,,,,
-Configure actions that appear on the home dropdown,Configureer de acties die worden weergegeven in de startpagina-dropdown,reviewed,crm,,,,,,,
-Configure forecasting feature to help predict sales performance and growth,Configureer de prognosesfunctie om verkoopprestaties en groei te voorspellen,reviewed,crm,,,,,,,
-Configure general settings for your application,Configureer de algemene instellingen voor uw applicatie,reviewed,crm,,,,,,,
-Configure the Currency and Exchange Rate Provider for your CRM,Configureer de valuta en wisselkoersprovider voor uw CRM,reviewed,crm,,,,,,,
-Configure the Exchange Rate Provider for your CRM,Configureer de wisselkoersprovider voor uw CRM,reviewed,crm,,,,,,,
-"Configure your Brand Name, Logo, and Favicon","Configureer uw merknaam, logo en favicon",reviewed,crm,,,,,,,
-Configure your Calendar Settings like Default View and Event Notifications here,"Configureer hier uw agenda-instellingen, zoals de standaardweergave en gebeurtenismeldingen",reviewed,crm,,,,,,,
-Configure your Exotel Telephony Integration Settings here,Configureer hier uw Exotel-telefonie-integratie-instellingen,reviewed,crm,,,,,,,
-Configure your Twilio Telephony Integration Settings here,Configureer hier uw Twilio-telefonie-integratie-instellingen,reviewed,crm,,,,,,,
-Confirm Delete,Verwijdering bevestigen,reviewed,crm,,,,,,,
-Confirm Overwrite,Overschrijven bevestigen,reviewed,crm,,,,,,,
-Confirm Password,Bevestig wachtwoord,reviewed,crm,,,,,,,
-Connect your Email,Verbind uw e-mail,reviewed,crm,,,,,,,
-Contact Added,Contact toegevoegd,reviewed,crm,,,,,,,
-Contact Already Added,Contact al toegevoegd,reviewed,crm,,,,,,,
-Contact Already Exists,Contact bestaat al,reviewed,crm,,,,,,,
-Contact Image Updated,Contactafbeelding bijgewerkt,reviewed,crm,,,,,,,
-Contact Removed,Contact verwijderd,reviewed,crm,,,,,,,
-Contact Support,Ondersteuning contacteren,reviewed,crm,,,,,,,
-Contact Updated,Contact bijgewerkt,reviewed,crm,,,,,,,
-Contact already exists with {0},Contact bestaat al met {0},reviewed,crm,,,,,,,
-Contact image updated,Contactafbeelding bijgewerkt,reviewed,crm,,,,,,,
-Content is required,Content is verplicht,reviewed,crm,,,,,,,
-Convert,Converteren,reviewed,crm,,,,,,,
-Convert to Deal,Converteren naar Deal,reviewed,crm,,,,,,,
-Converted Successfully,Succesvol geconverteerd,reviewed,crm,,,,,,,
-Copied to Clipboard,Gekopieerd naar klembord,reviewed,crm,,,,,,,
-Create Deal,Deal aanmaken,reviewed,crm,,,,,,,
-Create Event,Evenement aanmaken,reviewed,crm,,,,,,,
-Create Lead from Incoming Emails,Lead aanmaken vanuit inkomende e-mails,reviewed,crm,,,,,,,
-Create New Holiday List,Nieuwe verloflijst aanmaken,reviewed,crm,,,,,,,
-Create Note,Notitie aanmaken,reviewed,crm,,,,,,,
-Create Task,Taak aanmaken,reviewed,crm,,,,,,,
-Create View,Weergave maken,reviewed,crm,,,,,,,
-Create an Event,Een evenement aanmaken,reviewed,crm,,,,,,,
-Create customer on status change,Maak klant aan bij statuswijziging,reviewed,crm,,,,,,,
-Create your first lead,Maak uw eerste lead,reviewed,crm,,,,,,,
-Create your first note,Maak uw eerste notitie,reviewed,crm,,,,,,,
-Create your first task,Maak uw eerste taak aan,reviewed,crm,,,,,,,
-Currency & Exchange Rate,Valuta & Wisselkoers,reviewed,crm,,,,,,,
-Currency & Exchange Rate Provider,Valuta- en wisselkoersprovider,reviewed,crm,,,,,,,
-Currency set as {0} successfully,Valuta succesvol ingesteld op {0},reviewed,crm,,,,,,,
-Current pipeline distribution,Huidige pipelineverdeling,reviewed,crm,,,,,,,
-Custom Actions,Aangepaste acties,reviewed,crm,,,,,,,
-Custom Branding,Aangepaste huisstijl,reviewed,crm,,,,,,,
-Custom Fields,Aangepaste velden,reviewed,crm,,,,,,,
-Custom List Actions,Aangepaste lijstacties,reviewed,crm,,,,,,,
-Custom Statuses,Aangepaste statussen,reviewed,crm,,,,,,,
-Customer Created Successfully,Klant succesvol aangemaakt,reviewed,crm,,,,,,,
-Customize Quick Filters,Snelfilters aanpassen,reviewed,crm,,,,,,,
-"Daily performance of leads, deals, and wins","Dagelijkse prestaties van leads, deals en gewonnen deals",reviewed,crm,,,,,,,
-Dark,Donker,reviewed,crm,,,,,,,
-"Dashboard number cards & charts will show currency in the selected format. Once set, cannot be edited.","Dashboard-nummerkaarten en grafieken tonen valuta in het geselecteerde formaat. Eenmaal ingesteld, kan dit niet worden gewijzigd.",reviewed,crm,,,,,,,
-Data,Gegevens,reviewed,crm,,,,,,,
-Data Fields,Datavelden,reviewed,crm,,,,,,,
-Date & Time,Datum & Tijd,reviewed,crm,,,,,,,
-Deal Owner,Dealverantwoordelijke,reviewed,crm,,,,,,,
-Deal Statuses,Deal-statussen,reviewed,crm,,,,,,,
-Deal Value,Dealwaarde,reviewed,crm,,,,,,,
-Deal generation channel analysis,Analyse van dealgeneratiekanalen,reviewed,crm,,,,,,,
-Deal value,Dealwaarde,reviewed,crm,,,,,,,
-Deals by Ongoing & Won Stage,Deals per lopende en gewonnen fase,reviewed,crm,,,,,,,
-Deals by Salesperson,Deals per verkoper,reviewed,crm,,,,,,,
-Deals by Source,Deals per bron,reviewed,crm,,,,,,,
-Deals by Stage,Deals per fase,reviewed,crm,,,,,,,
-Deals by Territory,Deals per gebied,reviewed,crm,,,,,,,
-Deals by ongoing & won stage,Deals per lopende en gewonnen fase,reviewed,crm,,,,,,,
-Deals by salesperson,Deals per verkoper,reviewed,crm,,,,,,,
-Deals by source,Deals per bron,reviewed,crm,,,,,,,
-Deals by stage,Deals per fase,reviewed,crm,,,,,,,
-Deals by territory,Deals per gebied,reviewed,crm,,,,,,,
+CRM Portal Page,CRM-portaalpagina,reviewed,crm,0.88,0.85,0.85,0.9,1.0,1.0,ok
+CRM Products,CRM-producten,reviewed,crm,0.88,0.85,0.85,0.9,1.0,1.0,ok
+CRM Rolling Response Time,CRM doorlopende responstijd,reviewed,crm,0.74,0.7,0.65,0.75,0.9,1.0,review
+CRM Service Day,CRM Servicedag,reviewed,crm,0.76,0.75,0.7,0.75,0.9,1.0,review
+CRM Service Level Agreement,CRM Service Level-overeenkomst,reviewed,crm,0.81,0.8,0.75,0.8,0.9,1.0,ok
+CRM Service Level Priority,CRM Service Level-prioriteit,reviewed,crm,0.81,0.8,0.75,0.8,0.9,1.0,ok
+CRM Status Change Log,CRM statuswijzigingslog,reviewed,crm,0.81,0.8,0.75,0.8,0.9,1.0,ok
+CRM Task,CRM-taak,reviewed,crm,0.88,0.85,0.85,0.9,1.0,1.0,ok
+CRM Telephony Agent,CRM telefonie-agent,reviewed,crm,0.78,0.75,0.7,0.8,0.9,1.0,review
+CRM Telephony Phone,CRM telefonietelefoon,reviewed,crm,0.46,0.4,0.3,0.5,0.6,1.0,rewrite
+CRM Territory,CRM-territorium,reviewed,crm,0.83,0.8,0.75,0.85,1.0,1.0,ok
+CRM Twilio Settings,CRM Twilio-instellingen,reviewed,crm,0.86,0.85,0.8,0.85,1.0,1.0,ok
+CRM View Settings,CRM-weergave-instellingen,reviewed,crm,0.8,0.8,0.7,0.8,0.9,1.0,ok
+Calendar Settings,Agenda-instellingen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Call Received By,Oproep ontvangen door,reviewed,crm,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Call duration in seconds,Gespreksduur in seconden,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Call log not found,Oproepenlog niet gevonden,reviewed,crm,0.74,0.7,0.65,0.75,0.9,1.0,review
+Call using {0},Bellen via {0},reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Call with John Doe,Gesprek met John Doe,reviewed,crm,0.88,0.85,0.85,0.9,1.0,1.0,ok
+Caller,Beller,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Calling Medium,Belmedium,reviewed,crm,0.73,0.7,0.65,0.7,0.9,1.0,review
+Calling...,Bellen...,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Can't retry sync for this without source!,Nieuwe synchronisatiepoging niet mogelijk zonder bron!,reviewed,crm,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Cannot assign this role,Deze rol kan niet worden toegewezen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Cannot change role of user with Admin access,De rol van een gebruiker met beheerderstoegang kan niet worden gewijzigd,reviewed,crm,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Cannot delete standard items {0},Kan standaard items {0} niet verwijderen,reviewed,crm,0.68,0.65,0.6,0.65,0.75,1.0,review
+Cannot enable rule without adding users in it,Regel kan niet worden ingeschakeld zonder gebruikers toe te voegen,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Cannot invite for this role,Uitnodiging voor deze rol is niet mogelijk,reviewed,crm,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Capture,Vastleggen,reviewed,crm,0.82,0.8,0.75,0.8,1.0,1.0,ok
+Capturing Leads,Leads vastleggen,reviewed,crm,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Change Image,Afbeelding wijzigen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Change Photo,Foto wijzigen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Change Status,Status wijzigen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Change deal status,Deal-status wijzigen,reviewed,crm,0.77,0.75,0.7,0.75,0.9,1.0,review
+Change language of the application.,Wijzig de taal van de applicatie.,reviewed,crm,0.81,0.8,0.75,0.8,0.9,1.0,ok
+Change timezone of the application.,Wijzig de tijdzone van de applicatie.,reviewed,crm,0.81,0.8,0.75,0.8,0.9,1.0,ok
+Change your account password for security.,Wijzig uw accountwachtwoord voor de beveiliging.,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Choose Existing,Bestaande kiezen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Choose Existing Contact,Bestaand contact kiezen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Choose Existing Organization,Bestaande organisatie kiezen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Choose how long this SLA policy will be active.,Kies hoe lang dit SLA-beleid actief is.,reviewed,crm,0.81,0.8,0.75,0.8,0.9,1.0,ok
+Choose how you want to use the application by setting your preferences.,Kies hoe u de applicatie wilt gebruiken door uw voorkeuren in te stellen.,reviewed,crm,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Choose how {0} are assigned among salespeople.,Kies hoe {0} worden toegewezen onder verkopers.,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Choose the Email Service Provider you want to configure.,Kies de e-mailserviceprovider die u wilt configureren.,reviewed,crm,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Choose the days of the week when this rule should be active.,Kies de dagen van de week waarop deze regel actief moet zijn.,reviewed,crm,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Choose which leads/deals are affected by this policy.,Kies welke leads/deals door dit beleid worden beinvloed.,reviewed,crm,0.72,0.7,0.65,0.7,0.75,1.0,review
+Choose which {0} are affected by this un-assignment rule.,Kies welke {0} worden beinvloed door deze niet-toewijzingsregel.,reviewed,crm,0.67,0.65,0.6,0.65,0.7,1.0,review
+Clear All Filters,Alle filters wissen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Clear Assignment,Toewijzing wissen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Clear Demo Data,Demonstratiegegevens wissen,reviewed,crm,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Clear Sort,Sortering wissen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Close Panel,Paneel sluiten,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Closed Date,Sluitingsdatum,reviewed,crm,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Column Field,Kolomveld,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Comment sent!,Reactie verzonden!,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Common reasons for losing deals,Veel voorkomende redenen voor het mislopen van deals,reviewed,crm,0.73,0.7,0.65,0.7,0.85,1.0,review
+Communication Status,Communicatiestatus,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Communication Statuses,Communicatiestatussen,reviewed,crm,0.81,0.8,0.75,0.8,0.9,1.0,ok
+Company in ERPNext site,Bedrijf in ERPNext-site,reviewed,crm,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Conditions for this rule were created from,Voorwaarden voor deze regel zijn gemaakt vanuit,reviewed,crm,0.81,0.8,0.75,0.8,0.9,1.0,ok
+Configure Telephony Settings for your CRM,Configureer de telefonie-instellingen voor uw CRM,reviewed,crm,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Configure actions that appear on the home dropdown,Configureer de acties die worden weergegeven in de startpagina-dropdown,reviewed,crm,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Configure forecasting feature to help predict sales performance and growth,Configureer de prognosesfunctie om verkoopprestaties en groei te voorspellen,reviewed,crm,0.67,0.65,0.6,0.65,0.7,1.0,review
+Configure general settings for your application,Configureer de algemene instellingen voor uw applicatie,reviewed,crm,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Configure the Currency and Exchange Rate Provider for your CRM,Configureer de valuta en wisselkoersprovider voor uw CRM,reviewed,crm,0.67,0.65,0.6,0.65,0.7,1.0,review
+Configure the Exchange Rate Provider for your CRM,Configureer de wisselkoersprovider voor uw CRM,reviewed,crm,0.86,0.85,0.8,0.85,0.95,1.0,ok
+"Configure your Brand Name, Logo, and Favicon","Configureer uw merknaam, logo en favicon",reviewed,crm,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Configure your Calendar Settings like Default View and Event Notifications here,"Configureer hier uw agenda-instellingen, zoals de standaardweergave en gebeurtenismeldingen",reviewed,crm,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Configure your Exotel Telephony Integration Settings here,Configureer hier uw Exotel-telefonie-integratie-instellingen,reviewed,crm,0.78,0.8,0.7,0.75,0.85,1.0,review
+Configure your Twilio Telephony Integration Settings here,Configureer hier uw Twilio-telefonie-integratie-instellingen,reviewed,crm,0.78,0.8,0.7,0.75,0.85,1.0,review
+Confirm Delete,Verwijdering bevestigen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Confirm Overwrite,Overschrijven bevestigen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Confirm Password,Bevestig wachtwoord,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Connect your Email,Verbind uw e-mail,reviewed,crm,0.72,0.7,0.65,0.7,0.8,1.0,review
+Contact Added,Contact toegevoegd,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Contact Already Added,Contact al toegevoegd,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Contact Already Exists,Contact bestaat al,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Contact Image Updated,Contactafbeelding bijgewerkt,reviewed,crm,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Contact Removed,Contact verwijderd,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Contact Support,Ondersteuning contacteren,reviewed,crm,0.81,0.8,0.75,0.8,0.9,1.0,ok
+Contact Updated,Contact bijgewerkt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Contact already exists with {0},Contact bestaat al met {0},reviewed,crm,0.77,0.75,0.65,0.75,0.8,1.0,review
+Contact image updated,Contactafbeelding bijgewerkt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Content is required,Content is verplicht,reviewed,crm,0.68,0.65,0.6,0.65,0.75,1.0,review
+Convert,Converteren,reviewed,crm,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Convert to Deal,Converteren naar Deal,reviewed,crm,0.72,0.7,0.65,0.7,0.8,1.0,review
+Converted Successfully,Succesvol geconverteerd,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Copied to Clipboard,Gekopieerd naar klembord,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Create Deal,Deal aanmaken,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Create Event,Evenement aanmaken,reviewed,crm,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Create Lead from Incoming Emails,Lead aanmaken vanuit inkomende e-mails,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Create New Holiday List,Nieuwe verloflijst aanmaken,reviewed,crm,0.67,0.65,0.6,0.65,0.75,1.0,review
+Create Note,Notitie aanmaken,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Create Task,Taak aanmaken,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Create View,Weergave maken,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Create an Event,Een evenement aanmaken,reviewed,crm,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Create customer on status change,Maak klant aan bij statuswijziging,reviewed,crm,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Create your first lead,Maak uw eerste lead,reviewed,crm,0.77,0.75,0.7,0.75,0.8,1.0,review
+Create your first note,Maak uw eerste notitie,reviewed,crm,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Create your first task,Maak uw eerste taak aan,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Currency & Exchange Rate,Valuta & Wisselkoers,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Currency & Exchange Rate Provider,Valuta- en wisselkoersprovider,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Currency set as {0} successfully,Valuta succesvol ingesteld op {0},reviewed,crm,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Current pipeline distribution,Huidige pipelineverdeling,reviewed,crm,0.79,0.75,0.65,0.8,1.0,1.0,review
+Custom Actions,Aangepaste acties,reviewed,crm,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Custom Branding,Aangepaste huisstijl,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Custom Fields,Aangepaste velden,reviewed,crm,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Custom List Actions,Aangepaste lijstacties,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Custom Statuses,Aangepaste statussen,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Customer Created Successfully,Klant succesvol aangemaakt,reviewed,crm,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Customize Quick Filters,Snelfilters aanpassen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+"Daily performance of leads, deals, and wins","Dagelijkse prestaties van leads, deals en gewonnen deals",reviewed,crm,0.74,0.7,0.65,0.75,0.9,0.9,review
+Dark,Donker,reviewed,crm,0.93,0.9,0.95,0.9,1.0,1.0,ok
+"Dashboard number cards & charts will show currency in the selected format. Once set, cannot be edited.","Dashboard-nummerkaarten en grafieken tonen valuta in het geselecteerde formaat. Eenmaal ingesteld, kan dit niet worden gewijzigd.",reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Data,Gegevens,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Data Fields,Datavelden,reviewed,crm,0.8,0.75,0.7,0.8,1.0,1.0,ok
+Date & Time,Datum & Tijd,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Deal Owner,Dealverantwoordelijke,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Deal Statuses,Deal-statussen,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Deal Value,Dealwaarde,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Deal generation channel analysis,Analyse van dealgeneratiekanalen,reviewed,crm,0.7,0.65,0.55,0.7,0.9,1.0,review
+Deal value,Dealwaarde,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Deals by Ongoing & Won Stage,Deals per lopende en gewonnen fase,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Deals by Salesperson,Deals per verkoper,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Deals by Source,Deals per bron,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Deals by Stage,Deals per fase,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Deals by Territory,Deals per gebied,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Deals by ongoing & won stage,Deals per lopende en gewonnen fase,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Deals by salesperson,Deals per verkoper,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Deals by source,Deals per bron,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Deals by stage,Deals per fase,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Deals by territory,Deals per gebied,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
 "Dear {{ lead_name }}, \
 \
 This is a reminder for the payment of {{ grand_total }}. \
@@ -14609,172 +14609,172 @@ Frappé","Beste {{ lead_name }},\
 Dit is een herinnering voor de betaling van {{ grand_total }}.\
 \
 Met vriendelijke groet,\
-Frappé",reviewed,crm,,,,,,,
-Declined,Geweigerd,reviewed,crm,,,,,,,
-Default Calendar View,Standaard agendaweergave,reviewed,crm,,,,,,,
-Default Calling Medium for Logged In User,Standaard gespreksmedium voor ingelogde gebruiker,reviewed,crm,,,,,,,
-Default Event Notifications,Standaard evenementmeldingen,reviewed,crm,,,,,,,
-Default Medium,Standaard medium,reviewed,crm,,,,,,,
-Default Sending & Inbox,Standaard verzending en inbox,reviewed,crm,,,,,,,
-Default Service Level Agreement already exists for {0},Standaard Service Level Overeenkomst bestaat al voor {0},reviewed,crm,,,,,,,
-Default View,Standaardweergave,reviewed,crm,,,,,,,
-Default calling medium set successfully to {0},Standaard gespreksmedium ingesteld op {0},reviewed,crm,,,,,,,
-"Default statuses, custom fields and layouts restored successfully.","Standaardstatussen, aangepaste velden en lay-outs succesvol hersteld.",reviewed,crm,,,,,,,
-Delete & Restore,Verwijderen & herstellen,reviewed,crm,,,,,,,
-Delete Contact,Contact verwijderen,reviewed,crm,,,,,,,
-Delete Event,Evenement verwijderen,reviewed,crm,,,,,,,
-Delete Invitation,Uitnodiging verwijderen,reviewed,crm,,,,,,,
-Delete Linked Item,Gekoppeld item verwijderen,reviewed,crm,,,,,,,
-Delete Organization,Organisatie verwijderen,reviewed,crm,,,,,,,
-Delete Task,Taak verwijderen,reviewed,crm,,,,,,,
-Delete View,Weergave verwijderen,reviewed,crm,,,,,,,
-Delete or unlink linked documents,Gelinkte documenten verwijderen of ontkoppelen,reviewed,crm,,,,,,,
-Delete or unlink these linked documents before deleting this document,Verwijder of ontkoppel deze gekoppelde documenten voordat u dit document verwijdert,reviewed,crm,,,,,,,
-Delete {0} Item(s),{0} item(s) verwijderen,reviewed,crm,,,,,,,
-Delete {0} items,{0} items verwijderen,reviewed,crm,,,,,,,
-Deleting note...,Notitie verwijderen...,reviewed,crm,,,,,,,
-Demo data restored successfully.,Demogegevens succesvol hersteld.,reviewed,crm,,,,,,,
-Description is required,Omschrijving is verplicht,reviewed,crm,,,,,,,
-Device,Apparaat,reviewed,crm,,,,,,,
-Discard Changes,Wijzigingen negeren,reviewed,crm,,,,,,,
-Discard Unsaved Changes?,Niet-opgeslagen wijzigingen negeren?,reviewed,crm,,,,,,,
-Discount %,Korting %,reviewed,crm,,,,,,,
-Doctype is required,Doctype is verplicht,reviewed,crm,,,,,,,
-Document Not Found,Document niet gevonden,reviewed,crm,,,,,,,
-Document created successfully,Document succesvol aangemaakt,reviewed,crm,,,,,,,
-Document does not exist,Document bestaat niet,reviewed,crm,,,,,,,
-Document not found,Document niet gevonden,reviewed,crm,,,,,,,
-Document updated successfully,Document succesvol bijgewerkt,reviewed,crm,,,,,,,
-Documentation,Documentatie,reviewed,crm,,,,,,,
-Donut Chart,Ringdiagram,reviewed,crm,,,,,,,
-Drag & Drop files here or upload from,Sleep bestanden hierheen of upload via,reviewed,crm,,,,,,,
-Dropdown items,Vervolgkeuzeopties,reviewed,crm,,,,,,,
-Duplicate Assignment Rule,Dubbele toewijzingsregel,reviewed,crm,,,,,,,
-Duplicate Event,Evenement dupliceren,reviewed,crm,,,,,,,
-Duplicate SLA Policy,SLA-beleid dupliceren,reviewed,crm,,,,,,,
-Duplicate Template,Template dupliceren,reviewed,crm,,,,,,,
-Duplicate View,Weergave dupliceren,reviewed,crm,,,,,,,
-Duplicate Workday found: {0}. Each Workday should be unique.,Dubbele werkdag gevonden: {0}. Elke werkdag moet uniek zijn.,reviewed,crm,,,,,,,
-Duplicate an Event,Een evenement dupliceren,reviewed,crm,,,,,,,
-ERPNext CRM Settings,ERPNext CRM instellingen,reviewed,crm,,,,,,,
-ERPNext Settings Updated,ERPNext-instellingen bijgewerkt,reviewed,crm,,,,,,,
-ERPNext is not installed in the current site,ERPNext is niet geïnstalleerd in de huidige site,reviewed,crm,,,,,,,
-ERPNext is not integrated with the CRM,ERPNext is niet geïntegreerd met de CRM,reviewed,crm,,,,,,,
-Edit Call Log,Oproeplog bewerken,reviewed,crm,,,,,,,
-Edit Data Fields Layout,Datavelden lay-out bewerken,reviewed,crm,,,,,,,
-Edit Email,E-mail bewerken,reviewed,crm,,,,,,,
-Edit Event,Evenement bewerken,reviewed,crm,,,,,,,
-Edit Field Layout,Veld lay-out bewerken,reviewed,crm,,,,,,,
-Edit Fields Layout,Velden lay-out bewerken,reviewed,crm,,,,,,,
-Edit Grid Fields,Gridvelden bewerken,reviewed,crm,,,,,,,
-Edit Grid Fields Layout,Gridvelden lay-out bewerken,reviewed,crm,,,,,,,
-Edit Grid Row Fields Layout,Gridrij velden lay-out bewerken,reviewed,crm,,,,,,,
-Edit Note,Notitie bewerken,reviewed,crm,,,,,,,
-Edit Quick Entry Layout,Snelle invoer lay-out bewerken,reviewed,crm,,,,,,,
-Edit Response & Resolution,Reactie en oplossing bewerken,reviewed,crm,,,,,,,
-Edit Row,Rij bewerken,reviewed,crm,,,,,,,
-Edit Task,Taak bewerken,reviewed,crm,,,,,,,
-Edit View,Weergave bewerken,reviewed,crm,,,,,,,
-Edit Workday,Werkdag bewerken,reviewed,crm,,,,,,,
-Edit an Event,Een evenement bewerken,reviewed,crm,,,,,,,
-Editing Event,Evenement bewerken,reviewed,crm,,,,,,,
-Editing Row {0},Rij bewerken {0},reviewed,crm,,,,,,,
-Email Account created successfully,E-mailaccount succesvol aangemaakt,reviewed,crm,,,,,,,
-Email Account updated successfully,E-mailaccount succesvol bijgewerkt,reviewed,crm,,,,,,,
-Email Accounts,E-mailaccounts,reviewed,crm,,,,,,,
-Email Already Exists,E-mailadres bestaat al,reviewed,crm,,,,,,,
-Email Communication,E-mailcommunicatie,reviewed,crm,,,,,,,
-Email From Lead,E-mail van lead,reviewed,crm,,,,,,,
-Email ID is required,E-mail-ID is vereist,reviewed,crm,,,,,,,
-Email Sent At,E-mail verzonden op,reviewed,crm,,,,,,,
-Email Templates,E-mailsjablonen,reviewed,crm,,,,,,,
-Email already exists,E-mailadres bestaat al,reviewed,crm,,,,,,,
-Email sent!,E-mail verzonden!,reviewed,crm,,,,,,,
-Email settings updated successfully,E-mailinstellingen succesvol bijgewerkt,reviewed,crm,,,,,,,
-Emails,E-mails,reviewed,crm,,,,,,,
-Emails & Signature,E-mails en handtekening,reviewed,crm,,,,,,,
-Empty - Choose a field to filter by,Leeg - Kies een veld om op te filteren,reviewed,crm,,,,,,,
-Empty - Choose a field to sort by,Leeg - Kies een veld om te sorteren op,reviewed,crm,,,,,,,
-Enable Exotel integration to make and receive calls directly from your CRM,Schakel Exotel-integratie in om gesprekken rechtstreeks vanuit uw CRM te voeren en te ontvangen,reviewed,crm,,,,,,,
-Enable Forecasting,Voorspellingen inschakelen,reviewed,crm,,,,,,,
-Enable Twilio integration to make and receive calls directly from your CRM,Schakel Twilio-integratie in om gesprekken rechtstreeks vanuit uw CRM te voeren en te ontvangen,reviewed,crm,,,,,,,
-Enable call recording for incoming and outgoing calls,Gespreksopname inschakelen voor inkomende en uitgaande gesprekken,reviewed,crm,,,,,,,
-Enabled?,Ingeschakeld?,reviewed,crm,,,,,,,
-End Date cannot be before start date,Einddatum kan niet voor de startdatum liggen,reviewed,crm,,,,,,,
-End Time Should Be After Start Time,Eindtijd moet na de starttijd liggen,reviewed,crm,,,,,,,
-End Time is required,Eindtijd is vereist,reviewed,crm,,,,,,,
-End Time must be after Start Time,Eindtijd moet na de starttijd liggen,reviewed,crm,,,,,,,
-End Time must be after Start Time for: {0},Eindtijd moet na de starttijd liggen voor: {0},reviewed,crm,,,,,,,
-Enter Access Key,Voer toegangssleutel in,reviewed,crm,,,,,,,
-Enter Access Token,Voer toegangstoken in,reviewed,crm,,,,,,,
-Enter Brand Name,Voer merknaam in,reviewed,crm,,,,,,,
-Enter Exotel Number,Voer Exotel-nummer in,reviewed,crm,,,,,,,
-Enter Personal Mobile No.,Voer persoonlijk mobiel nummer in,reviewed,crm,,,,,,,
-Enter Source Name,Bronnaam invoeren,reviewed,crm,,,,,,,
-Enter Twilio Number,Voer Twilio-nummer in,reviewed,crm,,,,,,,
-Enter your Facebook Access Token,Voer uw Facebook Access Token in,reviewed,crm,,,,,,,
-Enter your personal mobile number used by Exotel to make calls,Voer uw persoonlijke mobiele nummer in dat Exotel gebruikt om gesprekken te voeren,reviewed,crm,,,,,,,
-Error Occurred,Er is een fout opgetreden,reviewed,crm,,,,,,,
-Error Syncing Lead,Fout bij synchroniseren van lead,reviewed,crm,,,,,,,
-Error converting to deal: {0},Fout bij het converteren naar deal: {0},reviewed,crm,,,,,,,
-Error creating Lead Sync Source,Fout bij het aanmaken van Lead Sync Bron,reviewed,crm,,,,,,,
-Error creating lead: {0},Fout bij het aanmaken van lead: {0},reviewed,crm,,,,,,,
-Error occurred,Er is een fout opgetreden,reviewed,crm,,,,,,,
-Error syncing leads,Fout bij synchroniseren leads,reviewed,crm,,,,,,,
-Error updating Lead Sync Source,Fout bij het bijwerken van Lead Sync Bron,reviewed,crm,,,,,,,
-Error updating field,Fout bij bijwerken veld,reviewed,crm,,,,,,,
-"Error while creating custom field in ERPNext, check error log for more details","Fout bij het aanmaken van een aangepast veld in ERPNext, controleer het foutenlogboek voor meer details",reviewed,crm,,,,,,,
-"Error while creating customer in ERPNext, check error log for more details","Fout bij het aanmaken van klant in ERPNext, controleer foutenlogboek voor meer details",reviewed,crm,,,,,,,
-"Error while creating prospect in ERPNext, check error log for more details","Fout bij het maken van prospect in ERPNext, controleer het foutenlogboek voor meer details",reviewed,crm,,,,,,,
-"Error while fetching customer in ERPNext, check error log for more details","Fout bij ophalen klant in ERPNext, controleer foutenlogboek voor meer details",reviewed,crm,,,,,,,
-Event ID is required,Evenement ID is vereist,reviewed,crm,,,,,,,
-Event Notifications,Gebeurtenismeldingen,reviewed,crm,,,,,,,
-Event Title,Evenementtitel,reviewed,crm,,,,,,,
-Event created successfully,Evenement succesvol aangemaakt,reviewed,crm,,,,,,,
-Event deleted successfully,Evenement succesvol verwijderd,reviewed,crm,,,,,,,
-Every 10 Minutes,Elke 10 minuten,reviewed,crm,,,,,,,
-Every 15 Minutes,Elke 15 minuten,reviewed,crm,,,,,,,
-Every 5 Minutes,Elke 5 minuten,reviewed,crm,,,,,,,
-Exchange Rate Provider,Wisselkoersaanbieder,reviewed,crm,,,,,,,
-Exotel Exception,Exotel Uitzondering,reviewed,crm,,,,,,,
-Exotel Integration Disabled,Exotel-integratie uitgeschakeld,reviewed,crm,,,,,,,
-Exotel Number,Exotel Nummer,reviewed,crm,,,,,,,
-Exotel Number Missing,Exotel Nummer ontbreekt,reviewed,crm,,,,,,,
-Exotel Number {0} is not valid,Exotel-nummer {0} is niet geldig,reviewed,crm,,,,,,,
-Expected Closure Date,Verwachte sluitingsdatum,reviewed,crm,,,,,,,
-Expected Deal Value,Verwachte dealwaarde,reviewed,crm,,,,,,,
-Expected closure date is required.,Verwachte sluitingsdatum is vereist.,reviewed,crm,,,,,,,
-Expected deal value is required.,Verwachte dealwaarde is vereist.,reviewed,crm,,,,,,,
-Export all {0} record(s),Alle {0} record(s) exporteren,reviewed,crm,,,,,,,
-FCRM Note,FCRM notitie,reviewed,crm,,,,,,,
-FCRM Settings,FCRM-instellingen,reviewed,crm,,,,,,,
-FROM,VAN,reviewed,crm,,,,,,,
-Facebook Form ID,Facebook Formulier ID,reviewed,crm,,,,,,,
-Facebook Lead Form,Facebook Lead Formulier,reviewed,crm,,,,,,,
-Facebook Lead Form Question,Facebook Lead formuliervraag,reviewed,crm,,,,,,,
-Facebook Lead ID,Facebook Lead ID,reviewed,crm,,,,,,,
-Facebook Page,Facebook Pagina,reviewed,crm,,,,,,,
-Failed Lead Sync Log,Mislukte lead synchronisatielog,reviewed,crm,,,,,,,
-Failed to Add Users,Gebruikers toevoegen is mislukt,reviewed,crm,,,,,,,
-Failed to add reaction to the message,Reactie toevoegen aan bericht is mislukt,reviewed,crm,,,,,,,
-Failed to capture Twilio recording,Twilio-opname is mislukt,reviewed,crm,,,,,,,
-"Failed to create Email Account, Invalid credentials","Email Account aanmaken is mislukt, ongeldige inloggegevens",reviewed,crm,,,,,,,
-Failed to create template,Aanmaken van sjabloon is mislukt,reviewed,crm,,,,,,,
-Failed to delete lead sync source,Verwijderen van Lead synchronisatiebron is mislukt,reviewed,crm,,,,,,,
-Failed to delete note,Verwijderen van Notitie is mislukt,reviewed,crm,,,,,,,
-Failed to delete template,Verwijderen van sjabloon is mislukt,reviewed,crm,,,,,,,
-Failed to fetch exchange rate from {0} to {1} on {2}. Please check your internet connection or try again later.,Het ophalen van de wisselkoers van {0} naar {1} op {2} is mislukt. Controleer uw internetverbinding of probeer het later opnieuw.,reviewed,crm,,,,,,,
-Failed to load form controller: {0},Fout bij het laden van formulierbesturing: {0},reviewed,crm,,,,,,,
-Failed to rename template,Hernoemen van sjabloon is mislukt,reviewed,crm,,,,,,,
-Failed to save workday: {0},Opslaan van werkdag is mislukt: {0},reviewed,crm,,,,,,,
-Failed to send WhatsApp message,Verzenden van WhatsApp-bericht is mislukt,reviewed,crm,,,,,,,
-Failed to send WhatsApp template,Verzenden van WhatsApp-sjabloon is mislukt,reviewed,crm,,,,,,,
-Failed to send comment!,Verzenden van opmerking is mislukt!,reviewed,crm,,,,,,,
-Failed to send email!,E-mail verzenden is mislukt!,reviewed,crm,,,,,,,
-"Failed to update Email Account, Invalid credentials","Bijwerken van Email Account is mislukt, ongeldige inloggegevens",reviewed,crm,,,,,,,
-Failed to update Twilio call status,Bijwerken Twilio oproepstatus mislukt,reviewed,crm,,,,,,,
-Failed to update attending status,Bijwerken van deelnamestatus is mislukt,reviewed,crm,,,,,,,
-Failed to update source,Bijwerken van bron mislukt,reviewed,crm,,,,,,,
+Frappé",reviewed,crm,0.89,0.85,0.9,0.85,1.0,1.0,ok
+Declined,Geweigerd,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Default Calendar View,Standaard agendaweergave,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Default Calling Medium for Logged In User,Standaard gespreksmedium voor ingelogde gebruiker,reviewed,crm,0.84,0.8,0.75,0.8,1.0,1.0,ok
+Default Event Notifications,Standaard evenementmeldingen,reviewed,crm,0.8,0.75,0.7,0.8,1.0,1.0,ok
+Default Medium,Standaard medium,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Default Sending & Inbox,Standaard verzending en inbox,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Default Service Level Agreement already exists for {0},Standaard Service Level Overeenkomst bestaat al voor {0},reviewed,crm,0.77,0.7,0.65,0.75,1.0,1.0,review
+Default View,Standaardweergave,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Default calling medium set successfully to {0},Standaard gespreksmedium ingesteld op {0},reviewed,crm,0.84,0.8,0.75,0.8,1.0,1.0,ok
+"Default statuses, custom fields and layouts restored successfully.","Standaardstatussen, aangepaste velden en lay-outs succesvol hersteld.",reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Delete & Restore,Verwijderen & herstellen,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Delete Contact,Contact verwijderen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Delete Event,Evenement verwijderen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Delete Invitation,Uitnodiging verwijderen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Delete Linked Item,Gekoppeld item verwijderen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Delete Organization,Organisatie verwijderen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Delete Task,Taak verwijderen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Delete View,Weergave verwijderen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Delete or unlink linked documents,Gelinkte documenten verwijderen of ontkoppelen,reviewed,crm,0.77,0.7,0.65,0.75,1.0,1.0,review
+Delete or unlink these linked documents before deleting this document,Verwijder of ontkoppel deze gekoppelde documenten voordat u dit document verwijdert,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Delete {0} Item(s),{0} item(s) verwijderen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Delete {0} items,{0} items verwijderen,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Deleting note...,Notitie verwijderen...,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Demo data restored successfully.,Demogegevens succesvol hersteld.,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Description is required,Omschrijving is verplicht,reviewed,crm,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Device,Apparaat,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Discard Changes,Wijzigingen negeren,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Discard Unsaved Changes?,Niet-opgeslagen wijzigingen negeren?,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Discount %,Korting %,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Doctype is required,Doctype is verplicht,reviewed,crm,0.84,0.8,0.75,0.8,1.0,1.0,ok
+Document Not Found,Document niet gevonden,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Document created successfully,Document succesvol aangemaakt,reviewed,crm,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Document does not exist,Document bestaat niet,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Document not found,Document niet gevonden,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Document updated successfully,Document succesvol bijgewerkt,reviewed,crm,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Documentation,Documentatie,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Donut Chart,Ringdiagram,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Drag & Drop files here or upload from,Sleep bestanden hierheen of upload via,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Dropdown items,Vervolgkeuzeopties,reviewed,crm,0.84,0.8,0.75,0.8,1.0,1.0,ok
+Duplicate Assignment Rule,Dubbele toewijzingsregel,reviewed,crm,0.81,0.75,0.7,0.75,1.0,1.0,ok
+Duplicate Event,Evenement dupliceren,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Duplicate SLA Policy,SLA-beleid dupliceren,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Duplicate Template,Template dupliceren,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Duplicate View,Weergave dupliceren,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Duplicate Workday found: {0}. Each Workday should be unique.,Dubbele werkdag gevonden: {0}. Elke werkdag moet uniek zijn.,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Duplicate an Event,Een evenement dupliceren,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+ERPNext CRM Settings,ERPNext CRM instellingen,reviewed,crm,0.78,0.75,0.7,0.75,0.85,1.0,review
+ERPNext Settings Updated,ERPNext-instellingen bijgewerkt,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+ERPNext is not installed in the current site,ERPNext is niet geïnstalleerd in de huidige site,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+ERPNext is not integrated with the CRM,ERPNext is niet geïntegreerd met de CRM,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Edit Call Log,Oproeplog bewerken,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Edit Data Fields Layout,Datavelden lay-out bewerken,reviewed,crm,0.75,0.7,0.65,0.75,0.9,1.0,review
+Edit Email,E-mail bewerken,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Edit Event,Evenement bewerken,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Edit Field Layout,Veld lay-out bewerken,reviewed,crm,0.78,0.75,0.7,0.75,0.9,1.0,review
+Edit Fields Layout,Velden lay-out bewerken,reviewed,crm,0.78,0.75,0.7,0.75,0.9,1.0,review
+Edit Grid Fields,Gridvelden bewerken,reviewed,crm,0.84,0.8,0.75,0.8,1.0,1.0,ok
+Edit Grid Fields Layout,Gridvelden lay-out bewerken,reviewed,crm,0.78,0.75,0.7,0.75,0.9,1.0,review
+Edit Grid Row Fields Layout,Gridrij velden lay-out bewerken,reviewed,crm,0.72,0.65,0.6,0.7,0.85,1.0,review
+Edit Note,Notitie bewerken,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Edit Quick Entry Layout,Snelle invoer lay-out bewerken,reviewed,crm,0.78,0.75,0.7,0.75,0.9,1.0,review
+Edit Response & Resolution,Reactie en oplossing bewerken,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Edit Row,Rij bewerken,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Edit Task,Taak bewerken,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Edit View,Weergave bewerken,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Edit Workday,Werkdag bewerken,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Edit an Event,Een evenement bewerken,reviewed,crm,0.84,0.85,0.75,0.8,1.0,1.0,ok
+Editing Event,Evenement bewerken,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Editing Row {0},Rij bewerken {0},reviewed,crm,0.83,0.85,0.7,0.85,0.85,1.0,ok
+Email Account created successfully,E-mailaccount succesvol aangemaakt,reviewed,crm,0.95,0.95,0.9,0.95,1.0,1.0,ok
+Email Account updated successfully,E-mailaccount succesvol bijgewerkt,reviewed,crm,0.95,0.95,0.9,0.95,1.0,1.0,ok
+Email Accounts,E-mailaccounts,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Email Already Exists,E-mailadres bestaat al,reviewed,crm,0.91,0.9,0.95,0.85,1.0,0.95,ok
+Email Communication,E-mailcommunicatie,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Email From Lead,E-mail van lead,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Email ID is required,E-mail-ID is vereist,reviewed,crm,0.79,0.8,0.7,0.75,0.9,1.0,review
+Email Sent At,E-mail verzonden op,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Email Templates,E-mailsjablonen,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Email already exists,E-mailadres bestaat al,reviewed,crm,0.91,0.9,0.95,0.85,1.0,0.95,ok
+Email sent!,E-mail verzonden!,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Email settings updated successfully,E-mailinstellingen succesvol bijgewerkt,reviewed,crm,0.95,0.95,0.9,0.95,1.0,1.0,ok
+Emails,E-mails,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Emails & Signature,E-mails en handtekening,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Empty - Choose a field to filter by,Leeg - Kies een veld om op te filteren,reviewed,crm,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Empty - Choose a field to sort by,Leeg - Kies een veld om te sorteren op,reviewed,crm,0.8,0.8,0.7,0.8,0.85,1.0,ok
+Enable Exotel integration to make and receive calls directly from your CRM,Schakel Exotel-integratie in om gesprekken rechtstreeks vanuit uw CRM te voeren en te ontvangen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Enable Forecasting,Voorspellingen inschakelen,reviewed,crm,0.83,0.8,0.8,0.8,1.0,1.0,ok
+Enable Twilio integration to make and receive calls directly from your CRM,Schakel Twilio-integratie in om gesprekken rechtstreeks vanuit uw CRM te voeren en te ontvangen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Enable call recording for incoming and outgoing calls,Gespreksopname inschakelen voor inkomende en uitgaande gesprekken,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Enabled?,Ingeschakeld?,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+End Date cannot be before start date,Einddatum kan niet voor de startdatum liggen,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+End Time Should Be After Start Time,Eindtijd moet na de starttijd liggen,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+End Time is required,Eindtijd is vereist,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+End Time must be after Start Time,Eindtijd moet na de starttijd liggen,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+End Time must be after Start Time for: {0},Eindtijd moet na de starttijd liggen voor: {0},reviewed,crm,0.95,0.95,0.9,0.95,1.0,1.0,ok
+Enter Access Key,Voer toegangssleutel in,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Enter Access Token,Voer toegangstoken in,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Enter Brand Name,Voer merknaam in,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Enter Exotel Number,Voer Exotel-nummer in,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Enter Personal Mobile No.,Voer persoonlijk mobiel nummer in,reviewed,crm,0.85,0.85,0.8,0.85,0.9,0.9,ok
+Enter Source Name,Bronnaam invoeren,reviewed,crm,0.76,0.75,0.7,0.7,0.95,1.0,review
+Enter Twilio Number,Voer Twilio-nummer in,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Enter your Facebook Access Token,Voer uw Facebook Access Token in,reviewed,crm,0.8,0.8,0.75,0.75,0.9,1.0,ok
+Enter your personal mobile number used by Exotel to make calls,Voer uw persoonlijke mobiele nummer in dat Exotel gebruikt om gesprekken te voeren,reviewed,crm,0.87,0.9,0.85,0.85,0.85,1.0,ok
+Error Occurred,Er is een fout opgetreden,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Error Syncing Lead,Fout bij synchroniseren van lead,reviewed,crm,0.89,0.9,0.85,0.85,1.0,1.0,ok
+Error converting to deal: {0},Fout bij het converteren naar deal: {0},reviewed,crm,0.89,0.9,0.85,0.85,1.0,1.0,ok
+Error creating Lead Sync Source,Fout bij het aanmaken van Lead Sync Bron,reviewed,crm,0.79,0.8,0.7,0.75,0.85,1.0,review
+Error creating lead: {0},Fout bij het aanmaken van lead: {0},reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Error occurred,Er is een fout opgetreden,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Error syncing leads,Fout bij synchroniseren leads,reviewed,crm,0.82,0.85,0.75,0.8,0.85,1.0,ok
+Error updating Lead Sync Source,Fout bij het bijwerken van Lead Sync Bron,reviewed,crm,0.79,0.8,0.7,0.75,0.85,1.0,review
+Error updating field,Fout bij bijwerken veld,reviewed,crm,0.81,0.8,0.75,0.8,0.85,1.0,ok
+"Error while creating custom field in ERPNext, check error log for more details","Fout bij het aanmaken van een aangepast veld in ERPNext, controleer het foutenlogboek voor meer details",reviewed,crm,0.89,0.9,0.85,0.85,1.0,1.0,ok
+"Error while creating customer in ERPNext, check error log for more details","Fout bij het aanmaken van klant in ERPNext, controleer foutenlogboek voor meer details",reviewed,crm,0.84,0.85,0.8,0.8,0.9,1.0,ok
+"Error while creating prospect in ERPNext, check error log for more details","Fout bij het maken van prospect in ERPNext, controleer het foutenlogboek voor meer details",reviewed,crm,0.84,0.85,0.8,0.8,0.95,1.0,ok
+"Error while fetching customer in ERPNext, check error log for more details","Fout bij ophalen klant in ERPNext, controleer foutenlogboek voor meer details",reviewed,crm,0.83,0.85,0.75,0.8,0.85,1.0,ok
+Event ID is required,Evenement ID is vereist,reviewed,crm,0.78,0.8,0.7,0.75,0.85,1.0,review
+Event Notifications,Gebeurtenismeldingen,reviewed,crm,0.77,0.75,0.7,0.7,1.0,1.0,review
+Event Title,Evenementtitel,reviewed,crm,0.87,0.85,0.85,0.85,1.0,1.0,ok
+Event created successfully,Evenement succesvol aangemaakt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Event deleted successfully,Evenement succesvol verwijderd,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Every 10 Minutes,Elke 10 minuten,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Every 15 Minutes,Elke 15 minuten,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Every 5 Minutes,Elke 5 minuten,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Exchange Rate Provider,Wisselkoersaanbieder,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Exotel Exception,Exotel Uitzondering,reviewed,crm,0.73,0.7,0.65,0.7,0.85,1.0,review
+Exotel Integration Disabled,Exotel-integratie uitgeschakeld,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Exotel Number,Exotel Nummer,reviewed,crm,0.75,0.75,0.7,0.7,0.85,1.0,review
+Exotel Number Missing,Exotel Nummer ontbreekt,reviewed,crm,0.75,0.75,0.7,0.7,0.85,1.0,review
+Exotel Number {0} is not valid,Exotel-nummer {0} is niet geldig,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Expected Closure Date,Verwachte sluitingsdatum,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Expected Deal Value,Verwachte dealwaarde,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Expected closure date is required.,Verwachte sluitingsdatum is vereist.,reviewed,crm,0.95,0.95,0.9,0.95,1.0,1.0,ok
+Expected deal value is required.,Verwachte dealwaarde is vereist.,reviewed,crm,0.95,0.95,0.9,0.95,1.0,1.0,ok
+Export all {0} record(s),Alle {0} record(s) exporteren,reviewed,crm,0.89,0.9,0.85,0.85,1.0,1.0,ok
+FCRM Note,FCRM notitie,reviewed,crm,0.75,0.75,0.7,0.7,0.85,1.0,review
+FCRM Settings,FCRM-instellingen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+FROM,VAN,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Facebook Form ID,Facebook Formulier ID,reviewed,crm,0.74,0.75,0.65,0.7,0.8,1.0,review
+Facebook Lead Form,Facebook Lead Formulier,reviewed,crm,0.75,0.75,0.7,0.7,0.85,1.0,review
+Facebook Lead Form Question,Facebook Lead formuliervraag,reviewed,crm,0.73,0.75,0.65,0.65,0.8,1.0,review
+Facebook Lead ID,Facebook Lead ID,reviewed,crm,0.79,0.8,0.75,0.75,0.85,1.0,review
+Facebook Page,Facebook Pagina,reviewed,crm,0.75,0.75,0.7,0.7,0.85,1.0,review
+Failed Lead Sync Log,Mislukte lead synchronisatielog,reviewed,crm,0.77,0.8,0.7,0.7,0.8,1.0,review
+Failed to Add Users,Gebruikers toevoegen is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Failed to add reaction to the message,Reactie toevoegen aan bericht is mislukt,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Failed to capture Twilio recording,Twilio-opname is mislukt,reviewed,crm,0.76,0.75,0.7,0.75,0.95,0.8,review
+"Failed to create Email Account, Invalid credentials","Email Account aanmaken is mislukt, ongeldige inloggegevens",reviewed,crm,0.79,0.8,0.75,0.75,0.85,1.0,review
+Failed to create template,Aanmaken van sjabloon is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Failed to delete lead sync source,Verwijderen van Lead synchronisatiebron is mislukt,reviewed,crm,0.78,0.8,0.7,0.75,0.85,1.0,review
+Failed to delete note,Verwijderen van Notitie is mislukt,reviewed,crm,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Failed to delete template,Verwijderen van sjabloon is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Failed to fetch exchange rate from {0} to {1} on {2}. Please check your internet connection or try again later.,Het ophalen van de wisselkoers van {0} naar {1} op {2} is mislukt. Controleer uw internetverbinding of probeer het later opnieuw.,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Failed to load form controller: {0},Fout bij het laden van formulierbesturing: {0},reviewed,crm,0.8,0.8,0.75,0.75,0.95,1.0,ok
+Failed to rename template,Hernoemen van sjabloon is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Failed to save workday: {0},Opslaan van werkdag is mislukt: {0},reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Failed to send WhatsApp message,Verzenden van WhatsApp-bericht is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Failed to send WhatsApp template,Verzenden van WhatsApp-sjabloon is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Failed to send comment!,Verzenden van opmerking is mislukt!,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Failed to send email!,E-mail verzenden is mislukt!,reviewed,crm,0.84,0.85,0.8,0.8,0.95,1.0,ok
+"Failed to update Email Account, Invalid credentials","Bijwerken van Email Account is mislukt, ongeldige inloggegevens",reviewed,crm,0.79,0.8,0.75,0.75,0.85,1.0,review
+Failed to update Twilio call status,Bijwerken Twilio oproepstatus mislukt,reviewed,crm,0.78,0.8,0.7,0.75,0.85,0.9,review
+Failed to update attending status,Bijwerken van deelnamestatus is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Failed to update source,Bijwerken van bron mislukt,reviewed,crm,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Failed to update template,Bijwerken van sjabloon is mislukt,reviewed,crm,,,,,,,
 Failure Logs,Foutenlogboek,reviewed,crm,,,,,,,
 Fields Order,Veldvolgorde,reviewed,crm,,,,,,,

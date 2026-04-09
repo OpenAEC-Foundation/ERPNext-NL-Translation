@@ -8999,306 +8999,306 @@ Scan the QR Code and enter the resulting code displayed.,Scan de QR-code en voer
 Scanned Cheque,gescande Cheque,reviewed,erpnext,0.47,0.45,0.35,0.45,0.5,1.0,rewrite
 Schedule,Plan,reviewed,erpnext,0.68,0.65,0.55,0.65,0.8,1.0,review
 Schedule Admission,Plan toegang,reviewed,erpnext,0.58,0.55,0.45,0.55,0.65,1.0,review
-Schedule Date,Plan datum,reviewed,erpnext,,,,,,,
-Schedule Details,Planning Details,reviewed,erpnext,,,,,,,
-Schedule Discharge,Scheiding plannen,reviewed,erpnext,,,,,,,
-Schedule Name,Schema Naam,reviewed,erpnext,,,,,,,
-Schedule Send,Plan verzenden,reviewed,frappe,,,,,,,
-Schedule Sending,Plan verzending,reviewed,frappe,,,,,,,
-Scheduled,Geplande,reviewed,both,,,,,,,
-Scheduled Date,Geplande Datum,reviewed,erpnext,,,,,,,
-Scheduled execution for script {0} has updated,Geplande uitvoering voor script {0} is bijgewerkt,reviewed,frappe,,,,,,,
-Scheduled Job,Geplande taak,reviewed,frappe,,,,,,,
-Scheduled Job Log,Gepland takenlogboek,reviewed,frappe,,,,,,,
-Scheduled Job Type,Type geplande taak,reviewed,frappe,,,,,,,
-Scheduled Time,Geplande tijd,reviewed,erpnext,,,,,,,
-Scheduled To Send,Gepland voor sturen,reviewed,frappe,,,,,,,
-Scheduled to send,Gepland om te verzenden,reviewed,frappe,,,,,,,
-Scheduled Upto,Geplande Tot,reviewed,erpnext,,,,,,,
-Scheduler Event,Scheduler-evenement,reviewed,frappe,,,,,,,
-Scheduler Inactive,Planner Inactief,reviewed,both,,,,,,,
-Scheduler is inactive. Cannot import data.,Planner is inactief. Kan gegevens niet importeren.,reviewed,both,,,,,,,
-Schedules,Schema,reviewed,erpnext,,,,,,,
-"Schedules for {0} overlaps, do you want to proceed after skiping overlaped slots ?","Plannen voor overlappende {0}, wilt u doorgaan na het overslaan van overlappende slots?",reviewed,erpnext,,,,,,,
-Scheduling Patient Admission,Opname van patiënten plannen,reviewed,erpnext,,,,,,,
-School/University,School / Universiteit,reviewed,erpnext,,,,,,,
-Scientific Name,Wetenschappelijke naam,reviewed,erpnext,,,,,,,
-Scope,strekking,reviewed,erpnext,,,,,,,
-Scopes,scopes,reviewed,frappe,,,,,,,
-Score,partituur,reviewed,erpnext,,,,,,,
-Score cannot be greater than Maximum Score,Score kan niet groter zijn dan de maximale score te zijn,reviewed,erpnext,,,,,,,
-Score Obtained,Score behaald,reviewed,erpnext,,,,,,,
-Score out of 100,Score uit 100,reviewed,erpnext,,,,,,,
-Scorecard Actions,Scorecard Acties,reviewed,erpnext,,,,,,,
-"Scorecard variables can be used, as well as:\n{total_score} (the total score from that period),\n{period_number} (the number of periods to present day)\n","Scorecard variabelen kunnen worden gebruikt, evenals: {total_score} (de totale score van die periode), {period_number} (het aantal dagen dat de dag is)",reviewed,erpnext,,,,,,,
-Scorecards,scorecards,reviewed,erpnext,,,,,,,
-Scoring Setup,Scoring instellen,reviewed,erpnext,,,,,,,
-Scrap,stukje,reviewed,erpnext,,,,,,,
-Scrap %,Scrap%,reviewed,erpnext,,,,,,,
-Scrap Items,Scrap items,reviewed,erpnext,,,,,,,
-Scrap Material Cost,Scrap Materiaal Cost,reviewed,erpnext,,,,,,,
-Scrap Material Cost(Company Currency),Scrap Materiaal Kosten (Company Munt),reviewed,erpnext,,,,,,,
-Scrapped,gesloopt,reviewed,erpnext,,,,,,,
-Script Manager,Scriptbeheer,reviewed,frappe,,,,,,,
-Script or Query reports,Script of Query-rapporten,reviewed,frappe,,,,,,,
-Script Report,Scriptrapport,reviewed,frappe,,,,,,,
-Script to attach to all web pages.,Script om aan alle webpagina's te koppelen.,reviewed,frappe,,,,,,,
-Search,Zoek,reviewed,both,,,,,,,
-search,zoeken,reviewed,frappe,,,,,,,
-Search APIs,Zoek API&#39;s,reviewed,erpnext,,,,,,,
-"Search by customer name, phone, email.","Zoek op klantnaam, telefoon, e-mail.",reviewed,erpnext,,,,,,,
-Search by filename or extension,Zoeken op bestandsnaam of extensie,reviewed,frappe,,,,,,,
-Search by invoice id or customer name,Zoek op factuur-ID of klantnaam,reviewed,erpnext,,,,,,,
-"Search by item code, serial number, batch no or barcode","Zoeken op artikelcode, serienummer, batchnummer of barcode",reviewed,erpnext,,,,,,,
-Search field {0} is not valid,Zoekveld {0} is niet geldig,reviewed,frappe,,,,,,,
-Search Fields,Zoek Velden,reviewed,frappe,,,,,,,
-Search for '{0}',Zoek naar &#39;{0}&#39;,reviewed,frappe,,,,,,,
-Search for a payment,Zoeken naar een betaling,reviewed,erpnext,,,,,,,
-Search for anything,Zoeken naar iets,reviewed,frappe,,,,,,,
-Search for anything ...,Zoek naar alles ...,reviewed,erpnext,,,,,,,
-Search Help,Zoek hulp,reviewed,frappe,,,,,,,
-Search in a document type,Zoek in een documenttype,reviewed,frappe,,,,,,,
-Search Items ...,Zoek items ...,reviewed,erpnext,,,,,,,
-Search or Create a New Chat,Zoek of maak een nieuwe chat,reviewed,frappe,,,,,,,
-Search or type a command,Zoek of typ een commando,reviewed,frappe,,,,,,,
-Search Priorities,Zoek prioriteiten,reviewed,frappe,,,,,,,
-Search Results,Zoekresultaten,reviewed,erpnext,,,,,,,
-Search Results for,Zoekresultaten voor,reviewed,frappe,,,,,,,
-Search results for,zoekresultaten voor,reviewed,both,,,,,,,
-Search Source Text,Zoek brontekst,reviewed,frappe,,,,,,,
-Search Sub Assemblies,Zoek subassemblages,reviewed,erpnext,,,,,,,
-Search Term Param Name,Naam zoektermparameter,reviewed,erpnext,,,,,,,
-Search...,Zoeken...,reviewed,frappe,,,,,,,
-Searching,Zoeken,reviewed,frappe,,,,,,,
-Searching ...,Zoeken ...,reviewed,frappe,,,,,,,
-"Seasonality for setting budgets, targets etc.","Seizoensgebondenheid voor het vaststellen van budgetten, doelstellingen etc.",reviewed,erpnext,,,,,,,
-Seating Capacity,Zitcapaciteit,reviewed,erpnext,,,,,,,
-Second Email,Tweede e-mail,reviewed,erpnext,,,,,,,
-Secondary UOM,Secundaire maateenheid,reviewed,erpnext,,,,,,,
-Secondary UOM Result,Secundair UOM-resultaat,reviewed,erpnext,,,,,,,
-Secret,Geheim,reviewed,erpnext,,,,,,,
-Secret Key,Geheime sleutel,reviewed,both,,,,,,,
-Secretary,secretaresse,reviewed,erpnext,,,,,,,
-Section,Sectie,reviewed,frappe,,,,,,,
-Section Based On,Sectie gebaseerd op,reviewed,erpnext,,,,,,,
-Section Break,Sectie-einde,reviewed,frappe,,,,,,,
-Section Cards,Sectiekaarten,reviewed,erpnext,,,,,,,
-Section Code,Sectiecode,reviewed,erpnext,,,,,,,
-Section Footer,Sectievoettekst,reviewed,erpnext,,,,,,,
-Section Header,Sectiekoptekst,reviewed,erpnext,,,,,,,
-Section Heading,Sectiekop,reviewed,frappe,,,,,,,
-Section HTML,Sectie HTML,reviewed,erpnext,,,,,,,
-Section Leader,Sectieleider,reviewed,erpnext,,,,,,,
-Section Name,Sectienaam,reviewed,erpnext,,,,,,,
-Section Order,Sectievolgorde,reviewed,erpnext,,,,,,,
-Section Subtotal,Sectie Subtotaal,reviewed,erpnext,,,,,,,
-Secured Loans,Leningen met onderpand,reviewed,erpnext,,,,,,,
-Securities and Deposits,Effecten en Deposito's,reviewed,erpnext,,,,,,,
-Security,Beveiliging,reviewed,frappe,,,,,,,
-Security Credential,Beveiligingsreferentie,reviewed,erpnext,,,,,,,
-Security Settings,Beveiligingsinstellingen,reviewed,frappe,,,,,,,
-See All Articles,Zie alle artikelen,reviewed,erpnext,,,,,,,
-See all open tickets,Bekijk alle openstaande tickets,reviewed,erpnext,,,,,,,
-See all past reports.,Bekijk alle eerdere rapporten.,reviewed,frappe,,,,,,,
-See https://docs.aws.amazon.com/general/latest/gr/s3.html for details.,Zie https://docs.aws.amazon.com/general/latest/gr/s3.html voor details.,reviewed,frappe,,,,,,,
-See on Website,Zie op de website,reviewed,frappe,,,,,,,
-See past orders,Bekijk eerdere bestellingen,reviewed,erpnext,,,,,,,
-See past quotations,Bekijk eerdere offertes,reviewed,erpnext,,,,,,,
-See the document at {0},Zie het document op {0},reviewed,frappe,,,,,,,
-Seems API Key or API Secret is wrong !!!,Lijkt API Key of API Secret is verkeerd !!!,reviewed,frappe,,,,,,,
-"Seems issue with server's razorpay config. Don't worry, in case of failure amount will get refunded to your account.","Lijkt probleem met server razorpay config. Maak je geen zorgen, in geval van storing bedrag wordt teruggestort op uw account te krijgen.",reviewed,frappe,,,,,,,
-Seems Publishable Key or Secret Key is wrong !!!,Lijkt Publicable Key of Secret Key is fout !!!,reviewed,frappe,,,,,,,
-Seems token you are using is invalid!,Het lijkt erop dat het token dat u gebruikt ongeldig is!,reviewed,frappe,,,,,,,
-Seen By,Gezien door,reviewed,frappe,,,,,,,
-Seen By Table,Gezien door tabel,reviewed,frappe,,,,,,,
-Select,Selecteren,reviewed,both,,,,,,,
-Select a Brand Image first.,Selecteer eerst een merkafbeelding.,reviewed,frappe,,,,,,,
-Select a chat to start messaging.,Selecteer een chat om berichten te verzenden.,reviewed,frappe,,,,,,,
-Select a Company,Selecteer een bedrijf,reviewed,erpnext,,,,,,,
-Select a company,Selecteer een bedrijf,reviewed,erpnext,,,,,,,
-Select a Default Priority.,Selecteer een standaardprioriteit.,reviewed,erpnext,,,,,,,
-Select a DocType to make a new format,Selecteer een DocType om een nieuwe indeling te maken,reviewed,frappe,,,,,,,
-"Select a greeting for the receiver. E.g. Mr., Ms., etc.","Selecteer een begroeting voor de ontvanger. Bijv. Meneer, mevrouw, etc.",reviewed,erpnext,,,,,,,
-Select a group node first.,Selecteer eerst een groep knooppunt.,reviewed,frappe,,,,,,,
-Select a Supplier,Selecteer een leverancier,reviewed,erpnext,,,,,,,
-"Select a Supplier from the Default Suppliers of the items below. On selection, a Purchase Order will be made against items belonging to the selected Supplier only.",Selecteer een leverancier uit de standaardleveranciers van de onderstaande items. Bij selectie wordt er alleen een inkooporder gemaakt voor artikelen van de geselecteerde leverancier.,reviewed,erpnext,,,,,,,
-Select a valid Sender Field for creating documents from Email,Selecteer een geldig afzenderveld voor het maken van documenten vanuit e-mail,reviewed,frappe,,,,,,,
-Select a valid Subject field for creating documents from Email,Selecteer een geldig onderwerpveld voor het maken van documenten vanuit e-mail,reviewed,frappe,,,,,,,
-Select All,Alles selecteren,reviewed,frappe,,,,,,,
-Select Alternate Item,Selecteer alternatief item,reviewed,erpnext,,,,,,,
-Select an account to print in account currency,Selecteer een account om in rekeningsvaluta af te drukken,reviewed,erpnext,,,,,,,
-Select an existing format to edit or start a new format.,Selecteer een bestaande indeling te bewerken of start een nieuwe indeling.,reviewed,frappe,,,,,,,
-Select an image of approx width 150px with a transparent background for best results.,Voor het beste resultaat; selecteer een afbeelding van ca. 150px breedte met een transparante achtergrond,reviewed,frappe,,,,,,,
-Select an Item Group for the Clinical Procedure Item.,Selecteer een artikelgroep voor het artikel van de klinische procedure.,reviewed,erpnext,,,,,,,
-Select Assessment Parameter,Selecteer Beoordelingsparameter,reviewed,erpnext,,,,,,,
-Select Assessment Template,Selecteer Beoordelingssjabloon,reviewed,erpnext,,,,,,,
-Select at least one value from each of the attributes.,Selecteer ten minste één waarde uit elk van de kenmerken.,reviewed,erpnext,,,,,,,
-Select atleast 1 record for printing,Selecteer tenminste 1 record voor het afdrukken,reviewed,frappe,,,,,,,
-Select atleast 2 actions,Selecteer minimaal 2 acties,reviewed,frappe,,,,,,,
-Select atleast one Social Media from Share on.,Selecteer ten minste één sociale media van Delen op.,reviewed,erpnext,,,,,,,
-Select Attachments,Selecteer Bijlagen,reviewed,frappe,,,,,,,
-Select Attribute Values,Selecteer kenmerkwaarden,reviewed,erpnext,,,,,,,
-Select Batch,Selecteer Batch,reviewed,erpnext,,,,,,,
-Select Batch Numbers,Selecteer batchnummers,reviewed,erpnext,,,,,,,
-Select Billing Address,Selecteer factuuradres,reviewed,erpnext,,,,,,,
-Select BOM and Qty for Production,Selecteer BOM en Aantal voor productie,reviewed,erpnext,,,,,,,
-"Select BOM, Qty and For Warehouse","Selecteer stuklijst, aantal en voor magazijn",reviewed,erpnext,,,,,,,
-Select Brand...,Selecteer merk ...,reviewed,erpnext,,,,,,,
-Select change amount account,Selecteer verandering bedrag rekening,reviewed,erpnext,,,,,,,
-Select Child Table,Selecteer onderliggende tabel,reviewed,frappe,,,,,,,
-Select Column,Selecteer Kolom,reviewed,frappe,,,,,,,
-Select Columns,Kolommen selecteren,reviewed,frappe,,,,,,,
-Select Company,Selecteer Bedrijf,reviewed,erpnext,,,,,,,
-Select company first,Selecteer eerst een bedrijf,reviewed,erpnext,,,,,,,
-Select company name first.,Kies eerst een bedrijfsnaam.,reviewed,erpnext,,,,,,,
-Select Company...,Selecteer bedrijf ...,reviewed,erpnext,,,,,,,
-Select Customer,Selecteer klant,reviewed,erpnext,,,,,,,
-Select Customers By,Selecteer klanten op,reviewed,erpnext,,,,,,,
-Select Dashboard,Selecteer Dashboard,reviewed,frappe,,,,,,,
-Select Date Range,Selecteer datumbereik,reviewed,frappe,,,,,,,
-Select Days,Selecteer dagen,reviewed,erpnext,,,,,,,
-Select Default Supplier,Selecteer Standaard Leverancier,reviewed,erpnext,,,,,,,
-Select Difference Account,Selecteer Verschilaccount,reviewed,erpnext,,,,,,,
-Select DocType,Selecteer DocType,reviewed,both,,,,,,,
-Select Doctype,Selecteer Doctype,reviewed,frappe,,,,,,,
-Select Document Type,Selecteer Document Type,reviewed,frappe,,,,,,,
-Select Document Type or Role to start.,Selecteer Document Type of Rol om te beginnen.,reviewed,frappe,,,,,,,
-Select Document Types to set which User Permissions are used to limit access.,Selecteer Document Types instellen welke Gebruikersmachtigingen worden gebruikt om de toegang te beperken.,reviewed,frappe,,,,,,,
-Select Employees,Selecteer Medewerkers,reviewed,erpnext,,,,,,,
-Select Event Type,Selecteer Gebeurtenistype,reviewed,frappe,,,,,,,
-Select Field,Selecteer veld,reviewed,frappe,,,,,,,
-Select Field...,Selecteer veld ...,reviewed,frappe,,,,,,,
-Select Fields,Selecteer Velden,reviewed,frappe,,,,,,,
-Select Fields To Insert,Selecteer Velden om in te voegen,reviewed,frappe,,,,,,,
-Select Fields To Update,Selecteer Velden die moeten worden bijgewerkt,reviewed,frappe,,,,,,,
-Select File Format,Selecteer Bestandsformaat,reviewed,frappe,,,,,,,
-Select Filters,Selecteer filters,reviewed,frappe,,,,,,,
-Select finance book for the item {0} at row {1},Selecteer financieringsboek voor het artikel {0} op rij {1},reviewed,erpnext,,,,,,,
-Select Fiscal Year...,Selecteer boekjaar ...,reviewed,erpnext,,,,,,,
-Select From Date,Selecteer Vanaf datum,reviewed,frappe,,,,,,,
-Select Google Calendar to which event should be synced.,Selecteer Google Agenda met welk evenement moet worden gesynchroniseerd.,reviewed,frappe,,,,,,,
-Select Google Contacts to which contact should be synced.,Selecteer Google Contacten waarnaar contact moet worden gesynchroniseerd.,reviewed,frappe,,,,,,,
-Select Group By...,Selecteer Groeperen op ...,reviewed,frappe,,,,,,,
-Select Item (optional),Selecteer item (optioneel),reviewed,erpnext,,,,,,,
-Select item group,Selecteer artikelgroep,reviewed,erpnext,,,,,,,
-Select Items,Selecteer items,reviewed,erpnext,,,,,,,
-Select Items based on Delivery Date,Selecteer items op basis van leveringsdatum,reviewed,erpnext,,,,,,,
-Select Items to Manufacture,Selecteer Items voor fabricage,reviewed,erpnext,,,,,,,
-Select Language,Selecteer taal,reviewed,frappe,,,,,,,
-Select Language...,Selecteer taal ...,reviewed,frappe,,,,,,,
-Select Languages,Selecteer talen,reviewed,frappe,,,,,,,
-Select list item,Selecteer lijstitem,reviewed,frappe,,,,,,,
-Select Loyalty Program,Selecteer Loyaliteitsprogramma,reviewed,erpnext,,,,,,,
-Select Mandatory,Selecteer Verplicht,reviewed,frappe,,,,,,,
-Select Maximum Of 1,Selecteer maximaal 1,reviewed,erpnext,,,,,,,
-Select multiple list items,Selecteer meerdere lijstitems,reviewed,frappe,,,,,,,
-Select only one Priority as Default.,Selecteer slechts één prioriteit als standaard.,reviewed,erpnext,,,,,,,
-Select or drag across time slots to create a new event.,Selecteer of sleep over tijdsloten om een nieuwe gebeurtenis te maken.,reviewed,frappe,,,,,,,
-Select Patient,Selecteer Patiënt,reviewed,erpnext,,,,,,,
-Select Payroll Period,Selecteer Payroll Periode,reviewed,erpnext,,,,,,,
-Select Possible Supplier,Stel mogelijke Leverancier,reviewed,erpnext,,,,,,,
-Select Print Format,Selecteer Print Formaat,reviewed,frappe,,,,,,,
-Select Print Format to Edit,Selecteer Print Format naar Bewerken,reviewed,frappe,,,,,,,
-Select Quantity,Kies aantal,reviewed,erpnext,,,,,,,
-Select records for assignment,Selecteer records voor opdracht,reviewed,frappe,,,,,,,
-Select Role,Selecteer Rol,reviewed,frappe,,,,,,,
-Select Serial Numbers,Selecteer serienummers,reviewed,erpnext,,,,,,,
-Select Shipping Address,Selecteer Verzendadres,reviewed,erpnext,,,,,,,
-Select students manually for the Activity based Group,Selecteer studenten handmatig voor de activiteit gebaseerde groep,reviewed,erpnext,,,,,,,
-Select Supplier Address,Select Leverancier Adres,reviewed,erpnext,,,,,,,
-Select Table Columns for {0},Tabel selecteren Columns voor {0},reviewed,frappe,,,,,,,
-Select Target Warehouse,Selecteer Target Warehouse,reviewed,erpnext,,,,,,,
-Select template item,Selecteer een sjabloonitem,reviewed,erpnext,,,,,,,
-Select the Bank Account to reconcile.,Selecteer de bankrekening die u wilt afstemmen.,reviewed,erpnext,,,,,,,
-Select the customer or supplier.,Selecteer de klant of leverancier.,reviewed,erpnext,,,,,,,
-Select the label after which you want to insert new field.,"Selecteer het label, waarachter u nieuwe veld wilt invoegen.",reviewed,frappe,,,,,,,
-Select the nature of your business.,Selecteer de aard van uw bedrijf.,reviewed,erpnext,,,,,,,
-Select the program first,Selecteer eerst het programma,reviewed,erpnext,,,,,,,
-Select Therapy Type,Selecteer het therapietype,reviewed,erpnext,,,,,,,
-Select to add Serial Number.,Selecteer om serienummer toe te voegen.,reviewed,erpnext,,,,,,,
-Select Transaction,Selecteer Transactie,reviewed,frappe,,,,,,,
-Select variant item code for the template item {0},Selecteer variantartikelcode voor het sjabloonartikel {0},reviewed,erpnext,,,,,,,
-Select warehouse for material requests,Selecteer magazijn voor materiaalaanvragen,reviewed,erpnext,,,,,,,
-Select Warehouse...,Kies Warehouse ...,reviewed,erpnext,,,,,,,
-"Select your Country, Time Zone and Currency","Selecteer uw land, tijdzone en valuta",reviewed,frappe,,,,,,,
-Select your Domains,Selecteer uw domeinen,reviewed,erpnext,,,,,,,
-Select Your Region,Selecteer uw regio,reviewed,frappe,,,,,,,
-Select {0},Selecteer {0},reviewed,frappe,,,,,,,
-"Select, to make the customer searchable with these fields","Selecteer, om de klant doorzoekbaar te maken met deze velden",reviewed,erpnext,,,,,,,
-Selected,Geselecteerd,reviewed,custom,,,,,,,
-Selected Option,Geselecteerde optie,reviewed,erpnext,,,,,,,
-Selected POS Opening Entry should be open.,Het geselecteerde POS-openingsitem moet open zijn.,reviewed,erpnext,,,,,,,
-Selected Price List should have buying and selling fields checked.,In de geselecteerde prijslijst moeten de velden voor kopen en verkopen worden gecontroleerd.,reviewed,erpnext,,,,,,,
-Self approval is not allowed,Eigen goedkeuring is niet toegestaan,reviewed,frappe,,,,,,,
-Self-Driving Vehicle,Zelfrijdend voertuig,reviewed,erpnext,,,,,,,
-Sell,Verkopen,reviewed,erpnext,,,,,,,
-Seller ID,Verkoper-ID,reviewed,erpnext,,,,,,,
-Seller Information,Verkopersinformatie,reviewed,erpnext,,,,,,,
-Selling,Verkoop,reviewed,erpnext,,,,,,,
-Selling Amount,Verkoopbedrag,reviewed,erpnext,,,,,,,
-"Selling must be checked, if Applicable For is selected as {0}","Verkoop moet zijn aangevinkt, indien ""Van toepassing voor"" is geselecteerd als {0}",reviewed,erpnext,,,,,,,
-Selling Price List,Verkoopprijslijst,reviewed,erpnext,,,,,,,
-Selling Rate,Verkooptarief,reviewed,erpnext,,,,,,,
-Selling Settings,Verkoopinstellingen,reviewed,erpnext,,,,,,,
-Send,Verstuur,reviewed,both,,,,,,,
-Send a message,Stuur een bericht,reviewed,erpnext,,,,,,,
-Send After,Stuur Na,reviewed,frappe,,,,,,,
-Send After (days),Verzenden na (dagen),reviewed,erpnext,,,,,,,
-Send alert if date matches this field's value,Stuur Alert als datum overeenkomt met waarde in dit veld.,reviewed,frappe,,,,,,,
-Send alert if this field's value changes,Stuur Alert als de waarde in dit veld wijzigt,reviewed,frappe,,,,,,,
-Send Alert On,Stuur Alert Op,reviewed,frappe,,,,,,,
-Send an email reminder in the morning,Stuur een e-mail herinnering in de ochtend,reviewed,frappe,,,,,,,
-Send an email to {0} to link it here,Stuur een e-mail naar {0} om het hier te koppelen,reviewed,frappe,,,,,,,
-Send Attachments,Bijlagen verzenden,reviewed,frappe,,,,,,,
-Send days before or after the reference date,Stuur dagen voor of na de peildatum,reviewed,frappe,,,,,,,
-Send Email,E-mail verzenden,reviewed,erpnext,,,,,,,
-Send Email Alert,Stuur e-mail alert,reviewed,frappe,,,,,,,
-Send Email for Successful Backup,Stuur een e-mail voor een succesvolle back-up,reviewed,frappe,,,,,,,
-Send Email for Successful backup,Stuur een e-mail voor een succesvolle back-up,reviewed,frappe,,,,,,,
-Send Email Print Attachments as PDF (Recommended),E-mailbijlagen als PDF versturen (aanbevolen),reviewed,frappe,,,,,,,
-Send Emails to Suppliers,Stuur e-mails naar leveranciers,reviewed,erpnext,,,,,,,
-Send enquiries to this email address,Stuur uw vragen naar dit e-mailadres,reviewed,frappe,,,,,,,
-Send Grant Review Email,Verstuur Grant Review Email,reviewed,erpnext,,,,,,,
-Send Invoice with Email,Stuur factuur met e-mail,reviewed,erpnext,,,,,,,
-Send mass SMS to your contacts,Stuur massa SMS naar uw contacten,reviewed,erpnext,,,,,,,
-Send me a copy,Stuur mij een kopie,reviewed,frappe,,,,,,,
-Send Me A Copy of Outgoing Emails,Stuur me een kopie van uitgaande e-mails,reviewed,frappe,,,,,,,
-Send Membership Acknowledgement,Stuur lidmaatschapsbevestiging,reviewed,erpnext,,,,,,,
-Send Notification To,Stuur Kennisgeving aan,reviewed,frappe,,,,,,,
-Send Notification to,Stuur bericht naar,reviewed,frappe,,,,,,,
-Send Notifications For Documents Followed By Me,Stuur meldingen voor documenten die door mij zijn gevolgd,reviewed,frappe,,,,,,,
-Send Notifications For Email Threads,Stuur meldingen voor e-mailthreads,reviewed,frappe,,,,,,,
-Send Notifications To,Verzend Notificaties naar,reviewed,frappe,,,,,,,
-Send Now,Nu verzenden,reviewed,both,,,,,,,
-Send only if there is any data,Stuur alleen als er geen gegevens,reviewed,frappe,,,,,,,
-Send Payment Request,Verzend betalingsverzoek,reviewed,erpnext,,,,,,,
-Send Payment Request Email,Stuur een e-mail voor betalingsverzoek,reviewed,erpnext,,,,,,,
-Send Print as PDF,Verzend Afdruk als PDF,reviewed,frappe,,,,,,,
-Send Read Receipt,Leesbevestiging verzenden,reviewed,frappe,,,,,,,
-Send regular summary reports via Email.,Stuur regelmatige samenvattende rapporten via e-mail.,reviewed,erpnext,,,,,,,
-Send SMS,SMS versturen,reviewed,erpnext,,,,,,,
-Send System Notification,Systeemmelding verzenden,reviewed,frappe,,,,,,,
-Send To,Verzenden naar,reviewed,erpnext,,,,,,,
-Send To All Assignees,Verzenden naar alle toegewezen personen,reviewed,frappe,,,,,,,
-Send To Primary Contact,Verzenden naar primaire contactpersoon,reviewed,erpnext,,,,,,,
-Send to Subcontractor,Verzenden naar onderaannemer,reviewed,erpnext,,,,,,,
-Send Unsubscribe Link,Stuur afmeldlink,reviewed,frappe,,,,,,,
-Send unsubscribe message in email,Uitschrijfbericht in e-mail versturen,reviewed,frappe,,,,,,,
-Send Welcome Email,Welkomst-e-mail versturen,reviewed,frappe,,,,,,,
-Send with Attachment,Verzenden met bijlage,reviewed,erpnext,,,,,,,
-Sender,Afzender,reviewed,both,,,,,,,
-Sender Email,E-mail afzender,reviewed,frappe,,,,,,,
-Sender Field,Afzenderveld,reviewed,frappe,,,,,,,
-Sender Field should have Email in options,Afzenderveld moet E-mail in de opties hebben,reviewed,frappe,,,,,,,
-Sender Name,Naam afzender,reviewed,erpnext,,,,,,,
-Sendgrid,SendGrid,reviewed,frappe,,,,,,,
-Sending,Verzenden,reviewed,both,,,,,,,
-Sends Mails to lead or contact based on a Campaign schedule,Stuurt e-mails naar lead of contact op basis van een campagneschema,reviewed,erpnext,,,,,,,
-Sensitivity,Gevoeligheid,reviewed,erpnext,,,,,,,
-Sensitivity Test Result,Gevoeligheidstestresultaat,reviewed,erpnext,,,,,,,
-Sent,verzonden,reviewed,both,,,,,,,
-Sent On,Verzonden op,reviewed,erpnext,,,,,,,
-Sent or Received,Verzonden of ontvangen,reviewed,frappe,,,,,,,
+Schedule Date,Plan datum,reviewed,erpnext,0.61,0.7,0.5,0.5,0.6,1.0,review
+Schedule Details,Planning Details,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Schedule Discharge,Scheiding plannen,reviewed,erpnext,0.34,0.3,0.3,0.3,0.5,0.8,rewrite
+Schedule Name,Schema Naam,reviewed,erpnext,0.65,0.7,0.5,0.6,0.7,1.0,review
+Schedule Send,Plan verzenden,reviewed,frappe,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Schedule Sending,Plan verzending,reviewed,frappe,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Scheduled,Geplande,reviewed,both,0.47,0.5,0.3,0.5,0.4,1.0,rewrite
+Scheduled Date,Geplande Datum,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+Scheduled execution for script {0} has updated,Geplande uitvoering voor script {0} is bijgewerkt,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Scheduled Job,Geplande taak,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Scheduled Job Log,Gepland takenlogboek,reviewed,frappe,0.61,0.6,0.5,0.6,0.6,1.0,review
+Scheduled Job Type,Type geplande taak,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Scheduled Time,Geplande tijd,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Scheduled To Send,Gepland voor sturen,reviewed,frappe,0.58,0.6,0.5,0.6,0.5,1.0,review
+Scheduled to send,Gepland om te verzenden,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Scheduled Upto,Geplande Tot,reviewed,erpnext,0.61,0.6,0.5,0.6,0.6,1.0,review
+Scheduler Event,Scheduler-evenement,reviewed,frappe,0.42,0.4,0.3,0.4,0.5,1.0,rewrite
+Scheduler Inactive,Planner Inactief,reviewed,both,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Scheduler is inactive. Cannot import data.,Planner is inactief. Kan gegevens niet importeren.,reviewed,both,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Schedules,Schema,reviewed,erpnext,0.55,0.5,0.5,0.5,0.6,1.0,review
+"Schedules for {0} overlaps, do you want to proceed after skiping overlaped slots ?","Plannen voor overlappende {0}, wilt u doorgaan na het overslaan van overlappende slots?",reviewed,erpnext,0.48,0.5,0.4,0.5,0.4,0.7,rewrite
+Scheduling Patient Admission,Opname van patiënten plannen,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
+School/University,School / Universiteit,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Scientific Name,Wetenschappelijke naam,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Scope,strekking,reviewed,erpnext,0.32,0.3,0.2,0.3,0.4,1.0,rewrite
+Scopes,scopes,reviewed,frappe,0.31,0.3,0.2,0.3,0.3,1.0,rewrite
+Score,partituur,reviewed,erpnext,0.25,0.2,0.1,0.2,0.3,1.0,rewrite
+Score cannot be greater than Maximum Score,Score kan niet groter zijn dan de maximale score te zijn,reviewed,erpnext,0.58,0.7,0.4,0.7,0.3,0.9,review
+Score Obtained,Score behaald,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+Score out of 100,Score uit 100,reviewed,erpnext,0.58,0.6,0.5,0.6,0.5,1.0,review
+Scorecard Actions,Scorecard Acties,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+"Scorecard variables can be used, as well as:\n{total_score} (the total score from that period),\n{period_number} (the number of periods to present day)\n","Scorecard variabelen kunnen worden gebruikt, evenals: {total_score} (de totale score van die periode), {period_number} (het aantal dagen dat de dag is)",reviewed,erpnext,0.3,0.3,0.2,0.3,0.3,0.5,rewrite
+Scorecards,scorecards,reviewed,erpnext,0.51,0.5,0.4,0.5,0.5,1.0,review
+Scoring Setup,Scoring instellen,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Scrap,stukje,reviewed,erpnext,0.25,0.2,0.1,0.2,0.3,1.0,rewrite
+Scrap %,Scrap%,reviewed,erpnext,0.53,0.5,0.5,0.5,0.6,1.0,review
+Scrap Items,Scrap items,reviewed,erpnext,0.53,0.5,0.5,0.5,0.6,1.0,review
+Scrap Material Cost,Scrap Materiaal Cost,reviewed,erpnext,0.39,0.4,0.3,0.4,0.4,0.9,rewrite
+Scrap Material Cost(Company Currency),Scrap Materiaal Kosten (Company Munt),reviewed,erpnext,0.39,0.4,0.3,0.4,0.4,0.9,rewrite
+Scrapped,gesloopt,reviewed,erpnext,0.51,0.5,0.4,0.5,0.5,1.0,review
+Script Manager,Scriptbeheer,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Script or Query reports,Script of Query-rapporten,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Script Report,Scriptrapport,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Script to attach to all web pages.,Script om aan alle webpagina's te koppelen.,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Search,Zoek,reviewed,both,0.73,0.7,0.7,0.7,0.7,1.0,review
+search,zoeken,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Search APIs,Zoek API&#39;s,reviewed,erpnext,0.3,0.3,0.2,0.3,0.2,0.8,rewrite
+"Search by customer name, phone, email.","Zoek op klantnaam, telefoon, e-mail.",reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Search by filename or extension,Zoeken op bestandsnaam of extensie,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Search by invoice id or customer name,Zoek op factuur-ID of klantnaam,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
+"Search by item code, serial number, batch no or barcode","Zoeken op artikelcode, serienummer, batchnummer of barcode",reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Search field {0} is not valid,Zoekveld {0} is niet geldig,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Search Fields,Zoek Velden,reviewed,frappe,0.69,0.7,0.6,0.7,0.7,1.0,review
+Search for '{0}',Zoek naar &#39;{0}&#39;,reviewed,frappe,0.31,0.3,0.2,0.3,0.3,0.9,rewrite
+Search for a payment,Zoeken naar een betaling,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Search for anything,Zoeken naar iets,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Search for anything ...,Zoek naar alles ...,reviewed,erpnext,0.75,0.75,0.65,0.75,0.75,1.0,review
+Search Help,Zoek hulp,reviewed,frappe,0.75,0.75,0.65,0.75,0.75,1.0,review
+Search in a document type,Zoek in een documenttype,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Search Items ...,Zoek items ...,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+Search or Create a New Chat,Zoek of maak een nieuwe chat,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Search or type a command,Zoek of typ een commando,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Search Priorities,Zoek prioriteiten,reviewed,frappe,0.75,0.75,0.65,0.75,0.75,1.0,review
+Search Results,Zoekresultaten,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Search Results for,Zoekresultaten voor,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Search results for,zoekresultaten voor,reviewed,both,0.87,0.85,0.85,0.85,0.85,1.0,ok
+Search Source Text,Zoek brontekst,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Search Sub Assemblies,Zoek subassemblages,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Search Term Param Name,Naam zoektermparameter,reviewed,erpnext,0.85,0.85,0.75,0.85,0.85,1.0,ok
+Search...,Zoeken...,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Searching,Zoeken,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Searching ...,Zoeken ...,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+"Seasonality for setting budgets, targets etc.","Seizoensgebondenheid voor het vaststellen van budgetten, doelstellingen etc.",reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Seating Capacity,Zitcapaciteit,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Second Email,Tweede e-mail,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Secondary UOM,Secundaire maateenheid,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Secondary UOM Result,Secundair UOM-resultaat,reviewed,erpnext,0.69,0.7,0.6,0.7,0.7,1.0,review
+Secret,Geheim,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Secret Key,Geheime sleutel,reviewed,both,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Secretary,secretaresse,reviewed,erpnext,0.51,0.5,0.4,0.5,0.5,1.0,review
+Section,Sectie,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Section Based On,Sectie gebaseerd op,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+Section Break,Sectie-einde,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Section Cards,Sectiekaarten,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+Section Code,Sectiecode,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Section Footer,Sectievoettekst,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Section Header,Sectiekoptekst,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Section Heading,Sectiekop,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Section HTML,Sectie HTML,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Section Leader,Sectieleider,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Section Name,Sectienaam,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Section Order,Sectievolgorde,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Section Subtotal,Sectie Subtotaal,reviewed,erpnext,0.69,0.7,0.6,0.7,0.7,1.0,review
+Secured Loans,Leningen met onderpand,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Securities and Deposits,Effecten en Deposito's,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Security,Beveiliging,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+Security Credential,Beveiligingsreferentie,reviewed,erpnext,0.85,0.85,0.75,0.85,0.85,1.0,ok
+Security Settings,Beveiligingsinstellingen,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+See All Articles,Zie alle artikelen,reviewed,erpnext,0.69,0.7,0.6,0.7,0.7,1.0,review
+See all open tickets,Bekijk alle openstaande tickets,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+See all past reports.,Bekijk alle eerdere rapporten.,reviewed,frappe,0.89,0.85,0.85,0.9,1.0,1.0,ok
+See https://docs.aws.amazon.com/general/latest/gr/s3.html for details.,Zie https://docs.aws.amazon.com/general/latest/gr/s3.html voor details.,reviewed,frappe,0.91,0.85,0.9,0.9,1.0,1.0,ok
+See on Website,Zie op de website,reviewed,frappe,0.78,0.7,0.75,0.8,0.9,1.0,review
+See past orders,Bekijk eerdere bestellingen,reviewed,erpnext,0.91,0.85,0.9,0.9,1.0,1.0,ok
+See past quotations,Bekijk eerdere offertes,reviewed,erpnext,0.91,0.85,0.9,0.9,1.0,1.0,ok
+See the document at {0},Zie het document op {0},reviewed,frappe,0.84,0.8,0.8,0.85,0.9,1.0,ok
+Seems API Key or API Secret is wrong !!!,Lijkt API Key of API Secret is verkeerd !!!,reviewed,frappe,0.42,0.4,0.3,0.5,0.3,0.8,rewrite
+"Seems issue with server's razorpay config. Don't worry, in case of failure amount will get refunded to your account.","Lijkt probleem met server razorpay config. Maak je geen zorgen, in geval van storing bedrag wordt teruggestort op uw account te krijgen.",reviewed,frappe,0.3,0.25,0.2,0.4,0.2,0.7,rewrite
+Seems Publishable Key or Secret Key is wrong !!!,Lijkt Publicable Key of Secret Key is fout !!!,reviewed,frappe,0.38,0.35,0.3,0.45,0.3,0.8,rewrite
+Seems token you are using is invalid!,Het lijkt erop dat het token dat u gebruikt ongeldig is!,reviewed,frappe,0.9,0.85,0.9,0.85,0.95,1.0,ok
+Seen By,Gezien door,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Seen By Table,Gezien door tabel,reviewed,frappe,0.69,0.65,0.6,0.7,0.8,1.0,review
+Select,Selecteren,reviewed,both,0.73,0.7,0.65,0.75,0.8,1.0,review
+Select a Brand Image first.,Selecteer eerst een merkafbeelding.,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select a chat to start messaging.,Selecteer een chat om berichten te verzenden.,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select a Company,Selecteer een bedrijf,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select a company,Selecteer een bedrijf,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select a Default Priority.,Selecteer een standaardprioriteit.,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Select a DocType to make a new format,Selecteer een DocType om een nieuwe indeling te maken,reviewed,frappe,0.88,0.85,0.8,0.85,1.0,1.0,ok
+"Select a greeting for the receiver. E.g. Mr., Ms., etc.","Selecteer een begroeting voor de ontvanger. Bijv. Meneer, mevrouw, etc.",reviewed,erpnext,0.79,0.75,0.7,0.75,0.9,1.0,review
+Select a group node first.,Selecteer eerst een groep knooppunt.,reviewed,frappe,0.74,0.7,0.65,0.7,0.85,1.0,review
+Select a Supplier,Selecteer een leverancier,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+"Select a Supplier from the Default Suppliers of the items below. On selection, a Purchase Order will be made against items belonging to the selected Supplier only.",Selecteer een leverancier uit de standaardleveranciers van de onderstaande items. Bij selectie wordt er alleen een inkooporder gemaakt voor artikelen van de geselecteerde leverancier.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select a valid Sender Field for creating documents from Email,Selecteer een geldig afzenderveld voor het maken van documenten vanuit e-mail,reviewed,frappe,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Select a valid Subject field for creating documents from Email,Selecteer een geldig onderwerpveld voor het maken van documenten vanuit e-mail,reviewed,frappe,0.89,0.85,0.85,0.85,1.0,1.0,ok
+Select All,Alles selecteren,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select Alternate Item,Selecteer alternatief item,reviewed,erpnext,0.88,0.85,0.8,0.85,1.0,1.0,ok
+Select an account to print in account currency,Selecteer een account om in rekeningsvaluta af te drukken,reviewed,erpnext,0.8,0.75,0.75,0.8,0.9,1.0,ok
+Select an existing format to edit or start a new format.,Selecteer een bestaande indeling te bewerken of start een nieuwe indeling.,reviewed,frappe,0.63,0.6,0.55,0.65,0.7,0.9,review
+Select an image of approx width 150px with a transparent background for best results.,Voor het beste resultaat; selecteer een afbeelding van ca. 150px breedte met een transparante achtergrond,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Select an Item Group for the Clinical Procedure Item.,Selecteer een artikelgroep voor het artikel van de klinische procedure.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select Assessment Parameter,Selecteer Beoordelingsparameter,reviewed,erpnext,0.73,0.7,0.65,0.7,0.85,1.0,review
+Select Assessment Template,Selecteer Beoordelingssjabloon,reviewed,erpnext,0.73,0.7,0.65,0.7,0.85,1.0,review
+Select at least one value from each of the attributes.,Selecteer ten minste één waarde uit elk van de kenmerken.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select atleast 1 record for printing,Selecteer tenminste 1 record voor het afdrukken,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select atleast 2 actions,Selecteer minimaal 2 acties,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select atleast one Social Media from Share on.,Selecteer ten minste één sociale media van Delen op.,reviewed,erpnext,0.63,0.6,0.55,0.65,0.65,0.9,review
+Select Attachments,Selecteer Bijlagen,reviewed,frappe,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Select Attribute Values,Selecteer kenmerkwaarden,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Batch,Selecteer Batch,reviewed,erpnext,0.73,0.7,0.65,0.7,0.85,1.0,review
+Select Batch Numbers,Selecteer batchnummers,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Billing Address,Selecteer factuuradres,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select BOM and Qty for Production,Selecteer BOM en Aantal voor productie,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+"Select BOM, Qty and For Warehouse","Selecteer stuklijst, aantal en voor magazijn",reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Brand...,Selecteer merk ...,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Select change amount account,Selecteer verandering bedrag rekening,reviewed,erpnext,0.38,0.35,0.3,0.4,0.4,0.8,rewrite
+Select Child Table,Selecteer onderliggende tabel,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Column,Selecteer Kolom,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Columns,Kolommen selecteren,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Company,Selecteer Bedrijf,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select company first,Selecteer eerst een bedrijf,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select company name first.,Kies eerst een bedrijfsnaam.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select Company...,Selecteer bedrijf ...,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Select Customer,Selecteer klant,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select Customers By,Selecteer klanten op,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Dashboard,Selecteer Dashboard,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Date Range,Selecteer datumbereik,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Days,Selecteer dagen,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Default Supplier,Selecteer Standaard Leverancier,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,1.0,review
+Select Difference Account,Selecteer Verschilaccount,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select DocType,Selecteer DocType,reviewed,both,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Doctype,Selecteer Doctype,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Document Type,Selecteer Document Type,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Document Type or Role to start.,Selecteer Document Type of Rol om te beginnen.,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Document Types to set which User Permissions are used to limit access.,Selecteer Document Types instellen welke Gebruikersmachtigingen worden gebruikt om de toegang te beperken.,reviewed,frappe,0.42,0.4,0.35,0.45,0.35,0.8,rewrite
+Select Employees,Selecteer Medewerkers,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Event Type,Selecteer Gebeurtenistype,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Field,Selecteer veld,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Field...,Selecteer veld ...,reviewed,frappe,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Select Fields,Selecteer Velden,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Fields To Insert,Selecteer Velden om in te voegen,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Fields To Update,Selecteer Velden die moeten worden bijgewerkt,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select File Format,Selecteer Bestandsformaat,reviewed,frappe,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Select Filters,Selecteer filters,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select finance book for the item {0} at row {1},Selecteer financieringsboek voor het artikel {0} op rij {1},reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Fiscal Year...,Selecteer boekjaar ...,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select From Date,Selecteer Vanaf datum,reviewed,frappe,0.73,0.7,0.65,0.7,0.8,1.0,review
+Select Google Calendar to which event should be synced.,Selecteer Google Agenda met welk evenement moet worden gesynchroniseerd.,reviewed,frappe,0.47,0.45,0.4,0.5,0.45,0.9,rewrite
+Select Google Contacts to which contact should be synced.,Selecteer Google Contacten waarnaar contact moet worden gesynchroniseerd.,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Group By...,Selecteer Groeperen op ...,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Item (optional),Selecteer item (optioneel),reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select item group,Selecteer artikelgroep,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Items,Selecteer items,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Items based on Delivery Date,Selecteer items op basis van leveringsdatum,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select Items to Manufacture,Selecteer Items voor fabricage,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Language,Selecteer taal,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select Language...,Selecteer taal ...,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Languages,Selecteer talen,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select list item,Selecteer lijstitem,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Loyalty Program,Selecteer Loyaliteitsprogramma,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Mandatory,Selecteer Verplicht,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Maximum Of 1,Selecteer maximaal 1,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select multiple list items,Selecteer meerdere lijstitems,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select only one Priority as Default.,Selecteer slechts één prioriteit als standaard.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select or drag across time slots to create a new event.,Selecteer of sleep over tijdsloten om een nieuwe gebeurtenis te maken.,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Patient,Selecteer Patiënt,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Payroll Period,Selecteer Payroll Periode,reviewed,erpnext,0.68,0.65,0.6,0.65,0.75,1.0,review
+Select Possible Supplier,Stel mogelijke Leverancier,reviewed,erpnext,0.33,0.3,0.25,0.35,0.3,0.8,rewrite
+Select Print Format,Selecteer Print Formaat,reviewed,frappe,0.68,0.65,0.6,0.65,0.75,1.0,review
+Select Print Format to Edit,Selecteer Print Format naar Bewerken,reviewed,frappe,0.38,0.35,0.3,0.4,0.35,0.8,rewrite
+Select Quantity,Kies aantal,reviewed,erpnext,0.72,0.7,0.75,0.6,0.9,1.0,review
+Select records for assignment,Selecteer records voor opdracht,reviewed,frappe,0.75,0.7,0.7,0.8,0.85,1.0,review
+Select Role,Selecteer Rol,reviewed,frappe,0.83,0.85,0.75,0.85,0.8,1.0,ok
+Select Serial Numbers,Selecteer serienummers,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select Shipping Address,Selecteer Verzendadres,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Select students manually for the Activity based Group,Selecteer studenten handmatig voor de activiteit gebaseerde groep,reviewed,erpnext,0.68,0.7,0.55,0.75,0.6,1.0,review
+Select Supplier Address,Select Leverancier Adres,reviewed,erpnext,0.22,0.2,0.1,0.1,0.1,0.8,rewrite
+Select Table Columns for {0},Tabel selecteren Columns voor {0},reviewed,frappe,0.3,0.3,0.2,0.3,0.2,0.9,rewrite
+Select Target Warehouse,Selecteer Target Warehouse,reviewed,erpnext,0.53,0.5,0.4,0.5,0.7,1.0,review
+Select template item,Selecteer een sjabloonitem,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Select the Bank Account to reconcile.,Selecteer de bankrekening die u wilt afstemmen.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Select the customer or supplier.,Selecteer de klant of leverancier.,reviewed,erpnext,0.93,0.9,0.95,0.9,1.0,1.0,ok
+Select the label after which you want to insert new field.,"Selecteer het label, waarachter u nieuwe veld wilt invoegen.",reviewed,frappe,0.74,0.75,0.65,0.8,0.65,1.0,review
+Select the nature of your business.,Selecteer de aard van uw bedrijf.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Select the program first,Selecteer eerst het programma,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Select Therapy Type,Selecteer het therapietype,reviewed,erpnext,0.92,0.9,0.9,0.85,1.0,1.0,ok
+Select to add Serial Number.,Selecteer om serienummer toe te voegen.,reviewed,erpnext,0.82,0.8,0.75,0.85,0.85,1.0,ok
+Select Transaction,Selecteer Transactie,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Select variant item code for the template item {0},Selecteer variantartikelcode voor het sjabloonartikel {0},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Select warehouse for material requests,Selecteer magazijn voor materiaalaanvragen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Select Warehouse...,Kies Warehouse ...,reviewed,erpnext,0.57,0.55,0.5,0.45,0.7,0.9,review
+"Select your Country, Time Zone and Currency","Selecteer uw land, tijdzone en valuta",reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Select your Domains,Selecteer uw domeinen,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Your Region,Selecteer uw regio,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Select {0},Selecteer {0},reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Select, to make the customer searchable with these fields","Selecteer, om de klant doorzoekbaar te maken met deze velden",reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Selected,Geselecteerd,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Selected Option,Geselecteerde optie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Selected POS Opening Entry should be open.,Het geselecteerde POS-openingsitem moet open zijn.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Selected Price List should have buying and selling fields checked.,In de geselecteerde prijslijst moeten de velden voor kopen en verkopen worden gecontroleerd.,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Self approval is not allowed,Eigen goedkeuring is niet toegestaan,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Self-Driving Vehicle,Zelfrijdend voertuig,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Sell,Verkopen,reviewed,erpnext,0.77,0.75,0.7,0.75,0.9,1.0,review
+Seller ID,Verkoper-ID,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Seller Information,Verkopersinformatie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Selling,Verkoop,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Selling Amount,Verkoopbedrag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Selling must be checked, if Applicable For is selected as {0}","Verkoop moet zijn aangevinkt, indien ""Van toepassing voor"" is geselecteerd als {0}",reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Selling Price List,Verkoopprijslijst,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Selling Rate,Verkooptarief,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Selling Settings,Verkoopinstellingen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Send,Verstuur,reviewed,both,0.76,0.75,0.75,0.65,0.9,1.0,review
+Send a message,Stuur een bericht,reviewed,erpnext,0.87,0.85,0.9,0.8,1.0,1.0,ok
+Send After,Stuur Na,reviewed,frappe,0.57,0.55,0.5,0.55,0.65,1.0,review
+Send After (days),Verzenden na (dagen),reviewed,erpnext,0.92,0.9,0.9,0.85,1.0,1.0,ok
+Send alert if date matches this field's value,Stuur Alert als datum overeenkomt met waarde in dit veld.,reviewed,frappe,0.74,0.75,0.7,0.65,0.75,1.0,review
+Send alert if this field's value changes,Stuur Alert als de waarde in dit veld wijzigt,reviewed,frappe,0.75,0.75,0.75,0.65,0.8,1.0,review
+Send Alert On,Stuur Alert Op,reviewed,frappe,0.56,0.55,0.45,0.55,0.6,1.0,review
+Send an email reminder in the morning,Stuur een e-mail herinnering in de ochtend,reviewed,frappe,0.8,0.8,0.75,0.8,0.8,1.0,ok
+Send an email to {0} to link it here,Stuur een e-mail naar {0} om het hier te koppelen,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Send Attachments,Bijlagen verzenden,reviewed,frappe,0.92,0.9,0.9,0.85,1.0,1.0,ok
+Send days before or after the reference date,Stuur dagen voor of na de peildatum,reviewed,frappe,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Send Email,E-mail verzenden,reviewed,erpnext,0.92,0.9,0.9,0.85,1.0,1.0,ok
+Send Email Alert,Stuur e-mail alert,reviewed,frappe,0.72,0.7,0.7,0.65,0.8,1.0,review
+Send Email for Successful Backup,Stuur een e-mail voor een succesvolle back-up,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Send Email for Successful backup,Stuur een e-mail voor een succesvolle back-up,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Send Email Print Attachments as PDF (Recommended),E-mailbijlagen als PDF versturen (aanbevolen),reviewed,frappe,0.81,0.8,0.8,0.75,0.9,0.85,ok
+Send Emails to Suppliers,Stuur e-mails naar leveranciers,reviewed,erpnext,0.87,0.85,0.85,0.8,1.0,1.0,ok
+Send enquiries to this email address,Stuur uw vragen naar dit e-mailadres,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Send Grant Review Email,Verstuur Grant Review Email,reviewed,erpnext,0.34,0.3,0.25,0.3,0.4,0.8,rewrite
+Send Invoice with Email,Stuur factuur met e-mail,reviewed,erpnext,0.86,0.85,0.85,0.8,0.9,1.0,ok
+Send mass SMS to your contacts,Stuur massa SMS naar uw contacten,reviewed,erpnext,0.7,0.7,0.6,0.75,0.65,1.0,review
+Send me a copy,Stuur mij een kopie,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Send Me A Copy of Outgoing Emails,Stuur me een kopie van uitgaande e-mails,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Send Membership Acknowledgement,Stuur lidmaatschapsbevestiging,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Send Notification To,Stuur Kennisgeving aan,reviewed,frappe,0.7,0.7,0.65,0.65,0.75,1.0,review
+Send Notification to,Stuur bericht naar,reviewed,frappe,0.81,0.8,0.8,0.75,0.9,1.0,ok
+Send Notifications For Documents Followed By Me,Stuur meldingen voor documenten die door mij zijn gevolgd,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Send Notifications For Email Threads,Stuur meldingen voor e-mailthreads,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Send Notifications To,Verzend Notificaties naar,reviewed,frappe,0.62,0.6,0.55,0.55,0.65,1.0,review
+Send Now,Nu verzenden,reviewed,both,0.92,0.9,0.9,0.85,1.0,1.0,ok
+Send only if there is any data,Stuur alleen als er geen gegevens,reviewed,frappe,0.13,0.1,0.1,0.2,0.1,0.2,rewrite
+Send Payment Request,Verzend betalingsverzoek,reviewed,erpnext,0.86,0.85,0.85,0.8,0.9,1.0,ok
+Send Payment Request Email,Stuur een e-mail voor betalingsverzoek,reviewed,erpnext,0.82,0.8,0.8,0.75,0.85,1.0,ok
+Send Print as PDF,Verzend Afdruk als PDF,reviewed,frappe,0.75,0.75,0.7,0.7,0.75,1.0,review
+Send Read Receipt,Leesbevestiging verzenden,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Send regular summary reports via Email.,Stuur regelmatige samenvattende rapporten via e-mail.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Send SMS,SMS versturen,reviewed,erpnext,0.83,0.8,0.8,0.75,0.9,1.0,ok
+Send System Notification,Systeemmelding verzenden,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Send To,Verzenden naar,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Send To All Assignees,Verzenden naar alle toegewezen personen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Send To Primary Contact,Verzenden naar primaire contactpersoon,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Send to Subcontractor,Verzenden naar onderaannemer,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Send Unsubscribe Link,Stuur afmeldlink,reviewed,frappe,0.86,0.85,0.85,0.8,0.9,1.0,ok
+Send unsubscribe message in email,Uitschrijfbericht in e-mail versturen,reviewed,frappe,0.86,0.85,0.85,0.8,0.9,1.0,ok
+Send Welcome Email,Welkomst-e-mail versturen,reviewed,frappe,0.86,0.85,0.85,0.8,0.9,1.0,ok
+Send with Attachment,Verzenden met bijlage,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Sender,Afzender,reviewed,both,0.93,0.9,0.95,0.9,1.0,1.0,ok
+Sender Email,E-mail afzender,reviewed,frappe,0.82,0.8,0.8,0.75,0.85,1.0,ok
+Sender Field,Afzenderveld,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Sender Field should have Email in options,Afzenderveld moet E-mail in de opties hebben,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Sender Name,Naam afzender,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Sendgrid,SendGrid,reviewed,frappe,0.98,0.95,1.0,0.95,1.0,1.0,ok
+Sending,Verzenden,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Sends Mails to lead or contact based on a Campaign schedule,Stuurt e-mails naar lead of contact op basis van een campagneschema,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Sensitivity,Gevoeligheid,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Sensitivity Test Result,Gevoeligheidstestresultaat,reviewed,erpnext,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Sent,verzonden,reviewed,both,0.72,0.7,0.75,0.65,0.7,1.0,review
+Sent On,Verzonden op,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Sent or Received,Verzonden of ontvangen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Sent Read Receipt,Verzonden Leesbevestiging,reviewed,frappe,,,,,,,
 Sent To,Verzenden Naar,reviewed,erpnext,,,,,,,
 Sent/Received Email,Verzonden / ontvangen e-mail,reviewed,frappe,,,,,,,

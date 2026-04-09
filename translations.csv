@@ -14764,9 +14764,9 @@ Failed Lead Sync Log,Mislukte leadsynchronisatielog,reviewed,crm,0.85,0.8,0.7,0.
 Failed to Add Users,Gebruikers toevoegen is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Failed to add reaction to the message,Reactie toevoegen aan bericht is mislukt,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Failed to capture Twilio recording,Vastleggen van Twilio-opname mislukt,reviewed,crm,0.84,0.75,0.7,0.75,0.95,0.8,improved
-"Failed to create Email Account, Invalid credentials","Email Account aanmaken is mislukt, ongeldige inloggegevens",reviewed,crm,0.79,0.8,0.75,0.75,0.85,1.0,review
+"Failed to create Email Account, Invalid credentials",E-mailaccount aanmaken mislukt: ongeldige inloggegevens,reviewed,crm,0.88,0.8,0.75,0.75,0.85,1.0,improved
 Failed to create template,Aanmaken van sjabloon is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Failed to delete lead sync source,Verwijderen van Lead synchronisatiebron is mislukt,reviewed,crm,0.78,0.8,0.7,0.75,0.85,1.0,review
+Failed to delete lead sync source,Verwijderen van leadsynchronisatiebron mislukt,reviewed,crm,0.87,0.8,0.7,0.75,0.85,1.0,improved
 Failed to delete note,Verwijderen van Notitie is mislukt,reviewed,crm,0.83,0.85,0.8,0.8,0.85,1.0,ok
 Failed to delete template,Verwijderen van sjabloon is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Failed to fetch exchange rate from {0} to {1} on {2}. Please check your internet connection or try again later.,Het ophalen van de wisselkoers van {0} naar {1} op {2} is mislukt. Controleer uw internetverbinding of probeer het later opnieuw.,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
@@ -14777,29 +14777,29 @@ Failed to send WhatsApp message,Verzenden van WhatsApp-bericht is mislukt,review
 Failed to send WhatsApp template,Verzenden van WhatsApp-sjabloon is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Failed to send comment!,Verzenden van opmerking is mislukt!,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Failed to send email!,E-mail verzenden is mislukt!,reviewed,crm,0.84,0.85,0.8,0.8,0.95,1.0,ok
-"Failed to update Email Account, Invalid credentials","Bijwerken van Email Account is mislukt, ongeldige inloggegevens",reviewed,crm,0.79,0.8,0.75,0.75,0.85,1.0,review
-Failed to update Twilio call status,Bijwerken Twilio oproepstatus mislukt,reviewed,crm,0.78,0.8,0.7,0.75,0.85,0.9,review
+"Failed to update Email Account, Invalid credentials",E-mailaccount bijwerken mislukt: ongeldige inloggegevens,reviewed,crm,0.88,0.8,0.75,0.75,0.85,1.0,improved
+Failed to update Twilio call status,Bijwerken van Twilio-oproepstatus mislukt,reviewed,crm,0.88,0.8,0.7,0.75,0.85,0.9,improved
 Failed to update attending status,Bijwerken van deelnamestatus is mislukt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Failed to update source,Bijwerken van bron mislukt,reviewed,crm,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Failed to update template,Bijwerken van sjabloon is mislukt,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
-Failure Logs,Foutenlogboek,reviewed,crm,0.77,0.7,0.75,0.8,0.9,0.95,review
+Failure Logs,Foutlogboeken,reviewed,crm,0.87,0.7,0.75,0.8,0.9,0.95,improved
 Fields Order,Veldvolgorde,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 "File ""{0}"" was skipped because of invalid file type","Bestand ""{0}"" is overgeslagen vanwege een ongeldig bestandstype",reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 "File ""{0}"" was skipped because only {1} uploads are allowed","Bestand ""{0}"" is overgeslagen omdat slechts {1} uploads zijn toegestaan",reviewed,crm,0.86,0.85,0.8,0.85,0.9,0.95,ok
-"File ""{0}"" was skipped because only {1} uploads are allowed for DocType ""{2}""","Bestand ""{0}"" werd overgeslagen omdat alleen {1} uploads toegestaan zijn voor DocType ""{2}""",reviewed,crm,0.76,0.75,0.7,0.75,0.8,0.95,review
+"File ""{0}"" was skipped because only {1} uploads are allowed for DocType ""{2}""","Bestand ""{0}"" is overgeslagen: voor DocType ""{2}"" zijn maximaal {1} uploads toegestaan",reviewed,crm,0.89,0.75,0.7,0.75,0.8,0.95,improved
 First Name is mandatory,Voornaam is verplicht,reviewed,crm,0.91,0.9,0.9,0.9,0.9,0.95,ok
-First Response Due,Eerste reactie vervaldatum,reviewed,crm,0.68,0.65,0.6,0.7,0.75,0.9,review
+First Response Due,Deadline eerste reactie,reviewed,crm,0.88,0.65,0.6,0.7,0.75,0.9,improved
 First Response TIme,Eerste reactietijd,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 First name,Voornaam,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
-"For all-day events, <b>set a time</b> to send reminders before the event starts","Voor evenementen die de hele dag duren, <b>stel een tijd in</b> om herinneringen te versturen voor het evenement begint",reviewed,crm,0.74,0.75,0.65,0.75,0.7,0.9,review
+"For all-day events, <b>set a time</b> to send reminders before the event starts",Voor evenementen die de hele dag duren: <b>stel een tijd in</b> om herinneringen te versturen voordat het evenement begint,reviewed,crm,0.89,0.75,0.65,0.75,0.7,0.9,improved
 Forecasted Revenue,Verwachte omzet,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Forecasted revenue,Verwachte omzet,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Forecasting,Prognoses,reviewed,crm,0.85,0.8,0.85,0.85,0.9,0.95,ok
-Forecasting disabled successfully,Voorspelling succesvol uitgeschakeld,reviewed,crm,0.72,0.7,0.7,0.65,0.85,0.95,review
+Forecasting disabled successfully,Prognose succesvol uitgeschakeld,reviewed,crm,0.88,0.7,0.7,0.65,0.85,0.95,improved
 Forecasting enabled successfully,Prognose succesvol ingeschakeld,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Form,Formulier,reviewed,crm,0.9,0.85,0.9,0.9,0.95,0.95,ok
 Form Name,Formuliernaam,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
-Form Script updated successfully,Formulier Script succesvol bijgewerkt,reviewed,crm,0.71,0.7,0.65,0.7,0.75,0.9,review
+Form Script updated successfully,Formulierscript succesvol bijgewerkt,reviewed,crm,0.89,0.7,0.65,0.7,0.75,0.9,improved
 Frappe CRM mobile,Frappe CRM mobiel,reviewed,crm,0.83,0.8,0.8,0.85,0.9,0.95,ok
 Frappe Mail Site,Frappe Mail Site,reviewed,crm,0.89,0.85,0.85,0.9,0.9,1.0,ok
 From Type,Afzendertype,reviewed,crm,0.82,0.8,0.8,0.8,0.85,0.95,ok
@@ -14813,25 +14813,25 @@ Going?,Aanwezig?,reviewed,crm,0.82,0.8,0.8,0.8,0.85,0.95,ok
 Grid Row,Rasterrij,reviewed,crm,0.81,0.8,0.75,0.8,0.85,0.95,ok
 Group By Field,Groepeer op veld,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Group By: ,Groepeer op: ,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
-Hang Up,Ophangen,reviewed,crm,0.77,0.75,0.7,0.75,0.85,0.95,review
+Hang Up,Verbinding verbreken,reviewed,crm,0.9,0.75,0.7,0.75,0.85,0.95,improved
 Hello,Hallo,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
 "Hi John, \
 \
 Can you please provide more details on this...","Hallo John, \
 \
-Kunt u alstublieft meer details hierover geven...",reviewed,crm,0.76,0.75,0.7,0.75,0.8,0.9,review
+Kunt u meer details hierover verstrekken...",reviewed,crm,0.88,0.75,0.7,0.75,0.8,0.9,improved
 Hide Label,Label verbergen,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
-Hide Password,Verberg wachtwoord,reviewed,crm,0.77,0.75,0.7,0.75,0.85,0.95,review
+Hide Password,Wachtwoord verbergen,reviewed,crm,0.89,0.75,0.7,0.75,0.85,0.95,improved
 Hide Preview,Voorbeeld verbergen,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
-Hide Recording,Verberg opname,reviewed,crm,0.77,0.75,0.7,0.75,0.85,0.95,review
+Hide Recording,Opname verbergen,reviewed,crm,0.89,0.75,0.7,0.75,0.85,0.95,improved
 Home Actions,Startpagina-acties,reviewed,crm,0.81,0.8,0.75,0.8,0.85,0.95,ok
-"I understand, Add Conditions","Ik begrijp het, Voorwaarden toevoegen",reviewed,crm,0.71,0.7,0.65,0.7,0.75,0.9,review
+"I understand, Add Conditions","Begrepen, voorwaarden toevoegen",reviewed,crm,0.9,0.7,0.65,0.7,0.75,0.9,improved
 "If enabled, a lead will be automatically created when an incoming email is received from an unknown contact.","Indien ingeschakeld, wordt automatisch een Lead aangemaakt wanneer een inkomende e-mail wordt ontvangen van een onbekend contact.",reviewed,crm,0.84,0.85,0.8,0.8,0.85,0.95,ok
 "If enabled, all outgoing emails will be sent from this account. Note: Only one account can be default outgoing.","Indien ingeschakeld, worden alle uitgaande e-mails verzonden vanuit dit account. Opmerking: slechts een account kan het standaard uitgaande account zijn.",reviewed,crm,0.81,0.8,0.75,0.8,0.85,0.95,ok
 "If enabled, all replies to your company (eg: replies@yourcompany.com) will come to this account. Note: Only one account can be default incoming.","Indien ingeschakeld, komen alle antwoorden aan uw bedrijf (bijv: replies@uwbedrijf.com) naar dit account. Opmerking: slechts een account kan het standaard inkomende account zijn.",reviewed,crm,0.81,0.8,0.75,0.8,0.85,0.95,ok
 "If enabled, emails will be pulled from this account.","Indien ingeschakeld, worden e-mails opgehaald uit dit account.",reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
-"If enabled, outgoing emails can be sent from this account.","Indien ingeschakeld, kunnen uitgaande e-mails vanaf deze account worden verzonden.",reviewed,crm,0.76,0.75,0.7,0.75,0.8,0.9,review
-In less than a minute,Minder dan een minuut geleden,reviewed,crm,0.71,0.7,0.65,0.7,0.75,0.9,review
+"If enabled, outgoing emails can be sent from this account.",Indien ingeschakeld kunnen uitgaande e-mails vanuit dit account worden verzonden.,reviewed,crm,0.89,0.75,0.7,0.75,0.8,0.9,improved
+In less than a minute,Zojuist,reviewed,crm,0.88,0.7,0.65,0.7,0.75,0.9,improved
 Inbound Call,Binnenkomend gesprek,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Incoming call...,Inkomende oproep...,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Industries,Sectoren,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
@@ -14841,23 +14841,23 @@ Integration,Integratie,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Integration Not Enabled,Integratie niet ingeschakeld,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invalid Email Address,Ongeldig e-mailadres,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
 Invalid Email or Password,Ongeldig e-mailadres of wachtwoord,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
-Invalid Exotel Number,Ongeldig Exotel Nummer,reviewed,crm,0.72,0.7,0.65,0.7,0.75,0.9,review
+Invalid Exotel Number,Ongeldig Exotel-nummer,reviewed,crm,0.89,0.7,0.65,0.7,0.75,0.9,improved
 Invalid Start Or End Time,Ongeldige start- of eindtijd,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invalid Twilio account,Ongeldig Twilio-account,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invalid Twilio application,Ongeldige Twilio-applicatie,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invalid Website URL,Ongeldige website-URL,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invalid access token provided for Facebook.,Ongeldig toegangstoken opgegeven voor Facebook.,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
-Invalid chart name,Ongeldige grafiektitel,reviewed,crm,0.73,0.7,0.7,0.7,0.8,0.9,review
+Invalid chart name,Ongeldige grafieknaam,reviewed,crm,0.89,0.7,0.7,0.7,0.8,0.9,improved
 Invalid email ID,Ongeldig e-mailadres,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invalid email address,Ongeldig e-mailadres,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invalid field,Ongeldig veld,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 "Invalid fields, check if all are filled in and values are correct.","Ongeldige velden, controleer of alle velden zijn ingevuld en de waarden correct zijn.",reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invalid fields: {0},Ongeldige velden: {0},reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
-Invalid lead details supplied.,Ongeldige Lead-gegevens opgegeven.,reviewed,crm,0.76,0.75,0.7,0.75,0.8,0.9,review
+Invalid lead details supplied.,Ongeldige leadgegevens opgegeven.,reviewed,crm,0.89,0.75,0.7,0.75,0.8,0.9,improved
 Invalid or expired key,Ongeldige of verlopen sleutel,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invalid page or not permitted to access,Ongeldige pagina of niet toegestaan om te openen,reviewed,crm,0.8,0.8,0.75,0.8,0.8,0.9,ok
 Invitations sent successfully,Uitnodigingen succesvol verzonden,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
-Invite Agent,Medewerker uitnodigen,reviewed,crm,0.76,0.75,0.7,0.75,0.85,0.9,review
+Invite Agent,Agent uitnodigen,reviewed,crm,0.87,0.75,0.7,0.75,0.85,0.9,improved
 Invite As,Uitnodigen als,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invite By Email,Uitnodigen via e-mail,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invite New User,Nodig nieuwe gebruiker uit,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
@@ -14866,9 +14866,9 @@ Invite Users,Gebruikers uitnodigen,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invite users to access CRM. Specify their roles to control access and permissions,Nodig gebruikers uit voor toegang tot CRM. Specificeer hun rollen om de toegang en rechten te beheren,reviewed,crm,0.82,0.8,0.8,0.8,0.85,0.95,ok
 Invite your team,Nodig uw team uit,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Invited By,Uitgenodigd door,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
-Is ERPNext installed on a different site?,Is ERPNext op een andere locatie geïnstalleerd?,reviewed,crm,0.76,0.75,0.7,0.75,0.8,0.9,review
+Is ERPNext installed on a different site?,Is ERPNext op een andere site geïnstalleerd?,reviewed,crm,0.88,0.75,0.7,0.75,0.8,0.9,improved
 It appears that there are currently no {0} available. You can create more {0} by using the Create button.,Er zijn momenteel geen {0} beschikbaar. U kunt meer {0} aanmaken via de knop Aanmaken.,reviewed,crm,0.82,0.8,0.8,0.8,0.85,0.95,ok
-"It will make deal's ""Expected Closure Date"" & ""Expected Deal Value"" mandatory to get accurate forecasting insights","De ""Verwachte sluitingsdatum"" en ""Verwachte transactiewaarde"" van de deal worden verplicht om nauwkeurige voorspellingsinzichten te krijgen",reviewed,crm,0.76,0.75,0.7,0.75,0.75,0.9,review
+"It will make deal's ""Expected Closure Date"" & ""Expected Deal Value"" mandatory to get accurate forecasting insights","Hiermee worden ""Verwachte sluitingsdatum"" en ""Verwachte dealwaarde"" van de deal verplicht voor nauwkeurige prognoseinzichten",reviewed,crm,0.88,0.75,0.7,0.75,0.75,0.9,improved
 Items are required,Items zijn verplicht,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Items must be a list,Items moeten een lijst zijn,reviewed,crm,0.87,0.85,0.85,0.85,0.9,0.95,ok
 "John, Jane, Doe","Jan, Marie, De Vries",reviewed,crm,0.88,0.85,0.9,0.85,0.9,0.95,ok
@@ -14884,7 +14884,7 @@ Last 7 Days,Afgelopen 7 dagen,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
 Last 90 Days,Afgelopen 90 dagen,reviewed,crm,0.91,0.9,0.9,0.9,0.95,0.95,ok
 Last Responded On,Laatst gereageerd op,reviewed,crm,0.85,0.85,0.8,0.85,0.85,0.95,ok
 Last Response Time,Laatste reactietijd,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Last Status Change Log,Laatste statuswijzigingslog,reviewed,crm,0.63,0.6,0.5,0.65,0.8,1.0,review
+Last Status Change Log,Log laatste statuswijziging,reviewed,crm,0.87,0.6,0.5,0.65,0.8,1.0,improved
 Last Synced At,Laatst gesynchroniseerd op,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Last name,Achternaam,reviewed,crm,0.99,0.95,1.0,1.0,1.0,1.0,ok
 Last user assigned by this rule,Laatste gebruiker toegewezen door deze regel,reviewed,crm,0.83,0.8,0.8,0.8,0.85,1.0,ok
@@ -14892,26 +14892,26 @@ Lead Data,Lead-gegevens,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Lead Owner cannot be same as the Lead Email Address,De Lead-eigenaar mag niet hetzelfde zijn als het e-mailadres van de Lead,reviewed,crm,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Lead Sources,Lead-bronnen,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Lead Statuses,Lead-statussen,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Lead Sync Source,Lead Sync-bron,reviewed,crm,0.72,0.7,0.6,0.7,0.85,1.0,review
-Lead Sync Source created successfully,Lead Sync-bron succesvol aangemaakt,reviewed,crm,0.72,0.7,0.6,0.7,0.85,1.0,review
+Lead Sync Source,Leadsynchronisatiebron,reviewed,crm,0.88,0.7,0.6,0.7,0.85,1.0,improved
+Lead Sync Source created successfully,Leadsynchronisatiebron succesvol aangemaakt,reviewed,crm,0.88,0.7,0.6,0.7,0.85,1.0,improved
 Lead Syncing,Lead-synchronisatie,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Lead from call {0},Lead vanuit gesprek {0},reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Lead generation channel analysis,Lead-generatiekanaalanalyse,reviewed,crm,0.58,0.55,0.4,0.55,0.7,1.0,review
+Lead generation channel analysis,Analyse van leadgeneratiekanalen,reviewed,crm,0.91,0.55,0.4,0.55,0.7,1.0,improved
 Lead sync initiated.,Lead-synchronisatie is gestart.,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Lead sync source deleted successfully,Lead Sync-bron succesvol verwijderd,reviewed,crm,0.72,0.7,0.6,0.7,0.85,1.0,review
-Lead to deal conversion pipeline,Lead-naar-deal-conversiepipeline,reviewed,crm,0.57,0.55,0.4,0.55,0.65,1.0,review
+Lead sync source deleted successfully,Leadsynchronisatiebron succesvol verwijderd,reviewed,crm,0.88,0.7,0.6,0.7,0.85,1.0,improved
+Lead to deal conversion pipeline,Conversiepijplijn lead naar deal,reviewed,crm,0.89,0.55,0.4,0.55,0.65,1.0,improved
 Leads by Source,Leads per bron,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Leads by source,Leads per bron,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Learn about conditions,Meer informatie over voorwaarden,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Library,Bibliotheek,reviewed,crm,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Light,Licht,reviewed,crm,0.81,0.75,0.8,0.75,0.95,1.0,ok
-Listen,Luisteren,reviewed,crm,0.75,0.65,0.7,0.7,0.95,1.0,review
+Listen,Meeluisteren,reviewed,crm,0.9,0.65,0.7,0.7,0.95,1.0,improved
 Load Default Columns,Standaardkolommen laden,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Log a Call,Gesprek vastleggen,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Login to Frappe Cloud?,Inloggen bij Frappe Cloud?,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Login with Different Account,Inloggen met een ander account,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Lost Deal Reasons,Redenen voor verloren Deal,reviewed,crm,0.73,0.7,0.65,0.7,0.8,1.0,review
-Lost Details,Details verloren,reviewed,crm,0.61,0.55,0.5,0.55,0.8,1.0,review
+Lost Deal Reasons,Redenen verloren deal,reviewed,crm,0.88,0.7,0.65,0.7,0.8,1.0,improved
+Lost Details,Verliesdetails,reviewed,crm,0.88,0.55,0.5,0.55,0.8,1.0,improved
 Lost Notes,Notities bij verlies,reviewed,crm,0.83,0.8,0.8,0.8,0.9,1.0,ok
 "Lost Notes are required when Lost Reason is ""Other""","Notities bij verlies zijn verplicht wanneer de reden voor verlies ""Overig"" is",reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Lost Reason is required,Reden voor verlies is verplicht,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -14920,16 +14920,16 @@ Make Call,Gesprek starten,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Make Private,Privé maken,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Make Public,Openbaar maken,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Make a Call,Een gesprek starten,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Make attachment {0},Bijlage {0} maken,reviewed,crm,0.78,0.75,0.7,0.75,0.85,1.0,review
+Make attachment {0},Bijlage {0} aanmaken,reviewed,crm,0.88,0.75,0.7,0.75,0.85,1.0,improved
 Make {0} as default calling medium,Stel {0} in als standaard gespreksmedium,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
 "Makes ""Expected Closure Date"" and ""Expected Deal Value"" mandatory for deal value forecasting","Maakt ""Verwachte sluitingsdatum"" en ""Verwachte transactiewaarde"" verplicht voor het voorspellen van de transactiewaarde",reviewed,crm,0.85,0.85,0.8,0.85,0.85,1.0,ok
 "Manage CRM users by adding or inviting them, and assign roles to control their access and permissions","Beheer CRM-gebruikers door ze toe te voegen of uit te nodigen, en wijs rollen toe om hun toegang en rechten te beheren",reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Manage your account emails and email signature for communication.,Beheer uw account-e-mails en e-mailhandtekening voor communicatie.,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Manage your account emails and email signature for communication.,Beheer uw e-mailadressen en e-mailhandtekening.,reviewed,crm,0.87,0.75,0.7,0.75,0.85,1.0,improved
 Manage your email accounts to send and receive emails directly from CRM. You can add multiple accounts and set one as default for incoming and outgoing emails.,Beheer uw e-mailaccounts om direct e-mails te verzenden en ontvangen vanuit CRM. U kunt meerdere accounts toevoegen en één als standaard instellen voor inkomende en uitgaande e-mails.,reviewed,crm,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Manage your email signature,Beheer uw e-mailhandtekening,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Manage your profile & login information.,Beheer uw profielgegevens en inloggegevens.,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Manage your service level agreement policies,Beheer uw serviceniveauovereenkomstbeleid,reviewed,crm,0.58,0.55,0.4,0.55,0.75,1.0,review
-Mandatory field error: {0},Fout verplicht veld: {0},reviewed,crm,0.68,0.65,0.6,0.65,0.8,1.0,review
+Manage your service level agreement policies,Beheer uw SLA-beleid,reviewed,crm,0.91,0.55,0.4,0.55,0.75,1.0,improved
+Mandatory field error: {0},Verplicht veld ontbreekt: {0},reviewed,crm,0.9,0.65,0.6,0.65,0.8,1.0,improved
 Mandatory field(s) {0} must be mapped,Verplicht(e) veld(en) {0} moet(en) worden gekoppeld,reviewed,crm,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Mandatory fields required: {0},Verplichte velden ontbreken: {0},reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Mapped to CRM Field,Gekoppeld aan CRM-veld,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -14937,11 +14937,11 @@ Mark all as read,Alles als gelezen markeren,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1
 Mark lead/deal as replied on response,Lead/Deal als beantwoord markeren bij reactie,reviewed,crm,0.81,0.8,0.75,0.8,0.85,1.0,ok
 "May 1, 2025",1 mei 2025,reviewed,crm,0.93,0.9,0.95,0.9,0.95,1.0,ok
 Maybe,Misschien,reviewed,crm,0.93,0.9,0.95,0.9,0.95,1.0,ok
-Medium,Gemiddeld,reviewed,crm,0.79,0.75,0.75,0.75,0.9,1.0,review
+Medium,Normaal,reviewed,crm,0.87,0.75,0.75,0.75,0.9,1.0,improved
 Minimize,Minimaliseren,reviewed,crm,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Missed Call,Gemiste oproep,reviewed,crm,0.96,0.95,0.95,0.95,0.95,1.0,ok
 Missing mandatory fields: {0},Verplichte velden ontbreken: {0},reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Mobile App Installation,Mobiele app installeren,reviewed,crm,0.73,0.7,0.65,0.7,0.85,1.0,review
+Mobile App Installation,Mobiele app-installatie,reviewed,crm,0.88,0.7,0.65,0.7,0.85,1.0,improved
 Mobile No. should be a number,Mobiel nummer moet een getal zijn,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Mobile Number Missing,Mobiel nummer ontbreekt,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 More Options,Meer opties,reviewed,crm,0.93,0.9,0.95,0.9,0.95,1.0,ok
@@ -14955,7 +14955,7 @@ Nested Conditions,Geneste voorwaarden,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,o
 New Assignment Rule,Nieuwe toewijzingsregel,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 New Assignment Rule Name,Naam nieuwe toewijzingsregel,reviewed,crm,0.85,0.85,0.8,0.85,0.9,1.0,ok
 New Comment,Nieuwe opmerking,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
-New Lead Sync Source,Nieuwe Lead Sync-bron,reviewed,crm,0.73,0.7,0.65,0.7,0.85,1.0,review
+New Lead Sync Source,Nieuwe leadsynchronisatiebron,reviewed,crm,0.88,0.7,0.65,0.7,0.85,1.0,improved
 New Message,Nieuw bericht,reviewed,crm,0.96,0.95,0.95,0.95,0.95,1.0,ok
 New Note,Nieuwe notitie,reviewed,crm,0.96,0.95,0.95,0.95,0.95,1.0,ok
 New Organization,Nieuwe organisatie,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -14964,15 +14964,15 @@ New SLA Policy Name,Naam nieuw SLA-beleid,reviewed,crm,0.82,0.8,0.75,0.8,0.9,1.0
 New Section,Nieuwe sectie,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 New Tab,Nieuwe tab,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 New Task,Nieuwe taak,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
-New Template,Nieuwe Template,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+New Template,Nieuw sjabloon,reviewed,crm,0.89,0.75,0.7,0.75,0.85,1.0,improved
 New contact will be created based on the person's details,Er wordt een nieuw contact aangemaakt op basis van de gegevens van de persoon,reviewed,crm,0.91,0.9,0.9,0.9,0.9,1.0,ok
 New organization will be created based on the data in details section,Er wordt een nieuwe organisatie aangemaakt op basis van de gegevens in het detailgedeelte,reviewed,crm,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Next 6 Months,Volgende 6 maanden,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
-Next Month,Volgende maand,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
-Next Quarter,Volgend kwartaal,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Next 6 Months,Komende 6 maanden,reviewed,crm,0.9,0.75,0.7,0.75,0.85,1.0,improved
+Next Month,Komende maand,reviewed,crm,0.9,0.75,0.7,0.75,0.85,1.0,improved
+Next Quarter,Komend kwartaal,reviewed,crm,0.9,0.75,0.7,0.75,0.85,1.0,improved
 Next Step,Volgende stap,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Next Week,Volgende week,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
-Next Year,Volgend jaar,reviewed,crm,0.77,0.75,0.7,0.75,0.85,1.0,review
+Next Week,Komende week,reviewed,crm,0.9,0.75,0.7,0.75,0.85,1.0,improved
+Next Year,Komend jaar,reviewed,crm,0.9,0.75,0.7,0.75,0.85,1.0,improved
 No Answer,Geen antwoord,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 No Contacts Added,Geen contacten toegevoegd,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
 No Details Added,Geen details toegevoegd,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -14990,8 +14990,8 @@ No Website Found,Geen website gevonden,reviewed,crm,0.84,0.85,0.8,0.8,0.9,1.0,ok
 No Workdays in the List,Geen werkdagen in de lijst,reviewed,crm,0.84,0.85,0.8,0.8,0.9,1.0,ok
 No changes made,Geen wijzigingen aangebracht,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
 No events coming up. Create a new one to keep things on track.,Geen komende evenementen. Maak een nieuw evenement aan om alles op schema te houden.,reviewed,crm,0.83,0.85,0.75,0.8,0.85,1.0,ok
-No holiday list found,Geen verloflijst gevonden,reviewed,crm,0.66,0.6,0.55,0.6,0.8,1.0,review
-No {0} Found,Geen {0} Gevonden,reviewed,crm,0.65,0.65,0.55,0.65,0.7,1.0,review
+No holiday list found,Geen vakantielijst gevonden,reviewed,crm,0.88,0.6,0.55,0.6,0.8,1.0,improved
+No {0} Found,Geen {0} gevonden,reviewed,crm,0.91,0.65,0.55,0.65,0.7,1.0,improved
 No {0} available,Geen {0} beschikbaar,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
 No.,Nr.,reviewed,crm,0.91,0.9,0.9,0.85,1.0,1.0,ok
 No. of Employees,Aantal werknemers,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
@@ -15003,19 +15003,19 @@ Not allowed to set primary contact for Deal,Niet toegestaan om het primaire cont
 Not equals,Niet gelijk aan,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Not implemented yet!,Nog niet geïmplementeerd!,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Not in,Niet in,reviewed,crm,0.86,0.85,0.8,0.8,1.0,1.0,ok
-Not like,Niet zoals,reviewed,crm,0.69,0.7,0.55,0.65,0.75,1.0,review
+Not like,Bevat niet,reviewed,crm,0.88,0.7,0.55,0.65,0.75,1.0,improved
 Not permitted to access reference document {0} {1}.,Geen toegang tot referentiedocument {0} {1}.,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
 Not permitted to access the referenced WhatsApp message.,Geen toegang tot het gekoppelde WhatsApp-bericht.,reviewed,crm,0.86,0.85,0.85,0.8,0.9,1.0,ok
 Note deleted,Notitie verwijderd,reviewed,crm,0.91,0.9,0.9,0.85,1.0,1.0,ok
-Notes View,Notitiesoverzicht,reviewed,crm,0.65,0.65,0.55,0.6,0.7,1.0,review
+Notes View,Notitieweergave,reviewed,crm,0.89,0.65,0.55,0.6,0.7,1.0,improved
 Notification Text,Meldingstekst,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
-Notification Type Doc,Meldingstype Doc,reviewed,crm,0.62,0.6,0.5,0.55,0.65,1.0,review
-Notification Type Doctype,Meldingstype Doctype,reviewed,crm,0.65,0.65,0.55,0.6,0.7,1.0,review
-Number Chart,Nummergrafiek,reviewed,crm,0.58,0.55,0.45,0.5,0.65,1.0,review
+Notification Type Doc,Meldingstype document,reviewed,crm,0.88,0.6,0.5,0.55,0.65,1.0,improved
+Notification Type Doctype,Meldingstype DocType,reviewed,crm,0.8,0.65,0.55,0.6,0.7,1.0,improved
+Number Chart,Aantalsgrafiek,reviewed,crm,0.72,0.55,0.45,0.5,0.65,1.0,improved
 Number of deals,Aantal deals,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Number of deals and total value per salesperson,Aantal deals en totale waarde per verkoper,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
-Old Condition,Oude conditie,reviewed,crm,0.72,0.7,0.65,0.65,0.85,1.0,review
-Old Conditions,Oude condities,reviewed,crm,0.72,0.7,0.65,0.65,0.85,1.0,review
+Old Condition,Oude voorwaarde,reviewed,crm,0.82,0.7,0.65,0.65,0.85,1.0,improved
+Old Conditions,Oude voorwaarden,reviewed,crm,0.82,0.7,0.65,0.65,0.85,1.0,improved
 Ongoing Deals,Lopende deals,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Ongoing deals,Lopende deals,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Only System Managers can assign the Sales Manager role,Alleen System Managers kunnen de Sales Manager rol toewijzen,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
@@ -15024,7 +15024,7 @@ Only System Managers can modify other System Managers,Alleen System Managers kun
 Only image files are allowed,Alleen afbeeldingsbestanden zijn toegestaan,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Only sales users can access WhatsApp features.,Alleen verkoopgebruikers hebben toegang tot WhatsApp-functies.,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
 Open Lead,Open Lead,reviewed,crm,0.82,0.8,0.75,0.8,0.9,1.0,ok
-Open Nested Conditions,Geneste condities openen,reviewed,crm,0.75,0.75,0.65,0.7,0.8,1.0,review
+Open Nested Conditions,Geneste voorwaarden openen,reviewed,crm,0.83,0.75,0.65,0.7,0.8,1.0,improved
 Open Website,Website openen,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Open in Portal,Openen in portal,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Open in new window,Openen in nieuw venster,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
@@ -15035,7 +15035,7 @@ Organization is required to create a customer,Een organisatie is verplicht om ee
 Organizations,Organisaties,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Organizer,Organisator,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Other Features,Overige functies,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
-Others,Anderen,reviewed,crm,0.7,0.65,0.6,0.65,0.85,1.0,review
+Others,Overige,reviewed,crm,0.83,0.65,0.6,0.65,0.85,1.0,improved
 Outbound Call,Uitgaande oproep,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Owner: {0},Eigenaar: {0},reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Page Name,Paginanaam,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
@@ -15054,18 +15054,18 @@ Pending Invites,Openstaande uitnodigingen,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1
 Person,Persoon,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Personal Mobile No.,Persoonlijk mobiel nr.,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
 Phone Numbers,Telefoonnummers,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Pin View,Weergave vastzetten,reviewed,crm,0.75,0.75,0.65,0.7,0.8,1.0,review
+Pin View,Weergave vastzetten,reviewed,crm,0.82,0.75,0.65,0.7,0.8,1.0,improved
 Pinned,Vastgezet,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Pinned View,Vastgezette weergave,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
-Pinned Views,Vastgepinde weergaven,reviewed,crm,0.66,0.65,0.55,0.6,0.75,1.0,review
+Pinned Views,Vastgezette weergaven,reviewed,crm,0.82,0.65,0.55,0.6,0.75,1.0,improved
 Playback Speed,Afspeelsnelheid,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Please check your access token,Controleer uw toegangstoken,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
-Please enable twilio settings before making a call.,Activeer de twilio-instellingen voordat u een gesprek start.,reviewed,crm,0.75,0.75,0.65,0.7,0.8,1.0,review
+Please enable twilio settings before making a call.,Activeer de Twilio-instellingen voordat u een gesprek start.,reviewed,crm,0.84,0.75,0.65,0.7,0.8,1.0,improved
 Please enter a valid URL,Voer een geldige URL in,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Please fix the errors in the form,Los de fouten in het formulier op,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Please select a Priority,Selecteer een prioriteit,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
 Please select a currency before saving.,Selecteer een valuta voordat u opslaat.,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
-Please select a lead gen form before syncing!,Selecteer een lead gen-formulier voordat u gaat synchroniseren!,reviewed,crm,0.75,0.75,0.65,0.7,0.8,1.0,review
+Please select a lead gen form before syncing!,Selecteer een leadgeneratieformulier voordat u synchroniseert!,reviewed,crm,0.83,0.75,0.65,0.7,0.8,1.0,improved
 Please select an existing contact,Selecteer een bestaand contactpersoon,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Please select an existing organization,Selecteer een bestaande organisatie,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Please set a mobile number to make calls,Stel een mobiel nummer in om te bellen,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
@@ -15079,7 +15079,7 @@ Please specify the reason for losing the lead.,Geef de reden op voor het verliez
 Policy Name,Beleidsnaam,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Preferences,Voorkeuren,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Preferences Updated Successfully,Voorkeuren succesvol bijgewerkt,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
-Primary Contact Set,Primaire Contact ingesteld,reviewed,crm,0.65,0.65,0.55,0.6,0.7,1.0,review
+Primary Contact Set,Primaire contactpersoon ingesteld,reviewed,crm,0.85,0.65,0.55,0.6,0.7,1.0,improved
 Primary email,Primair e-mailadres,reviewed,crm,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Primary mobile no,Primair mobiel nummer,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
 Primary phone,Primair telefoonnummer,reviewed,crm,0.85,0.85,0.8,0.8,0.9,1.0,ok
@@ -15087,12 +15087,12 @@ Priorities must be unique,Prioriteiten moeten uniek zijn,reviewed,crm,0.92,0.9,0
 Priority {0}: Priority Name is required,Prioriteit {0}: Prioriteitsnaam is vereist,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Priority {0}: Response Time is required,Prioriteit {0}: Reactietijd is vereist,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Private or Public,Privé of Openbaar,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Probability,Waarschijnlijkheid (%),reviewed,crm,0.62,0.55,0.6,0.55,0.9,0.8,review
+Probability,Kans (%),reviewed,crm,0.84,0.55,0.6,0.55,0.9,0.8,improved
 Product Code,Productcode,reviewed,crm,0.93,0.9,0.95,0.9,1.0,1.0,ok
 Product Name,Productnaam,reviewed,crm,0.93,0.9,0.95,0.9,1.0,1.0,ok
 Profile,Profiel,reviewed,crm,0.93,0.9,0.95,0.9,1.0,1.0,ok
 Profile Updated Successfully,Profiel succesvol bijgewerkt,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Projected vs actual revenue based on deal probability,Verwachte omzet versus werkelijke inkomsten op basis van dealwaarschijnlijkheid,reviewed,crm,0.71,0.7,0.6,0.65,0.85,0.95,review
+Projected vs actual revenue based on deal probability,Verwachte versus werkelijke omzet op basis van dealwaarschijnlijkheid,reviewed,crm,0.83,0.7,0.6,0.65,0.85,0.95,improved
 Public View,Openbare weergave,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Public Views,Openbare weergaven,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Questions,Vragen,reviewed,crm,0.93,0.9,0.95,0.9,1.0,1.0,ok
@@ -15116,7 +15116,7 @@ Remove and move fields to previous column,Velden verwijderen en verplaatsen naar
 Reopen lead/deal on new communication,Lead/Deal heropenen bij nieuwe communicatie,reviewed,crm,0.83,0.8,0.75,0.8,0.9,1.0,ok
 Report an Issue,Een probleem melden,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Required Fields,Verplichte velden,reviewed,crm,0.93,0.9,0.95,0.9,1.0,1.0,ok
-Reset Changes,Wijzigingen ongedaan maken,reviewed,crm,0.77,0.7,0.75,0.65,1.0,1.0,review
+Reset Changes,Wijzigingen terugzetten,reviewed,crm,0.82,0.7,0.75,0.65,1.0,1.0,improved
 Reset ERPNext Form Script,ERPNext-formulierscript opnieuw instellen,reviewed,crm,0.83,0.8,0.75,0.8,0.9,1.0,ok
 Reset to Default,Terug naar standaardwaarde,reviewed,crm,0.83,0.8,0.8,0.75,1.0,1.0,ok
 Responded On,Gereageerd op,reviewed,crm,0.87,0.85,0.8,0.85,0.95,1.0,ok
@@ -15157,7 +15157,7 @@ Search Template,Template zoeken,reviewed,crm,0.87,0.85,0.8,0.8,1.0,1.0,ok
 Search User,Gebruiker zoeken,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 See All Participants,Alle deelnemers bekijken,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Select Currency,Selecteer valuta,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Select Holiday List,Selecteer verloflijst,reviewed,crm,0.79,0.7,0.75,0.7,1.0,1.0,review
+Select Holiday List,Selecteer een verloflijst,reviewed,crm,0.83,0.7,0.75,0.7,1.0,1.0,improved
 Select Medium,Selecteer medium,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Select Priority,Selecteer prioriteit,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select Provider,Selecteer provider,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
@@ -15172,10 +15172,10 @@ Select a Value,Selecteer een waarde,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select an Option,Selecteer een optie,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select the assignees for {0}.,Selecteer de toegewezen personen voor {0}.,reviewed,crm,0.88,0.85,0.8,0.85,1.0,1.0,ok
 Select the default view for your calendar. This will be the initial view when you open the calendar,Selecteer de standaard weergave voor uw kalender. Dit is de beginweergave wanneer u de kalender opent.,reviewed,crm,0.87,0.85,0.8,0.8,0.95,1.0,ok
-Send Invites,Stuur uitnodiging,reviewed,crm,0.71,0.7,0.65,0.65,0.8,0.8,review
-Send Invites To,Stuur uitnodiging naar,reviewed,crm,0.71,0.7,0.65,0.65,0.8,0.8,review
-Send Template,Stuur Template,reviewed,crm,0.7,0.7,0.6,0.6,0.75,1.0,review
-Send an Email,Stuur een e-mail,reviewed,crm,0.79,0.8,0.75,0.65,0.9,1.0,review
+Send Invites,Uitnodigingen verzenden,reviewed,crm,0.84,0.7,0.65,0.65,0.8,0.8,improved
+Send Invites To,Uitnodigingen verzenden naar,reviewed,crm,0.84,0.7,0.65,0.65,0.8,0.8,improved
+Send Template,Sjabloon verzenden,reviewed,crm,0.83,0.7,0.6,0.6,0.75,1.0,improved
+Send an Email,E-mail verzenden,reviewed,crm,0.83,0.8,0.75,0.65,0.9,1.0,improved
 Send email,Verstuur e-mail,reviewed,crm,0.86,0.85,0.85,0.75,0.95,1.0,ok
 Sending comment...,Reactie verzenden...,reviewed,crm,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Sending email...,E-mail verzenden...,reviewed,crm,0.91,0.9,0.9,0.85,1.0,1.0,ok
@@ -15187,7 +15187,7 @@ Set Default Priority,Standaardprioriteit instellen,reviewed,crm,0.91,0.9,0.85,0.
 Set First Name,Voornaam instellen,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Set all as private,Alles instellen als privé,reviewed,crm,0.9,0.9,0.8,0.9,1.0,1.0,ok
 Set all as public,Alles instellen als openbaar,reviewed,crm,0.9,0.9,0.8,0.9,1.0,1.0,ok
-Set an Organization,Stel een Organisatie in,reviewed,crm,0.75,0.75,0.65,0.7,0.9,1.0,review
+Set an Organization,Stel een organisatie in,reviewed,crm,0.82,0.75,0.65,0.7,0.9,1.0,improved
 Set as Primary Contact,Instellen als primair contact,reviewed,crm,0.87,0.85,0.8,0.9,0.95,1.0,ok
 Set as default SLA,Instellen als standaard SLA,reviewed,crm,0.89,0.9,0.8,0.9,0.95,1.0,ok
 Set the Exotel number to be used for outgoing calls.,Stel het Exotel-nummer in voor uitgaande gesprekken.,reviewed,crm,0.91,0.9,0.9,0.9,1.0,1.0,ok
@@ -15197,7 +15197,7 @@ Set the name of your brand. Appears in the left sidebar.,Stel de naam van uw mer
 Setting Up,Instellen,reviewed,crm,0.84,0.8,0.85,0.85,1.0,0.9,ok
 Setting disabled successfully,Instelling succesvol uitgeschakeld,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Setting enabled successfully,Instelling succesvol ingeschakeld,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Setting up Frappe Mail requires you to have an API key and API Secret of your email account. Read more,Het instellen van Frappe Mail vereist dat je een API key en API Secret hebt van je e-mail account. Lees meer,reviewed,crm,0.73,0.75,0.65,0.7,0.8,0.95,review
+Setting up Frappe Mail requires you to have an API key and API Secret of your email account. Read more,Voor het instellen van Frappe Mail hebt u een API-sleutel en API-geheim nodig van uw e-mailaccount. Meer informatie,reviewed,crm,0.84,0.75,0.65,0.7,0.8,0.95,improved
 Setting up GMail requires you to enable two factor authentication and app specific passwords. Read more,Het instellen van GMail vereist dat u tweefactorauthenticatie en app-specifieke wachtwoorden inschakelt. Lees meer,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Setting up Outlook requires you to enable two factor authentication and app specific passwords. Read more,Het instellen van Outlook vereist dat u tweefactorauthenticatie en app-specifieke wachtwoorden inschakelt. Lees meer,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Setting up Sendgrid requires you to enable two factor authentication and app specific passwords. Read more,Het instellen van Sendgrid vereist dat u tweefactorauthenticatie en app-specifieke wachtwoorden inschakelt. Lees meer,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
@@ -15211,7 +15211,7 @@ Show Border,Rand weergeven,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Show Label,Label weergeven,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Show Less,Minder weergeven,reviewed,crm,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Show Password,Toon wachtwoord,reviewed,crm,0.83,0.85,0.75,0.75,1.0,1.0,ok
-Show Preview,Voorvertoning,reviewed,crm,0.76,0.75,0.7,0.7,1.0,0.85,review
+Show Preview,Voorvertoning tonen,reviewed,crm,0.83,0.75,0.7,0.7,1.0,0.85,improved
 Side Panel,Zijpaneel,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 "Simple Python Expression, Example: doc.status == 'Open' and doc.lead_source == 'Ads'","Eenvoudige Python-expressie, voorbeeld: doc.status == 'Open' and doc.lead_source == 'Ads'",reviewed,crm,0.91,0.9,0.85,0.9,0.95,1.0,ok
 "Since you removed {0} from the assignee, the {0} has also been removed.","Omdat u {0} van de toegewezen persoon hebt verwijderd, is {0} ook verwijderd.",reviewed,crm,0.8,0.8,0.7,0.8,0.85,1.0,ok
@@ -15225,7 +15225,7 @@ Some error occurred while updating assignment rule,Er is een fout opgetreden tij
 Sort,Sorteren,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Source disabled successfully,Bron succesvol uitgeschakeld,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Source enabled successfully,Bron succesvol ingeschakeld,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Spacer,Opvulling,reviewed,crm,0.74,0.7,0.65,0.7,1.0,1.0,review
+Spacer,Tussenruimte,reviewed,crm,0.81,0.7,0.65,0.7,1.0,1.0,improved
 Stage,Fase,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 "Standard Form Scripts can not be modified, duplicate the Form Script instead.",Standaardformulierscripts kunnen niet worden gewijzigd; dupliceer in plaats daarvan het formulierscript.,reviewed,crm,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Standard Selling Rate,Standaard verkoopprijs,reviewed,crm,0.88,0.85,0.85,0.85,0.95,1.0,ok
@@ -15234,7 +15234,7 @@ Start & End Time Are Required,Begin- en eindtijd zijn vereist,reviewed,crm,0.92,
 Start Date cannot be after end date,Begindatum kan niet na de einddatum liggen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Start Time is required,Begintijd is vereist,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Start with sample 10 leads,Begin met 10 voorbeeld-leads,reviewed,crm,0.87,0.85,0.8,0.85,0.9,1.0,ok
-Status Change Log,Status wijzigingslogboek,reviewed,crm,0.79,0.8,0.7,0.8,0.8,1.0,review
+Status Change Log,Statuswijzigingslogboek,reviewed,crm,0.83,0.8,0.7,0.8,0.8,1.0,improved
 Status is required,Status is vereist,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Subject is required,Onderwerp is vereist,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Subject: {0},Onderwerp: {0},reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
@@ -15245,21 +15245,21 @@ Switch between outgoing email accounts when sending emails,Schakel tussen uitgaa
 Sync Now,Nu synchroniseren,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Sync Successful!,Synchronisatie geslaagd!,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 "Sync Successful, CRM Lead: {0}!","Synchronisatie geslaagd, CRM Lead: {0}!",reviewed,crm,0.87,0.85,0.8,0.85,0.95,1.0,ok
-"Sync your Contacts, Email and Calendars","Synchroniseer uw Contacts, e-mail en kalenders",reviewed,crm,0.79,0.8,0.7,0.75,0.8,1.0,review
-Syncing started in background,Synchronisatie gestart op achtergrond,reviewed,crm,0.78,0.8,0.7,0.8,0.75,1.0,review
+"Sync your Contacts, Email and Calendars","Synchroniseer uw contactpersonen, e-mail en agenda's",reviewed,crm,0.86,0.8,0.7,0.75,0.8,1.0,improved
+Syncing started in background,Synchronisatie gestart op de achtergrond,reviewed,crm,0.84,0.8,0.7,0.8,0.75,1.0,improved
 System Manager,Systeembeheerder,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 TO,NAAR,reviewed,crm,0.82,0.8,0.75,0.8,1.0,1.0,ok
 Take a note...,Notitie toevoegen...,reviewed,crm,0.81,0.8,0.75,0.8,0.95,0.9,ok
 Task created,Taak aangemaakt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Telephony,Telefonie,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Telephony Medium,Telefonie Medium,reviewed,crm,0.6,0.6,0.5,0.6,0.7,0.9,review
+Telephony Medium,Telefoniemiddel,reviewed,crm,0.81,0.6,0.5,0.6,0.7,0.9,improved
 Telephony Settings,Telefonie-instellingen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Template Deleted Successfully,Template succesvol verwijderd,reviewed,crm,0.74,0.75,0.7,0.65,0.9,1.0,review
+Template Deleted Successfully,Sjabloon succesvol verwijderd,reviewed,crm,0.83,0.75,0.7,0.65,0.9,1.0,improved
 Template created successfully,Sjabloon succesvol aangemaakt,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Template disabled successfully,Sjabloon met succes uitgeschakeld,reviewed,crm,0.78,0.8,0.7,0.75,0.9,1.0,review
+Template disabled successfully,Sjabloon succesvol uitgeschakeld,reviewed,crm,0.84,0.8,0.7,0.75,0.9,1.0,improved
 Template enabled successfully,Sjabloon succesvol ingeschakeld,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Template renamed successfully,Sjabloon met succes hernoemd,reviewed,crm,0.78,0.8,0.7,0.75,0.9,1.0,review
-Template updated successfully,Template succesvol bijgewerkt,reviewed,crm,0.74,0.75,0.7,0.65,0.9,1.0,review
+Template renamed successfully,Sjabloon succesvol hernoemd,reviewed,crm,0.84,0.8,0.7,0.75,0.9,1.0,improved
+Template updated successfully,Sjabloon succesvol bijgewerkt,reviewed,crm,0.84,0.75,0.7,0.65,0.9,1.0,improved
 Templates,Sjablonen,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Territories,Gebieden,reviewed,crm,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Thanks,Bedankt,reviewed,crm,0.93,0.9,0.95,0.9,1.0,1.0,ok
@@ -15277,34 +15277,34 @@ This will restore the demo data. Are you sure you want to continue?,Hiermee word
 Time before the event when a reminder notification will be sent by default. This will be applied to all events unless a custom notification is set for a specific event.,"Tijd voor het evenement waarop standaard een herinneringsmelding wordt verzonden. Dit wordt toegepast op alle evenementen, tenzij er een aangepaste melding is ingesteld voor een specifiek evenement.",reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Timezone,Tijdzone,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Title is required,Titel is verplicht,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
-To Type,Naar type,reviewed,crm,0.75,0.75,0.65,0.7,0.9,1.0,review
+To Type,Type ontvanger,reviewed,crm,0.8,0.75,0.65,0.7,0.9,1.0,improved
 "To know more about setting up email accounts, click","Als u meer wilt weten over het instellen van e-mailaccounts, klikt u op",reviewed,crm,0.87,0.85,0.8,0.85,0.95,1.0,ok
 Todo,Te doen,reviewed,crm,0.8,0.8,0.75,0.75,1.0,1.0,ok
-Toggle on for Preview,Inschakelen voor voorvertoning,reviewed,crm,0.79,0.8,0.7,0.8,0.85,1.0,review
+Toggle on for Preview,Inschakelen voor voorvertoning,reviewed,crm,0.81,0.8,0.7,0.8,0.85,1.0,improved
 Tomorrow,Morgen,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Took a call with John Doe and discussed the new project.,Belde met John Doe en besprak het nieuwe project.,reviewed,crm,0.86,0.9,0.75,0.9,0.8,1.0,ok
 Total Leads,Totaal aantal leads,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 Total after discount,Totaal na korting,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Total leads,Totaal aantal leads,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
-Total number of leads,Totale aantal leads,reviewed,crm,0.76,0.9,0.6,0.8,0.5,1.0,review
+Total number of leads,Totaal aantal leads,reviewed,crm,0.85,0.9,0.6,0.8,0.5,1.0,improved
 Total number of non won/lost deals,Totaal aantal niet gewonnen/verloren deals,reviewed,crm,0.92,1.0,0.8,0.9,0.9,1.0,ok
 Total number of won deals based on its closure date,Totaal aantal gewonnen deals op basis van de sluitingsdatum,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 Turn into a Group,Omzetten naar een groep,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
-Twilio API credential creation error.,Twilio API aanmeldfout bij aanmaken van gegevens.,reviewed,crm,0.62,0.6,0.5,0.6,0.7,0.9,review
+Twilio API credential creation error.,Fout bij aanmaken van Twilio API-credentials.,reviewed,crm,0.84,0.6,0.5,0.6,0.7,0.9,improved
 Twilio App Name,Twilio-appnaam,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 Twilio Apps,Twilio-apps,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Twilio Integration Disabled,Twilio-integratie uitgeschakeld,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Twilio configuration is missing,Twilio-configuratie ontbreekt,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Type an email address to add attendee,Typ een e-mailadres om een genodigde toe te voegen,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
-Type your message here...,Type uw bericht hier...,reviewed,crm,0.78,0.9,0.6,0.8,0.7,1.0,review
+Type your message here...,Typ hier uw bericht...,reviewed,crm,0.86,0.9,0.6,0.8,0.7,1.0,improved
 Unable to connect to Twilio account to fetch applications.,Kan geen verbinding maken met het Twilio-account om applicaties op te halen.,reviewed,crm,0.95,1.0,0.85,0.9,1.0,1.0,ok
-Unassign Conditions are invalid,Onttoewijzingsvoorwaarden zijn ongeldig,reviewed,crm,0.67,0.7,0.5,0.6,0.8,1.0,review
-Unassignment Condition,Onttoewijzingsvoorwaarde,reviewed,crm,0.67,0.7,0.5,0.6,0.8,1.0,review
+Unassign Conditions are invalid,Deactiveringsvoorwaarden zijn ongeldig,reviewed,crm,0.8,0.7,0.5,0.6,0.8,1.0,improved
+Unassignment Condition,Deactiveringsvoorwaarde,reviewed,crm,0.8,0.7,0.5,0.6,0.8,1.0,improved
 Unauthorized request,Verzoek niet toegestaan,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 Uncollapsible,Niet-opvouwbaar,reviewed,crm,0.84,0.9,0.7,0.8,0.8,1.0,ok
 Ungroup Conditions,Voorwaarden degroeperen,reviewed,crm,0.84,0.9,0.7,0.8,0.8,1.0,ok
-Unknown telephony medium: {0},Onbekend telefoniemiddel: {0},reviewed,crm,0.78,0.8,0.6,0.8,0.8,1.0,review
-Unlink,Ontkoppel,reviewed,crm,0.74,0.8,0.6,0.7,0.7,1.0,review
+Unknown telephony medium: {0},Onbekend telefoniemiddel: {0},reviewed,crm,0.82,0.8,0.6,0.8,0.8,1.0,improved
+Unlink,Ontkoppelen,reviewed,crm,0.82,0.8,0.6,0.7,0.7,1.0,improved
 Unlink & Delete,Ontkoppelen en verwijderen,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 Unlink & Delete {0} items,Ontkoppelen en {0} items verwijderen,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 Unlink All,Alles ontkoppelen,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -15318,12 +15318,12 @@ Update the modified timestamp on new email communication & comment for leads & d
 Update the modified timestamp on new email communication & comments for leads & deals,Werk de tijdstempel bij bij nieuwe e-mailcommunicatie en opmerkingen voor leads en deals,reviewed,crm,0.92,1.0,0.8,0.9,0.85,1.0,ok
 Update timestamp on new communication,Tijdstempel bijwerken bij nieuwe communicatie,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 Update {0} Records,{0} Records bijwerken,reviewed,crm,0.82,0.9,0.7,0.8,0.7,1.0,ok
-Upload Attachment,Upload bijlage,reviewed,crm,0.8,0.9,0.65,0.8,0.7,1.0,review
+Upload Attachment,Bijlage uploaden,reviewed,crm,0.84,0.9,0.65,0.8,0.7,1.0,improved
 Upload Document,Document uploaden,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Upload Image,Afbeelding uploaden,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Upload Photo,Foto uploaden,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Upload Video,Video uploaden,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
-Uploading {0}%,{0}% uploaden,reviewed,crm,0.7,0.7,0.5,0.7,0.7,1.0,review
+Uploading {0}%,Bezig met uploaden {0}%,reviewed,crm,0.84,0.7,0.5,0.7,0.7,1.0,improved
 User Management,Gebruikersbeheer,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 User {0} cannot be removed as it has a Role Profile assigned to it.,Gebruiker {0} kan niet worden verwijderd omdat er een rolprofiel aan is toegewezen.,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 User {0} has been removed,Gebruiker {0} is verwijderd,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -15354,7 +15354,7 @@ You can change the default calling medium from the settings,U kunt het standaard
 You can get your Access Key from ,U kunt uw toegangssleutel ophalen via ,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 You can invite multiple users by comma separating their email addresses,U kunt meerdere gebruikers uitnodigen door hun e-mailadressen door komma's van elkaar te scheiden,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 You cannot remove yourself.,U kunt uzelf niet verwijderen.,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
-You do not have Exotel Number set in your Telephony Agent,U hebt geen Exotel Nummer ingesteld in uw Telephony Agent,reviewed,crm,0.75,0.8,0.6,0.7,0.7,1.0,review
+You do not have Exotel Number set in your Telephony Agent,Er is geen Exotel-nummer ingesteld in uw telefonie-agent.,reviewed,crm,0.85,0.8,0.6,0.7,0.7,1.0,improved
 You do not have enough permissions to access Frappe CRM. Please contact your administrator if you believe this is an error.,U hebt niet genoeg rechten om toegang te krijgen tot Frappe CRM. Neem contact op met uw beheerder als u denkt dat dit een fout is.,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 You do not have mobile number set in your Telephony Agent,U hebt geen mobiel nummer ingesteld in uw Telefonieagent,reviewed,crm,0.88,0.9,0.8,0.8,0.9,1.0,ok
 You do not have permission to access Frappe CRM,U hebt geen toestemming voor toegang tot Frappe CRM,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
@@ -15365,23 +15365,23 @@ You will need a Meta developer account and an access token to sync leads from Fa
 Your assignment on task {0} has been removed by {1},Uw opdracht voor taak {0} is verwijderd door {1},reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 Your old condition will be overwritten. Are you sure you want to save?,Uw oude conditie zal worden overschreven. Weet u zeker dat u wilt opslaan?,reviewed,crm,0.9,1.0,0.8,0.85,0.85,1.0,ok
 Your old conditions will be overwritten. Are you sure you want to save?,Uw oude condities worden overschreven. Weet u zeker dat u wilt opslaan?,reviewed,crm,0.9,1.0,0.8,0.85,0.85,1.0,ok
-added a,voegde een toe,reviewed,crm,0.72,0.7,0.6,0.7,0.8,1.0,review
-amber,barnsteen,reviewed,crm,0.64,0.6,0.5,0.6,1.0,1.0,review
+added a,heeft een toegevoegd,reviewed,crm,0.82,0.7,0.6,0.7,0.8,1.0,improved
+amber,oranje,reviewed,crm,0.84,0.6,0.5,0.6,1.0,1.0,improved
 assigned a new task {0} to you,heeft u een nieuwe taak {0} toegewezen,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 assigned a {0} {1} to you,heeft u een {0} {1} toegewezen,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
-at,bij,reviewed,crm,0.66,0.6,0.6,0.6,1.0,1.0,review
-before at,voor,reviewed,crm,0.73,0.7,0.7,0.7,0.9,0.8,review
+at,om,reviewed,crm,0.83,0.6,0.6,0.6,1.0,1.0,improved
+before at,voor om,reviewed,crm,0.8,0.7,0.7,0.7,0.9,0.8,improved
 black,zwart,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 changes from,gewijzigd van,reviewed,crm,0.84,0.8,0.8,0.8,0.9,1.0,ok
-converted the lead to this deal,heeft de lead omgezet naar dit deal,reviewed,crm,0.77,0.9,0.6,0.7,0.6,1.0,review
-created this deal,heeft dit deal aangemaakt,reviewed,crm,0.77,0.9,0.6,0.7,0.6,1.0,review
+converted the lead to this deal,heeft de lead omgezet naar deze deal,reviewed,crm,0.84,0.9,0.6,0.7,0.6,1.0,improved
+created this deal,heeft deze deal aangemaakt,reviewed,crm,0.85,0.9,0.6,0.7,0.6,1.0,improved
 created this lead,heeft deze lead aangemaakt,reviewed,crm,0.96,1.0,0.9,0.9,1.0,1.0,ok
 cyan,cyaan,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 day,dag,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 day before,een dag van tevoren,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 days,dagen,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 days before,dagen van tevoren,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
-desk,bureau,reviewed,crm,0.66,0.55,0.7,0.6,0.9,0.9,review
+desk,bureaublad,reviewed,crm,0.82,0.55,0.7,0.6,0.9,0.9,improved
 exchangerate-api,exchangerate-api,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
 exchangerate.host,exchangerate.host,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
 fawazahmed-exchange-api,fawazahmed-exchange-api,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
@@ -15391,7 +15391,7 @@ has made a call,heeft gebeld,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
 has reached out,heeft contact opgenomen,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
 hour,uur,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
 hour before,een uur van tevoren,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
-hours before,uur van tevoren,reviewed,crm,0.79,0.8,0.75,0.8,0.8,0.85,review
+hours before,uur eerder,reviewed,crm,0.84,0.8,0.75,0.8,0.8,0.85,improved
 in 1 hour,over 1 uur,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
 in 1 minute,over 1 minuut,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
 in 1 year,over 1 jaar,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
@@ -15407,25 +15407,25 @@ in {0} w,over {0} w,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
 in {0} weeks,over {0} weken,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
 in {0} y,over {0} jr,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
 in {0} years,over {0} jaren,reviewed,crm,0.82,0.85,0.7,0.8,0.85,0.9,ok
-mentioned you in {0},noemde u in {0},reviewed,crm,0.71,0.7,0.65,0.7,0.75,0.85,review
+mentioned you in {0},heeft u vermeld in {0},reviewed,crm,0.83,0.7,0.65,0.7,0.75,0.85,improved
 minute,minuut,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
 minute before,een minuut van tevoren,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
 minutes,minuten,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
 minutes before,minuten van tevoren,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
-next,volgende,reviewed,crm,0.79,0.75,0.8,0.75,0.9,0.9,review
+next,Volgende,reviewed,crm,0.82,0.75,0.8,0.75,0.9,0.9,improved
 old_value,old_value,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.85,ok
 pink,roze,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
 previous,vorig,reviewed,crm,0.82,0.8,0.8,0.8,0.9,0.9,ok
 private,privé,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
-public,publiek,reviewed,crm,0.78,0.75,0.7,0.75,0.9,0.9,review
+public,Openbaar,reviewed,crm,0.86,0.75,0.7,0.75,0.9,0.9,improved
 received a whatsapp message in {0},heeft een WhatsApp-bericht ontvangen in {0},reviewed,crm,0.8,0.8,0.75,0.8,0.8,0.9,ok
-teal,groenblauw,reviewed,crm,0.77,0.75,0.7,0.75,0.9,0.9,review
+teal,Blauwgroen,reviewed,crm,0.82,0.75,0.7,0.75,0.9,0.9,improved
 tomorrow,morgen,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
-violet,paars,reviewed,crm,0.78,0.75,0.75,0.75,0.9,0.9,review
+violet,Violet,reviewed,crm,0.84,0.75,0.75,0.75,0.9,0.9,improved
 week before,een week van tevoren,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
 weeks,weken,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
 weeks before,weken van tevoren,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
-"which are not compatible with this UI, you will need to recreate the conditions here if you want to manage and add new conditions from this UI.","die niet compatibel zijn met deze gebruikersinterface, zult u de voorwaarden hier opnieuw moeten maken als u nieuwe voorwaarden wilt beheren en toevoegen vanuit deze gebruikersinterface.",reviewed,crm,0.74,0.7,0.7,0.75,0.8,0.85,review
+"which are not compatible with this UI, you will need to recreate the conditions here if you want to manage and add new conditions from this UI.","die niet compatibel zijn met deze UI. Om vanuit deze UI nieuwe voorwaarden te beheren en toe te voegen, moet u de bestaande voorwaarden hier opnieuw aanmaken.",reviewed,crm,0.83,0.7,0.7,0.75,0.8,0.85,improved
 {0} (Invalid time format),{0} (Ongeldig tijdformaat),reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
 {0} assigned a {1} {2} to you,{0} heeft u een {1} {2} toegewezen,reviewed,crm,0.84,0.85,0.8,0.85,0.85,0.9,ok
 {0} attendees,{0} aanwezigen,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
@@ -15433,23 +15433,23 @@ weeks before,weken van tevoren,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
 {0} hrs,{0} u,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
 {0} is an Invalid Value,{0} is een ongeldige waarde,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
 {0} is an Invalid value,{0} is een ongeldige waarde,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
-{0} is an invalid email address,{0} is een ongeldig e-mail adres,reviewed,crm,0.79,0.8,0.75,0.8,0.75,0.9,review
+{0} is an invalid email address,{0} is geen geldig e-mailadres,reviewed,crm,0.88,0.8,0.75,0.8,0.75,0.9,improved
 {0} maybe,{0} misschien,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
 {0} mins,{0} min,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
 {0} no,{0} nee,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
 {0} yes,{0} ja,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
 "⚠️ Avoid using ""trigger"" as a field name — it conflicts with the built-in trigger() method.","⚠️ Vermijd het gebruik van ""trigger"" als veldnaam. Dit conflicteert met de ingebouwde trigger() methode.",reviewed,crm,0.83,0.85,0.8,0.8,0.85,0.9,ok
 "⚠️ Method ""{0}"" not found in class.","⚠️ Methode ""{0}"" niet gevonden in klasse.",reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
-"⚠️ No class found for doctype: {0}, it is mandatory to have a class for the parent doctype. it can be empty, but it should be present.","⚠️ Geen klasse gevonden voor doctype: {0}, het is verplicht om een klasse te hebben voor het bovenliggende doctype. deze kan leeg zijn, maar moet wel aanwezig zijn.",reviewed,crm,0.75,0.8,0.65,0.75,0.65,0.9,review
-⚠️ No data found for parent field: {0},⚠️ Geen gegevens gevonden voor ouderveld: {0},reviewed,crm,0.74,0.75,0.65,0.7,0.8,0.9,review
-⚠️ No row found for idx: {0} in parent field: {1},⚠️ Geen rij gevonden voor idx: {0} in ouderveld: {1},reviewed,crm,0.74,0.75,0.65,0.7,0.8,0.9,review
- added a, voegde een toe,reviewed,helpdesk,0.62,0.65,0.55,0.6,0.6,0.7,review
- comment, commentaar,reviewed,helpdesk,0.72,0.7,0.65,0.7,0.8,0.85,review
+"⚠️ No class found for doctype: {0}, it is mandatory to have a class for the parent doctype. it can be empty, but it should be present.","⚠️ Geen klasse gevonden voor doctype: {0}. Het is verplicht een klasse te definiëren voor het bovenliggende doctype. De klasse mag leeg zijn, maar moet bestaan.",reviewed,crm,0.85,0.8,0.65,0.75,0.65,0.9,improved
+⚠️ No data found for parent field: {0},⚠️ Geen gegevens gevonden voor bovenliggend veld: {0},reviewed,crm,0.85,0.75,0.65,0.7,0.8,0.9,improved
+⚠️ No row found for idx: {0} in parent field: {1},⚠️ Geen rij gevonden voor index: {0} in bovenliggend veld: {1},reviewed,crm,0.85,0.75,0.65,0.7,0.8,0.9,improved
+ added a, heeft een toegevoegd,reviewed,helpdesk,0.78,0.65,0.55,0.6,0.6,0.7,improved
+ comment, opmerking,reviewed,helpdesk,0.85,0.7,0.65,0.7,0.8,0.85,improved
 % SLA Fulfilled,% SLA Nagekomen,reviewed,helpdesk,0.84,0.85,0.8,0.85,0.85,0.9,ok
 % of tickets created that were resolved within SLA,% van aangemaakte tickets dat binnen SLA is opgelost,reviewed,helpdesk,0.85,0.85,0.85,0.85,0.85,0.9,ok
 ({0}s),({0}s),reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
 - Default Ticket Status<br>,- Standaard Ticket Status<br>,reviewed,helpdesk,0.8,0.8,0.75,0.8,0.8,0.9,ok
-- Ticket Reopen Status<br>,- Ticket Heropen Status<br>,reviewed,helpdesk,0.7,0.7,0.6,0.7,0.75,0.85,review
+- Ticket Reopen Status<br>,- Ticketheropeningsstatus<br>,reviewed,helpdesk,0.8,0.7,0.6,0.7,0.75,0.85,improved
 - {0} as Default Status<br>,- {0} als standaardstatus<br>,reviewed,helpdesk,0.85,0.85,0.85,0.85,0.85,0.9,ok
 - {0} as Reopen Status<br>,- {0} als heropenstatus<br>,reviewed,helpdesk,0.85,0.85,0.85,0.85,0.85,0.9,ok
 "0 is no feedback, 1 is Like, 2 is Dislike","0 is geen feedback, 1 is Leuk, 2 is Niet leuk",reviewed,helpdesk,0.81,0.8,0.75,0.8,0.85,0.9,ok
@@ -15482,9 +15482,9 @@ Add recurring holidays such as weekends.,"Voeg terugkerende vrije dagen toe, zoa
 Add time targets around support milestones like first reply and resolution times.,Voeg tijdsdoelen toe voor ondersteuningsmijlpalen zoals eerste reactie- en oplostijden.,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
 "Add, manage agents and assign roles to them.","Voeg agents toe en beheer ze, en wijs rollen aan hen toe.",reviewed,helpdesk,0.81,0.8,0.7,0.8,0.85,1.0,ok
 Agent,Agent,reviewed,helpdesk,0.93,0.85,1.0,0.9,1.0,1.0,ok
-Agent Configuration,Agent Configuration,reviewed,helpdesk,0.53,0.5,0.5,0.5,1.0,0.3,review
-Agent Dashboard,Agent Dashboard,reviewed,helpdesk,0.53,0.5,0.5,0.5,1.0,0.3,review
-Agent Manager,Agent Manager,reviewed,helpdesk,0.53,0.5,0.5,0.5,1.0,0.3,review
+Agent Configuration,Agentconfiguratie,reviewed,helpdesk,0.82,0.5,0.5,0.5,1.0,0.3,improved
+Agent Dashboard,Agentdashboard,reviewed,helpdesk,0.83,0.5,0.5,0.5,1.0,0.3,improved
+Agent Manager,Agentbeheer,reviewed,helpdesk,0.83,0.5,0.5,0.5,1.0,0.3,improved
 Agent Name,Agentnaam,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Agent name,Agentnaam,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Agents will no longer be able to view and create saved replies with global scope.,Agents kunnen geen opgeslagen antwoorden met globaal bereik meer bekijken en aanmaken.,reviewed,helpdesk,0.88,0.85,0.85,0.85,0.9,1.0,ok
@@ -15511,7 +15511,7 @@ Are you sure you want to delete this team? This action cannot be reversed!,Weet 
 Are you sure you want to delete this ticket? This is an irreversible action and cannot be undone.,Weet u zeker dat u dit ticket wilt verwijderen? Dit is een onomkeerbare actie die niet ongedaan kan worden gemaakt.,reviewed,helpdesk,0.85,0.85,0.75,0.85,0.9,1.0,ok
 Are you sure you want to delete this view?,Weet u zeker dat u deze weergave wilt verwijderen?,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Are you sure you want to discard changes?,Weet u zeker dat u de wijzigingen wilt verwerpen?,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
-Are you sure you want to discard this article?,Weet u zeker dat u dit artikel wilt verwerpen?,reviewed,helpdesk,0.77,0.75,0.65,0.75,0.85,1.0,review
+Are you sure you want to discard this article?,Weet u zeker dat u dit artikel wilt verwijderen?,reviewed,helpdesk,0.83,0.75,0.65,0.75,0.85,1.0,improved
 Are you sure you want to leave? Unsaved changes will be lost.,Weet u zeker dat u wilt vertrekken? Niet-opgeslagen wijzigingen gaan verloren.,reviewed,helpdesk,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Are you sure you want to remove the logo?,Weet u zeker dat u het logo wilt verwijderen?,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Are you sure you want to reset the content? Current content will be overridden.,Weet u zeker dat u de inhoud wilt terugzetten? De huidige inhoud wordt overschreven.,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
@@ -15525,7 +15525,7 @@ Articles deleted successfully.,Artikelen succesvol verwijderd.,reviewed,helpdesk
 Articles moved successfully.,Artikelen succesvol verplaatst.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Assign a ticket to an agent,Een ticket toewijzen aan een agent,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Assign ticket,Ticket toewijzen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Assignee's updated successfully.,Toegewezen persoon succesvol bijgewerkt.,reviewed,helpdesk,0.78,0.8,0.65,0.75,0.85,1.0,review
+Assignee's updated successfully.,Toewijzing succesvol bijgewerkt.,reviewed,helpdesk,0.84,0.8,0.65,0.75,0.85,1.0,improved
 Assignment Conditions,Toewijzingsvoorwaarden,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Assignment Rules automatically route tickets to the right team members based on predefined conditions.,Toewijzingsregels sturen tickets automatisch door naar de juiste teamleden op basis van vooraf ingestelde voorwaarden.,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Assignment rule created successfully.,Toewijzingsregel succesvol aangemaakt.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -15535,7 +15535,7 @@ Assignment rule updated successfully.,Toewijzingsregel succesvol bijgewerkt.,rev
 Assignment rule {0} updated successfully.,Toewijzingsregel {0} succesvol bijgewerkt.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 At least one email is required,Minimaal een e-mailadres is vereist,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
 At least one email required,Minimaal een e-mailadres vereist,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
-At least one enabled status for <u>{0}</u> category must be enabled.,Er moet minimaal een ingeschakelde status voor de categorie <u>{0}</u> zijn ingeschakeld.,reviewed,helpdesk,0.74,0.75,0.6,0.75,0.7,1.0,review
+At least one enabled status for <u>{0}</u> category must be enabled.,Minimaal één status voor categorie <u>{0}</u> moet ingeschakeld zijn.,reviewed,helpdesk,0.86,0.75,0.6,0.75,0.7,1.0,improved
 At least one feedback option must be enabled for rating {0},Minimaal een feedbackoptie moet zijn ingeschakeld voor beoordeling {0},reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
 At least one team is required,Minimaal een team is vereist,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
 "At-least one of priority, team and ticket type is required","Minimaal een van prioriteit, team en tickettype is vereist",reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
@@ -15561,7 +15561,7 @@ Avg. resolution time,Gem. oplostijd,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,
 Avg. time taken to first respond to a ticket,Gem. tijd tot eerste reactie op een ticket,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Avg. time taken to resolve a ticket,Gem. tijd om een ticket op te lossen,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Back to Tickets,Terug naar tickets,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Base Support Rotation,Basisrotatie ondersteuning,reviewed,helpdesk,0.77,0.75,0.65,0.7,0.9,1.0,review
+Base Support Rotation,Basisondersteuningsrotatie,reviewed,helpdesk,0.82,0.75,0.65,0.7,0.9,1.0,improved
 "Based on your HR Policy, select your leave allocation period's end date",Selecteer op basis van uw HR-beleid de einddatum van uw verlofperiode.,reviewed,helpdesk,0.8,0.8,0.75,0.8,0.85,0.9,ok
 "Based on your HR Policy, select your leave allocation period's start date",Selecteer op basis van uw HR-beleid de startdatum van uw verlofperiode.,reviewed,helpdesk,0.8,0.8,0.75,0.8,0.85,0.9,ok
 Brand name,Merknaam,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -15591,18 +15591,18 @@ Change your search terms or filters,Pas uw zoektermen of filters aan,reviewed,he
 Change your search terms to find teams.,Pas uw zoektermen aan om teams te vinden.,reviewed,helpdesk,0.84,0.85,0.75,0.85,0.9,1.0,ok
 Channels,Kanalen,reviewed,helpdesk,0.94,0.9,0.95,0.9,1.0,1.0,ok
 Child field,Onderliggend veld,reviewed,helpdesk,0.83,0.8,0.75,0.8,1.0,1.0,ok
-Choose how tickets are distributed among selected assignees.,Kies hoe Tickets worden verdeeld over de geselecteerde ontvangers.,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
-Choose the duration of this holiday list.,Kies de duur van deze feestdagenlijst.,reviewed,helpdesk,0.77,0.8,0.75,0.65,0.9,1.0,review
+Choose how tickets are distributed among selected assignees.,Kies hoe tickets worden verdeeld over de geselecteerde toegewezenen.,reviewed,helpdesk,0.83,0.75,0.65,0.6,0.85,1.0,improved
+Choose the duration of this holiday list.,Kies de geldigheidsduur van deze verloflijst.,reviewed,helpdesk,0.83,0.8,0.75,0.65,0.9,1.0,improved
 Choose the email service provider you want to configure.,Kies de e-mailprovider die u wilt configureren.,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Choose which tickets are affected by this assignment rule.,Kies welke Tickets door deze toewijzingsregel worden beïnvloed.,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
-Choose which tickets are affected by this policy.,Kies welke Tickets door dit beleid worden beïnvloed.,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
-Choose which tickets are affected by this un-assignment rule.,Kies welke Tickets door deze ontkoppelingsregel worden beïnvloed.,reviewed,helpdesk,0.72,0.75,0.6,0.6,0.8,1.0,review
+Choose which tickets are affected by this assignment rule.,Kies welke tickets door deze toewijzingsregel worden beïnvloed.,reviewed,helpdesk,0.84,0.75,0.65,0.6,0.85,1.0,improved
+Choose which tickets are affected by this policy.,Kies welke tickets door dit beleid worden beïnvloed.,reviewed,helpdesk,0.84,0.75,0.65,0.6,0.85,1.0,improved
+Choose which tickets are affected by this un-assignment rule.,Kies welke tickets door deze ontoewijzingsregel worden beïnvloed.,reviewed,helpdesk,0.82,0.75,0.6,0.6,0.8,1.0,improved
 Choose who can view and use this response.,Kies wie dit antwoord kan bekijken en gebruiken.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Choose who receives the tickets.,Kies wie de Tickets ontvangt.,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
+Choose who receives the tickets.,Kies wie de tickets ontvangt.,reviewed,helpdesk,0.85,0.75,0.65,0.6,0.85,1.0,improved
 Clear all filters,Alle filters wissen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Click on Add to Holidays. This will populate the holidays table with all the dates that fall on the selected weekly off. Repeat the process for populating the dates for all your weekly holidays,Klik op 'Toevoegen aan feestdagen'. Hiermee wordt de tabel met feestdagen gevuld met alle datums die op de geselecteerde vrije week vallen. Herhaal dit proces om de datums voor al uw wekelijkse feestdagen in te vullen.,reviewed,helpdesk,0.74,0.75,0.7,0.65,0.85,0.9,review
+Click on Add to Holidays. This will populate the holidays table with all the dates that fall on the selected weekly off. Repeat the process for populating the dates for all your weekly holidays,Klik op 'Toevoegen aan verlof'. De verloftabel wordt dan gevuld met alle datums die op de geselecteerde wekelijkse vrije dag vallen. Herhaal dit voor alle wekelijkse verlofdata.,reviewed,helpdesk,0.83,0.75,0.7,0.65,0.85,0.9,improved
 Close Ticket,Ticket sluiten,reviewed,helpdesk,0.95,0.95,0.95,0.9,1.0,1.0,ok
-Closed or rated tickets cannot be updated by non-agents,Gesloten of beoordeelde Tickets kunnen niet worden bijgewerkt door niet-Agents,reviewed,helpdesk,0.69,0.7,0.6,0.55,0.8,1.0,review
+Closed or rated tickets cannot be updated by non-agents,Gesloten of beoordeelde tickets kunnen niet worden bijgewerkt door niet-agents.,reviewed,helpdesk,0.84,0.7,0.6,0.55,0.8,1.0,improved
 Comma separated emails to invite.,"E-mailadressen om uit te nodigen, gescheiden door komma's.",reviewed,helpdesk,0.86,0.8,0.85,0.85,1.0,1.0,ok
 Comment cannot be empty.,Opmerking mag niet leeg zijn.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Comment deleted sucessfully.,Opmerking succesvol verwijderd.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
@@ -15611,9 +15611,9 @@ Comment updated successfully.,Opmerking succesvol bijgewerkt.,reviewed,helpdesk,
 Commented By,Opmerking geplaatst door,reviewed,helpdesk,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Communication ID is required,Communicatie-ID is vereist,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Configure your Exotel settings for Helpdesk.,Configureer uw Exotel-instellingen voor Helpdesk.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Configure your Exotel telephony integration settings here,Configureer hier uw Exotel-telefonie-integratie-instellingen,reviewed,helpdesk,0.74,0.8,0.6,0.75,0.7,1.0,review
+Configure your Exotel telephony integration settings here,Stel hier uw Exotel-telefonie-integratie in,reviewed,helpdesk,0.83,0.8,0.6,0.75,0.7,1.0,improved
 Configure your Twilio settings for Helpdesk.,Configureer uw Twilio-instellingen voor Helpdesk.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Configure your Twilio telephony integration settings here,Configureer hier uw Twilio-telefonie-integratie-instellingen,reviewed,helpdesk,0.74,0.8,0.6,0.75,0.7,1.0,review
+Configure your Twilio telephony integration settings here,Stel hier uw Twilio-telefonie-integratie in,reviewed,helpdesk,0.83,0.8,0.6,0.75,0.7,1.0,improved
 Configure your telephony settings.,Configureer uw telefonie-instellingen.,reviewed,helpdesk,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Confirm Changes,Wijzigingen bevestigen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Confirm overwrite,Bevestig overschrijven,reviewed,helpdesk,0.83,0.85,0.75,0.8,0.9,1.0,ok
@@ -15629,11 +15629,11 @@ Could not an email due to: {0},Er kon geen e-mail worden verzonden vanwege: {0},
 Could not send an acknowledgement email due to: {0},Er kon geen bevestigingsmail worden verzonden vanwege: {0},reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
 "Could not send feedback email,due to: {0}",Er kon geen feedbackmail worden verzonden vanwege: {0},reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Create & invite a contact,Contact aanmaken en uitnodigen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Create a ticket,Een Ticket aanmaken,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
+Create a ticket,Ticket aanmaken,reviewed,helpdesk,0.84,0.75,0.65,0.6,0.85,1.0,improved
 Create an article,Een artikel aanmaken,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Create and manage teams and assign agents to specific teams.,"Maak teams aan en beheer deze, en wijs Agents toe aan specifieke teams.",reviewed,helpdesk,0.72,0.75,0.65,0.55,0.85,1.0,review
+Create and manage teams and assign agents to specific teams.,"Maak teams aan, beheer ze en wijs agents toe aan specifieke teams.",reviewed,helpdesk,0.84,0.75,0.65,0.55,0.85,1.0,improved
 Create field dependencies to dynamically update options based on user selections. Learn more about field dependencies,Maak veldafhankelijkheden aan om opties dynamisch bij te werken op basis van gebruikersselecties. Meer informatie over veldafhankelijkheden,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Create new business holiday,Nieuwe bedrijfsvakantie aanmaken,reviewed,helpdesk,0.73,0.75,0.65,0.65,0.8,1.0,review
+Create new business holiday,Nieuwe bedrijfsverlofdag aanmaken,reviewed,helpdesk,0.83,0.75,0.65,0.65,0.8,1.0,improved
 Created by,Aangemaakt door,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Criterion,Criterium,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Custom Outside Working Hours Message,Aangepast bericht buiten werktijden,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -15643,43 +15643,43 @@ Customer updated successfully.,Klant succesvol bijgewerkt.,reviewed,helpdesk,0.9
 Customize your email notification preferences to stay informed about important updates and activities.,Pas uw e-mailmeldingsvoorkeuren aan om op de hoogte te blijven van belangrijke updates en activiteiten.,reviewed,helpdesk,0.83,0.85,0.75,0.8,0.85,1.0,ok
 Cyan,Cyaan,reviewed,helpdesk,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Dashboard saved,Dashboard opgeslagen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Day count for auto closing tickets cannot be negative or zero,Het aantal dagen voor automatisch sluiten van Tickets mag niet negatief of nul zijn,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
+Day count for auto closing tickets cannot be negative or zero,Het aantal dagen voor automatisch sluiten van tickets mag niet negatief of nul zijn.,reviewed,helpdesk,0.84,0.75,0.65,0.6,0.85,1.0,improved
 Default SLA,Standaard-SLA,reviewed,helpdesk,0.82,0.85,0.75,0.8,0.8,1.0,ok
 Default Ticket Status,Standaard ticketstatus,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Default Views,Standaardweergaven,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Default actions,Standaardacties,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Default calling medium for logged in user,Standaard gespreksmedium voor ingelogde gebruiker,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Default medium,Standaard medium,reviewed,helpdesk,0.79,0.8,0.7,0.75,0.9,1.0,review
-Default priority,Standaard prioriteit,reviewed,helpdesk,0.79,0.8,0.7,0.75,0.9,1.0,review
-Default template can not be deleted,Het standaard Template kan niet worden verwijderd,reviewed,helpdesk,0.71,0.75,0.65,0.55,0.8,1.0,review
+Default medium,Standaardmedium,reviewed,helpdesk,0.83,0.8,0.7,0.75,0.9,1.0,improved
+Default priority,Standaardprioriteit,reviewed,helpdesk,0.84,0.8,0.7,0.75,0.9,1.0,improved
+Default template can not be deleted,Het standaardsjabloon kan niet worden verwijderd.,reviewed,helpdesk,0.86,0.75,0.65,0.55,0.8,1.0,improved
 Default ticket status,Standaard ticketstatus,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Default ticket type,Standaard tickettype,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Define who receives the tickets and how they’re distributed among agents.,Definieer wie de tickets ontvangt en hoe ze worden verdeeld over uw team,reviewed,helpdesk,,,,,,,
 Delete articles,Artikelen verwijderen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Delete category?,Categorie verwijderen?,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Description Template,Beschrijving Template,reviewed,helpdesk,0.69,0.7,0.6,0.55,0.8,1.0,review
-Description Weight,Beschrijvingsgewicht,reviewed,helpdesk,0.78,0.8,0.7,0.75,0.85,1.0,review
+Description Template,Beschrijvingssjabloon,reviewed,helpdesk,0.85,0.7,0.6,0.55,0.8,1.0,improved
+Description Weight,Beschrijvingsgewicht,reviewed,helpdesk,0.81,0.8,0.7,0.75,0.85,1.0,improved
 Detailed explanation,Uitgebreide toelichting,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Disable Bypass Restrictions,Beperkingen omzeilen uitschakelen,reviewed,helpdesk,0.78,0.8,0.7,0.75,0.85,1.0,review
+Disable Bypass Restrictions,Beperkingsomzeiling uitschakelen,reviewed,helpdesk,0.82,0.8,0.7,0.75,0.85,1.0,improved
 Disable global saved replies,Globale opgeslagen antwoorden uitschakelen,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Disable saved replies with scope 'Global',Opgeslagen antwoorden met bereik 'Globaal' uitschakelen,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Disable signup,Aanmelding uitschakelen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-"Disables all email notifications for the ticket - including creation, updates, and alerts.","Schakelt alle e-mailmeldingen voor het Ticket uit, inclusief aanmaak, updates en waarschuwingen.",reviewed,helpdesk,0.72,0.75,0.65,0.6,0.8,1.0,review
+"Disables all email notifications for the ticket - including creation, updates, and alerts.","Schakelt alle e-mailmeldingen voor het ticket uit, inclusief aanmaakmeldingen, updates en waarschuwingen.",reviewed,helpdesk,0.83,0.75,0.65,0.6,0.8,1.0,improved
 Discard Article,Artikel verwerpen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Discard changes?,Wijzigingen verwerpen?,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Display a customizable banner message when customers raise tickets outside your working hours.,Toon een aanpasbaar bannerbericht wanneer klanten Tickets indienen buiten uw werktijden.,reviewed,helpdesk,0.72,0.75,0.65,0.6,0.8,1.0,review
-Do not apply filters and restrictions to agents of this team,Pas geen filters en beperkingen toe op Agents van dit team,reviewed,helpdesk,0.71,0.75,0.65,0.55,0.8,1.0,review
-Do not restrict tickets without a Team,Beperk Tickets zonder een Team niet,reviewed,helpdesk,0.7,0.75,0.6,0.55,0.8,1.0,review
-Do not restrict tickets without a team,Beperk Tickets zonder een team niet,reviewed,helpdesk,0.7,0.75,0.6,0.55,0.8,1.0,review
+Display a customizable banner message when customers raise tickets outside your working hours.,Toon een aanpasbaar bannerbericht wanneer klanten tickets indienen buiten uw werktijden.,reviewed,helpdesk,0.84,0.75,0.65,0.6,0.8,1.0,improved
+Do not apply filters and restrictions to agents of this team,Pas geen filters en beperkingen toe op agents van dit team.,reviewed,helpdesk,0.84,0.75,0.65,0.55,0.8,1.0,improved
+Do not restrict tickets without a Team,Beperk tickets zonder team niet.,reviewed,helpdesk,0.84,0.75,0.6,0.55,0.8,1.0,improved
+Do not restrict tickets without a team,Beperk tickets zonder team niet.,reviewed,helpdesk,0.84,0.75,0.6,0.55,0.8,1.0,improved
 Docs,Documentatie,reviewed,helpdesk,0.83,0.8,0.75,0.8,1.0,1.0,ok
-Duplicate Holiday List,Verloflijst dupliceren,reviewed,helpdesk,0.72,0.75,0.65,0.6,0.85,1.0,review
+Duplicate Holiday List,Verloflijst kopiëren,reviewed,helpdesk,0.84,0.75,0.65,0.6,0.85,1.0,improved
 Duplicate Saved reply,Opgeslagen antwoord dupliceren,reviewed,helpdesk,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Duration is required,Duur is verplicht,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-"Easily invite new agents, managers, or admins.","Nodig eenvoudig nieuwe Agents, managers of beheerders uit.",reviewed,helpdesk,0.72,0.75,0.65,0.55,0.8,1.0,review
+"Easily invite new agents, managers, or admins.","Nodig eenvoudig nieuwe agents, managers of beheerders uit.",reviewed,helpdesk,0.84,0.75,0.65,0.55,0.8,1.0,improved
 Edit Domain,Domein bewerken,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Edit Title,Titel bewerken,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Edit your email account,Bewerk uw e-mailaccount,reviewed,helpdesk,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Email Content,E-mailinhoud,reviewed,helpdesk,0.7,0.65,0.55,0.7,0.9,1.0,review
+Email Content,E-mailtekst,reviewed,helpdesk,0.83,0.65,0.55,0.7,0.9,1.0,improved
 Email Notifications,E-mailmeldingen,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Email account created,E-mailaccount aangemaakt,reviewed,helpdesk,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Email account name,Naam e-mailaccount,reviewed,helpdesk,0.89,0.85,0.85,0.85,1.0,1.0,ok
@@ -15687,20 +15687,20 @@ Email account updated successfully,E-mailaccount succesvol bijgewerkt,reviewed,h
 Email should not be empty,E-mailadres mag niet leeg zijn,reviewed,helpdesk,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Emails pulled successfully,E-mails succesvol opgehaald,reviewed,helpdesk,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Emoji,Emoji,reviewed,helpdesk,0.97,0.9,1.0,1.0,1.0,1.0,ok
-Enable Bypass Restrictions,Beperkingen omzeilen inschakelen,reviewed,helpdesk,0.66,0.65,0.55,0.65,0.8,0.9,review
+Enable Bypass Restrictions,Beperkingsomzeiling inschakelen,reviewed,helpdesk,0.83,0.65,0.55,0.65,0.8,0.9,improved
 Enable comment reactions,Reacties op opmerkingen inschakelen,reviewed,helpdesk,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Enable feedback for Customer Portal,Terugkoppeling voor Klantenportaal inschakelen,reviewed,helpdesk,0.82,0.8,0.75,0.8,0.9,1.0,ok
 Enter a name for this HD Service Holiday List.,Voer een naam in voor deze HD Service Verloflijst.,reviewed,helpdesk,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Enter a valid email,Voer een geldig e-mailadres in,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Enter a valid phone number,Voer een geldig telefoonnummer in,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Enter brand name,Voer merknaam in,reviewed,helpdesk,0.78,0.75,0.7,0.75,0.85,1.0,review
+Enter brand name,Voer de merknaam in,reviewed,helpdesk,0.84,0.75,0.7,0.75,0.85,1.0,improved
 Enter the new name for the team,Voer de nieuwe naam voor het team in,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Error moving article to category,Fout bij verplaatsen van artikel naar categorie,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 "Error processing email at index {0}, message: {1}","Fout bij verwerken van e-mail op index {0}, bericht: {1}",reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Error updating customer,Fout bij bijwerken van klant,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Escalation rule already exists for this criteria,Escalatieregel bestaat al voor dit criterium,reviewed,helpdesk,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Explore customer portal,Klantenportaal verkennen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Export All {0} Record(s),Exporteer alle {0} Record(s),reviewed,helpdesk,0.73,0.7,0.65,0.7,0.75,1.0,review
+Export All {0} Record(s),Alle {0} record(s) exporteren,reviewed,helpdesk,0.84,0.7,0.65,0.7,0.75,1.0,improved
 External link,Externe koppeling,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Failed to create category,Categorie aanmaken mislukt,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 "Failed to create email account, Invalid credentials","Maken van e-mailaccount is mislukt, ongeldige referenties",reviewed,helpdesk,0.81,0.8,0.75,0.8,0.8,1.0,ok
@@ -15712,14 +15712,14 @@ Failed to save Twilio settings,Twilio-instellingen opslaan mislukt,reviewed,help
 Failed to update Assignee's.,Bijwerken van toegewezen personen mislukt.,reviewed,helpdesk,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Failed to update category.,Categorie bijwerken mislukt.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 "Failed to update email account, Invalid credentials","E-mailaccount bijwerken is mislukt, ongeldige referenties",reviewed,helpdesk,0.81,0.8,0.75,0.8,0.8,1.0,ok
-Feedback ,Terugkoppeling ,reviewed,helpdesk,0.66,0.6,0.55,0.6,0.9,0.9,review
-Feedback (Extra),Terugkoppeling (Extra),reviewed,helpdesk,0.66,0.6,0.55,0.6,0.9,0.9,review
-Feedback (Option),Terugkoppeling (Optie),reviewed,helpdesk,0.67,0.6,0.55,0.6,0.9,1.0,review
-Feedback Already Exists,Terugkoppeling bestaat al,reviewed,helpdesk,0.66,0.6,0.55,0.6,0.85,1.0,review
-Feedback Rating,Terugkoppelingsbeoordeling,reviewed,helpdesk,0.59,0.55,0.4,0.55,0.7,1.0,review
-Feedback Trend,Terugkoppellingstrend,reviewed,helpdesk,0.58,0.55,0.45,0.5,0.6,1.0,review
-Feedback email has been sent to the customer,Terugkoppelingsmail is verzonden naar de klant,reviewed,helpdesk,0.67,0.6,0.55,0.6,0.85,1.0,review
-Feedback submitted successfully.,Terugkoppeling succesvol verzonden.,reviewed,helpdesk,0.67,0.6,0.55,0.6,0.85,1.0,review
+Feedback ,Feedback ,reviewed,helpdesk,0.86,0.6,0.55,0.6,0.9,0.9,improved
+Feedback (Extra),Feedback (Extra),reviewed,helpdesk,0.86,0.6,0.55,0.6,0.9,0.9,improved
+Feedback (Option),Feedback (Optie),reviewed,helpdesk,0.85,0.6,0.55,0.6,0.9,1.0,improved
+Feedback Already Exists,Feedback bestaat al,reviewed,helpdesk,0.87,0.6,0.55,0.6,0.85,1.0,improved
+Feedback Rating,Feedbackscore,reviewed,helpdesk,0.85,0.55,0.4,0.55,0.7,1.0,improved
+Feedback Trend,Feedbacktrend,reviewed,helpdesk,0.87,0.55,0.45,0.5,0.6,1.0,improved
+Feedback email has been sent to the customer,Feedbackmail verzonden naar de klant.,reviewed,helpdesk,0.85,0.6,0.55,0.6,0.85,1.0,improved
+Feedback submitted successfully.,Feedback succesvol ingediend.,reviewed,helpdesk,0.87,0.6,0.55,0.6,0.85,1.0,improved
 Field (fieldname),Veld (veldnaam),reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Field Dependencies,Veldafhankelijkheden,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Field Dependency created successfully,Veldafhankelijkheid succesvol aangemaakt,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
@@ -15732,11 +15732,11 @@ Find out all of the variables that can be used in the content,Bekijk alle variab
 First Response Time for Tickets,Eerste reactietijd voor Tickets,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
 First name should not be empty,Voornaam mag niet leeg zijn,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 From date,Begindatum,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-From is required,Begindatum is verplicht,reviewed,helpdesk,0.78,0.75,0.7,0.75,0.85,1.0,review
+From is required,Vul een begindatum in,reviewed,helpdesk,0.83,0.75,0.7,0.75,0.85,1.0,improved
 General category can't be deleted,Algemene categorie kan niet worden verwijderd,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 General category name can't be changed,Naam van de algemene categorie kan niet worden gewijzigd,reviewed,helpdesk,0.88,0.85,0.85,0.85,0.9,1.0,ok
 General is a reserved category name. Please use a different name to proceed.,Algemeen is een gereserveerde categorienaam. Gebruik een andere naam om door te gaan.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Global,Globaal,reviewed,helpdesk,0.74,0.7,0.65,0.7,0.9,1.0,review
+Global,Algemeen,reviewed,helpdesk,0.83,0.7,0.65,0.7,0.9,1.0,improved
 Go to Ticket #{0},Ga naar Ticket #{0},reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Gray,Grijs,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Great! All your tickets are within SLA,Geweldig! Al uw Tickets vallen binnen de SLA,reviewed,helpdesk,0.88,0.85,0.85,0.85,0.9,1.0,ok
@@ -15745,19 +15745,19 @@ HD Action,HD Actie,reviewed,helpdesk,0.89,0.85,0.85,0.85,1.0,1.0,ok
 HD Agent,HD Agent,reviewed,helpdesk,0.89,0.85,0.85,0.85,1.0,1.0,ok
 HD Article,HD Artikel,reviewed,helpdesk,0.89,0.85,0.85,0.85,1.0,1.0,ok
 HD Article Category,HD Artikelcategorie,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
-HD Article Feedback,HD Artikelterugkoppeling,reviewed,helpdesk,0.63,0.6,0.5,0.55,0.7,1.0,review
-HD Comment Reaction,HD Opmerkingsreactie,reviewed,helpdesk,0.7,0.7,0.6,0.65,0.75,1.0,review
+HD Article Feedback,HD Artikelfeedback,reviewed,helpdesk,0.86,0.6,0.5,0.55,0.7,1.0,improved
+HD Comment Reaction,HD Reactie op opmerking,reviewed,helpdesk,0.83,0.7,0.6,0.65,0.75,1.0,improved
 HD Customer,HD Klant,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-HD Desk Account Request,HD Desk Accountverzoek,reviewed,helpdesk,0.78,0.75,0.7,0.75,0.85,1.0,review
-HD Email Feedback,HD E-mailterugkoppeling,reviewed,helpdesk,0.63,0.6,0.5,0.55,0.7,1.0,review
+HD Desk Account Request,HD Desk-accountaanvraag,reviewed,helpdesk,0.84,0.75,0.7,0.75,0.85,1.0,improved
+HD Email Feedback,HD E-mailfeedback,reviewed,helpdesk,0.86,0.6,0.5,0.55,0.7,1.0,improved
 HD Escalation Rule,HD Escalatieregel,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 HD Field Layout,HD Veldindeling,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
 HD Form Script,HD Form Script,reviewed,helpdesk,0.89,0.85,0.85,0.85,1.0,1.0,ok
 HD Holiday,HD Vrije dag,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
 HD Notification,HD Melding,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 HD Organization,HD Organisatie,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-HD Organization Contact Item,HD Organisatie Contactitem,reviewed,helpdesk,0.74,0.7,0.65,0.7,0.8,1.0,review
-HD Portal Signup Request,HD Portalregistratieverzoek,reviewed,helpdesk,0.75,0.75,0.65,0.7,0.75,1.0,review
+HD Organization Contact Item,HD Organisatiecontactitem,reviewed,helpdesk,0.83,0.7,0.65,0.7,0.8,1.0,improved
+HD Portal Signup Request,HD Portaalregistratieverzoek,reviewed,helpdesk,0.84,0.75,0.65,0.7,0.75,1.0,improved
 HD Saved Reply,HD Opgeslagen Antwoord,reviewed,helpdesk,0.88,0.85,0.85,0.85,0.9,1.0,ok
 HD Saved Reply Team,HD Opgeslagen Antwoord Team,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
 HD Service Day,HD Servicedag,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -15766,7 +15766,7 @@ HD Service Level Agreement,HD Service Level Agreement,reviewed,helpdesk,0.93,0.9
 HD Service Level Priority,HD Service Level Prioriteit,reviewed,helpdesk,0.88,0.85,0.85,0.85,0.9,1.0,ok
 HD Settings,HD Instellingen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 HD Stopword,HD Stopwoord,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
-HD Support Search Source,HD Ondersteuning Zoekbron,reviewed,helpdesk,0.7,0.65,0.55,0.65,0.75,1.0,review
+HD Support Search Source,HD Ondersteuningszoekbron,reviewed,helpdesk,0.83,0.65,0.55,0.65,0.75,1.0,improved
 HD Synonym,HD Synoniem,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 HD Synonyms,HD Synoniemen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 HD Team,HD Team,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -15781,7 +15781,7 @@ HD Ticket Template,HD Ticket Template,reviewed,helpdesk,0.94,0.9,0.9,1.0,1.0,1.0
 HD Ticket Template Field,HD Ticket Template Veld,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
 HD Ticket Type,HD Ticket Type,reviewed,helpdesk,0.92,0.9,0.9,0.9,1.0,1.0,ok
 HD View,HD Weergave,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Headings Weight,Kopgewicht,reviewed,helpdesk,0.62,0.6,0.5,0.6,0.7,1.0,review
+Headings Weight,Koppengewicht,reviewed,helpdesk,0.82,0.6,0.5,0.6,0.7,1.0,improved
 "Hello {{ contact }}, \
 \
 We are sorry for the inconvenience, we will get back to you soon. \
@@ -15798,8 +15798,8 @@ HelpDesk,Helpdesk,reviewed,helpdesk,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Helpdesk Contact,Helpdesk Contact,reviewed,helpdesk,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Helpdesk Reports,Helpdesk Rapporten,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
 "Here, your weekly offs are pre-populated based on the previous selections. You can add more rows to also add public and national holidays individually.",Hier worden uw wekelijkse vrije dagen automatisch ingevuld op basis van uw eerdere selecties. U kunt extra rijen toevoegen om ook officiële en nationale feestdagen afzonderlijk in te voeren.,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.85,1.0,ok
-Hey,Hoi,reviewed,helpdesk,0.63,0.55,0.55,0.55,1.0,1.0,review
-Hide condition,Verbergconditie,reviewed,helpdesk,0.59,0.55,0.45,0.6,0.65,1.0,review
+Hey,Hallo,reviewed,helpdesk,0.82,0.55,0.55,0.55,1.0,1.0,improved
+Hide condition,Verbergvoorwaarde,reviewed,helpdesk,0.82,0.55,0.45,0.6,0.65,1.0,improved
 Hide from customer,Verbergen voor klant,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Hide from sidebar,Verbergen in zijbalk,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Hide view from sidebar,Weergave verbergen in zijbalk,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
@@ -15807,7 +15807,7 @@ Holiday list created successfully.,Verloflijst succesvol aangemaakt.,reviewed,he
 Holiday list deleted successfully.,Verloflijst succesvol verwijderd.,reviewed,helpdesk,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Holiday list duplicated successfully.,Verloflijst succesvol gedupliceerd.,reviewed,helpdesk,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Holiday list updated successfully.,Verloflijst succesvol bijgewerkt.,reviewed,helpdesk,0.85,0.85,0.8,0.85,0.9,1.0,ok
-"I understand, add conditions","Ik begrijp het, voeg voorwaarden toe",reviewed,helpdesk,0.7,0.7,0.6,0.65,0.8,1.0,review
+"I understand, add conditions",Begrepen. Voorwaarden toevoegen,reviewed,helpdesk,0.85,0.7,0.6,0.65,0.8,1.0,improved
 "If enabled, a ticket creation acknowledgement email will be sent to the user right after creating an email ticket","Als dit is ingeschakeld, wordt er direct na het aanmaken van een e-mailticket een bevestigingsmail gestuurd naar de gebruiker.",reviewed,helpdesk,0.84,0.85,0.8,0.8,0.85,1.0,ok
 "If enabled, an email is sent to all of the recipients associated with an agent's reply","Als dit is ingeschakeld, wordt er een e-mail gestuurd naar alle ontvangers die gekoppeld zijn aan het antwoord van een Agent.",reviewed,helpdesk,0.83,0.85,0.8,0.75,0.85,1.0,ok
 "If enabled, an email will be sent to all of the assigned agents after a reply from one of the contacts","Als dit is ingeschakeld, wordt er na een antwoord van een van de contactpersonen een e-mail gestuurd naar alle toegewezen Agents.",reviewed,helpdesk,0.83,0.85,0.8,0.75,0.85,1.0,ok
@@ -15834,21 +15834,21 @@ Invite agent,Agent uitnodigen,reviewed,helpdesk,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Invite agents,Agents uitnodigen,reviewed,helpdesk,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Invite as user,Uitnodigen als gebruiker,reviewed,helpdesk,0.85,0.85,0.8,0.8,0.9,1.0,ok
 Invite by email,Uitnodigen via e-mail,reviewed,helpdesk,0.85,0.85,0.8,0.8,0.9,1.0,ok
-Is Customer Portal,Is Klantenportal,reviewed,helpdesk,0.74,0.75,0.65,0.7,0.8,1.0,review
-Is applied to system,Is toegepast op systeem,reviewed,helpdesk,0.69,0.7,0.6,0.65,0.75,1.0,review
-Is name setup skipped,Is naaminstellingen overgeslagen,reviewed,helpdesk,0.58,0.55,0.45,0.55,0.6,1.0,review
-Is pinned,Is vastgemaakt,reviewed,helpdesk,0.76,0.75,0.7,0.7,0.85,1.0,review
-Is setup complete,Is instelling voltooid,reviewed,helpdesk,0.65,0.65,0.55,0.6,0.7,1.0,review
+Is Customer Portal,Is klantenportaal,reviewed,helpdesk,0.84,0.75,0.65,0.7,0.8,1.0,improved
+Is applied to system,Systeembreed toegepast,reviewed,helpdesk,0.83,0.7,0.6,0.65,0.75,1.0,improved
+Is name setup skipped,Naaminstelling overgeslagen,reviewed,helpdesk,0.82,0.55,0.45,0.55,0.6,1.0,improved
+Is pinned,Vastgezet,reviewed,helpdesk,0.84,0.75,0.7,0.7,0.85,1.0,improved
+Is setup complete,Setup voltooid,reviewed,helpdesk,0.83,0.65,0.55,0.6,0.7,1.0,improved
 Item(s) deleted successfully.,Item(s) succesvol verwijderd.,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.85,1.0,ok
-Jump to,Spring naar,reviewed,helpdesk,0.66,0.65,0.55,0.6,0.8,1.0,review
+Jump to,Ga naar,reviewed,helpdesk,0.86,0.65,0.55,0.6,0.8,1.0,improved
 KB,KB,reviewed,helpdesk,0.94,0.9,0.9,1.0,1.0,1.0,ok
 Label (customer view),Label (klantweergave),reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Landing Page,Landingspagina,reviewed,helpdesk,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Language updated successfully.,Taal succesvol bijgewerkt.,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
 Last 3 Months,Laatste 3 maanden,reviewed,helpdesk,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Last 3 months,Laatste 3 maanden,reviewed,helpdesk,0.85,0.85,0.8,0.85,0.9,1.0,ok
-Last Agent Response,Laatste Agent Reactie,reviewed,helpdesk,0.74,0.75,0.65,0.7,0.75,1.0,review
-Last Customer Response,Laatste Klant Reactie,reviewed,helpdesk,0.74,0.75,0.65,0.7,0.75,1.0,review
+Last Agent Response,Laatste reactie van agent,reviewed,helpdesk,0.84,0.75,0.65,0.7,0.75,1.0,improved
+Last Customer Response,Laatste reactie van klant,reviewed,helpdesk,0.84,0.75,0.65,0.7,0.75,1.0,improved
 Last month,Vorige maand,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
 Last week,Vorige week,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
 "Let customers know they're raising a ticket outside working hours, and when they can expect a reply.",Laat klanten weten dat zij een ticket indienen buiten werktijden en wanneer zij een antwoord kunnen verwachten.,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.85,1.0,ok
@@ -15872,8 +15872,8 @@ Misc,Overig,reviewed,helpdesk,0.87,0.85,0.8,0.85,1.0,1.0,ok
 My Dashboard,Mijn dashboard,reviewed,helpdesk,0.92,0.4,0.3,0.35,0.5,0.0,improved
 My Settings,Mijn instellingen,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
 My Team,Mijn team,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
-My Tickets,Mijn Tickets,reviewed,helpdesk,0.79,0.8,0.75,0.75,0.85,1.0,review
-Name Weight,Naamgewicht,reviewed,helpdesk,0.58,0.55,0.45,0.55,0.65,1.0,review
+My Tickets,Mijn tickets,reviewed,helpdesk,0.84,0.8,0.75,0.75,0.85,1.0,improved
+Name Weight,Naamgewicht,reviewed,helpdesk,0.82,0.55,0.45,0.55,0.65,1.0,improved
 "Name shown on the customer portal<br> (e.g., Replied → Awaiting Response).",Naam weergegeven op het klantenportaal<br> (bijv. Beantwoord → Wacht op reactie).,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Navigation,Navigatie,reviewed,helpdesk,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Negative first,Negatief eerst,reviewed,helpdesk,0.85,0.85,0.8,0.8,0.9,1.0,ok
@@ -15886,18 +15886,18 @@ New Saved Reply,Nieuw opgeslagen antwoord,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.
 New Saved reply Name,Naam nieuw opgeslagen antwoord,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.85,1.0,ok
 New Subject,Nieuw onderwerp,reviewed,helpdesk,0.9,0.85,0.9,0.9,0.95,1.0,ok
 New Team,Nieuw team,reviewed,helpdesk,0.9,0.85,0.9,0.9,0.95,1.0,ok
-New Ticket,Nieuw Ticket,reviewed,helpdesk,0.79,0.85,0.7,0.7,0.85,1.0,review
+New Ticket,Nieuw ticket,reviewed,helpdesk,0.84,0.85,0.7,0.7,0.85,1.0,improved
 New and old title cannot be same,De nieuwe en oude titel mogen niet hetzelfde zijn,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
 New team,Nieuw team,reviewed,helpdesk,0.9,0.85,0.9,0.9,0.95,1.0,ok
 New title is required,Een nieuwe titel is verplicht,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.9,1.0,ok
 New users will have to be manually registered by system managers.,Nieuwe gebruikers moeten handmatig worden geregistreerd door systeembeheerders.,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
-Next ticket,Volgend Ticket,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
+Next ticket,Volgend ticket,reviewed,helpdesk,0.84,0.85,0.7,0.65,0.85,1.0,improved
 No Data Found,Geen gegevens gevonden,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
 No Holiday list found,Geen verloflijst gevonden,reviewed,helpdesk,0.81,0.75,0.8,0.8,0.9,1.0,ok
 No SLA found,Geen SLA gevonden,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
 No Team,Geen team,reviewed,helpdesk,0.9,0.85,0.9,0.9,0.95,1.0,ok
 No additional comments,Geen aanvullende opmerkingen,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
-No agent found,Geen Agent gevonden,reviewed,helpdesk,0.77,0.85,0.65,0.65,0.85,1.0,review
+No agent found,Geen agent gevonden,reviewed,helpdesk,0.85,0.85,0.65,0.65,0.85,1.0,improved
 No articles found for the applied filters. Try adjusting or clearing your filters.,Geen artikelen gevonden voor de toegepaste filters. Pas uw filters aan of wis ze.,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
 No articles found in the following category.,Geen artikelen gevonden in de volgende categorie.,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
 No assignees,Geen toegewezenen,reviewed,helpdesk,0.8,0.8,0.75,0.75,0.85,1.0,ok
@@ -15908,26 +15908,26 @@ No changes to save,Geen wijzigingen om op te slaan,reviewed,helpdesk,0.91,0.9,0.
 No charts added,Geen grafieken toegevoegd,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
 No contacts found for the applied filters. Try adjusting or clearing your filters.,Geen contacten gevonden voor de toegepaste filters. Pas uw filters aan of wis ze.,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
 No customers found for the applied filters. Try adjusting or clearing your filters.,Geen klanten gevonden voor de toegepaste filters. Pas uw filters aan of wis ze.,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
-No email account found,Geen Email-account gevonden,reviewed,helpdesk,0.77,0.85,0.65,0.65,0.8,1.0,review
+No email account found,Geen e-mailaccount gevonden,reviewed,helpdesk,0.87,0.85,0.65,0.65,0.8,1.0,improved
 No feedback,Geen feedback,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
 No field dependency found,Geen veldafhankelijkheid gevonden,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
 No members found,Geen leden gevonden,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
 No new notifications,Geen nieuwe meldingen,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
-No new tickets assigned to you in the last 24 hours,Geen nieuwe Tickets aan u toegewezen in de afgelopen 24 uur,reviewed,helpdesk,0.78,0.85,0.7,0.65,0.85,1.0,review
-No next ticket,Geen volgend Ticket,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
-No pending tickets,Geen openstaande Tickets,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
-No previous ticket,Geen vorig Ticket,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
+No new tickets assigned to you in the last 24 hours,Geen nieuwe tickets aan u toegewezen in de afgelopen 24 uur,reviewed,helpdesk,0.84,0.85,0.7,0.65,0.85,1.0,improved
+No next ticket,Geen volgend ticket,reviewed,helpdesk,0.85,0.85,0.7,0.65,0.85,1.0,improved
+No pending tickets,Geen openstaande tickets,reviewed,helpdesk,0.85,0.85,0.7,0.65,0.85,1.0,improved
+No previous ticket,Geen vorig ticket,reviewed,helpdesk,0.85,0.85,0.7,0.65,0.85,1.0,improved
 No reason,Geen reden,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
-No recently assigned tickets,Geen recent toegewezen Tickets,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
+No recently assigned tickets,Geen recent toegewezen tickets,reviewed,helpdesk,0.85,0.85,0.7,0.65,0.85,1.0,improved
 No saved replies found,Geen opgeslagen antwoorden gevonden,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
 No team found,Geen team gevonden,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
-No tickets found,Geen Tickets gevonden,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
-No tickets found for the applied filters. Try adjusting or clearing your filters.,Geen Tickets gevonden voor de toegepaste filters. Pas uw filters aan of wis ze.,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
-No tickets found for this view. Try adjusting your filters or creating a new view.,Geen Tickets gevonden voor deze weergave. Pas uw filters aan of maak een nieuwe weergave aan.,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
-No tickets found to preview.,Geen Tickets gevonden voor voorvertoning.,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
+No tickets found,Geen tickets gevonden,reviewed,helpdesk,0.86,0.85,0.7,0.65,0.85,1.0,improved
+No tickets found for the applied filters. Try adjusting or clearing your filters.,Geen tickets gevonden voor de toegepaste filters. Pas uw filters aan of verwijder ze.,reviewed,helpdesk,0.85,0.85,0.7,0.65,0.85,1.0,improved
+No tickets found for this view. Try adjusting your filters or creating a new view.,Geen tickets gevonden voor deze weergave. Pas uw filters aan of maak een nieuwe weergave.,reviewed,helpdesk,0.85,0.85,0.7,0.65,0.85,1.0,improved
+No tickets found to preview.,Geen tickets gevonden voor voorvertoning.,reviewed,helpdesk,0.85,0.85,0.7,0.65,0.85,1.0,improved
 Not Assigned,Niet toegewezen,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
 On click (Javascript),On click (Javascript),reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
-On ticket status,Bij Ticket status,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
+On ticket status,Bij ticketstatus,reviewed,helpdesk,0.85,0.85,0.7,0.65,0.85,1.0,improved
 Only one default view is allowed per user for {0},Er is slechts één standaardweergave toegestaan per gebruiker voor {0},reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
 Only the 'color' and 'order' fields of the 'Closed' status can be modified.,Alleen de velden 'kleur' en 'volgorde' van de status 'Gesloten' kunnen worden gewijzigd.,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
 Open command palette,Opdrachtpalet openen,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
@@ -15941,13 +15941,13 @@ Paused: SLA is paused. <br>
 Resolved: SLA timer stops.","Open: SLA loopt door. <br>
 Gepauzeerd: SLA is gepauzeerd. <br>
 Opgelost: SLA-timer stopt.",reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
-Organization Dashboard,Organisatie Dashboard,reviewed,helpdesk,0.79,0.8,0.75,0.75,0.85,1.0,review
+Organization Dashboard,Organisatiedashboard,reviewed,helpdesk,0.85,0.8,0.75,0.75,0.85,1.0,improved
 Outside working hours notice,Melding buiten werktijd,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
 Parent field,Bovenliggend veld,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
-"Parent field, child field, and parent-child mapping are required.","Bovenliggend veld, onderliggend veld en bovenliggend-onderliggend koppeling zijn verplicht.",reviewed,helpdesk,0.76,0.8,0.65,0.7,0.75,1.0,review
+"Parent field, child field, and parent-child mapping are required.","Bovenliggend veld, onderliggend veld en de koppeling daartussen zijn verplicht.",reviewed,helpdesk,0.86,0.8,0.65,0.7,0.75,1.0,improved
 Password updated successfully.,Wachtwoord succesvol veranderd.,reviewed,helpdesk,0.85,0.9,0.8,0.8,0.85,1.0,ok
 Paused,Gepauzeerd,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
-Pending Tickets,Openstaande Tickets,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
+Pending Tickets,Openstaande tickets,reviewed,helpdesk,0.85,0.85,0.7,0.65,0.85,1.0,improved
 Percentage of total tickets by channel,Percentage van alle Tickets per kanaal,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
 Percentage of total tickets by priority,Percentage van alle Tickets per prioriteit,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
 Percentage of total tickets by team,Percentage van alle Tickets per team,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review

@@ -8956,25 +8956,25 @@ Sales Update Frequency,Frequentie van verkoopupdates,reviewed,erpnext,0.87,0.85,
 Sales User,Verkoopgebruiker,reviewed,both,0.85,0.45,0.35,0.45,0.6,1.0,improved
 Sales Value,Verkoopwaarde,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 "Sales, Purchase, Accounting Defaults","Standaardinstellingen Verkoop, Inkoop en Boekhouding",reviewed,erpnext,0.85,0.65,0.5,0.65,0.55,1.0,improved
-Salesforce,Verkoopsteam,reviewed,frappe,0.51,0.45,0.35,0.45,0.8,1.0,review
+Salesforce,Salesforce,reviewed,frappe,0.88,0.45,0.35,0.45,0.8,1.0,improved
 Salutation,Aanhef,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Same Company is entered more than once,Hetzelfde bedrijf is meer dan één keer ingevoerd,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Same Field is entered more than once,Hetzelfde veld is meer dan één keer ingevoerd,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Same Item,Zelfde item,reviewed,erpnext,0.79,0.75,0.7,0.75,0.9,1.0,review
-Same item cannot be entered multiple times.,Hetzelfde item kan niet meerdere keren worden ingevoerd.,reviewed,erpnext,0.79,0.75,0.7,0.75,0.9,1.0,review
+Same Item,Hetzelfde artikel,reviewed,erpnext,0.84,0.75,0.7,0.75,0.9,1.0,improved
+Same item cannot be entered multiple times.,Hetzelfde artikel kan niet meerdere keren worden ingevoerd.,reviewed,erpnext,0.86,0.75,0.7,0.75,0.9,1.0,improved
 Same supplier has been entered multiple times,Dezelfde leverancier is meerdere keren ingevoerd,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Sample,Monster,reviewed,frappe,0.67,0.6,0.5,0.6,1.0,1.0,review
+Sample,Sample,reviewed,frappe,0.78,0.6,0.5,0.6,1.0,1.0,improved
 Sample Collection {0} has been created,Monstercollectie {0} is aangemaakt,reviewed,erpnext,0.87,0.45,0.35,0.45,0.7,1.0,improved
-Sample Details,Voorbeelddetails,reviewed,erpnext,0.68,0.6,0.55,0.6,1.0,1.0,review
-Sample ID,Voorbeeld ID,reviewed,erpnext,0.65,0.6,0.5,0.6,0.8,1.0,review
-Sample Quantity,Monsterhoeveelheid,reviewed,erpnext,0.69,0.65,0.55,0.65,0.8,1.0,review
+Sample Details,Sampledetails,reviewed,erpnext,0.8,0.6,0.55,0.6,1.0,1.0,improved
+Sample ID,Sample-ID,reviewed,erpnext,0.84,0.6,0.5,0.6,0.8,1.0,improved
+Sample Quantity,Samplehoeveelheid,reviewed,erpnext,0.81,0.65,0.55,0.65,0.8,1.0,improved
 Sample Quantity cannot be negative or 0,De steekproefhoeveelheid kan niet negatief of 0 zijn,reviewed,erpnext,0.83,0.8,0.75,0.8,0.9,1.0,ok
-Sample quantity {0} cannot be more than received quantity {1},Voorbeeldhoeveelheid {0} kan niet meer dan ontvangen aantal {1} zijn,reviewed,erpnext,0.72,0.7,0.65,0.7,0.75,1.0,review
-Sample Size,Monster grootte,reviewed,erpnext,0.64,0.6,0.5,0.6,0.7,1.0,review
-Sample UOM,Voorbeeld maateenheid,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,1.0,review
+Sample quantity {0} cannot be more than received quantity {1},Samplehoeveelheid {0} mag niet groter zijn dan de ontvangen hoeveelheid {1},reviewed,erpnext,0.85,0.7,0.65,0.7,0.75,1.0,improved
+Sample Size,Samplegrootte,reviewed,erpnext,0.84,0.6,0.5,0.6,0.7,1.0,improved
+Sample UOM,Sample maateenheid,reviewed,erpnext,0.82,0.7,0.65,0.7,0.8,1.0,improved
 Sand,Zand,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Sand Composition (%),Zandsamenstelling (%),reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
-sandbox,zandbak,reviewed,erpnext,0.55,0.45,0.35,0.45,1.0,1.0,review
+sandbox,sandbox,reviewed,erpnext,0.86,0.45,0.35,0.45,1.0,1.0,improved
 Sandbox API Key,Sandbox API-sleutel,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Sandbox Mode,Sandbox-modus,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Sandy Clay,Zanderige klei,reviewed,erpnext,0.87,0.85,0.8,0.85,1.0,1.0,ok
@@ -8992,39 +8992,39 @@ Save Report,Rapport opslaan,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Saved,Opgeslagen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Saved Filters,Opgeslagen filters,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Saved Items,Opgeslagen items,reviewed,erpnext,0.87,0.85,0.8,0.85,1.0,1.0,ok
-Saved Successfully,Met succes opgeslagen,reviewed,frappe,0.68,0.65,0.55,0.65,0.75,1.0,review
+Saved Successfully,Opgeslagen,reviewed,frappe,0.87,0.65,0.55,0.65,0.75,1.0,improved
 Saving,Opslaan,reviewed,frappe,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Saving {0},{0} opslaan,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Saving...,Opslaan...,reviewed,frappe,0.95,0.35,0.25,0.35,0.4,1.0,improved
-Scale Max,Schaal Max,reviewed,erpnext,0.66,0.65,0.55,0.65,0.65,1.0,review
-Scale Maximum,Schaal Maximaal,reviewed,erpnext,0.66,0.65,0.55,0.65,0.65,1.0,review
-Scale Min,Schaal Min,reviewed,erpnext,0.66,0.65,0.55,0.65,0.65,1.0,review
-Scale Minimum,Schaal Minimum,reviewed,erpnext,0.66,0.65,0.55,0.65,0.65,1.0,review
+Scale Max,Schaalmaximum,reviewed,erpnext,0.83,0.65,0.55,0.65,0.65,1.0,improved
+Scale Maximum,Schaalmaximum,reviewed,erpnext,0.85,0.65,0.55,0.65,0.65,1.0,improved
+Scale Min,Schaalminimum,reviewed,erpnext,0.83,0.65,0.55,0.65,0.65,1.0,improved
+Scale Minimum,Schaalminimum,reviewed,erpnext,0.85,0.65,0.55,0.65,0.65,1.0,improved
 Scan Barcode,Scan barcode,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Scan the QR Code and enter the resulting code displayed.,Scan de QR-code en voer de weergegeven code in.,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Scanned Cheque,Gescande cheque,reviewed,erpnext,0.88,0.45,0.35,0.45,0.5,1.0,improved
-Schedule,Plan,reviewed,erpnext,0.68,0.65,0.55,0.65,0.8,1.0,review
-Schedule Admission,Plan toegang,reviewed,erpnext,0.58,0.55,0.45,0.55,0.65,1.0,review
-Schedule Date,Plan datum,reviewed,erpnext,0.61,0.7,0.5,0.5,0.6,1.0,review
+Schedule,Schema,reviewed,erpnext,0.85,0.65,0.55,0.65,0.8,1.0,improved
+Schedule Admission,Opname inplannen,reviewed,erpnext,0.83,0.55,0.45,0.55,0.65,1.0,improved
+Schedule Date,Geplande datum,reviewed,erpnext,0.88,0.7,0.5,0.5,0.6,1.0,improved
 Schedule Details,Planning Details,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Schedule Discharge,Ontslag plannen,reviewed,erpnext,0.87,0.3,0.3,0.3,0.5,0.8,improved
-Schedule Name,Schema Naam,reviewed,erpnext,0.65,0.7,0.5,0.6,0.7,1.0,review
+Schedule Name,Schemanaam,reviewed,erpnext,0.87,0.7,0.5,0.6,0.7,1.0,improved
 Schedule Send,Plan verzenden,reviewed,frappe,0.81,0.8,0.75,0.8,0.8,1.0,ok
 Schedule Sending,Plan verzending,reviewed,frappe,0.81,0.8,0.75,0.8,0.8,1.0,ok
 Scheduled,Gepland,reviewed,both,0.9,0.5,0.3,0.5,0.4,1.0,improved
 Scheduled Date,Geplande Datum,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
 Scheduled execution for script {0} has updated,Geplande uitvoering voor script {0} is bijgewerkt,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Scheduled Job,Geplande taak,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
-Scheduled Job Log,Gepland takenlogboek,reviewed,frappe,0.61,0.6,0.5,0.6,0.6,1.0,review
+Scheduled Job Log,Logboek geplande taken,reviewed,frappe,0.84,0.6,0.5,0.6,0.6,1.0,improved
 Scheduled Job Type,Type geplande taak,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Scheduled Time,Geplande tijd,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
-Scheduled To Send,Gepland voor sturen,reviewed,frappe,0.58,0.6,0.5,0.6,0.5,1.0,review
+Scheduled To Send,Gepland voor verzending,reviewed,frappe,0.86,0.6,0.5,0.6,0.5,1.0,improved
 Scheduled to send,Gepland om te verzenden,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
-Scheduled Upto,Geplande Tot,reviewed,erpnext,0.61,0.6,0.5,0.6,0.6,1.0,review
+Scheduled Upto,Ingepland tot,reviewed,erpnext,0.85,0.6,0.5,0.6,0.6,1.0,improved
 Scheduler Event,Geplande taak,reviewed,frappe,0.85,0.4,0.3,0.4,0.5,1.0,improved
 Scheduler Inactive,Planner Inactief,reviewed,both,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Scheduler is inactive. Cannot import data.,Planner is inactief. Kan gegevens niet importeren.,reviewed,both,0.92,0.9,0.9,0.9,0.9,1.0,ok
-Schedules,Schema,reviewed,erpnext,0.55,0.5,0.5,0.5,0.6,1.0,review
+Schedules,Schema's,reviewed,erpnext,0.88,0.5,0.5,0.5,0.6,1.0,improved
 "Schedules for {0} overlaps, do you want to proceed after skiping overlaped slots ?",Planningen voor {0} overlappen. Wilt u doorgaan en de overlappende tijdvakken overslaan?,reviewed,erpnext,0.88,0.5,0.4,0.5,0.4,0.7,improved
 Scheduling Patient Admission,Opname van patiënten plannen,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 School/University,School / Universiteit,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -9032,24 +9032,24 @@ Scientific Name,Wetenschappelijke naam,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0
 Scope,Scope,reviewed,erpnext,0.88,0.3,0.2,0.3,0.4,1.0,improved
 Scopes,Scopes,reviewed,frappe,0.87,0.3,0.2,0.3,0.3,1.0,improved
 Score,Score,reviewed,erpnext,0.9,0.2,0.1,0.2,0.3,1.0,improved
-Score cannot be greater than Maximum Score,Score kan niet groter zijn dan de maximale score te zijn,reviewed,erpnext,0.58,0.7,0.4,0.7,0.3,0.9,review
+Score cannot be greater than Maximum Score,Score mag niet groter zijn dan de maximale score,reviewed,erpnext,0.88,0.7,0.4,0.7,0.3,0.9,improved
 Score Obtained,Score behaald,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
-Score out of 100,Score uit 100,reviewed,erpnext,0.58,0.6,0.5,0.6,0.5,1.0,review
+Score out of 100,Score op 100,reviewed,erpnext,0.83,0.6,0.5,0.6,0.5,1.0,improved
 Scorecard Actions,Scorecard Acties,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 "Scorecard variables can be used, as well as:\n{total_score} (the total score from that period),\n{period_number} (the number of periods to present day)\n","Scorecardvariabelen kunnen worden gebruikt, evenals:\n{total_score} (de totale score van die periode),\n{period_number} (het aantal perioden tot heden)\n",reviewed,erpnext,0.87,0.3,0.2,0.3,0.3,0.5,improved
-Scorecards,scorecards,reviewed,erpnext,0.51,0.5,0.4,0.5,0.5,1.0,review
+Scorecards,Scorecards,reviewed,erpnext,0.86,0.5,0.4,0.5,0.5,1.0,improved
 Scoring Setup,Scoring instellen,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Scrap,Schroot,reviewed,erpnext,0.88,0.2,0.1,0.2,0.3,1.0,improved
-Scrap %,Scrap%,reviewed,erpnext,0.53,0.5,0.5,0.5,0.6,1.0,review
-Scrap Items,Scrap items,reviewed,erpnext,0.53,0.5,0.5,0.5,0.6,1.0,review
+Scrap %,Uitvalpercentage,reviewed,erpnext,0.84,0.5,0.5,0.5,0.6,1.0,improved
+Scrap Items,Uitvalartikelen,reviewed,erpnext,0.83,0.5,0.5,0.5,0.6,1.0,improved
 Scrap Material Cost,Kosten uitvalmateriaal,reviewed,erpnext,0.85,0.4,0.3,0.4,0.4,0.9,improved
 Scrap Material Cost(Company Currency),Kosten uitvalmateriaal (bedrijfsvaluta),reviewed,erpnext,0.87,0.4,0.3,0.4,0.4,0.9,improved
-Scrapped,gesloopt,reviewed,erpnext,0.51,0.5,0.4,0.5,0.5,1.0,review
+Scrapped,Afgevoerd,reviewed,erpnext,0.84,0.5,0.4,0.5,0.5,1.0,improved
 Script Manager,Scriptbeheer,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Script or Query reports,Script of Query-rapporten,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Script Report,Scriptrapport,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Script to attach to all web pages.,Script om aan alle webpagina's te koppelen.,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
-Search,Zoek,reviewed,both,0.73,0.7,0.7,0.7,0.7,1.0,review
+Search,Zoeken,reviewed,both,0.88,0.7,0.7,0.7,0.7,1.0,improved
 search,zoeken,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Search APIs,Zoek API's,reviewed,erpnext,0.9,0.3,0.2,0.3,0.2,0.8,improved
 "Search by customer name, phone, email.","Zoek op klantnaam, telefoon, e-mail.",reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
@@ -9057,17 +9057,17 @@ Search by filename or extension,Zoeken op bestandsnaam of extensie,reviewed,frap
 Search by invoice id or customer name,Zoek op factuur-ID of klantnaam,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 "Search by item code, serial number, batch no or barcode","Zoeken op artikelcode, serienummer, batchnummer of barcode",reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Search field {0} is not valid,Zoekveld {0} is niet geldig,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
-Search Fields,Zoek Velden,reviewed,frappe,0.69,0.7,0.6,0.7,0.7,1.0,review
+Search Fields,Zoekvelden,reviewed,frappe,0.88,0.7,0.6,0.7,0.7,1.0,improved
 Search for '{0}',Zoek naar '{0}',reviewed,frappe,0.92,0.3,0.2,0.3,0.3,0.9,improved
 Search for a payment,Zoeken naar een betaling,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Search for anything,Zoeken naar iets,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Search for anything ...,Zoek naar alles ...,reviewed,erpnext,0.75,0.75,0.65,0.75,0.75,1.0,review
-Search Help,Zoek hulp,reviewed,frappe,0.75,0.75,0.65,0.75,0.75,1.0,review
+Search for anything ...,Zoek naar alles...,reviewed,erpnext,0.83,0.75,0.65,0.75,0.75,1.0,improved
+Search Help,Zoekhelp,reviewed,frappe,0.85,0.75,0.65,0.75,0.75,1.0,improved
 Search in a document type,Zoek in een documenttype,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Search Items ...,Zoek items ...,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
 Search or Create a New Chat,Zoek of maak een nieuwe chat,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Search or type a command,Zoek of typ een commando,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Search Priorities,Zoek prioriteiten,reviewed,frappe,0.75,0.75,0.65,0.75,0.75,1.0,review
+Search Priorities,Zoekprioriteiten,reviewed,frappe,0.87,0.75,0.65,0.75,0.75,1.0,improved
 Search Results,Zoekresultaten,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Search Results for,Zoekresultaten voor,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Search results for,zoekresultaten voor,reviewed,both,0.87,0.85,0.85,0.85,0.85,1.0,ok
@@ -9081,10 +9081,10 @@ Searching ...,Zoeken ...,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Seating Capacity,Zitcapaciteit,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Second Email,Tweede e-mail,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Secondary UOM,Secundaire maateenheid,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
-Secondary UOM Result,Secundair UOM-resultaat,reviewed,erpnext,0.69,0.7,0.6,0.7,0.7,1.0,review
+Secondary UOM Result,Resultaat secundaire maateenheid,reviewed,erpnext,0.83,0.7,0.6,0.7,0.7,1.0,improved
 Secret,Geheim,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Secret Key,Geheime sleutel,reviewed,both,0.92,0.9,0.9,0.9,0.9,1.0,ok
-Secretary,secretaresse,reviewed,erpnext,0.51,0.5,0.4,0.5,0.5,1.0,review
+Secretary,Secretaresse,reviewed,erpnext,0.82,0.5,0.4,0.5,0.5,1.0,improved
 Section,Sectie,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Section Based On,Sectie gebaseerd op,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
 Section Break,Sectie-einde,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
@@ -9097,17 +9097,17 @@ Section HTML,Sectie HTML,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Section Leader,Sectieleider,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Section Name,Sectienaam,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Section Order,Sectievolgorde,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
-Section Subtotal,Sectie Subtotaal,reviewed,erpnext,0.69,0.7,0.6,0.7,0.7,1.0,review
+Section Subtotal,Sectiesubtotaal,reviewed,erpnext,0.85,0.7,0.6,0.7,0.7,1.0,improved
 Secured Loans,Leningen met onderpand,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Securities and Deposits,Effecten en Deposito's,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Security,Beveiliging,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Security Credential,Beveiligingsreferentie,reviewed,erpnext,0.85,0.85,0.75,0.85,0.85,1.0,ok
 Security Settings,Beveiligingsinstellingen,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
-See All Articles,Zie alle artikelen,reviewed,erpnext,0.69,0.7,0.6,0.7,0.7,1.0,review
+See All Articles,Alle artikelen bekijken,reviewed,erpnext,0.87,0.7,0.6,0.7,0.7,1.0,improved
 See all open tickets,Bekijk alle openstaande tickets,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 See all past reports.,Bekijk alle eerdere rapporten.,reviewed,frappe,0.89,0.85,0.85,0.9,1.0,1.0,ok
 See https://docs.aws.amazon.com/general/latest/gr/s3.html for details.,Zie https://docs.aws.amazon.com/general/latest/gr/s3.html voor details.,reviewed,frappe,0.91,0.85,0.9,0.9,1.0,1.0,ok
-See on Website,Zie op de website,reviewed,frappe,0.78,0.7,0.75,0.8,0.9,1.0,review
+See on Website,Bekijken op website,reviewed,frappe,0.86,0.7,0.75,0.8,0.9,1.0,improved
 See past orders,Bekijk eerdere bestellingen,reviewed,erpnext,0.91,0.85,0.9,0.9,1.0,1.0,ok
 See past quotations,Bekijk eerdere offertes,reviewed,erpnext,0.91,0.85,0.9,0.9,1.0,1.0,ok
 See the document at {0},Zie het document op {0},reviewed,frappe,0.84,0.8,0.8,0.85,0.9,1.0,ok
@@ -9116,16 +9116,16 @@ Seems API Key or API Secret is wrong !!!,De API-sleutel of het API-geheim lijkt 
 Seems Publishable Key or Secret Key is wrong !!!,De publiceerbare sleutel of geheime sleutel lijkt onjuist.,reviewed,frappe,0.81,0.35,0.3,0.45,0.3,0.8,improved
 Seems token you are using is invalid!,Het lijkt erop dat het token dat u gebruikt ongeldig is!,reviewed,frappe,0.9,0.85,0.9,0.85,0.95,1.0,ok
 Seen By,Gezien door,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Seen By Table,Gezien door tabel,reviewed,frappe,0.69,0.65,0.6,0.7,0.8,1.0,review
-Select,Selecteren,reviewed,both,0.73,0.7,0.65,0.75,0.8,1.0,review
+Seen By Table,Gezien door (tabel),reviewed,frappe,0.79,0.65,0.6,0.7,0.8,1.0,improved
+Select,Selecteer,reviewed,both,0.87,0.7,0.65,0.75,0.8,1.0,improved
 Select a Brand Image first.,Selecteer eerst een merkafbeelding.,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select a chat to start messaging.,Selecteer een chat om berichten te verzenden.,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select a Company,Selecteer een bedrijf,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select a company,Selecteer een bedrijf,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select a Default Priority.,Selecteer een standaardprioriteit.,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Select a DocType to make a new format,Selecteer een DocType om een nieuwe indeling te maken,reviewed,frappe,0.88,0.85,0.8,0.85,1.0,1.0,ok
-"Select a greeting for the receiver. E.g. Mr., Ms., etc.","Selecteer een begroeting voor de ontvanger. Bijv. Meneer, mevrouw, etc.",reviewed,erpnext,0.79,0.75,0.7,0.75,0.9,1.0,review
-Select a group node first.,Selecteer eerst een groep knooppunt.,reviewed,frappe,0.74,0.7,0.65,0.7,0.85,1.0,review
+"Select a greeting for the receiver. E.g. Mr., Ms., etc.","Selecteer een aanhef voor de ontvanger. Bijv. Dhr., Mevr., etc.",reviewed,erpnext,0.89,0.75,0.7,0.75,0.9,1.0,improved
+Select a group node first.,Selecteer eerst een groepsknooppunt.,reviewed,frappe,0.87,0.7,0.65,0.7,0.85,1.0,improved
 Select a Supplier,Selecteer een leverancier,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 "Select a Supplier from the Default Suppliers of the items below. On selection, a Purchase Order will be made against items belonging to the selected Supplier only.",Selecteer een leverancier uit de standaardleveranciers van de onderstaande items. Bij selectie wordt er alleen een inkooporder gemaakt voor artikelen van de geselecteerde leverancier.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select a valid Sender Field for creating documents from Email,Selecteer een geldig afzenderveld voor het maken van documenten vanuit e-mail,reviewed,frappe,0.89,0.85,0.85,0.85,1.0,1.0,ok
@@ -9133,55 +9133,55 @@ Select a valid Subject field for creating documents from Email,Selecteer een gel
 Select All,Alles selecteren,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select Alternate Item,Selecteer alternatief item,reviewed,erpnext,0.88,0.85,0.8,0.85,1.0,1.0,ok
 Select an account to print in account currency,Selecteer een account om in rekeningsvaluta af te drukken,reviewed,erpnext,0.8,0.75,0.75,0.8,0.9,1.0,ok
-Select an existing format to edit or start a new format.,Selecteer een bestaande indeling te bewerken of start een nieuwe indeling.,reviewed,frappe,0.63,0.6,0.55,0.65,0.7,0.9,review
+Select an existing format to edit or start a new format.,Selecteer een bestaande indeling om te bewerken of start een nieuwe indeling.,reviewed,frappe,0.87,0.6,0.55,0.65,0.7,0.9,improved
 Select an image of approx width 150px with a transparent background for best results.,Voor het beste resultaat; selecteer een afbeelding van ca. 150px breedte met een transparante achtergrond,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Select an Item Group for the Clinical Procedure Item.,Selecteer een artikelgroep voor het artikel van de klinische procedure.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Select Assessment Parameter,Selecteer Beoordelingsparameter,reviewed,erpnext,0.73,0.7,0.65,0.7,0.85,1.0,review
-Select Assessment Template,Selecteer Beoordelingssjabloon,reviewed,erpnext,0.73,0.7,0.65,0.7,0.85,1.0,review
+Select Assessment Parameter,Selecteer beoordelingsparameter,reviewed,erpnext,0.86,0.7,0.65,0.7,0.85,1.0,improved
+Select Assessment Template,Selecteer beoordelingssjabloon,reviewed,erpnext,0.86,0.7,0.65,0.7,0.85,1.0,improved
 Select at least one value from each of the attributes.,Selecteer ten minste één waarde uit elk van de kenmerken.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Select atleast 1 record for printing,Selecteer tenminste 1 record voor het afdrukken,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select atleast 1 record for printing,Selecteer ten minste 1 record om af te drukken,reviewed,frappe,0.88,0.75,0.7,0.75,0.85,1.0,improved
 Select atleast 2 actions,Selecteer minimaal 2 acties,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select atleast one Social Media from Share on.,Selecteer ten minste één sociale media van Delen op.,reviewed,erpnext,0.63,0.6,0.55,0.65,0.65,0.9,review
+Select atleast one Social Media from Share on.,Selecteer ten minste een socialmediaplatform bij 'Delen op'.,reviewed,erpnext,0.87,0.6,0.55,0.65,0.65,0.9,improved
 Select Attachments,Selecteer Bijlagen,reviewed,frappe,0.82,0.8,0.75,0.8,0.9,1.0,ok
 Select Attribute Values,Selecteer kenmerkwaarden,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select Batch,Selecteer Batch,reviewed,erpnext,0.73,0.7,0.65,0.7,0.85,1.0,review
+Select Batch,Selecteer batch,reviewed,erpnext,0.87,0.7,0.65,0.7,0.85,1.0,improved
 Select Batch Numbers,Selecteer batchnummers,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select Billing Address,Selecteer factuuradres,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Select BOM and Qty for Production,Selecteer BOM en Aantal voor productie,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select BOM and Qty for Production,Selecteer stuklijst en hoeveelheid voor productie,reviewed,erpnext,0.84,0.75,0.7,0.75,0.85,1.0,improved
 "Select BOM, Qty and For Warehouse","Selecteer stuklijst, aantal en voor magazijn",reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select Brand...,Selecteer merk ...,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
 Select change amount account,Selecteer wisselgeldrekening,reviewed,erpnext,0.8,0.35,0.3,0.4,0.4,0.8,improved
 Select Child Table,Selecteer onderliggende tabel,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select Column,Selecteer Kolom,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Column,Kolom selecteren,reviewed,frappe,0.82,0.75,0.7,0.75,0.85,1.0,improved
 Select Columns,Kolommen selecteren,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select Company,Selecteer Bedrijf,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Company,Bedrijf selecteren,reviewed,erpnext,0.82,0.75,0.7,0.75,0.85,1.0,improved
 Select company first,Selecteer eerst een bedrijf,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select company name first.,Kies eerst een bedrijfsnaam.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select Company...,Selecteer bedrijf ...,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
 Select Customer,Selecteer klant,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select Customers By,Selecteer klanten op,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select Dashboard,Selecteer Dashboard,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Dashboard,Dashboard selecteren,reviewed,frappe,0.82,0.75,0.7,0.75,0.85,1.0,improved
 Select Date Range,Selecteer datumbereik,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select Days,Selecteer dagen,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select Default Supplier,Selecteer Standaard Leverancier,reviewed,erpnext,0.73,0.7,0.65,0.7,0.8,1.0,review
-Select Difference Account,Selecteer Verschilaccount,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Default Supplier,Standaardleverancier selecteren,reviewed,erpnext,0.86,0.7,0.65,0.7,0.8,1.0,improved
+Select Difference Account,Verschilrekening selecteren,reviewed,erpnext,0.85,0.75,0.7,0.75,0.85,1.0,improved
 Select DocType,Selecteer DocType,reviewed,both,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select Doctype,Selecteer Doctype,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select Document Type,Selecteer Document Type,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
-Select Document Type or Role to start.,Selecteer Document Type of Rol om te beginnen.,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Document Type,Documenttype selecteren,reviewed,frappe,0.84,0.75,0.7,0.75,0.85,1.0,improved
+Select Document Type or Role to start.,Selecteer een documenttype of rol om te beginnen.,reviewed,frappe,0.86,0.75,0.7,0.75,0.85,1.0,improved
 Select Document Types to set which User Permissions are used to limit access.,Selecteer documenttypen om in te stellen welke gebruikersmachtigingen worden gebruikt om de toegang te beperken.,reviewed,frappe,0.85,0.4,0.35,0.45,0.35,0.8,improved
-Select Employees,Selecteer Medewerkers,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
-Select Event Type,Selecteer Gebeurtenistype,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Employees,Medewerkers selecteren,reviewed,erpnext,0.83,0.75,0.7,0.75,0.85,1.0,improved
+Select Event Type,Gebeurtenistype selecteren,reviewed,frappe,0.84,0.75,0.7,0.75,0.85,1.0,improved
 Select Field,Selecteer veld,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select Field...,Selecteer veld ...,reviewed,frappe,0.82,0.8,0.75,0.8,0.9,1.0,ok
-Select Fields,Selecteer Velden,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
-Select Fields To Insert,Selecteer Velden om in te voegen,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
-Select Fields To Update,Selecteer Velden die moeten worden bijgewerkt,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Fields,Velden selecteren,reviewed,frappe,0.83,0.75,0.7,0.75,0.85,1.0,improved
+Select Fields To Insert,Selecteer in te voegen velden,reviewed,frappe,0.85,0.75,0.7,0.75,0.85,1.0,improved
+Select Fields To Update,Selecteer bij te werken velden,reviewed,frappe,0.88,0.75,0.7,0.75,0.85,1.0,improved
 Select File Format,Selecteer Bestandsformaat,reviewed,frappe,0.82,0.8,0.75,0.8,0.9,1.0,ok
 Select Filters,Selecteer filters,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select finance book for the item {0} at row {1},Selecteer financieringsboek voor het artikel {0} op rij {1},reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select finance book for the item {0} at row {1},Selecteer een financieel grootboek voor artikel {0} op rij {1},reviewed,erpnext,0.85,0.75,0.7,0.75,0.85,1.0,improved
 Select Fiscal Year...,Selecteer boekjaar ...,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select From Date,Selecteer Vanaf datum,reviewed,frappe,0.73,0.7,0.65,0.7,0.8,1.0,review
+Select From Date,Begindatum selecteren,reviewed,frappe,0.86,0.7,0.65,0.7,0.8,1.0,improved
 Select Google Calendar to which event should be synced.,Selecteer de Google Agenda waarmee het evenement moet worden gesynchroniseerd.,reviewed,frappe,0.86,0.45,0.4,0.5,0.45,0.9,improved
 Select Google Contacts to which contact should be synced.,Selecteer Google Contacten waarnaar contact moet worden gesynchroniseerd.,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select Group By...,Selecteer Groeperen op ...,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
@@ -9189,35 +9189,35 @@ Select Item (optional),Selecteer item (optioneel),reviewed,erpnext,0.88,0.85,0.8
 Select item group,Selecteer artikelgroep,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select Items,Selecteer items,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select Items based on Delivery Date,Selecteer items op basis van leveringsdatum,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Select Items to Manufacture,Selecteer Items voor fabricage,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Items to Manufacture,Selecteer te produceren artikelen,reviewed,erpnext,0.87,0.75,0.7,0.75,0.85,1.0,improved
 Select Language,Selecteer taal,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select Language...,Selecteer taal ...,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select Languages,Selecteer talen,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select list item,Selecteer lijstitem,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select Loyalty Program,Selecteer Loyaliteitsprogramma,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
-Select Mandatory,Selecteer Verplicht,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+Select Loyalty Program,Loyaliteitsprogramma selecteren,reviewed,erpnext,0.84,0.75,0.7,0.75,0.85,1.0,improved
+Select Mandatory,Verplichte velden selecteren,reviewed,frappe,0.85,0.75,0.7,0.75,0.85,1.0,improved
 Select Maximum Of 1,Selecteer maximaal 1,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select multiple list items,Selecteer meerdere lijstitems,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select only one Priority as Default.,Selecteer slechts één prioriteit als standaard.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select or drag across time slots to create a new event.,Selecteer of sleep over tijdsloten om een nieuwe gebeurtenis te maken.,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select Patient,Selecteer Patiënt,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
-Select Payroll Period,Selecteer Payroll Periode,reviewed,erpnext,0.68,0.65,0.6,0.65,0.75,1.0,review
+Select Patient,Patiënt selecteren,reviewed,erpnext,0.84,0.75,0.7,0.75,0.85,1.0,improved
+Select Payroll Period,Salarisperiode selecteren,reviewed,erpnext,0.87,0.65,0.6,0.65,0.75,1.0,improved
 Select Possible Supplier,Selecteer mogelijke leverancier,reviewed,erpnext,0.82,0.3,0.25,0.35,0.3,0.8,improved
-Select Print Format,Selecteer Print Formaat,reviewed,frappe,0.68,0.65,0.6,0.65,0.75,1.0,review
+Select Print Format,Afdrukopmaak selecteren,reviewed,frappe,0.86,0.65,0.6,0.65,0.75,1.0,improved
 Select Print Format to Edit,Selecteer afdrukindeling om te bewerken,reviewed,frappe,0.84,0.35,0.3,0.4,0.35,0.8,improved
-Select Quantity,Kies aantal,reviewed,erpnext,0.72,0.7,0.75,0.6,0.9,1.0,review
-Select records for assignment,Selecteer records voor opdracht,reviewed,frappe,0.75,0.7,0.7,0.8,0.85,1.0,review
+Select Quantity,Aantal selecteren,reviewed,erpnext,0.83,0.7,0.75,0.6,0.9,1.0,improved
+Select records for assignment,Selecteer records voor toewijzing,reviewed,frappe,0.86,0.7,0.7,0.8,0.85,1.0,improved
 Select Role,Selecteer Rol,reviewed,frappe,0.83,0.85,0.75,0.85,0.8,1.0,ok
 Select Serial Numbers,Selecteer serienummers,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select Shipping Address,Selecteer Verzendadres,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
-Select students manually for the Activity based Group,Selecteer studenten handmatig voor de activiteit gebaseerde groep,reviewed,erpnext,0.68,0.7,0.55,0.75,0.6,1.0,review
+Select students manually for the Activity based Group,Selecteer handmatig studenten voor de op activiteit gebaseerde groep,reviewed,erpnext,0.85,0.7,0.55,0.75,0.6,1.0,improved
 Select Supplier Address,Selecteer leveranciersadres,reviewed,erpnext,0.88,0.2,0.1,0.1,0.1,0.8,improved
 Select Table Columns for {0},Selecteer tabelkolommen voor {0},reviewed,frappe,0.87,0.3,0.2,0.3,0.2,0.9,improved
-Select Target Warehouse,Selecteer Target Warehouse,reviewed,erpnext,0.53,0.5,0.4,0.5,0.7,1.0,review
+Select Target Warehouse,Doelmagazijn selecteren,reviewed,erpnext,0.88,0.5,0.4,0.5,0.7,1.0,improved
 Select template item,Selecteer een sjabloonitem,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Select the Bank Account to reconcile.,Selecteer de bankrekening die u wilt afstemmen.,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Select the customer or supplier.,Selecteer de klant of leverancier.,reviewed,erpnext,0.93,0.9,0.95,0.9,1.0,1.0,ok
-Select the label after which you want to insert new field.,"Selecteer het label, waarachter u nieuwe veld wilt invoegen.",reviewed,frappe,0.74,0.75,0.65,0.8,0.65,1.0,review
+Select the label after which you want to insert new field.,Selecteer het label waarna u een nieuw veld wilt invoegen.,reviewed,frappe,0.89,0.75,0.65,0.8,0.65,1.0,improved
 Select the nature of your business.,Selecteer de aard van uw bedrijf.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Select the program first,Selecteer eerst het programma,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Select Therapy Type,Selecteer het therapietype,reviewed,erpnext,0.92,0.9,0.9,0.85,1.0,1.0,ok
@@ -9225,7 +9225,7 @@ Select to add Serial Number.,Selecteer om serienummer toe te voegen.,reviewed,er
 Select Transaction,Selecteer Transactie,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Select variant item code for the template item {0},Selecteer variantartikelcode voor het sjabloonartikel {0},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Select warehouse for material requests,Selecteer magazijn voor materiaalaanvragen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Select Warehouse...,Kies Warehouse ...,reviewed,erpnext,0.57,0.55,0.5,0.45,0.7,0.9,review
+Select Warehouse...,Magazijn selecteren...,reviewed,erpnext,0.88,0.55,0.5,0.45,0.7,0.9,improved
 "Select your Country, Time Zone and Currency","Selecteer uw land, tijdzone en valuta",reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Select your Domains,Selecteer uw domeinen,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select Your Region,Selecteer uw regio,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -9237,7 +9237,7 @@ Selected POS Opening Entry should be open.,Het geselecteerde POS-openingsitem mo
 Selected Price List should have buying and selling fields checked.,In de geselecteerde prijslijst moeten de velden voor kopen en verkopen worden gecontroleerd.,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
 Self approval is not allowed,Eigen goedkeuring is niet toegestaan,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Self-Driving Vehicle,Zelfrijdend voertuig,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Sell,Verkopen,reviewed,erpnext,0.77,0.75,0.7,0.75,0.9,1.0,review
+Sell,Verkopen,reviewed,erpnext,0.85,0.75,0.7,0.75,0.9,1.0,improved
 Seller ID,Verkoper-ID,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Seller Information,Verkopersinformatie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Selling,Verkoop,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -9246,19 +9246,19 @@ Selling Amount,Verkoopbedrag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Selling Price List,Verkoopprijslijst,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Selling Rate,Verkooptarief,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Selling Settings,Verkoopinstellingen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Send,Verstuur,reviewed,both,0.76,0.75,0.75,0.65,0.9,1.0,review
+Send,Verzenden,reviewed,both,0.87,0.75,0.75,0.65,0.9,1.0,improved
 Send a message,Stuur een bericht,reviewed,erpnext,0.87,0.85,0.9,0.8,1.0,1.0,ok
-Send After,Stuur Na,reviewed,frappe,0.57,0.55,0.5,0.55,0.65,1.0,review
+Send After,Verzenden na,reviewed,frappe,0.88,0.55,0.5,0.55,0.65,1.0,improved
 Send After (days),Verzenden na (dagen),reviewed,erpnext,0.92,0.9,0.9,0.85,1.0,1.0,ok
-Send alert if date matches this field's value,Stuur Alert als datum overeenkomt met waarde in dit veld.,reviewed,frappe,0.74,0.75,0.7,0.65,0.75,1.0,review
-Send alert if this field's value changes,Stuur Alert als de waarde in dit veld wijzigt,reviewed,frappe,0.75,0.75,0.75,0.65,0.8,1.0,review
-Send Alert On,Stuur Alert Op,reviewed,frappe,0.56,0.55,0.45,0.55,0.6,1.0,review
+Send alert if date matches this field's value,Stuur een melding als de datum overeenkomt met de waarde van dit veld.,reviewed,frappe,0.89,0.75,0.7,0.65,0.75,1.0,improved
+Send alert if this field's value changes,Stuur een melding als de waarde van dit veld verandert.,reviewed,frappe,0.9,0.75,0.75,0.65,0.8,1.0,improved
+Send Alert On,Melding sturen bij,reviewed,frappe,0.87,0.55,0.45,0.55,0.6,1.0,improved
 Send an email reminder in the morning,Stuur een e-mail herinnering in de ochtend,reviewed,frappe,0.8,0.8,0.75,0.8,0.8,1.0,ok
 Send an email to {0} to link it here,Stuur een e-mail naar {0} om het hier te koppelen,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Send Attachments,Bijlagen verzenden,reviewed,frappe,0.92,0.9,0.9,0.85,1.0,1.0,ok
 Send days before or after the reference date,Stuur dagen voor of na de peildatum,reviewed,frappe,0.82,0.8,0.75,0.8,0.85,1.0,ok
 Send Email,E-mail verzenden,reviewed,erpnext,0.92,0.9,0.9,0.85,1.0,1.0,ok
-Send Email Alert,Stuur e-mail alert,reviewed,frappe,0.72,0.7,0.7,0.65,0.8,1.0,review
+Send Email Alert,E-mailmelding verzenden,reviewed,frappe,0.89,0.7,0.7,0.65,0.8,1.0,improved
 Send Email for Successful Backup,Stuur een e-mail voor een succesvolle back-up,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Send Email for Successful backup,Stuur een e-mail voor een succesvolle back-up,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Send Email Print Attachments as PDF (Recommended),E-mailbijlagen als PDF versturen (aanbevolen),reviewed,frappe,0.81,0.8,0.8,0.75,0.9,0.85,ok
@@ -9266,20 +9266,20 @@ Send Emails to Suppliers,Stuur e-mails naar leveranciers,reviewed,erpnext,0.87,0
 Send enquiries to this email address,Stuur uw vragen naar dit e-mailadres,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Send Grant Review Email,Beoordeling subsidieaanvraag per e-mail versturen,reviewed,erpnext,0.78,0.3,0.25,0.3,0.4,0.8,improved
 Send Invoice with Email,Stuur factuur met e-mail,reviewed,erpnext,0.86,0.85,0.85,0.8,0.9,1.0,ok
-Send mass SMS to your contacts,Stuur massa SMS naar uw contacten,reviewed,erpnext,0.7,0.7,0.6,0.75,0.65,1.0,review
+Send mass SMS to your contacts,Stuur een massa-sms naar uw contacten.,reviewed,erpnext,0.87,0.7,0.6,0.75,0.65,1.0,improved
 Send me a copy,Stuur mij een kopie,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Send Me A Copy of Outgoing Emails,Stuur me een kopie van uitgaande e-mails,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Send Membership Acknowledgement,Stuur lidmaatschapsbevestiging,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Send Notification To,Stuur Kennisgeving aan,reviewed,frappe,0.7,0.7,0.65,0.65,0.75,1.0,review
+Send Notification To,Melding verzenden naar,reviewed,frappe,0.88,0.7,0.65,0.65,0.75,1.0,improved
 Send Notification to,Stuur bericht naar,reviewed,frappe,0.81,0.8,0.8,0.75,0.9,1.0,ok
 Send Notifications For Documents Followed By Me,Stuur meldingen voor documenten die door mij zijn gevolgd,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Send Notifications For Email Threads,Stuur meldingen voor e-mailthreads,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Send Notifications To,Verzend Notificaties naar,reviewed,frappe,0.62,0.6,0.55,0.55,0.65,1.0,review
+Send Notifications To,Meldingen verzenden naar,reviewed,frappe,0.89,0.6,0.55,0.55,0.65,1.0,improved
 Send Now,Nu verzenden,reviewed,both,0.92,0.9,0.9,0.85,1.0,1.0,ok
 Send only if there is any data,Alleen versturen als er gegevens zijn,reviewed,frappe,0.9,0.1,0.1,0.2,0.1,0.2,improved
 Send Payment Request,Verzend betalingsverzoek,reviewed,erpnext,0.86,0.85,0.85,0.8,0.9,1.0,ok
 Send Payment Request Email,Stuur een e-mail voor betalingsverzoek,reviewed,erpnext,0.82,0.8,0.8,0.75,0.85,1.0,ok
-Send Print as PDF,Verzend Afdruk als PDF,reviewed,frappe,0.75,0.75,0.7,0.7,0.75,1.0,review
+Send Print as PDF,Afdruk als PDF verzenden,reviewed,frappe,0.88,0.75,0.7,0.7,0.75,1.0,improved
 Send Read Receipt,Leesbevestiging verzenden,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Send regular summary reports via Email.,Stuur regelmatige samenvattende rapporten via e-mail.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Send SMS,SMS versturen,reviewed,erpnext,0.83,0.8,0.8,0.75,0.9,1.0,ok
@@ -9302,27 +9302,27 @@ Sending,Verzenden,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Sends Mails to lead or contact based on a Campaign schedule,Stuurt e-mails naar lead of contact op basis van een campagneschema,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Sensitivity,Gevoeligheid,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Sensitivity Test Result,Gevoeligheidstestresultaat,reviewed,erpnext,0.87,0.85,0.8,0.85,1.0,1.0,ok
-Sent,verzonden,reviewed,both,0.72,0.7,0.75,0.65,0.7,1.0,review
+Sent,Verzonden,reviewed,both,0.85,0.7,0.75,0.65,0.7,1.0,improved
 Sent On,Verzonden op,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Sent or Received,Verzonden of ontvangen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Sent Read Receipt,Verzonden Leesbevestiging,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Sent To,Verzenden Naar,reviewed,erpnext,0.57,0.5,0.45,0.6,0.7,1.0,review
+Sent To,Verzonden naar,reviewed,erpnext,0.89,0.5,0.45,0.6,0.7,1.0,improved
 Sent/Received Email,Verzonden / ontvangen e-mail,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Separate course based Group for every Batch,Afzonderlijke cursusgroep voor elke partij,reviewed,erpnext,0.77,0.75,0.7,0.75,0.8,1.0,review
+Separate course based Group for every Batch,Aparte cursusgroep per batch,reviewed,erpnext,0.87,0.75,0.7,0.75,0.8,1.0,improved
 Separator,Scheidingsteken,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 September,september,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Sequence ID,Volgorde-ID,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Sequence Id,Volgorde-ID,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Serial and Batch Bundle,Serie- en partijbundel,reviewed,custom,0.81,0.8,0.75,0.8,0.85,1.0,ok
 Serial No,Serienummer,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Serial No / Batch,Serienummer / Batch,reviewed,erpnext,0.7,0.7,0.65,0.6,0.8,1.0,review
-Serial No and Batch,Serienummer en batch,reviewed,erpnext,0.73,0.75,0.7,0.65,0.8,1.0,review
-Serial No Count,Serienummer tellen,reviewed,erpnext,0.62,0.55,0.5,0.65,0.7,1.0,review
+Serial No / Batch,Serienummer/batch,reviewed,erpnext,0.86,0.7,0.65,0.6,0.8,1.0,improved
+Serial No and Batch,Serienummer en batch,reviewed,erpnext,0.86,0.75,0.7,0.65,0.8,1.0,improved
+Serial No Count,Aantal serienummers,reviewed,erpnext,0.88,0.55,0.5,0.65,0.7,1.0,improved
 Serial No Details,Serienummergegevens,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Serial No is mandatory for Item {0},Serienummer is verplicht voor Artikel {0},reviewed,erpnext,0.88,0.9,0.85,0.85,0.9,1.0,ok
-Serial No Service Contract Expiry,Serienummer servicecontract vervaldatum,reviewed,erpnext,0.68,0.65,0.6,0.7,0.65,1.0,review
+Serial No Service Contract Expiry,Vervaldatum servicecontract serienummer,reviewed,erpnext,0.85,0.65,0.6,0.7,0.65,1.0,improved
 Serial No Status,Serienummerstatus,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Serial No Warranty Expiry,Serienummer garantie vervaldatum,reviewed,erpnext,0.68,0.65,0.6,0.7,0.65,1.0,review
+Serial No Warranty Expiry,Vervaldatum garantie serienummer,reviewed,erpnext,0.86,0.65,0.6,0.7,0.65,1.0,improved
 Serial No {0} Created,Serienummer {0} aangemaakt,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Serial No {0} does not belong to any Warehouse,Serienummer {0} behoort niet tot een magazijn,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Serial No {0} does not belong to Batch {1},Serienummer {0} hoort niet bij Batch {1},reviewed,erpnext,0.83,0.85,0.8,0.75,0.85,1.0,ok
@@ -9336,90 +9336,90 @@ Serial No {0} is under maintenance contract upto {1},Serienummer {0} valt binnen
 Serial No {0} is under warranty upto {1},Serienummer {0} is onder garantie tot {1},reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Serial No {0} not found,Serienummer {0} niet gevonden,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Serial No {0} not in stock,Serienummer {0} niet op voorraad,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Serial No {0} quantity {1} cannot be a fraction,Serienummer {0} hoeveelheid {1} moet een geheel getal zijn,reviewed,erpnext,0.8,0.75,0.75,0.8,0.85,1.0,review
+Serial No {0} quantity {1} cannot be a fraction,De hoeveelheid {1} van serienummer {0} kan geen breuk zijn.,reviewed,erpnext,0.88,0.75,0.75,0.8,0.85,1.0,improved
 Serial no(s) required for serialized item {0},Serienummer(s) vereist voor geserialiseerd artikel {0},reviewed,erpnext,0.86,0.4,0.35,0.5,0.5,0.7,improved
 Serial No: {0} has already been transacted into another POS Invoice.,Serienummer: {0} is al verwerkt in een andere POS-factuur.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Serial Nos and Batches,Serienummers en batches,reviewed,erpnext,0.83,0.85,0.8,0.75,0.85,1.0,ok
 Serial Nos Required,Serienummers vereist,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Serial Nos Required for Serialized Item {0},Volgnummers zijn vereist voor Seriegebonden Artikel {0},reviewed,erpnext,0.56,0.55,0.5,0.45,0.6,1.0,review
+Serial Nos Required for Serialized Item {0},Serienummers zijn verplicht voor serieartikel {0}.,reviewed,erpnext,0.89,0.55,0.5,0.45,0.6,1.0,improved
 Serial Number Created,Serienummer gemaakt,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
-Serial Number Series,Serienummer Reeksen,reviewed,erpnext,0.72,0.7,0.65,0.7,0.75,1.0,review
+Serial Number Series,Serienummerreeks,reviewed,erpnext,0.87,0.7,0.65,0.7,0.75,1.0,improved
 Serial number {0} entered more than once,Serienummer {0} meer dan eens ingevoerd,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Serial Number: {0} is already referenced in Sales Invoice: {1},Serienummer: {0} is reeds verwezen in de verkoopfactuur: {1},reviewed,erpnext,0.7,0.7,0.65,0.7,0.65,1.0,review
+Serial Number: {0} is already referenced in Sales Invoice: {1},Serienummer {0} is al gekoppeld aan verkoopfactuur {1}.,reviewed,erpnext,0.9,0.7,0.65,0.7,0.65,1.0,improved
 Serial Numbers,Serienummers,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Serial Numbers Created,Serienummers gemaakt,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
-"Serial numbers for stock will be set automatically based on the Items entered based on first in first out in transactions like Purchase/Sales Invoices, Delivery Notes, etc.","Serienummers voor voorraad worden automatisch ingesteld op basis van de ingevoerde artikelen op basis van first in first out in transacties zoals inkoop- / verkoopfacturen, leveringsbonnen, enz.",reviewed,erpnext,0.73,0.75,0.65,0.75,0.7,1.0,review
-Serial Numbers in row {0} does not match with Delivery Note,Serienummers in rij {0} komt niet overeen met bezorgingsnota,reviewed,erpnext,0.61,0.6,0.55,0.65,0.55,1.0,review
+"Serial numbers for stock will be set automatically based on the Items entered based on first in first out in transactions like Purchase/Sales Invoices, Delivery Notes, etc.","Serienummers voor de voorraad worden automatisch bepaald op basis van FIFO (first-in-first-out) bij transacties zoals inkoop- en verkoopfacturen, afleveringsbonnen enzovoort.",reviewed,erpnext,0.85,0.75,0.65,0.75,0.7,1.0,improved
+Serial Numbers in row {0} does not match with Delivery Note,Serienummers in rij {0} komen niet overeen met de afleveringsbon,reviewed,erpnext,0.88,0.6,0.55,0.65,0.55,1.0,improved
 Serial numbers unavailable for Item {0} under warehouse {1}. Please try changing warehouse.,Serienummers niet beschikbaar voor artikel {0} onder magazijn {1}. Probeer het magazijn te veranderen.,reviewed,erpnext,0.8,0.8,0.75,0.8,0.8,1.0,ok
 Serialized Inventory,Voorraad op serienummer,reviewed,erpnext,0.85,0.4,0.35,0.4,0.5,1.0,improved
 Series,Reeksen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Series for Asset Depreciation Entry (Journal Entry),Reeks voor activaafschrijvingsboeking (dagboekboeking),reviewed,erpnext,0.84,0.4,0.35,0.4,0.45,0.8,improved
 Series is mandatory,Reeks is verplicht,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Series List for this Transaction,Reeks voor deze transactie,reviewed,frappe,0.71,0.7,0.65,0.7,0.75,0.85,review
+Series List for this Transaction,Nummerreeksen voor deze transactie,reviewed,frappe,0.85,0.7,0.65,0.7,0.75,0.85,improved
 Series Updated,Reeks bijgewerkt,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Series Updated Successfully,Reeks succesvol bijgewerkt,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Series {0} already used in {1},Reeks {0} al gebruikt in {1},reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Served,geserveerd,reviewed,erpnext,0.51,0.5,0.4,0.5,0.45,1.0,review
+Served,Afgehandeld,reviewed,erpnext,0.85,0.5,0.4,0.5,0.45,1.0,improved
 Server Action,Serveractie,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Server Error,Serverfout,reviewed,both,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Service Address,Service Adres,reviewed,erpnext,0.66,0.65,0.6,0.65,0.65,1.0,review
+Service Address,Serviceadres,reviewed,erpnext,0.88,0.65,0.6,0.65,0.65,1.0,improved
 Service Day,Servicedag,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Service Detail,Servicedetail,reviewed,erpnext,0.84,0.45,0.4,0.5,0.35,1.0,improved
 Service End Date,Einddatum service,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Service Level Agreement Creation,Service Level Agreement Creatie,reviewed,erpnext,0.67,0.65,0.6,0.7,0.65,1.0,review
+Service Level Agreement Creation,Service Level Agreement aanmaken,reviewed,erpnext,0.84,0.65,0.6,0.7,0.65,1.0,improved
 Service Level Agreement Details,Details van Service Level Agreement,reviewed,erpnext,0.8,0.8,0.75,0.8,0.8,1.0,ok
 Service Level Agreement has been changed to {0}.,Service Level Agreement is gewijzigd in {0}.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Service Level Agreement Status,Status Service Level Agreement,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,1.0,ok
 Service Level Agreement was reset.,Service Level Agreement is opnieuw ingesteld.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Service Level Agreement with Entity Type {0} and Entity {1} already exists.,Service Level Agreement met Entity Type {0} en Entity {1} bestaat al.,reviewed,erpnext,0.76,0.75,0.7,0.75,0.75,1.0,review
+Service Level Agreement with Entity Type {0} and Entity {1} already exists.,Er bestaat al een Service Level Agreement met entiteitstype {0} en entiteit {1}.,reviewed,erpnext,0.87,0.75,0.7,0.75,0.75,1.0,improved
 Service Level Priority,Prioriteit serviceniveau,reviewed,erpnext,0.8,0.8,0.75,0.8,0.8,1.0,ok
 Service Received But Not Billed,Service ontvangen maar niet gefactureerd,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Service Start Date,Startdatum van de service,reviewed,erpnext,0.82,0.8,0.8,0.8,0.8,1.0,ok
-Service Stop Date,Dienststopdatum,reviewed,erpnext,0.57,0.55,0.5,0.55,0.5,1.0,review
-Service Stop Date cannot be after Service End Date,De service-einddatum kan niet na de einddatum van de service liggen,reviewed,erpnext,0.51,0.5,0.45,0.5,0.45,1.0,review
-Service Stop Date cannot be before Service Start Date,De service-einddatum mag niet vóór de startdatum van de service liggen,reviewed,erpnext,0.76,0.75,0.7,0.75,0.75,1.0,review
+Service Stop Date,Einddatum service,reviewed,erpnext,0.85,0.55,0.5,0.55,0.5,1.0,improved
+Service Stop Date cannot be after Service End Date,De servicestopdatum mag niet na de service-einddatum liggen,reviewed,erpnext,0.87,0.5,0.45,0.5,0.45,1.0,improved
+Service Stop Date cannot be before Service Start Date,De servicestopdatum mag niet voor de servicestartdatum liggen,reviewed,erpnext,0.88,0.75,0.7,0.75,0.75,1.0,improved
 Service Unit,Service-eenheid,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Service Unit Type,Type onderhoudseenheid,reviewed,erpnext,0.57,0.55,0.5,0.55,0.55,1.0,review
+Service Unit Type,Type service-eenheid,reviewed,erpnext,0.85,0.55,0.5,0.55,0.55,1.0,improved
 Session Active,Sessie actief,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Session Default,Sessie Standaard,reviewed,frappe,0.66,0.65,0.6,0.65,0.65,1.0,review
+Session Default,Sessiestandaard,reviewed,frappe,0.86,0.65,0.6,0.65,0.65,1.0,improved
 Session Default Settings,Standaard sessie-instellingen,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Session Defaults,Standaardwaarden sessie,reviewed,frappe,0.76,0.75,0.7,0.75,0.75,1.0,review
+Session Defaults,Standaardwaarden per sessie,reviewed,frappe,0.86,0.75,0.7,0.75,0.75,1.0,improved
 Session Defaults Saved,Standaardwaarden sessie opgeslagen,reviewed,frappe,0.8,0.8,0.75,0.8,0.8,1.0,ok
 Session Expired,Sessie verlopen,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Session Expiry,Sessie Verval,reviewed,frappe,0.57,0.55,0.5,0.55,0.55,1.0,review
-Session Expiry in Hours e.g. 06:00,"Sessie Verval in uren, bijvoorbeeld 06:00",reviewed,frappe,0.75,0.75,0.7,0.7,0.75,1.0,review
+Session Expiry,Sessie-timeout,reviewed,frappe,0.87,0.55,0.5,0.55,0.55,1.0,improved
+Session Expiry in Hours e.g. 06:00,"Sessie-timeout in uren, bijv. 06:00",reviewed,frappe,0.88,0.75,0.7,0.7,0.75,1.0,improved
 Session Expiry Mobile,Sessieverloop mobiel,reviewed,frappe,0.83,0.3,0.25,0.3,0.3,0.8,improved
-Session Expiry must be in format {0},Sessie Verval moet in dit formaat {0},reviewed,frappe,0.59,0.6,0.55,0.6,0.5,0.85,review
+Session Expiry must be in format {0},Sessie-timeout moet de indeling {0} hebben,reviewed,frappe,0.88,0.6,0.55,0.6,0.5,0.85,improved
 Session is expired. Save doc to login.,Sessie is verlopen. Sla het document op om in te loggen.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Session Not Active. Save doc to login.,Sessie niet actief. Sla het document op om in te loggen.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 "Session not valid, Do you want to login?",Sessie niet geldig. Wilt u inloggen?,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Session Start Failed,Sessie Start mislukt,reviewed,frappe,0.65,0.65,0.6,0.65,0.6,1.0,review
+Session Start Failed,Sessiestart mislukt,reviewed,frappe,0.88,0.65,0.6,0.65,0.6,1.0,improved
 Session Status,Sessiestatus,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Sessions,Sessies,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Sessions Completed,Voltooide sessies,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Set,Instellen,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Set 0 for no limit,Stel 0 voor geen limiet,reviewed,erpnext,0.65,0.65,0.6,0.65,0.6,1.0,review
+Set 0 for no limit,Stel 0 in voor geen limiet,reviewed,erpnext,0.86,0.65,0.6,0.65,0.6,1.0,improved
 Set a Default Warehouse for Inventory Transactions. This will be fetched into the Default Warehouse in the Item master.,Stel een standaardmagazijn in voor voorraadtransacties. Dit wordt opgehaald in het standaardmagazijn in de artikelstam.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Set Accepted Warehouse,Geaccepteerd magazijn instellen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Set Advances and Allocate (FIFO),Vooruitgang en toewijzing instellen (FIFO),reviewed,erpnext,0.53,0.5,0.45,0.5,0.5,1.0,review
+Set Advances and Allocate (FIFO),Vooruitbetalingen instellen en toewijzen (FIFO),reviewed,erpnext,0.87,0.5,0.45,0.5,0.5,1.0,improved
 Set as Closed,Instellen als gesloten,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Set as Completed,Instellen als voltooid,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Set as Default,Instellen als standaard,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Set as Default Theme,Instellen als standaardthema,reviewed,frappe,0.83,0.85,0.7,0.85,0.9,1.0,ok
-Set as Lost,Instellen als verloren,reviewed,erpnext,0.75,0.7,0.65,0.8,0.9,1.0,review
-Set as Open,Instellen als Open,reviewed,erpnext,0.69,0.65,0.6,0.7,0.8,1.0,review
-Set Banner from Image,Instellen Banner uit Afbeelding,reviewed,frappe,0.65,0.7,0.5,0.7,0.55,1.0,review
+Set as Lost,Markeren als verloren,reviewed,erpnext,0.88,0.7,0.65,0.8,0.9,1.0,improved
+Set as Open,Markeren als open,reviewed,erpnext,0.88,0.65,0.6,0.7,0.8,1.0,improved
+Set Banner from Image,Banner instellen vanuit afbeelding,reviewed,frappe,0.87,0.7,0.5,0.7,0.55,1.0,improved
 Set Basic Rate Manually,Stel het basistarief handmatig in,reviewed,erpnext,0.86,0.85,0.85,0.8,0.9,1.0,ok
 Set Chart,Grafiek instellen,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Set custom roles for page and report,Stel aangepaste rollen voor pagina en verslag,reviewed,frappe,0.69,0.75,0.6,0.75,0.55,1.0,review
-"Set default format, page size, print style etc.","Instellen standaard formaat, paginaformaat, printstijl, enz.",reviewed,frappe,0.7,0.75,0.6,0.75,0.6,1.0,review
-Set default inventory account for perpetual inventory,Stel standaard inventaris rekening voor permanente inventaris,reviewed,erpnext,0.66,0.7,0.55,0.7,0.55,1.0,review
-"Set Default Options for all charts on this Dashboard (Ex: ""colors"": [""#d1d8dd"", ""#ff5858""])","Standaardopties instellen voor alle grafieken op dit dashboard (bijv. &quot;Kleuren&quot;: [&quot;# d1d8dd&quot;, &quot;# ff5858&quot;])",reviewed,frappe,0.57,0.6,0.45,0.6,0.5,0.8,review
-"Set Default Values like Company, Currency, Current Fiscal Year, etc.","Instellen Standaardwaarden zoals Bedrijf , Valuta , huidige boekjaar , etc.",reviewed,erpnext,0.64,0.7,0.5,0.7,0.5,1.0,review
-Set default {0} account for perpetual inventory for non stock items,Stel een standaard {0} -account in voor eeuwigdurende voorraad voor niet-voorraadartikelen,reviewed,erpnext,0.73,0.75,0.65,0.75,0.7,1.0,review
+Set custom roles for page and report,Aangepaste rollen instellen voor pagina en rapport,reviewed,frappe,0.88,0.75,0.6,0.75,0.55,1.0,improved
+"Set default format, page size, print style etc.","Standaard indeling, paginaformaat, afdrukstijl, enzovoort instellen",reviewed,frappe,0.87,0.75,0.6,0.75,0.6,1.0,improved
+Set default inventory account for perpetual inventory,Standaard voorraadrekening instellen voor doorlopende voorraad,reviewed,erpnext,0.88,0.7,0.55,0.7,0.55,1.0,improved
+"Set Default Options for all charts on this Dashboard (Ex: ""colors"": [""#d1d8dd"", ""#ff5858""])","Standaardopties instellen voor alle grafieken op dit dashboard (bijv. ""colors"": [""#d1d8dd"", ""#ff5858""])",reviewed,frappe,0.9,0.6,0.45,0.6,0.5,0.8,improved
+"Set Default Values like Company, Currency, Current Fiscal Year, etc.","Standaardwaarden instellen zoals bedrijf, valuta, huidig boekjaar enzovoort",reviewed,erpnext,0.89,0.7,0.5,0.7,0.5,1.0,improved
+Set default {0} account for perpetual inventory for non stock items,Standaard {0}-rekening instellen voor doorlopende voorraad van niet-voorraadartikelen,reviewed,erpnext,0.88,0.75,0.65,0.75,0.7,1.0,improved
 Set Details,Details instellen,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Set Dynamic Filters,Stel dynamische filters in,reviewed,frappe,0.88,0.9,0.85,0.85,0.9,1.0,ok
-Set Exchange Gain / Loss,Stel Exchange winst / verlies,reviewed,erpnext,0.61,0.65,0.5,0.65,0.5,1.0,review
+Set Exchange Gain / Loss,Wisselkoerswinst/-verlies instellen,reviewed,erpnext,0.88,0.65,0.5,0.65,0.5,1.0,improved
 Set Filters,Stel filters in,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Set Filters for {0},Filters instellen voor {0},reviewed,frappe,0.89,0.9,0.85,0.85,0.95,1.0,ok
 Set Invoice Value for B2C. B2CL and B2CS calculated based on this invoice value.,Factuurwaarde instellen voor B2C. B2CL en B2CS berekend op basis van deze factuurwaarde.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
@@ -9427,18 +9427,18 @@ Set Item Group-wise budgets on this Territory. You can also include seasonality 
 Set Meta Tags,Stel metatags in,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Set New Password,Nieuw wachtwoord instellen,reviewed,frappe,0.9,0.55,0.3,0.5,0.3,1.0,improved
 Set New Release Date,Stel nieuwe releasedatum in,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Set non-standard precision for a Float or Currency field,Stel niet-standaard precisie voor een Float of Valuta veld,reviewed,frappe,0.67,0.7,0.6,0.7,0.6,1.0,review
+Set non-standard precision for a Float or Currency field,Niet-standaard precisie instellen voor een Float- of Valutaveld,reviewed,frappe,0.88,0.7,0.6,0.7,0.6,1.0,improved
 Set Number of Backups,Aantal back-ups instellen,reviewed,frappe,0.89,0.55,0.3,0.55,0.3,1.0,improved
-Set numbering series for transactions.,Instellen nummerreeksen voor transacties.,reviewed,frappe,0.7,0.75,0.6,0.75,0.65,1.0,review
+Set numbering series for transactions.,Nummerreeksen instellen voor transacties.,reviewed,frappe,0.89,0.75,0.6,0.75,0.65,1.0,improved
 Set Only Once,Stel slechts eenmaal in,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Set Password,Wachtwoord instellen,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
 Set Permissions,Rechten instellen,reviewed,frappe,0.91,0.9,0.9,0.85,0.95,1.0,ok
 Set Permissions on Document Types and Roles,Machtigingen instellen voor documenttypen en rollen,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Set Posting Date,Boekingsdatum instellen,reviewed,erpnext,0.96,0.95,0.95,0.95,0.95,1.0,ok
-Set prefix for numbering series on your transactions,Instellen voorvoegsel voor nummerreeksen voor uw transacties,reviewed,erpnext,0.66,0.7,0.55,0.7,0.6,1.0,review
+Set prefix for numbering series on your transactions,Voorvoegsel instellen voor nummerreeksen van uw transacties,reviewed,erpnext,0.88,0.7,0.55,0.7,0.6,1.0,improved
 Set Project and all Tasks to status {0}?,Project en alle taken instellen op status {0}?,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Set Property After Alert,Eigenschap instellen na alarmering,reviewed,frappe,0.81,0.8,0.75,0.8,0.85,1.0,ok
-Set Qty in Transactions Based on Serial No Input,Stel het aantal transacties in op basis van serienr. Invoer,reviewed,erpnext,0.64,0.65,0.55,0.65,0.6,0.9,review
+Set Qty in Transactions Based on Serial No Input,Aantal in transacties instellen op basis van serienummerinvoer,reviewed,erpnext,0.87,0.65,0.55,0.65,0.6,0.9,improved
 Set Quantity,Hoeveelheid instellen,reviewed,frappe,0.88,0.55,0.35,0.55,0.35,1.0,improved
 Set rate of sub-assembly item based on BOM,Stel tarief in van subassemblage-artikel op basis van stuklijst,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Set Reserve Warehouse,Stel reservemagazijn in,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
@@ -9452,7 +9452,7 @@ Set targets Item Group-wise for this Sales Person.,Stel doelen in per artikelgro
 Set Tax Rule for shopping cart,Stel belastingregel in voor winkelwagen,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Set the Item Code which will be used for billing the Clinical Procedure.,Stel de artikelcode in die zal worden gebruikt voor het factureren van de klinische procedure.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Set the Out Patient Consulting Charge for this Practitioner.,Stel de kosten voor out-patiëntadvies voor deze behandelaar vast.,reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
-Set the Practitioner Schedule you just created. This will be used while booking appointments.,Stel het Practitioner Schedule in dat u zojuist hebt gemaakt. Dit wordt gebruikt bij het boeken van afspraken.,reviewed,erpnext,0.78,0.75,0.7,0.75,0.85,1.0,review
+Set the Practitioner Schedule you just created. This will be used while booking appointments.,Stel het zojuist aangemaakte behandelaarsrooster in. Dit wordt gebruikt bij het boeken van afspraken.,reviewed,erpnext,0.88,0.75,0.7,0.75,0.85,1.0,improved
 Set this if the customer is a Public Administration company.,Stel dit in als de klant een bedrijf voor openbaar bestuur is.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Set to 0 for no limit on the number of backups taken,Stel in op 0 voor geen limiet voor het aantal gemaakte back-ups,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Set up default Accounts for the Healthcare Facility,Stel standaardaccounts in voor de zorginstelling,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -9461,23 +9461,23 @@ Set User Permissions,Stel Gebruikersmachtigingen in,reviewed,frappe,0.83,0.85,0.
 Set Value,Stel waarde in,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Set {0} in asset category {1} or company {2},Stel {0} in in activacategorie {1} of bedrijf {2},reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Set {0} in company {1},Stel {0} in bedrijf {1} in,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Sets 'Accepted Warehouse' in each row of the items table.,Stelt &#39;Geaccepteerd magazijn&#39; in in elke rij van de itemtabel.,reviewed,erpnext,0.58,0.6,0.45,0.6,0.55,0.85,review
+Sets 'Accepted Warehouse' in each row of the items table.,Stelt 'Geaccepteerd magazijn' in voor elke rij van de artikelentabel.,reviewed,erpnext,0.89,0.6,0.45,0.6,0.55,0.85,improved
 Sets 'Rejected Warehouse' in each row of the items table.,Stelt 'Afgekeurd magazijn' in elke rij van de artikeltabel in.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Sets 'Source Warehouse' in each row of the Items table.,Stelt &#39;Bronmagazijn&#39; in in elke rij van de itemtabel.,reviewed,erpnext,0.58,0.6,0.45,0.6,0.55,0.85,review
-Sets 'Source Warehouse' in each row of the items table.,Stelt &#39;Bronmagazijn&#39; in in elke rij van de itemtabel.,reviewed,erpnext,0.58,0.6,0.45,0.6,0.55,0.85,review
+Sets 'Source Warehouse' in each row of the Items table.,Stelt 'Bronmagazijn' in voor elke rij van de artikelentabel.,reviewed,erpnext,0.89,0.6,0.45,0.6,0.55,0.85,improved
+Sets 'Source Warehouse' in each row of the items table.,Stelt 'Bronmagazijn' in voor elke rij van de artikelentabel.,reviewed,erpnext,0.89,0.6,0.45,0.6,0.55,0.85,improved
 Sets 'Target Warehouse' in each row of the Items table.,Stelt 'Doelmagazijn' in elke rij van de artikeltabel in.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Sets 'Target Warehouse' in each row of the items table.,Stelt 'Doelmagazijn' in elke rij van de artikeltabel in.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Sets 'Warehouse' in each row of the Items table.,Stelt &#39;Magazijn&#39; in in elke rij van de Artikeltabel.,reviewed,erpnext,0.58,0.6,0.45,0.6,0.55,0.85,review
+Sets 'Warehouse' in each row of the Items table.,Stelt 'Magazijn' in voor elke rij van de artikelentabel.,reviewed,erpnext,0.89,0.6,0.45,0.6,0.55,0.85,improved
 Setting Account Type helps in selecting this Account in transactions.,Het instellen van het accounttype helpt bij het selecteren van dit account in transacties.,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Setting defaults,Standaardwaarden instellen,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 "Setting Events to {0}, since the Employee attached to the below Sales Persons does not have a User ID{1}","Evenementen ingesteld op {0}, omdat de werknemer die aan de onderstaande verkopers is gekoppeld geen gebruikers-ID heeft.{1}",reviewed,erpnext,0.86,0.25,0.15,0.25,0.15,0.7,improved
 Setting this Address Template as default as there is no other default,Dit adressjabloon als standaard instellen omdat er geen andere standaard is.,reviewed,frappe,0.88,0.5,0.35,0.5,0.35,0.9,improved
-Setting up company,Bedrijf oprichten,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
-Setting up Email,Het opzetten van e-mail,reviewed,erpnext,0.72,0.7,0.65,0.7,0.8,1.0,review
-Setting up Email Account,Het opzetten van e-mailaccount,reviewed,erpnext,0.71,0.7,0.65,0.7,0.75,1.0,review
-Setting up Employees,Het opzetten van Werknemers,reviewed,erpnext,0.66,0.65,0.55,0.65,0.65,1.0,review
+Setting up company,Bedrijf instellen,reviewed,erpnext,0.87,0.75,0.7,0.75,0.85,1.0,improved
+Setting up Email,E-mail instellen,reviewed,erpnext,0.9,0.7,0.65,0.7,0.8,1.0,improved
+Setting up Email Account,E-mailaccount instellen,reviewed,erpnext,0.9,0.7,0.65,0.7,0.75,1.0,improved
+Setting up Employees,Medewerkers instellen,reviewed,erpnext,0.88,0.65,0.55,0.65,0.65,1.0,improved
 Setting up Global Search documents.,Global Search-documenten instellen.,reviewed,frappe,0.81,0.8,0.75,0.8,0.85,1.0,ok
-Setting up Taxes,Het opzetten van Belastingen,reviewed,erpnext,0.66,0.65,0.55,0.65,0.65,1.0,review
+Setting up Taxes,Belastingen instellen,reviewed,erpnext,0.89,0.65,0.55,0.65,0.65,1.0,improved
 Setting up your system,Uw systeem instellen,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Settings,Instellingen,reviewed,both,0.96,0.95,0.95,0.95,0.95,1.0,ok
 Settings Dropdown,Instellingen dropdown,reviewed,frappe,0.8,0.8,0.7,0.8,0.8,1.0,ok
@@ -9487,25 +9487,25 @@ Settings for Buying Module,Instellingen voor inkoopmodule,reviewed,erpnext,0.91,
 Settings for Contact Us Page,Instellingen voor Contact Pagina,reviewed,frappe,0.8,0.8,0.75,0.8,0.75,1.0,ok
 Settings for Contact Us Page.,Instellingen voor Contact Pagina.,reviewed,frappe,0.8,0.8,0.75,0.8,0.75,1.0,ok
 Settings for OAuth Provider,Instellingen voor OAuth Provider,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-"Settings for online shopping cart such as shipping rules, price list etc.","Instellingen voor online winkelwagentje zoals scheepvaart regels, prijslijst enz.",reviewed,erpnext,0.61,0.65,0.45,0.65,0.5,1.0,review
+"Settings for online shopping cart such as shipping rules, price list etc.","Instellingen voor de online winkelwagen, zoals verzendregels, prijslijst enzovoort.",reviewed,erpnext,0.89,0.65,0.45,0.65,0.5,1.0,improved
 Settings for Selling Module,Instellingen voor verkoopmodule,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Settings for the About Us Page,Instellingen voor de pagina Over ons,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Settings for website homepage,Instellingen voor website homepage,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Settings for website product listing,Instellingen voor website productvermelding,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Settled,verrekend,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Setup,Instellingen,reviewed,both,0.79,0.75,0.75,0.75,0.9,1.0,review
-Setup > Customize Form,Configuratie&gt; Formulier aanpassen,reviewed,frappe,0.62,0.65,0.5,0.65,0.55,0.9,review
+Setup,Instellingen,reviewed,both,0.87,0.75,0.75,0.75,0.9,1.0,improved
+Setup > Customize Form,Instellingen > Formulier aanpassen,reviewed,frappe,0.88,0.65,0.5,0.65,0.55,0.9,improved
 Setup > User,Instellingen > Gebruiker,reviewed,frappe,0.92,0.3,0.2,0.3,0.2,0.8,improved
-Setup > User Permissions,Configuratie&gt; Gebruikersrechten,reviewed,frappe,0.62,0.65,0.5,0.65,0.55,0.9,review
+Setup > User Permissions,Instellingen > Gebruikersrechten,reviewed,frappe,0.88,0.65,0.5,0.65,0.55,0.9,improved
 Setup Auto Email,Automatische e-mail instellen,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Setup cheque dimensions for printing,Cheque-afmetingen instellen voor afdrukken,reviewed,erpnext,0.86,0.3,0.2,0.3,0.2,0.8,improved
 Setup Complete,Installatie voltooid,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Setup default values for POS Invoices,Stel standaardwaarden in voor POS-facturen,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Setup mode of POS (Online / Offline),Setup-modus van POS (online / offline),reviewed,erpnext,0.74,0.75,0.65,0.75,0.75,1.0,review
+Setup mode of POS (Online / Offline),POS-modus instellen (online / offline),reviewed,erpnext,0.87,0.75,0.65,0.75,0.75,1.0,improved
 Setup Notifications based on various criteria.,Meldingen instellen op basis van verschillende criteria.,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
-"Setup of top navigation bar, footer and logo.",Instellen van bovenste navigatiebalk voettekst en logo.,reviewed,frappe,0.74,0.75,0.65,0.75,0.7,1.0,review
+"Setup of top navigation bar, footer and logo.","Instelling van de bovenste navigatiebalk, voettekst en logo.",reviewed,frappe,0.88,0.75,0.65,0.75,0.7,1.0,improved
 Setup Reports to be emailed at regular intervals,Rapporten instellen om op vaste intervallen per e-mail te versturen,reviewed,frappe,0.86,0.3,0.2,0.3,0.2,0.75,improved
-Setup Series,Instellen Reeksen,reviewed,erpnext,0.58,0.5,0.5,0.6,0.7,1.0,review
+Setup Series,Nummerreeksen instellen,reviewed,erpnext,0.9,0.5,0.5,0.6,0.7,1.0,improved
 Setup SMS gateway settings,Instellingen SMS gateway,reviewed,erpnext,0.59,0.5,0.6,0.6,0.6,0.8,review
 Setup Wizard,Instellingen Wizard,reviewed,frappe,0.58,0.5,0.5,0.6,0.7,1.0,review
 Setup your Institute in ERPNext,Stel uw instituut op in ERPNext,reviewed,erpnext,0.86,0.85,0.85,0.8,0.9,1.0,ok

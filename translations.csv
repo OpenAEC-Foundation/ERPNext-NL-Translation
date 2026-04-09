@@ -15375,302 +15375,302 @@ day,dag,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 day before,een dag van tevoren,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 days,dagen,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 days before,dagen van tevoren,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
-desk,bureau,reviewed,crm,,,,,,,
-exchangerate-api,exchangerate-api,reviewed,crm,,,,,,,
-exchangerate.host,exchangerate.host,reviewed,crm,,,,,,,
-fawazahmed-exchange-api,fawazahmed-exchange-api,reviewed,crm,,,,,,,
-gray,grijs,reviewed,crm,,,,,,,
-group_by,group_by,reviewed,crm,,,,,,,
-has made a call,heeft gebeld,reviewed,crm,,,,,,,
-has reached out,heeft contact opgenomen,reviewed,crm,,,,,,,
-hour,uur,reviewed,crm,,,,,,,
-hour before,een uur van tevoren,reviewed,crm,,,,,,,
-hours before,uur van tevoren,reviewed,crm,,,,,,,
-in 1 hour,over 1 uur,reviewed,crm,,,,,,,
-in 1 minute,over 1 minuut,reviewed,crm,,,,,,,
-in 1 year,over 1 jaar,reviewed,crm,,,,,,,
-in {0} M,over {0} mnd,reviewed,crm,,,,,,,
-in {0} d,over {0} d,reviewed,crm,,,,,,,
-in {0} days,over {0} dagen,reviewed,crm,,,,,,,
-in {0} h,over {0} u,reviewed,crm,,,,,,,
-in {0} hours,over {0} uur,reviewed,crm,,,,,,,
-in {0} m,over {0} min,reviewed,crm,,,,,,,
-in {0} minutes,over {0} minuten,reviewed,crm,,,,,,,
-in {0} months,over {0} maanden,reviewed,crm,,,,,,,
-in {0} w,over {0} w,reviewed,crm,,,,,,,
-in {0} weeks,over {0} weken,reviewed,crm,,,,,,,
-in {0} y,over {0} jr,reviewed,crm,,,,,,,
-in {0} years,over {0} jaren,reviewed,crm,,,,,,,
-mentioned you in {0},noemde u in {0},reviewed,crm,,,,,,,
-minute,minuut,reviewed,crm,,,,,,,
-minute before,een minuut van tevoren,reviewed,crm,,,,,,,
-minutes,minuten,reviewed,crm,,,,,,,
-minutes before,minuten van tevoren,reviewed,crm,,,,,,,
-next,volgende,reviewed,crm,,,,,,,
-old_value,old_value,reviewed,crm,,,,,,,
-pink,roze,reviewed,crm,,,,,,,
-previous,vorig,reviewed,crm,,,,,,,
-private,privé,reviewed,crm,,,,,,,
-public,publiek,reviewed,crm,,,,,,,
-received a whatsapp message in {0},heeft een WhatsApp-bericht ontvangen in {0},reviewed,crm,,,,,,,
-teal,groenblauw,reviewed,crm,,,,,,,
-tomorrow,morgen,reviewed,crm,,,,,,,
-violet,paars,reviewed,crm,,,,,,,
-week before,een week van tevoren,reviewed,crm,,,,,,,
-weeks,weken,reviewed,crm,,,,,,,
-weeks before,weken van tevoren,reviewed,crm,,,,,,,
-"which are not compatible with this UI, you will need to recreate the conditions here if you want to manage and add new conditions from this UI.","die niet compatibel zijn met deze gebruikersinterface, zult u de voorwaarden hier opnieuw moeten maken als u nieuwe voorwaarden wilt beheren en toevoegen vanuit deze gebruikersinterface.",reviewed,crm,,,,,,,
-{0} (Invalid time format),{0} (Ongeldig tijdformaat),reviewed,crm,,,,,,,
-{0} assigned a {1} {2} to you,{0} heeft u een {1} {2} toegewezen,reviewed,crm,,,,,,,
-{0} attendees,{0} aanwezigen,reviewed,crm,,,,,,,
-{0} awaiting,{0} in afwachting,reviewed,crm,,,,,,,
-{0} hrs,{0} u,reviewed,crm,,,,,,,
-{0} is an Invalid Value,{0} is een ongeldige waarde,reviewed,crm,,,,,,,
-{0} is an Invalid value,{0} is een ongeldige waarde,reviewed,crm,,,,,,,
-{0} is an invalid email address,{0} is een ongeldig e-mail adres,reviewed,crm,,,,,,,
-{0} maybe,{0} misschien,reviewed,crm,,,,,,,
-{0} mins,{0} min,reviewed,crm,,,,,,,
-{0} no,{0} nee,reviewed,crm,,,,,,,
-{0} yes,{0} ja,reviewed,crm,,,,,,,
-"⚠️ Avoid using ""trigger"" as a field name — it conflicts with the built-in trigger() method.","⚠️ Vermijd het gebruik van ""trigger"" als veldnaam. Dit conflicteert met de ingebouwde trigger() methode.",reviewed,crm,,,,,,,
-"⚠️ Method ""{0}"" not found in class.","⚠️ Methode ""{0}"" niet gevonden in klasse.",reviewed,crm,,,,,,,
-"⚠️ No class found for doctype: {0}, it is mandatory to have a class for the parent doctype. it can be empty, but it should be present.","⚠️ Geen klasse gevonden voor doctype: {0}, het is verplicht om een klasse te hebben voor het bovenliggende doctype. deze kan leeg zijn, maar moet wel aanwezig zijn.",reviewed,crm,,,,,,,
-⚠️ No data found for parent field: {0},⚠️ Geen gegevens gevonden voor ouderveld: {0},reviewed,crm,,,,,,,
-⚠️ No row found for idx: {0} in parent field: {1},⚠️ Geen rij gevonden voor idx: {0} in ouderveld: {1},reviewed,crm,,,,,,,
- added a, voegde een toe,reviewed,helpdesk,,,,,,,
- comment, commentaar,reviewed,helpdesk,,,,,,,
-% SLA Fulfilled,% SLA Nagekomen,reviewed,helpdesk,,,,,,,
-% of tickets created that were resolved within SLA,% van aangemaakte tickets dat binnen SLA is opgelost,reviewed,helpdesk,,,,,,,
-({0}s),({0}s),reviewed,helpdesk,,,,,,,
-- Default Ticket Status<br>,- Standaard Ticket Status<br>,reviewed,helpdesk,,,,,,,
-- Ticket Reopen Status<br>,- Ticket Heropen Status<br>,reviewed,helpdesk,,,,,,,
-- {0} as Default Status<br>,- {0} als standaardstatus<br>,reviewed,helpdesk,,,,,,,
-- {0} as Reopen Status<br>,- {0} als heropenstatus<br>,reviewed,helpdesk,,,,,,,
-"0 is no feedback, 1 is Like, 2 is Dislike","0 is geen feedback, 1 is Leuk, 2 is Niet leuk",reviewed,helpdesk,,,,,,,
-<br>Please update HD Settings to use a different status before disabling this status.,<br>Werk HD Instellingen bij om een andere status te gebruiken voordat u deze status uitschakelt.,reviewed,helpdesk,,,,,,,
-<br>Please update the SLA(s) to use a different status before disabling this status.,<br>Werk de SLA('s) bij om een andere status te gebruiken voordat u deze status uitschakelt.,reviewed,helpdesk,,,,,,,
+desk,bureau,reviewed,crm,0.66,0.55,0.7,0.6,0.9,0.9,review
+exchangerate-api,exchangerate-api,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+exchangerate.host,exchangerate.host,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+fawazahmed-exchange-api,fawazahmed-exchange-api,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+gray,grijs,reviewed,crm,0.87,0.85,0.9,0.85,0.9,0.9,ok
+group_by,group_by,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.85,ok
+has made a call,heeft gebeld,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+has reached out,heeft contact opgenomen,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+hour,uur,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+hour before,een uur van tevoren,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+hours before,uur van tevoren,reviewed,crm,0.79,0.8,0.75,0.8,0.8,0.85,review
+in 1 hour,over 1 uur,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+in 1 minute,over 1 minuut,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+in 1 year,over 1 jaar,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+in {0} M,over {0} mnd,reviewed,crm,0.84,0.85,0.8,0.85,0.85,0.9,ok
+in {0} d,over {0} d,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
+in {0} days,over {0} dagen,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+in {0} h,over {0} u,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
+in {0} hours,over {0} uur,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+in {0} m,over {0} min,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
+in {0} minutes,over {0} minuten,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+in {0} months,over {0} maanden,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+in {0} w,over {0} w,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
+in {0} weeks,over {0} weken,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+in {0} y,over {0} jr,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
+in {0} years,over {0} jaren,reviewed,crm,0.82,0.85,0.7,0.8,0.85,0.9,ok
+mentioned you in {0},noemde u in {0},reviewed,crm,0.71,0.7,0.65,0.7,0.75,0.85,review
+minute,minuut,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+minute before,een minuut van tevoren,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+minutes,minuten,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+minutes before,minuten van tevoren,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
+next,volgende,reviewed,crm,0.79,0.75,0.8,0.75,0.9,0.9,review
+old_value,old_value,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.85,ok
+pink,roze,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+previous,vorig,reviewed,crm,0.82,0.8,0.8,0.8,0.9,0.9,ok
+private,privé,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+public,publiek,reviewed,crm,0.78,0.75,0.7,0.75,0.9,0.9,review
+received a whatsapp message in {0},heeft een WhatsApp-bericht ontvangen in {0},reviewed,crm,0.8,0.8,0.75,0.8,0.8,0.9,ok
+teal,groenblauw,reviewed,crm,0.77,0.75,0.7,0.75,0.9,0.9,review
+tomorrow,morgen,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+violet,paars,reviewed,crm,0.78,0.75,0.75,0.75,0.9,0.9,review
+week before,een week van tevoren,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+weeks,weken,reviewed,crm,0.9,0.9,0.9,0.9,0.9,0.9,ok
+weeks before,weken van tevoren,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
+"which are not compatible with this UI, you will need to recreate the conditions here if you want to manage and add new conditions from this UI.","die niet compatibel zijn met deze gebruikersinterface, zult u de voorwaarden hier opnieuw moeten maken als u nieuwe voorwaarden wilt beheren en toevoegen vanuit deze gebruikersinterface.",reviewed,crm,0.74,0.7,0.7,0.75,0.8,0.85,review
+{0} (Invalid time format),{0} (Ongeldig tijdformaat),reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+{0} assigned a {1} {2} to you,{0} heeft u een {1} {2} toegewezen,reviewed,crm,0.84,0.85,0.8,0.85,0.85,0.9,ok
+{0} attendees,{0} aanwezigen,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+{0} awaiting,{0} in afwachting,reviewed,crm,0.84,0.85,0.8,0.85,0.85,0.9,ok
+{0} hrs,{0} u,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
+{0} is an Invalid Value,{0} is een ongeldige waarde,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+{0} is an Invalid value,{0} is een ongeldige waarde,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+{0} is an invalid email address,{0} is een ongeldig e-mail adres,reviewed,crm,0.79,0.8,0.75,0.8,0.75,0.9,review
+{0} maybe,{0} misschien,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+{0} mins,{0} min,reviewed,crm,0.85,0.85,0.85,0.85,0.85,0.9,ok
+{0} no,{0} nee,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+{0} yes,{0} ja,reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+"⚠️ Avoid using ""trigger"" as a field name — it conflicts with the built-in trigger() method.","⚠️ Vermijd het gebruik van ""trigger"" als veldnaam. Dit conflicteert met de ingebouwde trigger() methode.",reviewed,crm,0.83,0.85,0.8,0.8,0.85,0.9,ok
+"⚠️ Method ""{0}"" not found in class.","⚠️ Methode ""{0}"" niet gevonden in klasse.",reviewed,crm,0.86,0.85,0.85,0.85,0.9,0.9,ok
+"⚠️ No class found for doctype: {0}, it is mandatory to have a class for the parent doctype. it can be empty, but it should be present.","⚠️ Geen klasse gevonden voor doctype: {0}, het is verplicht om een klasse te hebben voor het bovenliggende doctype. deze kan leeg zijn, maar moet wel aanwezig zijn.",reviewed,crm,0.75,0.8,0.65,0.75,0.65,0.9,review
+⚠️ No data found for parent field: {0},⚠️ Geen gegevens gevonden voor ouderveld: {0},reviewed,crm,0.74,0.75,0.65,0.7,0.8,0.9,review
+⚠️ No row found for idx: {0} in parent field: {1},⚠️ Geen rij gevonden voor idx: {0} in ouderveld: {1},reviewed,crm,0.74,0.75,0.65,0.7,0.8,0.9,review
+ added a, voegde een toe,reviewed,helpdesk,0.62,0.65,0.55,0.6,0.6,0.7,review
+ comment, commentaar,reviewed,helpdesk,0.72,0.7,0.65,0.7,0.8,0.85,review
+% SLA Fulfilled,% SLA Nagekomen,reviewed,helpdesk,0.84,0.85,0.8,0.85,0.85,0.9,ok
+% of tickets created that were resolved within SLA,% van aangemaakte tickets dat binnen SLA is opgelost,reviewed,helpdesk,0.85,0.85,0.85,0.85,0.85,0.9,ok
+({0}s),({0}s),reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+- Default Ticket Status<br>,- Standaard Ticket Status<br>,reviewed,helpdesk,0.8,0.8,0.75,0.8,0.8,0.9,ok
+- Ticket Reopen Status<br>,- Ticket Heropen Status<br>,reviewed,helpdesk,0.7,0.7,0.6,0.7,0.75,0.85,review
+- {0} as Default Status<br>,- {0} als standaardstatus<br>,reviewed,helpdesk,0.85,0.85,0.85,0.85,0.85,0.9,ok
+- {0} as Reopen Status<br>,- {0} als heropenstatus<br>,reviewed,helpdesk,0.85,0.85,0.85,0.85,0.85,0.9,ok
+"0 is no feedback, 1 is Like, 2 is Dislike","0 is geen feedback, 1 is Leuk, 2 is Niet leuk",reviewed,helpdesk,0.81,0.8,0.75,0.8,0.85,0.9,ok
+<br>Please update HD Settings to use a different status before disabling this status.,<br>Werk HD Instellingen bij om een andere status te gebruiken voordat u deze status uitschakelt.,reviewed,helpdesk,0.84,0.85,0.8,0.85,0.85,0.9,ok
+<br>Please update the SLA(s) to use a different status before disabling this status.,<br>Werk de SLA('s) bij om een andere status te gebruiken voordat u deze status uitschakelt.,reviewed,helpdesk,0.84,0.85,0.8,0.85,0.85,0.9,ok
 "<div class=""ql-editor read-mode""><p>Let us know if we solved your issue well. It’ll help us serve you better next time.</p></div>","<div class=""ql-editor read-mode""><p>Laat ons weten of we uw probleem hebben opgelost. Uw feedback helpt ons om te verbeteren!</p></div>",reviewed,helpdesk,,,,,,,
-"<span class=""h3"" style=""""><a href=""/helpdesk"">Visit Helpdesk</a></span>","<span class=""h3"" style=""""><a href=""/helpdesk"">Ga naar Helpdesk</a></span>",reviewed,helpdesk,,,,,,,
-"<span class=""h4"">Helpdesk Configuration<br></span>","<span class=""h4"">Helpdesk Configuratie<br></span>",reviewed,helpdesk,,,,,,,
-A short description,Een korte beschrijving,reviewed,helpdesk,,,,,,,
-A workday with this name already exists,Er bestaat al een werkdag met deze naam,reviewed,helpdesk,,,,,,,
-Access all team tickets,Toegang tot alle teamtickets,reviewed,helpdesk,,,,,,,
-Access denied,Toegang geweigerd,reviewed,helpdesk,,,,,,,
-Access only this team's tickets,Alleen tickets van dit team inzien,reviewed,helpdesk,,,,,,,
-Account & Security,Account en beveiliging,reviewed,helpdesk,,,,,,,
-Acknowledgement,Ontvangstbevestiging,reviewed,helpdesk,,,,,,,
-Action Required,Actie vereist,reviewed,helpdesk,,,,,,,
-Action to perform when clicking the button. The doc will be available as `this`,Actie die wordt uitgevoerd bij het klikken op de knop. Het document is beschikbaar als `this`,reviewed,helpdesk,,,,,,,
-Add Category,Categorie toevoegen,reviewed,helpdesk,,,,,,,
-Add Holiday,Feestdag toevoegen,reviewed,helpdesk,,,,,,,
-Add New Article,Nieuw artikel toevoegen,reviewed,helpdesk,,,,,,,
-Add a comment on a ticket,Een opmerking toevoegen aan een ticket,reviewed,helpdesk,,,,,,,
-Add a condition,Een voorwaarde toevoegen,reviewed,helpdesk,,,,,,,
-Add a custom condition,Een aangepaste voorwaarde toevoegen,reviewed,helpdesk,,,,,,,
-Add charts to get started,Voeg grafieken toe om te beginnen,reviewed,helpdesk,,,,,,,
-Add condition,Voorwaarde toevoegen,reviewed,helpdesk,,,,,,,
-Add condition group,Voorwaardengroep toevoegen,reviewed,helpdesk,,,,,,,
+"<span class=""h3"" style=""""><a href=""/helpdesk"">Visit Helpdesk</a></span>","<span class=""h3"" style=""""><a href=""/helpdesk"">Ga naar Helpdesk</a></span>",reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+"<span class=""h4"">Helpdesk Configuration<br></span>","<span class=""h4"">Helpdesk Configuratie<br></span>",reviewed,helpdesk,0.85,0.85,0.85,0.85,0.85,0.9,ok
+A short description,Een korte beschrijving,reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+A workday with this name already exists,Er bestaat al een werkdag met deze naam,reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+Access all team tickets,Toegang tot alle teamtickets,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,0.9,ok
+Access denied,Toegang geweigerd,reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+Access only this team's tickets,Alleen tickets van dit team inzien,reviewed,helpdesk,0.84,0.85,0.8,0.85,0.85,0.9,ok
+Account & Security,Account en beveiliging,reviewed,helpdesk,0.84,0.85,0.8,0.85,0.85,0.9,ok
+Acknowledgement,Ontvangstbevestiging,reviewed,helpdesk,0.84,0.85,0.8,0.85,0.85,0.9,ok
+Action Required,Actie vereist,reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+Action to perform when clicking the button. The doc will be available as `this`,Actie die wordt uitgevoerd bij het klikken op de knop. Het document is beschikbaar als `this`,reviewed,helpdesk,0.83,0.85,0.8,0.8,0.85,0.9,ok
+Add Category,Categorie toevoegen,reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+Add Holiday,Feestdag toevoegen,reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+Add New Article,Nieuw artikel toevoegen,reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+Add a comment on a ticket,Een opmerking toevoegen aan een ticket,reviewed,helpdesk,0.83,0.85,0.8,0.8,0.85,0.9,ok
+Add a condition,Een voorwaarde toevoegen,reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+Add a custom condition,Een aangepaste voorwaarde toevoegen,reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+Add charts to get started,Voeg grafieken toe om te beginnen,reviewed,helpdesk,0.83,0.85,0.8,0.8,0.85,0.9,ok
+Add condition,Voorwaarde toevoegen,reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
+Add condition group,Voorwaardengroep toevoegen,reviewed,helpdesk,0.9,0.9,0.9,0.9,0.9,0.9,ok
 Add holidays here to make sure they’re excluded from SLA calculations.,Voeg hier feestdagen toe zodat ze worden uitgesloten van SLA-berekeningen,reviewed,helpdesk,,,,,,,
-Add members to this team to get started.,Voeg leden toe aan dit team om te beginnen.,reviewed,helpdesk,,,,,,,
-Add recurring holidays such as weekends.,"Voeg terugkerende vrije dagen toe, zoals weekenden.",reviewed,helpdesk,,,,,,,
-Add time targets around support milestones like first reply and resolution times.,Voeg tijdsdoelen toe voor ondersteuningsmijlpalen zoals eerste reactie- en oplostijden.,reviewed,helpdesk,,,,,,,
-"Add, manage agents and assign roles to them.","Voeg agents toe en beheer ze, en wijs rollen aan hen toe.",reviewed,helpdesk,,,,,,,
-Agent,Agent,reviewed,helpdesk,,,,,,,
-Agent Configuration,Agent Configuration,reviewed,helpdesk,,,,,,,
-Agent Dashboard,Agent Dashboard,reviewed,helpdesk,,,,,,,
-Agent Manager,Agent Manager,reviewed,helpdesk,,,,,,,
-Agent Name,Agentnaam,reviewed,helpdesk,,,,,,,
-Agent name,Agentnaam,reviewed,helpdesk,,,,,,,
-Agents will no longer be able to view and create saved replies with global scope.,Agents kunnen geen opgeslagen antwoorden met globaal bereik meer bekijken en aanmaken.,reviewed,helpdesk,,,,,,,
-All SLAs on track,Alle SLA's op schema,reviewed,helpdesk,,,,,,,
-All Views,Alle weergaven,reviewed,helpdesk,,,,,,,
-All articles from this category will move to General category.,Alle artikelen uit deze categorie worden verplaatst naar de categorie Algemeen.,reviewed,helpdesk,,,,,,,
-All comments and emails of the ticket will be moved to the,Alle opmerkingen en e-mails van het ticket worden verplaatst naar de,reviewed,helpdesk,,,,,,,
-All your assigned tickets have been responded to,Op alle aan u toegewezen tickets is gereageerd,reviewed,helpdesk,,,,,,,
-Allow anyone to create tickets,Iedereen toestaan tickets aan te maken,reviewed,helpdesk,,,,,,,
-Allow users to react to comments with emojis,Gebruikers toestaan op opmerkingen te reageren met emoji's,reviewed,helpdesk,,,,,,,
-Allow users to react to comments with emojis.,Gebruikers toestaan op opmerkingen te reageren met emoji's.,reviewed,helpdesk,,,,,,,
-Anyone will be able to create tickets without any permission. e.g. from webform.,Iedereen kan tickets aanmaken zonder toestemming. Bijvoorbeeld via een webformulier.,reviewed,helpdesk,,,,,,,
-Appears in the left sidebar. Recommended size is minimum 32x32 px in PNG or SVG.,Verschijnt in de linker zijbalk. Aanbevolen formaat is minimaal 32x32 px in PNG of SVG.,reviewed,helpdesk,,,,,,,
-Appears next to the title in your browser tab. Recommended size is minimum 32x32 px in PNG or ICO,Verschijnt naast de titel in uw browsertabblad. Aanbevolen formaat is minimaal 32x32 px in PNG of ICO,reviewed,helpdesk,,,,,,,
-Appears next to the title in your browser tab. Recommended size is minimum 32x32 px in PNG or ICO.,Verschijnt naast de titel in uw browsertabblad. Aanbevolen formaat is minimaal 32x32 px in PNG of ICO.,reviewed,helpdesk,,,,,,,
-Apply SLA for Resolution Time,SLA toepassen voor de oplostijd,reviewed,helpdesk,,,,,,,
-Apply on new page,Toepassen op nieuwe pagina,reviewed,helpdesk,,,,,,,
-Apply outside working hours,Toepassen buiten werktijden,reviewed,helpdesk,,,,,,,
-Apply to customer portal,Toepassen op klantenportaal,reviewed,helpdesk,,,,,,,
-Are you sure you want to change tabs? Unsaved changes will be lost.,Weet u zeker dat u van tabblad wilt wisselen? Niet-opgeslagen wijzigingen gaan verloren.,reviewed,helpdesk,,,,,,,
-Are you sure you want to close this ticket?,Weet u zeker dat u dit ticket wilt sluiten?,reviewed,helpdesk,,,,,,,
-Are you sure you want to delete these articles?,Weet u zeker dat u deze artikelen wilt verwijderen?,reviewed,helpdesk,,,,,,,
-Are you sure you want to delete this team? This action cannot be reversed!,Weet u zeker dat u dit team wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt!,reviewed,helpdesk,,,,,,,
-Are you sure you want to delete this ticket? This is an irreversible action and cannot be undone.,Weet u zeker dat u dit ticket wilt verwijderen? Dit is een onomkeerbare actie die niet ongedaan kan worden gemaakt.,reviewed,helpdesk,,,,,,,
-Are you sure you want to delete this view?,Weet u zeker dat u deze weergave wilt verwijderen?,reviewed,helpdesk,,,,,,,
-Are you sure you want to discard changes?,Weet u zeker dat u de wijzigingen wilt verwerpen?,reviewed,helpdesk,,,,,,,
-Are you sure you want to discard this article?,Weet u zeker dat u dit artikel wilt verwerpen?,reviewed,helpdesk,,,,,,,
-Are you sure you want to leave? Unsaved changes will be lost.,Weet u zeker dat u wilt vertrekken? Niet-opgeslagen wijzigingen gaan verloren.,reviewed,helpdesk,,,,,,,
-Are you sure you want to remove the logo?,Weet u zeker dat u het logo wilt verwijderen?,reviewed,helpdesk,,,,,,,
-Are you sure you want to reset the content? Current content will be overridden.,Weet u zeker dat u de inhoud wilt terugzetten? De huidige inhoud wordt overschreven.,reviewed,helpdesk,,,,,,,
-Article body cannot be set as empty.,De inhoud van het artikel mag niet leeg zijn.,reviewed,helpdesk,,,,,,,
-Article created successfully.,Artikel succesvol aangemaakt.,reviewed,helpdesk,,,,,,,
-Article deleted successfully.,Artikel succesvol verwijderd.,reviewed,helpdesk,,,,,,,
-Article link copied to clipboard,Artikelkoppeling gekopieerd naar klembord,reviewed,helpdesk,,,,,,,
-Article title cannot be set as empty,De titel van het artikel mag niet leeg zijn,reviewed,helpdesk,,,,,,,
-Article updated successfully.,Artikel succesvol bijgewerkt.,reviewed,helpdesk,,,,,,,
-Articles deleted successfully.,Artikelen succesvol verwijderd.,reviewed,helpdesk,,,,,,,
-Articles moved successfully.,Artikelen succesvol verplaatst.,reviewed,helpdesk,,,,,,,
-Assign a ticket to an agent,Een ticket toewijzen aan een agent,reviewed,helpdesk,,,,,,,
-Assign ticket,Ticket toewijzen,reviewed,helpdesk,,,,,,,
-Assignee's updated successfully.,Toegewezen persoon succesvol bijgewerkt.,reviewed,helpdesk,,,,,,,
-Assignment Conditions,Toewijzingsvoorwaarden,reviewed,helpdesk,,,,,,,
-Assignment Rules automatically route tickets to the right team members based on predefined conditions.,Toewijzingsregels sturen tickets automatisch door naar de juiste teamleden op basis van vooraf ingestelde voorwaarden.,reviewed,helpdesk,,,,,,,
-Assignment rule created successfully.,Toewijzingsregel succesvol aangemaakt.,reviewed,helpdesk,,,,,,,
-Assignment rule deleted successfully.,Toewijzingsregel succesvol verwijderd.,reviewed,helpdesk,,,,,,,
-Assignment rule duplicated successfully.,Toewijzingsregel succesvol gedupliceerd.,reviewed,helpdesk,,,,,,,
-Assignment rule updated successfully.,Toewijzingsregel succesvol bijgewerkt.,reviewed,helpdesk,,,,,,,
-Assignment rule {0} updated successfully.,Toewijzingsregel {0} succesvol bijgewerkt.,reviewed,helpdesk,,,,,,,
-At least one email is required,Minimaal een e-mailadres is vereist,reviewed,helpdesk,,,,,,,
-At least one email required,Minimaal een e-mailadres vereist,reviewed,helpdesk,,,,,,,
-At least one enabled status for <u>{0}</u> category must be enabled.,Er moet minimaal een ingeschakelde status voor de categorie <u>{0}</u> zijn ingeschakeld.,reviewed,helpdesk,,,,,,,
-At least one feedback option must be enabled for rating {0},Minimaal een feedbackoptie moet zijn ingeschakeld voor beoordeling {0},reviewed,helpdesk,,,,,,,
-At least one team is required,Minimaal een team is vereist,reviewed,helpdesk,,,,,,,
-"At-least one of priority, team and ticket type is required","Minimaal een van prioriteit, team en tickettype is vereist",reviewed,helpdesk,,,,,,,
-Auto update status,Status automatisch bijwerken,reviewed,helpdesk,,,,,,,
-Auto-close after (Days),Automatisch sluiten na (dagen),reviewed,helpdesk,,,,,,,
-Auto-close tickets that remain in a status for the specified number of days.,Tickets automatisch sluiten die gedurende het opgegeven aantal dagen in een status blijven.,reviewed,helpdesk,,,,,,,
-Automatically Close Tickets when,Tickets automatisch sluiten wanneer,reviewed,helpdesk,,,,,,,
-Automatically close stale tickets,Verlopen tickets automatisch sluiten,reviewed,helpdesk,,,,,,,
-Average First Response,Gemiddelde eerste reactie,reviewed,helpdesk,,,,,,,
-Average First Response Time,Gemiddelde eerste reactietijd,reviewed,helpdesk,,,,,,,
-Average Resolution,Gemiddelde oplossing,reviewed,helpdesk,,,,,,,
-Average Resolution Time,Gemiddelde oplostijd,reviewed,helpdesk,,,,,,,
-Average Time Metrics,Gemiddelde tijdsmetrieken,reviewed,helpdesk,,,,,,,
-Average feedback rating per day is around {0} stars,De gemiddelde feedbackbeoordeling per dag is ongeveer {0} sterren,reviewed,helpdesk,,,,,,,
-Average response and resolution metrics not yet generated,Gemiddelde reactie- en oplossingsmetrieken zijn nog niet gegenereerd,reviewed,helpdesk,,,,,,,
-Average tickets per day is around {0},Het gemiddelde aantal tickets per dag is ongeveer {0},reviewed,helpdesk,,,,,,,
-Avg. Feedback Rating,Gem. feedbackbeoordeling,reviewed,helpdesk,,,,,,,
-Avg. First Response,Gem. eerste reactie,reviewed,helpdesk,,,,,,,
-Avg. Resolution,Gem. oplossing,reviewed,helpdesk,,,,,,,
-Avg. feedback rating for the tickets resolved,Gem. feedbackbeoordeling voor opgeloste tickets,reviewed,helpdesk,,,,,,,
-Avg. first response time,Gem. eerste reactietijd,reviewed,helpdesk,,,,,,,
-Avg. resolution time,Gem. oplostijd,reviewed,helpdesk,,,,,,,
-Avg. time taken to first respond to a ticket,Gem. tijd tot eerste reactie op een ticket,reviewed,helpdesk,,,,,,,
-Avg. time taken to resolve a ticket,Gem. tijd om een ticket op te lossen,reviewed,helpdesk,,,,,,,
-Back to Tickets,Terug naar tickets,reviewed,helpdesk,,,,,,,
-Base Support Rotation,Basisrotatie ondersteuning,reviewed,helpdesk,,,,,,,
-"Based on your HR Policy, select your leave allocation period's end date",Selecteer op basis van uw HR-beleid de einddatum van uw verlofperiode.,reviewed,helpdesk,,,,,,,
-"Based on your HR Policy, select your leave allocation period's start date",Selecteer op basis van uw HR-beleid de startdatum van uw verlofperiode.,reviewed,helpdesk,,,,,,,
-Brand name,Merknaam,reviewed,helpdesk,,,,,,,
-Business Holidays,Bedrijfsvakanties,reviewed,helpdesk,,,,,,,
-Call Logs,Gesprekslogboeken,reviewed,helpdesk,,,,,,,
-"Can invite new agents, manage tickets, create custom views and manage public views.","Kan nieuwe Agents uitnodigen, Tickets beheren, aangepaste weergaven aanmaken en openbare weergaven beheren.",reviewed,helpdesk,,,,,,,
-Can manage all aspects of Helpdesk.,Kan alle aspecten van Helpdesk beheren.,reviewed,helpdesk,,,,,,,
-"Can work on tickets, create custom views and manage private views.","Kan aan Tickets werken, aangepaste weergaven aanmaken en persoonlijke weergaven beheren.",reviewed,helpdesk,,,,,,,
-Cancel Invitation,Uitnodiging annuleren,reviewed,helpdesk,,,,,,,
-Cannot delete the default SLA. At least one SLA must be marked as default.,De standaard-SLA kan niet worden verwijderd. Er moet minimaal één SLA als standaard zijn ingesteld.,reviewed,helpdesk,,,,,,,
-Cannot disable this status as it is linked in HD Settings:<br><br>,Deze status kan niet worden uitgeschakeld omdat deze is gekoppeld in HD-instellingen:<br><br>,reviewed,helpdesk,,,,,,,
-Cannot disable this status as it is linked in the following SLAs:<br><br>,Deze status kan niet worden uitgeschakeld omdat deze is gekoppeld aan de volgende SLA's:<br><br>,reviewed,helpdesk,,,,,,,
-Cannot merge General category,De categorie Algemeen kan niet worden samengevoegd,reviewed,helpdesk,,,,,,,
-Category '{0}' link copied to clipboard,Link van categorie '{0}' gekopieerd naar klembord,reviewed,helpdesk,,,,,,,
-Category created successfully.,Categorie succesvol aangemaakt.,reviewed,helpdesk,,,,,,,
-Category deleted successfully.,Categorie succesvol verwijderd.,reviewed,helpdesk,,,,,,,
-Category merged successfully.,Categorie succesvol samengevoegd.,reviewed,helpdesk,,,,,,,
-Category must have atleast one article,Een categorie moet minimaal één artikel bevatten,reviewed,helpdesk,,,,,,,
-Category updated successfully.,Categorie succesvol bijgewerkt.,reviewed,helpdesk,,,,,,,
-Change image,Afbeelding wijzigen,reviewed,helpdesk,,,,,,,
-Change photo,Foto wijzigen,reviewed,helpdesk,,,,,,,
-Change priority,Prioriteit wijzigen,reviewed,helpdesk,,,,,,,
-Change status,Status wijzigen,reviewed,helpdesk,,,,,,,
-Change team,Team wijzigen,reviewed,helpdesk,,,,,,,
-Change ticket type,Tickettype wijzigen,reviewed,helpdesk,,,,,,,
-Change your search terms or filters,Pas uw zoektermen of filters aan,reviewed,helpdesk,,,,,,,
-Change your search terms to find teams.,Pas uw zoektermen aan om teams te vinden.,reviewed,helpdesk,,,,,,,
-Channels,Kanalen,reviewed,helpdesk,,,,,,,
-Child field,Onderliggend veld,reviewed,helpdesk,,,,,,,
-Choose how tickets are distributed among selected assignees.,Kies hoe Tickets worden verdeeld over de geselecteerde ontvangers.,reviewed,helpdesk,,,,,,,
-Choose the duration of this holiday list.,Kies de duur van deze feestdagenlijst.,reviewed,helpdesk,,,,,,,
-Choose the email service provider you want to configure.,Kies de e-mailprovider die u wilt configureren.,reviewed,helpdesk,,,,,,,
-Choose which tickets are affected by this assignment rule.,Kies welke Tickets door deze toewijzingsregel worden beïnvloed.,reviewed,helpdesk,,,,,,,
-Choose which tickets are affected by this policy.,Kies welke Tickets door dit beleid worden beïnvloed.,reviewed,helpdesk,,,,,,,
-Choose which tickets are affected by this un-assignment rule.,Kies welke Tickets door deze ontkoppelingsregel worden beïnvloed.,reviewed,helpdesk,,,,,,,
-Choose who can view and use this response.,Kies wie dit antwoord kan bekijken en gebruiken.,reviewed,helpdesk,,,,,,,
-Choose who receives the tickets.,Kies wie de Tickets ontvangt.,reviewed,helpdesk,,,,,,,
-Clear all filters,Alle filters wissen,reviewed,helpdesk,,,,,,,
-Click on Add to Holidays. This will populate the holidays table with all the dates that fall on the selected weekly off. Repeat the process for populating the dates for all your weekly holidays,Klik op 'Toevoegen aan feestdagen'. Hiermee wordt de tabel met feestdagen gevuld met alle datums die op de geselecteerde vrije week vallen. Herhaal dit proces om de datums voor al uw wekelijkse feestdagen in te vullen.,reviewed,helpdesk,,,,,,,
-Close Ticket,Ticket sluiten,reviewed,helpdesk,,,,,,,
-Closed or rated tickets cannot be updated by non-agents,Gesloten of beoordeelde Tickets kunnen niet worden bijgewerkt door niet-Agents,reviewed,helpdesk,,,,,,,
-Comma separated emails to invite.,"E-mailadressen om uit te nodigen, gescheiden door komma's.",reviewed,helpdesk,,,,,,,
-Comment cannot be empty.,Opmerking mag niet leeg zijn.,reviewed,helpdesk,,,,,,,
-Comment deleted sucessfully.,Opmerking succesvol verwijderd.,reviewed,helpdesk,,,,,,,
-Comment not found,Opmerking niet gevonden,reviewed,helpdesk,,,,,,,
-Comment updated successfully.,Opmerking succesvol bijgewerkt.,reviewed,helpdesk,,,,,,,
-Commented By,Opmerking geplaatst door,reviewed,helpdesk,,,,,,,
-Communication ID is required,Communicatie-ID is vereist,reviewed,helpdesk,,,,,,,
-Configure your Exotel settings for Helpdesk.,Configureer uw Exotel-instellingen voor Helpdesk.,reviewed,helpdesk,,,,,,,
-Configure your Exotel telephony integration settings here,Configureer hier uw Exotel-telefonie-integratie-instellingen,reviewed,helpdesk,,,,,,,
-Configure your Twilio settings for Helpdesk.,Configureer uw Twilio-instellingen voor Helpdesk.,reviewed,helpdesk,,,,,,,
-Configure your Twilio telephony integration settings here,Configureer hier uw Twilio-telefonie-integratie-instellingen,reviewed,helpdesk,,,,,,,
-Configure your telephony settings.,Configureer uw telefonie-instellingen.,reviewed,helpdesk,,,,,,,
-Confirm Changes,Wijzigingen bevestigen,reviewed,helpdesk,,,,,,,
-Confirm overwrite,Bevestig overschrijven,reviewed,helpdesk,,,,,,,
-Connect your support email,Koppel uw support-e-mailadres,reviewed,helpdesk,,,,,,,
-Contact created successfully.,Contact succesvol aangemaakt.,reviewed,helpdesk,,,,,,,
-Contact invited successfully.,Contact succesvol uitgenodigd.,reviewed,helpdesk,,,,,,,
-Contact updated successfully.,Contact succesvol bijgewerkt.,reviewed,helpdesk,,,,,,,
-Contact with email already exists,Er bestaat al een contact met dit e-mailadres,reviewed,helpdesk,,,,,,,
-Content Type,Inhoudstype,reviewed,helpdesk,,,,,,,
-Copy ticket URL,Ticket-URL kopiëren,reviewed,helpdesk,,,,,,,
-Copy ticket id,Ticket-ID kopiëren,reviewed,helpdesk,,,,,,,
-Could not an email due to: {0},Er kon geen e-mail worden verzonden vanwege: {0},reviewed,helpdesk,,,,,,,
-Could not send an acknowledgement email due to: {0},Er kon geen bevestigingsmail worden verzonden vanwege: {0},reviewed,helpdesk,,,,,,,
-"Could not send feedback email,due to: {0}",Er kon geen feedbackmail worden verzonden vanwege: {0},reviewed,helpdesk,,,,,,,
-Create & invite a contact,Contact aanmaken en uitnodigen,reviewed,helpdesk,,,,,,,
-Create a ticket,Een Ticket aanmaken,reviewed,helpdesk,,,,,,,
-Create an article,Een artikel aanmaken,reviewed,helpdesk,,,,,,,
-Create and manage teams and assign agents to specific teams.,"Maak teams aan en beheer deze, en wijs Agents toe aan specifieke teams.",reviewed,helpdesk,,,,,,,
-Create field dependencies to dynamically update options based on user selections. Learn more about field dependencies,Maak veldafhankelijkheden aan om opties dynamisch bij te werken op basis van gebruikersselecties. Meer informatie over veldafhankelijkheden,reviewed,helpdesk,,,,,,,
-Create new business holiday,Nieuwe bedrijfsvakantie aanmaken,reviewed,helpdesk,,,,,,,
-Created by,Aangemaakt door,reviewed,helpdesk,,,,,,,
-Criterion,Criterium,reviewed,helpdesk,,,,,,,
-Custom Outside Working Hours Message,Aangepast bericht buiten werktijden,reviewed,helpdesk,,,,,,,
-Customer created successfully.,Klant succesvol aangemaakt.,reviewed,helpdesk,,,,,,,
-Customer portal,Klantenportaal,reviewed,helpdesk,,,,,,,
-Customer updated successfully.,Klant succesvol bijgewerkt.,reviewed,helpdesk,,,,,,,
-Customize your email notification preferences to stay informed about important updates and activities.,Pas uw e-mailmeldingsvoorkeuren aan om op de hoogte te blijven van belangrijke updates en activiteiten.,reviewed,helpdesk,,,,,,,
-Cyan,Cyaan,reviewed,helpdesk,,,,,,,
-Dashboard saved,Dashboard opgeslagen,reviewed,helpdesk,,,,,,,
-Day count for auto closing tickets cannot be negative or zero,Het aantal dagen voor automatisch sluiten van Tickets mag niet negatief of nul zijn,reviewed,helpdesk,,,,,,,
-Default SLA,Standaard-SLA,reviewed,helpdesk,,,,,,,
-Default Ticket Status,Standaard ticketstatus,reviewed,helpdesk,,,,,,,
-Default Views,Standaardweergaven,reviewed,helpdesk,,,,,,,
-Default actions,Standaardacties,reviewed,helpdesk,,,,,,,
-Default calling medium for logged in user,Standaard gespreksmedium voor ingelogde gebruiker,reviewed,helpdesk,,,,,,,
-Default medium,Standaard medium,reviewed,helpdesk,,,,,,,
-Default priority,Standaard prioriteit,reviewed,helpdesk,,,,,,,
-Default template can not be deleted,Het standaard Template kan niet worden verwijderd,reviewed,helpdesk,,,,,,,
-Default ticket status,Standaard ticketstatus,reviewed,helpdesk,,,,,,,
-Default ticket type,Standaard tickettype,reviewed,helpdesk,,,,,,,
+Add members to this team to get started.,Voeg leden toe aan dit team om te beginnen.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Add recurring holidays such as weekends.,"Voeg terugkerende vrije dagen toe, zoals weekenden.",reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Add time targets around support milestones like first reply and resolution times.,Voeg tijdsdoelen toe voor ondersteuningsmijlpalen zoals eerste reactie- en oplostijden.,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
+"Add, manage agents and assign roles to them.","Voeg agents toe en beheer ze, en wijs rollen aan hen toe.",reviewed,helpdesk,0.81,0.8,0.7,0.8,0.85,1.0,ok
+Agent,Agent,reviewed,helpdesk,0.93,0.85,1.0,0.9,1.0,1.0,ok
+Agent Configuration,Agent Configuration,reviewed,helpdesk,0.53,0.5,0.5,0.5,1.0,0.3,review
+Agent Dashboard,Agent Dashboard,reviewed,helpdesk,0.53,0.5,0.5,0.5,1.0,0.3,review
+Agent Manager,Agent Manager,reviewed,helpdesk,0.53,0.5,0.5,0.5,1.0,0.3,review
+Agent Name,Agentnaam,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Agent name,Agentnaam,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Agents will no longer be able to view and create saved replies with global scope.,Agents kunnen geen opgeslagen antwoorden met globaal bereik meer bekijken en aanmaken.,reviewed,helpdesk,0.88,0.85,0.85,0.85,0.9,1.0,ok
+All SLAs on track,Alle SLA's op schema,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+All Views,Alle weergaven,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+All articles from this category will move to General category.,Alle artikelen uit deze categorie worden verplaatst naar de categorie Algemeen.,reviewed,helpdesk,0.91,0.9,0.85,0.85,1.0,1.0,ok
+All comments and emails of the ticket will be moved to the,Alle opmerkingen en e-mails van het ticket worden verplaatst naar de,reviewed,helpdesk,0.8,0.8,0.8,0.8,0.8,0.8,ok
+All your assigned tickets have been responded to,Op alle aan u toegewezen tickets is gereageerd,reviewed,helpdesk,0.9,0.9,0.85,0.85,0.9,1.0,ok
+Allow anyone to create tickets,Iedereen toestaan tickets aan te maken,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Allow users to react to comments with emojis,Gebruikers toestaan op opmerkingen te reageren met emoji's,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Allow users to react to comments with emojis.,Gebruikers toestaan op opmerkingen te reageren met emoji's.,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Anyone will be able to create tickets without any permission. e.g. from webform.,Iedereen kan tickets aanmaken zonder toestemming. Bijvoorbeeld via een webformulier.,reviewed,helpdesk,0.9,0.9,0.85,0.85,0.9,1.0,ok
+Appears in the left sidebar. Recommended size is minimum 32x32 px in PNG or SVG.,Verschijnt in de linker zijbalk. Aanbevolen formaat is minimaal 32x32 px in PNG of SVG.,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Appears next to the title in your browser tab. Recommended size is minimum 32x32 px in PNG or ICO,Verschijnt naast de titel in uw browsertabblad. Aanbevolen formaat is minimaal 32x32 px in PNG of ICO,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Appears next to the title in your browser tab. Recommended size is minimum 32x32 px in PNG or ICO.,Verschijnt naast de titel in uw browsertabblad. Aanbevolen formaat is minimaal 32x32 px in PNG of ICO.,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Apply SLA for Resolution Time,SLA toepassen voor de oplostijd,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Apply on new page,Toepassen op nieuwe pagina,reviewed,helpdesk,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Apply outside working hours,Toepassen buiten werktijden,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Apply to customer portal,Toepassen op klantenportaal,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to change tabs? Unsaved changes will be lost.,Weet u zeker dat u van tabblad wilt wisselen? Niet-opgeslagen wijzigingen gaan verloren.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to close this ticket?,Weet u zeker dat u dit ticket wilt sluiten?,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to delete these articles?,Weet u zeker dat u deze artikelen wilt verwijderen?,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to delete this team? This action cannot be reversed!,Weet u zeker dat u dit team wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt!,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Are you sure you want to delete this ticket? This is an irreversible action and cannot be undone.,Weet u zeker dat u dit ticket wilt verwijderen? Dit is een onomkeerbare actie die niet ongedaan kan worden gemaakt.,reviewed,helpdesk,0.85,0.85,0.75,0.85,0.9,1.0,ok
+Are you sure you want to delete this view?,Weet u zeker dat u deze weergave wilt verwijderen?,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to discard changes?,Weet u zeker dat u de wijzigingen wilt verwerpen?,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Are you sure you want to discard this article?,Weet u zeker dat u dit artikel wilt verwerpen?,reviewed,helpdesk,0.77,0.75,0.65,0.75,0.85,1.0,review
+Are you sure you want to leave? Unsaved changes will be lost.,Weet u zeker dat u wilt vertrekken? Niet-opgeslagen wijzigingen gaan verloren.,reviewed,helpdesk,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Are you sure you want to remove the logo?,Weet u zeker dat u het logo wilt verwijderen?,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to reset the content? Current content will be overridden.,Weet u zeker dat u de inhoud wilt terugzetten? De huidige inhoud wordt overschreven.,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Article body cannot be set as empty.,De inhoud van het artikel mag niet leeg zijn.,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Article created successfully.,Artikel succesvol aangemaakt.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Article deleted successfully.,Artikel succesvol verwijderd.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Article link copied to clipboard,Artikelkoppeling gekopieerd naar klembord,reviewed,helpdesk,0.84,0.85,0.75,0.8,0.9,1.0,ok
+Article title cannot be set as empty,De titel van het artikel mag niet leeg zijn,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Article updated successfully.,Artikel succesvol bijgewerkt.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Articles deleted successfully.,Artikelen succesvol verwijderd.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Articles moved successfully.,Artikelen succesvol verplaatst.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Assign a ticket to an agent,Een ticket toewijzen aan een agent,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Assign ticket,Ticket toewijzen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Assignee's updated successfully.,Toegewezen persoon succesvol bijgewerkt.,reviewed,helpdesk,0.78,0.8,0.65,0.75,0.85,1.0,review
+Assignment Conditions,Toewijzingsvoorwaarden,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Assignment Rules automatically route tickets to the right team members based on predefined conditions.,Toewijzingsregels sturen tickets automatisch door naar de juiste teamleden op basis van vooraf ingestelde voorwaarden.,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Assignment rule created successfully.,Toewijzingsregel succesvol aangemaakt.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Assignment rule deleted successfully.,Toewijzingsregel succesvol verwijderd.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Assignment rule duplicated successfully.,Toewijzingsregel succesvol gedupliceerd.,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Assignment rule updated successfully.,Toewijzingsregel succesvol bijgewerkt.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Assignment rule {0} updated successfully.,Toewijzingsregel {0} succesvol bijgewerkt.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+At least one email is required,Minimaal een e-mailadres is vereist,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
+At least one email required,Minimaal een e-mailadres vereist,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
+At least one enabled status for <u>{0}</u> category must be enabled.,Er moet minimaal een ingeschakelde status voor de categorie <u>{0}</u> zijn ingeschakeld.,reviewed,helpdesk,0.74,0.75,0.6,0.75,0.7,1.0,review
+At least one feedback option must be enabled for rating {0},Minimaal een feedbackoptie moet zijn ingeschakeld voor beoordeling {0},reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
+At least one team is required,Minimaal een team is vereist,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
+"At-least one of priority, team and ticket type is required","Minimaal een van prioriteit, team en tickettype is vereist",reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
+Auto update status,Status automatisch bijwerken,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Auto-close after (Days),Automatisch sluiten na (dagen),reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Auto-close tickets that remain in a status for the specified number of days.,Tickets automatisch sluiten die gedurende het opgegeven aantal dagen in een status blijven.,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
+Automatically Close Tickets when,Tickets automatisch sluiten wanneer,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Automatically close stale tickets,Verlopen tickets automatisch sluiten,reviewed,helpdesk,0.9,0.85,0.85,0.85,1.0,1.0,ok
+Average First Response,Gemiddelde eerste reactie,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Average First Response Time,Gemiddelde eerste reactietijd,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Average Resolution,Gemiddelde oplossing,reviewed,helpdesk,0.82,0.8,0.7,0.8,1.0,1.0,ok
+Average Resolution Time,Gemiddelde oplostijd,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Average Time Metrics,Gemiddelde tijdsmetrieken,reviewed,helpdesk,0.8,0.8,0.7,0.75,0.9,1.0,ok
+Average feedback rating per day is around {0} stars,De gemiddelde feedbackbeoordeling per dag is ongeveer {0} sterren,reviewed,helpdesk,0.9,0.9,0.85,0.85,0.9,1.0,ok
+Average response and resolution metrics not yet generated,Gemiddelde reactie- en oplossingsmetrieken zijn nog niet gegenereerd,reviewed,helpdesk,0.84,0.85,0.75,0.8,0.9,1.0,ok
+Average tickets per day is around {0},Het gemiddelde aantal tickets per dag is ongeveer {0},reviewed,helpdesk,0.9,0.9,0.85,0.85,0.9,1.0,ok
+Avg. Feedback Rating,Gem. feedbackbeoordeling,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Avg. First Response,Gem. eerste reactie,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Avg. Resolution,Gem. oplossing,reviewed,helpdesk,0.82,0.8,0.7,0.8,1.0,1.0,ok
+Avg. feedback rating for the tickets resolved,Gem. feedbackbeoordeling voor opgeloste tickets,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
+Avg. first response time,Gem. eerste reactietijd,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Avg. resolution time,Gem. oplostijd,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Avg. time taken to first respond to a ticket,Gem. tijd tot eerste reactie op een ticket,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
+Avg. time taken to resolve a ticket,Gem. tijd om een ticket op te lossen,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
+Back to Tickets,Terug naar tickets,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Base Support Rotation,Basisrotatie ondersteuning,reviewed,helpdesk,0.77,0.75,0.65,0.7,0.9,1.0,review
+"Based on your HR Policy, select your leave allocation period's end date",Selecteer op basis van uw HR-beleid de einddatum van uw verlofperiode.,reviewed,helpdesk,0.8,0.8,0.75,0.8,0.85,0.9,ok
+"Based on your HR Policy, select your leave allocation period's start date",Selecteer op basis van uw HR-beleid de startdatum van uw verlofperiode.,reviewed,helpdesk,0.8,0.8,0.75,0.8,0.85,0.9,ok
+Brand name,Merknaam,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Business Holidays,Bedrijfsvakanties,reviewed,helpdesk,0.8,0.75,0.7,0.75,1.0,1.0,ok
+Call Logs,Gesprekslogboeken,reviewed,helpdesk,0.88,0.85,0.8,0.85,1.0,1.0,ok
+"Can invite new agents, manage tickets, create custom views and manage public views.","Kan nieuwe Agents uitnodigen, Tickets beheren, aangepaste weergaven aanmaken en openbare weergaven beheren.",reviewed,helpdesk,0.84,0.85,0.75,0.8,0.9,1.0,ok
+Can manage all aspects of Helpdesk.,Kan alle aspecten van Helpdesk beheren.,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+"Can work on tickets, create custom views and manage private views.","Kan aan Tickets werken, aangepaste weergaven aanmaken en persoonlijke weergaven beheren.",reviewed,helpdesk,0.84,0.85,0.75,0.8,0.9,1.0,ok
+Cancel Invitation,Uitnodiging annuleren,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Cannot delete the default SLA. At least one SLA must be marked as default.,De standaard-SLA kan niet worden verwijderd. Er moet minimaal één SLA als standaard zijn ingesteld.,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Cannot disable this status as it is linked in HD Settings:<br><br>,Deze status kan niet worden uitgeschakeld omdat deze is gekoppeld in HD-instellingen:<br><br>,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
+Cannot disable this status as it is linked in the following SLAs:<br><br>,Deze status kan niet worden uitgeschakeld omdat deze is gekoppeld aan de volgende SLA's:<br><br>,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Cannot merge General category,De categorie Algemeen kan niet worden samengevoegd,reviewed,helpdesk,0.92,0.9,0.85,0.9,1.0,1.0,ok
+Category '{0}' link copied to clipboard,Link van categorie '{0}' gekopieerd naar klembord,reviewed,helpdesk,0.84,0.85,0.75,0.8,0.9,1.0,ok
+Category created successfully.,Categorie succesvol aangemaakt.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Category deleted successfully.,Categorie succesvol verwijderd.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Category merged successfully.,Categorie succesvol samengevoegd.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Category must have atleast one article,Een categorie moet minimaal één artikel bevatten,reviewed,helpdesk,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Category updated successfully.,Categorie succesvol bijgewerkt.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Change image,Afbeelding wijzigen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Change photo,Foto wijzigen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Change priority,Prioriteit wijzigen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Change status,Status wijzigen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Change team,Team wijzigen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Change ticket type,Tickettype wijzigen,reviewed,helpdesk,0.94,0.95,0.9,0.9,1.0,1.0,ok
+Change your search terms or filters,Pas uw zoektermen of filters aan,reviewed,helpdesk,0.84,0.85,0.75,0.85,0.9,1.0,ok
+Change your search terms to find teams.,Pas uw zoektermen aan om teams te vinden.,reviewed,helpdesk,0.84,0.85,0.75,0.85,0.9,1.0,ok
+Channels,Kanalen,reviewed,helpdesk,0.94,0.9,0.95,0.9,1.0,1.0,ok
+Child field,Onderliggend veld,reviewed,helpdesk,0.83,0.8,0.75,0.8,1.0,1.0,ok
+Choose how tickets are distributed among selected assignees.,Kies hoe Tickets worden verdeeld over de geselecteerde ontvangers.,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
+Choose the duration of this holiday list.,Kies de duur van deze feestdagenlijst.,reviewed,helpdesk,0.77,0.8,0.75,0.65,0.9,1.0,review
+Choose the email service provider you want to configure.,Kies de e-mailprovider die u wilt configureren.,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Choose which tickets are affected by this assignment rule.,Kies welke Tickets door deze toewijzingsregel worden beïnvloed.,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
+Choose which tickets are affected by this policy.,Kies welke Tickets door dit beleid worden beïnvloed.,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
+Choose which tickets are affected by this un-assignment rule.,Kies welke Tickets door deze ontkoppelingsregel worden beïnvloed.,reviewed,helpdesk,0.72,0.75,0.6,0.6,0.8,1.0,review
+Choose who can view and use this response.,Kies wie dit antwoord kan bekijken en gebruiken.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Choose who receives the tickets.,Kies wie de Tickets ontvangt.,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
+Clear all filters,Alle filters wissen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Click on Add to Holidays. This will populate the holidays table with all the dates that fall on the selected weekly off. Repeat the process for populating the dates for all your weekly holidays,Klik op 'Toevoegen aan feestdagen'. Hiermee wordt de tabel met feestdagen gevuld met alle datums die op de geselecteerde vrije week vallen. Herhaal dit proces om de datums voor al uw wekelijkse feestdagen in te vullen.,reviewed,helpdesk,0.74,0.75,0.7,0.65,0.85,0.9,review
+Close Ticket,Ticket sluiten,reviewed,helpdesk,0.95,0.95,0.95,0.9,1.0,1.0,ok
+Closed or rated tickets cannot be updated by non-agents,Gesloten of beoordeelde Tickets kunnen niet worden bijgewerkt door niet-Agents,reviewed,helpdesk,0.69,0.7,0.6,0.55,0.8,1.0,review
+Comma separated emails to invite.,"E-mailadressen om uit te nodigen, gescheiden door komma's.",reviewed,helpdesk,0.86,0.8,0.85,0.85,1.0,1.0,ok
+Comment cannot be empty.,Opmerking mag niet leeg zijn.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Comment deleted sucessfully.,Opmerking succesvol verwijderd.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Comment not found,Opmerking niet gevonden,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Comment updated successfully.,Opmerking succesvol bijgewerkt.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Commented By,Opmerking geplaatst door,reviewed,helpdesk,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Communication ID is required,Communicatie-ID is vereist,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Configure your Exotel settings for Helpdesk.,Configureer uw Exotel-instellingen voor Helpdesk.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Configure your Exotel telephony integration settings here,Configureer hier uw Exotel-telefonie-integratie-instellingen,reviewed,helpdesk,0.74,0.8,0.6,0.75,0.7,1.0,review
+Configure your Twilio settings for Helpdesk.,Configureer uw Twilio-instellingen voor Helpdesk.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Configure your Twilio telephony integration settings here,Configureer hier uw Twilio-telefonie-integratie-instellingen,reviewed,helpdesk,0.74,0.8,0.6,0.75,0.7,1.0,review
+Configure your telephony settings.,Configureer uw telefonie-instellingen.,reviewed,helpdesk,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Confirm Changes,Wijzigingen bevestigen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Confirm overwrite,Bevestig overschrijven,reviewed,helpdesk,0.83,0.85,0.75,0.8,0.9,1.0,ok
+Connect your support email,Koppel uw support-e-mailadres,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Contact created successfully.,Contact succesvol aangemaakt.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Contact invited successfully.,Contact succesvol uitgenodigd.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Contact updated successfully.,Contact succesvol bijgewerkt.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Contact with email already exists,Er bestaat al een contact met dit e-mailadres,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Content Type,Inhoudstype,reviewed,helpdesk,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Copy ticket URL,Ticket-URL kopiëren,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Copy ticket id,Ticket-ID kopiëren,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Could not an email due to: {0},Er kon geen e-mail worden verzonden vanwege: {0},reviewed,helpdesk,0.87,0.85,0.8,0.85,0.9,1.0,ok
+Could not send an acknowledgement email due to: {0},Er kon geen bevestigingsmail worden verzonden vanwege: {0},reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
+"Could not send feedback email,due to: {0}",Er kon geen feedbackmail worden verzonden vanwege: {0},reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Create & invite a contact,Contact aanmaken en uitnodigen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Create a ticket,Een Ticket aanmaken,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
+Create an article,Een artikel aanmaken,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Create and manage teams and assign agents to specific teams.,"Maak teams aan en beheer deze, en wijs Agents toe aan specifieke teams.",reviewed,helpdesk,0.72,0.75,0.65,0.55,0.85,1.0,review
+Create field dependencies to dynamically update options based on user selections. Learn more about field dependencies,Maak veldafhankelijkheden aan om opties dynamisch bij te werken op basis van gebruikersselecties. Meer informatie over veldafhankelijkheden,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Create new business holiday,Nieuwe bedrijfsvakantie aanmaken,reviewed,helpdesk,0.73,0.75,0.65,0.65,0.8,1.0,review
+Created by,Aangemaakt door,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Criterion,Criterium,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Custom Outside Working Hours Message,Aangepast bericht buiten werktijden,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Customer created successfully.,Klant succesvol aangemaakt.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Customer portal,Klantenportaal,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Customer updated successfully.,Klant succesvol bijgewerkt.,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Customize your email notification preferences to stay informed about important updates and activities.,Pas uw e-mailmeldingsvoorkeuren aan om op de hoogte te blijven van belangrijke updates en activiteiten.,reviewed,helpdesk,0.83,0.85,0.75,0.8,0.85,1.0,ok
+Cyan,Cyaan,reviewed,helpdesk,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Dashboard saved,Dashboard opgeslagen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Day count for auto closing tickets cannot be negative or zero,Het aantal dagen voor automatisch sluiten van Tickets mag niet negatief of nul zijn,reviewed,helpdesk,0.73,0.75,0.65,0.6,0.85,1.0,review
+Default SLA,Standaard-SLA,reviewed,helpdesk,0.82,0.85,0.75,0.8,0.8,1.0,ok
+Default Ticket Status,Standaard ticketstatus,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Default Views,Standaardweergaven,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Default actions,Standaardacties,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Default calling medium for logged in user,Standaard gespreksmedium voor ingelogde gebruiker,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Default medium,Standaard medium,reviewed,helpdesk,0.79,0.8,0.7,0.75,0.9,1.0,review
+Default priority,Standaard prioriteit,reviewed,helpdesk,0.79,0.8,0.7,0.75,0.9,1.0,review
+Default template can not be deleted,Het standaard Template kan niet worden verwijderd,reviewed,helpdesk,0.71,0.75,0.65,0.55,0.8,1.0,review
+Default ticket status,Standaard ticketstatus,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Default ticket type,Standaard tickettype,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Define who receives the tickets and how they’re distributed among agents.,Definieer wie de tickets ontvangt en hoe ze worden verdeeld over uw team,reviewed,helpdesk,,,,,,,
-Delete articles,Artikelen verwijderen,reviewed,helpdesk,,,,,,,
-Delete category?,Categorie verwijderen?,reviewed,helpdesk,,,,,,,
-Description Template,Beschrijving Template,reviewed,helpdesk,,,,,,,
-Description Weight,Beschrijvingsgewicht,reviewed,helpdesk,,,,,,,
-Detailed explanation,Uitgebreide toelichting,reviewed,helpdesk,,,,,,,
-Disable Bypass Restrictions,Beperkingen omzeilen uitschakelen,reviewed,helpdesk,,,,,,,
-Disable global saved replies,Globale opgeslagen antwoorden uitschakelen,reviewed,helpdesk,,,,,,,
-Disable saved replies with scope 'Global',Opgeslagen antwoorden met bereik 'Globaal' uitschakelen,reviewed,helpdesk,,,,,,,
-Disable signup,Aanmelding uitschakelen,reviewed,helpdesk,,,,,,,
-"Disables all email notifications for the ticket - including creation, updates, and alerts.","Schakelt alle e-mailmeldingen voor het Ticket uit, inclusief aanmaak, updates en waarschuwingen.",reviewed,helpdesk,,,,,,,
-Discard Article,Artikel verwerpen,reviewed,helpdesk,,,,,,,
-Discard changes?,Wijzigingen verwerpen?,reviewed,helpdesk,,,,,,,
-Display a customizable banner message when customers raise tickets outside your working hours.,Toon een aanpasbaar bannerbericht wanneer klanten Tickets indienen buiten uw werktijden.,reviewed,helpdesk,,,,,,,
-Do not apply filters and restrictions to agents of this team,Pas geen filters en beperkingen toe op Agents van dit team,reviewed,helpdesk,,,,,,,
-Do not restrict tickets without a Team,Beperk Tickets zonder een Team niet,reviewed,helpdesk,,,,,,,
-Do not restrict tickets without a team,Beperk Tickets zonder een team niet,reviewed,helpdesk,,,,,,,
-Docs,Documentatie,reviewed,helpdesk,,,,,,,
-Duplicate Holiday List,Verloflijst dupliceren,reviewed,helpdesk,,,,,,,
-Duplicate Saved reply,Opgeslagen antwoord dupliceren,reviewed,helpdesk,,,,,,,
-Duration is required,Duur is verplicht,reviewed,helpdesk,,,,,,,
-"Easily invite new agents, managers, or admins.","Nodig eenvoudig nieuwe Agents, managers of beheerders uit.",reviewed,helpdesk,,,,,,,
-Edit Domain,Domein bewerken,reviewed,helpdesk,,,,,,,
+Delete articles,Artikelen verwijderen,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Delete category?,Categorie verwijderen?,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Description Template,Beschrijving Template,reviewed,helpdesk,0.69,0.7,0.6,0.55,0.8,1.0,review
+Description Weight,Beschrijvingsgewicht,reviewed,helpdesk,0.78,0.8,0.7,0.75,0.85,1.0,review
+Detailed explanation,Uitgebreide toelichting,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Disable Bypass Restrictions,Beperkingen omzeilen uitschakelen,reviewed,helpdesk,0.78,0.8,0.7,0.75,0.85,1.0,review
+Disable global saved replies,Globale opgeslagen antwoorden uitschakelen,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Disable saved replies with scope 'Global',Opgeslagen antwoorden met bereik 'Globaal' uitschakelen,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Disable signup,Aanmelding uitschakelen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Disables all email notifications for the ticket - including creation, updates, and alerts.","Schakelt alle e-mailmeldingen voor het Ticket uit, inclusief aanmaak, updates en waarschuwingen.",reviewed,helpdesk,0.72,0.75,0.65,0.6,0.8,1.0,review
+Discard Article,Artikel verwerpen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Discard changes?,Wijzigingen verwerpen?,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Display a customizable banner message when customers raise tickets outside your working hours.,Toon een aanpasbaar bannerbericht wanneer klanten Tickets indienen buiten uw werktijden.,reviewed,helpdesk,0.72,0.75,0.65,0.6,0.8,1.0,review
+Do not apply filters and restrictions to agents of this team,Pas geen filters en beperkingen toe op Agents van dit team,reviewed,helpdesk,0.71,0.75,0.65,0.55,0.8,1.0,review
+Do not restrict tickets without a Team,Beperk Tickets zonder een Team niet,reviewed,helpdesk,0.7,0.75,0.6,0.55,0.8,1.0,review
+Do not restrict tickets without a team,Beperk Tickets zonder een team niet,reviewed,helpdesk,0.7,0.75,0.6,0.55,0.8,1.0,review
+Docs,Documentatie,reviewed,helpdesk,0.83,0.8,0.75,0.8,1.0,1.0,ok
+Duplicate Holiday List,Verloflijst dupliceren,reviewed,helpdesk,0.72,0.75,0.65,0.6,0.85,1.0,review
+Duplicate Saved reply,Opgeslagen antwoord dupliceren,reviewed,helpdesk,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Duration is required,Duur is verplicht,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Easily invite new agents, managers, or admins.","Nodig eenvoudig nieuwe Agents, managers of beheerders uit.",reviewed,helpdesk,0.72,0.75,0.65,0.55,0.8,1.0,review
+Edit Domain,Domein bewerken,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Edit Title,Titel bewerken,reviewed,helpdesk,,,,,,,
 Edit your email account,Bewerk uw e-mailaccount,reviewed,helpdesk,,,,,,,
 Email Content,E-mailinhoud,reviewed,helpdesk,,,,,,,

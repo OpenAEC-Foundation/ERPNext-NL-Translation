@@ -8399,306 +8399,306 @@ Rename Tool,Hernoem Tool,reviewed,erpnext,0.65,0.65,0.55,0.65,0.7,0.85,review
 Rename {0},Hernoemen {0},reviewed,frappe,0.81,0.8,0.75,0.8,0.85,0.9,ok
 "Renamed files and replaced code in controllers, please check!","Hernoemde bestanden en vervangen code in controllers, controleer dit!",reviewed,frappe,0.85,0.85,0.8,0.85,0.9,0.9,ok
 renamed from {0} to {1},hernoemd van {0} tot {1},reviewed,frappe,0.85,0.85,0.8,0.85,0.9,0.9,ok
-Renaming,Hernoemen,reviewed,custom,,,,,,,
-"Renaming it is only allowed via parent company {0}, to avoid mismatch.","Hernoemen is alleen toegestaan via moederbedrijf {0}, om mismatch te voorkomen.",reviewed,erpnext,,,,,,,
-Rent Cost,Huurkosten,reviewed,erpnext,,,,,,,
-Rented,Verhuurd,reviewed,erpnext,,,,,,,
-Reopen,heropenen,reviewed,both,,,,,,,
-Reorder Level,Bestelniveau,reviewed,erpnext,,,,,,,
-Reorder level based on Warehouse,Herbestelniveau op basis van magazijn,reviewed,erpnext,,,,,,,
-Reorder Qty,Bestelaantal,reviewed,erpnext,,,,,,,
-Repack,Herverpakken,reviewed,erpnext,,,,,,,
-Repair Cost,reparatiekosten,reviewed,erpnext,,,,,,,
-Repair Status,Reparatiestatus,reviewed,erpnext,,,,,,,
-Repay From Salary,Terugbetalen van Loon,reviewed,erpnext,,,,,,,
-Repay unclaimed amount from salary,Betaal niet-opgeëiste bedrag terug van salaris,reviewed,erpnext,,,,,,,
-Repeat,herhalen,reviewed,frappe,,,,,,,
-repeat,herhaling,reviewed,frappe,,,,,,,
-Repeat Customer Revenue,Terugkerende klanten Opbrengsten,reviewed,erpnext,,,,,,,
-Repeat Customers,Terugkerende klanten,reviewed,erpnext,,,,,,,
-Repeat Header and Footer in PDF,Herhaal kop- en voetteksten in PDF,reviewed,frappe,,,,,,,
-Repeat On,Herhaal op,reviewed,frappe,,,,,,,
-Repeat on Day,Herhaal op dag,reviewed,frappe,,,,,,,
-Repeat on Last Day of the Month,Herhaal dit op de laatste dag van de maand,reviewed,frappe,,,,,,,
-Repeat this Event,Herhaal deze gebeurtenis,reviewed,frappe,,,,,,,
-Repeat Till,Herhaal tot,reviewed,frappe,,,,,,,
-"Repeats like ""aaa"" are easy to guess",Herhalingen als &quot;aaa&quot; zijn makkelijk te raden,reviewed,frappe,,,,,,,
-"Repeats like ""abcabcabc"" are only slightly harder to guess than ""abc""",Herhalingen zoals &quot;abcabcabc&quot; zijn slechts iets moeilijker te raden dan &quot;abc&quot;,reviewed,frappe,,,,,,,
-Repeats {0},Herhaalt {0},reviewed,frappe,,,,,,,
-Replace,Vervang,reviewed,erpnext,,,,,,,
-"Replace a particular BOM in all other BOMs where it is used. It will replace the old BOM link, update cost and regenerate ""BOM Explosion Item"" table as per new BOM.\nIt also updates latest price in all the BOMs.","Vervang een bepaalde BOM in alle andere BOM&#39;s waar het wordt gebruikt. Het zal de oude BOM link vervangen, update kosten en regenereren &quot;BOM Explosion Item&quot; tabel zoals per nieuwe BOM. Ook wordt de laatste prijs bijgewerkt in alle BOM&#39;s.",reviewed,erpnext,,,,,,,
-Replace BOM,Vervang BOM,reviewed,erpnext,,,,,,,
-Replace BOM and update latest price in all BOMs,Vervang BOM en update de laatste prijs in alle BOM&#39;s,reviewed,erpnext,,,,,,,
-Replied,Beantwoord,reviewed,both,,,,,,,
-Reply,Antwoorden,reviewed,frappe,,,,,,,
-Reply All,Allen beantwoorden,reviewed,frappe,,,,,,,
-Report,Rapport,reviewed,both,,,,,,,
-Report Builder,Rapportbouwer,reviewed,frappe,,,,,,,
-Report cannot be set for Single types,Rapport kan niet worden ingesteld voor Single types,reviewed,frappe,,,,,,,
-Report Column,Rapportkolom,reviewed,frappe,,,,,,,
-Report Date,Rapportdatum,reviewed,erpnext,,,,,,,
-Report Description,Rapportbeschrijving,reviewed,frappe,,,,,,,
-Report Document Error,Rapporteer documentfout,reviewed,frappe,,,,,,,
-Report End Time,Eindtijd melden,reviewed,frappe,,,,,,,
-Report Filter,Rapportfilter,reviewed,frappe,,,,,,,
-Report Filters,Rapportfilters,reviewed,frappe,,,,,,,
-"Report has no data, please modify the filters or change the Report Name",Rapport bevat geen gegevens. Wijzig de filters of wijzig de rapportnaam,reviewed,frappe,,,,,,,
-"Report has no numeric fields, please change the Report Name",Rapport heeft geen numerieke velden. Wijzig de rapportnaam,reviewed,frappe,,,,,,,
-Report Hide,Rapport Verbergen,reviewed,frappe,,,,,,,
-Report Information,Informatie melden,reviewed,frappe,,,,,,,
-Report Item,Meld item,reviewed,erpnext,,,,,,,
-Report Name,Rapportnaam,reviewed,frappe,,,,,,,
-Report of all document shares,Verslag van alle documenten aandelen,reviewed,frappe,,,,,,,
-Report Preference,Rapportvoorkeur,reviewed,erpnext,,,,,,,
-Report Reference Doctype,Rapportreferentie Doctype,reviewed,frappe,,,,,,,
-Report Settings,Rapportinstellingen,reviewed,erpnext,,,,,,,
-Report Start Time,Starttijd melden,reviewed,frappe,,,,,,,
-Report this Item,Meld dit item,reviewed,erpnext,,,,,,,
-Report Type,Rapport Type,reviewed,both,,,,,,,
-Report Type is mandatory,Rapport type is verplicht,reviewed,erpnext,,,,,,,
-Report updated successfully,Rapport succesvol bijgewerkt,reviewed,frappe,,,,,,,
-Report View,Rapportweergave,reviewed,custom,,,,,,,
-Report was not saved (there were errors),Rapport is niet opgeslagen (er waren fouten),reviewed,frappe,,,,,,,
-Report with more than 10 columns looks better in Landscape mode.,Rapport met meer dan 10 kolommen ziet er beter uit in de liggende modus.,reviewed,frappe,,,,,,,
-Report {0} is disabled,Rapport {0} is uitgeschakeld,reviewed,frappe,,,,,,,
-Report:,Verslag doen van:,reviewed,frappe,,,,,,,
-Reports,rapporten,reviewed,both,,,,,,,
-Reports & Masters,Rapporten en masters,reviewed,frappe,,,,,,,
-Reports already in Queue,Rapporteert al in wachtrij,reviewed,frappe,,,,,,,
-Reports to,Rapporteert aan,reviewed,erpnext,,,,,,,
-Repost Accounting Ledger,Grootboek herboeken,reviewed,custom,,,,,,,
-Repost Item Valuation,Artikelwaardering herboeken,reviewed,custom,,,,,,,
-Repost Payment Ledger,Betalingsgrootboek herboeken,reviewed,custom,,,,,,,
-Represents a User in the system.,Vertegenwoordigt een gebruiker in het systeem.,reviewed,frappe,,,,,,,
-Represents Company,Vertegenwoordigt bedrijf,reviewed,erpnext,,,,,,,
-Represents the states allowed in one document and role assigned to change the state.,Vertegenwoordigt de staten toegestaan in één document en de rol toegewezen aan de staat te veranderen.,reviewed,frappe,,,,,,,
-Reqd By Date,Benodigd op datum,reviewed,erpnext,,,,,,,
-Reqd by date,Op datum vereist,reviewed,erpnext,,,,,,,
-Reqd Qty,Gewenste hoeveelheid,reviewed,erpnext,,,,,,,
-Request Body consists of an invalid JSON structure,Request Body bestaat uit een ongeldige JSON-structuur,reviewed,frappe,,,,,,,
-Request Data,Verzoek om gegevens,reviewed,frappe,,,,,,,
-Request for,Verzoek tot,reviewed,erpnext,,,,,,,
-Request for Information,Informatieaanvraag,reviewed,erpnext,,,,,,,
-Request for purchase.,Inkoopaanvraag,reviewed,erpnext,,,,,,,
-Request For Quotation,Offerte aanvragen,reviewed,erpnext,,,,,,,
-Request for Quotation,Offerte-verzoek,reviewed,erpnext,,,,,,,
-Request for Quotation Item,Offerte Item,reviewed,erpnext,,,,,,,
-Request for Quotation Supplier,Offerte Supplier,reviewed,erpnext,,,,,,,
-Request for quotation.,Aanvraag voor een offerte.,reviewed,erpnext,,,,,,,
-Request for Quotations,Verzoek om offertes,reviewed,erpnext,,,,,,,
-Request for Raw Materials,Verzoek om grondstoffen,reviewed,erpnext,,,,,,,
-Request Structure,Verzoekstructuur,reviewed,frappe,,,,,,,
-Request Timed Out,Time-out,reviewed,frappe,,,,,,,
-Request Type,Aanvraag type,reviewed,erpnext,,,,,,,
-Request URL,URL aanvragen,reviewed,frappe,,,,,,,
-Requested,Aangevraagd,reviewed,erpnext,,,,,,,
-Requested Amount,Gevraagde bedrag,reviewed,erpnext,,,,,,,
-Requested Items To Be Transferred,Aangevraagde Artikelen te Verplaatsen,reviewed,erpnext,,,,,,,
-Requested Items to Order and Receive,Gevraagde artikelen om te bestellen en te ontvangen,reviewed,erpnext,,,,,,,
-Requested Numbers,Gevraagde Numbers,reviewed,erpnext,,,,,,,
-Requested Qty,Aangevraagde Hoeveelheid,reviewed,erpnext,,,,,,,
-"Requested Qty: Quantity requested for purchase, but not ordered.","Aangevraagd Hoeveelheid: Aantal gevraagd om in te kopen, maar nog niet besteld.",reviewed,erpnext,,,,,,,
-Requested Quantity,gevraagde hoeveelheid,reviewed,erpnext,,,,,,,
-Requesting Department,Verzoekende afdeling,reviewed,erpnext,,,,,,,
-Requesting payment against {0} {1} for amount {2},Betalingsverzoeken tegen {0} {1} van {2} bedrag,reviewed,erpnext,,,,,,,
-Requesting Practitioner,Verzoekende behandelaar,reviewed,erpnext,,,,,,,
-Requesting Site,Verzoekende site,reviewed,erpnext,,,,,,,
-Requestor,aanvrager,reviewed,erpnext,,,,,,,
-Require Result Value,Vereiste resultaatwaarde,reviewed,erpnext,,,,,,,
-Require Trusted Certificate,Vereist vertrouwd certificaat,reviewed,frappe,,,,,,,
-Required,Verplicht,reviewed,custom,,,,,,,
-Required By,Benodigd op,reviewed,erpnext,,,,,,,
-Required Date,Benodigd op datum,reviewed,erpnext,,,,,,,
-Required Items,Vereiste items,reviewed,erpnext,,,,,,,
-Required On,Vereist op,reviewed,erpnext,,,,,,,
-Required only for sample item.,Alleen benodigd voor Artikelmonster.,reviewed,erpnext,,,,,,,
-Required Qty,Benodigde hoeveelheid,reviewed,erpnext,,,,,,,
-Required Quantity,Benodigde hoeveelheid,reviewed,erpnext,,,,,,,
-Required Skills,Benodigde vaardigheden,reviewed,erpnext,,,,,,,
-Requirement,eis,reviewed,erpnext,,,,,,,
-Requires Fulfilment,Voldoet aan fulfilment,reviewed,erpnext,,,,,,,
-Reschedule,Afspraak verzetten,reviewed,erpnext,,,,,,,
-Research,Onderzoek,reviewed,erpnext,,,,,,,
-Researcher,Onderzoeker,reviewed,erpnext,,,,,,,
-"Reselect, if the chosen address is edited after save","Selecteer opnieuw, als het gekozen adres is bewerkt na opslaan",reviewed,erpnext,,,,,,,
-"Reselect, if the chosen contact is edited after save","Selecteer opnieuw, als het gekozen contact is bewerkt na opslaan",reviewed,erpnext,,,,,,,
-Resend Payment Email,E-mail opnieuw te verzenden Betaling,reviewed,erpnext,,,,,,,
-Reservation End Time,Eindtijd van reservering,reviewed,erpnext,,,,,,,
-Reservation Time,Reservatietijd,reviewed,erpnext,,,,,,,
-Reserve Warehouse,Magazijn reserveren,reviewed,erpnext,,,,,,,
-Reserved,gereserveerd,reviewed,erpnext,,,,,,,
-Reserved Balance,Gereserveerd saldo,reviewed,erpnext,,,,,,,
-Reserved for manufacturing,Gereserveerd voor productie,reviewed,erpnext,,,,,,,
-Reserved for sale,Gereserveerd voor verkoop,reviewed,erpnext,,,,,,,
-Reserved for sub contracting,Gereserveerd voor onderaanneming,reviewed,erpnext,,,,,,,
-Reserved Qty,Gereserveerde hoeveelheid,reviewed,erpnext,,,,,,,
-Reserved Qty for Production,Aantal voorbehouden voor productie,reviewed,erpnext,,,,,,,
-Reserved Qty for Production: Raw materials quantity to make manufacturing items.,Gereserveerde hoeveelheid voor productie: hoeveelheid grondstoffen om productieartikelen te maken.,reviewed,erpnext,,,,,,,
-Reserved Qty for sub contract,Gereserveerde hoeveelheid voor subcontract,reviewed,erpnext,,,,,,,
-Reserved Qty for Subcontract: Raw materials quantity to make subcontracted items.,Gereserveerde hoeveelheid voor uitbesteding: hoeveelheid grondstoffen om uitbestede artikelen te maken.,reviewed,erpnext,,,,,,,
-"Reserved Qty: Quantity ordered for sale, but not delivered.","Gereserveerde Hoeveelheid: Aantal toegewezen aan verkoop, maar nog niet geleverd.",reviewed,erpnext,,,,,,,
-Reserved Quantity,Gereserveerde Hoeveelheid,reviewed,erpnext,,,,,,,
-Reserved Quantity for Production,Gereserveerde hoeveelheid voor productie,reviewed,erpnext,,,,,,,
-Reserved Warehouse is mandatory for Item {0} in Raw Materials supplied,Gereserveerd magazijn is verplicht voor artikel {0} in geleverde grondstoffen,reviewed,erpnext,,,,,,,
-Reset Chart,Reset kaart,reviewed,frappe,,,,,,,
-Reset Fields,Reset velden,reviewed,frappe,,,,,,,
-Reset LDAP Password,Reset LDAP-wachtwoord,reviewed,frappe,,,,,,,
-Reset Permissions for {0}?,Reset Machtigingen voor {0} ?,reviewed,frappe,,,,,,,
-Reset to defaults,Teruggezet naar de standaardinstellingen,reviewed,frappe,,,,,,,
-Reset your password,Stel je wachtwoord opnieuw in,reviewed,frappe,,,,,,,
-Resetting Service Level Agreement.,Service Level Agreement resetten.,reviewed,erpnext,,,,,,,
-Resignation Letter Date,Ontslagbrief Datum,reviewed,erpnext,,,,,,,
-resize-horizontal,resize-horizontale,reviewed,frappe,,,,,,,
-resize-vertical,resize-verticale,reviewed,frappe,,,,,,,
-Resolution,Oplossing,reviewed,erpnext,,,,,,,
-Resolution By,Resolutie door,reviewed,erpnext,,,,,,,
-Resolution By Variance,Resolutie door variantie,reviewed,erpnext,,,,,,,
-Resolution Date,Oplossing Datum,reviewed,erpnext,,,,,,,
-Resolution Details,Oplossing Details,reviewed,erpnext,,,,,,,
-Resolution Time,Resolutie tijd,reviewed,erpnext,,,,,,,
-Resolutions,resoluties,reviewed,erpnext,,,,,,,
-Resolve,Oplossen,reviewed,erpnext,,,,,,,
-Resolve error and upload again.,Los de fout op en upload opnieuw.,reviewed,erpnext,,,,,,,
-Resolved,Opgelost,reviewed,erpnext,,,,,,,
-Resolved By,Opgelost door,reviewed,erpnext,,,,,,,
-Respiratory rate,Ademhalingsfrequentie,reviewed,erpnext,,,,,,,
-Respiratory Rate:,Ademhalingsfrequentie:,reviewed,erpnext,,,,,,,
-Response,antwoord,reviewed,frappe,,,,,,,
-response,antwoord,reviewed,frappe,,,,,,,
-Response and Resolution Time,Reactietijd en oplossingstijd,reviewed,erpnext,,,,,,,
-Response By,Reactie door,reviewed,erpnext,,,,,,,
-Response By Variance,Reactie door variantie,reviewed,erpnext,,,,,,,
-Response Details,Reactiedetails,reviewed,erpnext,,,,,,,
-Response Key List,Responsensleutellijst,reviewed,erpnext,,,,,,,
-Response Options,Antwoord opties,reviewed,erpnext,,,,,,,
-Response Time for {0} priority in row {1} can't be greater than Resolution Time.,Reactietijd voor {0} prioriteit in rij {1} kan niet groter zijn dan Oplossingstijd.,reviewed,erpnext,,,,,,,
-Response Type,response Type,reviewed,frappe,,,,,,,
-Responsible,Verantwoordelijk,reviewed,erpnext,,,,,,,
-Rest Of The World,Rest van de wereld,reviewed,erpnext,,,,,,,
-Restart Subscription,Start Abonnement opnieuw,reviewed,erpnext,,,,,,,
-Restaurant Manager,Restaurant manager,reviewed,erpnext,,,,,,,
-Restaurant Menu Item,Restaurant Menu-item,reviewed,erpnext,,,,,,,
-Restaurant Order Entry,Restaurantbestelling,reviewed,erpnext,,,,,,,
-Restaurant Order Entry Item,Restaurantbestelling Item invoeren,reviewed,erpnext,,,,,,,
-Restaurant Reservation,Restaurant reservering,reviewed,erpnext,,,,,,,
-Restaurant Table,Restaurant tafel,reviewed,erpnext,,,,,,,
-Restore,Herstellen,reviewed,frappe,,,,,,,
-Restore or permanently delete a document.,Herstel of verwijder een document permanent.,reviewed,frappe,,,,,,,
-Restore Original Permissions,Restore Original Machtigingen,reviewed,frappe,,,,,,,
-Restore to default settings?,Herstellen naar standaardinstellingen?,reviewed,frappe,,,,,,,
-Restored,Hersteld,reviewed,frappe,,,,,,,
-restored {0} as {1},herstelde {0} en {1},reviewed,frappe,,,,,,,
-Restoring Deleted Document,Herstel verwijderd document,reviewed,frappe,,,,,,,
-Restrict Backdated Leave Applications,Beperk verlofaanvragen met terugwerkende kracht,reviewed,erpnext,,,,,,,
-Restrict IP,Beperken IP,reviewed,frappe,,,,,,,
-Restrict to Countries,Beperken tot landen,reviewed,erpnext,,,,,,,
-Restrict To Domain,Beperken tot domein,reviewed,frappe,,,,,,,
-Restrict to Domain,Beperkt tot Domein,reviewed,frappe,,,,,,,
-Restrict user for specific document,Beperk gebruiker voor specifiek document,reviewed,frappe,,,,,,,
-Restrict user from this IP address only. Multiple IP addresses can be added by separating with commas. Also accepts partial IP addresses like (111.111.111),"Beperk de gebruiker van dit IP-adres alleen. Meerdere IP-adressen kunnen worden toegevoegd door het scheiden van met komma&#39;s. Ook aanvaardt gedeeltelijke IP-adres, zoals (111.111.111)",reviewed,frappe,,,,,,,
-Restricted,Beperkt,reviewed,frappe,,,,,,,
-Restrictions,beperkingen,reviewed,frappe,,,,,,,
-Result already Submitted,Resultaat is al verzonden,reviewed,erpnext,,,,,,,
-Result Component,Resultaatcomponent,reviewed,erpnext,,,,,,,
-Result Date,Resultaatdatum,reviewed,erpnext,,,,,,,
-Result Datetime,Resultaat Datetime,reviewed,erpnext,,,,,,,
-Result Emailed Message,Resultaat per e-mail bericht,reviewed,erpnext,,,,,,,
-Result Format,Resultaatformaat,reviewed,erpnext,,,,,,,
-Result HTML,resultaat HTML,reviewed,erpnext,,,,,,,
-Result Legend,Legenda resultaat,reviewed,erpnext,,,,,,,
-Result Legend Print,Resultaat Legenda afdrukken,reviewed,erpnext,,,,,,,
-Result Preview Field,Resultaat Voorbeeldveld,reviewed,erpnext,,,,,,,
-Result Printed Message,Resultaat Afgedrukt bericht,reviewed,erpnext,,,,,,,
-Result Route Field,Resultaat Routeveld,reviewed,erpnext,,,,,,,
-Result Title Field,Resultaat Titelveld,reviewed,erpnext,,,,,,,
-Result Value,Resultaat Waarde,reviewed,erpnext,,,,,,,
-Resume,Hervat,reviewed,erpnext,,,,,,,
-Resume Sending,doorgaan met het verzenden,reviewed,frappe,,,,,,,
-Retail & Wholesale,Retail & Groothandel,reviewed,erpnext,,,,,,,
-Retail Operations,Retailactiviteiten,reviewed,erpnext,,,,,,,
-Retain Sample,Bewaar monster,reviewed,erpnext,,,,,,,
-Retained Earnings,Ingehouden winsten,reviewed,erpnext,,,,,,,
-Retake,heroveren,reviewed,frappe,,,,,,,
-Retention Stock Entry already created or Sample Quantity not provided,Retentie Stock Entry al gemaakt of Sample Quantity niet verstrekt,reviewed,erpnext,,,,,,,
-Retirement Age,Pensioenleeftijd,reviewed,erpnext,,,,,,,
-Retry,opnieuw proberen,reviewed,frappe,,,,,,,
-Return,Retour,reviewed,erpnext,,,,,,,
-Return / Debit Note,Return / betaalkaart Note,reviewed,erpnext,,,,,,,
-Return Against Delivery Note,Terug Tegen Delivery Note,reviewed,erpnext,,,,,,,
-Return Against POS Invoice,Retourneren tegen POS-factuur,reviewed,erpnext,,,,,,,
-Return Against Purchase Invoice,Terug Tegen Purchase Invoice,reviewed,erpnext,,,,,,,
-Return Against Purchase Receipt,Terug Tegen Aankoop Receipt,reviewed,erpnext,,,,,,,
-Return Against Sales Invoice,Terug Tegen Sales Invoice,reviewed,erpnext,,,,,,,
-Return amount cannot be greater unclaimed amount,Retourbedrag kan niet hoger zijn opgeëist bedrag,reviewed,erpnext,,,,,,,
-Return to the Verification screen and enter the code displayed by your authentication app,Ga terug naar het scherm Verificatie en voer de code in die door uw verificatieapparaat wordt weergegeven,reviewed,frappe,,,,,,,
-Returned Amount,Geretourneerd bedrag,reviewed,erpnext,,,,,,,
-Returned Qty,Geretourneerde hoeveelheid,reviewed,erpnext,,,,,,,
-Returns,opbrengst,reviewed,erpnext,,,,,,,
-Reverse Charge,Omgekeerde lading,reviewed,erpnext,,,,,,,
-Reverse Icon Color,Reverse Icon Kleur,reviewed,frappe,,,,,,,
-Revert,terugkeren,reviewed,frappe,,,,,,,
-Revert Of,Terugkeren van,reviewed,frappe,,,,,,,
-Reverted,teruggekeerd,reviewed,frappe,,,,,,,
-Reverting length to {0} for '{1}' in '{2}'. Setting the length as {3} will cause truncation of data.,"Lengte terugzetten naar {0} voor &#39;{1}&#39; in &#39;{2}&#39;. Als u de lengte instelt op {3}, worden de gegevens afgekapt.",reviewed,frappe,,,,,,,
-Review,Beoordeling,reviewed,both,,,,,,,
-Review and Action,Beoordeling en actie,reviewed,erpnext,,,,,,,
-Review Date,Herzieningsdatum,reviewed,erpnext,,,,,,,
-Review Details,Details herzien,reviewed,erpnext,,,,,,,
-Review Invitation Sent,Review Uitnodiging verzonden,reviewed,erpnext,,,,,,,
-Review Level,Review niveau,reviewed,frappe,,,,,,,
-Review Levels,Beoordeling niveaus,reviewed,frappe,,,,,,,
-Review Points,Review punten,reviewed,frappe,,,,,,,
-Review Points:,Beoordelingspunten:,reviewed,frappe,,,,,,,
-Reviews,beoordelingen,reviewed,both,,,,,,,
-Revoke,Intrekken,reviewed,frappe,,,,,,,
-Revoke <Key></Key>,Intrekken&lt;Key&gt;&lt;/Key&gt;,reviewed,erpnext,,,,,,,
-Revoked,herroepen,reviewed,frappe,,,,,,,
-RFQs are not allowed for {0} due to a scorecard standing of {1},RFQ&#39;s zijn niet toegestaan voor {0} door een scorecard van {1},reviewed,erpnext,,,,,,,
-rgt,rgt,reviewed,erpnext,,,,,,,
-Right,Rechts,reviewed,frappe,,,,,,,
-Right Index,Rechter Index,reviewed,erpnext,,,,,,,
-Ringing,rinkelen,reviewed,erpnext,,,,,,,
-Risk Factors,Risicofactoren,reviewed,erpnext,,,,,,,
-Road,Weg,reviewed,erpnext,,,,,,,
-road,weg,reviewed,frappe,,,,,,,
-Robots.txt,robots.txt,reviewed,frappe,,,,,,,
-Role,Rol,reviewed,frappe,,,,,,,
-Role Allowed to Edit Frozen Stock,Rol toegestaan om bevroren voorraad te bewerken,reviewed,erpnext,,,,,,,
-Role Allowed to Set Frozen Accounts and Edit Frozen Entries,Rol toegestaan om bevroren accounts in te stellen en bevroren items te bewerken,reviewed,erpnext,,,,,,,
-Role and Level,Rol en Niveau,reviewed,frappe,,,,,,,
-Role Name,Rolnaam,reviewed,frappe,,,,,,,
-Role Permission for Page and Report,Rolmachtiging voor pagina en rapport,reviewed,frappe,,,,,,,
-Role Permissions,Rolmachtigingen,reviewed,frappe,,,,,,,
-Role Permissions Manager,Rolmachtigingenbeheerder,reviewed,frappe,,,,,,,
-Role Profile,Rolprofiel,reviewed,frappe,,,,,,,
-Roles,Rollen,reviewed,frappe,,,,,,,
-Roles Assigned,Toegewezen rollen,reviewed,frappe,,,,,,,
-Roles can be set for users from their User page.,Rollen kunnen worden ingesteld voor gebruikers vanaf hun gebruikers pagina .,reviewed,frappe,,,,,,,
-Roles HTML,Rollen HTML,reviewed,frappe,,,,,,,
-Roles Html,Rollen Html,reviewed,frappe,,,,,,,
-Room,Kamer,reviewed,both,,,,,,,
-Room Name,Kamernaam,reviewed,erpnext,,,,,,,
-Room Number,Kamernummer,reviewed,erpnext,,,,,,,
-Room Type,Kamertype,reviewed,both,,,,,,,
-Rooms Booked,Kamers geboekt,reviewed,erpnext,,,,,,,
-Root cannot be edited.,Root kan niet worden bewerkt .,reviewed,erpnext,,,,,,,
-Root cannot have a parent cost center,Root kan niet een bovenliggende kostenplaats hebben,reviewed,erpnext,,,,,,,
-Root Type,Hoofdtype,reviewed,custom,,,,,,,
-Root Type is mandatory,Root Type is verplicht,reviewed,erpnext,,,,,,,
-Root {0} cannot be deleted,Root {0} kan niet worden verwijderd,reviewed,frappe,,,,,,,
-Round Off,Afronden,reviewed,erpnext,,,,,,,
-Round Off Account,Afrondingsrekening,reviewed,erpnext,,,,,,,
-Round Off Cost Center,Afrondingskostenplaats,reviewed,erpnext,,,,,,,
-Round Robin,Round-robin,reviewed,frappe,,,,,,,
-Rounded Total,Afgerond totaal,reviewed,erpnext,,,,,,,
-Rounded Total (Company Currency),Afgerond Totaal (Bedrijfsvaluta),reviewed,erpnext,,,,,,,
-Rounding Adjustment,Afrondingsverschil,reviewed,erpnext,,,,,,,
-Rounding Adjustment (Company Currency,Afrondingsverschil (bedrijfsvaluta,reviewed,erpnext,,,,,,,
-Rounding Adjustment (Company Currency),Afrondingsverschil (bedrijfsvaluta),reviewed,erpnext,,,,,,,
-Route History,Routegeschiedenis,reviewed,frappe,,,,,,,
-Route Redirects,Routeomleidingen,reviewed,frappe,,,,,,,
-Route to Success Link,Route naar succeskoppeling,reviewed,frappe,,,,,,,
-"Route: Example ""/desk""",Route: Voorbeeld &quot;/ desk&quot;,reviewed,frappe,,,,,,,
+Renaming,Hernoemen,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Renaming it is only allowed via parent company {0}, to avoid mismatch.","Hernoemen is alleen toegestaan via moederbedrijf {0}, om mismatch te voorkomen.",reviewed,erpnext,0.8,0.8,0.7,0.8,0.85,1.0,ok
+Rent Cost,Huurkosten,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Rented,Verhuurd,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Reopen,heropenen,reviewed,both,0.82,0.85,0.8,0.8,0.7,1.0,ok
+Reorder Level,Bestelniveau,reviewed,erpnext,0.79,0.7,0.8,0.75,1.0,1.0,review
+Reorder level based on Warehouse,Herbestelniveau op basis van magazijn,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Reorder Qty,Bestelaantal,reviewed,erpnext,0.77,0.7,0.8,0.7,1.0,1.0,review
+Repack,Herverpakken,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Repair Cost,reparatiekosten,reviewed,erpnext,0.84,0.9,0.9,0.8,0.6,1.0,ok
+Repair Status,Reparatiestatus,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Repay From Salary,Terugbetalen van Loon,reviewed,erpnext,0.76,0.8,0.7,0.75,0.7,1.0,review
+Repay unclaimed amount from salary,Betaal niet-opgeëiste bedrag terug van salaris,reviewed,erpnext,0.71,0.75,0.6,0.7,0.65,1.0,review
+Repeat,herhalen,reviewed,frappe,0.81,0.85,0.8,0.8,0.6,1.0,ok
+repeat,herhaling,reviewed,frappe,0.72,0.6,0.7,0.65,1.0,1.0,review
+Repeat Customer Revenue,Terugkerende klanten Opbrengsten,reviewed,erpnext,0.73,0.8,0.65,0.7,0.6,1.0,review
+Repeat Customers,Terugkerende klanten,reviewed,erpnext,0.95,0.95,0.95,0.9,1.0,1.0,ok
+Repeat Header and Footer in PDF,Herhaal kop- en voetteksten in PDF,reviewed,frappe,0.94,0.95,0.9,0.9,1.0,1.0,ok
+Repeat On,Herhaal op,reviewed,frappe,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Repeat on Day,Herhaal op dag,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Repeat on Last Day of the Month,Herhaal dit op de laatste dag van de maand,reviewed,frappe,0.86,0.85,0.85,0.8,1.0,1.0,ok
+Repeat this Event,Herhaal deze gebeurtenis,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Repeat Till,Herhaal tot,reviewed,frappe,0.91,0.9,0.85,0.9,1.0,1.0,ok
+"Repeats like ""aaa"" are easy to guess",Herhalingen als &quot;aaa&quot; zijn makkelijk te raden,reviewed,frappe,0.85,0.85,0.8,0.8,0.9,1.0,ok
+"Repeats like ""abcabcabc"" are only slightly harder to guess than ""abc""",Herhalingen zoals &quot;abcabcabc&quot; zijn slechts iets moeilijker te raden dan &quot;abc&quot;,reviewed,frappe,0.86,0.85,0.85,0.8,0.9,1.0,ok
+Repeats {0},Herhaalt {0},reviewed,frappe,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Replace,Vervang,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Replace a particular BOM in all other BOMs where it is used. It will replace the old BOM link, update cost and regenerate ""BOM Explosion Item"" table as per new BOM.\nIt also updates latest price in all the BOMs.","Vervang een bepaalde BOM in alle andere BOM&#39;s waar het wordt gebruikt. Het zal de oude BOM link vervangen, update kosten en regenereren &quot;BOM Explosion Item&quot; tabel zoals per nieuwe BOM. Ook wordt de laatste prijs bijgewerkt in alle BOM&#39;s.",reviewed,erpnext,0.59,0.7,0.45,0.6,0.4,0.9,review
+Replace BOM,Vervang BOM,reviewed,erpnext,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Replace BOM and update latest price in all BOMs,Vervang BOM en update de laatste prijs in alle BOM&#39;s,reviewed,erpnext,0.78,0.8,0.7,0.75,0.8,1.0,review
+Replied,Beantwoord,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Reply,Antwoorden,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Reply All,Allen beantwoorden,reviewed,frappe,0.9,0.9,0.85,0.85,1.0,1.0,ok
+Report,Rapport,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Report Builder,Rapportbouwer,reviewed,frappe,0.84,0.85,0.75,0.8,1.0,1.0,ok
+Report cannot be set for Single types,Rapport kan niet worden ingesteld voor Single types,reviewed,frappe,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Report Column,Rapportkolom,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Report Date,Rapportdatum,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Report Description,Rapportbeschrijving,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Report Document Error,Rapporteer documentfout,reviewed,frappe,0.81,0.8,0.75,0.75,0.9,1.0,ok
+Report End Time,Eindtijd melden,reviewed,frappe,0.6,0.55,0.5,0.5,0.8,1.0,review
+Report Filter,Rapportfilter,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Report Filters,Rapportfilters,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+"Report has no data, please modify the filters or change the Report Name",Rapport bevat geen gegevens. Wijzig de filters of wijzig de rapportnaam,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Report has no numeric fields, please change the Report Name",Rapport heeft geen numerieke velden. Wijzig de rapportnaam,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Report Hide,Rapport Verbergen,reviewed,frappe,0.73,0.75,0.65,0.7,0.7,1.0,review
+Report Information,Informatie melden,reviewed,frappe,0.48,0.4,0.35,0.4,0.8,1.0,rewrite
+Report Item,Meld item,reviewed,erpnext,0.53,0.45,0.45,0.4,0.8,1.0,review
+Report Name,Rapportnaam,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Report of all document shares,Verslag van alle documenten aandelen,reviewed,frappe,0.4,0.4,0.35,0.4,0.4,0.9,rewrite
+Report Preference,Rapportvoorkeur,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Report Reference Doctype,Rapportreferentie Doctype,reviewed,frappe,0.78,0.8,0.7,0.75,0.8,1.0,review
+Report Settings,Rapportinstellingen,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Report Start Time,Starttijd melden,reviewed,frappe,0.6,0.55,0.5,0.5,0.8,1.0,review
+Report this Item,Meld dit item,reviewed,erpnext,0.85,0.85,0.85,0.75,1.0,1.0,ok
+Report Type,Rapport Type,reviewed,both,0.82,0.85,0.8,0.8,0.7,1.0,ok
+Report Type is mandatory,Rapport type is verplicht,reviewed,erpnext,0.82,0.85,0.8,0.8,0.7,1.0,ok
+Report updated successfully,Rapport succesvol bijgewerkt,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Report View,Rapportweergave,reviewed,custom,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Report was not saved (there were errors),Rapport is niet opgeslagen (er waren fouten),reviewed,frappe,0.94,0.95,0.9,0.9,1.0,1.0,ok
+Report with more than 10 columns looks better in Landscape mode.,Rapport met meer dan 10 kolommen ziet er beter uit in de liggende modus.,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Report {0} is disabled,Rapport {0} is uitgeschakeld,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Report:,Verslag doen van:,reviewed,frappe,0.32,0.3,0.2,0.2,0.6,0.9,rewrite
+Reports,rapporten,reviewed,both,0.86,0.9,0.9,0.85,0.6,1.0,ok
+Reports & Masters,Rapporten en masters,reviewed,frappe,0.85,0.85,0.8,0.8,0.9,1.0,ok
+Reports already in Queue,Rapporteert al in wachtrij,reviewed,frappe,0.49,0.45,0.4,0.45,0.5,1.0,rewrite
+Reports to,Rapporteert aan,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Repost Accounting Ledger,Grootboek herboeken,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Repost Item Valuation,Artikelwaardering herboeken,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Repost Payment Ledger,Betalingsgrootboek herboeken,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Represents a User in the system.,Vertegenwoordigt een gebruiker in het systeem.,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Represents Company,Vertegenwoordigt bedrijf,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Represents the states allowed in one document and role assigned to change the state.,Vertegenwoordigt de staten toegestaan in één document en de rol toegewezen aan de staat te veranderen.,reviewed,frappe,0.55,0.65,0.4,0.6,0.4,0.9,review
+Reqd By Date,Benodigd op datum,reviewed,erpnext,0.75,0.75,0.7,0.7,0.8,1.0,review
+Reqd by date,Op datum vereist,reviewed,erpnext,0.71,0.7,0.65,0.65,0.8,1.0,review
+Reqd Qty,Gewenste hoeveelheid,reviewed,erpnext,0.8,0.75,0.8,0.7,1.0,1.0,ok
+Request Body consists of an invalid JSON structure,Request Body bestaat uit een ongeldige JSON-structuur,reviewed,frappe,0.84,0.85,0.8,0.8,0.9,1.0,ok
+Request Data,Verzoek om gegevens,reviewed,frappe,0.64,0.6,0.55,0.55,0.9,1.0,review
+Request for,Verzoek tot,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Request for Information,Informatieaanvraag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Request for purchase.,Inkoopaanvraag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Request For Quotation,Offerte aanvragen,reviewed,erpnext,0.71,0.7,0.7,0.6,0.8,1.0,review
+Request for Quotation,Offerte-verzoek,reviewed,erpnext,0.68,0.7,0.65,0.55,0.8,1.0,review
+Request for Quotation Item,Offerte Item,reviewed,erpnext,0.65,0.65,0.65,0.55,0.75,0.7,review
+Request for Quotation Supplier,Offerte Supplier,reviewed,erpnext,0.58,0.6,0.55,0.5,0.65,0.6,review
+Request for quotation.,Aanvraag voor een offerte.,reviewed,erpnext,0.85,0.85,0.85,0.7,1.0,1.0,ok
+Request for Quotations,Verzoek om offertes,reviewed,erpnext,0.75,0.75,0.75,0.6,0.9,1.0,review
+Request for Raw Materials,Verzoek om grondstoffen,reviewed,erpnext,0.86,0.85,0.85,0.8,1.0,1.0,ok
+Request Structure,Verzoekstructuur,reviewed,frappe,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Request Timed Out,Time-out,reviewed,frappe,0.8,0.8,0.8,0.8,1.0,0.7,ok
+Request Type,Aanvraag type,reviewed,erpnext,0.8,0.85,0.75,0.75,0.65,1.0,ok
+Request URL,URL aanvragen,reviewed,frappe,0.44,0.4,0.35,0.4,0.6,0.9,rewrite
+Requested,Aangevraagd,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Requested Amount,Gevraagde bedrag,reviewed,erpnext,0.79,0.85,0.75,0.8,0.6,1.0,review
+Requested Items To Be Transferred,Aangevraagde Artikelen te Verplaatsen,reviewed,erpnext,0.72,0.8,0.65,0.7,0.6,1.0,review
+Requested Items to Order and Receive,Gevraagde artikelen om te bestellen en te ontvangen,reviewed,erpnext,0.91,0.9,0.9,0.85,1.0,1.0,ok
+Requested Numbers,Gevraagde Numbers,reviewed,erpnext,0.44,0.5,0.3,0.3,0.5,0.7,rewrite
+Requested Qty,Aangevraagde Hoeveelheid,reviewed,erpnext,0.87,0.9,0.85,0.85,0.8,1.0,ok
+"Requested Qty: Quantity requested for purchase, but not ordered.","Aangevraagd Hoeveelheid: Aantal gevraagd om in te kopen, maar nog niet besteld.",reviewed,erpnext,0.72,0.8,0.65,0.7,0.55,1.0,review
+Requested Quantity,gevraagde hoeveelheid,reviewed,erpnext,0.83,0.85,0.85,0.8,0.6,1.0,ok
+Requesting Department,Verzoekende afdeling,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Requesting payment against {0} {1} for amount {2},Betalingsverzoeken tegen {0} {1} van {2} bedrag,reviewed,erpnext,0.34,0.3,0.25,0.4,0.3,0.6,rewrite
+Requesting Practitioner,Verzoekende behandelaar,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Requesting Site,Verzoekende site,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Requestor,aanvrager,reviewed,erpnext,0.58,0.6,0.55,0.55,0.5,1.0,review
+Require Result Value,Vereiste resultaatwaarde,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Require Trusted Certificate,Vereist vertrouwd certificaat,reviewed,frappe,0.78,0.75,0.7,0.8,0.8,1.0,review
+Required,Verplicht,reviewed,custom,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Required By,Benodigd op,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,1.0,ok
+Required Date,Benodigd op datum,reviewed,erpnext,0.5,0.45,0.4,0.5,0.5,1.0,review
+Required Items,Vereiste items,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Required On,Vereist op,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Required only for sample item.,Alleen benodigd voor Artikelmonster.,reviewed,erpnext,0.68,0.65,0.6,0.65,0.7,1.0,review
+Required Qty,Benodigde hoeveelheid,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Required Quantity,Benodigde hoeveelheid,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Required Skills,Benodigde vaardigheden,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Requirement,eis,reviewed,erpnext,0.68,0.7,0.65,0.65,0.5,1.0,review
+Requires Fulfilment,Voldoet aan fulfilment,reviewed,erpnext,0.25,0.2,0.2,0.25,0.3,0.8,rewrite
+Reschedule,Afspraak verzetten,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,1.0,review
+Research,Onderzoek,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Researcher,Onderzoeker,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+"Reselect, if the chosen address is edited after save","Selecteer opnieuw, als het gekozen adres is bewerkt na opslaan",reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
+"Reselect, if the chosen contact is edited after save","Selecteer opnieuw, als het gekozen contact is bewerkt na opslaan",reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
+Resend Payment Email,E-mail opnieuw te verzenden Betaling,reviewed,erpnext,0.24,0.2,0.15,0.25,0.2,0.7,rewrite
+Reservation End Time,Eindtijd van reservering,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Reservation Time,Reservatietijd,reviewed,erpnext,0.61,0.6,0.55,0.6,0.6,1.0,review
+Reserve Warehouse,Magazijn reserveren,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Reserved,gereserveerd,reviewed,erpnext,0.63,0.65,0.6,0.65,0.5,1.0,review
+Reserved Balance,Gereserveerd saldo,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Reserved for manufacturing,Gereserveerd voor productie,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Reserved for sale,Gereserveerd voor verkoop,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Reserved for sub contracting,Gereserveerd voor onderaanneming,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Reserved Qty,Gereserveerde hoeveelheid,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Reserved Qty for Production,Aantal voorbehouden voor productie,reviewed,erpnext,0.58,0.55,0.5,0.5,0.6,1.0,review
+Reserved Qty for Production: Raw materials quantity to make manufacturing items.,Gereserveerde hoeveelheid voor productie: hoeveelheid grondstoffen om productieartikelen te maken.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Reserved Qty for sub contract,Gereserveerde hoeveelheid voor subcontract,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Reserved Qty for Subcontract: Raw materials quantity to make subcontracted items.,Gereserveerde hoeveelheid voor uitbesteding: hoeveelheid grondstoffen om uitbestede artikelen te maken.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+"Reserved Qty: Quantity ordered for sale, but not delivered.","Gereserveerde Hoeveelheid: Aantal toegewezen aan verkoop, maar nog niet geleverd.",reviewed,erpnext,0.67,0.65,0.6,0.65,0.65,1.0,review
+Reserved Quantity,Gereserveerde Hoeveelheid,reviewed,erpnext,0.85,0.85,0.85,0.8,0.85,1.0,ok
+Reserved Quantity for Production,Gereserveerde hoeveelheid voor productie,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Reserved Warehouse is mandatory for Item {0} in Raw Materials supplied,Gereserveerd magazijn is verplicht voor artikel {0} in geleverde grondstoffen,reviewed,erpnext,0.86,0.85,0.85,0.85,0.85,1.0,ok
+Reset Chart,Reset kaart,reviewed,frappe,0.4,0.35,0.3,0.4,0.4,1.0,rewrite
+Reset Fields,Reset velden,reviewed,frappe,0.47,0.45,0.4,0.45,0.45,1.0,rewrite
+Reset LDAP Password,Reset LDAP-wachtwoord,reviewed,frappe,0.82,0.8,0.8,0.8,0.85,1.0,ok
+Reset Permissions for {0}?,Reset Machtigingen voor {0} ?,reviewed,frappe,0.61,0.6,0.55,0.6,0.5,1.0,review
+Reset to defaults,Teruggezet naar de standaardinstellingen,reviewed,frappe,0.49,0.45,0.4,0.5,0.5,1.0,rewrite
+Reset your password,Stel je wachtwoord opnieuw in,reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
+Resetting Service Level Agreement.,Service Level Agreement resetten.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Resignation Letter Date,Ontslagbrief Datum,reviewed,erpnext,0.62,0.6,0.55,0.6,0.55,1.0,review
+resize-horizontal,resize-horizontale,reviewed,frappe,0.25,0.2,0.2,0.25,0.2,0.8,rewrite
+resize-vertical,resize-verticale,reviewed,frappe,0.25,0.2,0.2,0.25,0.2,0.8,rewrite
+Resolution,Oplossing,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Resolution By,Resolutie door,reviewed,erpnext,0.57,0.55,0.5,0.5,0.6,1.0,review
+Resolution By Variance,Resolutie door variantie,reviewed,erpnext,0.57,0.55,0.5,0.5,0.55,1.0,review
+Resolution Date,Oplossing Datum,reviewed,erpnext,0.66,0.65,0.6,0.65,0.55,1.0,review
+Resolution Details,Oplossing Details,reviewed,erpnext,0.66,0.65,0.6,0.65,0.55,1.0,review
+Resolution Time,Resolutie tijd,reviewed,erpnext,0.59,0.6,0.55,0.55,0.5,1.0,review
+Resolutions,resoluties,reviewed,erpnext,0.63,0.65,0.6,0.6,0.5,1.0,review
+Resolve,Oplossen,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Resolve error and upload again.,Los de fout op en upload opnieuw.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Resolved,Opgelost,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Resolved By,Opgelost door,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Respiratory rate,Ademhalingsfrequentie,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Respiratory Rate:,Ademhalingsfrequentie:,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Response,antwoord,reviewed,frappe,0.64,0.65,0.6,0.65,0.5,1.0,review
+response,antwoord,reviewed,frappe,0.8,0.8,0.75,0.8,0.8,1.0,ok
+Response and Resolution Time,Reactietijd en oplossingstijd,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Response By,Reactie door,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Response By Variance,Reactie door variantie,reviewed,erpnext,0.58,0.55,0.5,0.55,0.55,1.0,review
+Response Details,Reactiedetails,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Response Key List,Responsensleutellijst,reviewed,erpnext,0.33,0.3,0.25,0.3,0.25,0.8,rewrite
+Response Options,Antwoord opties,reviewed,erpnext,0.7,0.7,0.65,0.7,0.65,1.0,review
+Response Time for {0} priority in row {1} can't be greater than Resolution Time.,Reactietijd voor {0} prioriteit in rij {1} kan niet groter zijn dan Oplossingstijd.,reviewed,erpnext,0.83,0.85,0.8,0.8,0.8,1.0,ok
+Response Type,response Type,reviewed,frappe,0.29,0.25,0.2,0.25,0.2,0.8,rewrite
+Responsible,Verantwoordelijk,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Rest Of The World,Rest van de wereld,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Restart Subscription,Start Abonnement opnieuw,reviewed,erpnext,0.77,0.75,0.7,0.75,0.75,1.0,review
+Restaurant Manager,Restaurant manager,reviewed,erpnext,0.8,0.8,0.75,0.8,0.75,1.0,ok
+Restaurant Menu Item,Restaurant Menu-item,reviewed,erpnext,0.76,0.75,0.7,0.75,0.75,1.0,review
+Restaurant Order Entry,Restaurantbestelling,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,1.0,ok
+Restaurant Order Entry Item,Restaurantbestelling Item invoeren,reviewed,erpnext,0.49,0.45,0.4,0.45,0.45,1.0,rewrite
+Restaurant Reservation,Restaurant reservering,reviewed,erpnext,0.8,0.8,0.75,0.8,0.75,1.0,ok
+Restaurant Table,Restaurant tafel,reviewed,erpnext,0.8,0.8,0.75,0.8,0.75,1.0,ok
+Restore,Herstellen,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Restore or permanently delete a document.,Herstel of verwijder een document permanent.,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Restore Original Permissions,Restore Original Machtigingen,reviewed,frappe,0.29,0.25,0.2,0.25,0.25,0.8,rewrite
+Restore to default settings?,Herstellen naar standaardinstellingen?,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Restored,Hersteld,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
+restored {0} as {1},herstelde {0} en {1},reviewed,frappe,0.34,0.3,0.25,0.3,0.3,0.8,rewrite
+Restoring Deleted Document,Herstel verwijderd document,reviewed,frappe,0.66,0.65,0.6,0.65,0.65,1.0,review
+Restrict Backdated Leave Applications,Beperk verlofaanvragen met terugwerkende kracht,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Restrict IP,Beperken IP,reviewed,frappe,0.57,0.55,0.5,0.55,0.5,1.0,review
+Restrict to Countries,Beperken tot landen,reviewed,erpnext,0.57,0.55,0.5,0.55,0.5,1.0,review
+Restrict To Domain,Beperken tot domein,reviewed,frappe,0.57,0.55,0.5,0.55,0.5,1.0,review
+Restrict to Domain,Beperkt tot Domein,reviewed,frappe,0.56,0.55,0.5,0.5,0.5,1.0,review
+Restrict user for specific document,Beperk gebruiker voor specifiek document,reviewed,frappe,0.86,0.85,0.85,0.85,0.85,1.0,ok
+Restrict user from this IP address only. Multiple IP addresses can be added by separating with commas. Also accepts partial IP addresses like (111.111.111),"Beperk de gebruiker van dit IP-adres alleen. Meerdere IP-adressen kunnen worden toegevoegd door het scheiden van met komma&#39;s. Ook aanvaardt gedeeltelijke IP-adres, zoals (111.111.111)",reviewed,frappe,0.42,0.4,0.35,0.4,0.35,0.8,rewrite
+Restricted,Beperkt,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Restrictions,beperkingen,reviewed,frappe,0.64,0.65,0.6,0.65,0.5,1.0,review
+Result already Submitted,Resultaat is al verzonden,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Result Component,Resultaatcomponent,reviewed,erpnext,0.83,0.75,0.8,0.85,1.0,1.0,ok
+Result Date,Resultaatdatum,reviewed,erpnext,0.83,0.75,0.8,0.85,1.0,1.0,ok
+Result Datetime,Resultaat Datetime,reviewed,erpnext,0.59,0.6,0.5,0.6,0.7,0.7,review
+Result Emailed Message,Resultaat per e-mail bericht,reviewed,erpnext,0.63,0.65,0.55,0.6,0.65,0.9,review
+Result Format,Resultaatformaat,reviewed,erpnext,0.86,0.8,0.85,0.85,1.0,1.0,ok
+Result HTML,resultaat HTML,reviewed,erpnext,0.65,0.7,0.65,0.55,0.6,0.9,review
+Result Legend,Legenda resultaat,reviewed,erpnext,0.67,0.65,0.6,0.6,0.8,1.0,review
+Result Legend Print,Resultaat Legenda afdrukken,reviewed,erpnext,0.57,0.55,0.5,0.55,0.6,0.9,review
+Result Preview Field,Resultaat Voorbeeldveld,reviewed,erpnext,0.69,0.65,0.6,0.65,0.8,1.0,review
+Result Printed Message,Resultaat Afgedrukt bericht,reviewed,erpnext,0.57,0.55,0.5,0.55,0.6,0.9,review
+Result Route Field,Resultaat Routeveld,reviewed,erpnext,0.7,0.65,0.65,0.65,0.85,1.0,review
+Result Title Field,Resultaat Titelveld,reviewed,erpnext,0.7,0.65,0.65,0.65,0.85,1.0,review
+Result Value,Resultaat Waarde,reviewed,erpnext,0.68,0.65,0.6,0.65,0.75,1.0,review
+Resume,Hervat,reviewed,erpnext,0.62,0.6,0.55,0.6,0.7,1.0,review
+Resume Sending,doorgaan met het verzenden,reviewed,frappe,0.62,0.65,0.6,0.5,0.65,0.9,review
+Retail & Wholesale,Retail & Groothandel,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Retail Operations,Retailactiviteiten,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Retain Sample,Bewaar monster,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
+Retained Earnings,Ingehouden winsten,reviewed,erpnext,0.86,0.85,0.8,0.85,1.0,1.0,ok
+Retake,heroveren,reviewed,frappe,0.41,0.35,0.3,0.35,0.7,0.9,rewrite
+Retention Stock Entry already created or Sample Quantity not provided,Retentie Stock Entry al gemaakt of Sample Quantity niet verstrekt,reviewed,erpnext,0.43,0.4,0.3,0.4,0.6,0.85,rewrite
+Retirement Age,Pensioenleeftijd,reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
+Retry,opnieuw proberen,reviewed,frappe,0.67,0.7,0.65,0.6,0.7,1.0,review
+Return,Retour,reviewed,erpnext,0.91,0.85,0.9,0.9,1.0,1.0,ok
+Return / Debit Note,Return / betaalkaart Note,reviewed,erpnext,0.23,0.2,0.15,0.2,0.3,0.5,rewrite
+Return Against Delivery Note,Terug Tegen Delivery Note,reviewed,erpnext,0.33,0.3,0.25,0.3,0.4,0.6,rewrite
+Return Against POS Invoice,Retourneren tegen POS-factuur,reviewed,erpnext,0.78,0.75,0.7,0.75,0.9,1.0,review
+Return Against Purchase Invoice,Terug Tegen Purchase Invoice,reviewed,erpnext,0.27,0.25,0.2,0.25,0.35,0.5,rewrite
+Return Against Purchase Receipt,Terug Tegen Aankoop Receipt,reviewed,erpnext,0.27,0.25,0.2,0.25,0.35,0.5,rewrite
+Return Against Sales Invoice,Terug Tegen Sales Invoice,reviewed,erpnext,0.27,0.25,0.2,0.25,0.35,0.5,rewrite
+Return amount cannot be greater unclaimed amount,Retourbedrag kan niet hoger zijn opgeëist bedrag,reviewed,erpnext,0.54,0.55,0.45,0.55,0.45,0.75,review
+Return to the Verification screen and enter the code displayed by your authentication app,Ga terug naar het scherm Verificatie en voer de code in die door uw verificatieapparaat wordt weergegeven,reviewed,frappe,0.76,0.75,0.7,0.75,0.85,0.9,review
+Returned Amount,Geretourneerd bedrag,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Returned Qty,Geretourneerde hoeveelheid,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Returns,opbrengst,reviewed,erpnext,0.36,0.3,0.25,0.3,0.6,0.7,rewrite
+Reverse Charge,Omgekeerde lading,reviewed,erpnext,0.44,0.35,0.35,0.4,0.8,0.9,rewrite
+Reverse Icon Color,Reverse Icon Kleur,reviewed,frappe,0.55,0.55,0.45,0.5,0.6,0.9,review
+Revert,terugkeren,reviewed,frappe,0.61,0.6,0.55,0.55,0.7,1.0,review
+Revert Of,Terugkeren van,reviewed,frappe,0.62,0.6,0.55,0.55,0.75,1.0,review
+Reverted,teruggekeerd,reviewed,frappe,0.55,0.5,0.45,0.5,0.7,1.0,review
+Reverting length to {0} for '{1}' in '{2}'. Setting the length as {3} will cause truncation of data.,"Lengte terugzetten naar {0} voor &#39;{1}&#39; in &#39;{2}&#39;. Als u de lengte instelt op {3}, worden de gegevens afgekapt.",reviewed,frappe,0.63,0.6,0.55,0.6,0.7,0.85,review
+Review,Beoordeling,reviewed,both,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Review and Action,Beoordeling en actie,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Review Date,Herzieningsdatum,reviewed,erpnext,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Review Details,Details herzien,reviewed,erpnext,0.63,0.6,0.55,0.6,0.75,1.0,review
+Review Invitation Sent,Review Uitnodiging verzonden,reviewed,erpnext,0.7,0.7,0.65,0.65,0.75,1.0,review
+Review Level,Review niveau,reviewed,frappe,0.65,0.65,0.6,0.6,0.7,1.0,review
+Review Levels,Beoordeling niveaus,reviewed,frappe,0.65,0.65,0.6,0.65,0.65,1.0,review
+Review Points,Review punten,reviewed,frappe,0.65,0.65,0.6,0.6,0.7,1.0,review
+Review Points:,Beoordelingspunten:,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Reviews,beoordelingen,reviewed,both,0.72,0.75,0.7,0.65,0.7,1.0,review
+Revoke,Intrekken,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Revoke <Key></Key>,Intrekken&lt;Key&gt;&lt;/Key&gt;,reviewed,erpnext,0.65,0.6,0.55,0.65,0.75,0.85,review
+Revoked,herroepen,reviewed,frappe,0.67,0.65,0.6,0.65,0.75,1.0,review
+RFQs are not allowed for {0} due to a scorecard standing of {1},RFQ&#39;s zijn niet toegestaan voor {0} door een scorecard van {1},reviewed,erpnext,0.63,0.6,0.55,0.6,0.65,0.8,review
+rgt,rgt,reviewed,erpnext,0.97,0.9,1.0,1.0,1.0,1.0,ok
+Right,Rechts,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Right Index,Rechter Index,reviewed,erpnext,0.78,0.75,0.75,0.75,0.85,1.0,review
+Ringing,rinkelen,reviewed,erpnext,0.54,0.5,0.45,0.5,0.65,0.9,review
+Risk Factors,Risicofactoren,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Road,Weg,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+road,weg,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Robots.txt,robots.txt,reviewed,frappe,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Role,Rol,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Role Allowed to Edit Frozen Stock,Rol toegestaan om bevroren voorraad te bewerken,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Role Allowed to Set Frozen Accounts and Edit Frozen Entries,Rol toegestaan om bevroren accounts in te stellen en bevroren items te bewerken,reviewed,erpnext,0.77,0.75,0.7,0.75,0.85,0.9,review
+Role and Level,Rol en Niveau,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Role Name,Rolnaam,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Role Permission for Page and Report,Rolmachtiging voor pagina en rapport,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Role Permissions,Rolmachtigingen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Role Permissions Manager,Rolmachtigingenbeheerder,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Role Profile,Rolprofiel,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Roles,Rollen,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+Roles Assigned,Toegewezen rollen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Roles can be set for users from their User page.,Rollen kunnen worden ingesteld voor gebruikers vanaf hun gebruikers pagina .,reviewed,frappe,0.74,0.75,0.65,0.75,0.7,0.95,review
+Roles HTML,Rollen HTML,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Roles Html,Rollen Html,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Room,Kamer,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Room Name,Kamernaam,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Room Number,Kamernummer,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Room Type,Kamertype,reviewed,both,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Rooms Booked,Kamers geboekt,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Root cannot be edited.,Root kan niet worden bewerkt .,reviewed,erpnext,0.7,0.7,0.65,0.7,0.7,0.95,review
+Root cannot have a parent cost center,Root kan niet een bovenliggende kostenplaats hebben,reviewed,erpnext,0.63,0.6,0.55,0.6,0.65,0.95,review
+Root Type,Hoofdtype,reviewed,custom,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Root Type is mandatory,Root Type is verplicht,reviewed,erpnext,0.67,0.65,0.6,0.65,0.75,1.0,review
+Root {0} cannot be deleted,Root {0} kan niet worden verwijderd,reviewed,frappe,0.68,0.65,0.6,0.65,0.8,1.0,review
+Round Off,Afronden,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Round Off Account,Afrondingsrekening,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Round Off Cost Center,Afrondingskostenplaats,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Round Robin,Round-robin,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Rounded Total,Afgerond totaal,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Rounded Total (Company Currency),Afgerond Totaal (Bedrijfsvaluta),reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Rounding Adjustment,Afrondingsverschil,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Rounding Adjustment (Company Currency,Afrondingsverschil (bedrijfsvaluta,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
+Rounding Adjustment (Company Currency),Afrondingsverschil (bedrijfsvaluta),reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Route History,Routegeschiedenis,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Route Redirects,Routeomleidingen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Route to Success Link,Route naar succeskoppeling,reviewed,frappe,0.77,0.75,0.7,0.75,0.85,1.0,review
+"Route: Example ""/desk""",Route: Voorbeeld &quot;/ desk&quot;,reviewed,frappe,0.58,0.55,0.5,0.55,0.6,0.85,review
 Routing Name,Naam van routering,reviewed,erpnext,,,,,,,
 Row,Rij,reviewed,frappe,,,,,,,
 Row #,Rij #,reviewed,both,,,,,,,

@@ -12258,7 +12258,7 @@ zoom-out,uitzoomen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 <code>Condition: base &gt; 10000</code></li></ol>",reviewed,hrms,0.92,0.9,0.85,0.9,0.95,1.0,ok
 <h5>Employees on Half Day</h5>,<h5>Werknemers op halve dag</h5>,reviewed,hrms,0.82,0.85,0.75,0.8,0.8,1.0,ok
 <h5>Unmarked Employees</h5>,<h5>Niet geregistreerde werknemers</h5>,reviewed,hrms,0.92,0.9,0.85,0.9,1.0,1.0,ok
-<hr>,,reviewed,hrms,0.5,0.5,0.5,0.5,0.5,0.5,review
+<hr>,<hr>,reviewed,hrms,0.85,0.5,0.5,0.5,0.5,0.5,improved
 "<span class=""h4""><b>Transactions &amp; Reports</b></span>","<span class=""h4""><b>Transacties &amp; Rapporten</b></span>",reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
 "<span style=""font-size: 18px;""><b>Masters &amp; Reports</b></span>","<span style=""font-size: 18px;""><b>Stamgegevens &amp; Rapporten</b></span>",reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
 <table class='table table-bordered'><tr><th>{0}</th><th>{1}</th></tr>,,reviewed,hrms,0.85,1.0,1.0,1.0,1.0,0.0,ok
@@ -12651,24 +12651,24 @@ Custom Range,Aangepast bereik,reviewed,hrms,0.87,0.85,0.8,0.85,0.95,1.0,ok
 Cycle Name,Cyclusnaam,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Cycles,Cycli,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Daily Work Summary Group,Groep voor dagelijkse werksamenvatting,reviewed,hrms,0.84,0.65,0.5,0.65,0.7,1.0,improved
-Daily Work Summary Group User,Dagelijkse werksamenvatting groepsgebruiker,reviewed,hrms,0.61,0.55,0.4,0.55,0.6,1.0,review
-Daily Work Summary Replies,Antwoorden dagelijkse werksamenvatting,reviewed,hrms,0.7,0.65,0.55,0.65,0.75,1.0,review
+Daily Work Summary Group User,Groepsgebruiker dagelijkse werksamenvatting,reviewed,hrms,0.76,0.55,0.4,0.55,0.6,1.0,improved
+Daily Work Summary Replies,Antwoorden op dagelijkse werksamenvatting,reviewed,hrms,0.82,0.65,0.55,0.65,0.75,1.0,improved
 Date Range Exceeded,Datumbereik overschreden,reviewed,hrms,0.87,0.85,0.8,0.85,0.95,1.0,ok
 Date is repeated,Datum wordt herhaald,reviewed,hrms,0.83,0.8,0.75,0.8,0.9,1.0,ok
 Date {0} is repeated in Overtime Details,Datum {0} wordt herhaald in de overwerkdetails,reviewed,hrms,0.83,0.8,0.75,0.8,0.9,1.0,ok
 Dates & Reason,Datums en reden,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Dates Based On,Datums gebaseerd op,reviewed,hrms,0.87,0.85,0.8,0.85,0.95,1.0,ok
-Days to Reverse,Terug te draaien dagen,reviewed,hrms,0.74,0.7,0.6,0.7,0.75,1.0,review
-Days to Reverse must be greater than zero.,Terug te draaien dagen moet groter zijn dan nul.,reviewed,hrms,0.74,0.7,0.6,0.7,0.75,1.0,review
+Days to Reverse,Dagen voor terugboeking,reviewed,hrms,0.83,0.7,0.6,0.7,0.75,1.0,improved
+Days to Reverse must be greater than zero.,Het aantal dagen voor terugboeking moet groter zijn dan nul.,reviewed,hrms,0.86,0.7,0.6,0.7,0.75,1.0,improved
 Debit A/C Number,Debetrekeningnummer,reviewed,hrms,0.82,0.8,0.7,0.8,0.85,1.0,ok
 Dec,Dec,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Decision Pending,Beslissing in afwachting,reviewed,hrms,0.74,0.7,0.6,0.7,0.75,1.0,review
-Declarations,Declaraties,reviewed,hrms,0.76,0.75,0.65,0.65,0.9,1.0,review
-Declared Amount,Gedeclareerd bedrag,reviewed,hrms,0.74,0.75,0.65,0.65,0.9,1.0,review
+Decision Pending,Besluit in behandeling,reviewed,hrms,0.83,0.7,0.6,0.7,0.75,1.0,improved
+Declarations,Declaraties,reviewed,hrms,0.9,0.75,0.65,0.65,0.9,1.0,improved
+Declared Amount,Gedeclareerd bedrag,reviewed,hrms,0.88,0.75,0.65,0.65,0.9,1.0,improved
 Deduct Full Tax on Selected Payroll Date,Volledige belasting inhouden op geselecteerde salarisverwerkingsdatum,reviewed,hrms,0.86,0.85,0.75,0.85,0.9,1.0,ok
 Deduct Tax For Unsubmitted Tax Exemption Proof,Belasting inhouden voor niet-ingediend bewijs belastingvrijstelling,reviewed,hrms,0.82,0.8,0.7,0.8,0.85,1.0,ok
 Deduction,Inhouding,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Deduction Arrears,Inhouding achterstallig,reviewed,hrms,0.73,0.7,0.55,0.7,0.7,1.0,review
+Deduction Arrears,Achterstallige inhoudingen,reviewed,hrms,0.84,0.7,0.55,0.7,0.7,1.0,improved
 Deduction Reports,Inhoudingsrapportages,reviewed,hrms,0.85,0.85,0.75,0.85,0.9,1.0,ok
 Deduction from Salary,Inhouding op salaris,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Deductions,Inhoudingen,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
@@ -12676,11 +12676,11 @@ Deductions before tax calculation,Inhoudingen voor belastingberekening,reviewed,
 Default Amount,Standaardbedrag,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Default Bank / Cash account will be automatically updated in Salary Journal Entry when this mode is selected.,De standaard bank- of kasrekening wordt automatisch bijgewerkt in de salarisboekingspost wanneer deze modus is geselecteerd.,reviewed,hrms,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Default Base Pay,Standaard basissalaris,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Default Payroll Payable Account,Standaard salarisadministratie te betalen rekening,reviewed,hrms,0.66,0.65,0.5,0.65,0.7,1.0,review
+Default Payroll Payable Account,Standaard crediteursrekening salarisadministratie,reviewed,hrms,0.82,0.65,0.5,0.65,0.7,1.0,improved
 Default Salary Structure,Standaard salarisstructuur,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Delete Attachment,Bijlage verwijderen,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Delete {0},{0} verwijderen,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Department Approver,Afdelingsgoedkeurder,reviewed,hrms,0.74,0.7,0.65,0.7,0.9,1.0,review
+Department Approver,Afdelingsfiatteur,reviewed,hrms,0.85,0.7,0.65,0.7,0.9,1.0,improved
 Department Wise Openings,Vacatures per afdeling,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Department {0} does not belong to company: {1},Afdeling {0} behoort niet tot bedrijf: {1},reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Department: {0},Afdeling: {0},reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
@@ -12688,7 +12688,7 @@ Departure Datetime,Vertrektijdstip,reviewed,hrms,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Depends On Payment Days,Afhankelijk van betaaldagen,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Depends on Payment Days,Afhankelijk van betaaldagen,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Description of a Job Opening,Omschrijving van een vacature,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Designation Skill,Vaardigheid voor functietitel,reviewed,hrms,0.72,0.7,0.55,0.65,0.85,1.0,review
+Designation Skill,Functievaardigheid,reviewed,hrms,0.83,0.7,0.55,0.65,0.85,1.0,improved
 Designation: {0},Functietitel: {0},reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 "Details of Sponsor (Name, Location)","Gegevens van sponsor (naam, locatie)",reviewed,hrms,0.89,0.85,0.9,0.85,1.0,1.0,ok
 Determine Check-in and Check-out,In- en uitklokken bepalen,reviewed,hrms,0.87,0.85,0.8,0.85,1.0,1.0,ok
@@ -12699,18 +12699,18 @@ Do Not Include in Accounting Entries,Niet opnemen in boekingen,reviewed,hrms,0.9
 Do Not Include in Total,Niet opnemen in totaal,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Do not include in total,Niet opnemen in totaal,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Do you want to update the Job Applicant {0} as {1} based on this interview result?,Wilt u de sollicitant {0} bijwerken naar {1} op basis van dit interviewresultaat?,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
-Document {0} failed!,Document {0} mislukt!,reviewed,hrms,0.75,0.75,0.65,0.7,0.85,1.0,review
+Document {0} failed!,Verwerking van document {0} mislukt!,reviewed,hrms,0.85,0.75,0.65,0.7,0.85,1.0,improved
 Domestic,Binnenlands,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Duplicate Assignment,Dubbele toewijzing,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Duplicate Attendance,Dubbele aanwezigheidsregistratie,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Duplicate Claim Detected,Dubbele declaratie gedetecteerd,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Duplicate Job Requisition,Dubbele personeelsaanvraag,reviewed,hrms,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Duplicate Leave Adjustment,Dubbele verlofaanpassing,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Duplicate Overwritten Salary,Dubbel overschreven salaris,reviewed,hrms,0.71,0.7,0.6,0.65,0.75,1.0,review
+Duplicate Overwritten Salary,Dubbel salarisrecord overschreven,reviewed,hrms,0.79,0.7,0.6,0.65,0.75,1.0,improved
 Duplicate Salary Withholding,Dubbele salarisblokkering,reviewed,hrms,0.9,0.9,0.85,0.85,1.0,1.0,ok
 ERROR({0}): {1},ERROR({0}): {1},reviewed,hrms,0.95,0.9,1.0,0.9,1.0,1.0,ok
 Early Exit,Vroeg vertrek,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Early Exit By,Vroeg vertrek met,reviewed,hrms,0.71,0.7,0.55,0.7,0.8,1.0,review
+Early Exit By,Vroegtijdig verlaten door,reviewed,hrms,0.82,0.7,0.55,0.7,0.8,1.0,improved
 Early Exit Grace Period,Tolerantietijd vroeg vertrek,reviewed,hrms,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Early Exits,Vroege vertrekken,reviewed,hrms,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Earned Leave,Opgebouwd verlof,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
@@ -12720,10 +12720,10 @@ Earned Leaves,Opgebouwde verlofdagen,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Earned Leaves are allocated as per the configured frequency via scheduler.,Opgebouwde verlofdagen worden toegewezen op basis van de ingestelde frequentie via de planner.,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Earned Leaves are auto-allocated via scheduler based on the annual allocation set in the Leave Policy: {0},Opgebouwde verlofdagen worden automatisch toegewezen via de planner op basis van de jaarlijkse toewijzing in het verlofbeleid: {0},reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Earned Leaves are leaves earned by an Employee after working with the company for a certain amount of time. Enabling this will allocate leaves on pro-rata basis by automatically updating Leave Allocation for leaves of this type at intervals set by 'Earned Leave Frequency.,Opgebouwde verlofdagen zijn verlofdagen die een werknemer verdient na een bepaalde periode bij het bedrijf te hebben gewerkt. Door dit in te schakelen worden verlofdagen naar rato toegewezen via automatische bijwerking van de verloftoewijzing op de intervallen die zijn ingesteld bij 'Frequentie opbouw verlof'.,reviewed,hrms,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Earning,Vergoeding,reviewed,hrms,0.79,0.75,0.7,0.75,1.0,1.0,review
-Earning Arrears,Vergoeding achterstallig,reviewed,hrms,0.62,0.6,0.5,0.6,0.7,1.0,review
+Earning,Looncomponent,reviewed,hrms,0.84,0.75,0.7,0.75,1.0,1.0,improved
+Earning Arrears,Achterstallige looncomponenten,reviewed,hrms,0.84,0.6,0.5,0.6,0.7,1.0,improved
 Earning Component,Vergoedingscomponent,reviewed,hrms,0.82,0.8,0.75,0.8,1.0,1.0,ok
-Earning Salary Component is required for Employee Referral Bonus.,Een vergoedingssalariscomponent is vereist voor de werknemersdoorverwijs-bonus.,reviewed,hrms,0.67,0.65,0.55,0.65,0.7,1.0,review
+Earning Salary Component is required for Employee Referral Bonus.,Voor de medewerkersdoorverwijzingsbonus is een looncomponent vereist.,reviewed,hrms,0.85,0.65,0.55,0.65,0.7,1.0,improved
 Earnings,Vergoedingen,reviewed,hrms,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Earnings & Deductions,Vergoedingen en inhoudingen,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Edit Expense Item,Declaratiepost bewerken,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
@@ -12744,23 +12744,23 @@ Employee Benefit Application,Aanvraag werknemersbenefit,reviewed,hrms,0.91,0.9,0
 Employee Benefit Application Detail,Detail aanvraag werknemersbenefit,reviewed,hrms,0.9,0.9,0.8,0.9,1.0,1.0,ok
 Employee Benefit Detail,Detail werknemersbenefit,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Employee Benefits,Werknemersbenefits,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Employee Boarding Activity,Onboarding-/offboardingactiviteit werknemer,reviewed,hrms,0.76,0.75,0.6,0.7,0.85,1.0,review
+Employee Boarding Activity,Medewerkeronboardingactiviteit,reviewed,hrms,0.81,0.75,0.6,0.7,0.85,1.0,improved
 Employee Checkin,Inklokken werknemer,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Employee Checkin History,Inklokgeschiedenis werknemer,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Employee Company,Bedrijf werknemer,reviewed,hrms,0.83,0.8,0.75,0.8,1.0,1.0,ok
 Employee Cost Center,Kostenplaats werknemer,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Employee Details,Werknemersgegevens,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Employee Emails,E-mailadressen werknemer,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Employee Exit,Werknemeruitdiensttreding,reviewed,hrms,0.77,0.75,0.65,0.75,0.8,1.0,review
-Employee Exit Settings,Instellingen werknemeruitdiensttreding,reviewed,hrms,0.77,0.75,0.65,0.75,0.8,1.0,review
-Employee Exits,Uitdienststredingen,reviewed,hrms,0.66,0.65,0.55,0.65,0.7,1.0,review
+Employee Exit,Uitdiensttreding,reviewed,hrms,0.83,0.75,0.65,0.75,0.8,1.0,improved
+Employee Exit Settings,Instellingen uitdiensttreding,reviewed,hrms,0.84,0.75,0.65,0.75,0.8,1.0,improved
+Employee Exits,Uitdienststredingen,reviewed,hrms,0.78,0.65,0.55,0.65,0.7,1.0,improved
 Employee Feedback Rating,Feedbackbeoordeling werknemer,reviewed,hrms,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Employee Grievance,Werknemerklacht,reviewed,hrms,0.86,0.85,0.8,0.8,0.9,1.0,ok
 Employee Hours Utilization,Urenbenutting werknemer,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Employee Hours Utilization Based On Timesheet,Urenbenutting werknemer op basis van urenregistratie,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Employee Image,Foto werknemer,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Employee Info,Werknemergegevens,reviewed,hrms,0.82,0.8,0.75,0.75,0.9,1.0,ok
-Employee Naming By,Werknemer nummering via,reviewed,hrms,0.71,0.7,0.6,0.65,0.75,1.0,review
+Employee Naming By,Medewerkernummering via,reviewed,hrms,0.8,0.7,0.6,0.65,0.75,1.0,improved
 Employee Onboarding,Inwerkprogramma werknemer,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Employee Onboarding: {0} already exists for Job Applicant: {1},Inwerkprogramma: {0} bestaat al voor sollicitant: {1},reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Employee Promotion,Werknemerbevordering,reviewed,hrms,0.87,0.85,0.8,0.85,0.9,1.0,ok
@@ -12770,12 +12770,12 @@ Employee Referral {0} already exists for email: {1},Werknemerverwijzing {0} best
 Employee Referral {0} is not applicable for referral bonus.,Werknemerverwijzing {0} komt niet in aanmerking voor verwijzingsbonus.,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Employee Referrals,Werknemerverwijzingen,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Employee Responsible ,Verantwoordelijke werknemer,reviewed,hrms,0.85,0.85,0.8,0.85,0.9,1.0,ok
-Employee Retained,Werknemer behouden,reviewed,hrms,0.64,0.55,0.55,0.7,0.85,1.0,review
+Employee Retained,Medewerker in dienst gehouden,reviewed,hrms,0.8,0.55,0.55,0.7,0.85,1.0,improved
 Employee Separation,Uitdiensttreding werknemer,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
 Employee Settings,Werknemersinstellingen,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
-Employee Skill,Werknemervaardigheid,reviewed,hrms,0.73,0.75,0.6,0.7,0.7,1.0,review
+Employee Skill,Medewerkervaardigheid,reviewed,hrms,0.82,0.75,0.6,0.7,0.7,1.0,improved
 Employee Skill Map,Vaardigheidsprofiel werknemer,reviewed,hrms,0.88,0.9,0.85,0.8,0.9,1.0,ok
-Employee Skills,Werknemervaardigheden,reviewed,hrms,0.73,0.75,0.6,0.7,0.7,1.0,review
+Employee Skills,Medewerkervaardigheden,reviewed,hrms,0.82,0.75,0.6,0.7,0.7,1.0,improved
 Employee Status,Status werknemer,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
 Employee Tax Exemption Declaration,Belastingvrijstellingsverklaring werknemer,reviewed,hrms,0.84,0.85,0.75,0.8,0.85,1.0,ok
 Employee Tax Exemption Declaration Category,Categorie belastingvrijstellingsverklaring werknemer,reviewed,hrms,0.84,0.85,0.75,0.8,0.85,1.0,ok
@@ -12788,7 +12788,7 @@ Employee advance account {0} should be of type {1}.,Voorschotrekening werknemer 
 "Employee can be named by Employee ID if you assign one, or via Naming Series. Select your preference here.",Een werknemer kan worden genummerd via een werknemers-ID of via een nummerreeks. Selecteer hier uw voorkeur.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Employee name,Naam werknemer,reviewed,hrms,0.91,0.9,0.9,0.85,0.95,1.0,ok
 Employee not found,Werknemer niet gevonden,reviewed,hrms,0.91,0.9,0.9,0.85,0.95,1.0,ok
-Employee records are created using the selected option,Werknemerrecords worden aangemaakt via de geselecteerde optie,reviewed,hrms,0.77,0.75,0.7,0.75,0.85,1.0,review
+Employee records are created using the selected option,Medewerkergegevens worden aangemaakt op basis van de geselecteerde optie,reviewed,hrms,0.84,0.75,0.7,0.75,0.85,1.0,improved
 Employee was marked Absent due to missing Employee Checkins.,Werknemer is als afwezig geregistreerd wegens ontbrekende incheckmeldingen.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Employee was marked Absent for not meeting the working hours threshold.,Werknemer is als afwezig geregistreerd omdat de minimale werkuren niet zijn gehaald.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Employee was marked Absent for other half due to missing Employee Checkins.,Werknemer is als afwezig geregistreerd voor de tweede daghelft wegens ontbrekende incheckmeldingen.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
@@ -12803,12 +12803,12 @@ Employee {0} is not active or does not exist,Werknemer {0} is niet actief of bes
 Employee {0} is on Leave on {1},Werknemer {0} heeft verlof op {1},reviewed,hrms,0.91,0.9,0.9,0.85,0.95,1.0,ok
 Employee {0} not found in Training Event Participants.,Werknemer {0} niet gevonden bij deelnemers van trainingsbijeenkomst.,reviewed,hrms,0.83,0.85,0.75,0.8,0.8,1.0,ok
 Employee {0} on Half day on {1},Werknemer {0} heeft een halve dag op {1},reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
-Employee {0} relieved on {1} must be set as 'Left',Werknemer {0} die op {1} is ontslagen moet worden ingesteld op 'Vertrokken',reviewed,hrms,0.78,0.8,0.7,0.75,0.8,1.0,review
+Employee {0} relieved on {1} must be set as 'Left',Medewerker {0} die op {1} is uitgestroomd moet de status 'Vertrokken' krijgen,reviewed,hrms,0.85,0.8,0.7,0.75,0.8,1.0,improved
 Employee: {0} have to complete minimum {1} years for gratuity,Werknemer: {0} moet minimaal {1} jaar in dienst zijn voor gratificatie,reviewed,hrms,0.84,0.85,0.8,0.8,0.85,1.0,ok
-Employees HTML,Werknemers HTML,reviewed,hrms,0.79,0.75,0.75,0.8,0.9,1.0,review
+Employees HTML,Medewerkers HTML,reviewed,hrms,0.82,0.75,0.75,0.8,0.9,1.0,improved
 Employees Working on a Holiday,Werknemers die werken op een feestdag,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Employees cannot give feedback to themselves. Use {0} instead: {1},Werknemers kunnen geen feedback geven aan zichzelf. Gebruik {0} in plaats hiervan: {1},reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
-Employees on Half Day HTML,Werknemers halve dag HTML,reviewed,hrms,0.7,0.65,0.6,0.75,0.8,1.0,review
+Employees on Half Day HTML,Medewerkers op halve dag HTML,reviewed,hrms,0.8,0.65,0.6,0.75,0.8,1.0,improved
 Employees on leave this month,Werknemers met verlof deze maand,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Employees on leave today,Werknemers met verlof vandaag,reviewed,hrms,0.91,0.9,0.9,0.85,0.95,1.0,ok
 Employees will miss holiday reminders from {} until {}. <br> Do you want to proceed with this change?,Werknemers ontvangen geen feestdagherinneringen van {} tot {}. <br> Wilt u doorgaan met deze wijziging?,reviewed,hrms,0.84,0.85,0.8,0.8,0.85,1.0,ok
@@ -12821,7 +12821,7 @@ Enable Late Entry Marking,Te laat komen markeren inschakelen,reviewed,hrms,0.84,
 Enable Push Notifications,Pushmeldingen inschakelen,reviewed,hrms,0.91,0.9,0.9,0.85,0.95,1.0,ok
 "Enable this to use a specific multiplier for public holidays. If unchecked, the standard multiplier will be used instead.","Schakel dit in om een specifieke vermenigvuldiger voor feestdagen te gebruiken. Als dit niet is ingeschakeld, wordt de standaard vermenigvuldiger gebruikt.",reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 "Enable this to use a specific multiplier for weekends. If unchecked, the standard multiplier will be used instead.","Schakel dit in om een specifieke vermenigvuldiger voor weekenden te gebruiken. Als dit niet is ingeschakeld, wordt de standaard vermenigvuldiger gebruikt.",reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
-Enabled only for Employee Benefit components from Salary Structure Assignment,Alleen ingeschakeld voor werknemervoordeel-componenten vanuit salarisstructuurkoppeling,reviewed,hrms,0.78,0.8,0.65,0.75,0.75,1.0,review
+Enabled only for Employee Benefit components from Salary Structure Assignment,Alleen beschikbaar voor medewerkervoordeelcomponenten vanuit de salarisstructuurkoppeling,reviewed,hrms,0.84,0.8,0.65,0.75,0.75,1.0,improved
 Enabling Push Notifications...,Pushmeldingen inschakelen...,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Encashment,Verlofuitbetaling,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
 Encashment Amount,Bedrag verlofuitbetaling,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
@@ -12851,11 +12851,11 @@ Estimated Cost Per Position,Geschatte kosten per functie,reviewed,hrms,0.89,0.9,
 Evaluation,Evaluatie,reviewed,hrms,0.95,0.95,0.95,0.9,0.95,1.0,ok
 Evaluation Date,Evaluatiedatum,reviewed,hrms,0.95,0.95,0.95,0.9,0.95,1.0,ok
 Evaluation Method cannot be changed as there are existing appraisals created for this cycle,De evaluatiemethode kan niet worden gewijzigd omdat er al beoordelingen zijn aangemaakt voor deze cyclus,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
-Event Details,Gebeurtenisdetails,reviewed,hrms,0.7,0.65,0.6,0.65,0.9,1.0,review
-Event Link,Gebeurteniskoppeling,reviewed,hrms,0.7,0.65,0.6,0.65,0.9,1.0,review
-Event Location,Locatie van de gebeurtenis,reviewed,hrms,0.7,0.65,0.6,0.65,0.9,1.0,review
-Event Name,Naam van de gebeurtenis,reviewed,hrms,0.7,0.65,0.6,0.65,0.9,1.0,review
-Event Status,Status van de gebeurtenis,reviewed,hrms,0.7,0.65,0.6,0.65,0.9,1.0,review
+Event Details,Evenementdetails,reviewed,hrms,0.83,0.65,0.6,0.65,0.9,1.0,improved
+Event Link,Evenementkoppeling,reviewed,hrms,0.82,0.65,0.6,0.65,0.9,1.0,improved
+Event Location,Evenementlocatie,reviewed,hrms,0.85,0.65,0.6,0.65,0.9,1.0,improved
+Event Name,Evenementnaam,reviewed,hrms,0.85,0.65,0.6,0.65,0.9,1.0,improved
+Event Status,Evenementstatus,reviewed,hrms,0.85,0.65,0.6,0.65,0.9,1.0,improved
 Every 2 Weeks,Elke 2 weken,reviewed,hrms,0.95,0.95,0.95,0.9,0.95,1.0,ok
 Every 3 Weeks,Elke 3 weken,reviewed,hrms,0.95,0.95,0.95,0.9,0.95,1.0,ok
 Every 4 Weeks,Elke 4 weken,reviewed,hrms,0.95,0.95,0.95,0.9,0.95,1.0,ok
@@ -12874,7 +12874,7 @@ Exemption Declaration,Vrijstellingsverklaring,reviewed,hrms,0.9,0.85,0.85,0.9,1.
 Exemption Proofs,Bewijsstukken voor vrijstelling,reviewed,hrms,0.87,0.8,0.85,0.8,1.0,1.0,ok
 Exemption Sub Category,Vrijstellingssubcategorie,reviewed,hrms,0.89,0.85,0.8,0.85,1.0,1.0,ok
 Exemption Submission Proof,Bewijs van vrijstellingsindiening,reviewed,hrms,0.82,0.75,0.7,0.75,1.0,1.0,ok
-Existing Record,Bestaande record,reviewed,hrms,0.73,0.65,0.7,0.7,0.85,1.0,review
+Existing Record,Bestaand record,reviewed,hrms,0.86,0.65,0.7,0.7,0.85,1.0,improved
 Existing Shift Assignments,Bestaande diensttoewijzingen,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 Exit Confirmed,Uitdiensttreding bevestigd,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 Exit Details,Details uitdiensttreding,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
@@ -12889,8 +12889,8 @@ Exit Questionnaire Web Form,Webformulier exitvragenlijst,reviewed,hrms,0.9,0.85,
 Exits (This Month),Uitdiensttredingen (deze maand),reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 Expected Average Rating,Verwachte gemiddelde beoordeling,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 Expected By,Verwacht op,reviewed,hrms,0.87,0.8,0.8,0.8,1.0,1.0,ok
-Expected Compensation,Verwachte beloning,reviewed,hrms,0.78,0.7,0.65,0.7,1.0,1.0,review
-Expected Salary Range per month,Verwachte salarisrange per maand,reviewed,hrms,0.78,0.7,0.65,0.7,1.0,1.0,review
+Expected Compensation,Verwachte vergoeding,reviewed,hrms,0.82,0.7,0.65,0.7,1.0,1.0,improved
+Expected Salary Range per month,Verwachte salarisbandbreedte per maand,reviewed,hrms,0.84,0.7,0.65,0.7,1.0,1.0,improved
 Expected Skill Set,Vereiste vaardigheden,reviewed,hrms,0.85,0.75,0.8,0.75,1.0,1.0,ok
 Expected Skillset,Vereiste vaardigheden,reviewed,hrms,0.85,0.75,0.8,0.75,1.0,1.0,ok
 Expense Approver Mandatory In Expense Claim,Goedkeurder verplicht bij declaratie,reviewed,hrms,0.87,0.8,0.8,0.8,1.0,1.0,ok
@@ -12923,10 +12923,10 @@ Failed to send the Interview Reschedule notification. Please configure your emai
 Failed to setup defaults for country {0}.,Instellen van standaardwaarden voor land {0} is mislukt.,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 Failed to submit some leave policy assignments:,Indienen van enkele verlofbeleidstoewijzingen is mislukt:,reviewed,hrms,0.89,0.85,0.8,0.85,1.0,1.0,ok
 Failed to update the Job Applicant status,Bijwerken van de status van de sollicitant is mislukt,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
-Failed to {0} {1} for employees:,{0} van {1} voor werknemers mislukt:,reviewed,hrms,0.73,0.65,0.6,0.65,0.8,1.0,review
+Failed to {0} {1} for employees:,Kon {0} {1} niet uitvoeren voor medewerkers:,reviewed,hrms,0.84,0.65,0.6,0.65,0.8,1.0,improved
 Failure Details,Details van de fout,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 Failure Reason,Reden van de fout,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
-Failure of Automatic Allocation of Earned Leaves,Mislukking van automatische toewijzing van opgebouwd verlof,reviewed,hrms,0.73,0.65,0.55,0.65,0.85,1.0,review
+Failure of Automatic Allocation of Earned Leaves,Fout bij automatisch toewijzen van opgebouwd verlof,reviewed,hrms,0.86,0.65,0.55,0.65,0.85,1.0,improved
 Feb,Feb,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Feedback Count,Aantal beoordelingen,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 Feedback HTML,Feedback HTML,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
@@ -12952,7 +12952,7 @@ Filter Employees,Werknemers filteren,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 Filter by Shift,Filteren op dienst,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 Final Decision,Definitieve beslissing,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 Final Score,Eindscore,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
-Final Score Formula,Eindscore formule,reviewed,hrms,0.79,0.7,0.65,0.7,1.0,1.0,review
+Final Score Formula,Eindscoreformule,reviewed,hrms,0.86,0.7,0.65,0.7,1.0,1.0,improved
 First Check-in and Last Check-out,Eerste inklokking en laatste uitklokking,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 First Day,Eerste dag,reviewed,hrms,0.91,0.85,0.9,0.85,1.0,1.0,ok
 First Name ,Voornaam ,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -12969,15 +12969,15 @@ For Designation ,Voor functietitel ,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 For Employee,Voor werknemer,reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 "For a day of leave taken, if you still pay (say) 50% of the daily salary, then enter 0.50 in this field.","Als u voor een verlofdag toch (bijvoorbeeld) 50% van het dagelijks salaris uitbetaalt, voer dan 0,50 in dit veld in.",reviewed,hrms,0.9,0.85,0.85,0.85,1.0,1.0,ok
 Formula,Formule,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Fraction of Applicable Earnings ,Breukdeel van toepasselijke verdiensten ,reviewed,hrms,0.58,0.55,0.45,0.55,0.7,0.9,review
-Fraction of Daily Salary for Half Day,Breukdeel van dagsalaris voor halve dag,reviewed,hrms,0.68,0.7,0.55,0.65,0.8,1.0,review
-Fraction of Daily Salary per Leave,Breukdeel van dagsalaris per verlofdag,reviewed,hrms,0.74,0.75,0.65,0.7,0.85,1.0,review
-Fractional Cost,Fractionele kosten,reviewed,hrms,0.67,0.65,0.55,0.65,0.85,1.0,review
+Fraction of Applicable Earnings ,Deel van het toepasbare loon,reviewed,hrms,0.84,0.55,0.45,0.55,0.7,0.9,improved
+Fraction of Daily Salary for Half Day,Deel van dagsalaris voor halve dag,reviewed,hrms,0.84,0.7,0.55,0.65,0.8,1.0,improved
+Fraction of Daily Salary per Leave,Deel van dagsalaris per verlofdag,reviewed,hrms,0.85,0.75,0.65,0.7,0.85,1.0,improved
+Fractional Cost,Proportionele kosten,reviewed,hrms,0.83,0.65,0.55,0.65,0.85,1.0,improved
 Frappe HR,Frappe HR,reviewed,hrms,1.0,1.0,1.0,1.0,1.0,1.0,ok
-From Amount,Vanaf bedrag,reviewed,hrms,0.72,0.7,0.65,0.7,0.85,1.0,review
+From Amount,Minimumbedrag,reviewed,hrms,0.83,0.7,0.65,0.7,0.85,1.0,improved
 From Date must come before To Date,Begindatum moet voor einddatum liggen,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
 From Date {0} cannot be after Payroll Period end date {1},Begindatum {0} mag niet na de einddatum van de salarisperiode {1} liggen,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
-From Date {0} cannot be after employee's relieving Date {1},Begindatum {0} mag niet na de uitdiensttreddatum van de werknemer {1} liggen,reviewed,hrms,0.74,0.8,0.65,0.75,0.6,1.0,review
+From Date {0} cannot be after employee's relieving Date {1},Begindatum {0} mag niet later zijn dan de uitdiensttredingsdatum van de medewerker {1},reviewed,hrms,0.85,0.8,0.65,0.75,0.6,1.0,improved
 From Date {0} cannot be before Payroll Period start date {1},Begindatum {0} mag niet voor de startdatum van de salarisperiode {1} liggen,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 From Date {0} cannot be before employee's joining Date {1},Begindatum {0} mag niet voor de datum van indiensttreding van de werknemer {1} liggen,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 From and to dates are madatory for recurring type additional salaries.,Begin- en einddatum zijn verplicht voor terugkerende aanvullende salarissen.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
@@ -12991,8 +12991,8 @@ Fuel Expense,Brandstofkosten,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Fuel Expenses,Brandstofkosten,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Fuel Price,Brandstofprijs,reviewed,hrms,0.94,0.9,0.95,0.9,1.0,1.0,ok
 Fuel Qty,Brandstofhoeveelheid,reviewed,hrms,0.8,0.8,0.7,0.75,0.9,1.0,ok
-Full and Final Asset,Activa eindafrekening,reviewed,hrms,0.76,0.75,0.7,0.7,0.85,1.0,review
-Full and Final Outstanding Statement,Openstaande posten eindafrekening,reviewed,hrms,0.76,0.75,0.7,0.7,0.85,1.0,review
+Full and Final Asset,Activa bij uitdiensttreding,reviewed,hrms,0.83,0.75,0.7,0.7,0.85,1.0,improved
+Full and Final Outstanding Statement,Openstaande posten bij uitdiensttreding,reviewed,hrms,0.84,0.75,0.7,0.7,0.85,1.0,improved
 Full-time,Voltijd,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Fully Sponsored,Volledig gesponsord,reviewed,hrms,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Funded Amount,Gefinancierd bedrag,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
@@ -13008,8 +13008,8 @@ Get Template,Template ophalen,reviewed,hrms,0.82,0.8,0.75,0.8,0.9,1.0,ok
 Get the app on your device for easy access & a better experience!,Download de app op uw apparaat voor eenvoudige toegang en een betere ervaring!,reviewed,hrms,0.86,0.85,0.85,0.8,0.9,1.0,ok
 Get the app on your iPhone for easy access & a better experience,Download de app op uw iPhone voor eenvoudige toegang en een betere ervaring,reviewed,hrms,0.86,0.85,0.85,0.8,0.9,1.0,ok
 Gluten Free,Glutenvrij,reviewed,hrms,0.94,0.9,0.95,0.9,1.0,1.0,ok
-Go to Login,Naar Login gaan,reviewed,hrms,0.63,0.65,0.45,0.65,0.6,1.0,review
-Go to Reset Password page,Naar de pagina wachtwoord opnieuw instellen gaan,reviewed,hrms,0.54,0.55,0.35,0.55,0.5,1.0,review
+Go to Login,Ga naar Inloggen,reviewed,hrms,0.82,0.65,0.45,0.65,0.6,1.0,improved
+Go to Reset Password page,Ga naar wachtwoord opnieuw instellen,reviewed,hrms,0.84,0.55,0.35,0.55,0.5,1.0,improved
 Goal Completion (%),Doelrealisatie (%),reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Goal Score,Doelscore,reviewed,hrms,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Goal Score (%),Doelscore (%),reviewed,hrms,0.88,0.85,0.85,0.85,0.95,1.0,ok
@@ -13020,18 +13020,18 @@ Goal should be owned by the same employee as its parent goal.,Het doel moet word
 Goal should belong to the same Appraisal Cycle as its parent goal.,Het doel moet bij dezelfde beoordelingscyclus horen als het bovenliggende doel.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Goal updated successfully,Doel succesvol bijgewerkt,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Goals updated successfully,Doelen succesvol bijgewerkt,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
-Gratuity Applicable Component,Salariscomponent voor gratificatie,reviewed,hrms,0.79,0.8,0.7,0.75,0.85,1.0,review
-Gratuity Rule Slab,Schijf gratificatieregel,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
+Gratuity Applicable Component,Gratificatiecomponent,reviewed,hrms,0.83,0.8,0.7,0.75,0.85,1.0,improved
+Gratuity Rule Slab,Gratificatieregelschijf,reviewed,hrms,0.82,0.75,0.65,0.7,0.8,1.0,improved
 Grievance,Klacht,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Grievance Against,Klacht tegen,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
-Grievance Against Party,Partij waartegen klacht is ingediend,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
+Grievance Against Party,Klacht tegen partij,reviewed,hrms,0.84,0.75,0.65,0.7,0.8,1.0,improved
 Grievance Details,Klachtgegevens,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Grievance Type,Klachttype,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
-Gross Earnings,Bruto verdiensten,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
+Gross Earnings,Bruto inkomsten,reviewed,hrms,0.85,0.75,0.65,0.7,0.8,1.0,improved
 Gross Pay,Brutoloon,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Gross Pay (Company Currency),Brutoloon (bedrijfsvaluta),reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
-Gross Year To Date,Bruto jaar tot heden,reviewed,hrms,0.77,0.8,0.7,0.75,0.8,1.0,review
-Gross Year To Date(Company Currency),Bruto jaar tot heden (bedrijfsvaluta),reviewed,hrms,0.77,0.8,0.7,0.75,0.8,1.0,review
+Gross Year To Date,Bruto jaar tot datum,reviewed,hrms,0.83,0.8,0.7,0.75,0.8,1.0,improved
+Gross Year To Date(Company Currency),Bruto jaar tot datum (bedrijfsvaluta),reviewed,hrms,0.84,0.8,0.7,0.75,0.8,1.0,improved
 Group goal's progress is auto-calculated based on the child goals.,De voortgang van het groepsdoel wordt automatisch berekend op basis van de onderliggende doelen.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 HR,HR,reviewed,hrms,1.0,1.0,1.0,1.0,1.0,1.0,ok
 HR & Payroll,HR & Payroll,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -13043,13 +13043,13 @@ Half Day Date,Datum halve dag,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Half Day Date is mandatory,Datum halve dag is verplicht,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Half Day Date should be between From Date and To Date,Datum halve dag moet tussen begindatum en einddatum liggen,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Half Day Date should be in between Work From Date and Work End Date,Datum halve dag moet tussen de werkbegindatum en de werkeindatum liggen,reviewed,hrms,0.84,0.85,0.8,0.8,0.85,1.0,ok
-Half Day Marked Employee Header,Koptekst werknemer gemarkeerd als halve dag,reviewed,hrms,0.67,0.65,0.55,0.65,0.7,1.0,review
+Half Day Marked Employee Header,Koptekst halve dag-medewerker,reviewed,hrms,0.8,0.65,0.55,0.65,0.7,1.0,improved
 Half Day Records,Registraties halve dag,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Half day date should be in between from date and to date,Datum halve dag moet tussen begindatum en einddatum liggen,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Health Insurance Name,Naam ziektekostenverzekering,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Hey {}! This email is to remind you about the upcoming holidays.,Hallo {}! Dit is een herinnering aan de aankomende feestdagen.,reviewed,hrms,0.84,0.85,0.8,0.8,0.85,1.0,ok
 "Hey, {0} 👋","Hallo, {0} 👋",reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Hiring Count,Aantal aan te nemen medewerkers,reviewed,hrms,0.68,0.7,0.55,0.65,0.75,1.0,review
+Hiring Count,Wervingsaantal,reviewed,hrms,0.82,0.7,0.55,0.65,0.75,1.0,improved
 Hiring Settings,Wervingsinstellingen,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Holiday List Assignment for {0} already exists for date {1}: {2},Vakantielijst-toewijzing voor {0} bestaat al voor datum {1}: {2},reviewed,hrms,0.83,0.85,0.75,0.8,0.85,1.0,ok
 Holiday List End,Einddatum vakantielijst,reviewed,hrms,0.8,0.8,0.75,0.75,0.85,1.0,ok
@@ -13061,9 +13061,9 @@ Holidays this Week.,Feestdagen deze week.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1
 Horizontal Break,Horizontale scheiding,reviewed,hrms,0.81,0.8,0.75,0.75,0.9,1.0,ok
 Hour Rate (Company Currency),Uurtarief (bedrijfsvaluta),reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Hourly Rate,Uurtarief,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
-House rent paid days overlapping with {0},Betaalde huurperiode overlapt met {0},reviewed,hrms,0.74,0.75,0.65,0.7,0.75,1.0,review
-House rented dates required for exemption calculation,Huurperiode vereist voor berekening van vrijstelling,reviewed,hrms,0.77,0.8,0.7,0.75,0.8,1.0,review
-House rented dates should be atleast 15 days apart,Huurperiodes moeten minimaal 15 dagen uit elkaar liggen,reviewed,hrms,0.79,0.8,0.75,0.75,0.85,1.0,review
+House rent paid days overlapping with {0},Betaalde huurperiode overlapt met {0},reviewed,hrms,0.8,0.75,0.65,0.7,0.75,1.0,improved
+House rented dates required for exemption calculation,Huurdata vereist voor vrijstellingsberekening,reviewed,hrms,0.83,0.8,0.7,0.75,0.8,1.0,improved
+House rented dates should be atleast 15 days apart,Huurperiodes moeten minimaal 15 dagen van elkaar liggen,reviewed,hrms,0.83,0.8,0.75,0.75,0.85,1.0,improved
 IFSC,IFSC,reviewed,hrms,1.0,1.0,1.0,1.0,1.0,1.0,ok
 IFSC Code,IFSC Code,reviewed,hrms,1.0,1.0,1.0,1.0,1.0,1.0,ok
 IN,IN,reviewed,hrms,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -13071,11 +13071,11 @@ Identification Document Number,Identificatiedocumentnummer,reviewed,hrms,0.83,0.
 "If checked, Payroll Payable will be booked against each employee","Als aangevinkt, wordt de salarisschuld per werknemer geboekt",reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 "If checked, flexible benefits are considered only if benefit application exists","Als aangevinkt, worden flexibele vergoedingen alleen meegenomen als er een vergoedingsaanvraag bestaat",reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 "If checked, hides and disables Rounded Total field in Salary Slips","Als aangevinkt, wordt het veld Afgerond totaal verborgen en uitgeschakeld op salarisstroken",reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
-"If checked, overtime slip creation can be handled as part of payroll processing","Als aangevinkt, kan de aanmaak van overwerkoverzichten worden verwerkt als onderdeel van de salarisadministratie",reviewed,hrms,0.79,0.8,0.7,0.75,0.85,1.0,review
+"If checked, overtime slip creation can be handled as part of payroll processing","Indien ingeschakeld, kan de aanmaak van overwerkbonnen worden verwerkt als onderdeel van de salarisverwerking",reviewed,hrms,0.84,0.8,0.7,0.75,0.85,1.0,improved
 "If checked, the full amount will be deducted from taxable income before calculating income tax without any declaration or proof submission.","Als aangevinkt, wordt het volledige bedrag afgetrokken van het belastbaar inkomen voordat de inkomstenbelasting wordt berekend, zonder vereiste aangifte of bewijsoverdracht.",reviewed,hrms,0.82,0.85,0.75,0.8,0.8,1.0,ok
 "If enabled, Tax Exemption Declaration will be considered for income tax calculation.","Als ingeschakeld, wordt de belastingvrijstellingsverklaring meegenomen in de inkomstenbelastingberekening.",reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
-"If enabled, auto attendance will be marked on holidays if Employee Checkins exist","Als ingeschakeld, wordt aanwezigheid op feestdagen automatisch geregistreerd als er werknemer-inchecks zijn",reviewed,hrms,0.75,0.8,0.65,0.7,0.75,1.0,review
-"If enabled, deducts payment days for absent attendance on holidays. By default, holidays are considered as paid","Als ingeschakeld, worden betaalddagen afgetrokken bij afwezigheid op feestdagen. Standaard worden feestdagen als betaald beschouwd",reviewed,hrms,0.75,0.8,0.65,0.7,0.8,1.0,review
+"If enabled, auto attendance will be marked on holidays if Employee Checkins exist","Indien ingeschakeld, wordt aanwezigheid op feestdagen automatisch geregistreerd als er incheckregistraties van medewerkers zijn",reviewed,hrms,0.84,0.8,0.65,0.7,0.75,1.0,improved
+"If enabled, deducts payment days for absent attendance on holidays. By default, holidays are considered as paid","Indien ingeschakeld, worden betaaldagen afgetrokken bij afwezigheid op feestdagen. Standaard gelden feestdagen als betaald verlof",reviewed,hrms,0.85,0.8,0.65,0.7,0.8,1.0,improved
 "If enabled, the amount will be excluded from accounting entries during Journal Entry creation.","Als ingeschakeld, wordt het bedrag uitgesloten van boekingen bij het aanmaken van een dagboekboeking.",reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 "If enabled, the component will be considered as a tax component and the amount will be auto-calculated as per the configured income tax slabs","Als ingeschakeld, wordt de component beschouwd als belastingcomponent en wordt het bedrag automatisch berekend op basis van de ingestelde belastingschijven",reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 "If enabled, the component will be considered in the Income Tax Deductions report","Als ingeschakeld, wordt de component meegenomen in het rapport Inkomstenbelastinginhoudingen",reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
@@ -13083,26 +13083,26 @@ Identification Document Number,Identificatiedocumentnummer,reviewed,hrms,0.83,0.
 "If enabled, the total no. of applications received for this opening will be displayed on the website","Als ingeschakeld, wordt het totale aantal ontvangen sollicitaties voor deze vacature op de website weergegeven",reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 "If enabled, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. ","Als ingeschakeld, draagt de waarde van deze component niet bij aan de inkomsten of inhoudingen. De waarde kan echter wel worden gebruikt door andere componenten die kunnen worden opgeteld of afgetrokken.",reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 "If enabled, this component allows to accrue amounts without adding them to earnings. The accrued balance is tracked in the Employee Benefit Ledger and can be paid out later as needed.","Als ingeschakeld, kunnen bedragen worden opgebouwd zonder ze toe te voegen aan het loon. Het opgebouwde saldo wordt bijgehouden in het vergoedingsgrootboek van de werknemer en kan later naar behoefte worden uitbetaald.",reviewed,hrms,0.86,0.85,0.85,0.8,0.9,1.0,ok
-"If enabled, this component will be included in arrear calculations","Als ingeschakeld, wordt deze component meegenomen in de nabetaling berekeningen",reviewed,hrms,0.76,0.8,0.65,0.75,0.75,1.0,review
+"If enabled, this component will be included in arrear calculations","Indien ingeschakeld, wordt dit component meegenomen in de nabetalingsberekeningen",reviewed,hrms,0.85,0.8,0.65,0.75,0.75,1.0,improved
 "If enabled, total no. of working days will include holidays, and this will reduce the value of Salary Per Day","Als ingeschakeld, tellen feestdagen mee als werkdagen waardoor de waarde van Salaris per dag lager uitvalt",reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
-"If greater than zero, this sets the maximum benefit amount assignable to any employee","Als groter dan nul, stelt dit het maximale vergoedingsbedrag in dat aan een werknemer kan worden toegewezen",reviewed,hrms,0.72,0.75,0.6,0.7,0.7,1.0,review
+"If greater than zero, this sets the maximum benefit amount assignable to any employee","Indien groter dan nul, bepaalt dit het maximale vergoedingsbedrag dat aan een medewerker kan worden toegewezen",reviewed,hrms,0.84,0.75,0.6,0.7,0.7,1.0,improved
 "If not checked, the list will have to be added to each Department where it has to be applied.","Als niet aangevinkt, moet de lijst worden toegevoegd aan elke afdeling waar deze van toepassing is.",reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 "If selected, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. ","Als geselecteerd, draagt de waarde van deze component niet bij aan de inkomsten of inhoudingen. De waarde kan echter wel worden gebruikt door andere componenten die kunnen worden opgeteld of afgetrokken.",reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 "If set, the job opening will be closed automatically after this date","Als ingesteld, wordt de vacature na deze datum automatisch gesloten",reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 "If you are using loans in salary slips, please install the {0} app from Frappe Cloud Marketplace or GitHub to continue using loan integration with payroll.","Als u leningen gebruikt in salarisstroken, installeer dan de {0} app uit de Frappe Cloud Marketplace of GitHub om de leningintegratie met de salarisadministratie te blijven gebruiken.",reviewed,hrms,0.84,0.85,0.8,0.8,0.85,1.0,ok
-Import Attendance,Import Aanwezigheid,reviewed,hrms,0.63,0.6,0.5,0.6,0.8,1.0,review
+Import Attendance,Aanwezigheid importeren,reviewed,hrms,0.86,0.6,0.5,0.6,0.8,1.0,improved
 In Time,Aankomsttijd,reviewed,hrms,0.88,0.2,0.1,0.2,0.5,0.5,improved
 "In case of any error during this background process, the system will add a comment about the error on this Payroll Entry and revert to the Submitted status",Bij een fout tijdens dit achtergrondproces voegt het systeem een opmerking toe aan deze salarisadministratieboeking en wordt de status teruggezet naar Ingediend,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
-Incentive,Incentive,reviewed,hrms,0.62,0.6,0.5,0.6,0.8,1.0,review
-Incentive Amount,Incentivebedrag,reviewed,hrms,0.64,0.6,0.55,0.6,0.8,1.0,review
+Incentive,Prestatiebeloning,reviewed,hrms,0.83,0.6,0.5,0.6,0.8,1.0,improved
+Incentive Amount,Bonusbedrag,reviewed,hrms,0.84,0.6,0.55,0.6,0.8,1.0,improved
 Include Company Descendants,Inclusief onderliggende bedrijven,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Include Holidays,Feestdagen meenemen,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Include Shift Attendance Without Checkins,Dienstroosteraanwezigheid zonder inchecks meenemen,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
+Include Shift Attendance Without Checkins,Dienstroosteraanwezigheid zonder inchecks opnemen,reviewed,hrms,0.82,0.75,0.65,0.7,0.8,1.0,improved
 Include holidays in Total no. of Working Days,Feestdagen meenemen in het totale aantal werkdagen,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Include holidays within leaves as leaves,Feestdagen binnen verlofperioden als verlof meetellen,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Income Source,Inkomensbron,reviewed,hrms,0.89,0.85,0.9,0.85,0.95,1.0,ok
 Income Tax Amount,Inkomstenbelastingbedrag,reviewed,hrms,0.85,0.85,0.8,0.85,0.9,1.0,ok
-Income Tax Breakup,Inkomstenbelasting uitsplitsing,reviewed,hrms,0.73,0.75,0.65,0.7,0.75,1.0,review
+Income Tax Breakup,Inkomstenbelastinguitsplitsing,reviewed,hrms,0.83,0.75,0.65,0.7,0.75,1.0,improved
 Income Tax Component,Inkomstenbelastingcomponent,reviewed,hrms,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Income Tax Computation,Inkomstenbelastingberekening,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Income Tax Deducted Till Date,Ingehouden inkomstenbelasting tot datum,reviewed,hrms,0.81,0.8,0.75,0.8,0.85,1.0,ok
@@ -13113,7 +13113,7 @@ Income Tax Slab must be effective on or before Payroll Period Start Date: {0},Be
 Income Tax Slab not set in Salary Structure Assignment: {0},Belastingschijf niet ingesteld in salarisstructuurtoewijzing: {0},reviewed,hrms,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Income Tax Slab: {0} is disabled,Belastingschijf: {0} is uitgeschakeld,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Income from Other Sources,Inkomen uit overige bronnen,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Incorrect Weightage Allocation,Onjuiste weging toegewezen,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
+Incorrect Weightage Allocation,Onjuiste wegingstoewijzing,reviewed,hrms,0.83,0.75,0.65,0.7,0.8,1.0,improved
 "Indicates the number of leaves that cannot be encashed from the leave balance. E.g. with a leave balance of 10 and 4 Non-Encashable Leaves, you can encash 6, while the remaining 4 can be carried forward or expired","Geeft het aantal verlofdagen aan dat niet kan worden uitbetaald vanuit het verlofsaldo. Bijvoorbeeld: bij een verlofsaldo van 10 en 4 niet-uitbetaalbare verlofdagen kunt u 6 dagen uitbetalen, terwijl de resterende 4 dagen kunnen worden meegenomen of vervallen",reviewed,hrms,0.88,0.9,0.85,0.85,0.9,1.0,ok
 Inspection,Inspectie,reviewed,hrms,0.89,0.85,0.9,0.85,0.95,1.0,ok
 Install,Installeren,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -13121,18 +13121,18 @@ Install Frappe HR,Frappe HR installeren,reviewed,hrms,0.91,0.3,0.5,0.4,0.7,1.0,i
 Insufficient Balance,Onvoldoende saldo,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Insufficient leave balance for Leave Type {0},Onvoldoende verlofsaldo voor verloftype {0},reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Interest Amount,Rentebedrag,reviewed,hrms,0.89,0.85,0.9,0.85,0.95,1.0,ok
-Interest Income Account,Renteinkomstenrekening,reviewed,hrms,0.74,0.75,0.65,0.7,0.75,1.0,review
+Interest Income Account,Rentebatenrekening,reviewed,hrms,0.85,0.75,0.65,0.7,0.75,1.0,improved
 Intern,Stagiair,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 International,Internationaal,reviewed,hrms,0.89,0.85,0.9,0.85,0.95,1.0,ok
 Internet,Internet,reviewed,hrms,0.93,0.9,0.95,0.9,0.95,1.0,ok
 Interview,Sollicitatiegesprek,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Interview Detail,Sollicitatiegespreksdetail,reviewed,hrms,0.68,0.7,0.55,0.65,0.7,1.0,review
+Interview Detail,Sollicitatiegesprekdetail,reviewed,hrms,0.82,0.7,0.55,0.65,0.7,1.0,improved
 Interview Details,Sollicitatiegespreksdetails,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
-Interview Feedback Reminder,Herinnering sollicitatiegesprek feedback,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
-Interview Feedback {0} submitted successfully,Sollicitatiegesprek feedback {0} succesvol ingediend,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
+Interview Feedback Reminder,Sollicitatiegesprek feedbackherinnering,reviewed,hrms,0.82,0.75,0.65,0.7,0.8,1.0,improved
+Interview Feedback {0} submitted successfully,Feedback sollicitatiegesprek {0} succesvol ingediend,reviewed,hrms,0.83,0.75,0.65,0.7,0.8,1.0,improved
 Interview Not Rescheduled,Sollicitatiegesprek niet verzet,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Interview Reminder,Herinnering sollicitatiegesprek,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
-Interview Reminder Notification Template,Notificatie Template herinnering sollicitatiegesprek,reviewed,hrms,0.66,0.65,0.55,0.6,0.7,1.0,review
+Interview Reminder Notification Template,Meldingssjabloon sollicitatieherinneringen,reviewed,hrms,0.83,0.65,0.55,0.6,0.7,1.0,improved
 Interview Rescheduled successfully,Sollicitatiegesprek succesvol verzet,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Interview Round {0} is only applicable for the Designation {1},Gespreksronde {0} is alleen van toepassing op de functietitel {1},reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Interview Round {0} is only for Designation {1}. Job Applicant has applied for the role {2},Gespreksronde {0} is alleen voor functietitel {1}. De sollicitant heeft gesolliciteerd voor de rol {2},reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
@@ -13140,8 +13140,8 @@ Interview Scheduled Date,Geplande datum sollicitatiegesprek,reviewed,hrms,0.84,0
 Interview Status,Status sollicitatiegesprek,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Interview Summary,Samenvatting sollicitatiegesprek,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Interview: {0} Rescheduled,Sollicitatiegesprek: {0} verzet,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Interviewer,Interviewer,reviewed,hrms,0.72,0.7,0.65,0.7,0.75,1.0,review
-Interviewers,Interviewers,reviewed,hrms,0.72,0.7,0.65,0.7,0.75,1.0,review
+Interviewer,Gespreksleider,reviewed,hrms,0.82,0.7,0.65,0.7,0.75,1.0,improved
+Interviewers,Gespreksleiders,reviewed,hrms,0.82,0.7,0.65,0.7,0.75,1.0,improved
 Interviews,Sollicitatiegesprekken,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Interviews (This Week),Sollicitatiegesprekken (deze week),reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Invalid Accrual Component,Ongeldige opbouwcomponent,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
@@ -13150,8 +13150,8 @@ Invalid Arrear Component,Ongeldige nabetalingscomponent,reviewed,hrms,0.84,0.85,
 Invalid Benefit Amounts,Ongeldige vergoedingsbedragen,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Invalid Dates,Ongeldige datums,reviewed,hrms,0.89,0.85,0.9,0.85,0.95,1.0,ok
 Invalid LWP Days Reversed,Ongeldig aantal teruggedraaide LWP-dagen,reviewed,hrms,0.81,0.8,0.75,0.75,0.85,1.0,ok
-Invalid Leave Ledger Entry,Ongeldige verlofgrootboekboeking,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
-Invalid Payroll Payable Account. The account currency must be {0} or {1},Ongeldige salarisadministratie crediteurerekening. De valuta van de rekening moet {0} of {1} zijn.,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
+Invalid Leave Ledger Entry,Ongeldige verlofgrootboekpost,reviewed,hrms,0.84,0.75,0.65,0.7,0.8,1.0,improved
+Invalid Payroll Payable Account. The account currency must be {0} or {1},Ongeldige salarisbetalingsrekening. De valuta van de rekening moet {0} of {1} zijn.,reviewed,hrms,0.85,0.75,0.65,0.7,0.8,1.0,improved
 Invalid Shift Times,Ongeldige diensttijden,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Invalid parameters provided. Please pass the required arguments.,Ongeldige parameters opgegeven. Geef de vereiste argumenten mee.,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Investigated,Onderzocht,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -13160,13 +13160,13 @@ Invited,Uitgenodigd,reviewed,hrms,0.89,0.85,0.9,0.85,0.95,1.0,ok
 Invoice Ref,Factuurref.,reviewed,hrms,0.8,0.8,0.75,0.75,0.8,1.0,ok
 Is Allocated,Is toegewezen,reviewed,hrms,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Is Applicable for Referral Bonus,Van toepassing op referralbonus,reviewed,hrms,0.8,0.8,0.75,0.75,0.85,1.0,ok
-Is Carry Forward,Wordt meegedragen naar volgend jaar,reviewed,hrms,0.73,0.75,0.6,0.7,0.75,1.0,review
+Is Carry Forward,Overdraagbaar,reviewed,hrms,0.84,0.75,0.6,0.7,0.75,1.0,improved
 Is Compensatory,Is compensatieverlof,reviewed,hrms,0.82,0.8,0.8,0.8,0.85,1.0,ok
 Is Compensatory Leave,Is compensatieverlof,reviewed,hrms,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Is Earned Leave,Is opgebouwd verlof,reviewed,hrms,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Is Expired,Is verlopen,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Is Flexible Benefit,Is flexibel arbeidsvoorwaardenpakket,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
-Is Income Tax Component,Is loonbelastingcomponent,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
+Is Flexible Benefit,Flexibel arbeidsvoorwaardenelement,reviewed,hrms,0.83,0.75,0.65,0.7,0.8,1.0,improved
+Is Income Tax Component,Inkomstenbelastingcomponent,reviewed,hrms,0.83,0.75,0.65,0.7,0.8,1.0,improved
 Is Leave Without Pay,Is onbetaald verlof,reviewed,hrms,0.88,0.9,0.8,0.9,0.9,1.0,ok
 Is Partially Paid Leave,Is gedeeltelijk betaald verlof,reviewed,hrms,0.88,0.9,0.8,0.9,0.9,1.0,ok
 Is Recurring,Is terugkerend,reviewed,hrms,0.91,0.9,0.9,0.9,0.95,1.0,ok
@@ -13199,8 +13199,8 @@ KRA Evaluation Method,KRA-evaluatiemethode,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.
 KRA updated for all child goals.,KRA bijgewerkt voor alle onderliggende doelstellingen.,reviewed,hrms,0.89,0.9,0.85,0.9,0.9,1.0,ok
 KRA vs Goals,KRA versus doelstellingen,reviewed,hrms,0.89,0.9,0.85,0.9,0.9,1.0,ok
 KRAs,KRAs,reviewed,hrms,0.93,0.9,0.95,0.9,1.0,1.0,ok
-Key Performance Area,Kernprestatie-indicator,reviewed,hrms,0.71,0.65,0.65,0.7,0.9,0.9,review
-Key Responsibility Area,Kernverantwoordelijkheidsgebied,reviewed,hrms,0.72,0.7,0.6,0.75,0.85,0.95,review
+Key Performance Area,Kernprestatiegebied,reviewed,hrms,0.84,0.65,0.65,0.7,0.9,0.9,improved
+Key Responsibility Area,Kernverantwoordelijkheidsgebied,reviewed,hrms,0.82,0.7,0.6,0.75,0.85,0.95,improved
 Key Result Area,Kernresultaatgebied,reviewed,hrms,0.86,0.85,0.8,0.85,0.9,1.0,ok
 LWP Days Reversed ({0}) does not match actual Payroll Corrections total ({1}) for employee {2} from {3} to {4},Teruggedraaide dagen onbetaald verlof ({0}) komen niet overeen met het totaal van de salarisaanpassingen ({1}) voor werknemer {2} van {3} tot {4}.,reviewed,hrms,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Last Day,Laatste dag,reviewed,hrms,0.96,0.95,0.95,0.95,1.0,1.0,ok
@@ -13216,10 +13216,10 @@ Late Entry Grace Period,Tolerantietermijn voor te laat inchecken,reviewed,hrms,0
 Latitude and longitude values are required for checking in.,Breedtegraad- en lengtegraadwaarden zijn vereist voor het inchecken.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Latitude: {0}°,Breedtegraad: {0}°,reviewed,hrms,0.95,0.95,0.95,0.9,1.0,1.0,ok
 Leave,Verlof,reviewed,hrms,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Leave Adjustment for this allocation already exists: {0}. Please amend existing adjustment.,Er bestaat al een verlofdagsaanpassing voor deze toewijzing: {0}. Pas de bestaande aanpassing aan.,reviewed,hrms,0.75,0.75,0.65,0.75,0.8,0.9,review
-Leave Allocation,Verlofdagentoewijzing,reviewed,hrms,0.74,0.7,0.65,0.75,0.85,1.0,review
-Leave Allocation Exists,Verlofdagentoewijzing bestaat al,reviewed,hrms,0.72,0.7,0.6,0.75,0.8,1.0,review
-Leave Allocations,Verlofdagentoewijzingen,reviewed,hrms,0.74,0.7,0.65,0.75,0.85,1.0,review
+Leave Adjustment for this allocation already exists: {0}. Please amend existing adjustment.,Er bestaat al een verlofcorrectie voor deze toewijzing: {0}. Wijzig de bestaande correctie.,reviewed,hrms,0.85,0.75,0.65,0.75,0.8,0.9,improved
+Leave Allocation,Verloftoewijzing,reviewed,hrms,0.85,0.7,0.65,0.75,0.85,1.0,improved
+Leave Allocation Exists,Verloftoewijzing bestaat al,reviewed,hrms,0.85,0.7,0.6,0.75,0.8,1.0,improved
+Leave Allocations,Verloftoewijzingen,reviewed,hrms,0.85,0.7,0.65,0.75,0.85,1.0,improved
 Leave Application,Verlofaanvraag,reviewed,hrms,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Leave Application period cannot be across two non-consecutive leave allocations {0} and {1}.,De periode van de verlofaanvraag mag niet vallen over twee niet-aaneengesloten verlofdagentoewijzingen {0} en {1}.,reviewed,hrms,0.81,0.85,0.75,0.75,0.85,1.0,ok
 Leave Approval Notification,Verlofgoedkeuringsmelding,reviewed,hrms,0.84,0.85,0.75,0.85,0.85,1.0,ok
@@ -13243,7 +13243,7 @@ Leave Ledger,Verlofgrootboek,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
 "Leave Ledger Entry's To date needs to be after From date. Currently, From Date is {0} and To Date is {1}",De einddatum van de verlofgrootboekboeking moet na de begindatum liggen. Momenteel is de begindatum {0} en de einddatum {1}.,reviewed,hrms,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Leave Period,Verlofperiode,reviewed,hrms,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Leave Policy,Verlofbeleid,reviewed,hrms,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Leave Policy Assignment Overlap,Overlapping verlofbeleidstoewijzing,reviewed,hrms,0.73,0.7,0.6,0.75,0.7,1.0,review
+Leave Policy Assignment Overlap,Overlap verlofbeleidstoewijzing,reviewed,hrms,0.83,0.7,0.6,0.75,0.7,1.0,improved
 Leave Policy Detail,Verlofbeleidsdetail,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Leave Policy Details,Verlofbeleidsdetails,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Leave Policy: {0} already assigned for Employee {1} for period {2} to {3},Verlofbeleid {0} is al toegewezen aan werknemer {1} voor de periode {2} tot {3}.,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
@@ -13280,20 +13280,20 @@ Leaves per Year,Verlofdagen per jaar,reviewed,hrms,0.87,0.8,0.85,0.85,1.0,1.0,ok
 Leaves to Adjust,Te corrigeren verlof,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Leaves you can avail against a holiday you worked on. You can claim Compensatory Off Leave using Compensatory Leave Request. Click {0} to know more,Verlof dat u kunt opnemen als compensatie voor een feestdag waarop u heeft gewerkt. U kunt compensatieverlof aanvragen via een compensatieverlofaanvraag. Klik op {0} voor meer informatie.,reviewed,hrms,0.83,0.8,0.8,0.8,0.85,1.0,ok
 Lifecycle,Levenscyclus,reviewed,hrms,0.91,0.85,0.9,0.9,1.0,1.0,ok
-Lime,Limoen,reviewed,hrms,0.7,0.55,0.7,0.7,1.0,1.0,review
+Lime,Limoengroen,reviewed,hrms,0.82,0.55,0.7,0.7,1.0,1.0,improved
 Limits,Limieten,reviewed,hrms,0.91,0.85,0.9,0.9,1.0,1.0,ok
 Link the cycle and tag KRA to your goal to update the appraisal's goal score based on the goal progress,Koppel de cyclus en de KRA-tag aan uw doelstelling om de doelstellingsscore van de beoordeling bij te werken op basis van de voortgang.,reviewed,hrms,0.82,0.8,0.75,0.8,0.85,1.0,ok
 Linked Project {} and Tasks deleted.,Gekoppeld project {} en taken zijn verwijderd.,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Loan Account,Leningrekening,reviewed,hrms,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Loan Product,Leningproduct,reviewed,hrms,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Loan Repayment,Leningaflossing,reviewed,hrms,0.85,0.85,0.75,0.85,0.9,1.0,ok
-Loan Repayment Entry,Leningaflossing boeking,reviewed,hrms,0.73,0.7,0.65,0.7,0.8,1.0,review
+Loan Repayment Entry,Leningaflossingspost,reviewed,hrms,0.84,0.7,0.65,0.7,0.8,1.0,improved
 Loan cannot be repayed from salary for Employee {0} because salary is processed in currency {1},De lening kan niet via het salaris worden afgelost voor werknemer {0} omdat het salaris wordt verwerkt in valuta {1}.,reviewed,hrms,0.86,0.85,0.8,0.85,0.85,1.0,ok
 Locating...,Locatie bepalen...,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Location / Device ID,Locatie / apparaat-ID,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Lodging Required,Verblijf vereist,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Log Out,Uitloggen,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Log Type is required for check-ins falling in the shift: {0}.,Het logtype is verplicht voor inregistraties die vallen binnen dienst: {0}.,reviewed,hrms,0.78,0.75,0.7,0.75,0.8,1.0,review
+Log Type is required for check-ins falling in the shift: {0}.,Logtype is verplicht voor inchecks die vallen binnen dienst: {0}.,reviewed,hrms,0.83,0.75,0.7,0.75,0.8,1.0,improved
 Login Failed,Aanmelden mislukt,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Login to Frappe HR,Aanmelden bij Frappe HR,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Longitude: {0}°,Lengtegraad: {0}°,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
@@ -13306,12 +13306,12 @@ Manual Rating,Handmatige beoordeling,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,o
 Manually,Handmatig,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Mar,Mrt,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Mark Attendance,Aanwezigheid registreren,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Mark Auto Attendance on Holidays,Automatische aanwezigheidsregistratie op feestdagen,reviewed,hrms,0.78,0.75,0.7,0.75,0.85,1.0,review
+Mark Auto Attendance on Holidays,Automatisch aanwezigheid registreren op feestdagen,reviewed,hrms,0.84,0.75,0.7,0.75,0.85,1.0,improved
 Mark as Completed,Markeren als afgerond,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Mark as In Progress,Markeren als in uitvoering,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Mark as {0},Markeren als {0},reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Mark attendance as {0} for {1} on selected dates?,Aanwezigheid registreren als {0} voor {1} op geselecteerde datums?,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Mark attendance based on 'Employee Checkin' for Employees assigned to this shift.,Aanwezigheid registreren op basis van 'Werknemer inregistratie' voor werknemers die zijn toegewezen aan deze dienst.,reviewed,hrms,0.77,0.75,0.7,0.75,0.8,1.0,review
+Mark attendance based on 'Employee Checkin' for Employees assigned to this shift.,Aanwezigheid registreren op basis van 'Medewerker inchecken' voor medewerkers die zijn toegewezen aan deze dienst.,reviewed,hrms,0.84,0.75,0.7,0.75,0.8,1.0,improved
 Mark attendance for existing check-in/out logs before changing shift settings,Registreer de aanwezigheid voor bestaande in- en uitregistraties voordat u de dienstinstellingen wijzigt.,reviewed,hrms,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Mark {0} as Completed?,{0} markeren als afgerond?,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Mark {0} {1} as {2}?,{0} {1} markeren als {2}?,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
@@ -13330,7 +13330,7 @@ Max working hours against Timesheet,Maximale werkuren per urenregistratie,review
 Maximum Benefit Amount,Maximaal vergoedingsbedrag,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Maximum Carry Forwarded Leaves,Maximaal mee te nemen verlofdagen,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Maximum Consecutive Leaves Allowed,Maximaal toegestane aaneengesloten verlofdagen,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Maximum Consecutive Leaves Exceeded,Maximaal aantal aaneengesloten verlofdagen overschreden.,reviewed,hrms,0.76,0.75,0.7,0.75,0.7,1.0,review
+Maximum Consecutive Leaves Exceeded,Maximum aaneengesloten verlofdagen overschreden,reviewed,hrms,0.84,0.75,0.7,0.75,0.7,1.0,improved
 Maximum Encashable Leaves,Maximaal uitbetaalbare verlofdagen,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Maximum Exempted Amount,Maximaal vrijgesteld bedrag,reviewed,hrms,0.84,0.8,0.8,0.75,1.0,1.0,ok
 Maximum Exemption Amount,Maximaal vrijstellingsbedrag,reviewed,hrms,0.84,0.8,0.8,0.8,1.0,1.0,ok
@@ -13343,7 +13343,7 @@ Maximum leave allowed in the leave type {0} is {1},Het maximaal toegestane verlo
 May,Mei,reviewed,hrms,0.99,0.95,1.0,1.0,1.0,1.0,ok
 Meal Preference,Maaltijdvoorkeur,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Medical,Medisch,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Mileage,Kilometerstand,reviewed,hrms,0.63,0.55,0.5,0.55,0.9,1.0,review
+Mileage,Kilometervergoeding,reviewed,hrms,0.83,0.55,0.5,0.55,0.9,1.0,improved
 Min Taxable Income,Minimaal belastbaar inkomen,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Minimum Year for Gratuity,Minimaal aantal dienstjaren voor ontslagvergoeding,reviewed,hrms,0.84,0.8,0.8,0.8,0.9,1.0,ok
 Minimum working days required since Date of Joining to apply for this leave,Minimumaantal werkdagen vereist vanaf de datum van indiensttreding om dit verlof aan te vragen.,reviewed,hrms,0.83,0.8,0.8,0.8,0.85,1.0,ok
@@ -13370,17 +13370,17 @@ My Advances,Mijn voorschotten,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 My Claims,Mijn declaraties,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 My Leaves,Mijn verlof,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 My Requests,Mijn aanvragen,reviewed,hrms,0.91,0.85,0.9,0.9,1.0,1.0,ok
-Name error,Naamfout,reviewed,hrms,0.77,0.7,0.75,0.75,0.9,1.0,review
+Name error,Naamfout,reviewed,hrms,0.85,0.7,0.75,0.75,0.9,1.0,improved
 Name of Organizer,Naam van de organisator,reviewed,hrms,0.93,0.9,0.95,0.9,1.0,1.0,ok
 Net Pay,Nettoloon,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Net Pay (Company Currency),Nettoloon (bedrijfsvaluta),reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Net Pay Info,Informatie nettoloon,reviewed,hrms,0.79,0.75,0.75,0.75,0.9,1.0,review
+Net Pay Info,Nettoloongegevens,reviewed,hrms,0.88,0.75,0.75,0.75,0.9,1.0,improved
 Net Pay cannot be less than 0,Nettoloon kan niet minder dan 0 zijn,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Net Salary Amount,Nettosalarisbedrag,reviewed,hrms,0.77,0.75,0.65,0.75,0.8,1.0,review
+Net Salary Amount,Nettosalarisbedrag,reviewed,hrms,0.87,0.75,0.65,0.75,0.8,1.0,improved
 Net pay cannot be negative,Nettoloon kan niet negatief zijn,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 New Employee ID,Nieuw werknemersnummer,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 New Expense Item,Nieuwe declaratieregel,reviewed,hrms,0.83,0.8,0.8,0.8,1.0,1.0,ok
-New Expense Tax,Nieuwe declaratiebelasting,reviewed,hrms,0.74,0.7,0.65,0.7,0.9,1.0,review
+New Expense Tax,Nieuwe onkostenbelasting,reviewed,hrms,0.82,0.7,0.65,0.7,0.9,1.0,improved
 New Feedback,Nieuwe feedback,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 New Hires (This Month),Nieuwe medewerkers (deze maand),reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 New Leave(s) Allocated,Nieuw verlof toegewezen,reviewed,hrms,0.87,0.85,0.85,0.85,1.0,0.9,ok
@@ -13403,13 +13403,13 @@ No Salary Structure assigned to Employee {0} on the given date {1},Geen salariss
 No Salary Structures,Geen salarisstructuren,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 No Shift Requests Selected,Geen dienstaanvragen geselecteerd,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 No Staffing Plans found for this Designation,Geen personeelsplannen gevonden voor deze functiebenaming,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
-No active Salary Structure Assignment found for employee {0} with salary structure {1} on or after arrear start date {2},Geen actieve salarisstructuurtoewijzing gevonden voor werknemer {0} met salarisstructuur {1} op of na de begindatum van de nabetaling {2},reviewed,hrms,0.79,0.8,0.65,0.75,0.85,1.0,review
+No active Salary Structure Assignment found for employee {0} with salary structure {1} on or after arrear start date {2},Geen actieve salarisstructuurtoewijzing gevonden voor werknemer {0} met salarisstructuur {1} op of na de nabetalingsbegindatum {2},reviewed,hrms,0.86,0.8,0.65,0.75,0.85,1.0,improved
 No active employee found associated with the email ID {0}. Try logging in with your employee email ID or contact your HR manager for access.,Geen actieve werknemer gevonden gekoppeld aan het e-mailadres {0}. Probeer in te loggen met uw werknemers-e-mailadres of neem contact op met uw HR Manager voor toegang.,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 No active or default Salary Structure found for employee {0} for the given dates,Geen actieve of standaard salarisstructuur gevonden voor werknemer {0} voor de opgegeven datums,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 No additional expenses has been added,Er zijn geen aanvullende declaraties toegevoegd,reviewed,hrms,0.85,0.8,0.85,0.8,1.0,1.0,ok
 No advances found,Geen voorschotten gevonden,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-No applicable Earning component found in last salary slip for Gratuity Rule: {0},Geen toepasselijk inkomstencomponent gevonden in de laatste salarisstrook voor gratificatieregel: {0},reviewed,hrms,0.76,0.75,0.65,0.7,0.85,1.0,review
-No applicable Earning components found for Gratuity Rule: {0},Geen toepasselijke inkomstencomponenten gevonden voor gratificatieregel: {0},reviewed,hrms,0.76,0.75,0.65,0.7,0.85,1.0,review
+No applicable Earning component found in last salary slip for Gratuity Rule: {0},Geen toepasselijk beloningscomponent gevonden in de laatste salarisstrook voor gratificatieregel: {0},reviewed,hrms,0.85,0.75,0.65,0.7,0.85,1.0,improved
+No applicable Earning components found for Gratuity Rule: {0},Geen toepasselijke beloningscomponenten gevonden voor gratificatieregel: {0},reviewed,hrms,0.85,0.75,0.65,0.7,0.85,1.0,improved
 No applicable slab found for the calculation of gratuity amount as per the Gratuity Rule: {0},Geen toepasselijke schijf gevonden voor de berekening van het gratificatiebedrag conform de gratificatieregel: {0},reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 No arrear components found in the existing salary slips.,Geen nabetalingscomponenten gevonden in de bestaande salarisstroken.,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 No arrear components found in the salary slip. Ensure Arrear Component is checked in the Salary Component master.,Geen nabetalingscomponenten gevonden in de salarisstrook. Zorg dat de nabetalingscomponent is aangevinkt in het salariscomponentenstambestand.,reviewed,hrms,0.82,0.8,0.75,0.8,0.9,1.0,ok
@@ -13440,10 +13440,10 @@ No taxes added,Geen belastingen toegevoegd,reviewed,hrms,0.88,0.85,0.85,0.85,1.0
 No valid shift found for log time,Geen geldige dienst gevonden voor de registratietijd,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 No {0} Selected,Geen {0} geselecteerd,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 No {0} added,Geen {0} toegevoegd,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Non Diary,Niet-agenda,reviewed,hrms,0.7,0.65,0.6,0.65,0.8,1.0,review
+Non Diary,Niet-agendapunt,reviewed,hrms,0.8,0.65,0.6,0.65,0.8,1.0,improved
 Non Taxable Earnings,Onbelaste inkomsten,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Non-Billed Hours,Niet-gefactureerde uren,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Non-Billed Hours (NB),Niet-gefactureerde uren (NF),reviewed,hrms,0.73,0.7,0.7,0.65,0.9,0.9,review
+Non-Billed Hours (NB),Niet-factureerbare uren (NF),reviewed,hrms,0.84,0.7,0.7,0.65,0.9,0.9,improved
 Non-Encashable Leaves,Niet-uitbetaalbaar verlof,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Non-Vegetarian,Niet-vegetarisch,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Note: Shift will not be overwritten in existing attendance records,Opmerking: de dienst wordt niet overschreven in bestaande aanwezigheidsrecords,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
@@ -13465,12 +13465,12 @@ OUT,UIT,reviewed,hrms,0.81,0.8,0.75,0.75,1.0,1.0,ok
 Obtained Average Rating,Behaalde gemiddelde beoordeling,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Oct,okt,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Odometer Reading,Kilometerstand,reviewed,hrms,0.93,0.9,0.95,0.9,1.0,1.0,ok
-Odometer Value,Kilometerwaarde,reviewed,hrms,0.7,0.65,0.55,0.65,0.8,1.0,review
+Odometer Value,Kilometerstand,reviewed,hrms,0.92,0.65,0.55,0.65,0.8,1.0,improved
 Off-Shift,Buiten dienst,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Off-shift,Buiten dienst,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Offer Terms,Aanbiedingsvoorwaarden,reviewed,hrms,0.81,0.8,0.75,0.75,0.9,1.0,ok
 On Date,Op datum,reviewed,hrms,0.82,0.75,0.8,0.85,0.9,1.0,ok
-On Duty,In dienst,reviewed,hrms,0.67,0.55,0.65,0.7,0.9,1.0,review
+On Duty,Op post,reviewed,hrms,0.82,0.55,0.65,0.7,0.9,1.0,improved
 On Leave,Met verlof,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Onboarding,Onboarding,reviewed,hrms,0.85,0.85,0.7,0.85,1.0,1.0,ok
 Onboarding Activities,Onboardingactiviteiten,reviewed,hrms,0.81,0.85,0.65,0.8,0.85,1.0,ok
@@ -13479,7 +13479,7 @@ Only Approvers can Approve this Request.,Alleen goedkeurders kunnen dit verzoek 
 Only Completed documents can be submitted,Alleen voltooide documenten kunnen worden ingediend,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
 Only Employee Grievance with status {0} or {1} can be submitted,Alleen werknemersklachten met status {0} of {1} kunnen worden ingediend,reviewed,hrms,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Only Interviewer Are allowed to submit Interview Feedback,Alleen interviewers mogen interviewfeedback indienen,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
-Only Interviews with Cleared or Rejected status can be submitted.,Alleen gesprekken met de status Geslaagd of Afgewezen kunnen worden ingediend.,reviewed,hrms,0.79,0.7,0.8,0.75,0.95,1.0,review
+Only Interviews with Cleared or Rejected status can be submitted.,Alleen sollicitatiegesprekken met de status Goedgekeurd of Afgewezen kunnen worden ingediend.,reviewed,hrms,0.86,0.7,0.8,0.75,0.95,1.0,improved
 Only Leave Applications with status 'Approved' and 'Rejected' can be submitted,Alleen verlofaanvragen met de status 'Goedgekeurd' en 'Afgewezen' kunnen worden ingediend,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
 Only Shift Request with status 'Approved' and 'Rejected' can be submitted,Alleen dienstaanvragen met de status 'Goedgekeurd' en 'Afgewezen' kunnen worden ingediend,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
 Only expired allocation can be cancelled,Alleen verlopen toewijzingen kunnen worden geannuleerd,reviewed,hrms,0.88,0.85,0.85,0.85,0.95,1.0,ok
@@ -13491,7 +13491,7 @@ Open Feedback,Open feedback,reviewed,hrms,0.87,0.85,0.85,0.85,1.0,1.0,ok
 Open Now,Nu openen,reviewed,hrms,0.83,0.8,0.8,0.8,1.0,1.0,ok
 Opening closed.,Vacature gesloten.,reviewed,hrms,0.91,0.9,0.9,0.85,1.0,1.0,ok
 Optional Holiday List not set for leave period {0},Optionele verloflijst niet ingesteld voor verlofperiode {0},reviewed,hrms,0.83,0.85,0.75,0.8,0.9,1.0,ok
-Optional Leaves are holidays that Employees can choose to avail from a list of holidays published by the company.,Optionele verlofdagen zijn feestdagen die werknemers kunnen kiezen uit een lijst van feestdagen die door het bedrijf is gepubliceerd.,reviewed,hrms,0.77,0.75,0.7,0.75,0.8,1.0,review
+Optional Leaves are holidays that Employees can choose to avail from a list of holidays published by the company.,Optionele verlofdagen zijn vrije dagen die medewerkers zelf kunnen kiezen uit een door het bedrijf gepubliceerde lijst.,reviewed,hrms,0.88,0.75,0.7,0.75,0.8,1.0,improved
 Organizational Chart,Organogram,reviewed,hrms,0.97,0.95,1.0,0.95,1.0,1.0,ok
 Other Taxes and Charges,Overige belastingen en heffingen,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Out Time,Vertrektijd,reviewed,hrms,0.91,0.9,0.9,0.85,1.0,1.0,ok
@@ -13510,7 +13510,7 @@ Overtime Duration for {0} is greater than Maximum Overtime Hours Allowed,De over
 Overtime Salary Component,Salariscomponent overwerk,reviewed,hrms,0.83,0.85,0.75,0.8,0.9,1.0,ok
 Overtime Slip Creation Error for {0},Fout bij aanmaken overwerkbon voor {0},reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Overtime Slip Creation Failed,Aanmaken overwerkbon mislukt,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
-Overtime Slip Step,Stap overwerkbon,reviewed,hrms,0.79,0.8,0.7,0.75,0.85,1.0,review
+Overtime Slip Step,Overwerkbonstap,reviewed,hrms,0.83,0.8,0.7,0.75,0.85,1.0,improved
 Overtime Slip Submission Error for {0},Fout bij indienen overwerkbon voor {0},reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Overtime Slip Submission Failed,Indienen overwerkbon mislukt,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Overtime Slip Submitted,Overwerkbon ingediend,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
@@ -13536,7 +13536,7 @@ Partly Claimed and Returned,Gedeeltelijk gedeclareerd en terugbetaald,reviewed,h
 Password Policy,Wachtwoordbeleid,reviewed,hrms,0.97,0.95,1.0,0.95,1.0,1.0,ok
 Password policy cannot contain spaces or simultaneous hyphens. The format will be restructured automatically,Het wachtwoordbeleid mag geen spaties of opeenvolgende koppeltekens bevatten. De opmaak wordt automatisch aangepast,reviewed,hrms,0.87,0.85,0.85,0.85,0.95,1.0,ok
 Password policy for Salary Slips is not set,Wachtwoordbeleid voor salarisstroken is niet ingesteld,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
-Pay Rate Multipliers,Loontarief vermenigvuldigers,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
+Pay Rate Multipliers,Loontariefvermenigvuldigers,reviewed,hrms,0.82,0.75,0.65,0.7,0.8,1.0,improved
 Pay Via Payment Entry,Betalen via betalingsboeking,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Pay via Salary Slip,Betalen via salarisstrook,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
 Payable Account is mandatory to submit an Expense Claim,Een te betalen rekening is verplicht om een declaratie in te dienen,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
@@ -13544,7 +13544,7 @@ Payment Account is mandatory,Betalingsrekening is verplicht,reviewed,hrms,0.89,0
 Payment Date,Betaaldatum,reviewed,hrms,0.97,0.95,1.0,0.95,1.0,1.0,ok
 Payment Days,Betaaldagen,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Payment Days Calculation Help,Help bij berekening betaaldagen,reviewed,hrms,0.83,0.85,0.75,0.8,0.9,1.0,ok
-Payment Days Dependency,Afhankelijkheid betaaldagen,reviewed,hrms,0.78,0.8,0.7,0.75,0.85,1.0,review
+Payment Days Dependency,Betaaldagenafhankelijkheid,reviewed,hrms,0.84,0.8,0.7,0.75,0.85,1.0,improved
 Payment Days calculations are based on these Payroll Settings,Berekeningen van betaaldagen zijn gebaseerd op deze salarisadministratie-instellingen,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Payment and Accounting,Betaling en boekhouding,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Payment of {0} from {1} to {2},Betaling van {0} van {1} tot {2},reviewed,hrms,0.85,0.85,0.8,0.85,0.9,1.0,ok
@@ -13552,50 +13552,50 @@ Payout,Uitbetaling,reviewed,hrms,0.97,0.95,1.0,0.95,1.0,1.0,ok
 Payout Method,Uitbetalingsmethode,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Payout Unclaimed Amount in Final Payroll Cycle,Niet-geclaimd bedrag uitbetalen in laatste salarisronde,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Payroll,Salarisadministratie,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Payroll Based On,Salarisadministratie gebaseerd op,reviewed,hrms,0.79,0.8,0.7,0.8,0.85,1.0,review
-Payroll Correction Child,Salarisadministratie correctieregel,reviewed,hrms,0.78,0.8,0.7,0.75,0.85,1.0,review
-Payroll Cost Centers,Salarisadministratie kostenplaatsen,reviewed,hrms,0.78,0.8,0.7,0.75,0.85,1.0,review
+Payroll Based On,Salarisverwerking op basis van,reviewed,hrms,0.85,0.8,0.7,0.8,0.85,1.0,improved
+Payroll Correction Child,Looncorrectieregel,reviewed,hrms,0.85,0.8,0.7,0.75,0.85,1.0,improved
+Payroll Cost Centers,Loonkostenplaatsen,reviewed,hrms,0.86,0.8,0.7,0.75,0.85,1.0,improved
 Payroll Date,Salarisdatum,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Payroll Employee Detail,Salarisadministratie werknemerdetail,reviewed,hrms,0.74,0.75,0.65,0.7,0.8,1.0,review
+Payroll Employee Detail,Werknemergegevens salarisverwerking,reviewed,hrms,0.85,0.75,0.65,0.7,0.8,1.0,improved
 Payroll Entry cancellation is queued. It may take a few minutes,Annulering van de salarisrun staat in de wachtrij. Dit kan enkele minuten duren.,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Payroll Frequency,Salarisfrequentie,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Payroll Info,Salarisadministratie info,reviewed,hrms,0.78,0.8,0.7,0.75,0.85,1.0,review
-Payroll Number,Salarisadministratienummer,reviewed,hrms,0.78,0.8,0.7,0.75,0.85,1.0,review
+Payroll Info,Salarisgegevens,reviewed,hrms,0.87,0.8,0.7,0.75,0.85,1.0,improved
+Payroll Number,Loonadministratienummer,reviewed,hrms,0.86,0.8,0.7,0.75,0.85,1.0,improved
 Payroll Payable Account,Te betalen salarisrekening,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Payroll Period Date,Salarisperiodedatum,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Payroll Periods,Salarisperiodes,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Payroll Reports,Salarisadministratie rapporten,reviewed,hrms,0.78,0.8,0.7,0.75,0.85,1.0,review
-Payroll Settings,Salarisadministratie instellingen,reviewed,hrms,0.78,0.8,0.7,0.75,0.85,1.0,review
+Payroll Reports,Loonadministratierapporten,reviewed,hrms,0.86,0.8,0.7,0.75,0.85,1.0,improved
+Payroll Settings,Loonadministratie-instellingen,reviewed,hrms,0.86,0.8,0.7,0.75,0.85,1.0,improved
 Payroll date can not be greater than employee's relieving date.,De salarisdatum mag niet later zijn dan de uitdiensttredingsdatum van de werknemer.,reviewed,hrms,0.85,0.85,0.8,0.85,0.9,1.0,ok
-Payroll date can not be less than employee's joining date.,De salarisdatum mag niet eerder zijn dan de indienststredingsdatum van de werknemer.,reviewed,hrms,0.78,0.8,0.75,0.8,0.7,1.0,review
+Payroll date can not be less than employee's joining date.,De salarisdatum mag niet voor de indienstredingsdatum van de medewerker liggen.,reviewed,hrms,0.88,0.8,0.75,0.8,0.7,1.0,improved
 Payroll date cannot be in the past. This is to ensure that claims are made for the current or future payroll cycles.,De salarisdatum mag niet in het verleden liggen. Dit zorgt ervoor dat declaraties worden ingediend voor de huidige of toekomstige salarisperiodes.,reviewed,hrms,0.89,0.9,0.85,0.85,0.95,1.0,ok
-Payroll date is mandatory for non-recurring type additional salaries.,De salarisdatum is verplicht voor aanvullende salarissen van het niet-terugkerende type.,reviewed,hrms,0.79,0.8,0.7,0.8,0.85,0.9,review
+Payroll date is mandatory for non-recurring type additional salaries.,Voor niet-periodieke aanvullende salarissen is de salarisdatum verplicht.,reviewed,hrms,0.86,0.8,0.7,0.8,0.85,0.9,improved
 Pending (unpaid) amount from previous advances,Openstaand (onbetaald) bedrag van eerdere voorschotten,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
-Pending Asset Returns,Openstaande activaretours,reviewed,hrms,0.75,0.75,0.65,0.75,0.85,0.9,review
+Pending Asset Returns,Te retourneren bedrijfsmiddelen,reviewed,hrms,0.85,0.75,0.65,0.75,0.85,0.9,improved
 Pending FnF,Openstaande eindafrekening,reviewed,hrms,0.83,0.85,0.8,0.8,0.9,0.9,ok
 Pending Interviews,Openstaande sollicitatiegesprekken,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Pending Questionnaires,Openstaande vragenlijsten,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Percent Deduction,Procentuele inhouding,reviewed,hrms,0.85,0.85,0.8,0.85,0.9,0.9,ok
-Permanently cancel {0},Definitief annuleren {0},reviewed,hrms,0.73,0.75,0.65,0.75,0.7,0.9,review
-Permanently submit {0},Definitief indienen {0},reviewed,hrms,0.73,0.75,0.65,0.75,0.7,0.9,review
+Permanently cancel {0},{0} definitief annuleren,reviewed,hrms,0.86,0.75,0.65,0.75,0.7,0.9,improved
+Permanently submit {0},{0} definitief indienen,reviewed,hrms,0.86,0.75,0.65,0.75,0.7,0.9,improved
 Piecework,Stukloon,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,0.95,ok
 Planned number of Positions,Gepland aantal functies,reviewed,hrms,0.86,0.85,0.8,0.85,0.9,0.95,ok
 Please Enable Auto Attendance and complete the setup first.,Schakel eerst automatische aanwezigheidsregistratie in en voltooi de instellingen.,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Please Select Company First,Selecteer eerst een bedrijf,reviewed,hrms,0.89,0.9,0.85,0.9,0.9,0.95,ok
-Please assign a Salary Structure for Employee {0} applicable from or before {1} first,Wijs eerst een salarisstructuur toe aan werknemer {0} die van toepassing is vanaf of voor {1},reviewed,hrms,0.78,0.8,0.7,0.8,0.75,0.9,review
+Please assign a Salary Structure for Employee {0} applicable from or before {1} first,Wijs eerst een salarisstructuur toe aan medewerker {0} die geldt vanaf of vóór {1},reviewed,hrms,0.88,0.8,0.7,0.8,0.75,0.9,improved
 Please check if employee is on leave or attendance with the same status exists for selected day(s).,Controleer of de werknemer met verlof is of dat er al een aanwezigheidsregistratie met dezelfde status bestaat voor de geselecteerde dag(en).,reviewed,hrms,0.85,0.85,0.8,0.85,0.85,0.95,ok
 Please confirm once you have completed your training,Bevestig dit zodra u uw training heeft afgerond,reviewed,hrms,0.83,0.85,0.8,0.8,0.85,0.9,ok
 Please create a new {0} for the date {1} first.,Maak eerst een nieuw {0} aan voor de datum {1}.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
-Please delete the Employee {0} to cancel this document,Verwijder werknemer {0} om dit document te annuleren,reviewed,hrms,0.8,0.8,0.75,0.8,0.8,0.9,review
-Please enable default incoming account before creating Daily Work Summary Group,Schakel het standaard inkomend e-mailaccount in voordat u een dagelijkse werksamenvattinggroep aanmaakt,reviewed,hrms,0.72,0.75,0.65,0.75,0.7,0.85,review
+Please delete the Employee {0} to cancel this document,"Om dit document te annuleren, verwijdert u eerst medewerker {0}",reviewed,hrms,0.86,0.8,0.75,0.8,0.8,0.9,improved
+Please enable default incoming account before creating Daily Work Summary Group,Activeer eerst het standaard inkomende e-mailaccount voordat u een groep voor dagelijkse werksamenvatting aanmaakt,reviewed,hrms,0.86,0.75,0.65,0.75,0.7,0.85,improved
 Please enter the designation,Voer de functiebenaming in,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
 "Please fill in Employee, Posting Date, and Company before fetching overtime details.","Vul werknemer, boekdatum en bedrijf in voordat u de overwerkgegevens ophaalt.",reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
-Please reduce {0} to avoid shift time overlapping with itself,Verlaag {0} om te voorkomen dat de diensttijd zichzelf overlapt,reviewed,hrms,0.79,0.8,0.7,0.8,0.8,0.9,review
+Please reduce {0} to avoid shift time overlapping with itself,Verkort {0} om overlappende diensttijden te voorkomen,reviewed,hrms,0.86,0.8,0.7,0.8,0.8,0.9,improved
 Please see attachment,Zie de bijlage,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Please select Company and Designation,Selecteer een bedrijf en functiebenaming,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Please select Employee,Selecteer een werknemer,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,0.95,ok
 Please select Employee first.,Selecteer eerst een werknemer.,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,0.95,ok
-Please select Filter Based On,Selecteer de filtergrondslag,reviewed,hrms,0.78,0.8,0.7,0.75,0.85,0.9,review
+Please select Filter Based On,Selecteer de filtergrondslag,reviewed,hrms,0.87,0.8,0.7,0.75,0.85,0.9,improved
 Please select From Date and Payroll Frequency first,Selecteer eerst de begindatum en de salarisfrequentie,reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok
 Please select From Date.,Selecteer een begindatum.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Please select Shift Schedule and assignment date(s).,Selecteer een dienstrooster en toewijzingsdatum(s).,reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok
@@ -13618,16 +13618,16 @@ Please select the attendance status.,Selecteer de aanwezigheidsstatus.,reviewed,
 Please select the employees you want to mark attendance for.,Selecteer de werknemers voor wie u aanwezigheid wilt registreren.,reviewed,hrms,0.85,0.85,0.8,0.85,0.85,0.95,ok
 Please select the salary slips to email,Selecteer de loonstroken die u per e-mail wilt verzenden,reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok
 "Please set ""Default Payroll Payable Account"" in Company Defaults","Stel ""Standaard te betalen salarisrekening"" in bij de bedrijfsstandaarden",reviewed,hrms,0.82,0.85,0.75,0.8,0.85,0.9,ok
-Please set Basic and HRA component in Company {0},Stel de Basis- en HRA-component in voor bedrijf {0},reviewed,hrms,0.79,0.8,0.7,0.8,0.8,0.9,review
-Please set Earning Component for Leave type: {0}.,Stel het inkomstencomponent in voor verloftype: {0}.,reviewed,hrms,0.79,0.8,0.7,0.8,0.8,0.9,review
-Please set Payroll based on in Payroll settings,Stel de salarisgrondslag in bij de salarisadministratie-instellingen,reviewed,hrms,0.79,0.8,0.7,0.8,0.8,0.9,review
+Please set Basic and HRA component in Company {0},Stel de Basis- en HRA-component in voor bedrijf {0},reviewed,hrms,0.87,0.8,0.7,0.8,0.8,0.9,improved
+Please set Earning Component for Leave type: {0}.,Stel het beloningscomponent in voor verloftype: {0}.,reviewed,hrms,0.86,0.8,0.7,0.8,0.8,0.9,improved
+Please set Payroll based on in Payroll settings,Stel de salarisgrondslag in via de salarisadministratie-instellingen,reviewed,hrms,0.87,0.8,0.7,0.8,0.8,0.9,improved
 Please set Relieving Date for employee: {0},Stel de uitdiensttredingsdatum in voor werknemer: {0},reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok
 Please set a date range less than 90 days.,Stel een datumreeks van minder dan 90 dagen in.,reviewed,hrms,0.85,0.85,0.8,0.85,0.85,0.95,ok
 Please set account in Salary Component {0},Stel een rekening in bij salariscomponent {0},reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok
-Please set default template for Leave Approval Notification in HR Settings.,Stel een standaard Template in voor de verlofgoedkeuringsmelding bij HR-instellingen.,reviewed,hrms,0.72,0.75,0.65,0.75,0.7,0.85,review
-Please set default template for Leave Status Notification in HR Settings.,Stel een standaard Template in voor de verlofstatusmelding bij HR-instellingen.,reviewed,hrms,0.72,0.75,0.65,0.75,0.7,0.85,review
-Please set the Advance Account {0} or in {1},Stel de voorschotrekening {0} of in {1} in,reviewed,hrms,0.68,0.7,0.6,0.7,0.65,0.85,review
-Please set the Appraisal Template for all the {0} or select the template in the Employees table below.,Stel het beoordelings-Template in voor alle {0} of selecteer het Template in de werknemerstabel hieronder.,reviewed,hrms,0.68,0.7,0.6,0.7,0.65,0.85,review
+Please set default template for Leave Approval Notification in HR Settings.,Stel het standaard meldingssjabloon in voor verlofgoedkeuring via HR-instellingen.,reviewed,hrms,0.87,0.75,0.65,0.75,0.7,0.85,improved
+Please set default template for Leave Status Notification in HR Settings.,Stel het standaard meldingssjabloon in voor verlofstatus via HR-instellingen.,reviewed,hrms,0.87,0.75,0.65,0.75,0.7,0.85,improved
+Please set the Advance Account {0} or in {1},Stel de voorschotrekening in via {0} of {1},reviewed,hrms,0.83,0.7,0.6,0.7,0.65,0.85,improved
+Please set the Appraisal Template for all the {0} or select the template in the Employees table below.,"Stel voor alle {0} een beoordelingssjabloon in, of kies een sjabloon in de tabel Medewerkers hieronder.",reviewed,hrms,0.87,0.7,0.6,0.7,0.65,0.85,improved
 Please set the Company,Stel het bedrijf in,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,0.95,ok
 Please set the Date Of Joining for employee {0},Stel de indienstredingsdatum in voor werknemer {0},reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok
 Please set the Holiday List.,Stel de verlofkalender in.,reviewed,hrms,0.85,0.85,0.8,0.85,0.85,0.95,ok
@@ -13637,13 +13637,13 @@ Please set {0} and {1} in {2}.,Stel {0} en {1} in bij {2}.,reviewed,hrms,0.89,0.
 Please set {0} for Employee {1},Stel {0} in voor werknemer {1},reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Please set {0} for the Employee: {1},Stel {0} in voor de werknemer: {1},reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Please set {0}.,Stel {0} in.,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
-Please setup Employee Naming System in Human Resource > HR Settings,Stel het naamgevingssysteem voor werknemers in via Human Resource > HR-instellingen,reviewed,hrms,0.8,0.8,0.75,0.8,0.8,0.9,review
+Please setup Employee Naming System in Human Resource > HR Settings,Stel het naamgevingssysteem voor medewerkers in via Human Resources > HR-instellingen,reviewed,hrms,0.88,0.8,0.75,0.8,0.8,0.9,improved
 Please setup numbering series for Attendance via Setup > Numbering Series,Stel de nummerreeks voor aanwezigheidsregistratie in via Setup > Nummerreeksen,reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok
-Please share your feedback to the training by clicking on 'Training Feedback' and then 'New',Deel uw feedback over de training door op 'Training Feedback' te klikken en vervolgens op 'Nieuw',reviewed,hrms,0.8,0.8,0.75,0.8,0.8,0.9,review
+Please share your feedback to the training by clicking on 'Training Feedback' and then 'New',Deel uw feedback over de training door op 'Trainingsfeedback' te klikken en vervolgens op 'Nieuw',reviewed,hrms,0.86,0.8,0.75,0.8,0.8,0.9,improved
 Please specify the job applicant to be updated.,Geef de sollicitant op die bijgewerkt moet worden.,reviewed,hrms,0.85,0.85,0.8,0.85,0.85,0.95,ok
 "Please specify {0} and {1} (if any), for the correct tax calculation in future salary slips.",Geef {0} en {1} op (indien van toepassing) voor de correcte belastingberekening op toekomstige loonstroken.,reviewed,hrms,0.85,0.85,0.8,0.85,0.85,0.95,ok
-Please submit the {0} before marking the cycle as Completed,Dien {0} in voordat u de cyclus als Voltooid markeert,reviewed,hrms,0.8,0.8,0.75,0.8,0.8,0.9,review
-Please update your status for this training event,Werk uw status bij voor dit trainingsevenement,reviewed,hrms,0.8,0.8,0.75,0.8,0.8,0.9,review
+Please submit the {0} before marking the cycle as Completed,Dien {0} in voordat u de cyclus als Voltooid markeert,reviewed,hrms,0.87,0.8,0.75,0.8,0.8,0.9,improved
+Please update your status for this training event,Werk uw status bij voor dit trainingsevenement,reviewed,hrms,0.87,0.8,0.75,0.8,0.8,0.9,improved
 Posted On,Geplaatst op,reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
 Posting date,Boekdatum,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,0.95,ok
 Preferred Area for Lodging,Gewenste verblijfslocatie,reviewed,hrms,0.8,0.8,0.75,0.8,0.85,0.9,ok
@@ -13651,17 +13651,17 @@ Present,Aanwezig,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,0.95,ok
 Present Records,Aanwezigheidsregistraties,reviewed,hrms,0.83,0.85,0.8,0.8,0.85,0.9,ok
 Prevent self approval for expense claims even if user has permissions,Voorkom zelfgoedkeuring van declaraties ook als de gebruiker de benodigde rechten heeft,reviewed,hrms,0.85,0.85,0.8,0.85,0.85,0.95,ok
 Prevent self approval for leaves even if user has permissions,Voorkom zelfgoedkeuring van verlofaanvragen ook als de gebruiker de benodigde rechten heeft,reviewed,hrms,0.85,0.85,0.8,0.85,0.85,0.95,ok
-Preview Salary Slip,Salarisstrook voorvertonen,reviewed,hrms,0.74,0.75,0.65,0.75,0.8,0.9,review
+Preview Salary Slip,Salarisstrook bekijken,reviewed,hrms,0.85,0.75,0.65,0.75,0.8,0.9,improved
 Principal Amount,Hoofdsom,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,0.95,ok
 Printed On {0},Afgedrukt op {0},reviewed,hrms,0.89,0.9,0.85,0.85,0.9,0.95,ok
-Privilege Leave,Bijzonder verlof,reviewed,hrms,0.77,0.8,0.7,0.75,0.85,0.9,review
+Privilege Leave,Bijzonder verlof,reviewed,hrms,0.84,0.8,0.7,0.75,0.85,0.9,improved
 Probation,Proeftijd,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,0.95,ok
-Probationary Period,Proeftijdperiode,reviewed,hrms,0.78,0.8,0.7,0.8,0.8,0.9,review
+Probationary Period,Proeftijd,reviewed,hrms,0.9,0.8,0.7,0.8,0.8,0.9,improved
 Process Attendance After,Aanwezigheid verwerken na,reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok
-Process Payroll Accounting Entry based on Employee,Salarisadministratie boeking verwerken op basis van werknemer,reviewed,hrms,0.68,0.7,0.6,0.7,0.65,0.85,review
+Process Payroll Accounting Entry based on Employee,Salarisboeking verwerken per medewerker,reviewed,hrms,0.86,0.7,0.6,0.7,0.65,0.85,improved
 Process Requests,Aanvragen verwerken,reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok
 Process Shift Requests,Dienstverzoeken verwerken,reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok
-Process leave encashment via a separate Payment Entry instead of Salary Slip,Verlofuitbetaling verwerken via een aparte betalingsboeking in plaats van salarisstrook,reviewed,hrms,0.79,0.8,0.7,0.8,0.8,0.9,review
+Process leave encashment via a separate Payment Entry instead of Salary Slip,Verlofuitbetaling apart boeken via Betalingsboeking in plaats van Salarisstrook,reviewed,hrms,0.86,0.8,0.7,0.8,0.8,0.9,improved
 Process {0} Shift Request(s) as <b>{1}</b>?,{0} dienstverzoek(en) verwerken als <b>{1}</b>?,reviewed,hrms,0.85,0.85,0.8,0.85,0.85,0.95,ok
 Processing Requests,Aanvragen worden verwerkt,reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok
 Processing Requests...,Aanvragen worden verwerkt...,reviewed,hrms,0.84,0.85,0.8,0.85,0.85,0.9,ok

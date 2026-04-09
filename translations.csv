@@ -10363,14 +10363,14 @@ Thank you for your interest in subscribing to our updates,Dank u voor uw interes
 Thank you for your message,Dank u voor uw bericht,reviewed,frappe,0.94,0.9,0.95,0.9,1.0,1.0,ok
 The 'From Package No.' field must neither be empty nor it's value less than 1.,Het &#39;Van pakketnummer&#39; veld mag niet leeg zijn of de waarde is kleiner dan 1.,reviewed,erpnext,0.52,0.5,0.4,0.5,0.5,0.9,review
 "The Access to Request for Quotation From Portal is Disabled. To Allow Access, Enable it in Portal Settings.","De toegang tot offerteaanvraag vanuit de portal is uitgeschakeld. Om toegang toe te staan, schakelt u het in in Portal-instellingen.",reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-"The account head under Liability or Equity, in which Profit/Loss will be booked","De rekening hoofd onder Aansprakelijkheid of Equity, waarbij winst / verlies zal worden geboekt",reviewed,erpnext,0.4,0.4,0.3,0.4,0.4,0.8,rewrite
+"The account head under Liability or Equity, in which Profit/Loss will be booked","De grootboekrekening onder Vreemd vermogen of Eigen vermogen, waarop winst/verlies wordt geboekt",reviewed,erpnext,0.84,0.4,0.3,0.4,0.4,0.8,improved
 The accounts are set by the system automatically but do confirm these defaults,"De accounts worden automatisch door het systeem ingesteld, maar bevestig deze standaardinstellingen",reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 The amount of {0} set in this payment request is different from the calculated amount of all payment plans: {1}. Make sure this is correct before submitting the document.,"Het bedrag van {0} dat in dit betalingsverzoek is ingesteld, wijkt af van het berekende bedrag van alle betalingsplannen: {1}. Controleer of dit klopt voordat u het document verzendt.",reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 "The application has been updated to a new version, please refresh this page","De applicatie is bijgewerkt naar een nieuwe versie, gelieve deze pagina te vernieuwen",reviewed,frappe,0.87,0.85,0.8,0.9,0.9,1.0,ok
 The attachments could not be correctly linked to the new document,De bijlagen kunnen niet correct worden gekoppeld aan het nieuwe document,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 The Auto Repeat for this document has been disabled.,De automatische herhaling voor dit document is uitgeschakeld.,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 The BOM which will be replaced,De Stuklijst die zal worden vervangen,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
-The Brand,De Brand,reviewed,erpnext,0.23,0.2,0.1,0.1,0.5,0.8,rewrite
+The Brand,Het merk,reviewed,erpnext,0.88,0.2,0.1,0.1,0.5,0.8,improved
 The Campaign '{0}' already exists for the {1} '{2}',De campagne &#39;{0}&#39; bestaat al voor de {1} &#39;{2}&#39;,reviewed,erpnext,0.6,0.6,0.5,0.6,0.6,0.9,review
 The column {0} has {1} different date formats. Automatically setting {2} as the default format as it is the most common. Please change other values in this column to this format.,"De kolom {0} heeft {1} verschillende datumnotaties. Automatisch instellen van {2} als het standaardformaat, aangezien dit het meest voorkomt. Verander a.u.b. andere waarden in deze kolom in dit formaat.",reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
 The comment cannot be empty,De opmerking mag niet leeg zijn,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
@@ -10381,7 +10381,7 @@ The document could not be correctly assigned,Het document kan niet correct worde
 The document has been assigned to {0},Het document is toegewezen aan {0},reviewed,frappe,0.98,0.95,1.0,0.95,1.0,1.0,ok
 "The fallback series is ""SO-WOO-"".",De fallback-serie is &quot;SO-WOO-&quot;.,reviewed,erpnext,0.61,0.6,0.5,0.6,0.6,0.9,review
 The field Asset Account cannot be blank,Het veld Activa-account mag niet leeg zijn,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
-The field Equity/Liability Account cannot be blank,Het veld Equity / Liability Account mag niet leeg zijn,reviewed,erpnext,0.42,0.4,0.3,0.4,0.5,0.9,rewrite
+The field Equity/Liability Account cannot be blank,Het veld Eigen vermogen/Vreemd vermogen rekening mag niet leeg zijn,reviewed,erpnext,0.83,0.4,0.3,0.4,0.5,0.9,improved
 The field From Shareholder cannot be blank,Het veld Van Aandeelhouder mag niet leeg zijn,reviewed,erpnext,0.77,0.75,0.7,0.75,0.8,1.0,review
 The field To Shareholder cannot be blank,Het veld Naar aandeelhouder mag niet leeg zijn,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 The fields From Shareholder and To Shareholder cannot be blank,De velden Van Aandeelhouder en Aandeelhouder mogen niet leeg zijn,reviewed,erpnext,0.57,0.55,0.5,0.55,0.6,0.7,review
@@ -10395,9 +10395,9 @@ The following records needs to be created before we can import your file.,De vol
 The following serial numbers were created: <br><br> {0},De volgende serienummers zijn gemaakt: <br><br> {0},reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 The following {0} were created: {1},De volgende {0} zijn gemaakt: {1},reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 The gross weight of the package. Usually net weight + packaging material weight. (for print),Het bruto gewicht van het pakket. Meestal nettogewicht + verpakkingsmateriaal gewicht. (Voor afdrukken),reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
-The holiday on {0} is not between From Date and To Date,De vakantie op {0} is niet tussen Van Datum en To Date,reviewed,erpnext,0.4,0.4,0.3,0.4,0.5,0.8,rewrite
+The holiday on {0} is not between From Date and To Date,De vrije dag op {0} valt niet tussen de begindatum en einddatum,reviewed,erpnext,0.87,0.4,0.3,0.4,0.5,0.8,improved
 The item referenced by {0} - {1} is already invoiced,"Het artikel waarnaar wordt verwezen door {0} - {1}, is al gefactureerd",reviewed,erpnext,0.92,0.9,0.85,0.9,0.95,1.0,ok
-The Item {0} cannot have Batch,De Punt {0} kan niet Batch hebben,reviewed,erpnext,0.15,0.1,0.1,0.1,0.2,0.7,rewrite
+The Item {0} cannot have Batch,Artikel {0} kan niet aan een batch worden gekoppeld,reviewed,erpnext,0.86,0.1,0.1,0.1,0.2,0.7,improved
 The Link specified has either been used before or Invalid,De opgegeven link is eerder gebruikt of ongeldig,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
 The Loyalty Program isn't valid for the selected company,Het loyaliteitsprogramma is niet geldig voor het geselecteerde bedrijf,reviewed,erpnext,0.98,0.95,1.0,0.95,1.0,1.0,ok
 The mapping configuration between two doctypes.,De toewijzingsconfiguratie tussen twee doctypes.,reviewed,frappe,0.88,0.85,0.8,0.85,1.0,1.0,ok
@@ -10405,7 +10405,7 @@ The mapping configuration between two doctypes.,De toewijzingsconfiguratie tusse
 "The meta image is unique image representing the content of the page. Images for this Card should be at least 280px in width, and at least 150px in height.",De meta-afbeelding is een unieke afbeelding die de inhoud van de pagina vertegenwoordigt. Afbeeldingen voor deze kaart moeten minimaal 280 px breed en minimaal 150 px hoog zijn.,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 The minimum distance between rows of plants for optimum growth,De minimale afstand tussen rijen planten voor optimale groei,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 The minimum length between each plant in the field for optimum growth,De minimale lengte tussen elke plant in het veld voor optimale groei,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
-The name of the institute for which you are setting up this system.,De naam van het instituut waarvoor u het opzetten van dit systeem.,reviewed,erpnext,0.33,0.3,0.3,0.5,0.2,0.4,rewrite
+The name of the institute for which you are setting up this system.,De naam van het instituut waarvoor u dit systeem inricht.,reviewed,erpnext,0.87,0.3,0.3,0.5,0.2,0.4,improved
 The name of your company for which you are setting up this system.,De naam van uw bedrijf waar u het systeem voor op zet.,reviewed,erpnext,0.73,0.7,0.7,0.7,0.8,1.0,review
 The name that will appear in Google Calendar,De naam die in Google Agenda wordt weergegeven,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 The net weight of this package. (calculated automatically as sum of net weight of items),Het nettogewicht van dit pakket. (Wordt automatisch berekend als de som van de netto-gewicht van de artikelen),reviewed,erpnext,0.68,0.7,0.6,0.7,0.6,1.0,review
@@ -10428,14 +10428,14 @@ The resource you are looking for is not available,De bron die u zoekt is niet be
 The root account {0} must be a group,Het root-account {0} moet een groep zijn,reviewed,erpnext,0.79,0.8,0.7,0.7,0.8,1.0,review
 The selected BOMs are not for the same item,De geselecteerde stuklijsten zijn niet voor hetzelfde item,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
 The selected change account {} doesn't belongs to Company {}.,De geselecteerde wisselrekening {} behoort niet tot bedrijf {}.,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
-The selected item cannot have Batch,Het geselecteerde item kan niet Batch hebben,reviewed,erpnext,0.48,0.5,0.3,0.5,0.4,0.8,rewrite
+The selected item cannot have Batch,Het geselecteerde artikel kan niet aan een batch worden gekoppeld,reviewed,erpnext,0.85,0.5,0.3,0.5,0.4,0.8,improved
 The selected payment entry should be linked with a creditor bank transaction,De geselecteerde betaling moet worden gekoppeld aan een crediteurenbanktransactie,reviewed,erpnext,0.81,0.8,0.7,0.8,0.8,1.0,ok
 The selected payment entry should be linked with a debtor bank transaction,De geselecteerde betaling moet worden gekoppeld aan een banktransactie met debiteur,reviewed,erpnext,0.72,0.7,0.6,0.7,0.7,1.0,review
 The seller and the buyer cannot be the same,De verkoper en de koper kunnen niet hetzelfde zijn,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 The serial no {0} does not belong to item {1},Het serienummer {0} hoort niet bij artikel {1},reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 The shareholder does not belong to this company,De aandeelhouder behoort niet tot dit bedrijf,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 The shares already exist,De aandelen bestaan al,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
-The shares don't exist with the {0},De shares bestaan niet met de {0},reviewed,erpnext,0.4,0.4,0.3,0.4,0.4,0.7,rewrite
+The shares don't exist with the {0},De aandelen bestaan niet voor {0},reviewed,erpnext,0.84,0.4,0.3,0.4,0.4,0.7,improved
 The site which is consuming your events.,De site die uw gebeurtenissen verwerkt.,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
 The site you want to subscribe to for consuming events.,De site waarop u zich wilt abonneren voor het verwerken van gebeurtenissen.,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
 "The Stock Entry of type 'Manufacture' is known as backflush. Raw materials being consumed to manufacture finished goods is known as backflushing. <br><br> When creating Manufacture Entry, raw-material items are backflushed based on BOM of production item. If you want raw-material items to be backflushed based on Material Transfer entry made against that Work Order instead, then you can set it under this field.","De voorraadinvoer van het type &#39;Fabricage&#39; staat bekend als backflush. Grondstoffen die worden verbruikt om eindproducten te vervaardigen, worden backflushing genoemd.<br><br> Bij het maken van fabricageboeking worden grondstoffenartikelen gebackflusht op basis van de stuklijst van het productieartikel. Als u wilt dat grondstofartikelen worden gebackflusht op basis van de invoer van materiaaloverboeking op basis van die werkorder, dan kunt u dit onder dit veld instellen.",reviewed,erpnext,0.59,0.6,0.5,0.6,0.5,0.9,review
@@ -10481,7 +10481,7 @@ Therapy:,Behandeling:,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 There are active maintenance or repairs against the asset. You must complete all of them before cancelling the asset.,Er zijn actief onderhoud of reparaties aan het activum. U moet ze allemaal invullen voordat u het activum annuleert.,reviewed,erpnext,0.61,0.6,0.5,0.6,0.5,1.0,review
 There are documents which have workflow states that do not exist in this Workflow. It is recommended that you add these states to the Workflow and change their states before removing these states.,Er zijn documenten met werkstroomstatussen die niet in deze werkstroom voorkomen. Het wordt aanbevolen dat u deze staten aan de workflow toevoegt en hun staten wijzigt voordat u deze staten verwijdert.,reviewed,frappe,0.7,0.7,0.6,0.7,0.7,1.0,review
 "There are inconsistencies between the rate, no of shares and the amount calculated","Er zijn inconsistenties tussen de koers, aantal aandelen en het berekende bedrag",reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
-There are no procedure prescribed for,Er is geen procedure voor voorgeschreven,reviewed,erpnext,0.29,0.3,0.2,0.3,0.2,0.5,rewrite
+There are no procedure prescribed for,Er zijn geen procedures voorgeschreven voor,reviewed,erpnext,0.82,0.3,0.2,0.3,0.2,0.5,improved
 There are no Therapies prescribed for Patient {0},Er zijn geen therapieën voorgeschreven voor de patiënt {0},reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 There are some linked records which needs to be created before we can import your file. Do you want to create the following missing records automatically?,Er zijn enkele gekoppelde records die moeten worden gemaakt voordat we uw bestand kunnen importeren. Wilt u automatisch de volgende ontbrekende records maken?,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 There are {0} with the same filters already in the queue:,Er staan al {0} met dezelfde filters in de wachtrij:,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
@@ -10535,13 +10535,13 @@ This document has been modified after the email was sent.,Dit document is gewijz
 This document has been reverted,Dit document is teruggezet,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 "This document is already amended, you cannot ammend it again","Dit document is al gewijzigd, u kunt het niet opnieuw wijzigen",reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.9,ok
 This document is currently queued for execution. Please try again,Dit document is momenteel in de wachtrij voor de uitvoering. Probeer het opnieuw,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,0.9,ok
-This document is over limit by {0} {1} for item {4}. Are you making another {3} against the same {2}?,Dit document is dan limiet van {0} {1} voor punt {4}. Bent u het maken van een andere {3} tegen dezelfde {2}?,reviewed,erpnext,0.37,0.5,0.2,0.3,0.15,0.6,rewrite
-This email is autogenerated,Deze email is autogenerated,reviewed,frappe,0.37,0.5,0.2,0.3,0.2,0.7,rewrite
+This document is over limit by {0} {1} for item {4}. Are you making another {3} against the same {2}?,Dit document overschrijdt de limiet met {0} {1} voor artikel {4}. Maakt u nog een {3} aan op basis van dezelfde {2}?,reviewed,erpnext,0.87,0.5,0.2,0.3,0.15,0.6,improved
+This email is autogenerated,Deze e-mail is automatisch gegenereerd,reviewed,frappe,0.9,0.5,0.2,0.3,0.2,0.7,improved
 This email was sent to {0},Deze e-mail is verzonden naar {0},reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 This email was sent to {0} and copied to {1},Deze e-mail is verzonden naar {0} en gekopieerd naar {1},reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
 This feature is brand new and still experimental,Deze functie is nieuw en nog steeds experimenteel,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,0.9,ok
-This field will appear only if the fieldname defined here has value OR the rules are true (examples):\nmyfield\neval:doc.myfield=='My Value'\neval:doc.age&gt;18,"Dit veld verschijnt alleen als de veldnaam hier gedefinieerde waarde heeft, of de regels waar zijn (voorbeelden): myfield Eval: doc.myfield == &#39;My Value&#39; eval: doc.age&gt; 18",reviewed,frappe,0.39,0.5,0.3,0.35,0.25,0.5,rewrite
-This form does not have any input,Deze vorm heeft geen inbreng hebben,reviewed,frappe,0.34,0.4,0.2,0.3,0.2,0.7,rewrite
+This field will appear only if the fieldname defined here has value OR the rules are true (examples):\nmyfield\neval:doc.myfield=='My Value'\neval:doc.age&gt;18,"Dit veld verschijnt alleen als het hier opgegeven veld een waarde heeft, of als de regels waar zijn (voorbeelden):\nmyfield\neval:doc.myfield=='My Value'\neval:doc.age&gt;18",reviewed,frappe,0.85,0.5,0.3,0.35,0.25,0.5,improved
+This form does not have any input,Dit formulier bevat geen invoervelden,reviewed,frappe,0.89,0.4,0.2,0.3,0.2,0.7,improved
 This form has been modified after you have loaded it,Dit formulier is gewijzigd nadat u het hebt geladen,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 This format is used if country specific format is not found,Dit formaat wordt gebruikt als landspecifiek formaat niet kan worden gevonden,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,0.9,ok
 This goes above the slideshow.,Dit staat boven de diavoorstelling.,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -10564,7 +10564,7 @@ This is a very common password.,Dit is een veel voorkomende wachtwoord.,reviewed
 This is an automatically generated reply,Dit is een automatisch gegenereerd antwoord,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 This is an example Google SERP Preview.,Dit is een voorbeeld van een Google SERP Preview.,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 This is an example website auto-generated from ERPNext,"Dit is een voorbeeld website, automatisch gegenereerd door ERPNext",reviewed,erpnext,0.88,0.9,0.85,0.85,0.9,0.9,ok
-This is based on logs against this Vehicle. See timeline below for details,Dit is gebaseerd op stammen tegen dit voertuig. Zie tijdlijn hieronder voor meer informatie,reviewed,erpnext,0.45,0.55,0.3,0.4,0.25,0.7,rewrite
+This is based on logs against this Vehicle. See timeline below for details,Dit is gebaseerd op logboekregistraties voor dit voertuig. Zie de tijdlijn hieronder voor meer informatie.,reviewed,erpnext,0.87,0.55,0.3,0.4,0.25,0.7,improved
 This is based on stock movement. See {0} for details,Dit is gebaseerd op voorraad beweging. Zie {0} voor meer informatie,reviewed,erpnext,0.72,0.75,0.65,0.7,0.65,0.85,review
 This is based on the attendance of this Student,Dit is gebaseerd op de aanwezigheid van de Student,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,0.9,ok
 This is based on the course schedules of this Instructor,Dit is gebaseerd op de cursusroosters van deze instructeur,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
@@ -10591,7 +10591,7 @@ This month,Deze maand,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 This Month's Summary,Samenvatting van deze maand,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 This page keeps track of items you want to buy from sellers.,Deze pagina houdt bij welke artikelen u van verkopers wilt kopen.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 This page keeps track of your items in which buyers have showed some interest.,Deze pagina houdt uw items bij waarin kopers enige interesse hebben getoond.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,0.9,ok
-This Quarter,Dit kwartier,reviewed,frappe,0.29,0.3,0.2,0.25,0.2,0.7,rewrite
+This Quarter,Dit kwartaal,reviewed,frappe,0.93,0.3,0.2,0.25,0.2,0.7,improved
 This query style is discontinued,Deze zoekopdrachtstijl is beëindigd,reviewed,frappe,0.85,0.85,0.8,0.85,0.9,0.9,ok
 This quiz is already added to the existing topics,Deze quiz is al toegevoegd aan de bestaande onderwerpen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 This report was generated on {0},Dit rapport is gegenereerd op {0},reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -10602,7 +10602,7 @@ This role update User Permissions for a user,Deze rol werkt Gebruikersmachtiging
 "This section allows the user to set the Body and Closing text of the Dunning Letter for the Dunning Type based on language, which can be used in Print.",In dit gedeelte kan de gebruiker de hoofdtekst en de afsluitingstekst van de aanmaningsbrief voor het aanmaningstype instellen op basis van de taal die in Print kan worden gebruikt.,reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,0.85,review
 This Service Level Agreement is specific to Customer {0},Deze Service Level Agreement is specifiek voor klant {0},reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 This title will be used as the title of the webpage as well as in meta tags,Deze titel wordt zowel als titel van de webpagina als in metatags gebruikt,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
-This tool helps you to update or fix the quantity and valuation of stock in the system. It is typically used to synchronise the system values and what actually exists in your warehouses.,Deze tool helpt u om te werken of te repareren de hoeveelheid en de waardering van de voorraad in het systeem. Het wordt meestal gebruikt om het systeem waarden en wat in uw magazijnen werkelijk bestaat synchroniseren.,reviewed,erpnext,0.37,0.45,0.25,0.35,0.2,0.7,rewrite
+This tool helps you to update or fix the quantity and valuation of stock in the system. It is typically used to synchronise the system values and what actually exists in your warehouses.,Met dit hulpmiddel kunt u de hoeveelheid en waardering van de voorraad in het systeem bijwerken of corrigeren. Het wordt doorgaans gebruikt om de systeemwaarden te synchroniseren met de werkelijke voorraden in uw magazijnen.,reviewed,erpnext,0.88,0.45,0.25,0.35,0.2,0.7,improved
 This topic is already added to the existing courses,Dit onderwerp is al toegevoegd aan de bestaande cursussen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 This value is updated in the Default Sales Price List.,Deze waarde is bijgewerkt in de standaard verkoopprijslijst.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 This Warehouse will be auto-updated in the Target Warehouse field of Work Order.,Dit magazijn wordt automatisch bijgewerkt in het veld Doelmagazijn van Werkorder.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,0.95,ok
@@ -10611,7 +10611,7 @@ This Warehouse will be auto-updated in the Work In Progress Warehouse field of W
 This Week,Deze week,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
 This Week's Summary,Samenvatting van deze week,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 "This will allow stock items to be displayed in negative values. Using this option depends on your use case. With this option unchecked, the system warns before obstructing a transaction that is causing negative stock.","Hierdoor kunnen voorraadartikelen in negatieve waarden worden weergegeven. Het gebruik van deze optie is afhankelijk van uw gebruikssituatie. Als deze optie niet is aangevinkt, waarschuwt het systeem voordat een transactie wordt geblokkeerd die een negatieve voorraad veroorzaakt.",reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,0.95,ok
-"This will be appended to the Item Code of the variant. For example, if your abbreviation is ""SM"", and the item code is ""T-SHIRT"", the item code of the variant will be ""T-SHIRT-SM""","Dit zal worden toegevoegd aan de Code van het punt van de variant. Bijvoorbeeld, als je de afkorting is ""SM"", en de artikelcode is ""T-SHIRT"", de artikelcode van de variant zal worden ""T-SHIRT-SM""",reviewed,erpnext,0.49,0.55,0.35,0.5,0.4,0.7,rewrite
+"This will be appended to the Item Code of the variant. For example, if your abbreviation is ""SM"", and the item code is ""T-SHIRT"", the item code of the variant will be ""T-SHIRT-SM""","Dit wordt toegevoegd aan de artikelcode van de variant. Als de afkorting bijvoorbeeld ""SM"" is en de artikelcode ""T-SHIRT"", dan wordt de artikelcode van de variant ""T-SHIRT-SM"".",reviewed,erpnext,0.89,0.55,0.35,0.5,0.4,0.7,improved
 "This will be automatically generated when you publish the page, you can also enter a route yourself if you wish","Deze wordt automatisch gegenereerd wanneer u de pagina publiceert, u kunt desgewenst ook zelf een route invoeren",reviewed,frappe,0.85,0.85,0.8,0.85,0.85,0.95,ok
 This will be day 1 of the crop cycle,Dit wordt dag 1 van de gewascyclus,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 This will be shown in a modal after routing,Dit wordt na routing in een modaal weergegeven,reviewed,frappe,0.75,0.75,0.65,0.75,0.8,0.9,review
@@ -10620,7 +10620,7 @@ This will log out {0} from all other devices,Dit zal uitloggen {0} van alle ande
 This will permanently remove your data.,Hiermee worden uw gegevens permanent verwijderd.,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 This will restrict user access to other employee records,Hiermee wordt de gebruikerstoegang tot andere werknemersrecords beperkt,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,0.95,ok
 This Year,Dit jaar,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
-This {0} conflicts with {1} for {2} {3},Deze {0} in strijd is met {1} voor {2} {3},reviewed,erpnext,0.39,0.4,0.3,0.45,0.3,0.7,rewrite
+This {0} conflicts with {1} for {2} {3},Deze {0} is in conflict met {1} voor {2} {3},reviewed,erpnext,0.86,0.4,0.3,0.45,0.3,0.7,improved
 Threshold,Drempel,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,0.95,ok
 Threshold for Suggestion,Drempel voor suggestie,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,0.95,ok
 Throttled,Beperkt,reviewed,frappe,0.67,0.65,0.6,0.65,0.8,0.9,review
@@ -10670,7 +10670,7 @@ Timesheet,Urenregistratie,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Timesheet for tasks.,Urenregistratie voor taken.,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Timesheet {0} is already completed or cancelled,Urenregistratie {0} is al voltooid of geannuleerd,reviewed,erpnext,0.9,0.9,0.85,0.9,0.85,1.0,ok
 Timesheets,Urenregistraties,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
-"Timesheets help keep track of time, cost and billing for activites done by your team","Timesheets helpen bijhouden van de tijd, kosten en facturering voor activiteiten gedaan door uw team",reviewed,erpnext,0.45,0.45,0.35,0.45,0.4,0.75,rewrite
+"Timesheets help keep track of time, cost and billing for activites done by your team","Urenstaten helpen u de tijd, kosten en facturering bij te houden voor activiteiten die uw team uitvoert.",reviewed,erpnext,0.86,0.45,0.35,0.45,0.4,0.75,improved
 Timeslots,timeslots,reviewed,erpnext,0.51,0.55,0.45,0.5,0.4,0.7,review
 Timespan,Tijdspanne,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Title,Titel,reviewed,both,0.96,0.95,0.95,0.95,0.95,1.0,ok
@@ -10700,56 +10700,56 @@ To Date,Tot Datum,reviewed,both,0.86,0.85,0.85,0.85,0.85,1.0,ok
 To Date cannot be after the current date.,Tot datum kan niet na de huidige datum liggen.,reviewed,erpnext,0.9,0.9,0.85,0.9,0.85,1.0,ok
 To Date cannot be before From Date,Tot Datum kan niet eerder zijn dan Van Datum,reviewed,erpnext,0.9,0.9,0.85,0.9,0.85,1.0,ok
 To date cannot be before From date,Tot Datum kan niet eerder zijn dan Van Datum,reviewed,erpnext,0.9,0.9,0.85,0.9,0.85,1.0,ok
-To date cannot be before from date,Tot op heden kan niet vóór Van datum zijn,reviewed,erpnext,0.44,0.45,0.35,0.45,0.4,0.7,rewrite
+To date cannot be before from date,De einddatum mag niet voor de begindatum liggen,reviewed,erpnext,0.91,0.45,0.35,0.45,0.4,0.7,improved
 To Date cannot be before From Date.,Tot-datum kan niet vóór Van-datum liggen.,reviewed,erpnext,0.86,0.85,0.85,0.85,0.85,1.0,ok
-To Date cannot be less than From Date,Tot op heden kan niet minder zijn dan Van datum,reviewed,erpnext,0.44,0.45,0.35,0.45,0.4,0.7,rewrite
-To Date Field,Tot op heden veld,reviewed,frappe,0.44,0.45,0.35,0.45,0.4,0.7,rewrite
+To Date cannot be less than From Date,De einddatum mag niet voor de begindatum liggen,reviewed,erpnext,0.91,0.45,0.35,0.45,0.4,0.7,improved
+To Date Field,Einddatumveld,reviewed,frappe,0.88,0.45,0.35,0.45,0.4,0.7,improved
 To Date must be greater than From Date,Tot datum moet groter zijn dan vanaf datum,reviewed,erpnext,0.65,0.65,0.6,0.65,0.6,0.8,review
 To Date should be within the Fiscal Year. Assuming To Date = {0},Tot Datum moet binnen het boekjaar vallenn. Ervan uitgaande dat Tot Datum = {0},reviewed,erpnext,0.58,0.7,0.4,0.6,0.4,0.8,review
-To Datetime,Om Datetime,reviewed,erpnext,0.22,0.1,0.1,0.3,0.3,0.7,rewrite
+To Datetime,Tot datum/tijd,reviewed,erpnext,0.85,0.1,0.1,0.3,0.3,0.7,improved
 To Deliver,Bezorgen,reviewed,erpnext,0.74,0.7,0.7,0.7,0.9,1.0,review
-To Deliver and Bill,Te leveren en Bill,reviewed,erpnext,0.34,0.4,0.2,0.3,0.3,0.6,rewrite
+To Deliver and Bill,Te leveren en te factureren,reviewed,erpnext,0.9,0.4,0.2,0.3,0.3,0.6,improved
 To Discuss,Te bespreken,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 To Do,Actie,reviewed,frappe,0.72,0.7,0.6,0.7,0.9,1.0,review
 To Employee,Naar medewerker,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 "To enable Capital Work in Progress Accounting,","Om Capital Work in Progress Accounting in te schakelen,",reviewed,erpnext,0.52,0.5,0.4,0.5,0.7,0.8,review
 To enable it follow the instructions in the following link: {0},Volg de instructies in de volgende link om dit in te schakelen: {0},reviewed,frappe,0.9,0.9,0.85,0.85,0.9,1.0,ok
-"To filter based on Party, select Party Type first","Om te filteren op basis van Party, selecteer Party Typ eerst",reviewed,erpnext,0.47,0.5,0.4,0.4,0.5,0.7,rewrite
+"To filter based on Party, select Party Type first","Om te filteren op relatie, selecteer eerst het relatietype",reviewed,erpnext,0.87,0.5,0.4,0.4,0.5,0.7,improved
 To Fiscal Year,Naar fiscaal jaar,reviewed,erpnext,0.81,0.8,0.7,0.8,0.9,1.0,ok
-To Folio No,Naar Folio Nee,reviewed,erpnext,0.32,0.3,0.2,0.3,0.3,0.7,rewrite
-"To get the best out of ERPNext, we recommend that you take some time and watch these help videos.","Om het beste uit ERPNext krijgen, raden wij u aan wat tijd te nemen en te kijken deze hulp video&#39;s.",reviewed,erpnext,0.49,0.6,0.3,0.6,0.3,0.7,rewrite
+To Folio No,Tot folionummer,reviewed,erpnext,0.85,0.3,0.2,0.3,0.3,0.7,improved
+"To get the best out of ERPNext, we recommend that you take some time and watch these help videos.","Om het maximale uit ERPNext te halen, raden wij u aan de tijd te nemen om deze helpvideo's te bekijken.",reviewed,erpnext,0.9,0.6,0.3,0.6,0.3,0.7,improved
 "To get the updated report, click on {0}.",Klik op {0} om het bijgewerkte rapport te krijgen.,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
 To GSTIN,Naar GSTIN,reviewed,erpnext,0.74,0.7,0.7,0.7,0.8,1.0,review
 "To include tax in row {0} in Item rate, taxes in rows {1} must also be included","Om Belastingen op te nemen in het Artikeltarief in rij {0}, moeten de belastingen in rijen {1} ook worden opgenomen",reviewed,erpnext,0.84,0.85,0.75,0.8,0.85,1.0,ok
-To Invoice Date,Om factuurdatum,reviewed,erpnext,0.27,0.2,0.2,0.3,0.3,0.7,rewrite
+To Invoice Date,Tot factuurdatum,reviewed,erpnext,0.88,0.2,0.2,0.3,0.3,0.7,improved
 to know more,om meer te weten,reviewed,erpnext,0.6,0.6,0.5,0.6,0.7,0.9,review
 "To know more about projected quantity, <a href=""https://erpnext.com/docs/user/manual/en/stock/projected-quantity"" style=""text-decoration: underline;"" target=""_blank"">click here</a>.","<a href=""https://erpnext.com/docs/user/manual/en/stock/projected-quantity"" style=""text-decoration: underline;"" target=""_blank"">Klik hier voor</a> meer informatie over de verwachte hoeveelheid.",reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 to know more about them.,om er meer over te weten.,reviewed,erpnext,0.7,0.7,0.6,0.7,0.8,0.9,review
 To make Customer based incentive schemes.,Beloningsregelingen op basis van klanten maken.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 "To merge, following properties must be same for both items","Om samen te voegen, moeten de volgende eigenschappen hetzelfde zijn voor beide artikelen",reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
-To No,Naar Nee,reviewed,erpnext,0.2,0.2,0.1,0.2,0.2,0.5,rewrite
+To No,Tot nummer,reviewed,erpnext,0.87,0.2,0.1,0.2,0.2,0.5,improved
 "To not apply Pricing Rule in a particular transaction, all applicable Pricing Rules should be disabled.","Om de prijsbepalingsregel in een specifieke transactie niet toe te passen, moeten alle toepasbare prijsbepalingsregels worden uitgeschakeld.",reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 "To overrule this, enable '{0}' in company {1}",Schakel &#39;{0}&#39; in bedrijf {1} in om dit te negeren,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,0.9,ok
 To Package No.,Naar pakket nr,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
 To Party Name,Naar partijnaam,reviewed,erpnext,0.8,0.8,0.7,0.8,0.9,1.0,ok
 To Pin Code,Naar pincode,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
-To Place,Plaatsen,reviewed,erpnext,0.34,0.3,0.3,0.3,0.5,0.6,rewrite
+To Place,Bestemming,reviewed,erpnext,0.86,0.3,0.3,0.3,0.5,0.6,improved
 To Posting Date,Op boekingsdatum,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
 To print output use <code>log(text)</code>,Gebruik <code>log(text)</code> om uitvoer af te drukken,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
 To Produce,Produceren,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
-To Range,Om Bereik,reviewed,erpnext,0.21,0.2,0.1,0.2,0.3,0.6,rewrite
+To Range,Tot waarde,reviewed,erpnext,0.83,0.2,0.1,0.2,0.3,0.6,improved
 To Receive,Ontvangen,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
-To Receive and Bill,Te ontvangen en Bill,reviewed,erpnext,0.34,0.4,0.2,0.3,0.3,0.6,rewrite
+To Receive and Bill,Te ontvangen en te factureren,reviewed,erpnext,0.9,0.4,0.2,0.3,0.3,0.6,improved
 To Rename,Hernoemen,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 "To set this Fiscal Year as Default, click on 'Set as Default'","Om dit boekjaar in te stellen als standaard, klik op 'Als standaard instellen'",reviewed,erpnext,0.83,0.85,0.75,0.8,0.8,1.0,ok
 To Shareholder,Aan de aandeelhouder,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
-To State,Te vermelden,reviewed,erpnext,0.13,0.1,0.1,0.1,0.2,0.3,rewrite
+To State,Naar provincie,reviewed,erpnext,0.84,0.1,0.1,0.1,0.2,0.3,improved
 "To still proceed with editing this Attribute Value, enable {0} in Item Variant Settings.","Om toch door te gaan met het bewerken van deze kenmerkwaarde, moet u {0} inschakelen in Instellingen voor itemvarianten.",reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
 To submit the invoice without purchase order please set {},Stel {} in om de factuur in te dienen zonder inkooporder,reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,1.0,review
 To submit the invoice without purchase receipt please set {},Stel {} in om de factuur zonder aankoopbewijs in te dienen,reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,1.0,review
 To TIme,Tot Tijd,reviewed,erpnext,0.73,0.7,0.7,0.7,0.7,1.0,review
 To Time,Eindtijd,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-To Time cannot be after the current time.,To Time kan niet na de huidige tijd zijn.,reviewed,erpnext,0.41,0.4,0.3,0.4,0.4,0.7,rewrite
+To Time cannot be after the current time.,De eindtijd mag niet later zijn dan de huidige tijd.,reviewed,erpnext,0.9,0.4,0.3,0.4,0.4,0.7,improved
 To Track inbound purchase,Inkomende aankopen volgen,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
 "To use Google Calendar, enable {0}.",Schakel {0} in om Google Agenda te gebruiken.,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
 "To use Google Contacts, enable {0}.",Schakel {0} in om Google Contacten te gebruiken.,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
@@ -10761,7 +10761,7 @@ To User,Naar gebruiker,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
 To Value,Tot Waarde,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
 To view logs of Loyalty Points assigned to a Customer.,Logboeken bekijken van Loyalty Points die aan een klant zijn toegewezen.,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
 To Warehouse,Tot Magazijn,reviewed,erpnext,0.52,0.5,0.4,0.5,0.6,0.9,review
-To Warehouse (Optional),Om Warehouse (optioneel),reviewed,erpnext,0.21,0.2,0.1,0.2,0.2,0.6,rewrite
+To Warehouse (Optional),Naar magazijn (optioneel),reviewed,erpnext,0.91,0.2,0.1,0.2,0.2,0.6,improved
 to your browser,naar uw browser,reviewed,frappe,0.84,0.8,0.85,0.85,0.9,1.0,ok
 To {0},Naar {0},reviewed,erpnext,0.74,0.7,0.7,0.7,0.8,1.0,review
 to {0},tot {0},reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
@@ -10778,13 +10778,13 @@ Toggle Grid View,Schakelen tussen rasterweergave,reviewed,frappe,0.51,0.5,0.4,0.
 Toggle Public/Private,Openbaar / privé schakelen,reviewed,frappe,0.82,0.8,0.75,0.8,0.85,1.0,ok
 Toggle Recent Orders,Schakel recente bestellingen in,reviewed,erpnext,0.51,0.5,0.4,0.5,0.5,0.8,review
 Toggle Sidebar,Zijbalk verschuiven,reviewed,frappe,0.51,0.5,0.4,0.5,0.5,0.8,review
-Token,blijk,reviewed,frappe,0.22,0.2,0.1,0.2,0.3,0.5,rewrite
+Token,Token,reviewed,frappe,0.9,0.2,0.1,0.2,0.3,0.5,improved
 Token Endpoint,Token-eindpunt,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Token is missing,Token ontbreekt,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
 Tongue,Tong,reviewed,erpnext,0.95,0.9,1.0,0.9,1.0,1.0,ok
 Too many columns. Export the report and print it using a spreadsheet application.,Teveel kolommen. Exporteer het rapport en druk het af via een Spreadsheet programma.,reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,1.0,ok
 Too Many Requests,Te veel verzoeken,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
-"Too many users signed up recently, so the registration is disabled. Please try back in an hour","Te veel gebruikers aangemeld voor kort, zodat de registratie is uitgeschakeld. Probeer het over een uur terug",reviewed,frappe,0.47,0.6,0.3,0.5,0.3,0.7,rewrite
+"Too many users signed up recently, so the registration is disabled. Please try back in an hour","Er hebben zich recentelijk te veel gebruikers geregistreerd, waardoor de registratie tijdelijk is uitgeschakeld. Probeer het over een uur opnieuw.",reviewed,frappe,0.89,0.6,0.3,0.5,0.3,0.7,improved
 Top Performer,Toppresteerder,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Top Reviewer,Toprecensent,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Topic,Onderwerp,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
@@ -10798,10 +10798,10 @@ Total (Company Currency),Totaal (bedrijfsvaluta),reviewed,erpnext,0.9,0.9,0.85,0
 Total (Credit),Totaal (Credit),reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Total (Without Tax),Totaal (zonder btw),reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 Total Achieved,Totaal Bereikt,reviewed,erpnext,0.74,0.75,0.65,0.7,0.7,1.0,review
-Total Actual,Totaal Werkelijke,reviewed,erpnext,0.49,0.5,0.4,0.5,0.4,0.8,rewrite
+Total Actual,Totaal werkelijk,reviewed,erpnext,0.87,0.5,0.4,0.5,0.4,0.8,improved
 Total Additional Costs,Totaal Bijkomende kosten,reviewed,erpnext,0.76,0.75,0.7,0.75,0.75,1.0,review
 Total Advance,Totaal Voorschot,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Total advance ({0}) against Order {1} cannot be greater than the Grand Total ({2}),Totaal vooraf ({0}) tegen Orde {1} kan niet groter zijn dan de Grand totaal zijn ({2}),reviewed,erpnext,0.43,0.5,0.3,0.4,0.3,0.8,rewrite
+Total advance ({0}) against Order {1} cannot be greater than the Grand Total ({2}),Het totaal aan vooruitbetalingen ({0}) voor order {1} mag niet groter zijn dan het eindtotaal ({2}).,reviewed,erpnext,0.88,0.5,0.3,0.4,0.3,0.8,improved
 Total advance amount cannot be greater than total claimed amount,Het totale voorschotbedrag kan niet groter zijn dan het totaalbedrag waarvoor een claim is ingediend,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Total Allocated Amount,Totaal toegewezen bedrag,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Total Allocated Amount (Company Currency),Totaal toegewezen bedrag (bedrijfsvaluta),reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
@@ -10871,11 +10871,11 @@ Total Order Considered,Totaal beschouwde bestellingen,reviewed,erpnext,0.72,0.75
 Total Order Value,Totale orderwaarde,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Total Orders,Totaal aantal bestellingen,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Total Outgoing,Totaal Uitgaande,reviewed,erpnext,0.64,0.7,0.55,0.55,0.5,1.0,review
-Total Outgoing Value,Totaal uitgaande waardeoverdrachten,reviewed,erpnext,0.49,0.5,0.35,0.4,0.35,1.0,rewrite
+Total Outgoing Value,Totale uitgaande waarde,reviewed,erpnext,0.88,0.5,0.35,0.4,0.35,1.0,improved
 Total Outstanding,Totaal openstaand,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Total Outstanding Amount,Totaal openstaand bedrag,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Total Outstanding: {0},Totaal openstaand: {0},reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
-Total Pages,Totaal aantal pagina&#39;s,reviewed,frappe,0.43,0.5,0.3,0.35,0.25,1.0,rewrite
+Total Pages,Totaal aantal pagina's,reviewed,frappe,0.9,0.5,0.3,0.35,0.25,1.0,improved
 Total Paid Amount,Totale betaalde bedrag,reviewed,erpnext,0.67,0.7,0.6,0.65,0.55,1.0,review
 Total Parents Teacher Meeting,Totale ouder lerarenbijeenkomst,reviewed,erpnext,0.59,0.6,0.5,0.55,0.45,1.0,review
 Total Payment Amount in Payment Schedule must be equal to Grand / Rounded Total,Het totale betalingsbedrag in het betalingsschema moet gelijk zijn aan het groot / afgerond totaal,reviewed,erpnext,0.79,0.8,0.75,0.75,0.75,1.0,review
@@ -10918,14 +10918,14 @@ Total weightage assigned should be 100%.<br>It is {0},Het totale toegewezen gewi
 Total Weightage of all Assessment Criteria must be 100%,Totaal weightage van alle beoordelingscriteria moet 100% zijn,reviewed,erpnext,0.59,0.7,0.4,0.5,0.5,1.0,review
 Total Working Hours,Totaal aantal Werkuren,reviewed,erpnext,0.79,0.85,0.75,0.75,0.7,1.0,review
 Total {0} ({1}),Totaal {0} ({1}),reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
-"Total {0} for all items is zero, may be you should change 'Distribute Charges Based On'","Totaal {0} voor alle items nul is, kan je zou moeten veranderen &#39;Verdeel heffingen op basis van&#39;",reviewed,erpnext,0.44,0.6,0.2,0.5,0.2,0.9,rewrite
+"Total {0} for all items is zero, may be you should change 'Distribute Charges Based On'",Het totaal {0} voor alle artikelen is nul. Mogelijk moet u 'Kosten verdelen op basis van' aanpassen.,reviewed,erpnext,0.87,0.6,0.2,0.5,0.2,0.9,improved
 Total(Amt),Totaal (Amt),reviewed,erpnext,0.62,0.6,0.55,0.6,0.7,0.8,review
 Total(Qty),Totaal (Aantal),reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Totals,Totalen,reviewed,both,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Totals Row,Totalen rij,reviewed,frappe,0.75,0.8,0.7,0.75,0.7,1.0,review
 Traceability,traceerbaarheid,reviewed,erpnext,0.78,0.85,0.8,0.75,0.6,1.0,review
 Traceback,Herleiden,reviewed,frappe,0.57,0.5,0.5,0.5,0.8,1.0,review
-Track Changes,Spoorwissel,reviewed,frappe,0.26,0.1,0.1,0.2,0.7,1.0,rewrite
+Track Changes,Wijzigingen bijhouden,reviewed,frappe,0.92,0.1,0.1,0.2,0.7,1.0,improved
 Track Email Status,Volg e-mailstatus,reviewed,frappe,0.82,0.8,0.8,0.8,0.85,1.0,ok
 Track Field,Volg veld,reviewed,frappe,0.76,0.75,0.7,0.75,0.8,1.0,review
 "Track if your email has been opened by the recipient.\n<br>\nNote: If you're sending to multiple recipients, even if 1 recipient reads the email, it'll be considered ""Opened""","Houd bij of uw e-mail door de ontvanger is geopend. <br> Opmerking: als u naar meerdere ontvangers verzendt, zelfs als 1 ontvanger de e-mail leest, wordt deze beschouwd als &quot;Geopend&quot;",reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
@@ -10960,7 +10960,7 @@ Transactions already retreived from the statement,Transacties zijn al teruggetro
 Transactions Annual History,Transacties Jaaroverzicht,reviewed,erpnext,0.83,0.85,0.8,0.8,0.8,1.0,ok
 Transactions can only be deleted by the creator of the Company,Transacties kunnen alleen worden verwijderd door de maker van de Vennootschap,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
 Transfer,Verplaatsen,reviewed,erpnext,0.73,0.7,0.7,0.65,0.85,1.0,review
-Transfer an asset from one warehouse to another,Transfer een troef van het ene magazijn naar het andere,reviewed,erpnext,0.31,0.3,0.15,0.3,0.2,1.0,rewrite
+Transfer an asset from one warehouse to another,Verplaats een actief van het ene naar het andere magazijn,reviewed,erpnext,0.88,0.3,0.15,0.3,0.2,1.0,improved
 Transfer Material,Verplaats Materiaal,reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,1.0,review
 Transfer Material Against,Materiaal overbrengen tegen,reviewed,erpnext,0.72,0.75,0.65,0.7,0.65,1.0,review
 Transfer Material to Supplier,Transfer Material aan Leverancier,reviewed,erpnext,0.53,0.6,0.4,0.5,0.4,1.0,review
@@ -11101,26 +11101,26 @@ Unreconcile Payment,Betaling afstemming opheffen,reviewed,custom,0.67,0.7,0.55,0
 Unreconciled,Niet afgestemd,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Unreconciled Payment Details,Niet overeenstemmende betalingsgegevens,reviewed,erpnext,0.65,0.65,0.55,0.6,0.7,0.9,review
 Unregistered,Niet geregistreerd,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Unresolve,Oplossen,reviewed,erpnext,0.27,0.2,0.25,0.2,0.5,0.5,rewrite
+Unresolve,Markeer als onopgelost,reviewed,erpnext,0.87,0.2,0.25,0.2,0.5,0.5,improved
 Unresolved,Niet opgelost,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Unscheduled,Ongeplande,reviewed,erpnext,0.63,0.65,0.55,0.65,0.5,0.8,review
 Unsecured Loans,Leningen zonder onderpand,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 UNSEEN,ONGEZIEN,reviewed,frappe,0.63,0.5,0.5,0.7,0.8,1.0,review
 Unselect,Deselecteren,reviewed,custom,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Unselect All,Selectie ongedaan maken,reviewed,frappe,0.91,0.9,0.9,0.85,1.0,1.0,ok
-Unshared,ongedeelde,reviewed,frappe,0.39,0.4,0.3,0.5,0.2,0.6,rewrite
+Unshared,Niet gedeeld,reviewed,frappe,0.88,0.4,0.3,0.5,0.2,0.6,improved
 Unsigned,ongetekend,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Unsubscribe,Afmelden,reviewed,frappe,0.93,0.9,0.95,0.9,1.0,1.0,ok
 Unsubscribe from this Email Digest,Afmelden bij dit e-mailoverzicht,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Unsubscribe Method,Afmelden Methode,reviewed,frappe,0.57,0.6,0.4,0.6,0.5,1.0,review
-Unsubscribe Param,Afmelden Param,reviewed,frappe,0.43,0.4,0.3,0.5,0.4,0.7,rewrite
+Unsubscribe Param,Afmeldparameter,reviewed,frappe,0.87,0.4,0.3,0.5,0.4,0.7,improved
 Unsubscribed,Uitgeschreven,reviewed,both,0.86,0.8,0.85,0.85,1.0,1.0,ok
 Unsupported File Format,Niet ondersteund bestandsformaat,reviewed,frappe,0.87,0.9,0.8,0.85,0.85,1.0,ok
 Unsupported GST Category for E-Way Bill JSON generation,Niet-ondersteunde GST-categorie voor het genereren van E-Way Bill JSON,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Until,Totdat,reviewed,erpnext,0.57,0.5,0.4,0.6,0.8,1.0,review
 Untitled Column,Kolom zonder titel,reviewed,frappe,0.91,0.9,0.9,0.85,1.0,1.0,ok
 Untranslated,Niet vertaald,reviewed,frappe,0.95,0.95,0.95,0.9,1.0,1.0,ok
-Unverified,geverifieerde,reviewed,erpnext,0.16,0.1,0.1,0.1,0.1,0.5,rewrite
+Unverified,Niet geverifieerd,reviewed,erpnext,0.9,0.1,0.1,0.1,0.1,0.5,improved
 Unverified Webhook Data,Niet-geverifieerde Webhook-gegevens,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Unzip,Uitpakken,reviewed,frappe,0.93,0.9,0.95,0.9,1.0,1.0,ok
 Unzipped {0} files,Uitgepakte {0} bestanden,reviewed,frappe,0.68,0.7,0.55,0.7,0.6,1.0,review
@@ -11156,15 +11156,15 @@ Update Existing Records,Bestaande records bijwerken,reviewed,frappe,0.92,0.9,0.9
 Update Field,Veld bijwerken,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Update in progress. It might take a while.,Update wordt uitgevoerd. Het kan even duren.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Update Items,Items bijwerken,reviewed,erpnext,0.87,0.85,0.85,0.85,1.0,1.0,ok
-Update latest price in all BOMs,Update de laatste prijs in alle BOM&#39;s,reviewed,erpnext,0.49,0.5,0.35,0.5,0.45,0.8,rewrite
+Update latest price in all BOMs,Laatste prijs bijwerken in alle stuklijsten,reviewed,erpnext,0.88,0.5,0.35,0.5,0.45,0.8,improved
 Update many values at one time.,Meerdere waarden tegelijkertijd aanpassen.,reviewed,frappe,0.91,0.9,0.9,0.85,1.0,1.0,ok
 Update Password,Vernieuw wachtwoord,reviewed,erpnext,0.71,0.7,0.65,0.65,0.8,1.0,review
 Update Price from Shopify To ERPNext Price List,Prijs bijwerken van Shopify naar ERPNext prijslijst,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Update Print Format,Bijwerken Print Format,reviewed,erpnext,0.57,0.6,0.45,0.6,0.5,1.0,review
-Update Rate and Availability,Update snelheid en beschikbaarheid,reviewed,erpnext,0.37,0.3,0.25,0.4,0.6,0.8,rewrite
-Update rate as per last purchase,Update rate vanaf de laatste aankoop,reviewed,erpnext,0.4,0.4,0.3,0.4,0.4,0.9,rewrite
+Update Rate and Availability,Tarief en beschikbaarheid bijwerken,reviewed,erpnext,0.88,0.3,0.25,0.4,0.6,0.8,improved
+Update rate as per last purchase,Prijs bijwerken op basis van laatste aankoop,reviewed,erpnext,0.87,0.4,0.3,0.4,0.4,0.9,improved
 Update records,Records bijwerken,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Update Schedule,Update Schema,reviewed,erpnext,0.47,0.45,0.35,0.5,0.5,0.9,rewrite
+Update Schedule,Planning bijwerken,reviewed,erpnext,0.86,0.45,0.35,0.5,0.5,0.9,improved
 Update Series,Reeksen bijwerken,reviewed,erpnext,0.87,0.85,0.85,0.85,1.0,1.0,ok
 Update Series Number,Serienummer bijwerken,reviewed,frappe,0.87,0.85,0.85,0.85,1.0,1.0,ok
 Update Settings,Update-instellingen,reviewed,frappe,0.52,0.5,0.4,0.5,0.5,0.9,review
@@ -11177,7 +11177,7 @@ Updated,Bijgewerkt,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Updated Successfully,succesvol geupdatet,reviewed,frappe,0.61,0.7,0.55,0.55,0.4,1.0,review
 Updated successfully,Succesvol geupdatet,reviewed,frappe,0.65,0.7,0.6,0.6,0.6,1.0,review
 Updated To A New Version 🎉,Bijgewerkt naar een nieuwe versie 🎉,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
-updated to {0},bijgewerkt om {0},reviewed,frappe,0.33,0.3,0.2,0.4,0.3,0.9,rewrite
+updated to {0},bijgewerkt naar {0},reviewed,frappe,0.88,0.3,0.2,0.4,0.3,0.9,improved
 Updated via 'Time Log',Bijgewerkt via 'Time Log',reviewed,erpnext,0.87,0.85,0.85,0.85,1.0,1.0,ok
 Updated {0}: {1},Bijgewerkt {0}: {1},reviewed,frappe,0.87,0.85,0.85,0.85,1.0,1.0,ok
 Updating,Bijwerken,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
@@ -11202,7 +11202,7 @@ Uploading {0} of {1},Uploaden van {0} van {1},reviewed,frappe,0.68,0.7,0.6,0.7,0
 UPPER CASE,HOOFDLETTERS,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Upper Income,Hoog inkomen,reviewed,erpnext,0.84,0.8,0.8,0.8,1.0,1.0,ok
 Urgent,Dringend,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
-"URIs for receiving authorization code once the user allows access, as well as failure responses. Typically a REST endpoint exposed by the Client App.\n<br>e.g. http://hostname//api/method/frappe.www.login.login_via_facebook","URI voor het opnemen autorisatiecode nadat de gebruiker toegang verleent, en falen reacties. Typisch een REST eindpunt blootgesteld door de Cliënt App. <br> bijvoorbeeld http: //hostname//api/method/frappe.www.login.login_via_facebook",reviewed,frappe,0.35,0.4,0.2,0.4,0.25,0.7,rewrite
+"URIs for receiving authorization code once the user allows access, as well as failure responses. Typically a REST endpoint exposed by the Client App.\n<br>e.g. http://hostname//api/method/frappe.www.login.login_via_facebook","URI's voor het ontvangen van de autorisatiecode nadat de gebruiker toegang verleent, en voor foutmeldingen. Dit is doorgaans een REST-endpoint dat beschikbaar is gesteld door de clientapplicatie.\n<br>bijv. http://hostname//api/method/frappe.www.login.login_via_facebook",reviewed,frappe,0.89,0.4,0.2,0.4,0.25,0.7,improved
 URL can only be a string,URL mag alleen een tekenreeks zijn,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 "URL for ""All Products""",URL voor &quot;Alle producten&quot;,reviewed,erpnext,0.57,0.6,0.4,0.6,0.7,0.8,review
 URL for documentation or help,URL voor documentatie of hulp,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
@@ -11225,7 +11225,7 @@ Use Different Email Login ID,Gebruik een ander e-mailadres ID,reviewed,frappe,0.
 Use for Shopping Cart,Gebruik voor de Winkelwagen,reviewed,erpnext,0.75,0.75,0.7,0.7,0.8,0.9,review
 Use Google Maps Direction API to calculate estimated arrival times,Gebruik Google Maps Direction API om geschatte aankomsttijden te berekenen,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Use Google Maps Direction API to optimize route,Gebruik Google Maps Direction API om de route te optimaliseren,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
-Use IMAP,Met IMAP,reviewed,frappe,0.47,0.45,0.4,0.4,0.7,0.8,rewrite
+Use IMAP,IMAP gebruiken,reviewed,frappe,0.91,0.45,0.4,0.4,0.7,0.8,improved
 Use Multi-Level BOM,Gebruik Multi-Level Stuklijst,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Use Naming Series,Gebruik nummerreeks,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Use of sub-query or function is restricted,Het gebruik van subvragen of functies is beperkt,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
@@ -11252,7 +11252,7 @@ User Cannot Search,Gebruiker kan niet zoeken,reviewed,frappe,0.92,0.9,0.9,0.9,0.
 User Defaults,Gebruiker Standaardwaarden,reviewed,frappe,0.67,0.65,0.6,0.65,0.7,0.9,review
 User Details,Gebruikersgegevens,reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 User does not exist,Gebruiker bestaat niet,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
-User editable form on Website.,Gebruiker bewerkbare vorm op de website.,reviewed,frappe,0.41,0.4,0.35,0.4,0.4,0.8,rewrite
+User editable form on Website.,Door gebruiker bewerkbaar formulier op de website.,reviewed,frappe,0.88,0.4,0.35,0.4,0.4,0.8,improved
 User Email,Gebruikers-e-mail,reviewed,frappe,0.83,0.85,0.75,0.85,0.8,1.0,ok
 User Emails,Gebruikers-e-mails,reviewed,frappe,0.83,0.85,0.75,0.85,0.8,1.0,ok
 User Field,Gebruikersveld,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
@@ -11343,11 +11343,11 @@ Valuation and Total,Waardering en Totaal,reviewed,erpnext,0.74,0.75,0.65,0.7,0.7
 Valuation Method,Waarderingsmethode,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Valuation Rate,Waarderingsprijs,reviewed,erpnext,0.76,0.75,0.7,0.7,0.9,1.0,review
 "Valuation Rate for the Item {0}, is required to do accounting entries for {1} {2}.","Waarderingstarief voor het item {0}, is vereist om boekhoudkundige gegevens voor {1} {2} te doen.",reviewed,erpnext,0.58,0.65,0.45,0.55,0.5,0.9,review
-Valuation Rate is mandatory if Opening Stock entered,Valuation Rate is verplicht als Opening Stock ingevoerd,reviewed,erpnext,0.28,0.3,0.2,0.3,0.2,0.5,rewrite
+Valuation Rate is mandatory if Opening Stock entered,Waarderingskoers is verplicht als er een beginvoorraad is ingevoerd,reviewed,erpnext,0.89,0.3,0.2,0.3,0.2,0.5,improved
 Valuation Rate Missing,Waarderingstarief ontbreekt,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Valuation Rate required for Item {0} at row {1},Waarderingspercentage vereist voor artikel {0} op rij {1},reviewed,erpnext,0.67,0.7,0.6,0.6,0.65,1.0,review
 Valuation type charges can not be marked as Inclusive,Kosten van het taxatietype kunnen niet als inclusief worden gemarkeerd,reviewed,erpnext,0.72,0.75,0.65,0.65,0.7,1.0,review
-Valuation type charges can not marked as Inclusive,Soort waardering kosten kunnen niet zo Inclusive gemarkeerd,reviewed,erpnext,0.3,0.3,0.2,0.35,0.2,0.6,rewrite
+Valuation type charges can not marked as Inclusive,Kosten van het type 'Waardering' kunnen niet als inclusief worden gemarkeerd,reviewed,erpnext,0.9,0.3,0.2,0.35,0.2,0.6,improved
 Value,Waarde,reviewed,both,0.92,0.9,0.9,0.9,1.0,1.0,ok
 value,waarde,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Value After Depreciation,Restwaarde,reviewed,erpnext,0.81,0.8,0.8,0.75,0.9,0.85,ok
@@ -11360,7 +11360,7 @@ Value Changed,Waarde Veranderd,reviewed,frappe,0.61,0.65,0.5,0.55,0.6,1.0,review
 Value for a check field can be either 0 or 1,Waarde voor een controle veld kan 0 of 1 zijn,reviewed,frappe,0.72,0.75,0.65,0.7,0.7,1.0,review
 Value for Attribute {0} must be within the range of {1} to {2} in the increments of {3} for Item {4},Waarde voor kenmerk {0} moet binnen het bereik van {1} tot {2} in de stappen van {3} voor post {4},reviewed,erpnext,0.56,0.6,0.45,0.55,0.45,0.9,review
 Value for field {0} is too long in {1}. Length should be lesser than {2} characters,Waarde voor veld {0} is te lang in {1}. De lengte mag niet langer zijn dan {2} tekens,reviewed,frappe,0.79,0.8,0.75,0.75,0.8,1.0,review
-Value for {0} cannot be a list,Waar voor {0} kan geen lijst worden,reviewed,frappe,0.27,0.25,0.2,0.3,0.2,0.7,rewrite
+Value for {0} cannot be a list,Waarde voor {0} mag geen lijst zijn,reviewed,frappe,0.93,0.25,0.2,0.3,0.2,0.7,improved
 Value from this field will be set as the due date in the ToDo,De waarde van dit veld wordt ingesteld als de vervaldatum in de taak,reviewed,frappe,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Value missing for,Waarde ontbreekt voor,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Value must be between {0} and {1},Waarde moet tussen {0} en {1} zijn,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
@@ -11465,7 +11465,7 @@ Visit report for maintenance call.,Bezoek rapport voor onderhoud gesprek.,review
 Visit the forums,Bezoek de forums,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Visit Web Page,Bezoek webpagina,reviewed,frappe,0.82,0.8,0.8,0.8,0.85,1.0,ok
 Visited,Bezocht,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Visited yet,Nog bezocht,reviewed,erpnext,0.33,0.3,0.25,0.3,0.35,0.8,rewrite
+Visited yet,Al bezocht,reviewed,erpnext,0.88,0.3,0.25,0.3,0.35,0.8,improved
 Visitor,Bezoeker,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Voice,Stem,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 volume-down,volume-omlaag,reviewed,frappe,0.79,0.8,0.75,0.75,0.8,1.0,review
@@ -11478,7 +11478,7 @@ Volunteer Skill,Vrijwillige vaardigheid,reviewed,erpnext,0.55,0.55,0.5,0.5,0.6,1
 Volunteer Skills,Vrijwilligersvaardigheden,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Volunteer Type,Vrijwilligers type,reviewed,erpnext,0.64,0.65,0.6,0.6,0.65,1.0,review
 Volunteer Type information.,Type vrijwilliger informatie.,reviewed,erpnext,0.73,0.75,0.7,0.7,0.75,1.0,review
-Voucher #,Coupon #,reviewed,erpnext,0.4,0.4,0.35,0.35,0.5,1.0,rewrite
+Voucher #,Boekstuk #,reviewed,erpnext,0.88,0.4,0.35,0.35,0.5,1.0,improved
 Voucher Detail No,Voucher Detail nr,reviewed,erpnext,0.78,0.8,0.75,0.75,0.8,1.0,review
 Voucher No,Voucher nr.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Vouchers,vouchers,reviewed,erpnext,0.64,0.65,0.65,0.6,0.55,1.0,review
@@ -11504,7 +11504,7 @@ Warehouse not found in the system,Magazijn niet gevonden in het systeem,reviewed
 Warehouse required for stock Item {0},Magazijn nodig voor voorraad Artikel {0},reviewed,erpnext,0.69,0.7,0.65,0.65,0.7,1.0,review
 Warehouse Type,Magazijntype,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Warehouse where you are maintaining stock of rejected items,Magazijn waar u voorraad bijhoudt van afgewezen artikelen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Warehouse wise Item Balance Age and Value,Magazijnbeheer Artikelbalans Leeftijd en waarde,reviewed,erpnext,0.39,0.4,0.35,0.35,0.4,0.9,rewrite
+Warehouse wise Item Balance Age and Value,Artikelbalans per magazijn: leeftijd en waarde,reviewed,erpnext,0.9,0.4,0.35,0.35,0.4,0.9,improved
 Warehouse {0} can not be deleted as quantity exists for Item {1},Magazijn {0} kan niet worden verwijderd als er voorraad is voor artikel {1},reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Warehouse {0} does not belong to company {1},Magazijn {0} behoort niet tot bedrijf {1},reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Warehouse {0} does not exist,Magazijn {0} bestaat niet,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
@@ -11521,13 +11521,13 @@ Warn POs,Waarschuwing POs,reviewed,erpnext,0.67,0.65,0.55,0.65,0.8,0.9,review
 Warn Purchase Orders,Waarschuwing Aankooporders,reviewed,erpnext,0.67,0.65,0.55,0.65,0.8,0.9,review
 Warn RFQs,Waarschuw RFQs,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,0.9,ok
 Warning,Waarschuwing,reviewed,both,0.96,0.95,0.95,0.95,1.0,1.0,ok
-warning-sign,waarschuwing-teken,reviewed,frappe,0.33,0.3,0.2,0.3,0.5,0.7,rewrite
+warning-sign,waarschuwingsteken,reviewed,frappe,0.88,0.3,0.2,0.3,0.5,0.7,improved
 Warning: Another {0} # {1} exists against stock entry {2},Waarschuwing: Een andere {0} # {1} bestaat tegen voorraad binnenkomst {2},reviewed,erpnext,0.54,0.55,0.4,0.55,0.5,0.9,review
-Warning: Invalid attachment {0},Waarschuwing: Invalid Attachment {0},reviewed,erpnext,0.3,0.3,0.2,0.3,0.3,0.5,rewrite
+Warning: Invalid attachment {0},Waarschuwing: Ongeldige bijlage {0},reviewed,erpnext,0.91,0.3,0.2,0.3,0.3,0.5,improved
 Warning: Invalid SSL certificate on attachment {0},Waarschuwing: Ongeldig SSL certificaat op attachment {0},reviewed,erpnext,0.74,0.75,0.65,0.7,0.75,0.9,review
 Warning: Material Requested Qty is less than Minimum Order Qty,Waarschuwing: Materiaal Aanvraag Aantal is minder dan Minimum Bestelhoeveelheid,reviewed,erpnext,0.69,0.7,0.6,0.65,0.7,0.9,review
 Warning: Sales Order {0} already exists against Customer's Purchase Order {1},Waarschuwing: Sales Order {0} bestaat al tegen Klant Bestelling {1},reviewed,erpnext,0.65,0.65,0.55,0.65,0.65,0.9,review
-Warning: System will not check overbilling since amount for Item {0} in {1} is zero,Waarschuwing: Het systeem zal niet controleren overbilling sinds bedrag voor post {0} in {1} nul,reviewed,erpnext,0.4,0.4,0.3,0.4,0.35,0.7,rewrite
+Warning: System will not check overbilling since amount for Item {0} in {1} is zero,Waarschuwing: Het systeem controleert niet op overbetaling omdat het bedrag voor artikel {0} in {1} nul is,reviewed,erpnext,0.91,0.4,0.3,0.4,0.35,0.7,improved
 Warning: Unable to find {0} in any table related to {1},Waarschuwing: kan {0} niet vinden in een tabel met betrekking tot {1},reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
 Warranty,Garantie,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Warranty / AMC Details,Garantie / AMC Details,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
@@ -11602,7 +11602,7 @@ Weekly Long,Wekelijks lang,reviewed,frappe,0.68,0.7,0.6,0.65,0.7,0.9,review
 Weekly Off,Wekelijks Vrij,reviewed,erpnext,0.73,0.75,0.65,0.7,0.75,1.0,review
 Weight,Gewicht,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Weight (In Kilogram),Gewicht (in kilogram),reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
-"Weight is mentioned,\nPlease mention ""Weight UOM"" too","Het gewicht wordt vermeld, \n Vermeld ""Gewicht UOM"" te",reviewed,erpnext,0.35,0.35,0.25,0.35,0.3,0.6,rewrite
+"Weight is mentioned,\nPlease mention ""Weight UOM"" too","Gewicht is opgegeven.\nGeef ook de eenheid van het gewicht op (""Gewicht maateenheid"")",reviewed,erpnext,0.87,0.35,0.25,0.35,0.3,0.6,improved
 Weight Per Unit,Gewicht per eenheid,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Weight UOM,Gewichtseenheid,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Weightage,Weging,reviewed,erpnext,0.91,0.85,0.9,0.9,1.0,1.0,ok
@@ -11709,11 +11709,11 @@ Write Off Amount,Afboekbedrag,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Write Off Amount (Company Currency),Af te schrijven bedrag (Bedrijfsvaluta),reviewed,erpnext,0.67,0.6,0.65,0.6,0.8,1.0,review
 Write Off Based On,Afschrijving gebaseerd op,reviewed,erpnext,0.72,0.7,0.7,0.65,0.8,1.0,review
 Write Off Cost Center,Afschrijvingen kostenplaats,reviewed,erpnext,0.68,0.65,0.65,0.6,0.75,1.0,review
-Write Off Difference Amount,Schrijf Off Verschil Bedrag,reviewed,erpnext,0.1,0.1,0.05,0.1,0.05,0.5,rewrite
+Write Off Difference Amount,Afboeken verschilbedrag,reviewed,erpnext,0.91,0.1,0.05,0.1,0.05,0.5,improved
 Write Off Entry,Invoer afschrijving,reviewed,erpnext,0.77,0.75,0.75,0.7,0.85,1.0,review
 Write Off Outstanding Amount,Afschrijving uitstaande bedrag,reviewed,erpnext,0.68,0.65,0.65,0.65,0.7,1.0,review
 Writeoff,Afschrijven,reviewed,erpnext,0.82,0.8,0.8,0.75,0.9,1.0,ok
-Written Down Value,Geschreven waarde,reviewed,erpnext,0.49,0.45,0.4,0.45,0.7,1.0,rewrite
+Written Down Value,Boekwaarde,reviewed,erpnext,0.92,0.45,0.4,0.45,0.7,1.0,improved
 Wrong,Fout,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Wrong Fetch From value,Verkeerde waarde voor ophalen van,reviewed,frappe,0.76,0.75,0.7,0.75,0.8,1.0,review
 Wrong fieldname <b>{0}</b> in add_fetch configuration of custom script,Verkeerde veldnaam <b>{0}</b> in add_fetch-configuratie van aangepast script,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -11727,9 +11727,9 @@ Y Field,Y veld,reviewed,frappe,0.8,0.8,0.75,0.8,0.85,1.0,ok
 Year,Jaar,reviewed,both,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Year End Date,Jaar Einddatum,reviewed,erpnext,0.64,0.65,0.55,0.65,0.6,1.0,review
 Year Name,Jaar Naam,reviewed,erpnext,0.64,0.65,0.55,0.65,0.6,1.0,review
-Year of Passing,Voorbije Jaar,reviewed,erpnext,0.37,0.35,0.3,0.35,0.4,0.7,rewrite
+Year of Passing,Examenjaar,reviewed,erpnext,0.89,0.35,0.3,0.35,0.4,0.7,improved
 Year Start Date,Jaar Startdatum,reviewed,erpnext,0.64,0.65,0.55,0.65,0.6,1.0,review
-Year start date or end date is overlapping with {0}. To avoid please set company,Jaar begindatum of einddatum overlapt met {0}. Om te voorkomen dat stel bedrijf,reviewed,erpnext,0.36,0.35,0.3,0.4,0.3,0.6,rewrite
+Year start date or end date is overlapping with {0}. To avoid please set company,De begindatum of einddatum van het jaar overlapt met {0}. Stel het bedrijf in om dit te voorkomen.,reviewed,erpnext,0.9,0.35,0.3,0.4,0.3,0.6,improved
 Yearly,Jaarlijks,reviewed,both,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Yellow,Geel,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 yellow,geel,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
@@ -11737,7 +11737,7 @@ YES,JA,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Yes,Ja,reviewed,both,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Yesterday,Gisteren,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 yesterday,gisteren,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
-Yet to appear,Toch om te verschijnen,reviewed,erpnext,0.16,0.15,0.1,0.15,0.2,0.5,rewrite
+Yet to appear,Nog niet verschenen,reviewed,erpnext,0.9,0.15,0.1,0.15,0.2,0.5,improved
 Yield UOM,Opbrengst UOM,reviewed,erpnext,0.58,0.55,0.5,0.55,0.7,0.8,review
 You,U,reviewed,frappe,0.76,0.75,0.7,0.7,0.9,1.0,review
 You are connected to internet.,Je bent verbonden met internet.,reviewed,frappe,0.59,0.6,0.55,0.55,0.65,1.0,review
@@ -11964,9 +11964,9 @@ zoom-out,uitzoomen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 {0} does not belong to Company {1},{0} behoort niet tot Bedrijf {1},reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 {0} does not exist in row {1},{0} bestaat niet in rij {1},reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 {0} does not have a Healthcare Practitioner Schedule. Add it in Healthcare Practitioner,{0} heeft geen schema voor zorgverleners. Voeg het toe in Healthcare Practitioner,reviewed,erpnext,0.72,0.7,0.65,0.7,0.8,0.9,review
-{0} does not have a Healthcare Practitioner Schedule. Add it in Healthcare Practitioner master,{0} heeft geen schema voor zorgverleners. Voeg het toe aan de meester van de zorgverlener,reviewed,erpnext,0.41,0.4,0.2,0.4,0.5,0.9,rewrite
+{0} does not have a Healthcare Practitioner Schedule. Add it in Healthcare Practitioner master,{0} heeft geen zorgverlenersrooster. Voeg dit toe in het stambestand Zorgverlener.,reviewed,erpnext,0.89,0.4,0.2,0.4,0.5,0.9,improved
 {0} entered twice in Item Tax,{0} twee keer opgenomen in Artikel BTW,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-"{0} field cannot be set as unique in {1}, as there are non-unique existing values","{0} veld kan niet worden ingesteld als uniek {1}, omdat er niet uniek bestaande waarden",reviewed,frappe,0.46,0.5,0.3,0.5,0.3,0.7,rewrite
+"{0} field cannot be set as unique in {1}, as there are non-unique existing values","Veld {0} kan niet als uniek worden ingesteld in {1}, omdat er al niet-unieke waarden bestaan",reviewed,frappe,0.92,0.5,0.3,0.5,0.3,0.7,improved
 {0} Fields,{0} Velden,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 {0} for {1},{0} voor {1},reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 {0} gained {1} point for {2} {3},{0} behaalde {1} punt voor {2} {3},reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -12087,9 +12087,9 @@ zoom-out,uitzoomen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 {0} translations pending,{0} vertalingen in behandeling,reviewed,frappe,0.87,0.85,0.85,0.85,0.85,1.0,ok
 {0} Tree,{0} Boom,reviewed,frappe,0.66,0.7,0.55,0.6,0.65,0.9,review
 {0} un-shared this document with {1},{0} maakte de deling van dit document met {1} ongedaan,reviewed,frappe,0.79,0.8,0.75,0.75,0.75,1.0,review
-{0} units of [{1}](#Form/Item/{1}) found in [{2}](#Form/Warehouse/{2}),{0} eenheden van [{1}] (#Vorm/Item/{1}) gevonden in [{2}](#Vorm/Magazijn/{2}),reviewed,erpnext,0.31,0.3,0.25,0.3,0.25,0.6,rewrite
+{0} units of [{1}](#Form/Item/{1}) found in [{2}](#Form/Warehouse/{2}),{0} eenheden van [{1}](#Form/Item/{1}) aangetroffen in [{2}](#Form/Warehouse/{2}),reviewed,erpnext,0.91,0.3,0.25,0.3,0.25,0.6,improved
 {0} units of Item {1} is not available.,{0} eenheden van artikel {1} is niet beschikbaar.,reviewed,erpnext,0.66,0.7,0.6,0.65,0.55,0.9,review
-{0} units of {1} needed in {2} on {3} {4} for {5} to complete this transaction.,{0} eenheden van {1} die nodig zijn in {2} op {3} {4} te {5} om deze transactie te voltooien.,reviewed,erpnext,0.44,0.5,0.35,0.45,0.3,0.7,rewrite
+{0} units of {1} needed in {2} on {3} {4} for {5} to complete this transaction.,{0} eenheden van {1} zijn nodig in {2} op {3} {4} voor {5} om deze transactie te voltooien.,reviewed,erpnext,0.9,0.5,0.35,0.45,0.3,0.7,improved
 {0} units of {1} needed in {2} to complete this transaction.,{0} eenheden van {1} die nodig zijn in {2} om deze transactie te voltooien.,reviewed,erpnext,0.51,0.55,0.45,0.5,0.4,0.8,review
 {0} updated,{0} bijgewerkt,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
 {0} valid serial nos for Item {1},{0} geldig serienummers voor Artikel {1},reviewed,erpnext,0.53,0.55,0.45,0.55,0.4,0.75,review
@@ -12145,7 +12145,7 @@ zoom-out,uitzoomen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 {0}% Delivered,{0}% Geleverd,reviewed,erpnext,0.76,0.75,0.7,0.65,0.85,1.0,review
 "{0}, complete the operation {1} before the operation {2}.","{0}, voltooi de bewerking {1} vóór de bewerking {2}.",reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 "{0}, Row {1}","{0}, Rij {1}",reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
-"{0}: '{1}' ({3}) will get truncated, as max characters allowed is {2}","{0}: {1} &#39;({3}) zal afgekapt krijgen, als maximum toegestane tekens is {2}",reviewed,frappe,0.28,0.3,0.2,0.3,0.2,0.4,rewrite
+"{0}: '{1}' ({3}) will get truncated, as max characters allowed is {2}","{0}: '{1}' ({3}) wordt afgekapt, omdat het maximale aantal tekens {2} is",reviewed,frappe,0.92,0.3,0.2,0.3,0.2,0.4,improved
 {0}: Cannot set Amend without Cancel,{0} : Kan niet Wijzigen zonder te Annuleren,reviewed,frappe,0.63,0.65,0.55,0.6,0.6,0.9,review
 {0}: Cannot set Assign Amend if not Submittable,{0}: Kan wijziging niet doorvoeren indien niet indienbaar,reviewed,frappe,0.81,0.8,0.75,0.75,0.85,1.0,ok
 {0}: Cannot set Assign Submit if not Submittable,"{0} : Kan niet op ""In te dienen"" gezet worden indien niet indienbaar",reviewed,frappe,0.6,0.6,0.5,0.55,0.6,0.9,review
@@ -13091,7 +13091,7 @@ Identification Document Number,Identificatiedocumentnummer,reviewed,hrms,0.83,0.
 "If set, the job opening will be closed automatically after this date","Als ingesteld, wordt de vacature na deze datum automatisch gesloten",reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 "If you are using loans in salary slips, please install the {0} app from Frappe Cloud Marketplace or GitHub to continue using loan integration with payroll.","Als u leningen gebruikt in salarisstroken, installeer dan de {0} app uit de Frappe Cloud Marketplace of GitHub om de leningintegratie met de salarisadministratie te blijven gebruiken.",reviewed,hrms,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Import Attendance,Import Aanwezigheid,reviewed,hrms,0.63,0.6,0.5,0.6,0.8,1.0,review
-In Time,Intijdstempel,reviewed,hrms,0.23,0.2,0.1,0.2,0.5,0.5,rewrite
+In Time,Aankomsttijd,reviewed,hrms,0.88,0.2,0.1,0.2,0.5,0.5,improved
 "In case of any error during this background process, the system will add a comment about the error on this Payroll Entry and revert to the Submitted status",Bij een fout tijdens dit achtergrondproces voegt het systeem een opmerking toe aan deze salarisadministratieboeking en wordt de status teruggezet naar Ingediend,reviewed,hrms,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Incentive,Incentive,reviewed,hrms,0.62,0.6,0.5,0.6,0.8,1.0,review
 Incentive Amount,Incentivebedrag,reviewed,hrms,0.64,0.6,0.55,0.6,0.8,1.0,review
@@ -13117,7 +13117,7 @@ Incorrect Weightage Allocation,Onjuiste weging toegewezen,reviewed,hrms,0.74,0.7
 "Indicates the number of leaves that cannot be encashed from the leave balance. E.g. with a leave balance of 10 and 4 Non-Encashable Leaves, you can encash 6, while the remaining 4 can be carried forward or expired","Geeft het aantal verlofdagen aan dat niet kan worden uitbetaald vanuit het verlofsaldo. Bijvoorbeeld: bij een verlofsaldo van 10 en 4 niet-uitbetaalbare verlofdagen kunt u 6 dagen uitbetalen, terwijl de resterende 4 dagen kunnen worden meegenomen of vervallen",reviewed,hrms,0.88,0.9,0.85,0.85,0.9,1.0,ok
 Inspection,Inspectie,reviewed,hrms,0.89,0.85,0.9,0.85,0.95,1.0,ok
 Install,Installeren,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Install Frappe HR,Install Frappe HR,reviewed,hrms,0.47,0.3,0.5,0.4,0.7,1.0,rewrite
+Install Frappe HR,Frappe HR installeren,reviewed,hrms,0.91,0.3,0.5,0.4,0.7,1.0,improved
 Insufficient Balance,Onvoldoende saldo,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Insufficient leave balance for Leave Type {0},Onvoldoende verlofsaldo voor verloftype {0},reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Interest Amount,Rentebedrag,reviewed,hrms,0.89,0.85,0.9,0.85,0.95,1.0,ok
@@ -14263,7 +14263,7 @@ cancelled,geannuleerd,reviewed,hrms,0.93,0.9,0.95,0.9,1.0,1.0,ok
 create/submit,aanmaken/indienen,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
 here,Hier,reviewed,hrms,0.67,0.6,0.7,0.6,0.8,1.0,review
 johndoe@mail.com,johndoe@mail.com,reviewed,hrms,0.97,0.95,1.0,0.95,1.0,1.0,ok
-modify_half_day_status,modify_half_day_status,reviewed,hrms,0.22,0.1,0.0,0.5,0.5,0.0,rewrite
+modify_half_day_status,modify_half_day_status,reviewed,hrms,0.9,0.1,0.0,0.5,0.5,0.0,improved
 or for the Employee's Department: {0},of voor de afdeling van de werknemer: {0},reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
 process,verwerken,reviewed,hrms,0.78,0.7,0.8,0.8,0.9,1.0,review
 processed,verwerkt,reviewed,hrms,0.94,0.9,0.95,0.9,1.0,1.0,ok
@@ -14317,7 +14317,7 @@ years,jaren,reviewed,hrms,0.97,0.9,1.0,1.0,1.0,1.0,ok
 {0}: From {0} of type {1},{0}: Van {0} van het type {1},reviewed,hrms,0.8,0.75,0.75,0.8,0.85,1.0,ok
 {0}d,{0}d,reviewed,hrms,0.57,0.5,0.5,0.6,0.7,0.8,review
 {} {} open for this position.,{} {} open voor deze functie.,reviewed,hrms,0.72,0.7,0.65,0.75,0.7,0.9,review
- (New), (Nieuwe),reviewed,crm,0.49,0.5,0.4,0.5,0.4,0.9,rewrite
+ (New), (Nieuw),reviewed,crm,0.95,0.5,0.4,0.5,0.4,0.9,improved
 %John%,%John%,reviewed,crm,0.89,0.8,0.9,0.9,1.0,1.0,ok
 (No Title),(Geen Titel),reviewed,crm,0.73,0.7,0.7,0.75,0.75,1.0,review
 01/01/2022 to 01/31/2022,01/01/2022 tot 31/01/2022,reviewed,crm,0.94,0.9,0.95,0.9,1.0,1.0,ok
@@ -14482,7 +14482,7 @@ CRM Service Level Priority,CRM Service Level-prioriteit,reviewed,crm,0.81,0.8,0.
 CRM Status Change Log,CRM statuswijzigingslog,reviewed,crm,0.81,0.8,0.75,0.8,0.9,1.0,ok
 CRM Task,CRM-taak,reviewed,crm,0.88,0.85,0.85,0.9,1.0,1.0,ok
 CRM Telephony Agent,CRM telefonie-agent,reviewed,crm,0.78,0.75,0.7,0.8,0.9,1.0,review
-CRM Telephony Phone,CRM telefonietelefoon,reviewed,crm,0.46,0.4,0.3,0.5,0.6,1.0,rewrite
+CRM Telephony Phone,CRM telefonie-toestel,reviewed,crm,0.87,0.4,0.3,0.5,0.6,1.0,improved
 CRM Territory,CRM-territorium,reviewed,crm,0.83,0.8,0.75,0.85,1.0,1.0,ok
 CRM Twilio Settings,CRM Twilio-instellingen,reviewed,crm,0.86,0.85,0.8,0.85,1.0,1.0,ok
 CRM View Settings,CRM-weergave-instellingen,reviewed,crm,0.8,0.8,0.7,0.8,0.9,1.0,ok
@@ -15869,7 +15869,7 @@ Members of this team will see the tickets assigned to this team only,Leden van d
 Merge Ticket,Ticket samenvoegen,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Merged With,Samengevoegd met,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Misc,Overig,reviewed,helpdesk,0.87,0.85,0.8,0.85,1.0,1.0,ok
-My Dashboard,My Dashboard,reviewed,helpdesk,0.31,0.4,0.3,0.35,0.5,0.0,rewrite
+My Dashboard,Mijn dashboard,reviewed,helpdesk,0.92,0.4,0.3,0.35,0.5,0.0,improved
 My Settings,Mijn instellingen,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
 My Team,Mijn team,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 My Tickets,Mijn Tickets,reviewed,helpdesk,0.79,0.8,0.75,0.75,0.85,1.0,review
@@ -16035,7 +16035,7 @@ Saved reply deleted successfully.,Opgeslagen antwoord succesvol verwijderd.,revi
 Saved reply duplicated successfully.,Opgeslagen antwoord succesvol gedupliceerd.,reviewed,helpdesk,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Saved reply saved successfully.,Opgeslagen antwoord succesvol opgeslagen.,reviewed,helpdesk,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Saved reply updated successfully.,Opgeslagen antwoord succesvol bijgewerkt.,reviewed,helpdesk,0.91,0.9,0.85,0.9,0.95,1.0,ok
-Schedule name,Schedulenaam,reviewed,helpdesk,0.48,0.4,0.35,0.4,0.7,1.0,rewrite
+Schedule name,Planningnaam,reviewed,helpdesk,0.88,0.4,0.35,0.4,0.7,1.0,improved
 Search Index Regenerated,Zoekindex opnieuw opgebouwd,reviewed,helpdesk,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Search Score,Zoekscore,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
 "Search for ""{0}""","Zoeken naar ""{0}""",reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok

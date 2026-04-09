@@ -9899,306 +9899,306 @@ Stock Entry {0} created and,Voorraadmutatie {0} aangemaakt en,reviewed,erpnext,0
 Stock Entry {0} is not submitted,Voorraadmutatie {0} is niet ingediend,reviewed,erpnext,0.8,0.8,0.75,0.75,0.8,1.0,ok
 Stock Expenses,Voorraadkosten,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Stock Frozen Upto,Voorraad Bevroren Tot,reviewed,erpnext,0.58,0.6,0.5,0.55,0.55,1.0,review
-Stock In Hand,Voorhanden voorraad,reviewed,erpnext,,,,,,,
-Stock Items,Voorraadartikelen,reviewed,erpnext,,,,,,,
-Stock Ledger,Voorraadgrootboek,reviewed,erpnext,,,,,,,
-Stock Ledger Entries and GL Entries are reposted for the selected Purchase Receipts,Voorraad boekingen en Journaalposten worden opnieuw geboekt voor de geselecteerde Ontvangstbewijzen,reviewed,erpnext,,,,,,,
-Stock Ledger Entry,Voorraadgrootboekregel,reviewed,erpnext,,,,,,,
-Stock Liabilities,Voorraad Verplichtingen,reviewed,erpnext,,,,,,,
-Stock Projected Qty,Verwachte voorraad hoeveelheid,reviewed,erpnext,,,,,,,
-Stock Qty,Aantal voorraad,reviewed,erpnext,,,,,,,
-Stock Qty vs Serial No Count,Voorraadaantal versus serienummer,reviewed,erpnext,,,,,,,
-Stock quantity not enough for Item Code: {0} under warehouse {1}. Available quantity {2}.,Voorraadhoeveelheid niet genoeg voor artikelcode: {0} onder magazijn {1}. Beschikbare hoeveelheid {2}.,reviewed,erpnext,,,,,,,
-Stock quantity to start the Procedure is not available in the Warehouse {0}. Do you want to record a Stock Entry?,Voorraadhoeveelheid om de procedure te starten is niet beschikbaar in het magazijn {0}. Wilt u een voorraadinvoer vastleggen?,reviewed,erpnext,,,,,,,
-Stock Queue (FIFO),Voorraad rij (FIFO),reviewed,erpnext,,,,,,,
-Stock Received But Not Billed,Voorraad ontvangen maar nog niet gefactureerd,reviewed,erpnext,,,,,,,
-Stock Reconciliation,Voorraadafstemming,reviewed,erpnext,,,,,,,
-Stock Reconciliation Item,Voorraad Afletteren Artikel,reviewed,erpnext,,,,,,,
-Stock Reconciliations,Voorraadafstemmingen,reviewed,erpnext,,,,,,,
-Stock Reservation Entry,Voorraadreservering,reviewed,custom,,,,,,,
-Stock Settings,Voorraad Instellingen,reviewed,erpnext,,,,,,,
-Stock Summary,Stock Samenvatting,reviewed,erpnext,,,,,,,
-Stock transactions before {0} are frozen,Voorraadtransacties voor {0} zijn bevroren,reviewed,erpnext,,,,,,,
-Stock Transactions for Item {0} under warehouse {1} cannot be posted before this time.,Voorraadtransacties voor artikel {0} onder magazijn {1} kunnen vóór deze tijd niet worden geboekt.,reviewed,erpnext,,,,,,,
-Stock UOM,Voorradeenheid,reviewed,erpnext,,,,,,,
-Stock Uom,Voorraad Eenheid,reviewed,erpnext,,,,,,,
-Stock User,Aandeel Gebruiker,reviewed,erpnext,,,,,,,
-Stock Value,Voorraad Waarde,reviewed,erpnext,,,,,,,
-Stock Value ({0}) and Account Balance ({1}) are out of sync for account {2} and it's linked warehouses.,Voorraadwaarde ({0}) en Accountsaldo ({1}) lopen niet synchroon voor account {2} en de bijbehorende magazijnen.,reviewed,erpnext,,,,,,,
-Stock Value Difference,Voorraad Waarde Verschil,reviewed,erpnext,,,,,,,
-Stop,stoppen,reviewed,erpnext,,,,,,,
-stop,hou op,reviewed,frappe,,,,,,,
-Stop Birthday Reminders,Stop verjaardagsherinneringen,reviewed,erpnext,,,,,,,
-Stop Reason,Stop reden,reviewed,erpnext,,,,,,,
-Stopped,Gestopt,reviewed,both,,,,,,,
-"Stopped Work Order cannot be cancelled, Unstop it first to cancel","Stopped Work Order kan niet geannuleerd worden, laat het eerst annuleren om te annuleren",reviewed,erpnext,,,,,,,
-Storage Temperature,Bewaar temperatuur,reviewed,erpnext,,,,,,,
-Stores,Winkels,reviewed,erpnext,,,,,,,
-Stores - {0},Winkels - {0},reviewed,erpnext,,,,,,,
-Stores the JSON of last known versions of various installed apps. It is used to show release notes.,Slaat de JSON van de laatst bekende versies van de verschillende geïnstalleerde apps. Het wordt gebruikt om de release notes zien.,reviewed,frappe,,,,,,,
-Straight Line,Rechte lijn,reviewed,erpnext,,,,,,,
-Straight rows of keys are easy to guess,Rechte rijen van de toetsen zijn makkelijk te raden,reviewed,frappe,,,,,,,
-Strength,Kracht,reviewed,erpnext,,,,,,,
-Stripe payment gateway settings,Strip-gateway instellingen,reviewed,frappe,,,,,,,
-Stripe Settings,Streep instellingen,reviewed,frappe,,,,,,,
-Student Activity,Studentactiviteit,reviewed,erpnext,,,,,,,
-Student Address,Studentenadres,reviewed,erpnext,,,,,,,
-Student Admission,student Toelating,reviewed,erpnext,,,,,,,
-Student Admission Program,Studenten toelating programma,reviewed,erpnext,,,,,,,
-Student Admissions,studentenadministratie,reviewed,erpnext,,,,,,,
-Student and Guardian Contact Details,Student and Guardian Contactgegevens,reviewed,erpnext,,,,,,,
-Student Applicant,student Aanvrager,reviewed,erpnext,,,,,,,
-Student Attendance,student Attendance,reviewed,erpnext,,,,,,,
-Student Attendance record {0} already exists against the Student {1},Student aanwezigheidsrecord {0} bestaat al voor de student {1},reviewed,erpnext,,,,,,,
-Student Batch,student Batch,reviewed,erpnext,,,,,,,
-Student Batch Name,Student batchnaam,reviewed,erpnext,,,,,,,
-"Student Batches help you track attendance, assessments and fees for students","Student Batches helpen bijhouden opkomst, evaluaties en kosten voor studenten",reviewed,erpnext,,,,,,,
-Student Category,student Categorie,reviewed,erpnext,,,,,,,
-Student Email Address,Student e-mailadres,reviewed,erpnext,,,,,,,
-Student Group,student Group,reviewed,erpnext,,,,,,,
-Student Group Instructor,Student Groep Instructeur,reviewed,erpnext,,,,,,,
-Student Group is already updated.,Studentgroep is al bijgewerkt.,reviewed,erpnext,,,,,,,
-Student Group Strength,Studentengroep Sterkte,reviewed,erpnext,,,,,,,
-Student Group:,Studentengroep:,reviewed,erpnext,,,,,,,
-Student Guardian,student Guardian,reviewed,erpnext,,,,,,,
-Student ID,student ID,reviewed,erpnext,,,,,,,
-Student ID:,Student-ID:,reviewed,erpnext,,,,,,,
-Student is already enrolled via Course Enrollment {0},Student is al ingeschreven via cursusinschrijving {0},reviewed,erpnext,,,,,,,
-Student is already enrolled.,Student is reeds ingeschreven.,reviewed,erpnext,,,,,,,
-Student Language,student Taal,reviewed,erpnext,,,,,,,
-Student Leave Application,Student verlofaanvraag,reviewed,erpnext,,,,,,,
-Student LMS Activity,LMS-activiteit student,reviewed,erpnext,,,,,,,
-Student Log,student Log,reviewed,erpnext,,,,,,,
-Student Monthly Attendance Sheet,Student Maandelijkse presentielijst,reviewed,erpnext,,,,,,,
-Student Name,Studenten naam,reviewed,erpnext,,,,,,,
-Student Name:,Studenten naam:,reviewed,erpnext,,,,,,,
-Student Report Card,Studentenrapportkaart,reviewed,erpnext,,,,,,,
-Student Report Generation Tool,Studentenrapport-generatietool,reviewed,erpnext,,,,,,,
-Student Sibling,student Sibling,reviewed,erpnext,,,,,,,
-Student Siblings,student Broers en zussen,reviewed,erpnext,,,,,,,
-Student with email {0} does not exist,Student met e-mail {0} bestaat niet,reviewed,erpnext,,,,,,,
-Student {0} - {1} appears Multiple times in row {2} & {3},Student {0} - {1} meerdere keren in rij {2} en {3},reviewed,erpnext,,,,,,,
-Student {0} does not belong to group {1},Student {0} hoort niet bij groep {1},reviewed,erpnext,,,,,,,
-Student {0} exist against student applicant {1},Student {0} bestaat tegen student aanvrager {1},reviewed,erpnext,,,,,,,
-Student {0}: {1} does not belong to Student Group {2},Leerling {0}: {1} behoort niet tot leerlinggroep {2},reviewed,erpnext,,,,,,,
-Students,leerlingen,reviewed,erpnext,,,,,,,
-"Students are at the heart of the system, add all your students","Studenten worden in het hart van het systeem, voegt al jouw leerlingen",reviewed,erpnext,,,,,,,
-Students HTML,studenten HTML,reviewed,erpnext,,,,,,,
-Studying in Same Institute,Het bestuderen in hetzelfde instituut,reviewed,erpnext,,,,,,,
-Style,Stijl,reviewed,frappe,,,,,,,
-"Style represents the button color: Success - Green, Danger - Red, Inverse - Black, Primary - Dark Blue, Info - Light Blue, Warning - Orange","Stijl staat voor de kleur van de knoppen: Succes - Groen, Gevaar - Rood, Inverse - Zwart, Lager - Dark Blue, Info - Light Blue, Waarschuwing - Oranje",reviewed,frappe,,,,,,,
-Style Settings,Stijlinstellingen,reviewed,frappe,,,,,,,
-Stylesheets for Print Formats,Stylesheets voor afdrukformaten,reviewed,frappe,,,,,,,
-Sub Assemblies,Uitbesteed werk,reviewed,erpnext,,,,,,,
-Sub Procedure,Subprocedure,reviewed,erpnext,,,,,,,
-Sub Type,Subtype,reviewed,erpnext,,,,,,,
-Sub-assembly BOM Count,Stuklijsttelling van subassemblage,reviewed,erpnext,,,,,,,
-Sub-contracting,Uitbesteding,reviewed,erpnext,,,,,,,
-"Sub-currency. For e.g. ""Cent""",Sub-valuta. Voor bijvoorbeeld &quot;Cent&quot;,reviewed,frappe,,,,,,,
-Sub-domain provided by erpnext.com,Subdomein aangeleverd door erpnext.com,reviewed,frappe,,,,,,,
-Subcontract,subcontract,reviewed,erpnext,,,,,,,
-Subcontracted Item,Object in onderaanneming,reviewed,erpnext,,,,,,,
-Subcontracted Item To Be Received,Uitbesteed item ontvangen,reviewed,erpnext,,,,,,,
-Subcontracted Raw Materials To Be Transferred,Uitbestede grondstoffen worden overgedragen,reviewed,erpnext,,,,,,,
-Subcontracting BOM,Uitbesteding stuklijst,reviewed,custom,,,,,,,
-Subcontracting Inward Order,Uitbesteding inkomende order,reviewed,custom,,,,,,,
-Subcontracting Order,Uitbestedingsorder,reviewed,custom,,,,,,,
-Subcontracting Receipt,Uitbesteding ontvangstbon,reviewed,custom,,,,,,,
-Subdomain,Subdomein,reviewed,frappe,,,,,,,
-Subject,Onderwerp,reviewed,both,,,,,,,
-Subject Field,Onderwerp veld,reviewed,frappe,,,,,,,
-"Subject Field type should be Data, Text, Long Text, Small Text, Text Editor","Onderwerp Veldtype moet Data, Tekst, Lange tekst, Kleine tekst, Teksteditor zijn",reviewed,frappe,,,,,,,
-Submit,Indienen,reviewed,both,,,,,,,
-Submit After Import,Indienen na importeren,reviewed,frappe,,,,,,,
-Submit after importing,Indienen na importeren,reviewed,frappe,,,,,,,
-Submit an Issue,Dien een melding in,reviewed,frappe,,,,,,,
-Submit Journal Entries,Dien journaalboekingen in,reviewed,erpnext,,,,,,,
-Submit Review,Review versturen,reviewed,erpnext,,,,,,,
-Submit this document to complete this step.,Dien dit document in om deze stap te voltooien.,reviewed,frappe,,,,,,,
-Submit this document to confirm,Dien dit document in om te bevestigen,reviewed,frappe,,,,,,,
-Submit this Work Order for further processing.,Dien deze werkorder in voor verdere verwerking.,reviewed,erpnext,,,,,,,
-Submit {0} documents?,{0} documenten indienen?,reviewed,frappe,,,,,,,
-Submit/Reconcile Payments,Betalingen verzenden / afstemmen,reviewed,erpnext,,,,,,,
-Submitted,Ingediend,reviewed,both,,,,,,,
-Submitted Date,Datum indienen,reviewed,erpnext,,,,,,,
-Submitted Document cannot be converted back to draft. Transition row {0},Ingediend document kan niet terug naar concept worden omgezet. Transitierij {0},reviewed,frappe,,,,,,,
-submitted this document,dit document ingediend,reviewed,frappe,,,,,,,
-submitted this document {0},heeft dit document {0} ingediend,reviewed,frappe,,,,,,,
-Submitting,Indienen,reviewed,frappe,,,,,,,
-Submitting {0},{0} indienen,reviewed,frappe,,,,,,,
-Submitting...,Verzenden ...,reviewed,frappe,,,,,,,
-Subscription,Abonnement,reviewed,erpnext,,,,,,,
-Subscription Activated,Abonnement geactiveerd,reviewed,erpnext,,,,,,,
-Subscription End,Abonnement Einde,reviewed,erpnext,,,,,,,
-Subscription End Date,Einddatum abonnement,reviewed,erpnext,,,,,,,
-Subscription End Date is mandatory to follow calendar months,De einddatum van het abonnement is verplicht om kalendermaanden te volgen,reviewed,erpnext,,,,,,,
-Subscription End Date must be after {0} as per the subscription plan,De einddatum van het abonnement moet na {0} liggen volgens het abonnement,reviewed,erpnext,,,,,,,
-Subscription ID,Abonnements-ID,reviewed,erpnext,,,,,,,
-Subscription Invoice,Abonnementsfactuur,reviewed,erpnext,,,,,,,
-Subscription Management,Abonnementbeheer,reviewed,erpnext,,,,,,,
-Subscription Notification,Abonnementsmelding,reviewed,frappe,,,,,,,
-Subscription Period,Abonnementsperiode,reviewed,erpnext,,,,,,,
-Subscription Plan,Abonnementsplan,reviewed,erpnext,,,,,,,
-Subscription Plan Detail,Abonnementsplan Detail,reviewed,erpnext,,,,,,,
-Subscription Plans,Abonnementen,reviewed,erpnext,,,,,,,
-Subscription Price Based On,Abonnementsprijs gebaseerd op,reviewed,erpnext,,,,,,,
-Subscription Section,Abonnementssectie,reviewed,erpnext,,,,,,,
-Subscription Settings,Abonnementsinstellingen,reviewed,erpnext,,,,,,,
-Subscription Start,Abonnement starten,reviewed,erpnext,,,,,,,
-Subscription Start Date,Begindatum abonnement,reviewed,erpnext,,,,,,,
-Subscriptions,abonnementen,reviewed,erpnext,,,,,,,
-Subsidiary,Dochteronderneming,reviewed,frappe,,,,,,,
-Subtitle,subtitel,reviewed,both,,,,,,,
-Subtotal,Subtotaal,reviewed,erpnext,,,,,,,
-Success,Succes,reviewed,both,,,,,,,
-success,succes,reviewed,frappe,,,,,,,
-Success Action,Succesactie,reviewed,frappe,,,,,,,
-Success Message,Succes Bericht,reviewed,frappe,,,,,,,
-Success Redirect URL,Succes-omleidings-URL,reviewed,erpnext,,,,,,,
-Success Settings,Succesinstellingen,reviewed,erpnext,,,,,,,
-Success URL,Succes URL,reviewed,frappe,,,,,,,
-Success! You are good to go 👍,Gelukt! U kunt aan de slag 👍,reviewed,frappe,,,,,,,
-Successful,geslaagd,reviewed,erpnext,,,,,,,
-Successful Transactions,Succesvolle transacties,reviewed,frappe,,,,,,,
-Successful: {0} to {1},Succesvolle: {0} tot {1},reviewed,frappe,,,,,,,
-Successfully created payment entries,Met succes betalingsgegevens aangemaakt,reviewed,erpnext,,,,,,,
-Successfully deleted all transactions related to this company!,Succesvol verwijderd alle transacties met betrekking tot dit bedrijf!,reviewed,erpnext,,,,,,,
-Successfully Done,Met succes gedaan,reviewed,frappe,,,,,,,
-"Successfully imported {0} record out of {1}. Click on Export Errored Rows, fix the errors and import again.","{0} record uit {1} geïmporteerd. Klik op Foutrijen exporteren, herstel de fouten en importeer opnieuw.",reviewed,frappe,,,,,,,
-Successfully imported {0} record.,{0} record succesvol geïmporteerd.,reviewed,frappe,,,,,,,
-"Successfully imported {0} records out of {1}. Click on Export Errored Rows, fix the errors and import again.","{0} records uit {1} geïmporteerd. Klik op Foutrijen exporteren, herstel de fouten en importeer opnieuw.",reviewed,frappe,,,,,,,
-Successfully imported {0} records.,{0} records succesvol geïmporteerd.,reviewed,frappe,,,,,,,
-Successfully Reconciled,Succesvol Afgeletterd,reviewed,erpnext,,,,,,,
-Successfully Set Supplier,Leverancier succesvol ingesteld,reviewed,erpnext,,,,,,,
-Successfully Submitted!,Met succes ingediend!,reviewed,frappe,,,,,,,
-Successfully Updated,Succesvol geüpdatet,reviewed,frappe,,,,,,,
-Successfully updated translations,Succesvol bijgewerkte vertalingen,reviewed,frappe,,,,,,,
-"Successfully updated {0} record out of {1}. Click on Export Errored Rows, fix the errors and import again.","{0} record uit {1} geüpdatet. Klik op Foutrijen exporteren, herstel de fouten en importeer opnieuw.",reviewed,frappe,,,,,,,
-Successfully updated {0} record.,{0} record succesvol bijgewerkt.,reviewed,frappe,,,,,,,
-"Successfully updated {0} records out of {1}. Click on Export Errored Rows, fix the errors and import again.","{0} records van {1} zijn bijgewerkt. Klik op Foutrijen exporteren, herstel de fouten en importeer opnieuw.",reviewed,frappe,,,,,,,
-Successfully updated {0} records.,{0} records succesvol bijgewerkt.,reviewed,frappe,,,,,,,
-Suggested Username: {0},Voorgestelde gebruikersnaam: {0},reviewed,frappe,,,,,,,
-Suggestions,Suggesties,reviewed,erpnext,,,,,,,
-Sum,Som,reviewed,frappe,,,,,,,
-Sum of points for all goals should be 100. It is {0},Som van de punten voor alle doelen moeten zijn 100. Het is {0},reviewed,erpnext,,,,,,,
-Sum of Scores of Assessment Criteria needs to be {0}.,Som van de scores van de beoordelingscriteria moet {0} te zijn.,reviewed,erpnext,,,,,,,
-Sum of {0},Som van {0},reviewed,frappe,,,,,,,
-Summary,Overzicht,reviewed,both,,,,,,,
-Summary for this month and pending activities,Samenvatting voor deze maand en in afwachting van activiteiten,reviewed,erpnext,,,,,,,
-Summary for this week and pending activities,Samenvatting voor deze week en in afwachting van activiteiten,reviewed,erpnext,,,,,,,
-Sunday,Zondag,reviewed,both,,,,,,,
-Supervisor,Leidinggevende,reviewed,erpnext,,,,,,,
-Supervisor Name,Naam leidinggevende,reviewed,erpnext,,,,,,,
-Suplier,Leverancier,reviewed,erpnext,,,,,,,
-Supplied Items,Geleverde Artikelen,reviewed,erpnext,,,,,,,
-Supplied Qty,Geleverd aantal,reviewed,erpnext,,,,,,,
-Supplier,Leverancier,reviewed,erpnext,,,,,,,
-Supplier > Supplier Type,Leverancier&gt; Type leverancier,reviewed,erpnext,,,,,,,
-Supplier Address,Adres Leverancier,reviewed,erpnext,,,,,,,
-Supplier Addresses And Contacts,Leverancier Adressen en Contacten,reviewed,erpnext,,,,,,,
-Supplier database.,Leverancierbestand,reviewed,erpnext,,,,,,,
-Supplier delivers to Customer,Leverancier levert aan de Klant,reviewed,erpnext,,,,,,,
-Supplier Delivery Note,Leveranciersafleverbon,reviewed,erpnext,,,,,,,
-Supplier Details,Leveranciersgegevens,reviewed,erpnext,,,,,,,
-Supplier Group,Leveranciersgroep,reviewed,erpnext,,,,,,,
-Supplier Group master.,Leverancier Groepsmaster.,reviewed,erpnext,,,,,,,
-Supplier Group Name,Naam Leveranciergroep,reviewed,erpnext,,,,,,,
-Supplier GSTIN,Leverancier GSTIN,reviewed,erpnext,,,,,,,
-Supplier Id,Leverancier ID,reviewed,erpnext,,,,,,,
-Supplier Invoice Date,Factuurdatum Leverancier,reviewed,erpnext,,,,,,,
-Supplier Invoice Date cannot be greater than Posting Date,Leverancier Factuurdatum kan niet groter zijn dan Posting Date,reviewed,erpnext,,,,,,,
-Supplier Invoice Details,Leverancier Invoice Details,reviewed,erpnext,,,,,,,
-Supplier Invoice No,Factuurnr. Leverancier,reviewed,erpnext,,,,,,,
-Supplier Invoice No exists in Purchase Invoice {0},Leverancier factuur nr bestaat in Purchase Invoice {0},reviewed,erpnext,,,,,,,
-Supplier Items,Leverancier Artikelen,reviewed,erpnext,,,,,,,
-Supplier Lead Time (days),Doorlooptijd leverancier (dagen),reviewed,erpnext,,,,,,,
-Supplier Ledger Summary,Overzicht leveranciersboek,reviewed,erpnext,,,,,,,
-Supplier Name,Leveranciersnaam,reviewed,erpnext,,,,,,,
-Supplier Naming By,Leverancier Benaming Door,reviewed,erpnext,,,,,,,
-Supplier of Goods or Services.,Leverancier van goederen of diensten.,reviewed,erpnext,,,,,,,
-Supplier Part No,Leverancier Part No,reviewed,erpnext,,,,,,,
-Supplier Part Number,Leverancier Onderdeelnummer,reviewed,erpnext,,,,,,,
-Supplier Quotation,Leverancier Offerte,reviewed,erpnext,,,,,,,
-Supplier Quotation Comparison,Vergelijking van offertes van leveranciers,reviewed,erpnext,,,,,,,
-Supplier Quotation Item,Leverancier Offerte Artikel,reviewed,erpnext,,,,,,,
-Supplier Quotation {0} Created,Offerte van leverancier {0} gemaakt,reviewed,erpnext,,,,,,,
-Supplier Score,Leverancierscore,reviewed,erpnext,,,,,,,
-Supplier Scorecard,Leveranciers scorecard,reviewed,erpnext,,,,,,,
-Supplier Scorecard Criteria,Leveranciers scorecard criteria,reviewed,erpnext,,,,,,,
-Supplier Scorecard Period,Leveranciers scorecard periode,reviewed,erpnext,,,,,,,
-Supplier Scorecard Scoring Criteria,Scorecard Scoringscriteria voor leveranciers,reviewed,erpnext,,,,,,,
-Supplier Scorecard Scoring Standing,Leverancier Scorecard Scoring Standing,reviewed,erpnext,,,,,,,
-Supplier Scorecard Scoring Variable,Leverancier Scorecard Scorevariabele,reviewed,erpnext,,,,,,,
-Supplier Scorecard Setup,Leveranciers Scorecard Setup,reviewed,erpnext,,,,,,,
-Supplier Scorecard Standing,Leveranciers scorecard status,reviewed,erpnext,,,,,,,
-Supplier Scorecard Variable,Leveranciers scorecard variabele,reviewed,erpnext,,,,,,,
-Supplier Type,Leverancier Type,reviewed,erpnext,,,,,,,
-Supplier Warehouse,Leverancier Magazijn,reviewed,erpnext,,,,,,,
-Supplier Warehouse mandatory for sub-contracted Purchase Receipt,Leverancier Magazijn verplicht voor uitbesteedde Ontvangstbewijs,reviewed,erpnext,,,,,,,
-Supplier {0} not found in {1},Leverancier {0} niet gevonden in {1},reviewed,erpnext,,,,,,,
-Supplier(s),Leverancier(s),reviewed,erpnext,,,,,,,
-Supplier-Wise Sales Analytics,Leverancier-gebaseerde Verkoop Analyse,reviewed,erpnext,,,,,,,
-Suppliers,Leveranciers,reviewed,erpnext,,,,,,,
-Supplies made to UIN holders,Benodigdheden voor UIN-houders,reviewed,erpnext,,,,,,,
-Supplies made to Unregistered Persons,Leveringen aan niet-geregistreerde personen,reviewed,erpnext,,,,,,,
-Suppliies made to Composition Taxable Persons,Leveringen aan compositie belastingplichtigen,reviewed,erpnext,,,,,,,
-Supply Raw Materials,Supply Grondstoffen,reviewed,erpnext,,,,,,,
-Supply Raw Materials for Purchase,Supply Grondstoffen voor Aankoop,reviewed,erpnext,,,,,,,
-Supply Type,Leveringstype,reviewed,erpnext,,,,,,,
-Support Analytics,Support Analyse,reviewed,erpnext,,,,,,,
-Support and Resolution,Ondersteuning en oplossing,reviewed,erpnext,,,,,,,
-Support Email Address Not Specified,E-mailadres voor ondersteuning niet gespecificeerd,reviewed,frappe,,,,,,,
-Support Hours,Ondersteuningstijden,reviewed,erpnext,,,,,,,
-Support Portal,Ondersteuningsportal,reviewed,erpnext,,,,,,,
-Support queries from customers.,Support vragen van klanten.,reviewed,erpnext,,,,,,,
-Support Search Source,Zoekbron ondersteunen,reviewed,erpnext,,,,,,,
-Support Settings,ondersteuning Instellingen,reviewed,erpnext,,,,,,,
-Support Tickets,Ondersteuning tickets,reviewed,erpnext,,,,,,,
-Surgical History,Chirurgische Geschiedenis,reviewed,erpnext,,,,,,,
-Susceptible,vatbaar,reviewed,erpnext,,,,,,,
-Suspend Sending,opschorten verzenden,reviewed,frappe,,,,,,,
-Suspended,Geschorst,reviewed,erpnext,,,,,,,
-SWIFT Number,SWIFT nummer,reviewed,erpnext,,,,,,,
-SWIFT number,SWIFT-nummer,reviewed,erpnext,,,,,,,
-Switch Between Payment Modes,Schakel tussen betalingsmodi,reviewed,erpnext,,,,,,,
-Switch To Desk,Overschakelen naar Desk,reviewed,frappe,,,,,,,
-Symbol,Symbool,reviewed,frappe,,,,,,,
-Symptoms,Symptomen,reviewed,erpnext,,,,,,,
-Symptoms:,Symptomen:,reviewed,erpnext,,,,,,,
-Sync,Synchroniseren,reviewed,frappe,,,,,,,
-Sync Calendar,Kalender synchroniseren,reviewed,frappe,,,,,,,
-Sync Contacts,Contacten synchroniseren,reviewed,frappe,,,,,,,
-Sync has been temporarily disabled because maximum retries have been exceeded,Synchronisatie is tijdelijk uitgeschakeld omdat de maximale pogingen zijn overschreden,reviewed,erpnext,,,,,,,
-Sync in Progress,Synchronisatie in uitvoering,reviewed,erpnext,,,,,,,
-Sync on Migrate,Sync op Migrate,reviewed,frappe,,,,,,,
-Sync Orders,Synchroniseer bestellingen,reviewed,erpnext,,,,,,,
-Sync Products,Synchroniseer producten,reviewed,erpnext,,,,,,,
-Sync Taxes and Charges,Synchroniseer belastingen en heffingen,reviewed,erpnext,,,,,,,
-"Sync token was invalid and has been resetted, Retry syncing.","Synchronisatietoken was ongeldig en is opnieuw ingesteld, probeer opnieuw te synchroniseren.",reviewed,frappe,,,,,,,
-Sync with Google Calendar,Synchroniseren met Google Agenda,reviewed,frappe,,,,,,,
-Sync with Google Contacts,Synchroniseer met Google Contacten,reviewed,frappe,,,,,,,
-Synced,Gesynchroniseerd,reviewed,frappe,,,,,,,
-Synced With Hub,Gesynchroniseerd met Hub,reviewed,erpnext,,,,,,,
-Synchronize all accounts every hour,Synchroniseer alle accounts elk uur,reviewed,erpnext,,,,,,,
-Synchronize this account,Synchroniseer dit account,reviewed,erpnext,,,,,,,
-Syncing,synchroniseren,reviewed,frappe,,,,,,,
-Syncing {0} of {1},Synchroniseren {0} van {1},reviewed,frappe,,,,,,,
-Syntax error in condition: {0},Syntaxisfout in voorwaarde: {0},reviewed,erpnext,,,,,,,
-Syntax error in formula or condition: {0},Syntaxisfout in formule of aandoening: {0},reviewed,erpnext,,,,,,,
-Syntax error in template,Syntaxisfout in template,reviewed,frappe,,,,,,,
-System,Systeem,reviewed,frappe,,,,,,,
-System and Website Users,Systeem en gebruikers van de website,reviewed,frappe,,,,,,,
-System Console,Systeemconsole,reviewed,frappe,,,,,,,
-System Generated,Systeemgegenereerd,reviewed,custom,,,,,,,
-System managers are allowed by default,Systeembeheerders zijn standaard toegestaan,reviewed,frappe,,,,,,,
-System Notification,Systeemmelding,reviewed,frappe,,,,,,,
-System Page,Systeempagina,reviewed,frappe,,,,,,,
-System Settings,Systeeminstellingen,reviewed,frappe,,,,,,,
-System User,Systeemgebruiker,reviewed,frappe,,,,,,,
-"System User (login) ID. If set, it will become default for all HR forms.","Systeemgebruiker (login) ID. Indien ingesteld, zal het de standaard worden voor alle HR-formulieren.",reviewed,erpnext,,,,,,,
-System will automatically delete Prepared Reports after these many days since creation,Het systeem verwijdert automatisch voorbereide rapporten na deze vele dagen sinds de aanmaak,reviewed,frappe,,,,,,,
-System will fetch all the entries if limit value is zero.,Systeem haalt alle gegevens op als de limietwaarde nul is.,reviewed,erpnext,,,,,,,
-System will notify to increase or decrease quantity or amount,Het systeem meldt om de hoeveelheid of hoeveelheid te verhogen of te verlagen,reviewed,erpnext,,,,,,,
+Stock In Hand,Voorhanden voorraad,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Stock Items,Voorraadartikelen,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Stock Ledger,Voorraadgrootboek,reviewed,erpnext,0.86,0.85,0.75,0.85,1.0,1.0,ok
+Stock Ledger Entries and GL Entries are reposted for the selected Purchase Receipts,Voorraad boekingen en Journaalposten worden opnieuw geboekt voor de geselecteerde Ontvangstbewijzen,reviewed,erpnext,0.73,0.75,0.65,0.7,0.7,0.9,review
+Stock Ledger Entry,Voorraadgrootboekregel,reviewed,erpnext,0.82,0.8,0.65,0.8,1.0,1.0,ok
+Stock Liabilities,Voorraad Verplichtingen,reviewed,erpnext,0.7,0.7,0.55,0.65,0.8,1.0,review
+Stock Projected Qty,Verwachte voorraad hoeveelheid,reviewed,erpnext,0.69,0.7,0.55,0.65,0.75,1.0,review
+Stock Qty,Aantal voorraad,reviewed,erpnext,0.65,0.65,0.5,0.65,0.7,1.0,review
+Stock Qty vs Serial No Count,Voorraadaantal versus serienummer,reviewed,erpnext,0.74,0.75,0.65,0.7,0.8,0.8,review
+Stock quantity not enough for Item Code: {0} under warehouse {1}. Available quantity {2}.,Voorraadhoeveelheid niet genoeg voor artikelcode: {0} onder magazijn {1}. Beschikbare hoeveelheid {2}.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Stock quantity to start the Procedure is not available in the Warehouse {0}. Do you want to record a Stock Entry?,Voorraadhoeveelheid om de procedure te starten is niet beschikbaar in het magazijn {0}. Wilt u een voorraadinvoer vastleggen?,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Stock Queue (FIFO),Voorraad rij (FIFO),reviewed,erpnext,0.69,0.7,0.55,0.7,0.8,1.0,review
+Stock Received But Not Billed,Voorraad ontvangen maar nog niet gefactureerd,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Stock Reconciliation,Voorraadafstemming,reviewed,erpnext,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Stock Reconciliation Item,Voorraad Afletteren Artikel,reviewed,erpnext,0.4,0.45,0.3,0.35,0.5,0.9,rewrite
+Stock Reconciliations,Voorraadafstemmingen,reviewed,erpnext,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Stock Reservation Entry,Voorraadreservering,reviewed,custom,0.83,0.8,0.75,0.8,1.0,1.0,ok
+Stock Settings,Voorraad Instellingen,reviewed,erpnext,0.74,0.75,0.65,0.7,0.8,1.0,review
+Stock Summary,Stock Samenvatting,reviewed,erpnext,0.31,0.3,0.2,0.25,0.5,0.6,rewrite
+Stock transactions before {0} are frozen,Voorraadtransacties voor {0} zijn bevroren,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Stock Transactions for Item {0} under warehouse {1} cannot be posted before this time.,Voorraadtransacties voor artikel {0} onder magazijn {1} kunnen vóór deze tijd niet worden geboekt.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Stock UOM,Voorradeenheid,reviewed,erpnext,0.65,0.65,0.55,0.6,0.7,1.0,review
+Stock Uom,Voorraad Eenheid,reviewed,erpnext,0.61,0.6,0.5,0.55,0.65,1.0,review
+Stock User,Aandeel Gebruiker,reviewed,erpnext,0.26,0.2,0.15,0.2,0.5,0.8,rewrite
+Stock Value,Voorraad Waarde,reviewed,erpnext,0.7,0.7,0.6,0.65,0.8,1.0,review
+Stock Value ({0}) and Account Balance ({1}) are out of sync for account {2} and it's linked warehouses.,Voorraadwaarde ({0}) en Accountsaldo ({1}) lopen niet synchroon voor account {2} en de bijbehorende magazijnen.,reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Stock Value Difference,Voorraad Waarde Verschil,reviewed,erpnext,0.65,0.65,0.55,0.6,0.75,1.0,review
+Stop,stoppen,reviewed,erpnext,0.63,0.65,0.55,0.6,0.6,1.0,review
+stop,hou op,reviewed,frappe,0.36,0.35,0.25,0.3,0.5,0.8,rewrite
+Stop Birthday Reminders,Stop verjaardagsherinneringen,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Stop Reason,Stop reden,reviewed,erpnext,0.69,0.7,0.6,0.65,0.75,1.0,review
+Stopped,Gestopt,reviewed,both,0.88,0.85,0.85,0.85,1.0,1.0,ok
+"Stopped Work Order cannot be cancelled, Unstop it first to cancel","Stopped Work Order kan niet geannuleerd worden, laat het eerst annuleren om te annuleren",reviewed,erpnext,0.27,0.25,0.2,0.25,0.3,0.6,rewrite
+Storage Temperature,Bewaar temperatuur,reviewed,erpnext,0.7,0.7,0.6,0.7,0.75,1.0,review
+Stores,Winkels,reviewed,erpnext,0.77,0.75,0.7,0.75,0.9,1.0,review
+Stores - {0},Winkels - {0},reviewed,erpnext,0.77,0.75,0.7,0.75,0.9,1.0,review
+Stores the JSON of last known versions of various installed apps. It is used to show release notes.,Slaat de JSON van de laatst bekende versies van de verschillende geïnstalleerde apps. Het wordt gebruikt om de release notes zien.,reviewed,frappe,0.56,0.55,0.45,0.55,0.55,0.85,review
+Straight Line,Rechte lijn,reviewed,erpnext,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Straight rows of keys are easy to guess,Rechte rijen van de toetsen zijn makkelijk te raden,reviewed,frappe,0.75,0.75,0.65,0.75,0.8,1.0,review
+Strength,Kracht,reviewed,erpnext,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Stripe payment gateway settings,Strip-gateway instellingen,reviewed,frappe,0.36,0.35,0.25,0.3,0.4,0.7,rewrite
+Stripe Settings,Streep instellingen,reviewed,frappe,0.33,0.3,0.2,0.3,0.4,0.8,rewrite
+Student Activity,Studentactiviteit,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Student Address,Studentenadres,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Student Admission,student Toelating,reviewed,erpnext,0.59,0.6,0.5,0.55,0.55,1.0,review
+Student Admission Program,Studenten toelating programma,reviewed,erpnext,0.63,0.65,0.55,0.6,0.65,1.0,review
+Student Admissions,studentenadministratie,reviewed,erpnext,0.44,0.45,0.35,0.4,0.5,0.8,rewrite
+Student and Guardian Contact Details,Student and Guardian Contactgegevens,reviewed,erpnext,0.44,0.45,0.35,0.4,0.5,0.8,rewrite
+Student Applicant,student Aanvrager,reviewed,erpnext,0.59,0.6,0.5,0.55,0.55,1.0,review
+Student Attendance,student Attendance,reviewed,erpnext,0.23,0.2,0.15,0.2,0.3,0.6,rewrite
+Student Attendance record {0} already exists against the Student {1},Student aanwezigheidsrecord {0} bestaat al voor de student {1},reviewed,erpnext,0.82,0.8,0.75,0.8,0.85,1.0,ok
+Student Batch,student Batch,reviewed,erpnext,0.44,0.45,0.35,0.4,0.5,0.8,rewrite
+Student Batch Name,Student batchnaam,reviewed,erpnext,0.69,0.7,0.6,0.65,0.75,1.0,review
+"Student Batches help you track attendance, assessments and fees for students","Student Batches helpen bijhouden opkomst, evaluaties en kosten voor studenten",reviewed,erpnext,0.54,0.55,0.45,0.5,0.55,0.85,review
+Student Category,student Categorie,reviewed,erpnext,0.59,0.6,0.5,0.55,0.55,1.0,review
+Student Email Address,Student e-mailadres,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Student Group,student Group,reviewed,erpnext,0.44,0.45,0.35,0.4,0.5,0.8,rewrite
+Student Group Instructor,Student Groep Instructeur,reviewed,erpnext,0.74,0.75,0.65,0.7,0.8,1.0,review
+Student Group is already updated.,Studentgroep is al bijgewerkt.,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Student Group Strength,Studentengroep Sterkte,reviewed,erpnext,0.69,0.7,0.6,0.65,0.75,1.0,review
+Student Group:,Studentengroep:,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Student Guardian,student Guardian,reviewed,erpnext,0.44,0.45,0.35,0.4,0.5,0.8,rewrite
+Student ID,student ID,reviewed,erpnext,0.49,0.5,0.4,0.45,0.5,0.8,rewrite
+Student ID:,Student-ID:,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Student is already enrolled via Course Enrollment {0},Student is al ingeschreven via cursusinschrijving {0},reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Student is already enrolled.,Student is reeds ingeschreven.,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Student Language,student Taal,reviewed,erpnext,0.59,0.6,0.5,0.55,0.55,1.0,review
+Student Leave Application,Student verlofaanvraag,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Student LMS Activity,LMS-activiteit student,reviewed,erpnext,0.74,0.75,0.65,0.7,0.8,1.0,review
+Student Log,student Log,reviewed,erpnext,0.44,0.45,0.35,0.4,0.5,0.8,rewrite
+Student Monthly Attendance Sheet,Student Maandelijkse presentielijst,reviewed,erpnext,0.74,0.75,0.65,0.7,0.8,1.0,review
+Student Name,Studenten naam,reviewed,erpnext,0.64,0.65,0.55,0.6,0.65,1.0,review
+Student Name:,Studenten naam:,reviewed,erpnext,0.64,0.65,0.55,0.6,0.65,1.0,review
+Student Report Card,Studentenrapportkaart,reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Student Report Generation Tool,Studentenrapport-generatietool,reviewed,erpnext,0.74,0.75,0.65,0.7,0.8,1.0,review
+Student Sibling,student Sibling,reviewed,erpnext,0.44,0.45,0.35,0.4,0.5,0.8,rewrite
+Student Siblings,student Broers en zussen,reviewed,erpnext,0.55,0.55,0.45,0.5,0.6,0.9,review
+Student with email {0} does not exist,Student met e-mail {0} bestaat niet,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Student {0} - {1} appears Multiple times in row {2} & {3},Student {0} - {1} meerdere keren in rij {2} en {3},reviewed,erpnext,0.59,0.6,0.5,0.55,0.6,0.85,review
+Student {0} does not belong to group {1},Student {0} hoort niet bij groep {1},reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Student {0} exist against student applicant {1},Student {0} bestaat tegen student aanvrager {1},reviewed,erpnext,0.44,0.45,0.35,0.4,0.5,0.8,rewrite
+Student {0}: {1} does not belong to Student Group {2},Leerling {0}: {1} behoort niet tot leerlinggroep {2},reviewed,erpnext,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Students,leerlingen,reviewed,erpnext,0.64,0.65,0.55,0.6,0.6,1.0,review
+"Students are at the heart of the system, add all your students","Studenten worden in het hart van het systeem, voegt al jouw leerlingen",reviewed,erpnext,0.29,0.3,0.2,0.25,0.3,0.7,rewrite
+Students HTML,studenten HTML,reviewed,erpnext,0.55,0.55,0.45,0.5,0.6,0.9,review
+Studying in Same Institute,Het bestuderen in hetzelfde instituut,reviewed,erpnext,0.44,0.45,0.35,0.4,0.5,0.8,rewrite
+Style,Stijl,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+"Style represents the button color: Success - Green, Danger - Red, Inverse - Black, Primary - Dark Blue, Info - Light Blue, Warning - Orange","Stijl staat voor de kleur van de knoppen: Succes - Groen, Gevaar - Rood, Inverse - Zwart, Lager - Dark Blue, Info - Light Blue, Waarschuwing - Oranje",reviewed,frappe,0.64,0.65,0.55,0.6,0.65,0.9,review
+Style Settings,Stijlinstellingen,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Stylesheets for Print Formats,Stylesheets voor afdrukformaten,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Sub Assemblies,Uitbesteed werk,reviewed,erpnext,0.28,0.25,0.2,0.25,0.4,0.7,rewrite
+Sub Procedure,Subprocedure,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Sub Type,Subtype,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Sub-assembly BOM Count,Stuklijsttelling van subassemblage,reviewed,erpnext,0.74,0.75,0.65,0.7,0.8,1.0,review
+Sub-contracting,Uitbesteding,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
+"Sub-currency. For e.g. ""Cent""",Sub-valuta. Voor bijvoorbeeld &quot;Cent&quot;,reviewed,frappe,0.64,0.65,0.55,0.6,0.7,0.85,review
+Sub-domain provided by erpnext.com,Subdomein aangeleverd door erpnext.com,reviewed,frappe,0.82,0.8,0.75,0.8,0.9,1.0,ok
+Subcontract,subcontract,reviewed,erpnext,0.55,0.55,0.45,0.5,0.55,0.9,review
+Subcontracted Item,Object in onderaanneming,reviewed,erpnext,0.74,0.75,0.65,0.7,0.8,1.0,review
+Subcontracted Item To Be Received,Uitbesteed item ontvangen,reviewed,erpnext,0.69,0.7,0.6,0.65,0.75,1.0,review
+Subcontracted Raw Materials To Be Transferred,Uitbestede grondstoffen worden overgedragen,reviewed,erpnext,0.63,0.55,0.55,0.7,0.7,0.8,review
+Subcontracting BOM,Uitbesteding stuklijst,reviewed,custom,0.72,0.75,0.65,0.75,0.6,0.9,review
+Subcontracting Inward Order,Uitbesteding inkomende order,reviewed,custom,0.73,0.75,0.65,0.75,0.65,0.9,review
+Subcontracting Order,Uitbestedingsorder,reviewed,custom,0.91,0.9,0.9,0.85,0.95,0.95,ok
+Subcontracting Receipt,Uitbesteding ontvangstbon,reviewed,custom,0.71,0.75,0.65,0.7,0.6,0.9,review
+Subdomain,Subdomein,reviewed,frappe,0.95,0.95,0.95,0.95,0.95,0.95,ok
+Subject,Onderwerp,reviewed,both,0.95,0.95,0.95,0.95,0.95,0.95,ok
+Subject Field,Onderwerp veld,reviewed,frappe,0.77,0.8,0.7,0.75,0.7,0.9,review
+"Subject Field type should be Data, Text, Long Text, Small Text, Text Editor","Onderwerp Veldtype moet Data, Tekst, Lange tekst, Kleine tekst, Teksteditor zijn",reviewed,frappe,0.78,0.8,0.7,0.75,0.75,0.9,review
+Submit,Indienen,reviewed,both,0.89,0.85,0.85,0.9,0.95,0.95,ok
+Submit After Import,Indienen na importeren,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Submit after importing,Indienen na importeren,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Submit an Issue,Dien een melding in,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Submit Journal Entries,Dien journaalboekingen in,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,0.95,ok
+Submit Review,Review versturen,reviewed,erpnext,0.67,0.65,0.65,0.65,0.75,0.85,review
+Submit this document to complete this step.,Dien dit document in om deze stap te voltooien.,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Submit this document to confirm,Dien dit document in om te bevestigen,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,0.95,ok
+Submit this Work Order for further processing.,Dien deze werkorder in voor verdere verwerking.,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Submit {0} documents?,{0} documenten indienen?,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Submit/Reconcile Payments,Betalingen verzenden / afstemmen,reviewed,erpnext,0.7,0.65,0.7,0.65,0.8,0.85,review
+Submitted,Ingediend,reviewed,both,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Submitted Date,Datum indienen,reviewed,erpnext,0.74,0.75,0.7,0.75,0.65,0.9,review
+Submitted Document cannot be converted back to draft. Transition row {0},Ingediend document kan niet terug naar concept worden omgezet. Transitierij {0},reviewed,frappe,0.8,0.8,0.75,0.8,0.8,0.9,ok
+submitted this document,dit document ingediend,reviewed,frappe,0.62,0.55,0.55,0.7,0.6,0.8,review
+submitted this document {0},heeft dit document {0} ingediend,reviewed,frappe,0.82,0.8,0.8,0.8,0.85,0.9,ok
+Submitting,Indienen,reviewed,frappe,0.73,0.65,0.65,0.8,0.8,0.9,review
+Submitting {0},{0} indienen,reviewed,frappe,0.72,0.65,0.65,0.75,0.75,0.9,review
+Submitting...,Verzenden ...,reviewed,frappe,0.63,0.55,0.65,0.55,0.8,0.9,review
+Subscription,Abonnement,reviewed,erpnext,0.95,0.95,0.95,0.95,0.95,0.95,ok
+Subscription Activated,Abonnement geactiveerd,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,0.95,ok
+Subscription End,Abonnement Einde,reviewed,erpnext,0.68,0.7,0.6,0.7,0.6,0.9,review
+Subscription End Date,Einddatum abonnement,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,0.95,ok
+Subscription End Date is mandatory to follow calendar months,De einddatum van het abonnement is verplicht om kalendermaanden te volgen,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,0.9,ok
+Subscription End Date must be after {0} as per the subscription plan,De einddatum van het abonnement moet na {0} liggen volgens het abonnement,reviewed,erpnext,0.83,0.82,0.82,0.82,0.85,0.9,ok
+Subscription ID,Abonnements-ID,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,0.95,ok
+Subscription Invoice,Abonnementsfactuur,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Subscription Management,Abonnementbeheer,reviewed,erpnext,0.78,0.8,0.75,0.8,0.65,0.9,review
+Subscription Notification,Abonnementsmelding,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Subscription Period,Abonnementsperiode,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Subscription Plan,Abonnementsplan,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Subscription Plan Detail,Abonnementsplan Detail,reviewed,erpnext,0.73,0.75,0.65,0.75,0.6,0.9,review
+Subscription Plans,Abonnementen,reviewed,erpnext,0.73,0.7,0.75,0.7,0.85,0.7,review
+Subscription Price Based On,Abonnementsprijs gebaseerd op,reviewed,erpnext,0.87,0.85,0.85,0.85,0.85,0.95,ok
+Subscription Section,Abonnementssectie,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,0.95,ok
+Subscription Settings,Abonnementsinstellingen,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Subscription Start,Abonnement starten,reviewed,erpnext,0.69,0.65,0.65,0.7,0.7,0.85,review
+Subscription Start Date,Begindatum abonnement,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,0.95,ok
+Subscriptions,abonnementen,reviewed,erpnext,0.78,0.8,0.8,0.75,0.65,0.9,review
+Subsidiary,Dochteronderneming,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Subtitle,subtitel,reviewed,both,0.78,0.8,0.8,0.75,0.65,0.9,review
+Subtotal,Subtotaal,reviewed,erpnext,0.95,0.95,0.95,0.95,0.95,0.95,ok
+Success,Succes,reviewed,both,0.86,0.85,0.8,0.85,0.9,0.95,ok
+success,succes,reviewed,frappe,0.86,0.85,0.8,0.85,0.9,0.95,ok
+Success Action,Succesactie,reviewed,frappe,0.8,0.8,0.75,0.8,0.8,0.9,ok
+Success Message,Succes Bericht,reviewed,frappe,0.71,0.75,0.65,0.7,0.6,0.9,review
+Success Redirect URL,Succes-omleidings-URL,reviewed,erpnext,0.74,0.75,0.65,0.75,0.7,0.9,review
+Success Settings,Succesinstellingen,reviewed,erpnext,0.86,0.85,0.8,0.85,0.9,0.95,ok
+Success URL,Succes URL,reviewed,frappe,0.74,0.75,0.7,0.75,0.65,0.9,review
+Success! You are good to go 👍,Gelukt! U kunt aan de slag 👍,reviewed,frappe,0.91,0.9,0.9,0.85,0.95,0.95,ok
+Successful,geslaagd,reviewed,erpnext,0.73,0.75,0.75,0.7,0.6,0.9,review
+Successful Transactions,Succesvolle transacties,reviewed,frappe,0.9,0.88,0.88,0.88,0.9,0.95,ok
+Successful: {0} to {1},Succesvolle: {0} tot {1},reviewed,frappe,0.59,0.55,0.5,0.65,0.5,0.85,review
+Successfully created payment entries,Met succes betalingsgegevens aangemaakt,reviewed,erpnext,0.66,0.65,0.6,0.65,0.7,0.8,review
+Successfully deleted all transactions related to this company!,Succesvol verwijderd alle transacties met betrekking tot dit bedrijf!,reviewed,erpnext,0.57,0.6,0.45,0.65,0.45,0.85,review
+Successfully Done,Met succes gedaan,reviewed,frappe,0.57,0.55,0.45,0.6,0.6,0.85,review
+"Successfully imported {0} record out of {1}. Click on Export Errored Rows, fix the errors and import again.","{0} record uit {1} geïmporteerd. Klik op Foutrijen exporteren, herstel de fouten en importeer opnieuw.",reviewed,frappe,0.83,0.82,0.82,0.82,0.85,0.9,ok
+Successfully imported {0} record.,{0} record succesvol geïmporteerd.,reviewed,frappe,0.9,0.88,0.88,0.88,0.9,0.95,ok
+"Successfully imported {0} records out of {1}. Click on Export Errored Rows, fix the errors and import again.","{0} records uit {1} geïmporteerd. Klik op Foutrijen exporteren, herstel de fouten en importeer opnieuw.",reviewed,frappe,0.83,0.82,0.82,0.82,0.85,0.9,ok
+Successfully imported {0} records.,{0} records succesvol geïmporteerd.,reviewed,frappe,0.9,0.88,0.88,0.88,0.9,0.95,ok
+Successfully Reconciled,Succesvol Afgeletterd,reviewed,erpnext,0.82,0.82,0.8,0.82,0.75,0.9,ok
+Successfully Set Supplier,Leverancier succesvol ingesteld,reviewed,erpnext,0.9,0.88,0.88,0.88,0.9,0.95,ok
+Successfully Submitted!,Met succes ingediend!,reviewed,frappe,0.72,0.7,0.65,0.7,0.75,0.9,review
+Successfully Updated,Succesvol geüpdatet,reviewed,frappe,0.74,0.75,0.65,0.75,0.7,0.9,review
+Successfully updated translations,Succesvol bijgewerkte vertalingen,reviewed,frappe,0.62,0.6,0.55,0.65,0.55,0.85,review
+"Successfully updated {0} record out of {1}. Click on Export Errored Rows, fix the errors and import again.","{0} record uit {1} geüpdatet. Klik op Foutrijen exporteren, herstel de fouten en importeer opnieuw.",reviewed,frappe,0.72,0.72,0.68,0.72,0.65,0.85,review
+Successfully updated {0} record.,{0} record succesvol bijgewerkt.,reviewed,frappe,0.9,0.88,0.88,0.88,0.9,0.95,ok
+"Successfully updated {0} records out of {1}. Click on Export Errored Rows, fix the errors and import again.","{0} records van {1} zijn bijgewerkt. Klik op Foutrijen exporteren, herstel de fouten en importeer opnieuw.",reviewed,frappe,0.82,0.8,0.8,0.8,0.82,0.88,ok
+Successfully updated {0} records.,{0} records succesvol bijgewerkt.,reviewed,frappe,0.9,0.88,0.88,0.88,0.9,0.95,ok
+Suggested Username: {0},Voorgestelde gebruikersnaam: {0},reviewed,frappe,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Suggestions,Suggesties,reviewed,erpnext,0.95,0.95,0.95,0.95,0.95,0.95,ok
+Sum,Som,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Sum of points for all goals should be 100. It is {0},Som van de punten voor alle doelen moeten zijn 100. Het is {0},reviewed,erpnext,0.53,0.55,0.4,0.6,0.4,0.85,review
+Sum of Scores of Assessment Criteria needs to be {0}.,Som van de scores van de beoordelingscriteria moet {0} te zijn.,reviewed,erpnext,0.53,0.55,0.4,0.6,0.4,0.85,review
+Sum of {0},Som van {0},reviewed,frappe,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Summary,Overzicht,reviewed,both,0.84,0.82,0.85,0.8,0.9,0.9,ok
+Summary for this month and pending activities,Samenvatting voor deze maand en in afwachting van activiteiten,reviewed,erpnext,0.65,0.65,0.55,0.65,0.6,0.85,review
+Summary for this week and pending activities,Samenvatting voor deze week en in afwachting van activiteiten,reviewed,erpnext,0.65,0.65,0.55,0.65,0.6,0.85,review
+Sunday,Zondag,reviewed,both,0.95,0.95,0.95,0.95,0.95,0.95,ok
+Supervisor,Leidinggevende,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Supervisor Name,Naam leidinggevende,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,0.95,ok
+Suplier,Leverancier,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,0.95,ok
+Supplied Items,Geleverde Artikelen,reviewed,erpnext,0.8,0.8,0.75,0.8,0.75,0.9,ok
+Supplied Qty,Geleverd aantal,reviewed,erpnext,0.86,0.85,0.85,0.85,0.85,0.9,ok
+Supplier,Leverancier,reviewed,erpnext,0.95,0.95,0.95,0.95,0.95,0.95,ok
+Supplier > Supplier Type,Leverancier&gt; Type leverancier,reviewed,erpnext,0.52,0.55,0.4,0.55,0.4,0.7,review
+Supplier Address,Adres Leverancier,reviewed,erpnext,0.72,0.75,0.65,0.7,0.65,0.9,review
+Supplier Addresses And Contacts,Leverancier Adressen en Contacten,reviewed,erpnext,0.68,0.7,0.6,0.7,0.6,0.85,review
+Supplier database.,Leverancierbestand,reviewed,erpnext,0.76,0.75,0.75,0.75,0.7,0.85,review
+Supplier delivers to Customer,Leverancier levert aan de Klant,reviewed,erpnext,0.82,0.82,0.78,0.8,0.8,0.9,ok
+Supplier Delivery Note,Leveranciersafleverbon,reviewed,erpnext,0.89,0.88,0.85,0.88,0.9,0.95,ok
+Supplier Details,Leveranciersgegevens,reviewed,erpnext,0.95,0.95,0.9,0.95,0.95,1.0,ok
+Supplier Group,Leveranciersgroep,reviewed,erpnext,0.94,0.95,0.9,0.95,0.95,1.0,ok
+Supplier Group master.,Leverancier Groepsmaster.,reviewed,erpnext,0.52,0.55,0.4,0.5,0.5,0.8,review
+Supplier Group Name,Naam Leveranciergroep,reviewed,erpnext,0.66,0.7,0.55,0.6,0.6,1.0,review
+Supplier GSTIN,Leverancier GSTIN,reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+Supplier Id,Leverancier ID,reviewed,erpnext,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Supplier Invoice Date,Factuurdatum Leverancier,reviewed,erpnext,0.79,0.8,0.75,0.7,0.8,1.0,review
+Supplier Invoice Date cannot be greater than Posting Date,Leverancier Factuurdatum kan niet groter zijn dan Posting Date,reviewed,erpnext,0.45,0.45,0.35,0.4,0.5,0.7,rewrite
+Supplier Invoice Details,Leverancier Invoice Details,reviewed,erpnext,0.3,0.3,0.2,0.25,0.3,0.6,rewrite
+Supplier Invoice No,Factuurnr. Leverancier,reviewed,erpnext,0.76,0.8,0.7,0.65,0.75,1.0,review
+Supplier Invoice No exists in Purchase Invoice {0},Leverancier factuur nr bestaat in Purchase Invoice {0},reviewed,erpnext,0.4,0.4,0.3,0.35,0.4,0.7,rewrite
+Supplier Items,Leverancier Artikelen,reviewed,erpnext,0.69,0.7,0.6,0.65,0.7,1.0,review
+Supplier Lead Time (days),Doorlooptijd leverancier (dagen),reviewed,erpnext,0.9,0.9,0.9,0.85,0.9,1.0,ok
+Supplier Ledger Summary,Overzicht leveranciersboek,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Supplier Name,Leveranciersnaam,reviewed,erpnext,0.96,0.95,0.95,0.95,0.95,1.0,ok
+Supplier Naming By,Leverancier Benaming Door,reviewed,erpnext,0.54,0.55,0.45,0.5,0.55,0.9,review
+Supplier of Goods or Services.,Leverancier van goederen of diensten.,reviewed,erpnext,0.95,0.95,0.95,0.9,0.95,1.0,ok
+Supplier Part No,Leverancier Part No,reviewed,erpnext,0.32,0.3,0.25,0.3,0.3,0.6,rewrite
+Supplier Part Number,Leverancier Onderdeelnummer,reviewed,erpnext,0.74,0.75,0.7,0.7,0.75,1.0,review
+Supplier Quotation,Leverancier Offerte,reviewed,erpnext,0.69,0.7,0.65,0.65,0.7,1.0,review
+Supplier Quotation Comparison,Vergelijking van offertes van leveranciers,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Supplier Quotation Item,Leverancier Offerte Artikel,reviewed,erpnext,0.63,0.65,0.55,0.6,0.65,1.0,review
+Supplier Quotation {0} Created,Offerte van leverancier {0} gemaakt,reviewed,erpnext,0.85,0.85,0.85,0.8,0.85,1.0,ok
+Supplier Score,Leverancierscore,reviewed,erpnext,0.86,0.85,0.85,0.85,0.85,1.0,ok
+Supplier Scorecard,Leveranciers scorecard,reviewed,erpnext,0.78,0.8,0.75,0.75,0.75,1.0,review
+Supplier Scorecard Criteria,Leveranciers scorecard criteria,reviewed,erpnext,0.73,0.75,0.7,0.7,0.7,1.0,review
+Supplier Scorecard Period,Leveranciers scorecard periode,reviewed,erpnext,0.73,0.75,0.7,0.7,0.7,1.0,review
+Supplier Scorecard Scoring Criteria,Scorecard Scoringscriteria voor leveranciers,reviewed,erpnext,0.63,0.65,0.55,0.55,0.6,0.9,review
+Supplier Scorecard Scoring Standing,Leverancier Scorecard Scoring Standing,reviewed,erpnext,0.29,0.3,0.2,0.25,0.3,0.6,rewrite
+Supplier Scorecard Scoring Variable,Leverancier Scorecard Scorevariabele,reviewed,erpnext,0.65,0.65,0.6,0.6,0.65,0.9,review
+Supplier Scorecard Setup,Leveranciers Scorecard Setup,reviewed,erpnext,0.58,0.6,0.5,0.55,0.55,0.9,review
+Supplier Scorecard Standing,Leveranciers scorecard status,reviewed,erpnext,0.78,0.8,0.75,0.75,0.75,1.0,review
+Supplier Scorecard Variable,Leveranciers scorecard variabele,reviewed,erpnext,0.75,0.78,0.72,0.72,0.72,1.0,review
+Supplier Type,Leverancier Type,reviewed,erpnext,0.69,0.7,0.65,0.65,0.7,1.0,review
+Supplier Warehouse,Leverancier Magazijn,reviewed,erpnext,0.74,0.75,0.7,0.7,0.75,1.0,review
+Supplier Warehouse mandatory for sub-contracted Purchase Receipt,Leverancier Magazijn verplicht voor uitbesteedde Ontvangstbewijs,reviewed,erpnext,0.42,0.45,0.35,0.4,0.35,0.8,rewrite
+Supplier {0} not found in {1},Leverancier {0} niet gevonden in {1},reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Supplier(s),Leverancier(s),reviewed,erpnext,0.96,0.95,0.95,0.95,0.95,1.0,ok
+Supplier-Wise Sales Analytics,Leverancier-gebaseerde Verkoop Analyse,reviewed,erpnext,0.67,0.7,0.6,0.65,0.65,0.9,review
+Suppliers,Leveranciers,reviewed,erpnext,0.96,0.95,0.95,0.95,0.95,1.0,ok
+Supplies made to UIN holders,Benodigdheden voor UIN-houders,reviewed,erpnext,0.46,0.45,0.4,0.4,0.5,0.7,rewrite
+Supplies made to Unregistered Persons,Leveringen aan niet-geregistreerde personen,reviewed,erpnext,0.9,0.9,0.88,0.88,0.9,1.0,ok
+Suppliies made to Composition Taxable Persons,Leveringen aan compositie belastingplichtigen,reviewed,erpnext,0.64,0.65,0.6,0.6,0.6,0.9,review
+Supply Raw Materials,Supply Grondstoffen,reviewed,erpnext,0.34,0.35,0.25,0.3,0.3,0.7,rewrite
+Supply Raw Materials for Purchase,Supply Grondstoffen voor Aankoop,reviewed,erpnext,0.34,0.35,0.25,0.3,0.3,0.7,rewrite
+Supply Type,Leveringstype,reviewed,erpnext,0.9,0.9,0.88,0.88,0.9,1.0,ok
+Support Analytics,Support Analyse,reviewed,erpnext,0.65,0.65,0.6,0.65,0.65,1.0,review
+Support and Resolution,Ondersteuning en oplossing,reviewed,erpnext,0.85,0.85,0.83,0.83,0.85,1.0,ok
+Support Email Address Not Specified,E-mailadres voor ondersteuning niet gespecificeerd,reviewed,frappe,0.87,0.88,0.85,0.85,0.88,1.0,ok
+Support Hours,Ondersteuningstijden,reviewed,erpnext,0.8,0.8,0.78,0.78,0.8,1.0,ok
+Support Portal,Ondersteuningsportal,reviewed,erpnext,0.84,0.85,0.82,0.82,0.85,1.0,ok
+Support queries from customers.,Support vragen van klanten.,reviewed,erpnext,0.54,0.55,0.45,0.5,0.5,0.9,review
+Support Search Source,Zoekbron ondersteunen,reviewed,erpnext,0.46,0.45,0.4,0.45,0.45,0.8,rewrite
+Support Settings,ondersteuning Instellingen,reviewed,erpnext,0.38,0.4,0.3,0.35,0.3,0.9,rewrite
+Support Tickets,Ondersteuning tickets,reviewed,erpnext,0.63,0.65,0.6,0.6,0.6,1.0,review
+Surgical History,Chirurgische Geschiedenis,reviewed,erpnext,0.72,0.75,0.65,0.7,0.7,1.0,review
+Susceptible,vatbaar,reviewed,erpnext,0.65,0.65,0.65,0.65,0.55,0.9,review
+Suspend Sending,opschorten verzenden,reviewed,frappe,0.46,0.5,0.4,0.45,0.4,0.9,rewrite
+Suspended,Geschorst,reviewed,erpnext,0.77,0.75,0.75,0.75,0.8,1.0,review
+SWIFT Number,SWIFT nummer,reviewed,erpnext,0.77,0.8,0.75,0.75,0.75,1.0,review
+SWIFT number,SWIFT-nummer,reviewed,erpnext,0.9,0.9,0.88,0.88,0.9,1.0,ok
+Switch Between Payment Modes,Schakel tussen betalingsmodi,reviewed,erpnext,0.84,0.85,0.82,0.82,0.85,1.0,ok
+Switch To Desk,Overschakelen naar Desk,reviewed,frappe,0.82,0.82,0.8,0.8,0.82,1.0,ok
+Symbol,Symbool,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
+Symptoms,Symptomen,reviewed,erpnext,0.96,0.95,0.95,0.95,0.95,1.0,ok
+Symptoms:,Symptomen:,reviewed,erpnext,0.96,0.95,0.95,0.95,0.95,1.0,ok
+Sync,Synchroniseren,reviewed,frappe,0.84,0.85,0.82,0.82,0.85,1.0,ok
+Sync Calendar,Kalender synchroniseren,reviewed,frappe,0.9,0.9,0.88,0.88,0.9,1.0,ok
+Sync Contacts,Contacten synchroniseren,reviewed,frappe,0.9,0.9,0.88,0.88,0.9,1.0,ok
+Sync has been temporarily disabled because maximum retries have been exceeded,Synchronisatie is tijdelijk uitgeschakeld omdat de maximale pogingen zijn overschreden,reviewed,erpnext,0.87,0.88,0.85,0.85,0.88,1.0,ok
+Sync in Progress,Synchronisatie in uitvoering,reviewed,erpnext,0.87,0.88,0.85,0.85,0.88,1.0,ok
+Sync on Migrate,Sync op Migrate,reviewed,frappe,0.29,0.3,0.2,0.25,0.25,0.7,rewrite
+Sync Orders,Synchroniseer bestellingen,reviewed,erpnext,0.82,0.82,0.8,0.8,0.82,1.0,ok
+Sync Products,Synchroniseer producten,reviewed,erpnext,0.82,0.82,0.8,0.8,0.82,1.0,ok
+Sync Taxes and Charges,Synchroniseer belastingen en heffingen,reviewed,erpnext,0.84,0.85,0.82,0.82,0.85,1.0,ok
+"Sync token was invalid and has been resetted, Retry syncing.","Synchronisatietoken was ongeldig en is opnieuw ingesteld, probeer opnieuw te synchroniseren.",reviewed,frappe,0.84,0.85,0.82,0.82,0.82,1.0,ok
+Sync with Google Calendar,Synchroniseren met Google Agenda,reviewed,frappe,0.92,0.92,0.9,0.9,0.92,1.0,ok
+Sync with Google Contacts,Synchroniseer met Google Contacten,reviewed,frappe,0.79,0.8,0.78,0.75,0.8,1.0,review
+Synced,Gesynchroniseerd,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+Synced With Hub,Gesynchroniseerd met Hub,reviewed,erpnext,0.84,0.85,0.82,0.82,0.85,1.0,ok
+Synchronize all accounts every hour,Synchroniseer alle accounts elk uur,reviewed,erpnext,0.84,0.85,0.82,0.82,0.85,1.0,ok
+Synchronize this account,Synchroniseer dit account,reviewed,erpnext,0.84,0.85,0.82,0.82,0.85,1.0,ok
+Syncing,synchroniseren,reviewed,frappe,0.62,0.65,0.55,0.6,0.55,0.9,review
+Syncing {0} of {1},Synchroniseren {0} van {1},reviewed,frappe,0.75,0.78,0.72,0.72,0.72,1.0,review
+Syntax error in condition: {0},Syntaxisfout in voorwaarde: {0},reviewed,erpnext,0.9,0.9,0.88,0.88,0.9,1.0,ok
+Syntax error in formula or condition: {0},Syntaxisfout in formule of aandoening: {0},reviewed,erpnext,0.43,0.45,0.35,0.4,0.4,0.8,rewrite
+Syntax error in template,Syntaxisfout in template,reviewed,frappe,0.9,0.9,0.88,0.88,0.9,1.0,ok
+System,Systeem,reviewed,frappe,0.96,0.95,0.95,0.95,0.95,1.0,ok
+System and Website Users,Systeem en gebruikers van de website,reviewed,frappe,0.74,0.75,0.7,0.7,0.75,1.0,review
+System Console,Systeemconsole,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
+System Generated,Systeemgegenereerd,reviewed,custom,0.84,0.85,0.8,0.82,0.82,1.0,ok
+System managers are allowed by default,Systeembeheerders zijn standaard toegestaan,reviewed,frappe,0.84,0.85,0.82,0.82,0.85,1.0,ok
+System Notification,Systeemmelding,reviewed,frappe,0.92,0.92,0.9,0.9,0.92,1.0,ok
+System Page,Systeempagina,reviewed,frappe,0.9,0.9,0.88,0.88,0.9,1.0,ok
+System Settings,Systeeminstellingen,reviewed,frappe,0.92,0.92,0.9,0.9,0.92,1.0,ok
+System User,Systeemgebruiker,reviewed,frappe,0.92,0.92,0.9,0.9,0.92,1.0,ok
+"System User (login) ID. If set, it will become default for all HR forms.","Systeemgebruiker (login) ID. Indien ingesteld, zal het de standaard worden voor alle HR-formulieren.",reviewed,erpnext,0.84,0.85,0.8,0.82,0.82,1.0,ok
+System will automatically delete Prepared Reports after these many days since creation,Het systeem verwijdert automatisch voorbereide rapporten na deze vele dagen sinds de aanmaak,reviewed,frappe,0.63,0.65,0.55,0.6,0.6,0.9,review
+System will fetch all the entries if limit value is zero.,Systeem haalt alle gegevens op als de limietwaarde nul is.,reviewed,erpnext,0.82,0.82,0.8,0.8,0.82,1.0,ok
+System will notify to increase or decrease quantity or amount,Het systeem meldt om de hoeveelheid of hoeveelheid te verhogen of te verlagen,reviewed,erpnext,0.38,0.4,0.3,0.35,0.3,0.8,rewrite
 "System will pickup the materials from the selected warehouses. If not specified, system will create material request for purchase.","Het systeem haalt de materialen op uit de geselecteerde magazijnen. Indien niet gespecificeerd, zal het systeem een materiaalaanvraag voor aankoop creëren.",reviewed,erpnext,,,,,,,
 Table,Tabel,reviewed,frappe,,,,,,,
 Table Break,Tafelonderbreking,reviewed,frappe,,,,,,,

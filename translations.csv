@@ -15948,10 +15948,10 @@ Parent field,Bovenliggend veld,reviewed,helpdesk,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Password updated successfully.,Wachtwoord succesvol veranderd.,reviewed,helpdesk,0.85,0.9,0.8,0.8,0.85,1.0,ok
 Paused,Gepauzeerd,reviewed,helpdesk,0.88,0.9,0.85,0.85,0.9,1.0,ok
 Pending Tickets,Openstaande tickets,reviewed,helpdesk,0.85,0.85,0.7,0.65,0.85,1.0,improved
-Percentage of total tickets by channel,Percentage van alle Tickets per kanaal,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
-Percentage of total tickets by priority,Percentage van alle Tickets per prioriteit,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
-Percentage of total tickets by team,Percentage van alle Tickets per team,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
-Percentage of total tickets by type,Percentage van alle Tickets per type,reviewed,helpdesk,0.77,0.85,0.7,0.65,0.85,1.0,review
+Percentage of total tickets by channel,Aandeel tickets per kanaal,reviewed,helpdesk,0.87,0.85,0.7,0.65,0.85,1.0,improved
+Percentage of total tickets by priority,Aandeel tickets per prioriteit,reviewed,helpdesk,0.87,0.85,0.7,0.65,0.85,1.0,improved
+Percentage of total tickets by team,Aandeel tickets per team,reviewed,helpdesk,0.87,0.85,0.7,0.65,0.85,1.0,improved
+Percentage of total tickets by type,Aandeel tickets per type,reviewed,helpdesk,0.87,0.85,0.7,0.65,0.85,1.0,improved
 Personal mobile no,Persoonlijk mobiel nummer,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Phone Nos,Telefoonnummers,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Pick an option,Kies een optie,reviewed,helpdesk,0.91,0.9,0.9,0.9,0.95,1.0,ok
@@ -15998,21 +15998,21 @@ Recurring holidays,Terugkerende feestdagen,reviewed,helpdesk,0.91,0.9,0.85,0.9,1
 Reference Ticket,Referentieticket,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.95,1.0,ok
 Regenerate Search Index,Zoekindex opnieuw opbouwen,reviewed,helpdesk,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Remove Logo,Logo verwijderen,reviewed,helpdesk,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Remove image,Verwijder afbeelding,reviewed,helpdesk,0.75,0.75,0.7,0.65,0.85,1.0,review
+Remove image,Afbeelding verwijderen,reviewed,helpdesk,0.88,0.75,0.7,0.65,0.85,1.0,improved
 Remove photo,Foto verwijderen,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Rename (Ctrl + ⏎),Hernoemen (Ctrl + ⏎),reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Rename (⌘ + ⏎),Hernoemen (⌘ + ⏎),reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Rename team,Team hernoemen,reviewed,helpdesk,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Reply From Agent,Antwoord van Agent,reviewed,helpdesk,0.72,0.7,0.65,0.6,0.85,1.0,review
+Reply From Agent,Reactie van medewerker,reviewed,helpdesk,0.88,0.7,0.65,0.6,0.85,1.0,improved
 Reply From Contact,Antwoord van contactpersoon,reviewed,helpdesk,0.86,0.85,0.85,0.8,0.9,1.0,ok
-Reply from agent,Antwoord van Agent,reviewed,helpdesk,0.72,0.7,0.65,0.6,0.85,1.0,review
+Reply from agent,Reactie van medewerker,reviewed,helpdesk,0.88,0.7,0.65,0.6,0.85,1.0,improved
 Reply from contact,Antwoord van contactpersoon,reviewed,helpdesk,0.86,0.85,0.85,0.8,0.9,1.0,ok
 Reply on a ticket,Antwoord op een ticket,reviewed,helpdesk,0.9,0.9,0.85,0.85,0.95,1.0,ok
 Request Key,Sleutel opvragen,reviewed,helpdesk,0.87,0.85,0.8,0.85,0.95,1.0,ok
-Reset Content,Inhoud opnieuw instellen,reviewed,helpdesk,0.77,0.75,0.65,0.75,0.9,1.0,review
-Reset content,Inhoud opnieuw instellen,reviewed,helpdesk,0.77,0.75,0.65,0.75,0.9,1.0,review
+Reset Content,Inhoud wissen,reviewed,helpdesk,0.88,0.75,0.65,0.75,0.9,1.0,improved
+Reset content,Inhoud wissen,reviewed,helpdesk,0.88,0.75,0.65,0.75,0.9,1.0,improved
 Resolution Due,Oplossing verwacht voor,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Response Result Key Path,Sleutelpad voor reactieresultaat,reviewed,helpdesk,0.67,0.6,0.55,0.65,0.8,1.0,review
+Response Result Key Path,Key path voor responsresultaat,reviewed,helpdesk,0.82,0.6,0.55,0.65,0.8,1.0,improved
 Response and Resolution,Reactie en oplossing,reviewed,helpdesk,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Response is required,Een reactie is vereist,reviewed,helpdesk,0.9,0.9,0.85,0.85,0.95,1.0,ok
 Restrict agent assignment to selected Team,Agent-toewijzing beperken tot geselecteerd team,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
@@ -16055,12 +16055,12 @@ Select ticket to preview,Selecteer een ticket om te bekijken,reviewed,helpdesk,0
 Select what type all tickets get by default.,Selecteer welk type alle tickets standaard krijgen.,reviewed,helpdesk,0.85,0.85,0.8,0.8,0.9,1.0,ok
 Select your weekly off day,Kies je wekelijkse vrije dag,reviewed,helpdesk,0.82,0.8,0.75,0.8,0.9,1.0,ok
 Send feedback when,Feedback verzenden wanneer,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
-Sent to all of the agents assigned to the ticket whenever a contact has replied.,Verzonden naar alle Agents die zijn toegewezen aan het ticket wanneer een contactpersoon heeft geantwoord.,reviewed,helpdesk,0.76,0.75,0.65,0.7,0.85,1.0,review
-Sent to all of the recipients associated with the ticket whenever an agent has replied.,Verzonden naar alle ontvangers die zijn gekoppeld aan het ticket wanneer een Agent heeft geantwoord.,reviewed,helpdesk,0.76,0.75,0.65,0.7,0.85,1.0,review
+Sent to all of the agents assigned to the ticket whenever a contact has replied.,Wordt verzonden naar alle aan het ticket toegewezen medewerkers zodra een contactpersoon heeft gereageerd.,reviewed,helpdesk,0.9,0.75,0.65,0.7,0.85,1.0,improved
+Sent to all of the recipients associated with the ticket whenever an agent has replied.,Wordt verzonden naar alle aan het ticket gekoppelde ontvangers zodra een medewerker heeft gereageerd.,reviewed,helpdesk,0.9,0.75,0.65,0.7,0.85,1.0,improved
 Sent to the user right after creating an email ticket.,Verzonden naar de gebruiker direct na het aanmaken van een e-mailticket.,reviewed,helpdesk,0.9,0.9,0.85,0.85,0.9,1.0,ok
 Sent to the user who has raised the ticket after the ticket is closed or resolved.,Verzonden naar de gebruiker die het ticket heeft ingediend nadat het ticket is gesloten of opgelost.,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Service Level Agreements (SLAs),Serviceovereenkomsten (SLA's),reviewed,helpdesk,0.91,0.9,0.85,0.9,0.95,1.0,ok
-Service Level Name,Serviceniveaunaam,reviewed,helpdesk,0.68,0.65,0.55,0.6,0.75,1.0,review
+Service Level Name,SLA-naam,reviewed,helpdesk,0.85,0.65,0.55,0.6,0.75,1.0,improved
 Service not supported,Service niet ondersteund,reviewed,helpdesk,0.9,0.9,0.85,0.85,0.95,1.0,ok
 Set Phone Number,Telefoonnummer instellen,reviewed,helpdesk,0.9,0.9,0.85,0.85,0.95,1.0,ok
 Set Resolution Time for Priority {0} in row {1}.,Stel de oplossingstijd in voor prioriteit {0} in rij {1}.,reviewed,helpdesk,0.9,0.9,0.85,0.85,0.9,1.0,ok
@@ -16078,15 +16078,15 @@ Show end users a different view,Toon eindgebruikers een andere weergave,reviewed
 Show in sidebar,Tonen in zijbalk,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Show keyboard shortcuts,Sneltoetsen weergeven,reviewed,helpdesk,0.86,0.85,0.8,0.85,0.9,1.0,ok
 "Simple Python Expression, Example: doc.status == 'Open' and doc.ticket_type == 'Bug'","Eenvoudige Python-expressie, voorbeeld: doc.status == 'Open' and doc.ticket_type == 'Bug'",reviewed,helpdesk,0.9,0.9,0.85,0.85,0.9,1.0,ok
-Skip e-mail workflow,Email Workflow overslaan,reviewed,helpdesk,0.65,0.65,0.55,0.55,0.7,1.0,review
-Skip email workflow,Email Workflow overslaan,reviewed,helpdesk,0.65,0.65,0.55,0.55,0.7,1.0,review
+Skip e-mail workflow,Email-Workflow overslaan,reviewed,helpdesk,0.82,0.65,0.55,0.55,0.7,1.0,improved
+Skip email workflow,Email-Workflow overslaan,reviewed,helpdesk,0.82,0.65,0.55,0.55,0.7,1.0,improved
 Some error occurred while renaming holiday list,Er is een fout opgetreden bij het hernoemen van de feestdagenlijst,reviewed,helpdesk,0.9,0.9,0.85,0.85,0.9,1.0,ok
 Some error occurred while renaming saved reply,Er is een fout opgetreden bij het hernoemen van het opgeslagen antwoord,reviewed,helpdesk,0.88,0.85,0.85,0.9,0.9,1.0,ok
 Some error occurred while updating holiday list,Er is een fout opgetreden bij het bijwerken van de feestdagenlijst,reviewed,helpdesk,0.88,0.85,0.85,0.9,0.9,1.0,ok
 Source and target category cannot be same,De broncategorie en doelcategorie mogen niet gelijk zijn,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Source and target ticket cannot be same,Het bron-Ticket en het doel-Ticket mogen niet gelijk zijn,reviewed,helpdesk,0.69,0.7,0.65,0.6,0.7,1.0,review
-Source and target tickets which are to be merged cannot be the same.,Het bron-Ticket en het doel-Ticket die samengevoegd worden mogen niet hetzelfde zijn.,reviewed,helpdesk,0.69,0.7,0.65,0.6,0.7,1.0,review
-Source ticket does not exist,Het bron-Ticket bestaat niet,reviewed,helpdesk,0.71,0.7,0.7,0.6,0.8,1.0,review
+Source and target ticket cannot be same,Bronticket en doelticket mogen niet gelijk zijn,reviewed,helpdesk,0.89,0.7,0.65,0.6,0.7,1.0,improved
+Source and target tickets which are to be merged cannot be the same.,Bronticket en doelticket die worden samengevoegd mogen niet gelijk zijn.,reviewed,helpdesk,0.9,0.7,0.65,0.6,0.7,1.0,improved
+Source ticket does not exist,Bronticket bestaat niet,reviewed,helpdesk,0.89,0.7,0.7,0.6,0.8,1.0,improved
 Split and Merge,Splitsen en samenvoegen,reviewed,helpdesk,0.92,0.9,0.9,0.9,0.95,1.0,ok
 "Standard Form Scripts can't be modified, duplicate the script instead.",Standaard formulierscripts kunnen niet worden gewijzigd. Maak een kopie van het script aan.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Standard Views cannot be deleted.,Standaard weergaven kunnen niet worden verwijderd.,reviewed,helpdesk,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -16095,24 +16095,24 @@ Status Category,Statuscategorie,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Status Details,Statusdetails,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 "Status of the ticket, when a customer replies on the ticket with this SLA.
 
-If not selected, the value will be takes from HD Settings DocType.","Status van het Ticket wanneer een Klant reageert op het Ticket met deze SLA.
+If not selected, the value will be takes from HD Settings DocType.","Ticketstatus wanneer een klant reageert op een ticket met deze SLA.
 
-Als dit niet is geselecteerd, wordt de waarde overgenomen uit het HD Settings-doctype.",reviewed,helpdesk,0.7,0.7,0.65,0.6,0.7,1.0,review
-"Status of the ticket, when a customer replies on the ticket.",Status van het Ticket wanneer een Klant reageert op het Ticket.,reviewed,helpdesk,0.69,0.7,0.65,0.6,0.7,1.0,review
+Als niets geselecteerd is, wordt de waarde overgenomen uit HD Settings.",reviewed,helpdesk,0.88,0.7,0.65,0.6,0.7,1.0,improved
+"Status of the ticket, when a customer replies on the ticket.",Ticketstatus wanneer een klant reageert op het ticket.,reviewed,helpdesk,0.88,0.7,0.65,0.6,0.7,1.0,improved
 "Status of the ticket, when it is created in the system with this SLA.
-If not selected, the value will be taken from HD Settings DocType","Status van het Ticket wanneer het wordt aangemaakt in het systeem met deze SLA.
-Als dit niet is geselecteerd, wordt de waarde overgenomen uit het HD Settings-doctype.",reviewed,helpdesk,0.69,0.7,0.65,0.6,0.7,1.0,review
-"Status of the ticket, when it is created in the system.",Status van het Ticket wanneer het wordt aangemaakt in het systeem.,reviewed,helpdesk,0.69,0.7,0.65,0.6,0.7,1.0,review
-Subject Weight,Onderwerpgewicht,reviewed,helpdesk,0.7,0.65,0.6,0.7,0.8,1.0,review
+If not selected, the value will be taken from HD Settings DocType","Ticketstatus bij aanmaak met deze SLA.
+Indien niet geselecteerd, wordt de waarde overgenomen uit HD Settings.",reviewed,helpdesk,0.88,0.7,0.65,0.6,0.7,1.0,improved
+"Status of the ticket, when it is created in the system.",Ticketstatus bij aanmaak in het systeem.,reviewed,helpdesk,0.88,0.7,0.65,0.6,0.7,1.0,improved
+Subject Weight,Onderwerpweging,reviewed,helpdesk,0.85,0.65,0.6,0.7,0.8,1.0,improved
 Support,Ondersteuning,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.95,1.0,ok
 Support Hour Distribution,Verdeling van ondersteuningsuren,reviewed,helpdesk,0.8,0.8,0.75,0.8,0.85,1.0,ok
 Support Policy,Ondersteuningsbeleid,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Support Team,Ondersteuningsteam,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Synonyms,Synoniemen,reviewed,helpdesk,0.92,0.9,0.9,0.9,0.95,1.0,ok
 System types can not be deleted,Systeemtypen kunnen niet worden verwijderd,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Tampered Access,Gemanipuleerde toegang,reviewed,helpdesk,0.75,0.7,0.7,0.75,0.85,1.0,review
-Target ticket does not exist,Het doel-Ticket bestaat niet,reviewed,helpdesk,0.7,0.7,0.7,0.6,0.8,1.0,review
-Teal,Groenblauw,reviewed,helpdesk,0.79,0.75,0.75,0.75,0.9,1.0,review
+Tampered Access,Onbevoegde toegang,reviewed,helpdesk,0.85,0.7,0.7,0.75,0.85,1.0,improved
+Target ticket does not exist,Doelticket bestaat niet,reviewed,helpdesk,0.89,0.7,0.7,0.6,0.8,1.0,improved
+Teal,Teal,reviewed,helpdesk,0.85,0.75,0.75,0.75,0.9,1.0,improved
 Team Name,Teamnaam,reviewed,helpdesk,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Team Restrictions,Teambeperkingen,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Team created,Team aangemaakt,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -16124,38 +16124,38 @@ Telephony settings updated successfully.,Telefonie-instellingen zijn succesvol b
 Tell us more,Vertel ons meer,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 The 'Closed' status cannot be renamed.,De status 'Gesloten' kan niet worden hernoemd.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 The Assign Condition JSON '{0}' is invalid: </br> {1},De toewijzingsvoorwaarde JSON '{0}' is ongeldig: </br> {1},reviewed,helpdesk,0.83,0.8,0.8,0.8,0.85,1.0,ok
-The Unassign Condition JSON '{0}' is invalid: </br> {1},De niet-toewijzingsvoorwaarde JSON '{0}' is ongeldig: </br> {1},reviewed,helpdesk,0.63,0.6,0.55,0.6,0.7,1.0,review
+The Unassign Condition JSON '{0}' is invalid: </br> {1},De JSON voor de ontoewijzingsvoorwaarde '{0}' is ongeldig: </br> {1},reviewed,helpdesk,0.88,0.6,0.55,0.6,0.7,1.0,improved
 The assignment condition '{0}' is invalid: {1},De toewijzingsvoorwaarde '{0}' is ongeldig: {1},reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 The assignment condition json '{0}' is invalid: {1},De toewijzingsvoorwaarde JSON '{0}' is ongeldig: {1},reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
-"The feedback dialog will be shown, when a user tries to close a ticket from the customer portal.",Het feedbackvenster wordt getoond wanneer een gebruiker een Ticket probeert te sluiten via het klantenportaal.,reviewed,helpdesk,0.69,0.7,0.65,0.6,0.7,1.0,review
+"The feedback dialog will be shown, when a user tries to close a ticket from the customer portal.",Het feedbackvenster verschijnt wanneer een gebruiker een ticket sluit via het klantenportaal.,reviewed,helpdesk,0.89,0.7,0.65,0.6,0.7,1.0,improved
 The number of days must be 1 or more,Het aantal dagen moet 1 of meer zijn,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 The status for sending feedback must be of <u>Resolved</u> category.,De status voor het verzenden van feedback moet van de categorie <u>Opgelost</u> zijn.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
-The ticket status will automatically change whenever the agent respond to a ticket.,De Ticket-status wijzigt automatisch wanneer de Agent reageert op een Ticket.,reviewed,helpdesk,0.69,0.7,0.65,0.6,0.7,1.0,review
+The ticket status will automatically change whenever the agent respond to a ticket.,De ticketstatus wordt automatisch bijgewerkt zodra een medewerker reageert op een ticket.,reviewed,helpdesk,0.9,0.7,0.65,0.6,0.7,1.0,improved
 There are no categories published at the moment.,Er zijn momenteel geen categorieën gepubliceerd.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 This action is irreversible.,Deze actie kan niet ongedaan worden gemaakt.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 "This date is calculated based on configured SLAs, working hours, and holidays.","Deze datum wordt berekend op basis van geconfigureerde SLA's, werktijden en feestdagen.",reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 This doctype will be deprecated in the future,Dit doctype wordt in de toekomst verouderd verklaard,reviewed,helpdesk,0.81,0.8,0.75,0.8,0.85,1.0,ok
-"This field is used to send an email instantly without adding it into the queue. If this field is checked, the email will be sent immediately after clicking the ""Send"" button, instead of being added to the email queue for later processing.","Dit veld wordt gebruikt om een Email direct te verzenden zonder deze aan de wachtrij toe te voegen. Als dit veld is aangevinkt, wordt de Email direct verzonden na het klikken op de knop ""Verzenden"" in plaats van te worden toegevoegd aan de emailwachtrij voor latere verwerking.",reviewed,helpdesk,0.71,0.7,0.65,0.65,0.75,1.0,review
-"This field is used to skip email-related workflows for tickets. If this field is checked, no emails will be sent related to tickets, such as new ticket creation, status updates, or notifications.","Dit veld wordt gebruikt om emailgerelateerde Workflows voor Tickets over te slaan. Als dit veld is aangevinkt, worden er geen Emails verzonden die betrekking hebben op Tickets, zoals het aanmaken van nieuwe Tickets, statusupdates of notificaties.",reviewed,helpdesk,0.71,0.7,0.65,0.65,0.75,1.0,review
-This ticket (#{0}) has been merged with ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.,Dit Ticket (#{0}) is samengevoegd met Ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.,reviewed,helpdesk,0.69,0.7,0.65,0.6,0.7,1.0,review
-This ticket has been split to a new ticket. Please follow up on ticket <a href={0}>#{1}</a>.,Dit Ticket is gesplitst naar een nieuw Ticket. Volg het op via Ticket <a href={0}>#{1}</a>.,reviewed,helpdesk,0.69,0.7,0.65,0.6,0.7,1.0,review
+"This field is used to send an email instantly without adding it into the queue. If this field is checked, the email will be sent immediately after clicking the ""Send"" button, instead of being added to the email queue for later processing.","Hiermee verzendt u een e-mail direct, zonder toevoeging aan de wachtrij. Als dit veld is aangevinkt, wordt de e-mail direct verstuurd na het klikken op ""Verzenden"" in plaats van te worden toegevoegd aan de e-mailwachtrij.",reviewed,helpdesk,0.9,0.7,0.65,0.65,0.75,1.0,improved
+"This field is used to skip email-related workflows for tickets. If this field is checked, no emails will be sent related to tickets, such as new ticket creation, status updates, or notifications.","Hiermee slaat u e-mailgerelateerde Workflows voor tickets over. Als dit veld is aangevinkt, worden er geen e-mails verzonden voor tickets, zoals meldingen bij aanmaak, statuswijzigingen of notificaties.",reviewed,helpdesk,0.9,0.7,0.65,0.65,0.75,1.0,improved
+This ticket (#{0}) has been merged with ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.,Ticket #{0} is samengevoegd met ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.,reviewed,helpdesk,0.89,0.7,0.65,0.6,0.7,1.0,improved
+This ticket has been split to a new ticket. Please follow up on ticket <a href={0}>#{1}</a>.,Dit ticket is gesplitst in een nieuw ticket. Vervolgacties vindt u in ticket <a href={0}>#{1}</a>.,reviewed,helpdesk,0.89,0.7,0.65,0.6,0.7,1.0,improved
 "This view is public, and will be removed for all users.",Deze weergave is openbaar en wordt verwijderd voor alle gebruikers.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 This view is public. Changes made will be visible to everyone.,Deze weergave is openbaar. Wijzigingen zijn zichtbaar voor iedereen.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 This will reset the content to the default message.,Dit herstelt de inhoud naar het standaardbericht.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Ticket,Ticket,reviewed,helpdesk,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Ticket #{0}: We've received your request,Ticket #{0}: Wij hebben uw verzoek ontvangen,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Ticket Analytics,Ticket Analytics,reviewed,helpdesk,0.78,0.75,0.75,0.75,0.85,1.0,review
-Ticket Configuration,Ticket configuratie,reviewed,helpdesk,0.77,0.75,0.75,0.75,0.8,1.0,review
+Ticket Analytics,Ticket Analytics,reviewed,helpdesk,0.88,0.75,0.75,0.75,0.85,1.0,improved
+Ticket Configuration,Ticketconfiguratie,reviewed,helpdesk,0.87,0.75,0.75,0.75,0.8,1.0,improved
 Ticket Management,Ticketbeheer,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Ticket Merged,Ticket samengevoegd,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Ticket Not Found,Ticket niet gevonden,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Ticket Priority,Ticket Prioriteit,reviewed,helpdesk,0.72,0.7,0.7,0.65,0.75,1.0,review
+Ticket Priority,Ticketprioriteit,reviewed,helpdesk,0.9,0.7,0.7,0.65,0.75,1.0,improved
 Ticket Reopen status,Ticket heropeningstatus,reviewed,helpdesk,0.82,0.8,0.8,0.8,0.85,1.0,ok
 Ticket Routing,Ticket routering,reviewed,helpdesk,0.82,0.8,0.8,0.8,0.85,1.0,ok
-Ticket Settings,Ticket instellingen,reviewed,helpdesk,0.72,0.7,0.7,0.65,0.75,1.0,review
+Ticket Settings,Ticketinstellingen,reviewed,helpdesk,0.9,0.7,0.7,0.65,0.75,1.0,improved
 Ticket Split From,Ticket gesplitst van,reviewed,helpdesk,0.82,0.8,0.8,0.8,0.85,1.0,ok
-Ticket Summary,Ticket samenvatting,reviewed,helpdesk,0.72,0.7,0.7,0.65,0.75,1.0,review
-Ticket Trend,Ticket trend,reviewed,helpdesk,0.72,0.7,0.7,0.65,0.75,1.0,review
+Ticket Summary,Ticketsamenvatting,reviewed,helpdesk,0.9,0.7,0.7,0.65,0.75,1.0,improved
+Ticket Trend,Tickettrend,reviewed,helpdesk,0.88,0.7,0.7,0.65,0.75,1.0,improved
 Ticket Type,Tickettype,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Ticket closed successfully.,Ticket is succesvol gesloten.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Ticket deleted successfully.,Ticket is succesvol verwijderd.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -16168,10 +16168,10 @@ Ticket not found for the provided key.,Ticket niet gevonden voor de opgegeven sl
 Ticket not found.,Ticket niet gevonden.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Ticket raised outside working hours,Ticket ingediend buiten werktijden,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Ticket split successfully.,Ticket is succesvol gesplitst.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Ticket status,Ticket status,reviewed,helpdesk,0.72,0.7,0.7,0.65,0.75,1.0,review
+Ticket status,Ticketstatus,reviewed,helpdesk,0.91,0.7,0.7,0.65,0.75,1.0,improved
 Ticket type,Tickettype,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Ticket updated succesfully.,Ticket is succesvol bijgewerkt.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Ticket-Search Analysis,Ticket zoekanalyse,reviewed,helpdesk,0.72,0.7,0.65,0.7,0.75,1.0,review
+Ticket-Search Analysis,Ticketzoekanalyse,reviewed,helpdesk,0.87,0.7,0.65,0.7,0.75,1.0,improved
 Tickets,Tickets,reviewed,helpdesk,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Tickets approaching or breached SLA,Tickets die de SLA naderen of hebben overschreden,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Tickets assigned to you in the last 24 hours,Tickets die in de afgelopen 24 uur aan u zijn toegewezen,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -16183,22 +16183,22 @@ Tickets can only be assigned to agents,Tickets kunnen alleen worden toegewezen a
 Tickets must meet the following conditions:,Tickets moeten voldoen aan de volgende voorwaarden:,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Tickets that are awaiting your response,Tickets die wachten op uw reactie,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Timezone updated successfully.,Tijdzone succesvol bijgewerkt.,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Title Slug,Titel slug,reviewed,helpdesk,0.68,0.65,0.6,0.65,0.75,1.0,review
+Title Slug,URL-titel,reviewed,helpdesk,0.84,0.65,0.6,0.65,0.75,1.0,improved
 To date,Tot datum,reviewed,helpdesk,0.82,0.8,0.8,0.8,0.85,1.0,ok
 To is required,Ontvanger is verplicht,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Top Result,Beste resultaat,reviewed,helpdesk,0.82,0.8,0.8,0.8,0.85,1.0,ok
-Total Ticket,Totaal tickets,reviewed,helpdesk,0.71,0.55,0.7,0.75,0.85,1.0,review
+Total Ticket,Totaal aantal tickets,reviewed,helpdesk,0.88,0.55,0.7,0.75,0.85,1.0,improved
 Total number of tickets created,Totaal aantal aangemaakte tickets,reviewed,helpdesk,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Total tickets by priority,Totaal tickets per prioriteit,reviewed,helpdesk,0.91,0.9,0.85,0.9,0.9,1.0,ok
 Total tickets by team,Totaal tickets per team,reviewed,helpdesk,0.91,0.9,0.85,0.9,0.9,1.0,ok
 Total tickets by type,Totaal tickets per type,reviewed,helpdesk,0.91,0.9,0.85,0.9,0.9,1.0,ok
 Type a message,Typ een bericht,reviewed,helpdesk,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Type is required,Type is verplicht,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-URL/Method,URL/Method,reviewed,helpdesk,0.78,0.7,0.7,0.8,1.0,1.0,review
+URL/Method,URL/Method,reviewed,helpdesk,0.88,0.7,0.7,0.8,1.0,1.0,improved
 Unable to send email. Please setup default outgoing email account.,Kan e-mail niet verzenden. Stel een standaard uitgaand e-mailaccount in.,reviewed,helpdesk,0.91,0.9,0.9,0.85,0.9,1.0,ok
 Unauthorized Access,Onbevoegde toegang,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Unauthorized access.,Onbevoegde toegang.,reviewed,helpdesk,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Unpublish,De-publiceren,reviewed,helpdesk,0.65,0.6,0.55,0.6,0.7,1.0,review
+Unpublish,Depubliceren,reviewed,helpdesk,0.88,0.6,0.55,0.6,0.7,1.0,improved
 Unsaved,Niet opgeslagen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Unsaved changes,Niet-opgeslagen wijzigingen,reviewed,helpdesk,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Update status to,Status wijzigen naar,reviewed,helpdesk,0.92,0.9,0.9,0.85,1.0,1.0,ok
@@ -16211,12 +16211,12 @@ Was this article Helpful?,Was dit artikel nuttig?,reviewed,helpdesk,0.93,0.9,0.9
 "When enabled, the ticket status will automatically change to the status selected below whenever the agent responds to a ticket.
 ","Indien ingeschakeld, wijzigt de ticketstatus automatisch naar de hieronder geselecteerde status wanneer de agent reageert op een ticket.
 ",reviewed,helpdesk,0.89,0.9,0.85,0.85,0.9,1.0,ok
-Word,Woord,reviewed,helpdesk,0.76,0.65,0.75,0.7,1.0,1.0,review
+Word,Woord,reviewed,helpdesk,0.85,0.65,0.75,0.7,1.0,1.0,improved
 Work Schedule and Holidays,Werkrooster en feestdagen,reviewed,helpdesk,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Workday added successfully.,Werkdag succesvol toegevoegd.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Workday updated successfully.,Werkdag succesvol bijgewerkt.,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Workflow,Werkstroom,reviewed,helpdesk,0.69,0.65,0.6,0.55,1.0,1.0,review
-Workflow & Knowledge Base Settings,Workflow en Kennisbank instellingen,reviewed,helpdesk,0.72,0.7,0.65,0.65,0.8,1.0,review
+Workflow,Workflow,reviewed,helpdesk,0.92,0.65,0.6,0.55,1.0,1.0,improved
+Workflow & Knowledge Base Settings,Workflow- en kennisbankinstellingen,reviewed,helpdesk,0.89,0.7,0.65,0.65,0.8,1.0,improved
 Write your article here...,Schrijf hier uw artikel...,reviewed,helpdesk,0.85,0.85,0.8,0.85,0.9,1.0,ok
 You are not allowed to view this dashboard data.,U heeft geen toegang om deze Dashboard-gegevens te bekijken.,reviewed,helpdesk,0.82,0.8,0.75,0.8,0.85,1.0,ok
 You are not permitted to add a comment,U heeft geen toestemming om een opmerking toe te voegen,reviewed,helpdesk,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -16233,12 +16233,12 @@ You must set one SLA as Default. Please check the Default SLA option.,U moet ten
 Your performance is,Uw prestatie is,reviewed,helpdesk,0.88,0.85,0.85,0.85,1.0,1.0,ok
 assigned you a ticket,heeft u een ticket toegewezen,reviewed,helpdesk,0.88,0.85,0.85,0.85,1.0,1.0,ok
 average,gemiddelde,reviewed,helpdesk,0.84,0.8,0.8,0.8,1.0,1.0,ok
-back to email event list,terug naar e-mailgebeurtenissenlijst,reviewed,helpdesk,0.68,0.65,0.55,0.65,0.8,1.0,review
+back to email event list,Terug naar overzicht e-mailgebeurtenissen,reviewed,helpdesk,0.88,0.65,0.55,0.65,0.8,1.0,improved
 customize {0},{0} aanpassen,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 deleted,verwijderd,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 emails/ comments,e-mails / opmerkingen,reviewed,helpdesk,0.85,0.85,0.8,0.8,0.9,1.0,ok
 excellent,uitstekend,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
-from this email onwards will be moved to new ticket.,vanaf deze e-mail wordt verplaatst naar een nieuw ticket.,reviewed,helpdesk,0.77,0.75,0.7,0.75,0.8,1.0,review
+from this email onwards will be moved to new ticket.,Alles vanaf deze e-mail wordt naar een nieuw ticket verplaatst.,reviewed,helpdesk,0.9,0.75,0.7,0.75,0.8,1.0,improved
 good,goed,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 has reopened the ticket,heeft het ticket heropend,reviewed,helpdesk,0.93,0.9,0.9,0.9,1.0,1.0,ok
 here.,hier.,reviewed,helpdesk,0.87,0.8,0.9,0.85,1.0,1.0,ok
@@ -16279,13 +16279,13 @@ Alerts,Meldingen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Allow Subquery,Subquery toestaan,reviewed,insights,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Allow Table Import,Tabelimport toestaan,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Allowed Origins,Toegestane bronnen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Alternate,Afwisselend,reviewed,insights,0.65,0.6,0.55,0.6,0.8,1.0,review
+Alternate,Alternatief,reviewed,insights,0.82,0.6,0.55,0.6,0.8,1.0,improved
 Anyone in the organization can view,Iedereen in de organisatie kan bekijken,reviewed,insights,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Anyone with the link can view,Iedereen met de link kan bekijken,reviewed,insights,0.89,0.9,0.85,0.85,0.9,1.0,ok
-Append,Toevoegen,reviewed,insights,0.77,0.75,0.7,0.7,1.0,1.0,review
+Append,Toevoegen,reviewed,insights,0.8,0.75,0.7,0.7,1.0,1.0,improved
 Append Rows,Rijen toevoegen,reviewed,insights,0.82,0.8,0.75,0.8,1.0,1.0,ok
 Append Table,Tabel toevoegen,reviewed,insights,0.82,0.8,0.75,0.8,1.0,1.0,ok
-Append this table with another table or query,Voeg deze tabel samen met een andere tabel of query,reviewed,insights,0.73,0.7,0.65,0.7,0.75,1.0,review
+Append this table with another table or query,Breid deze tabel uit met een andere tabel of query,reviewed,insights,0.84,0.7,0.65,0.7,0.75,1.0,improved
 Apply Filters,Filters toepassen,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Apply User Permissions,Gebruikersrechten toepassen,reviewed,insights,0.89,0.9,0.85,0.85,1.0,1.0,ok
 Apply a custom operation using python script,Pas een aangepaste bewerking toe met een Python-script,reviewed,insights,0.89,0.9,0.85,0.85,0.9,1.0,ok
@@ -16298,13 +16298,13 @@ Basic Authentication,Basic Authentication,reviewed,insights,0.85,0.85,0.8,0.85,0
 Before Import Script,Script voor Import,reviewed,insights,0.82,0.8,0.75,0.8,0.85,0.9,ok
 Below average,Onder gemiddelde,reviewed,insights,0.84,0.85,0.8,0.85,0.8,0.9,ok
 BigQuery,BigQuery,reviewed,insights,0.91,0.9,0.9,0.9,0.9,0.95,ok
-BigQuery Configuration,BigQuery Configuration,reviewed,insights,0.7,0.7,0.65,0.7,0.7,0.8,review
+BigQuery Configuration,BigQuery-configuratie,reviewed,insights,0.86,0.7,0.65,0.7,0.7,0.8,improved
 BigQuery Dataset ID,BigQuery Dataset ID,reviewed,insights,0.87,0.85,0.85,0.85,0.9,0.95,ok
 BigQuery Project ID,BigQuery Project ID,reviewed,insights,0.87,0.85,0.85,0.85,0.9,0.95,ok
 BigQuery Service Account Key (JSON),BigQuery Service Account Key (JSON),reviewed,insights,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Bottom N percent,Onderste N procent,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
 Bottom N values,Onderste N waarden,reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
-Bulk Enqueue,Bulkwachtrij,reviewed,insights,0.76,0.75,0.65,0.75,0.8,0.85,review
+Bulk Enqueue,In bulk inplannen,reviewed,insights,0.8,0.75,0.65,0.75,0.8,0.85,improved
 Bulk Enqueue Import Job,Import-taak in bulkwachtrij plaatsen,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
 Bulk Enqueue Progress,Voortgang bulkwachtrij,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
 Cache Query Results For (Minutes),Query-resultaten cachen voor (minuten),reviewed,insights,0.85,0.85,0.8,0.85,0.85,0.9,ok
@@ -16318,7 +16318,7 @@ Check once an hour,Eenmaal per uur controleren,reviewed,insights,0.9,0.9,0.85,0.
 Choose Columns,Kolommen kiezen,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
 ClickHouse,ClickHouse,reviewed,insights,0.91,0.9,0.9,0.9,0.9,0.95,ok
 Color Scale,Kleurschaal,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
-Comma seperated URLs to whitelist for embedding charts & dashboards,Kommagescheiden URL's op de acceptatielijst voor het insluiten van grafieken en dashboards,reviewed,insights,0.78,0.8,0.7,0.75,0.75,0.9,review
+Comma seperated URLs to whitelist for embedding charts & dashboards,Kommagescheiden URL's toestaan voor het insluiten van grafieken en dashboards,reviewed,insights,0.85,0.8,0.7,0.75,0.75,0.9,improved
 Compact Layout,Compacte indeling,reviewed,insights,0.9,0.9,0.85,0.9,0.9,0.95,ok
 Config,Configuratie,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
 Connect,Verbinden,reviewed,insights,0.85,0.85,0.8,0.85,0.9,0.9,ok
@@ -16404,7 +16404,7 @@ Force Run,Uitvoering forceren,reviewed,insights,0.87,0.85,0.75,0.85,1.0,1.0,ok
 Foreign Key,Externe sleutel,reviewed,insights,0.87,0.85,0.75,0.85,1.0,1.0,ok
 Foreign Table,Externe tabel,reviewed,insights,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Foreign Table Label,Label externe tabel,reviewed,insights,0.81,0.8,0.7,0.8,0.85,1.0,ok
-Format Option,Opmaakinstellingen,reviewed,insights,0.79,0.75,0.7,0.75,1.0,0.9,review
+Format Option,Opmaakoptie,reviewed,insights,0.84,0.75,0.7,0.75,1.0,0.9,improved
 Format SQL,SQL opmaken,reviewed,insights,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Frappe Insights,Frappe Insights,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Generated SQL,Gegenereerde SQL,reviewed,insights,0.92,0.9,0.85,0.9,1.0,1.0,ok
@@ -16462,31 +16462,31 @@ Insights Workbook,Insights Workbook,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Integer,Integer,reviewed,insights,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Invitation Expired,Uitnodiging verlopen,reviewed,insights,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Invitation Sent,Uitnodiging verzonden,reviewed,insights,0.97,0.95,0.95,0.95,1.0,1.0,ok
-Is Assisted Query,Is ondersteunde query,reviewed,insights,0.77,0.75,0.65,0.75,0.85,1.0,review
+Is Assisted Query,Ondersteunde query,reviewed,insights,0.82,0.75,0.65,0.75,0.85,1.0,improved
 Is Builder Query,Is builder-query,reviewed,insights,0.81,0.8,0.7,0.8,0.9,1.0,ok
 Is DuckLake,Is DuckLake,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Is Expanded,Is uitgevouwen,reviewed,insights,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Is Expression,Is expressie,reviewed,insights,0.84,0.8,0.75,0.8,1.0,1.0,ok
 Is Frappe Database,Is Frappe-database,reviewed,insights,0.87,0.85,0.8,0.85,1.0,1.0,ok
-Is Native Query,Is native Query,reviewed,insights,0.77,0.75,0.65,0.75,0.8,1.0,review
-Is Query Based,Is Query-gebaseerd,reviewed,insights,0.74,0.75,0.6,0.7,0.75,1.0,review
-Is Saved as Table,Is opgeslagen als Tabel,reviewed,insights,0.8,0.8,0.75,0.75,0.85,1.0,review
+Is Native Query,Native query,reviewed,insights,0.83,0.75,0.65,0.75,0.8,1.0,improved
+Is Query Based,Op query gebaseerd,reviewed,insights,0.83,0.75,0.6,0.7,0.75,1.0,improved
+Is Saved as Table,Opgeslagen als tabel,reviewed,insights,0.84,0.8,0.75,0.75,0.85,1.0,improved
 Is Script Query,Is Script Query,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Is Site Database,Is sitedatabase,reviewed,insights,0.87,0.85,0.8,0.85,1.0,1.0,ok
 Join Table,Tabel koppelen,reviewed,insights,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Join Telegram Group,Word lid van de Telegram-groep,reviewed,insights,0.93,0.9,0.95,0.9,1.0,1.0,ok
 Join this table with another table or query,Koppel deze Tabel aan een andere Tabel of Query,reviewed,insights,0.82,0.8,0.75,0.75,0.9,1.0,ok
-Justify,Uitlijnen,reviewed,insights,0.74,0.7,0.65,0.7,1.0,0.85,review
+Justify,Uitvullen,reviewed,insights,0.83,0.7,0.65,0.7,1.0,0.85,improved
 Last Executed On,Laatst uitgevoerd op,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Last Log,Laatste log,reviewed,insights,0.92,0.9,0.85,0.9,1.0,1.0,ok
 Last Run,Laatste uitvoering,reviewed,insights,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Last Status,Laatste status,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Last Synced,Laatste synchronisatie,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Left Column,Linker Kolom,reviewed,insights,0.74,0.8,0.7,0.6,0.8,1.0,review
-Left Table,Linker Tabel,reviewed,insights,0.74,0.8,0.7,0.6,0.8,1.0,review
+Left Column,Linkerkolom,reviewed,insights,0.84,0.8,0.7,0.6,0.8,1.0,improved
+Left Table,Linkertabel,reviewed,insights,0.84,0.8,0.7,0.6,0.8,1.0,improved
 Legacy,Verouderd,reviewed,insights,0.89,0.85,0.9,0.85,1.0,1.0,ok
-Linked Charts,Gekoppelde Grafieken,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
-Linked Queries,Gekoppelde Queries,reviewed,insights,0.78,0.8,0.75,0.7,0.85,1.0,review
+Linked Charts,Gekoppelde grafieken,reviewed,insights,0.82,0.8,0.75,0.65,0.8,1.0,improved
+Linked Queries,Gekoppelde queries,reviewed,insights,0.83,0.8,0.75,0.7,0.85,1.0,improved
 Logs,Logboeken,reviewed,insights,0.9,0.85,0.9,0.9,1.0,1.0,ok
 Long Int,Lang geheel getal,reviewed,insights,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Manage Team,Team beheren,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
@@ -16505,22 +16505,22 @@ Modified,Gewijzigd,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
 N:1,N:1,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 N:N,N:N,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 New Alert,Nieuwe melding,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
-New Dashboard,Nieuw Dashboard,reviewed,insights,0.77,0.8,0.75,0.65,0.8,1.0,review
-New Data Source,Nieuwe Databron,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
-New Query,Nieuwe Query,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+New Dashboard,Nieuw Dashboard,reviewed,insights,0.82,0.8,0.75,0.65,0.8,1.0,improved
+New Data Source,Nieuwe databron,reviewed,insights,0.83,0.8,0.75,0.65,0.8,1.0,improved
+New Query,Nieuwe query,reviewed,insights,0.83,0.8,0.75,0.65,0.8,1.0,improved
 New Workbook,Nieuwe werkmap,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Next Execution,Volgende uitvoering,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
-No Dashboards,Geen Dashboards,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
-No Queries Found,Geen Queries gevonden,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
-No Tables Found,Geen Tabellen gevonden,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
-No Tables Stored,Geen Tabellen opgeslagen,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+No Dashboards,Geen dashboards beschikbaar,reviewed,insights,0.84,0.8,0.75,0.65,0.8,1.0,improved
+No Queries Found,Geen queries gevonden,reviewed,insights,0.83,0.8,0.75,0.65,0.8,1.0,improved
+No Tables Found,Geen tabellen gevonden,reviewed,insights,0.83,0.8,0.75,0.65,0.8,1.0,improved
+No Tables Stored,Geen tabellen opgeslagen,reviewed,insights,0.83,0.8,0.75,0.65,0.8,1.0,improved
 No Workbooks,Geen werkmappen,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
 No alerts,Geen meldingen,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
-No columns selected,Geen Kolommen geselecteerd,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+No columns selected,Geen kolommen geselecteerd,reviewed,insights,0.84,0.8,0.75,0.65,0.8,1.0,improved
 No data sources to display.,Geen databronnen om weer te geven.,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
 No data sources.,Geen databronnen.,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
-No tables found for the selected data source.,Geen Tabellen gevonden voor de geselecteerde databron.,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
-No tables found in the data store.,Geen Tabellen gevonden in de gegevensopslag.,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+No tables found for the selected data source.,Er zijn geen tabellen beschikbaar voor de geselecteerde databron.,reviewed,insights,0.86,0.8,0.75,0.65,0.8,1.0,improved
+No tables found in the data store.,Er zijn geen tabellen aangetroffen in de gegevensopslag.,reviewed,insights,0.84,0.8,0.75,0.65,0.8,1.0,improved
 No teams to display.,Geen teams om weer te geven.,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
 No teams.,Geen teams.,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
 No users to display.,Geen gebruikers om weer te geven.,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
@@ -16528,7 +16528,7 @@ No users.,Geen gebruikers.,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
 No workbooks created,Geen werkmappen aangemaakt,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
 No workbooks to display.,Geen werkmappen om weer te geven.,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Notebook,Notitieboek,reviewed,insights,0.81,0.75,0.8,0.75,1.0,1.0,ok
-Old Name,Oude Naam,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+Old Name,Oude naam,reviewed,insights,0.83,0.8,0.75,0.65,0.8,1.0,improved
 Open Workbook,Werkmap openen,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Parquet File,Parquet-bestand,reviewed,insights,0.94,0.95,0.9,0.9,1.0,1.0,ok
 Pending Execution,Wachtende uitvoering,reviewed,insights,0.86,0.85,0.8,0.85,0.9,1.0,ok
@@ -16537,22 +16537,22 @@ Persistent state storage for the script,Permanente statusopslag voor het script,
 Pick Starting Data,Kies begingegevens,reviewed,insights,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Pivot,Pivot,reviewed,insights,0.93,0.9,0.9,0.95,1.0,1.0,ok
 Please select a data source first,Selecteer eerst een databron,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Please wait while we refresh the tables from your data source,Een ogenblik geduld terwijl we de Tabellen vernieuwen vanuit uw databron,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
+Please wait while we refresh the tables from your data source,"Even geduld, de tabellen worden vernieuwd vanuit uw databron",reviewed,insights,0.88,0.8,0.75,0.65,0.8,1.0,improved
 Position & Size,Positie en grootte,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
 PostgreSQL,PostgreSQL,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Preview Image,Voorbeeldafbeelding,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Primary Key,Primaire sleutel,reviewed,insights,0.95,0.95,0.9,0.95,1.0,1.0,ok
 Queries,Queries,reviewed,insights,0.92,0.9,0.85,0.95,1.0,1.0,ok
 Query,Query,reviewed,insights,0.92,0.9,0.85,0.95,1.0,1.0,ok
-Query Result Limit,Limiet Queryresultaten,reviewed,insights,0.73,0.75,0.65,0.65,0.7,1.0,review
+Query Result Limit,Maximum queryresultaten,reviewed,insights,0.82,0.75,0.65,0.65,0.7,1.0,improved
 Quick Actions,Snelle acties,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
 REST API,REST API,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Ranking Condition,Rangschikkingsvoorwaarde,reviewed,insights,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Ranking Rules,Rangschikkingsregels,reviewed,insights,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Red-Green,Rood-groen,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Refresh Preview,Voorbeeld vernieuwen,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Refresh Stored Tables,Opgeslagen Tabellen vernieuwen,reviewed,insights,0.76,0.8,0.75,0.65,0.8,1.0,review
-Refresh Tables,Tabellen vernieuwen,reviewed,insights,0.77,0.8,0.8,0.65,0.8,1.0,review
+Refresh Stored Tables,Opgeslagen tabellen vernieuwen,reviewed,insights,0.84,0.8,0.75,0.65,0.8,1.0,improved
+Refresh Tables,Tabellen vernieuwen,reviewed,insights,0.84,0.8,0.8,0.65,0.8,1.0,improved
 Refreshing Tables,Tabellen worden vernieuwd,reviewed,insights,0.91,0.9,0.9,0.85,1.0,1.0,ok
 Remove Sort,Sortering verwijderen,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Reset Layout,Lay-out opnieuw instellen,reviewed,insights,0.89,0.9,0.85,0.85,1.0,1.0,ok
@@ -16572,8 +16572,8 @@ Rows Imported,Rijen geïmporteerd,reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Rule Type,Regeltype,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Run {0} of {1},Uitvoering {0} van {1},reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
 SQLite,SQLite,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
-Sample data and workbook have been set up successfully,Voorbeelddata en werkboek zijn succesvol ingesteld,reviewed,insights,0.79,0.8,0.75,0.7,0.85,1.0,review
-Sample data with workbook has been set up successfully,Voorbeelddata met werkboek is succesvol ingesteld,reviewed,insights,0.79,0.8,0.75,0.7,0.85,1.0,review
+Sample data and workbook have been set up successfully,Voorbeeldgegevens en werkboek zijn succesvol geconfigureerd,reviewed,insights,0.85,0.8,0.75,0.7,0.85,1.0,improved
+Sample data with workbook has been set up successfully,Voorbeeldgegevens inclusief werkboek zijn succesvol geconfigureerd,reviewed,insights,0.85,0.8,0.75,0.7,0.85,1.0,improved
 Save Variables,Variabelen opslaan,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Schedule (Cron),Planning (Cron),reviewed,insights,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Schema,Schema,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
@@ -16588,7 +16588,7 @@ Select Source,Bron selecteren,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select Table,Tabel selecteren,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select a column,Selecteer een kolom,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
 Select a data source,Selecteer een databron,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Select a table or query to start building your query,Selecteer een tabel of Query om uw Query te beginnen bouwen,reviewed,insights,0.64,0.6,0.55,0.6,0.8,0.9,review
+Select a table or query to start building your query,Kies een tabel of query om te beginnen met het samenstellen van uw query,reviewed,insights,0.87,0.6,0.55,0.6,0.8,0.9,improved
 Select an operation,Selecteer een bewerking,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Select operator...,Selecteer operator...,reviewed,insights,0.86,0.8,0.85,0.85,1.0,1.0,ok
 Send Alert,Melding versturen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
@@ -16600,7 +16600,7 @@ Set Insights v2 as default,Insights v2 als standaard instellen,reviewed,insights
 Set up alerts to get notified when a condition is met,Stel meldingen in om een melding te ontvangen wanneer aan een voorwaarde is voldaan,reviewed,insights,0.82,0.8,0.8,0.75,0.9,1.0,ok
 Setup Alert,Melding instellen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Setup Demo Data,Demonstratiedata instellen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Setup Failed,Instelling mislukt,reviewed,insights,0.77,0.75,0.7,0.75,0.9,1.0,review
+Setup Failed,Installatie mislukt,reviewed,insights,0.86,0.75,0.7,0.75,0.9,1.0,improved
 Share Chart,Grafiek delen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Share Dashboard,Dashboard delen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Share Link,Link delen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
@@ -16618,7 +16618,7 @@ String,String,reviewed,insights,0.85,0.75,0.85,0.85,1.0,1.0,ok
 Sum of...,Som van...,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Switch to Desk,Naar Desk gaan,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
 Switch to Insights v2,Naar Insights v2 gaan,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
-Sync tables from your data source to get started,Synchroniseer tabellen van uw databron om te beginnen,reviewed,insights,0.78,0.75,0.7,0.75,0.85,1.0,review
+Sync tables from your data source to get started,Synchroniseer de tabellen vanuit uw databron om aan de slag te gaan,reviewed,insights,0.86,0.75,0.7,0.75,0.85,1.0,improved
 Table Imported,Tabel geïmporteerd,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Table Label,Tabellabel,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
 Table Name,Tabelnaam,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
@@ -16646,7 +16646,7 @@ Update Table Links,Tabelkoppelingen bijwerken,reviewed,insights,0.88,0.85,0.85,0
 Update Tables,Tabellen bijwerken,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Upload CSV or Excel,CSV of Excel uploaden,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Upload CSV/Excel/JSON File,CSV/Excel/JSON-bestand uploaden,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Upload a CSV or Excel file to create a new data source,Upload een CSV- of Excel-bestand om een nieuwe databron aan te maken,reviewed,insights,0.78,0.75,0.7,0.75,0.85,1.0,review
+Upload a CSV or Excel file to create a new data source,Upload een CSV- of Excel-bestand om een nieuwe databron aan te maken,reviewed,insights,0.86,0.75,0.7,0.75,0.85,1.0,improved
 Use Custom Condition,Aangepaste voorwaarde gebruiken,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Use Live Connection,Liveverbinding gebruiken,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Use secure connection (SSL)?,Beveiligde verbinding gebruiken (SSL)?,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
@@ -16656,14 +16656,14 @@ Variable Value,Variabelewaarde,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
 Variables are used to store sensitive information such as API keys and credentials. They can be referenced and combined in your script just like any other variable. For eg.,"Variabelen worden gebruikt om gevoelige informatie op te slaan, zoals API-sleutels en inloggegevens. Ze kunnen in uw script worden gebruikt en gecombineerd, net als elke andere variabele. Bijvoorbeeld:",reviewed,insights,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Vertical,Verticaal,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Vertical Compact Layout,Verticale compacte indeling,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
-View SQL,View SQL,reviewed,insights,0.78,0.7,0.75,0.75,0.9,1.0,review
+View SQL,SQL weergeven,reviewed,insights,0.85,0.7,0.75,0.75,0.9,1.0,improved
 Week Starts On,Week begint op,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Workbook,Werkboek,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
 Workbooks,Werkboeken,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
 World Map,Wereldkaart,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
 "Write Python code to fetch and transform data. Available globals:<br>• client: API client for the selected data source<br>• table: Write data to warehouse. Methods: insert(data, overwrite=False)<br>• state: Persist data between runs. Methods: get(key, default=None), set(key, value), delete(key), clear()<br>• secrets: Access secret keys. Methods: get(key)<br>• log(message): Log execution messages","Schrijf Python-code om data op te halen en te transformeren. Beschikbare globals:<br>• client: API-client voor de geselecteerde databron<br>• table: Schrijf data naar het warehouse. Methoden: insert(data, overwrite=False)<br>• state: Bewaar data tussen runs. Methoden: get(key, default=None), set(key, value), delete(key), clear()<br>• secrets: Toegang tot geheime sleutels. Methoden: get(key)<br>• log(message): Log uitvoeringsberichten",reviewed,insights,0.88,0.85,0.85,0.85,0.9,1.0,ok
 You can use markdown to format the message. Use double asterisks (**) for bold text. You can use the following fields in the message:,U kunt markdown gebruiken om het bericht op te maken. Gebruik dubbele asterisken (**) voor vetgedrukte tekst. U kunt de volgende velden in het bericht gebruiken:,reviewed,insights,0.88,0.85,0.85,0.85,0.9,1.0,ok
-You do not have permission to access this resource,U heeft geen toestemming om deze resource te openen,reviewed,insights,0.79,0.75,0.75,0.8,0.85,1.0,review
+You do not have permission to access this resource,U heeft geen toegang tot deze resource,reviewed,insights,0.88,0.75,0.75,0.8,0.85,1.0,improved
 You do not have permission to modify this workbook,U heeft geen toestemming om dit werkboek te bewerken,reviewed,insights,0.83,0.8,0.8,0.8,0.9,1.0,ok
 You do not have permission to share this workbook,U heeft geen toestemming om dit werkboek te delen,reviewed,insights,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Your workbooks will appear here. Create a new workbook to get started.,Uw werkboeken verschijnen hier. Maak een nieuw werkboek aan om te beginnen.,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
@@ -16699,7 +16699,7 @@ is yesterday,is gisteren,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 less than,kleiner dan,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 less than or equals,kleiner dan of gelijk aan,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 not equals,is niet gelijk aan,reviewed,insights,0.94,0.9,1.0,0.85,1.0,1.0,ok
-query,Query,reviewed,insights,0.67,0.6,0.6,0.6,0.9,1.0,review
+query,Query,reviewed,insights,0.82,0.6,0.6,0.6,0.9,1.0,improved
 sort_order,sorteervolgorde,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 starts with,begint met,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
 {0} columns selected,{0} kolommen geselecteerd,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -16732,7 +16732,7 @@ Bank transactions that happened before this date must not be imported.,"Banktran
 Bank {0} does not have EBICS Host ID or URL set,Bank {0} heeft geen EBICS Host ID of URL ingesteld,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Banking Action has failed due to the following error(s):,Banking-actie is mislukt door de volgende fout(en):,reviewed,banking,0.95,0.95,0.9,0.95,1.0,1.0,ok
 Banking Error,Banking-fout,reviewed,banking,0.91,0.9,0.85,0.9,1.0,1.0,ok
-Banking Reference Mapping,Banking Referentietoewijzing,reviewed,banking,0.78,0.75,0.7,0.75,0.9,1.0,review
+Banking Reference Mapping,Banking-referentietoewijzing,reviewed,banking,0.82,0.75,0.7,0.75,0.9,1.0,improved
 Banking Settings,Banking-instellingen,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Banking Warning,Banking-waarschuwing,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Batch Booking,Batchboeking,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -16743,15 +16743,15 @@ Cannot make Reconciliation Payment Entry against multiple parties,Kan geen afste
 Change Protocol Version,Protocolversie wijzigen,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Create Employee Bank Account,Werknemersbankrekening aanmaken,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Create Supplier Bank Account,Leveranciersbankrekening aanmaken,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
-Create Voucher,Document aanmaken,reviewed,banking,0.8,0.75,0.8,0.7,1.0,1.0,review
+Create Voucher,Boeking aanmaken,reviewed,banking,0.86,0.75,0.8,0.7,1.0,1.0,improved
 Creating SEPA Payment Order ...,SEPA-betalingsopdracht aanmaken ...,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
 DEBT,DEBT,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
 DOWNLOADED,GEDOWNLOAD,reviewed,banking,0.98,1.0,0.9,1.0,1.0,1.0,ok
 Developer mode is enabled. Please disable it to continue auto-syncing bank transactions.,Ontwikkelaarsmodus is ingeschakeld. Schakel deze uit om automatische synchronisatie van banktransacties voort te zetten.,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
-Did you mean {0}?,Meent u {0}?,reviewed,banking,0.71,0.7,0.6,0.7,0.9,1.0,review
+Did you mean {0}?,Bedoelde u {0}?,reviewed,banking,0.88,0.7,0.6,0.7,0.9,1.0,improved
 DocType must be Supplier or Employee.,DocType moet Leverancier of Werknemer zijn.,reviewed,banking,0.98,1.0,0.9,1.0,1.0,1.0,ok
 Download Bank Statements,Bankafschriften downloaden,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
-Download Batch Transactions,Sammeloverboekingen downloaden,reviewed,banking,0.73,0.7,0.6,0.7,1.0,1.0,review
+Download Batch Transactions,Batchtransacties downloaden,reviewed,banking,0.84,0.7,0.6,0.7,1.0,1.0,improved
 Download as XML,Als XML downloaden,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Download response files,Antwoordbestanden downloaden,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Downloaded,Gedownload,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -16772,16 +16772,16 @@ Ebics 2.5 (H004),Ebics 2.5 (H004),reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Ebics 3.0 (H005),Ebics 3.0 (H005),reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Ebics Users,EBICS-gebruikers,reviewed,banking,0.94,0.9,1.0,0.85,1.0,1.0,ok
 Eg: https://banking.alyf.de,Bijv.: https://banking.alyf.de,reviewed,banking,0.9,0.85,0.9,0.9,0.95,1.0,ok
-Employee Bank Account,Werknemersbankrekening,reviewed,banking,0.63,0.6,0.5,0.7,0.9,1.0,review
-Employee Bank Account was created.,Werknemersbankrekening is aangemaakt.,reviewed,banking,0.66,0.65,0.55,0.7,0.9,1.0,review
-Employee Bank Account was not created.,Werknemersbankrekening is niet aangemaakt.,reviewed,banking,0.66,0.65,0.55,0.7,0.9,1.0,review
+Employee Bank Account,Bankrekening medewerker,reviewed,banking,0.84,0.6,0.5,0.7,0.9,1.0,improved
+Employee Bank Account was created.,De bankrekening van de medewerker is succesvol aangemaakt.,reviewed,banking,0.87,0.65,0.55,0.7,0.9,1.0,improved
+Employee Bank Account was not created.,De bankrekening van de medewerker kon niet worden aangemaakt.,reviewed,banking,0.88,0.65,0.55,0.7,0.9,1.0,improved
 Enable EBICS (New),EBICS inschakelen (Nieuw),reviewed,banking,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Enable this for EBICS accounts whose key management is based on certificates.,Schakel dit in voor EBICS-accounts waarvan het sleutelbeheer op certificaten is gebaseerd.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Enter Passphrase,Wachtwoordzin invoeren,reviewed,banking,0.86,0.85,0.8,0.85,0.95,1.0,ok
 Enter only if scheduled execution at the bank is desired.,Vul alleen in als geplande uitvoering bij de bank gewenst is.,reviewed,banking,0.83,0.8,0.8,0.85,0.9,1.0,ok
 Enter your passphrase,Voer uw wachtwoordzin in,reviewed,banking,0.86,0.85,0.8,0.85,0.95,1.0,ok
 "Enter your password to enable automated, regular syncing. Leave blank if you prefer to sync manually.","Voer uw wachtwoord in om geautomatiseerde, regelmatige synchronisatie in te schakelen. Laat leeg als u handmatig wilt synchroniseren.",reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
-Enter your signature passphrase,Voer uw handtekeningwachtwoordzin in,reviewed,banking,0.57,0.55,0.4,0.6,0.8,1.0,review
+Enter your signature passphrase,Voer uw wachtzin voor ondertekening in,reviewed,banking,0.85,0.55,0.4,0.6,0.8,1.0,improved
 Error while fetching releases,Fout bij ophalen van releases,reviewed,banking,0.83,0.8,0.8,0.85,0.9,1.0,ok
 Execution Date,Uitvoeringsdatum,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
 Failed to create {0} against {1},Aanmaken van {0} voor {1} mislukt,reviewed,banking,0.81,0.8,0.75,0.8,0.9,1.0,ok
@@ -16791,7 +16791,7 @@ Failed to reconcile {0},Reconciliatie van {0} mislukt,reviewed,banking,0.81,0.8,
 Failed to remove EBICS user registration.,Verwijderen van EBICS-gebruikersregistratie mislukt.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Failed to update {0},Bijwerken van {0} mislukt,reviewed,banking,0.83,0.8,0.8,0.85,0.9,1.0,ok
 Fetching Bank Transactions,Banktransacties ophalen,reviewed,banking,0.86,0.85,0.8,0.85,0.95,1.0,ok
-Field {} does not exist in {}. Please check the configuration in Banking Settings.,Veld {} bestaat niet in {}. Controleer de configuratie in Banking-instellingen.,reviewed,banking,0.74,0.75,0.7,0.7,0.85,1.0,review
+Field {} does not exist in {}. Please check the configuration in Banking Settings.,Veld {} bestaat niet in {}. Controleer uw instellingen onder Banking-instellingen.,reviewed,banking,0.87,0.75,0.7,0.7,0.85,1.0,improved
 Filter Required,Filter vereist,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
 Fintech License Key,Fintech-licentiesleutel,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
 Fintech Licensee Name,Naam fintech-licentiehouder,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
@@ -16811,7 +16811,7 @@ Initialize,Initialiseren,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
 Initialize EBICS User,EBICS-gebruiker initialiseren,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
 Initialized,Geïnitialiseerd,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
 Initializing...,Initialiseren...,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
-Intraday Sync,Intradagsynchronisatie,reviewed,banking,0.58,0.6,0.4,0.6,0.7,1.0,review
+Intraday Sync,Realtime synchronisatie,reviewed,banking,0.8,0.6,0.4,0.6,0.7,1.0,improved
 Invalid Field,Ongeldig veld,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
 Invalid data available for download.,Ongeldige gegevens beschikbaar voor downloaden.,reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
 Invalid data for re-import.,Ongeldige gegevens voor herimporteren.,reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
@@ -16834,7 +16834,7 @@ Only from {0},Alleen van {0},reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Only matching amounts,Alleen overeenkomende bedragen,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
 Only unpaid vouchers,Alleen onbetaalde documenten,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
 Open Billing Portal,Facturatieportaal openen,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
-Overallocated Returns,Overgeboekte retouren,reviewed,banking,0.66,0.65,0.55,0.65,0.8,1.0,review
+Overallocated Returns,Overtoegewezen retouren,reviewed,banking,0.74,0.65,0.55,0.65,0.8,1.0,improved
 Partner ID,Partner ID,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Party Account Number,Rekeningnummer tegenpartij,reviewed,banking,0.81,0.8,0.8,0.8,0.9,1.0,ok
 Party IBAN,IBAN tegenpartij,reviewed,banking,0.81,0.8,0.8,0.8,0.9,1.0,ok
@@ -16877,19 +16877,19 @@ Sent via EBICS,Verzonden via EBICS,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Set a new password for downloading bank statements from your bank.,Stel een nieuw wachtwoord in voor het downloaden van bankafschriften van uw bank.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Set a new password for uploading transactions to your bank.,Stel een nieuw wachtwoord in voor het uploaden van transacties naar uw bank.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Show Protocol Versions,Toon protocolversies,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
-Signature Passphrase,Handtekeningwachtwoord,reviewed,banking,0.57,0.55,0.45,0.55,0.8,1.0,review
+Signature Passphrase,Handtekeningwachtzin,reviewed,banking,0.78,0.55,0.45,0.55,0.8,1.0,improved
 Signup for Banking,Aanmelden voor Banking,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Something went wrong. Please retry in a while.,Er is iets misgegaan. Probeer het over een tijdje opnieuw.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Sort By,Sorteren op,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Split Batch Transactions,Batchtransacties splitsen,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
-Store Passphrase,Wachtwoord opslaan,reviewed,banking,0.61,0.6,0.5,0.6,0.8,1.0,review
-"Store the passphrase in the ERPNext database to enable automated, regular download of bank statements.","Sla het wachtwoord op in de ERPNext-database om geautomatiseerde, regelmatige download van bankafschriften in te schakelen.",reviewed,banking,0.61,0.6,0.5,0.6,0.8,1.0,review
+Store Passphrase,Wachtzin opslaan,reviewed,banking,0.72,0.6,0.5,0.6,0.8,1.0,improved
+"Store the passphrase in the ERPNext database to enable automated, regular download of bank statements.","Bewaar de wachtzin in de ERPNext-database om geautomatiseerde, periodieke download van bankafschriften mogelijk te maken.",reviewed,banking,0.86,0.6,0.5,0.6,0.8,1.0,improved
 Subscriber,Abonnee,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
 Subscription Details,Abonnementsgegevens,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
 Subtransaction ID,Subtransactie-ID,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
-Supplier Bank Account,Leveranciersbankrekening,reviewed,banking,0.62,0.6,0.5,0.7,0.85,1.0,review
-Supplier Bank Account was created.,Leveranciersbankrekening is aangemaakt.,reviewed,banking,0.62,0.6,0.5,0.7,0.85,1.0,review
-Supplier Bank Account was not created.,Leveranciersbankrekening is niet aangemaakt.,reviewed,banking,0.62,0.6,0.5,0.7,0.85,1.0,review
+Supplier Bank Account,Leveranciersbankrekening,reviewed,banking,0.8,0.6,0.5,0.7,0.85,1.0,improved
+Supplier Bank Account was created.,De leveranciersbankrekening is aangemaakt.,reviewed,banking,0.85,0.6,0.5,0.7,0.85,1.0,improved
+Supplier Bank Account was not created.,De leveranciersbankrekening is niet aangemaakt.,reviewed,banking,0.85,0.6,0.5,0.7,0.85,1.0,improved
 The Bank Transaction is over-allocated by {0} at row {1}.,De banktransactie is te veel toegewezen met {0} op rij {1}.,reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
 The allocated amount cannot be negative. Please adjust the selected return vouchers.,Het toegewezen bedrag kan niet negatief zijn. Pas de geselecteerde retourdocumenten aan.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
 The currency of the second account ({0} : {1}) must be the same as of the bank account ({2} : {3}),De valuta van de tweede rekening ({0} : {1}) moet hetzelfde zijn als die van de bankrekening ({2} : {3}),reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
@@ -16898,7 +16898,7 @@ The scheduler is inactive. Please activate it to continue auto-syncing bank tran
 The server has errored. Please retry in some time.,De server heeft een fout. Probeer het later opnieuw.,reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
 These DocTypes are pre-enabled in the 'Match Voucher' tab.,Deze documenttypen zijn standaard ingeschakeld op het tabblad 'Document koppelen'.,reviewed,banking,0.8,0.8,0.75,0.8,0.9,1.0,ok
 To Allocate,Te alloceren,reviewed,banking,0.8,0.8,0.75,0.8,0.9,1.0,ok
-"To use protocol version H005, please activate the checkbox 'Needs Certificates'.","Om protocolversie H005 te gebruiken, activeer het selectievakje 'Vereist certificaten'.",reviewed,banking,0.65,0.65,0.55,0.65,0.8,1.0,review
+"To use protocol version H005, please activate the checkbox 'Needs Certificates'.",Activeer het selectievakje 'Certificaten vereist' om protocolversie H005 te gebruiken.,reviewed,banking,0.85,0.65,0.55,0.65,0.8,1.0,improved
 Transmission Datetime,Transmissiedatum en -tijd,reviewed,banking,0.8,0.8,0.75,0.8,0.9,1.0,ok
 Transmission Type,Transmissietype,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
 Unable to resolve batch transaction: camt.054 not available. Please try again later.,Batchtransactie kan niet worden verwerkt: camt.054 niet beschikbaar. Probeer het later opnieuw.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
@@ -16916,7 +16916,7 @@ Voucher Matching Default,Standaard documentkoppeling,reviewed,banking,0.8,0.8,0.
 Voucher Matching Defaults,Standaard documentkoppelingen,reviewed,banking,0.8,0.8,0.75,0.8,0.9,1.0,ok
 "We'll try to download all transactions of completed days in the selected period, using <code>camt.053</code>.",We proberen alle transacties van voltooide dagen in de geselecteerde periode te downloaden met <code>camt.053</code>.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
 "We'll try to download new transactions from today, using <code>camt.052</code>.",We proberen nieuwe transacties van vandaag te downloaden met <code>camt.052</code>.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
-"You selected protocol version {0}, but the bank {1} only supports {2}.","U heeft protocolversie {0} geselecteerd, maar bank {1} ondersteunt alleen {2}.",reviewed,banking,0.7,0.7,0.6,0.7,0.8,1.0,review
-to import bank transactions for {0}.,om banktransacties voor {0} te importeren.,reviewed,banking,0.73,0.75,0.65,0.7,0.8,1.0,review
+"You selected protocol version {0}, but the bank {1} only supports {2}.","U hebt protocolversie {0} geselecteerd, maar bank {1} ondersteunt alleen {2}.",reviewed,banking,0.83,0.7,0.6,0.7,0.8,1.0,improved
+to import bank transactions for {0}.,om banktransacties van {0} te importeren.,reviewed,banking,0.76,0.75,0.65,0.7,0.8,1.0,improved
 {0} {1} {2},{0} {1} {2},reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
-{} Unreconciled,{} Niet gereconcilieerd,reviewed,banking,0.73,0.75,0.65,0.7,0.8,1.0,review
+{} Unreconciled,{} Niet vereffend,reviewed,banking,0.82,0.75,0.65,0.7,0.8,1.0,improved

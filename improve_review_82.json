@@ -1,0 +1,68 @@
+[
+  {
+    "source": "Overallocated Returns",
+    "translation": "Overgeboekte retouren",
+    "score": "0.66",
+    "origin": "banking"
+  },
+  {
+    "source": "Signature Passphrase",
+    "translation": "Handtekeningwachtwoord",
+    "score": "0.57",
+    "origin": "banking"
+  },
+  {
+    "source": "Store Passphrase",
+    "translation": "Wachtwoord opslaan",
+    "score": "0.61",
+    "origin": "banking"
+  },
+  {
+    "source": "Store the passphrase in the ERPNext database to enable automated, regular download of bank statements.",
+    "translation": "Sla het wachtwoord op in de ERPNext-database om geautomatiseerde, regelmatige download van bankafschriften in te schakelen.",
+    "score": "0.61",
+    "origin": "banking"
+  },
+  {
+    "source": "Supplier Bank Account",
+    "translation": "Leveranciersbankrekening",
+    "score": "0.62",
+    "origin": "banking"
+  },
+  {
+    "source": "Supplier Bank Account was created.",
+    "translation": "Leveranciersbankrekening is aangemaakt.",
+    "score": "0.62",
+    "origin": "banking"
+  },
+  {
+    "source": "Supplier Bank Account was not created.",
+    "translation": "Leveranciersbankrekening is niet aangemaakt.",
+    "score": "0.62",
+    "origin": "banking"
+  },
+  {
+    "source": "To use protocol version H005, please activate the checkbox 'Needs Certificates'.",
+    "translation": "Om protocolversie H005 te gebruiken, activeer het selectievakje 'Vereist certificaten'.",
+    "score": "0.65",
+    "origin": "banking"
+  },
+  {
+    "source": "You selected protocol version {0}, but the bank {1} only supports {2}.",
+    "translation": "U heeft protocolversie {0} geselecteerd, maar bank {1} ondersteunt alleen {2}.",
+    "score": "0.7",
+    "origin": "banking"
+  },
+  {
+    "source": "to import bank transactions for {0}.",
+    "translation": "om banktransacties voor {0} te importeren.",
+    "score": "0.73",
+    "origin": "banking"
+  },
+  {
+    "source": "{} Unreconciled",
+    "translation": "{} Niet gereconcilieerd",
+    "score": "0.73",
+    "origin": "banking"
+  }
+]

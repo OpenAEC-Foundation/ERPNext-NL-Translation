@@ -1,0 +1,302 @@
+[
+  {
+    "source": "Percentage of total tickets by channel",
+    "translation": "Percentage van alle Tickets per kanaal",
+    "score": "0.77",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Percentage of total tickets by priority",
+    "translation": "Percentage van alle Tickets per prioriteit",
+    "score": "0.77",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Percentage of total tickets by team",
+    "translation": "Percentage van alle Tickets per team",
+    "score": "0.77",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Percentage of total tickets by type",
+    "translation": "Percentage van alle Tickets per type",
+    "score": "0.77",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Remove image",
+    "translation": "Verwijder afbeelding",
+    "score": "0.75",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Reply From Agent",
+    "translation": "Antwoord van Agent",
+    "score": "0.72",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Reply from agent",
+    "translation": "Antwoord van Agent",
+    "score": "0.72",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Reset Content",
+    "translation": "Inhoud opnieuw instellen",
+    "score": "0.77",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Reset content",
+    "translation": "Inhoud opnieuw instellen",
+    "score": "0.77",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Response Result Key Path",
+    "translation": "Sleutelpad voor reactieresultaat",
+    "score": "0.67",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Sent to all of the agents assigned to the ticket whenever a contact has replied.",
+    "translation": "Verzonden naar alle Agents die zijn toegewezen aan het ticket wanneer een contactpersoon heeft geantwoord.",
+    "score": "0.76",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Sent to all of the recipients associated with the ticket whenever an agent has replied.",
+    "translation": "Verzonden naar alle ontvangers die zijn gekoppeld aan het ticket wanneer een Agent heeft geantwoord.",
+    "score": "0.76",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Service Level Name",
+    "translation": "Serviceniveaunaam",
+    "score": "0.68",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Skip e-mail workflow",
+    "translation": "Email Workflow overslaan",
+    "score": "0.65",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Skip email workflow",
+    "translation": "Email Workflow overslaan",
+    "score": "0.65",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Source and target ticket cannot be same",
+    "translation": "Het bron-Ticket en het doel-Ticket mogen niet gelijk zijn",
+    "score": "0.69",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Source and target tickets which are to be merged cannot be the same.",
+    "translation": "Het bron-Ticket en het doel-Ticket die samengevoegd worden mogen niet hetzelfde zijn.",
+    "score": "0.69",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Source ticket does not exist",
+    "translation": "Het bron-Ticket bestaat niet",
+    "score": "0.71",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Status of the ticket, when a customer replies on the ticket with this SLA.\n\nIf not selected, the value will be takes from HD Settings DocType.",
+    "translation": "Status van het Ticket wanneer een Klant reageert op het Ticket met deze SLA.\n\nAls dit niet is geselecteerd, wordt de waarde overgenomen uit het HD Settings-doctype.",
+    "score": "0.7",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Status of the ticket, when a customer replies on the ticket.",
+    "translation": "Status van het Ticket wanneer een Klant reageert op het Ticket.",
+    "score": "0.69",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Status of the ticket, when it is created in the system with this SLA.\nIf not selected, the value will be taken from HD Settings DocType",
+    "translation": "Status van het Ticket wanneer het wordt aangemaakt in het systeem met deze SLA.\nAls dit niet is geselecteerd, wordt de waarde overgenomen uit het HD Settings-doctype.",
+    "score": "0.69",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Status of the ticket, when it is created in the system.",
+    "translation": "Status van het Ticket wanneer het wordt aangemaakt in het systeem.",
+    "score": "0.69",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Subject Weight",
+    "translation": "Onderwerpgewicht",
+    "score": "0.7",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Tampered Access",
+    "translation": "Gemanipuleerde toegang",
+    "score": "0.75",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Target ticket does not exist",
+    "translation": "Het doel-Ticket bestaat niet",
+    "score": "0.7",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Teal",
+    "translation": "Groenblauw",
+    "score": "0.79",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "The Unassign Condition JSON '{0}' is invalid: </br> {1}",
+    "translation": "De niet-toewijzingsvoorwaarde JSON '{0}' is ongeldig: </br> {1}",
+    "score": "0.63",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "The feedback dialog will be shown, when a user tries to close a ticket from the customer portal.",
+    "translation": "Het feedbackvenster wordt getoond wanneer een gebruiker een Ticket probeert te sluiten via het klantenportaal.",
+    "score": "0.69",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "The ticket status will automatically change whenever the agent respond to a ticket.",
+    "translation": "De Ticket-status wijzigt automatisch wanneer de Agent reageert op een Ticket.",
+    "score": "0.69",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "This field is used to send an email instantly without adding it into the queue. If this field is checked, the email will be sent immediately after clicking the \"Send\" button, instead of being added to the email queue for later processing.",
+    "translation": "Dit veld wordt gebruikt om een Email direct te verzenden zonder deze aan de wachtrij toe te voegen. Als dit veld is aangevinkt, wordt de Email direct verzonden na het klikken op de knop \"Verzenden\" in plaats van te worden toegevoegd aan de emailwachtrij voor latere verwerking.",
+    "score": "0.71",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "This field is used to skip email-related workflows for tickets. If this field is checked, no emails will be sent related to tickets, such as new ticket creation, status updates, or notifications.",
+    "translation": "Dit veld wordt gebruikt om emailgerelateerde Workflows voor Tickets over te slaan. Als dit veld is aangevinkt, worden er geen Emails verzonden die betrekking hebben op Tickets, zoals het aanmaken van nieuwe Tickets, statusupdates of notificaties.",
+    "score": "0.71",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "This ticket (#{0}) has been merged with ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.",
+    "translation": "Dit Ticket (#{0}) is samengevoegd met Ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.",
+    "score": "0.69",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "This ticket has been split to a new ticket. Please follow up on ticket <a href={0}>#{1}</a>.",
+    "translation": "Dit Ticket is gesplitst naar een nieuw Ticket. Volg het op via Ticket <a href={0}>#{1}</a>.",
+    "score": "0.69",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Ticket Analytics",
+    "translation": "Ticket Analytics",
+    "score": "0.78",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Ticket Configuration",
+    "translation": "Ticket configuratie",
+    "score": "0.77",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Ticket Priority",
+    "translation": "Ticket Prioriteit",
+    "score": "0.72",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Ticket Settings",
+    "translation": "Ticket instellingen",
+    "score": "0.72",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Ticket Summary",
+    "translation": "Ticket samenvatting",
+    "score": "0.72",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Ticket Trend",
+    "translation": "Ticket trend",
+    "score": "0.72",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Ticket status",
+    "translation": "Ticket status",
+    "score": "0.72",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Ticket-Search Analysis",
+    "translation": "Ticket zoekanalyse",
+    "score": "0.72",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Title Slug",
+    "translation": "Titel slug",
+    "score": "0.68",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Total Ticket",
+    "translation": "Totaal tickets",
+    "score": "0.71",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "URL/Method",
+    "translation": "URL/Method",
+    "score": "0.78",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Unpublish",
+    "translation": "De-publiceren",
+    "score": "0.65",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Word",
+    "translation": "Woord",
+    "score": "0.76",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Workflow",
+    "translation": "Werkstroom",
+    "score": "0.69",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "Workflow & Knowledge Base Settings",
+    "translation": "Workflow en Kennisbank instellingen",
+    "score": "0.72",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "back to email event list",
+    "translation": "terug naar e-mailgebeurtenissenlijst",
+    "score": "0.68",
+    "origin": "helpdesk"
+  },
+  {
+    "source": "from this email onwards will be moved to new ticket.",
+    "translation": "vanaf deze e-mail wordt verplaatst naar een nieuw ticket.",
+    "score": "0.77",
+    "origin": "helpdesk"
+  }
+]

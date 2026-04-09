@@ -1,0 +1,211 @@
+[
+  {
+    "source": "Overallocated Returns",
+    "current": "Overgeboekte retouren",
+    "alt1": {
+      "text": "Overgealloceerde retouren",
+      "score": 0.67
+    },
+    "alt2": {
+      "text": "Retouren met overboeking",
+      "score": 0.71
+    },
+    "alt3": {
+      "text": "Overtoegewezen retouren",
+      "score": 0.74
+    },
+    "best": "alt3",
+    "domain": "banking",
+    "notes": "Overallocated = meer toegewezen dan beschikbaar. 'Overtoegewezen' dekt dit het best in een bancaire/boekhoudkundige context."
+  },
+  {
+    "source": "Signature Passphrase",
+    "current": "Handtekeningwachtwoord",
+    "alt1": {
+      "text": "Handtekening wachtzin",
+      "score": 0.62
+    },
+    "alt2": {
+      "text": "Handtekeningwachtzin",
+      "score": 0.78
+    },
+    "alt3": {
+      "text": "Ondertekeningswachtzin",
+      "score": 0.75
+    },
+    "best": "alt2",
+    "domain": "banking",
+    "notes": "Passphrase = wachtzin (meerdere woorden, niet een enkel wachtwoord). Samenstelling als 1 woord. 'Handtekening' past bij digitale handtekening in EBICS-context."
+  },
+  {
+    "source": "Store Passphrase",
+    "current": "Wachtwoord opslaan",
+    "alt1": {
+      "text": "Wachtzin opslaan",
+      "score": 0.72
+    },
+    "alt2": {
+      "text": "Sla wachtzin op",
+      "score": 0.70
+    },
+    "alt3": {
+      "text": "Wachtzin bewaren",
+      "score": 0.68
+    },
+    "best": "alt1",
+    "domain": "banking",
+    "notes": "Passphrase consistent vertalen als 'wachtzin'. 'Opslaan' is de standaard ERPNext term voor Save. Label-vorm zonder werkwoord werkt goed voor een veld of knop."
+  },
+  {
+    "source": "Store the passphrase in the ERPNext database to enable automated, regular download of bank statements.",
+    "current": "Sla het wachtwoord op in de ERPNext-database om geautomatiseerde, regelmatige download van bankafschriften in te schakelen.",
+    "alt1": {
+      "text": "Sla de wachtzin op in de ERPNext-database om automatisch en regelmatig bankafschriften te downloaden.",
+      "score": 0.82
+    },
+    "alt2": {
+      "text": "Bewaar de wachtzin in de ERPNext-database om geautomatiseerde, periodieke download van bankafschriften mogelijk te maken.",
+      "score": 0.86
+    },
+    "alt3": {
+      "text": "Sla de wachtzin op in de ERPNext-database voor automatisch periodiek downloaden van bankafschriften.",
+      "score": 0.84
+    },
+    "best": "alt2",
+    "domain": "banking",
+    "notes": "Passphrase consistent als 'wachtzin'. 'Mogelijk te maken' is idiomatischer dan 'in te schakelen'. 'Periodieke' past beter dan 'regelmatige' in technische context."
+  },
+  {
+    "source": "Supplier Bank Account",
+    "current": "Leveranciersbankrekening",
+    "alt1": {
+      "text": "Leveranciersbankrekening",
+      "score": 0.80
+    },
+    "alt2": {
+      "text": "Bankrekening leverancier",
+      "score": 0.72
+    },
+    "alt3": {
+      "text": "Leveranciersrekening",
+      "score": 0.65
+    },
+    "best": "alt1",
+    "domain": "banking",
+    "notes": "De huidige vertaling is al correct als samenstelling. Score verhoogd omdat de samenstelling als 1 woord correct is geschreven. 'Bankrekening leverancier' is minder compact."
+  },
+  {
+    "source": "Supplier Bank Account was created.",
+    "current": "Leveranciersbankrekening is aangemaakt.",
+    "alt1": {
+      "text": "Leveranciersbankrekening is aangemaakt.",
+      "score": 0.80
+    },
+    "alt2": {
+      "text": "De leveranciersbankrekening is aangemaakt.",
+      "score": 0.85
+    },
+    "alt3": {
+      "text": "Bankrekening van de leverancier is aangemaakt.",
+      "score": 0.76
+    },
+    "best": "alt2",
+    "domain": "banking",
+    "notes": "Met lidwoord 'De' klinkt de melding natuurlijker als statusbericht in het Nederlands. Behoud van samenstelling als 1 woord."
+  },
+  {
+    "source": "Supplier Bank Account was not created.",
+    "current": "Leveranciersbankrekening is niet aangemaakt.",
+    "alt1": {
+      "text": "Leveranciersbankrekening is niet aangemaakt.",
+      "score": 0.80
+    },
+    "alt2": {
+      "text": "De leveranciersbankrekening is niet aangemaakt.",
+      "score": 0.85
+    },
+    "alt3": {
+      "text": "Bankrekening van de leverancier kon niet worden aangemaakt.",
+      "score": 0.79
+    },
+    "best": "alt2",
+    "domain": "banking",
+    "notes": "Consistent met de positieve variant: lidwoord 'De' toevoegen voor natural language foutmelding. Alt3 impliceert een technische reden, wat niet altijd klopt."
+  },
+  {
+    "source": "To use protocol version H005, please activate the checkbox 'Needs Certificates'.",
+    "current": "Om protocolversie H005 te gebruiken, activeer het selectievakje 'Vereist certificaten'.",
+    "alt1": {
+      "text": "Om protocolversie H005 te gebruiken, activeert u het selectievakje 'Vereist certificaten'.",
+      "score": 0.82
+    },
+    "alt2": {
+      "text": "Om protocolversie H005 te gebruiken, activeer het selectievakje 'Certificaten vereist'.",
+      "score": 0.83
+    },
+    "alt3": {
+      "text": "Activeer het selectievakje 'Certificaten vereist' om protocolversie H005 te gebruiken.",
+      "score": 0.85
+    },
+    "best": "alt3",
+    "domain": "banking",
+    "notes": "Alt3 stelt de actie voorop, wat gebruiksvriendelijker is in instructieteksten. 'Certificaten vereist' is compacter dan 'Vereist certificaten' als labelnaam. Zin eindigt op de doelstelling."
+  },
+  {
+    "source": "You selected protocol version {0}, but the bank {1} only supports {2}.",
+    "current": "U heeft protocolversie {0} geselecteerd, maar bank {1} ondersteunt alleen {2}.",
+    "alt1": {
+      "text": "U heeft protocolversie {0} geselecteerd, maar bank {1} ondersteunt alleen versie {2}.",
+      "score": 0.80
+    },
+    "alt2": {
+      "text": "U hebt protocolversie {0} geselecteerd, maar bank {1} ondersteunt alleen {2}.",
+      "score": 0.83
+    },
+    "alt3": {
+      "text": "Protocolversie {0} is geselecteerd, maar {1} ondersteunt uitsluitend versie {2}.",
+      "score": 0.79
+    },
+    "best": "alt2",
+    "domain": "banking",
+    "notes": "'U hebt' is grammaticaal correct in schrijftaal (niet 'U heeft'). Placeholders exact overgenomen. Alt2 is minimale maar correcte verbetering van de huidige vertaling."
+  },
+  {
+    "source": "to import bank transactions for {0}.",
+    "current": "om banktransacties voor {0} te importeren.",
+    "alt1": {
+      "text": "om banktransacties voor {0} te importeren.",
+      "score": 0.75
+    },
+    "alt2": {
+      "text": "voor het importeren van banktransacties voor {0}.",
+      "score": 0.72
+    },
+    "alt3": {
+      "text": "om banktransacties van {0} te importeren.",
+      "score": 0.76
+    },
+    "best": "alt3",
+    "domain": "banking",
+    "notes": "Dit is een fragment (deel van een grotere zin). 'Van {0}' werkt iets beter dan 'voor {0}' als {0} een banknaam of rekeningnummer is. Huidige vertaling is al acceptabel."
+  },
+  {
+    "source": "{} Unreconciled",
+    "current": "{} Niet gereconcilieerd",
+    "alt1": {
+      "text": "{} Niet gereconcilieerd",
+      "score": 0.73
+    },
+    "alt2": {
+      "text": "{} Niet vereffend",
+      "score": 0.82
+    },
+    "alt3": {
+      "text": "{} Openstaand",
+      "score": 0.78
+    },
+    "best": "alt2",
+    "domain": "banking",
+    "notes": "'Vereffend' is de gangbare Nederlandse boekhoudterm voor reconciled/matched. 'Niet gereconcilieerd' is een anglicisme. 'Openstaand' (alt3) heeft iets andere connotatie maar is ook begrijpelijk in bancaire context."
+  }
+]

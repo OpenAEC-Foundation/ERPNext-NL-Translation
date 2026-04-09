@@ -1,0 +1,452 @@
+[
+  {
+    "source": "Percentage of total tickets by channel",
+    "current": "Percentage van alle Tickets per kanaal",
+    "alt1": {"text": "Percentage van alle tickets per kanaal", "score": 0.82},
+    "alt2": {"text": "Aandeel tickets per kanaal", "score": 0.87},
+    "alt3": {"text": "Ticketverdeling per kanaal (%)", "score": 0.84},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Percentage of total tickets by priority",
+    "current": "Percentage van alle Tickets per prioriteit",
+    "alt1": {"text": "Percentage van alle tickets per prioriteit", "score": 0.82},
+    "alt2": {"text": "Aandeel tickets per prioriteit", "score": 0.87},
+    "alt3": {"text": "Ticketverdeling per prioriteit (%)", "score": 0.84},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Percentage of total tickets by team",
+    "current": "Percentage van alle Tickets per team",
+    "alt1": {"text": "Percentage van alle tickets per team", "score": 0.82},
+    "alt2": {"text": "Aandeel tickets per team", "score": 0.87},
+    "alt3": {"text": "Ticketverdeling per team (%)", "score": 0.84},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Percentage of total tickets by type",
+    "current": "Percentage van alle Tickets per type",
+    "alt1": {"text": "Percentage van alle tickets per type", "score": 0.82},
+    "alt2": {"text": "Aandeel tickets per type", "score": 0.87},
+    "alt3": {"text": "Ticketverdeling per type (%)", "score": 0.84},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Remove image",
+    "current": "Verwijder afbeelding",
+    "alt1": {"text": "Afbeelding verwijderen", "score": 0.88},
+    "alt2": {"text": "Afbeelding verwijderen", "score": 0.88},
+    "alt3": {"text": "Verwijderen", "score": 0.78},
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Reply From Agent",
+    "current": "Antwoord van Agent",
+    "alt1": {"text": "Antwoord van medewerker", "score": 0.85},
+    "alt2": {"text": "Reactie van medewerker", "score": 0.88},
+    "alt3": {"text": "Medewerkerantwoord", "score": 0.80},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Reply from agent",
+    "current": "Antwoord van Agent",
+    "alt1": {"text": "Antwoord van medewerker", "score": 0.85},
+    "alt2": {"text": "Reactie van medewerker", "score": 0.88},
+    "alt3": {"text": "Medewerkerantwoord", "score": 0.80},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Reset Content",
+    "current": "Inhoud opnieuw instellen",
+    "alt1": {"text": "Inhoud herstellen", "score": 0.86},
+    "alt2": {"text": "Inhoud wissen", "score": 0.88},
+    "alt3": {"text": "Herstellen", "score": 0.80},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Reset content",
+    "current": "Inhoud opnieuw instellen",
+    "alt1": {"text": "Inhoud herstellen", "score": 0.86},
+    "alt2": {"text": "Inhoud wissen", "score": 0.88},
+    "alt3": {"text": "Herstellen", "score": 0.80},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Response Result Key Path",
+    "current": "Sleutelpad voor reactieresultaat",
+    "alt1": {"text": "Sleutelpad voor antwoordresultaat", "score": 0.75},
+    "alt2": {"text": "Key path voor responsresultaat", "score": 0.82},
+    "alt3": {"text": "Responsresultaat key path", "score": 0.80},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Sent to all of the agents assigned to the ticket whenever a contact has replied.",
+    "current": "Verzonden naar alle Agents die zijn toegewezen aan het ticket wanneer een contactpersoon heeft geantwoord.",
+    "alt1": {"text": "Verzonden naar alle medewerkers die aan het ticket zijn toegewezen wanneer een contactpersoon heeft gereageerd.", "score": 0.86},
+    "alt2": {"text": "Wordt verzonden naar alle aan het ticket toegewezen medewerkers zodra een contactpersoon heeft gereageerd.", "score": 0.90},
+    "alt3": {"text": "Verstuurd aan toegewezen medewerkers bij reactie van contactpersoon.", "score": 0.83},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Sent to all of the recipients associated with the ticket whenever an agent has replied.",
+    "current": "Verzonden naar alle ontvangers die zijn gekoppeld aan het ticket wanneer een Agent heeft geantwoord.",
+    "alt1": {"text": "Verzonden naar alle ontvangers die aan het ticket zijn gekoppeld wanneer een medewerker heeft gereageerd.", "score": 0.86},
+    "alt2": {"text": "Wordt verzonden naar alle aan het ticket gekoppelde ontvangers zodra een medewerker heeft gereageerd.", "score": 0.90},
+    "alt3": {"text": "Verstuurd aan alle ontvangers bij reactie van medewerker.", "score": 0.83},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Service Level Name",
+    "current": "Serviceniveaunaam",
+    "alt1": {"text": "Naam serviceniveau", "score": 0.84},
+    "alt2": {"text": "Naam dienstverleningsniveau", "score": 0.80},
+    "alt3": {"text": "SLA-naam", "score": 0.85},
+    "best": "alt3",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Skip e-mail workflow",
+    "current": "Email Workflow overslaan",
+    "alt1": {"text": "Email Workflow overslaan", "score": 0.79},
+    "alt2": {"text": "Email Workflow overgeslagen", "score": 0.75},
+    "alt3": {"text": "Email-Workflow overslaan", "score": 0.82},
+    "best": "alt3",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Skip email workflow",
+    "current": "Email Workflow overslaan",
+    "alt1": {"text": "Email Workflow overslaan", "score": 0.79},
+    "alt2": {"text": "Email-Workflow overslaan", "score": 0.82},
+    "alt3": {"text": "E-mail Workflow negeren", "score": 0.76},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Source and target ticket cannot be same",
+    "current": "Het bron-Ticket en het doel-Ticket mogen niet gelijk zijn",
+    "alt1": {"text": "Het bronticket en het doelticket mogen niet hetzelfde zijn", "score": 0.87},
+    "alt2": {"text": "Bronticket en doelticket mogen niet gelijk zijn", "score": 0.89},
+    "alt3": {"text": "Bron en doel mogen niet hetzelfde ticket zijn", "score": 0.85},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Source and target tickets which are to be merged cannot be the same.",
+    "current": "Het bron-Ticket en het doel-Ticket die samengevoegd worden mogen niet hetzelfde zijn.",
+    "alt1": {"text": "Het bronticket en het doelticket die worden samengevoegd mogen niet hetzelfde zijn.", "score": 0.87},
+    "alt2": {"text": "Bronticket en doelticket die worden samengevoegd mogen niet gelijk zijn.", "score": 0.90},
+    "alt3": {"text": "Samen te voegen tickets mogen niet gelijk zijn.", "score": 0.86},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Source ticket does not exist",
+    "current": "Het bron-Ticket bestaat niet",
+    "alt1": {"text": "Het bronticket bestaat niet", "score": 0.88},
+    "alt2": {"text": "Bronticket niet gevonden", "score": 0.87},
+    "alt3": {"text": "Bronticket bestaat niet", "score": 0.89},
+    "best": "alt3",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Status of the ticket, when a customer replies on the ticket with this SLA.\n\nIf not selected, the value will be takes from HD Settings DocType.",
+    "current": "Status van het Ticket wanneer een Klant reageert op het Ticket met deze SLA.\n\nAls dit niet is geselecteerd, wordt de waarde overgenomen uit het HD Settings-doctype.",
+    "alt1": {"text": "Status van het ticket wanneer een klant reageert op het ticket met deze SLA.\n\nAls dit niet is geselecteerd, wordt de waarde overgenomen uit het HD Settings-doctype.", "score": 0.84},
+    "alt2": {"text": "Ticketstatus wanneer een klant reageert op een ticket met deze SLA.\n\nAls niets geselecteerd is, wordt de waarde overgenomen uit HD Settings.", "score": 0.88},
+    "alt3": {"text": "Status bij klantsreactie op dit SLA-ticket.\n\nIndien leeg: waarde uit HD Settings.", "score": 0.82},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Status of the ticket, when a customer replies on the ticket.",
+    "current": "Status van het Ticket wanneer een Klant reageert op het Ticket.",
+    "alt1": {"text": "Status van het ticket wanneer een klant reageert op het ticket.", "score": 0.84},
+    "alt2": {"text": "Ticketstatus wanneer een klant reageert op het ticket.", "score": 0.88},
+    "alt3": {"text": "Status bij klantsreactie op ticket.", "score": 0.82},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Status of the ticket, when it is created in the system with this SLA.\nIf not selected, the value will be taken from HD Settings DocType",
+    "current": "Status van het Ticket wanneer het wordt aangemaakt in het systeem met deze SLA.\nAls dit niet is geselecteerd, wordt de waarde overgenomen uit het HD Settings-doctype.",
+    "alt1": {"text": "Status van het ticket wanneer het wordt aangemaakt met deze SLA.\nAls dit niet is geselecteerd, wordt de waarde overgenomen uit HD Settings.", "score": 0.85},
+    "alt2": {"text": "Ticketstatus bij aanmaak met deze SLA.\nIndien niet geselecteerd, wordt de waarde overgenomen uit HD Settings.", "score": 0.88},
+    "alt3": {"text": "Initiële ticketstatus voor deze SLA.\nLeeg: waarde uit HD Settings.", "score": 0.83},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Status of the ticket, when it is created in the system.",
+    "current": "Status van het Ticket wanneer het wordt aangemaakt in het systeem.",
+    "alt1": {"text": "Status van het ticket wanneer het wordt aangemaakt in het systeem.", "score": 0.84},
+    "alt2": {"text": "Ticketstatus bij aanmaak in het systeem.", "score": 0.88},
+    "alt3": {"text": "Initiële ticketstatus.", "score": 0.83},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Subject Weight",
+    "current": "Onderwerpgewicht",
+    "alt1": {"text": "Onderwerpgewicht", "score": 0.78},
+    "alt2": {"text": "Weging van onderwerp", "score": 0.82},
+    "alt3": {"text": "Onderwerpweging", "score": 0.85},
+    "best": "alt3",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Tampered Access",
+    "current": "Gemanipuleerde toegang",
+    "alt1": {"text": "Gemanipuleerde toegang", "score": 0.80},
+    "alt2": {"text": "Onbevoegde toegang", "score": 0.85},
+    "alt3": {"text": "Sabotage van toegang", "score": 0.78},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Target ticket does not exist",
+    "current": "Het doel-Ticket bestaat niet",
+    "alt1": {"text": "Het doelticket bestaat niet", "score": 0.87},
+    "alt2": {"text": "Doelticket niet gevonden", "score": 0.86},
+    "alt3": {"text": "Doelticket bestaat niet", "score": 0.89},
+    "best": "alt3",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Teal",
+    "current": "Groenblauw",
+    "alt1": {"text": "Groenblauw", "score": 0.82},
+    "alt2": {"text": "Teal", "score": 0.85},
+    "alt3": {"text": "Blauwgroen", "score": 0.80},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "The Unassign Condition JSON '{0}' is invalid: </br> {1}",
+    "current": "De niet-toewijzingsvoorwaarde JSON '{0}' is ongeldig: </br> {1}",
+    "alt1": {"text": "De ontoewijzingsvoorwaarde JSON '{0}' is ongeldig: </br> {1}", "score": 0.80},
+    "alt2": {"text": "De JSON voor de ontoewijzingsvoorwaarde '{0}' is ongeldig: </br> {1}", "score": 0.88},
+    "alt3": {"text": "Ongeldige ontoewijzingsvoorwaarde JSON '{0}': </br> {1}", "score": 0.85},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "The feedback dialog will be shown, when a user tries to close a ticket from the customer portal.",
+    "current": "Het feedbackvenster wordt getoond wanneer een gebruiker een Ticket probeert te sluiten via het klantenportaal.",
+    "alt1": {"text": "Het feedbackvenster wordt weergegeven wanneer een gebruiker een ticket probeert te sluiten via het klantenportaal.", "score": 0.85},
+    "alt2": {"text": "Het feedbackvenster verschijnt wanneer een gebruiker een ticket sluit via het klantenportaal.", "score": 0.89},
+    "alt3": {"text": "Feedbackvenster bij sluiten van ticket via klantenportaal.", "score": 0.83},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "The ticket status will automatically change whenever the agent respond to a ticket.",
+    "current": "De Ticket-status wijzigt automatisch wanneer de Agent reageert op een Ticket.",
+    "alt1": {"text": "De ticketstatus wijzigt automatisch wanneer de medewerker reageert op een ticket.", "score": 0.86},
+    "alt2": {"text": "De ticketstatus wordt automatisch bijgewerkt zodra een medewerker reageert op een ticket.", "score": 0.90},
+    "alt3": {"text": "Ticketstatus wijzigt automatisch bij reactie van medewerker.", "score": 0.85},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "This field is used to send an email instantly without adding it into the queue. If this field is checked, the email will be sent immediately after clicking the \"Send\" button, instead of being added to the email queue for later processing.",
+    "current": "Dit veld wordt gebruikt om een Email direct te verzenden zonder deze aan de wachtrij toe te voegen. Als dit veld is aangevinkt, wordt de Email direct verzonden na het klikken op de knop \"Verzenden\" in plaats van te worden toegevoegd aan de emailwachtrij voor latere verwerking.",
+    "alt1": {"text": "Dit veld wordt gebruikt om een e-mail direct te verzenden zonder deze aan de wachtrij toe te voegen. Als dit veld is aangevinkt, wordt de e-mail direct verzonden na het klikken op de knop \"Verzenden\", in plaats van te worden toegevoegd aan de e-mailwachtrij voor latere verwerking.", "score": 0.85},
+    "alt2": {"text": "Hiermee verzendt u een e-mail direct, zonder toevoeging aan de wachtrij. Als dit veld is aangevinkt, wordt de e-mail direct verstuurd na het klikken op \"Verzenden\" in plaats van te worden toegevoegd aan de e-mailwachtrij.", "score": 0.90},
+    "alt3": {"text": "Directe verzending van e-mail, buiten de wachtrij om. Bij aanvinken wordt de e-mail direct verstuurd na klikken op \"Verzenden\".", "score": 0.86},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "This field is used to skip email-related workflows for tickets. If this field is checked, no emails will be sent related to tickets, such as new ticket creation, status updates, or notifications.",
+    "current": "Dit veld wordt gebruikt om emailgerelateerde Workflows voor Tickets over te slaan. Als dit veld is aangevinkt, worden er geen Emails verzonden die betrekking hebben op Tickets, zoals het aanmaken van nieuwe Tickets, statusupdates of notificaties.",
+    "alt1": {"text": "Dit veld wordt gebruikt om e-mailgerelateerde Workflows voor tickets over te slaan. Als dit veld is aangevinkt, worden er geen e-mails verzonden die betrekking hebben op tickets, zoals aanmaak van nieuwe tickets, statusupdates of notificaties.", "score": 0.85},
+    "alt2": {"text": "Hiermee slaat u e-mailgerelateerde Workflows voor tickets over. Als dit veld is aangevinkt, worden er geen e-mails verzonden voor tickets, zoals meldingen bij aanmaak, statuswijzigingen of notificaties.", "score": 0.90},
+    "alt3": {"text": "Sla e-mail Workflows voor tickets over. Bij aanvinken worden geen e-mails verzonden voor aanmaak, statusupdates of notificaties.", "score": 0.86},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "This ticket (#{0}) has been merged with ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.",
+    "current": "Dit Ticket (#{0}) is samengevoegd met Ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.",
+    "alt1": {"text": "Dit ticket (#{0}) is samengevoegd met ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.", "score": 0.87},
+    "alt2": {"text": "Ticket #{0} is samengevoegd met ticket <a href = '/helpdesk/tickets/{1}'>#{1}</a>.", "score": 0.89},
+    "alt3": {"text": "Tickets #{0} en <a href = '/helpdesk/tickets/{1}'>#{1}</a> zijn samengevoegd.", "score": 0.84},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "This ticket has been split to a new ticket. Please follow up on ticket <a href={0}>#{1}</a>.",
+    "current": "Dit Ticket is gesplitst naar een nieuw Ticket. Volg het op via Ticket <a href={0}>#{1}</a>.",
+    "alt1": {"text": "Dit ticket is gesplitst naar een nieuw ticket. Volg het op via ticket <a href={0}>#{1}</a>.", "score": 0.86},
+    "alt2": {"text": "Dit ticket is gesplitst in een nieuw ticket. Vervolgacties vindt u in ticket <a href={0}>#{1}</a>.", "score": 0.89},
+    "alt3": {"text": "Ticket gesplitst. Vervolg via ticket <a href={0}>#{1}</a>.", "score": 0.84},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket Analytics",
+    "current": "Ticket Analytics",
+    "alt1": {"text": "Ticket Analytics", "score": 0.88},
+    "alt2": {"text": "Ticketanalyse", "score": 0.85},
+    "alt3": {"text": "Ticket Analytics", "score": 0.88},
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket Configuration",
+    "current": "Ticket configuratie",
+    "alt1": {"text": "Ticketconfiguratie", "score": 0.87},
+    "alt2": {"text": "Ticketinstellingen", "score": 0.85},
+    "alt3": {"text": "Ticketconfiguratie", "score": 0.87},
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket Priority",
+    "current": "Ticket Prioriteit",
+    "alt1": {"text": "Ticketprioriteit", "score": 0.90},
+    "alt2": {"text": "Prioriteit van ticket", "score": 0.84},
+    "alt3": {"text": "Ticketprioriteit", "score": 0.90},
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket Settings",
+    "current": "Ticket instellingen",
+    "alt1": {"text": "Ticketinstellingen", "score": 0.90},
+    "alt2": {"text": "Instellingen voor tickets", "score": 0.84},
+    "alt3": {"text": "Ticketconfiguratie", "score": 0.83},
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket Summary",
+    "current": "Ticket samenvatting",
+    "alt1": {"text": "Ticketsamenvatting", "score": 0.90},
+    "alt2": {"text": "Overzicht tickets", "score": 0.84},
+    "alt3": {"text": "Ticketoverzicht", "score": 0.86},
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket Trend",
+    "current": "Ticket trend",
+    "alt1": {"text": "Ticketontwikkeling", "score": 0.86},
+    "alt2": {"text": "Tickettrend", "score": 0.88},
+    "alt3": {"text": "Trend tickets", "score": 0.82},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket status",
+    "current": "Ticket status",
+    "alt1": {"text": "Ticketstatus", "score": 0.91},
+    "alt2": {"text": "Status ticket", "score": 0.84},
+    "alt3": {"text": "Ticketstatus", "score": 0.91},
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket-Search Analysis",
+    "current": "Ticket zoekanalyse",
+    "alt1": {"text": "Ticketzoekanalyse", "score": 0.87},
+    "alt2": {"text": "Analyse van ticketzoekopdrachten", "score": 0.85},
+    "alt3": {"text": "Zoekanalyse tickets", "score": 0.83},
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Title Slug",
+    "current": "Titel slug",
+    "alt1": {"text": "Titel slug", "score": 0.78},
+    "alt2": {"text": "URL-titel", "score": 0.84},
+    "alt3": {"text": "Titelslug", "score": 0.82},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Total Ticket",
+    "current": "Totaal tickets",
+    "alt1": {"text": "Totaal tickets", "score": 0.83},
+    "alt2": {"text": "Totaal aantal tickets", "score": 0.88},
+    "alt3": {"text": "Tickets totaal", "score": 0.81},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "URL/Method",
+    "current": "URL/Method",
+    "alt1": {"text": "URL/Methode", "score": 0.86},
+    "alt2": {"text": "URL/Method", "score": 0.88},
+    "alt3": {"text": "URL/Methode", "score": 0.86},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Unpublish",
+    "current": "De-publiceren",
+    "alt1": {"text": "Verbergen", "score": 0.83},
+    "alt2": {"text": "Publicatie ongedaan maken", "score": 0.86},
+    "alt3": {"text": "Depubliceren", "score": 0.88},
+    "best": "alt3",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Word",
+    "current": "Woord",
+    "alt1": {"text": "Woord", "score": 0.85},
+    "alt2": {"text": "Term", "score": 0.82},
+    "alt3": {"text": "Woord", "score": 0.85},
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Workflow",
+    "current": "Werkstroom",
+    "alt1": {"text": "Workflow", "score": 0.92},
+    "alt2": {"text": "Workflow", "score": 0.92},
+    "alt3": {"text": "Werkproces", "score": 0.74},
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Workflow & Knowledge Base Settings",
+    "current": "Workflow en Kennisbank instellingen",
+    "alt1": {"text": "Workflow en kennisbankinstellingen", "score": 0.87},
+    "alt2": {"text": "Instellingen voor Workflow en kennisbank", "score": 0.85},
+    "alt3": {"text": "Workflow- en kennisbankinstellingen", "score": 0.89},
+    "best": "alt3",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "back to email event list",
+    "current": "terug naar e-mailgebeurtenissenlijst",
+    "alt1": {"text": "terug naar e-mailgebeurtenislijst", "score": 0.84},
+    "alt2": {"text": "Terug naar overzicht e-mailgebeurtenissen", "score": 0.88},
+    "alt3": {"text": "Terug naar e-mailgebeurtenissen", "score": 0.86},
+    "best": "alt2",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "from this email onwards will be moved to new ticket.",
+    "current": "vanaf deze e-mail wordt verplaatst naar een nieuw ticket.",
+    "alt1": {"text": "Vanaf dit bericht wordt alles verplaatst naar een nieuw ticket.", "score": 0.87},
+    "alt2": {"text": "Alles vanaf deze e-mail wordt naar een nieuw ticket verplaatst.", "score": 0.90},
+    "alt3": {"text": "Verplaatst naar nieuw ticket vanaf dit bericht.", "score": 0.83},
+    "best": "alt2",
+    "domain": "helpdesk"
+  }
+]

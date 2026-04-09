@@ -1,0 +1,452 @@
+[
+  {
+    "source": "Alternate",
+    "current": "Afwisselend",
+    "alt1": { "text": "Afwisselend", "score": 0.65 },
+    "alt2": { "text": "Alternatief", "score": 0.82 },
+    "alt3": { "text": "Alt.", "score": 0.55 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Append",
+    "current": "Toevoegen",
+    "alt1": { "text": "Toevoegen", "score": 0.80 },
+    "alt2": { "text": "Samenvoegen", "score": 0.76 },
+    "alt3": { "text": "Aanvullen", "score": 0.78 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Append this table with another table or query",
+    "current": "Voeg deze tabel samen met een andere tabel of query",
+    "alt1": { "text": "Voeg deze tabel samen met een andere tabel of query", "score": 0.76 },
+    "alt2": { "text": "Breid deze tabel uit met een andere tabel of query", "score": 0.84 },
+    "alt3": { "text": "Voeg een tabel of query toe aan deze tabel", "score": 0.82 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "BigQuery Configuration",
+    "current": "BigQuery Configuration",
+    "alt1": { "text": "BigQuery-configuratie", "score": 0.86 },
+    "alt2": { "text": "BigQuery-instellingen", "score": 0.84 },
+    "alt3": { "text": "BigQuery configuratie", "score": 0.80 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Bulk Enqueue",
+    "current": "Bulkwachtrij",
+    "alt1": { "text": "Bulkwachtrij", "score": 0.76 },
+    "alt2": { "text": "In bulk inplannen", "score": 0.80 },
+    "alt3": { "text": "Bulkverwerking", "score": 0.78 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Comma seperated URLs to whitelist for embedding charts & dashboards",
+    "current": "Kommagescheiden URL's op de acceptatielijst voor het insluiten van grafieken en dashboards",
+    "alt1": { "text": "Kommagescheiden URL's voor de acceptatielijst bij het insluiten van grafieken en dashboards", "score": 0.82 },
+    "alt2": { "text": "Kommagescheiden URL's toestaan voor het insluiten van grafieken en dashboards", "score": 0.85 },
+    "alt3": { "text": "URL's (kommagescheiden) toestaan voor grafieken en dashboards", "score": 0.83 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Format Option",
+    "current": "Opmaakinstellingen",
+    "alt1": { "text": "Opmaakinstellingen", "score": 0.80 },
+    "alt2": { "text": "Opmaakoptie", "score": 0.84 },
+    "alt3": { "text": "Weergave-instelling", "score": 0.78 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Is Assisted Query",
+    "current": "Is ondersteunde query",
+    "alt1": { "text": "Is ondersteunde query", "score": 0.77 },
+    "alt2": { "text": "Ondersteunde query", "score": 0.82 },
+    "alt3": { "text": "Begeleid samengestelde query", "score": 0.72 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Is Native Query",
+    "current": "Is native Query",
+    "alt1": { "text": "Is native query", "score": 0.78 },
+    "alt2": { "text": "Native query", "score": 0.83 },
+    "alt3": { "text": "Directe SQL-query", "score": 0.76 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Is Query Based",
+    "current": "Is Query-gebaseerd",
+    "alt1": { "text": "Is querygebaseerd", "score": 0.78 },
+    "alt2": { "text": "Op query gebaseerd", "score": 0.83 },
+    "alt3": { "text": "Querygebaseerd", "score": 0.80 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Is Saved as Table",
+    "current": "Is opgeslagen als Tabel",
+    "alt1": { "text": "Is opgeslagen als tabel", "score": 0.82 },
+    "alt2": { "text": "Opgeslagen als tabel", "score": 0.84 },
+    "alt3": { "text": "Als tabel bewaard", "score": 0.78 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Justify",
+    "current": "Uitlijnen",
+    "alt1": { "text": "Uitlijnen", "score": 0.74 },
+    "alt2": { "text": "Uitvullen", "score": 0.83 },
+    "alt3": { "text": "Blokuitlijning", "score": 0.76 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Left Column",
+    "current": "Linker Kolom",
+    "alt1": { "text": "Linkerkolom", "score": 0.84 },
+    "alt2": { "text": "Linkerkolom", "score": 0.84 },
+    "alt3": { "text": "Kolom links", "score": 0.76 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Left Table",
+    "current": "Linker Tabel",
+    "alt1": { "text": "Linkertabel", "score": 0.84 },
+    "alt2": { "text": "Linkertabel", "score": 0.84 },
+    "alt3": { "text": "Tabel links", "score": 0.76 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Linked Charts",
+    "current": "Gekoppelde Grafieken",
+    "alt1": { "text": "Gekoppelde grafieken", "score": 0.82 },
+    "alt2": { "text": "Gekoppelde grafieken", "score": 0.82 },
+    "alt3": { "text": "Verbonden grafieken", "score": 0.78 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Linked Queries",
+    "current": "Gekoppelde Queries",
+    "alt1": { "text": "Gekoppelde queries", "score": 0.83 },
+    "alt2": { "text": "Gekoppelde queries", "score": 0.83 },
+    "alt3": { "text": "Verbonden queries", "score": 0.78 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "New Dashboard",
+    "current": "Nieuw Dashboard",
+    "alt1": { "text": "Nieuw Dashboard", "score": 0.82 },
+    "alt2": { "text": "Nieuw Dashboard", "score": 0.82 },
+    "alt3": { "text": "Dashboard aanmaken", "score": 0.78 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "New Data Source",
+    "current": "Nieuwe Databron",
+    "alt1": { "text": "Nieuwe databron", "score": 0.83 },
+    "alt2": { "text": "Nieuwe databron", "score": 0.83 },
+    "alt3": { "text": "Databron toevoegen", "score": 0.79 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "New Query",
+    "current": "Nieuwe Query",
+    "alt1": { "text": "Nieuwe query", "score": 0.83 },
+    "alt2": { "text": "Nieuwe query", "score": 0.83 },
+    "alt3": { "text": "Query aanmaken", "score": 0.79 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "No Dashboards",
+    "current": "Geen Dashboards",
+    "alt1": { "text": "Geen Dashboards", "score": 0.80 },
+    "alt2": { "text": "Geen dashboards beschikbaar", "score": 0.84 },
+    "alt3": { "text": "Geen dashboards", "score": 0.82 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "No Queries Found",
+    "current": "Geen Queries gevonden",
+    "alt1": { "text": "Geen queries gevonden", "score": 0.83 },
+    "alt2": { "text": "Geen queries gevonden", "score": 0.83 },
+    "alt3": { "text": "Geen resultaten", "score": 0.72 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "No Tables Found",
+    "current": "Geen Tabellen gevonden",
+    "alt1": { "text": "Geen tabellen gevonden", "score": 0.83 },
+    "alt2": { "text": "Geen tabellen gevonden", "score": 0.83 },
+    "alt3": { "text": "Geen tabellen beschikbaar", "score": 0.80 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "No Tables Stored",
+    "current": "Geen Tabellen opgeslagen",
+    "alt1": { "text": "Geen tabellen opgeslagen", "score": 0.83 },
+    "alt2": { "text": "Geen tabellen opgeslagen", "score": 0.83 },
+    "alt3": { "text": "Geen opgeslagen tabellen", "score": 0.81 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "No columns selected",
+    "current": "Geen Kolommen geselecteerd",
+    "alt1": { "text": "Geen kolommen geselecteerd", "score": 0.84 },
+    "alt2": { "text": "Geen kolommen geselecteerd", "score": 0.84 },
+    "alt3": { "text": "Selecteer minimaal een kolom", "score": 0.78 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "No tables found for the selected data source.",
+    "current": "Geen Tabellen gevonden voor de geselecteerde databron.",
+    "alt1": { "text": "Geen tabellen gevonden voor de geselecteerde databron.", "score": 0.85 },
+    "alt2": { "text": "Er zijn geen tabellen beschikbaar voor de geselecteerde databron.", "score": 0.86 },
+    "alt3": { "text": "Deze databron bevat geen tabellen.", "score": 0.82 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "No tables found in the data store.",
+    "current": "Geen Tabellen gevonden in de gegevensopslag.",
+    "alt1": { "text": "Geen tabellen gevonden in de gegevensopslag.", "score": 0.83 },
+    "alt2": { "text": "Er zijn geen tabellen aangetroffen in de gegevensopslag.", "score": 0.84 },
+    "alt3": { "text": "De gegevensopslag bevat geen tabellen.", "score": 0.83 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Old Name",
+    "current": "Oude Naam",
+    "alt1": { "text": "Oude naam", "score": 0.83 },
+    "alt2": { "text": "Vorige naam", "score": 0.82 },
+    "alt3": { "text": "Oorspronkelijke naam", "score": 0.79 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Please wait while we refresh the tables from your data source",
+    "current": "Een ogenblik geduld terwijl we de Tabellen vernieuwen vanuit uw databron",
+    "alt1": { "text": "Een ogenblik geduld terwijl de tabellen worden vernieuwd vanuit uw databron", "score": 0.85 },
+    "alt2": { "text": "Even geduld, de tabellen worden vernieuwd vanuit uw databron", "score": 0.88 },
+    "alt3": { "text": "Tabellen worden vernieuwd...", "score": 0.76 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Query Result Limit",
+    "current": "Limiet Queryresultaten",
+    "alt1": { "text": "Limiet queryresultaten", "score": 0.78 },
+    "alt2": { "text": "Maximum queryresultaten", "score": 0.82 },
+    "alt3": { "text": "Queryresultaatlimiet", "score": 0.76 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Refresh Stored Tables",
+    "current": "Opgeslagen Tabellen vernieuwen",
+    "alt1": { "text": "Opgeslagen tabellen vernieuwen", "score": 0.84 },
+    "alt2": { "text": "Opgeslagen tabellen bijwerken", "score": 0.83 },
+    "alt3": { "text": "Tabellen herladen", "score": 0.78 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Refresh Tables",
+    "current": "Tabellen vernieuwen",
+    "alt1": { "text": "Tabellen vernieuwen", "score": 0.84 },
+    "alt2": { "text": "Tabellen bijwerken", "score": 0.83 },
+    "alt3": { "text": "Tabellen herladen", "score": 0.80 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Sample data and workbook have been set up successfully",
+    "current": "Voorbeelddata en werkboek zijn succesvol ingesteld",
+    "alt1": { "text": "Voorbeelddata en werkboek zijn succesvol ingesteld", "score": 0.83 },
+    "alt2": { "text": "Voorbeeldgegevens en werkboek zijn succesvol geconfigureerd", "score": 0.85 },
+    "alt3": { "text": "Installatie van voorbeelddata en werkboek geslaagd", "score": 0.82 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Sample data with workbook has been set up successfully",
+    "current": "Voorbeelddata met werkboek is succesvol ingesteld",
+    "alt1": { "text": "Voorbeelddata met werkboek is succesvol ingesteld", "score": 0.83 },
+    "alt2": { "text": "Voorbeeldgegevens inclusief werkboek zijn succesvol geconfigureerd", "score": 0.85 },
+    "alt3": { "text": "Werkboek met voorbeelddata is gereed", "score": 0.81 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Select a table or query to start building your query",
+    "current": "Selecteer een tabel of Query om uw Query te beginnen bouwen",
+    "alt1": { "text": "Selecteer een tabel of query om uw query op te bouwen", "score": 0.83 },
+    "alt2": { "text": "Kies een tabel of query om te beginnen met het samenstellen van uw query", "score": 0.87 },
+    "alt3": { "text": "Selecteer een tabel of query om te starten", "score": 0.79 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Setup Failed",
+    "current": "Instelling mislukt",
+    "alt1": { "text": "Instellen mislukt", "score": 0.83 },
+    "alt2": { "text": "Installatie mislukt", "score": 0.86 },
+    "alt3": { "text": "Configuratie mislukt", "score": 0.84 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Sync tables from your data source to get started",
+    "current": "Synchroniseer tabellen van uw databron om te beginnen",
+    "alt1": { "text": "Synchroniseer tabellen vanuit uw databron om te beginnen", "score": 0.83 },
+    "alt2": { "text": "Synchroniseer de tabellen vanuit uw databron om aan de slag te gaan", "score": 0.86 },
+    "alt3": { "text": "Haal tabellen op uit uw databron om te starten", "score": 0.82 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "Upload a CSV or Excel file to create a new data source",
+    "current": "Upload een CSV- of Excel-bestand om een nieuwe databron aan te maken",
+    "alt1": { "text": "Upload een CSV- of Excel-bestand om een nieuwe databron aan te maken", "score": 0.86 },
+    "alt2": { "text": "Laad een CSV- of Excel-bestand up om een nieuwe databron te maken", "score": 0.83 },
+    "alt3": { "text": "Importeer een CSV- of Excel-bestand als nieuwe databron", "score": 0.85 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "View SQL",
+    "current": "View SQL",
+    "alt1": { "text": "SQL weergeven", "score": 0.85 },
+    "alt2": { "text": "SQL bekijken", "score": 0.84 },
+    "alt3": { "text": "SQL tonen", "score": 0.82 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "You do not have permission to access this resource",
+    "current": "U heeft geen toestemming om deze resource te openen",
+    "alt1": { "text": "U heeft geen toestemming om deze resource te openen", "score": 0.82 },
+    "alt2": { "text": "U heeft geen toegang tot deze resource", "score": 0.88 },
+    "alt3": { "text": "Toegang geweigerd voor deze resource", "score": 0.84 },
+    "best": "alt2",
+    "domain": "insights"
+  },
+  {
+    "source": "query",
+    "current": "Query",
+    "alt1": { "text": "Query", "score": 0.82 },
+    "alt2": { "text": "query", "score": 0.80 },
+    "alt3": { "text": "zoekopdracht", "score": 0.65 },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Banking Reference Mapping",
+    "current": "Banking Referentietoewijzing",
+    "alt1": { "text": "Banking-referentietoewijzing", "score": 0.82 },
+    "alt2": { "text": "Bankingkoppeling referenties", "score": 0.78 },
+    "alt3": { "text": "Referentiekoppeling banking", "score": 0.80 },
+    "best": "alt1",
+    "domain": "banking"
+  },
+  {
+    "source": "Create Voucher",
+    "current": "Document aanmaken",
+    "alt1": { "text": "Boekingsdocument aanmaken", "score": 0.84 },
+    "alt2": { "text": "Boeking aanmaken", "score": 0.86 },
+    "alt3": { "text": "Journaalpost aanmaken", "score": 0.82 },
+    "best": "alt2",
+    "domain": "banking"
+  },
+  {
+    "source": "Did you mean {0}?",
+    "current": "Meent u {0}?",
+    "alt1": { "text": "Bedoelde u {0}?", "score": 0.88 },
+    "alt2": { "text": "Bedoelde u {0}?", "score": 0.88 },
+    "alt3": { "text": "Misschien bedoelde u {0}?", "score": 0.85 },
+    "best": "alt1",
+    "domain": "banking"
+  },
+  {
+    "source": "Download Batch Transactions",
+    "current": "Sammeloverboekingen downloaden",
+    "alt1": { "text": "Batchtransacties downloaden", "score": 0.84 },
+    "alt2": { "text": "Groepstransacties downloaden", "score": 0.83 },
+    "alt3": { "text": "Batchbetalingen downloaden", "score": 0.82 },
+    "best": "alt1",
+    "domain": "banking"
+  },
+  {
+    "source": "Employee Bank Account",
+    "current": "Werknemersbankrekening",
+    "alt1": { "text": "Bankrekening medewerker", "score": 0.84 },
+    "alt2": { "text": "Bankrekening van medewerker", "score": 0.83 },
+    "alt3": { "text": "Medewerkerbankrekening", "score": 0.82 },
+    "best": "alt1",
+    "domain": "banking"
+  },
+  {
+    "source": "Employee Bank Account was created.",
+    "current": "Werknemersbankrekening is aangemaakt.",
+    "alt1": { "text": "Bankrekening van de medewerker is aangemaakt.", "score": 0.86 },
+    "alt2": { "text": "De bankrekening van de medewerker is succesvol aangemaakt.", "score": 0.87 },
+    "alt3": { "text": "Medewerkerbankrekening aangemaakt.", "score": 0.80 },
+    "best": "alt2",
+    "domain": "banking"
+  },
+  {
+    "source": "Employee Bank Account was not created.",
+    "current": "Werknemersbankrekening is niet aangemaakt.",
+    "alt1": { "text": "Bankrekening van de medewerker is niet aangemaakt.", "score": 0.86 },
+    "alt2": { "text": "De bankrekening van de medewerker kon niet worden aangemaakt.", "score": 0.88 },
+    "alt3": { "text": "Aanmaken medewerkerbankrekening mislukt.", "score": 0.80 },
+    "best": "alt2",
+    "domain": "banking"
+  },
+  {
+    "source": "Enter your signature passphrase",
+    "current": "Voer uw handtekeningwachtwoordzin in",
+    "alt1": { "text": "Voer uw ondertekeningswachtzin in", "score": 0.80 },
+    "alt2": { "text": "Voer uw wachtzin voor ondertekening in", "score": 0.85 },
+    "alt3": { "text": "Voer de wachtzin voor uw handtekening in", "score": 0.84 },
+    "best": "alt2",
+    "domain": "banking"
+  },
+  {
+    "source": "Field {} does not exist in {}. Please check the configuration in Banking Settings.",
+    "current": "Veld {} bestaat niet in {}. Controleer de configuratie in Banking-instellingen.",
+    "alt1": { "text": "Veld {} bestaat niet in {}. Controleer de configuratie in de Banking-instellingen.", "score": 0.86 },
+    "alt2": { "text": "Veld {} bestaat niet in {}. Controleer uw instellingen onder Banking-instellingen.", "score": 0.87 },
+    "alt3": { "text": "Onbekend veld {} in {}. Zie Banking-instellingen.", "score": 0.80 },
+    "best": "alt2",
+    "domain": "banking"
+  },
+  {
+    "source": "Intraday Sync",
+    "current": "Intradagsynchronisatie",
+    "alt1": { "text": "Intradagsynchronisatie", "score": 0.72 },
+    "alt2": { "text": "Realtime synchronisatie", "score": 0.80 },
+    "alt3": { "text": "Dagelijkse synchronisatie", "score": 0.68 },
+    "best": "alt2",
+    "domain": "banking"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "source": "Alternate",
+    "translation": "Afwisselend",
+    "score": "0.65",
+    "origin": "insights"
+  },
+  {
+    "source": "Append",
+    "translation": "Toevoegen",
+    "score": "0.77",
+    "origin": "insights"
+  },
+  {
+    "source": "Append this table with another table or query",
+    "translation": "Voeg deze tabel samen met een andere tabel of query",
+    "score": "0.73",
+    "origin": "insights"
+  },
+  {
+    "source": "BigQuery Configuration",
+    "translation": "BigQuery Configuration",
+    "score": "0.7",
+    "origin": "insights"
+  },
+  {
+    "source": "Bulk Enqueue",
+    "translation": "Bulkwachtrij",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "Comma seperated URLs to whitelist for embedding charts & dashboards",
+    "translation": "Kommagescheiden URL's op de acceptatielijst voor het insluiten van grafieken en dashboards",
+    "score": "0.78",
+    "origin": "insights"
+  },
+  {
+    "source": "Format Option",
+    "translation": "Opmaakinstellingen",
+    "score": "0.79",
+    "origin": "insights"
+  },
+  {
+    "source": "Is Assisted Query",
+    "translation": "Is ondersteunde query",
+    "score": "0.77",
+    "origin": "insights"
+  },
+  {
+    "source": "Is Native Query",
+    "translation": "Is native Query",
+    "score": "0.77",
+    "origin": "insights"
+  },
+  {
+    "source": "Is Query Based",
+    "translation": "Is Query-gebaseerd",
+    "score": "0.74",
+    "origin": "insights"
+  },
+  {
+    "source": "Is Saved as Table",
+    "translation": "Is opgeslagen als Tabel",
+    "score": "0.8",
+    "origin": "insights"
+  },
+  {
+    "source": "Justify",
+    "translation": "Uitlijnen",
+    "score": "0.74",
+    "origin": "insights"
+  },
+  {
+    "source": "Left Column",
+    "translation": "Linker Kolom",
+    "score": "0.74",
+    "origin": "insights"
+  },
+  {
+    "source": "Left Table",
+    "translation": "Linker Tabel",
+    "score": "0.74",
+    "origin": "insights"
+  },
+  {
+    "source": "Linked Charts",
+    "translation": "Gekoppelde Grafieken",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "Linked Queries",
+    "translation": "Gekoppelde Queries",
+    "score": "0.78",
+    "origin": "insights"
+  },
+  {
+    "source": "New Dashboard",
+    "translation": "Nieuw Dashboard",
+    "score": "0.77",
+    "origin": "insights"
+  },
+  {
+    "source": "New Data Source",
+    "translation": "Nieuwe Databron",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "New Query",
+    "translation": "Nieuwe Query",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "No Dashboards",
+    "translation": "Geen Dashboards",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "No Queries Found",
+    "translation": "Geen Queries gevonden",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "No Tables Found",
+    "translation": "Geen Tabellen gevonden",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "No Tables Stored",
+    "translation": "Geen Tabellen opgeslagen",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "No columns selected",
+    "translation": "Geen Kolommen geselecteerd",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "No tables found for the selected data source.",
+    "translation": "Geen Tabellen gevonden voor de geselecteerde databron.",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "No tables found in the data store.",
+    "translation": "Geen Tabellen gevonden in de gegevensopslag.",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "Old Name",
+    "translation": "Oude Naam",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "Please wait while we refresh the tables from your data source",
+    "translation": "Een ogenblik geduld terwijl we de Tabellen vernieuwen vanuit uw databron",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "Query Result Limit",
+    "translation": "Limiet Queryresultaten",
+    "score": "0.73",
+    "origin": "insights"
+  },
+  {
+    "source": "Refresh Stored Tables",
+    "translation": "Opgeslagen Tabellen vernieuwen",
+    "score": "0.76",
+    "origin": "insights"
+  },
+  {
+    "source": "Refresh Tables",
+    "translation": "Tabellen vernieuwen",
+    "score": "0.77",
+    "origin": "insights"
+  },
+  {
+    "source": "Sample data and workbook have been set up successfully",
+    "translation": "Voorbeelddata en werkboek zijn succesvol ingesteld",
+    "score": "0.79",
+    "origin": "insights"
+  },
+  {
+    "source": "Sample data with workbook has been set up successfully",
+    "translation": "Voorbeelddata met werkboek is succesvol ingesteld",
+    "score": "0.79",
+    "origin": "insights"
+  },
+  {
+    "source": "Select a table or query to start building your query",
+    "translation": "Selecteer een tabel of Query om uw Query te beginnen bouwen",
+    "score": "0.64",
+    "origin": "insights"
+  },
+  {
+    "source": "Setup Failed",
+    "translation": "Instelling mislukt",
+    "score": "0.77",
+    "origin": "insights"
+  },
+  {
+    "source": "Sync tables from your data source to get started",
+    "translation": "Synchroniseer tabellen van uw databron om te beginnen",
+    "score": "0.78",
+    "origin": "insights"
+  },
+  {
+    "source": "Upload a CSV or Excel file to create a new data source",
+    "translation": "Upload een CSV- of Excel-bestand om een nieuwe databron aan te maken",
+    "score": "0.78",
+    "origin": "insights"
+  },
+  {
+    "source": "View SQL",
+    "translation": "View SQL",
+    "score": "0.78",
+    "origin": "insights"
+  },
+  {
+    "source": "You do not have permission to access this resource",
+    "translation": "U heeft geen toestemming om deze resource te openen",
+    "score": "0.79",
+    "origin": "insights"
+  },
+  {
+    "source": "query",
+    "translation": "Query",
+    "score": "0.67",
+    "origin": "insights"
+  },
+  {
+    "source": "Banking Reference Mapping",
+    "translation": "Banking Referentietoewijzing",
+    "score": "0.78",
+    "origin": "banking"
+  },
+  {
+    "source": "Create Voucher",
+    "translation": "Document aanmaken",
+    "score": "0.8",
+    "origin": "banking"
+  },
+  {
+    "source": "Did you mean {0}?",
+    "translation": "Meent u {0}?",
+    "score": "0.71",
+    "origin": "banking"
+  },
+  {
+    "source": "Download Batch Transactions",
+    "translation": "Sammeloverboekingen downloaden",
+    "score": "0.73",
+    "origin": "banking"
+  },
+  {
+    "source": "Employee Bank Account",
+    "translation": "Werknemersbankrekening",
+    "score": "0.63",
+    "origin": "banking"
+  },
+  {
+    "source": "Employee Bank Account was created.",
+    "translation": "Werknemersbankrekening is aangemaakt.",
+    "score": "0.66",
+    "origin": "banking"
+  },
+  {
+    "source": "Employee Bank Account was not created.",
+    "translation": "Werknemersbankrekening is niet aangemaakt.",
+    "score": "0.66",
+    "origin": "banking"
+  },
+  {
+    "source": "Enter your signature passphrase",
+    "translation": "Voer uw handtekeningwachtwoordzin in",
+    "score": "0.57",
+    "origin": "banking"
+  },
+  {
+    "source": "Field {} does not exist in {}. Please check the configuration in Banking Settings.",
+    "translation": "Veld {} bestaat niet in {}. Controleer de configuratie in Banking-instellingen.",
+    "score": "0.74",
+    "origin": "banking"
+  },
+  {
+    "source": "Intraday Sync",
+    "translation": "Intradagsynchronisatie",
+    "score": "0.58",
+    "origin": "banking"
+  }
+]

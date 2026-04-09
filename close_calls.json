@@ -1,0 +1,1195 @@
+[
+  {
+    "source": "af-south-1",
+    "current": "af-zuid-1",
+    "option_a": "af-south-1",
+    "score_a": 0.9,
+    "option_b": "af-south-1",
+    "score_b": 0.9
+  },
+  {
+    "source": "Allow Multiple",
+    "current": "Laat Meerdere",
+    "option_a": "Meerdere toestaan",
+    "score_a": 0.88,
+    "option_b": "Meervoudig toestaan",
+    "score_b": 0.88
+  },
+  {
+    "source": "Allow Print",
+    "current": "laat Print",
+    "option_a": "Afdrukken toestaan",
+    "score_a": 0.91,
+    "option_b": "Afdrukken toestaan",
+    "score_b": 0.91
+  },
+  {
+    "source": "Allow Rename Attribute Value",
+    "current": "Toestaan Rename attribuutwaarde toestaan",
+    "option_a": "Hernoemen van attribuutwaarde toestaan",
+    "score_a": 0.9,
+    "option_b": "Attribuutwaarde hernoemen toestaan",
+    "score_b": 0.9
+  },
+  {
+    "source": "Appointment Duration (mins)",
+    "current": "Benoemingsduur (minuten)",
+    "option_a": "Afspraakduur (min.)",
+    "score_a": 0.91,
+    "option_b": "Afspraakduur (min)",
+    "score_b": 0.91
+  },
+  {
+    "source": "Appointment Reminder",
+    "current": "Benoemingsherinnering",
+    "option_a": "Afspraakherinnering",
+    "score_a": 0.92,
+    "option_b": "Afspraakherinnering",
+    "score_b": 0.92
+  },
+  {
+    "source": "Archived Columns",
+    "current": "gearchiveerd Columns",
+    "option_a": "Gearchiveerde kolommen",
+    "score_a": 0.91,
+    "option_b": "Gearchiveerde kolommen",
+    "score_b": 0.91
+  },
+  {
+    "source": "arrow-up",
+    "current": "pijl-up",
+    "option_a": "arrow-up",
+    "score_a": 0.9,
+    "option_b": "arrow-up",
+    "score_b": 0.9
+  },
+  {
+    "source": "Assignment Rules",
+    "current": "Opdrachtregels",
+    "option_a": "Toewijzingsregels",
+    "score_a": 0.91,
+    "option_b": "Toewijzingsregels",
+    "score_b": 0.91
+  },
+  {
+    "source": "Assignments",
+    "current": "opdrachten",
+    "option_a": "Toewijzingen",
+    "score_a": 0.9,
+    "option_b": "Toewijzingen",
+    "score_b": 0.9
+  },
+  {
+    "source": "Attach",
+    "current": "Hechten",
+    "option_a": "Bijvoegen",
+    "score_a": 0.92,
+    "option_b": "Bijvoegen",
+    "score_b": 0.92
+  },
+  {
+    "source": "Attach Document Print",
+    "current": "Bevestig Document Print",
+    "option_a": "Documentafdruk bijvoegen",
+    "score_a": 0.9,
+    "option_b": "Afdruk van document als bijlage toevoege",
+    "score_b": 0.9
+  },
+  {
+    "source": "Attach Image",
+    "current": "Bevestig Afbeelding",
+    "option_a": "Afbeelding bijvoegen",
+    "score_a": 0.93,
+    "option_b": "Afbeelding bijvoegen",
+    "score_b": 0.93
+  },
+  {
+    "source": "Attach Logo",
+    "current": "Bevestig Logo",
+    "option_a": "Logo bijvoegen",
+    "score_a": 0.93,
+    "option_b": "Logo bijvoegen",
+    "score_b": 0.93
+  },
+  {
+    "source": "Attach Print",
+    "current": "Bevestig Print",
+    "option_a": "Afdruk bijvoegen",
+    "score_a": 0.92,
+    "option_b": "Afdruk bijvoegen",
+    "score_b": 0.92
+  },
+  {
+    "source": "Attendance Freeze Date",
+    "current": "Bijwonen Vries Datum",
+    "option_a": "Vergrendeldatum aanwezigheid",
+    "score_a": 0.88,
+    "option_b": "Aanwezigheid blokkeren na datum",
+    "score_b": 0.88
+  },
+  {
+    "source": "Attribute Value",
+    "current": "Eigenschap Waarde",
+    "option_a": "Attribuutwaarde",
+    "score_a": 0.91,
+    "option_b": "Attribuutwaarde",
+    "score_b": 0.91
+  },
+  {
+    "source": "Authorized",
+    "current": "geautoriseerde",
+    "option_a": "Geautoriseerd",
+    "score_a": 0.9,
+    "option_b": "Geautoriseerd",
+    "score_b": 0.9
+  },
+  {
+    "source": "Default Medical Code Standard",
+    "option_a": "Standaard medische codestandaard",
+    "score_a": 0.82,
+    "option_b": "Standaard medische codestandaard",
+    "score_b": 0.82
+  },
+  {
+    "source": "Deleted DocType",
+    "option_a": "Verwijderd DocType",
+    "score_a": 0.88,
+    "option_b": "Verwijderd DocType",
+    "score_b": 0.88
+  },
+  {
+    "source": "Deleted Name",
+    "option_a": "Verwijderde naam",
+    "score_a": 0.88,
+    "option_b": "Verwijderde naam",
+    "score_b": 0.88
+  },
+  {
+    "source": "Depreciation Amount",
+    "option_a": "Afschrijvingsbedrag",
+    "score_a": 0.93,
+    "option_b": "Afschrijvingsbedrag",
+    "score_b": 0.93
+  },
+  {
+    "source": "Depreciation Date",
+    "option_a": "Afschrijvingsdatum",
+    "score_a": 0.93,
+    "option_b": "Afschrijvingsdatum",
+    "score_b": 0.93
+  },
+  {
+    "source": "Discharged",
+    "option_a": "Ontslagen",
+    "score_a": 0.85,
+    "option_b": "Ontslagen",
+    "score_b": 0.85
+  },
+  {
+    "source": "Document States",
+    "option_a": "Documentstatussen",
+    "score_a": 0.91,
+    "option_b": "Documentstatussen",
+    "score_b": 0.91
+  },
+  {
+    "source": "DUNN-.MM.-.YY.-",
+    "option_a": "DUNN-.MM.-.YY.-",
+    "score_a": 0.95,
+    "option_b": "DUNN-.MM.-.YY.-",
+    "score_b": 0.95
+  },
+  {
+    "source": "Dynamic Route",
+    "option_a": "Dynamische route",
+    "score_a": 0.88,
+    "option_b": "Dynamische route",
+    "score_b": 0.88
+  },
+  {
+    "source": "e.g. \"Summer Holiday 2019 Offer 20\"",
+    "option_a": "bijv. \"Zomervakantie 2019 Aanbieding 20\"",
+    "score_a": 0.89,
+    "option_b": "bijv. \"Zomervakantie 2019 Aanbieding 20\"",
+    "score_b": 0.89
+  },
+  {
+    "source": "e.g. (55 + 434) / 4 or =Math.sin(Math.PI/2)...",
+    "option_a": "bijv. (55 + 434) / 4 of =Math.sin(Math.P",
+    "score_a": 0.91,
+    "option_b": "bijv. (55 + 434) / 4 of =Math.sin(Math.P",
+    "score_b": 0.91
+  },
+  {
+    "source": "Editable Grid",
+    "option_a": "Bewerkbaar raster",
+    "score_a": 0.87,
+    "option_b": "Bewerkbaar raster",
+    "score_b": 0.87
+  },
+  {
+    "source": "Electric",
+    "option_a": "Elektrisch",
+    "score_a": 0.88,
+    "option_b": "Elektrisch",
+    "score_b": 0.88
+  },
+  {
+    "source": "Electricity Cost",
+    "option_a": "Elektriciteitskosten",
+    "score_a": 0.9,
+    "option_b": "Elektriciteitskosten",
+    "score_b": 0.9
+  },
+  {
+    "source": "HH:mm",
+    "option_a": "HH:mm",
+    "score_a": 0.95,
+    "option_b": "HH:mm",
+    "score_b": 0.95
+  },
+  {
+    "source": "HH:mm:ss",
+    "option_a": "HH:mm:ss",
+    "score_a": 0.95,
+    "option_b": "HH:mm:ss",
+    "score_b": 0.95
+  },
+  {
+    "source": "share-alt",
+    "option_a": "share-alt",
+    "score_a": 0.85,
+    "option_b": "share-alt",
+    "score_b": 0.85
+  },
+  {
+    "source": "Shared",
+    "option_a": "Gedeeld",
+    "score_a": 0.86,
+    "option_b": "Gedeeld",
+    "score_b": 0.86
+  },
+  {
+    "source": "Sold",
+    "option_a": "Verkocht",
+    "score_a": 0.9,
+    "option_b": "Verkocht",
+    "score_b": 0.9
+  },
+  {
+    "source": "Temporary Opening Account",
+    "option_a": "Tijdelijke openingsrekening",
+    "score_a": 0.88,
+    "option_b": "Tijdelijke openingsrekening",
+    "score_b": 0.88
+  },
+  {
+    "source": "The Brand",
+    "option_a": "Het merk",
+    "score_a": 0.88,
+    "option_b": "Het merk",
+    "score_b": 0.88
+  },
+  {
+    "source": "This Quarter",
+    "option_a": "Dit kwartaal",
+    "score_a": 0.93,
+    "option_b": "Dit kwartaal",
+    "score_b": 0.93
+  },
+  {
+    "source": "modify_half_day_status",
+    "option_a": "modify_half_day_status",
+    "score_a": 0.9,
+    "option_b": "modify_half_day_status",
+    "score_b": 0.9
+  },
+  {
+    "source": " (New)",
+    "option_a": " (Nieuw)",
+    "score_a": 0.95,
+    "option_b": " (Nieuw)",
+    "score_b": 0.95
+  },
+  {
+    "source": "Capacity Planning",
+    "option_a": "Capaciteitsplanning",
+    "score_a": 0.88,
+    "option_b": "Capaciteitsplanning",
+    "score_b": 0.88
+  },
+  {
+    "source": "Card Details",
+    "option_a": "Kaartgegevens",
+    "score_a": 0.87,
+    "option_b": "Kaartgegevens",
+    "score_b": 0.87
+  },
+  {
+    "source": "CC, BCC & Email Template",
+    "option_a": "CC, BCC en e-mailsjabloon",
+    "score_a": 0.86,
+    "option_b": "CC, BCC en e-mailsjabloon",
+    "score_b": 0.86
+  },
+  {
+    "source": "Cheque Date",
+    "option_a": "Chequedatum",
+    "score_a": 0.87,
+    "option_b": "Chequedatum",
+    "score_b": 0.87
+  },
+  {
+    "source": "Cheque Height",
+    "option_a": "Chequehoogte",
+    "score_a": 0.87,
+    "option_b": "Chequehoogte",
+    "score_b": 0.87
+  },
+  {
+    "source": "Cheque Number",
+    "option_a": "Chequenummer",
+    "score_a": 0.88,
+    "option_b": "Chequenummer",
+    "score_b": 0.88
+  },
+  {
+    "source": "Cheque Width",
+    "option_a": "Chequebreedte",
+    "score_a": 0.87,
+    "option_b": "Chequebreedte",
+    "score_b": 0.87
+  },
+  {
+    "source": "Criteria Name",
+    "option_a": "Criterianaam",
+    "score_a": 0.8,
+    "option_b": "Criterianaam",
+    "score_b": 0.8
+  },
+  {
+    "source": "Day(s) after invoice date",
+    "option_a": "Dag(en) na factuurdatum",
+    "score_a": 0.91,
+    "option_b": "Dag(en) na factuurdatum",
+    "score_b": 0.91
+  },
+  {
+    "source": "Email Flag Queue",
+    "option_a": "E-mailflagwachtrij",
+    "score_a": 0.82,
+    "option_b": "E-mailflagwachtrij",
+    "score_b": 0.82
+  },
+  {
+    "source": "Employee Group Table",
+    "option_a": "Werknemersgroeptabel",
+    "score_a": 0.86,
+    "option_b": "Werknemersgroeptabel",
+    "score_b": 0.86
+  },
+  {
+    "source": "Gross Margin",
+    "option_a": "Brutomarge",
+    "score_a": 0.88,
+    "option_b": "Brutomarge",
+    "score_b": 0.88
+  },
+  {
+    "source": "Gross Profit",
+    "option_a": "Brutowinst",
+    "score_a": 0.88,
+    "option_b": "Brutowinst",
+    "score_b": 0.88
+  },
+  {
+    "source": "Gross Weight",
+    "option_a": "Brutogewicht",
+    "score_a": 0.88,
+    "option_b": "Brutogewicht",
+    "score_b": 0.88
+  },
+  {
+    "source": "Grouped",
+    "option_a": "Gegroepeerd",
+    "score_a": 0.8,
+    "option_b": "Gegroepeerd",
+    "score_b": 0.8
+  },
+  {
+    "source": "Groups",
+    "option_a": "Groepen",
+    "score_a": 0.8,
+    "option_b": "Groepen",
+    "score_b": 0.8
+  },
+  {
+    "source": "GST Settings",
+    "option_a": "GST-instellingen",
+    "score_a": 0.84,
+    "option_b": "GST-instellingen",
+    "score_b": 0.84
+  },
+  {
+    "source": "GST State Number",
+    "option_a": "GST-deelstaatnummer",
+    "score_a": 0.8,
+    "option_b": "GST-deelstaatnummer",
+    "score_b": 0.8
+  },
+  {
+    "source": "Hide Copy",
+    "option_a": "Kopieerknop verbergen",
+    "score_a": 0.82,
+    "option_b": "Kopieerknop verbergen",
+    "score_b": 0.82
+  },
+  {
+    "source": "HR-EMP-",
+    "option_a": "HR-EMP-",
+    "score_a": 0.9,
+    "option_b": "HR-EMP-",
+    "score_b": 0.9
+  },
+  {
+    "source": "Invoiced",
+    "option_a": "Gefactureerd",
+    "score_a": 0.87,
+    "option_b": "Gefactureerd",
+    "score_b": 0.87
+  },
+  {
+    "source": "Invoices",
+    "option_a": "Facturen",
+    "score_a": 0.88,
+    "option_b": "Facturen",
+    "score_b": 0.88
+  },
+  {
+    "source": "Is Cancelled",
+    "option_a": "Geannuleerd",
+    "score_a": 0.88,
+    "option_b": "Geannuleerd",
+    "score_b": 0.88
+  },
+  {
+    "source": "Not Therapies Prescribed",
+    "option_a": "Geen therapieën voorgeschreven",
+    "score_a": 0.82,
+    "option_b": "Geen therapieën voorgeschreven",
+    "score_b": 0.82
+  },
+  {
+    "source": "One of",
+    "option_a": "Een van de",
+    "score_a": 0.84,
+    "option_b": "Een van de",
+    "score_b": 0.84
+  },
+  {
+    "source": "one of",
+    "option_a": "een van de",
+    "score_a": 0.84,
+    "option_b": "een van de",
+    "score_b": 0.84
+  },
+  {
+    "source": "Outgoing",
+    "option_a": "Uitgaand",
+    "score_a": 0.88,
+    "option_b": "Uitgaand",
+    "score_b": 0.88
+  },
+  {
+    "source": "Package Weight Details",
+    "option_a": "Gewichtsdetails pakket",
+    "score_a": 0.82,
+    "option_b": "Pakketgewicht details",
+    "score_b": 0.81
+  },
+  {
+    "source": "Party Account Currency",
+    "option_a": "Valuta relatierekening",
+    "score_a": 0.82,
+    "option_b": "Valuta van relatieaccount",
+    "score_b": 0.81
+  },
+  {
+    "source": "Pay To / Recd From",
+    "option_a": "Betalen aan / Ontvangen van",
+    "score_a": 0.84,
+    "option_b": "Betalen aan / Ontvangen van",
+    "score_b": 0.84
+  },
+  {
+    "source": "Payment Cancelled",
+    "option_a": "Betaling geannuleerd",
+    "score_a": 0.84,
+    "option_b": "Betaling geannuleerd",
+    "score_b": 0.84
+  },
+  {
+    "source": "Please enter distributed cost center",
+    "option_a": "Voer een verdeelde kostenplaats in",
+    "score_a": 0.85,
+    "option_b": "Vul een gedistribueerde kostenplaats in",
+    "score_b": 0.85
+  },
+  {
+    "source": "Priorities",
+    "option_a": "Prioriteiten",
+    "score_a": 0.88,
+    "option_b": "Prioriteiten",
+    "score_b": 0.88
+  },
+  {
+    "source": "Production Item",
+    "option_a": "Productieartikel",
+    "score_a": 0.86,
+    "option_b": "Productieartikel",
+    "score_b": 0.86
+  },
+  {
+    "source": "Products",
+    "option_a": "Producten",
+    "score_a": 0.88,
+    "option_b": "Producten",
+    "score_b": 0.88
+  },
+  {
+    "source": "Projects",
+    "option_a": "Projecten",
+    "score_a": 0.9,
+    "option_b": "Projecten",
+    "score_b": 0.9
+  },
+  {
+    "source": "QR Code",
+    "option_a": "QR-code",
+    "score_a": 0.92,
+    "option_b": "QR-code",
+    "score_b": 0.92
+  },
+  {
+    "source": "Reflexes",
+    "option_a": "Reflexen",
+    "score_a": 0.78,
+    "option_b": "Reflexen",
+    "score_b": 0.78
+  },
+  {
+    "source": "Row #{}: POS Invoice {} is not against customer {}",
+    "option_a": "Rij #{}: POS-factuur {} is niet van klan",
+    "score_a": 0.84,
+    "option_b": "Rij #{}: POS-factuur {} hoort niet bij k",
+    "score_b": 0.84
+  },
+  {
+    "source": "Sales Team",
+    "option_a": "Verkoopteam",
+    "score_a": 0.88,
+    "option_b": "Verkoopteam",
+    "score_b": 0.88
+  },
+  {
+    "source": "Service Address",
+    "option_a": "Serviceadres",
+    "score_a": 0.88,
+    "option_b": "Serviceadres",
+    "score_b": 0.88
+  },
+  {
+    "source": "Session Default",
+    "option_a": "Sessiestandaard",
+    "score_a": 0.86,
+    "option_b": "Sessiestandaard",
+    "score_b": 0.86
+  },
+  {
+    "source": "Row #{}: POS Invoice {} is not against customer {}",
+    "option_a": "Rij #{}: POS-factuur {} is niet van klan",
+    "score_a": 0.84,
+    "option_b": "Rij #{}: POS-factuur {} hoort niet bij k",
+    "score_b": 0.84
+  },
+  {
+    "source": "Sales Team",
+    "option_a": "Verkoopteam",
+    "score_a": 0.88,
+    "option_b": "Verkoopteam",
+    "score_b": 0.88
+  },
+  {
+    "source": "Service Address",
+    "option_a": "Serviceadres",
+    "score_a": 0.88,
+    "option_b": "Serviceadres",
+    "score_b": 0.88
+  },
+  {
+    "source": "Session Default",
+    "option_a": "Sessiestandaard",
+    "score_a": 0.86,
+    "option_b": "Sessiestandaard",
+    "score_b": 0.86
+  },
+  {
+    "source": "Total Incoming Value",
+    "option_a": "Totale inkomstwaarde",
+    "score_a": 0.82,
+    "option_b": "Totale inkomende waarde",
+    "score_b": 0.81
+  },
+  {
+    "source": "uploaded file",
+    "option_a": "geüpload bestand",
+    "score_a": 0.88,
+    "option_b": "geüpload bestand",
+    "score_b": 0.88
+  },
+  {
+    "source": "Webhook",
+    "option_a": "Webhook",
+    "score_a": 0.87,
+    "option_b": "Webhook",
+    "score_b": 0.87
+  },
+  {
+    "source": "Webhooks",
+    "option_a": "Webhooks",
+    "score_a": 0.87,
+    "option_b": "Webhooks",
+    "score_b": 0.87
+  },
+  {
+    "source": "uploaded file",
+    "option_a": "geüpload bestand",
+    "score_a": 0.88,
+    "option_b": "geüpload bestand",
+    "score_b": 0.88
+  },
+  {
+    "source": "Webhook",
+    "option_a": "Webhook",
+    "score_a": 0.87,
+    "option_b": "Webhook",
+    "score_b": 0.87
+  },
+  {
+    "source": "Webhooks",
+    "option_a": "Webhooks",
+    "score_a": 0.87,
+    "option_b": "Webhooks",
+    "score_b": 0.87
+  },
+  {
+    "source": "{0} is a mandatory field asdadsf",
+    "option_a": "{0} is een verplicht veld asdadsf",
+    "score_a": 0.67,
+    "option_b": "{0} is een verplicht veld asdadsf",
+    "score_b": 0.67
+  },
+  {
+    "source": "{0} valid serial nos for Item {1}",
+    "option_a": "{0} geldige serienummers voor artikel {1",
+    "score_a": 0.83,
+    "option_b": "{0} geldige serienummers voor artikel {1",
+    "score_b": 0.83
+  },
+  {
+    "source": "{0}: No basic permissions set",
+    "option_a": "{0}: Geen basismachtigingen ingesteld",
+    "score_a": 0.84,
+    "option_b": "{0}: Basismachtigingen ontbreken",
+    "score_b": 0.84
+  },
+  {
+    "source": "Appraisal KRA",
+    "option_a": "KRA voor beoordeling",
+    "score_a": 0.8,
+    "option_b": "Beoordelings-KRA",
+    "score_b": 0.8
+  },
+  {
+    "source": "<hr>",
+    "option_a": "<hr>",
+    "score_a": 0.85,
+    "option_b": "<hr>",
+    "score_b": 0.85
+  },
+  {
+    "source": "Employees HTML",
+    "option_a": "Medewerkers HTML",
+    "score_a": 0.82,
+    "option_b": "Medewerkers HTML",
+    "score_b": 0.82
+  },
+  {
+    "source": "Hiring Count",
+    "option_a": "Wervingsaantal",
+    "score_a": 0.82,
+    "option_b": "Aantal werving",
+    "score_b": 0.81
+  },
+  {
+    "source": "Include Shift Attendance Without Checkins",
+    "option_a": "Dienstroosteraanwezigheid zonder incheck",
+    "score_a": 0.82,
+    "option_b": "Aanwezigheid per dienst zonder incheckre",
+    "score_b": 0.81
+  },
+  {
+    "source": "Please submit the {0} before marking the cycle as Completed",
+    "option_a": "Dien {0} in voordat u de cyclus als Volt",
+    "score_a": 0.87,
+    "option_b": "Markeer de cyclus pas als Voltooid nadat",
+    "score_b": 0.87
+  },
+  {
+    "source": "here",
+    "option_a": "hier",
+    "score_a": 0.82,
+    "option_b": "hier",
+    "score_b": 0.82
+  },
+  {
+    "source": "process",
+    "option_a": "verwerken",
+    "score_a": 0.82,
+    "option_b": "verwerken",
+    "score_b": 0.82
+  },
+  {
+    "source": "Add Assignee",
+    "option_a": "Verantwoordelijke toevoegen",
+    "score_a": 0.82,
+    "option_b": "Behandelaar toevoegen",
+    "score_b": 0.81
+  },
+  {
+    "source": "Add Sort",
+    "option_a": "Sortering toevoegen",
+    "score_a": 0.84,
+    "option_b": "Sortering toevoegen",
+    "score_b": 0.84
+  },
+  {
+    "source": "Current pipeline distribution",
+    "option_a": "Verdeling in de pipeline",
+    "score_a": 0.82,
+    "option_b": "Actieve pipelineverdeling",
+    "score_b": 0.81
+  },
+  {
+    "source": "Upload Attachment",
+    "option_a": "Bijlage uploaden",
+    "score_a": 0.84,
+    "option_b": "Bijlage uploaden",
+    "score_b": 0.84
+  },
+  {
+    "source": "next",
+    "option_a": "Volgende",
+    "score_a": 0.82,
+    "option_b": "Volgende",
+    "score_b": 0.82
+  },
+  {
+    "source": "Agent Configuration",
+    "option_a": "Agentconfiguratie",
+    "score_a": 0.82,
+    "option_b": "Agentinstellingen",
+    "score_b": 0.81
+  },
+  {
+    "source": "Choose the duration of this holiday list.",
+    "option_a": "Kies de geldigheidsduur van deze verlofl",
+    "score_a": 0.83,
+    "option_b": "Stel de periode in voor deze verloflijst",
+    "score_b": 0.83
+  },
+  {
+    "source": "Choose which tickets are affected by this un-assignment rule",
+    "option_a": "Kies welke tickets door deze ontoewijzin",
+    "score_a": 0.82,
+    "option_b": "Kies welke tickets door deze detoewijzin",
+    "score_b": 0.81
+  },
+  {
+    "source": "Default template can not be deleted",
+    "option_a": "Het standaardsjabloon kan niet worden ve",
+    "score_a": 0.86,
+    "option_b": "Het standaardsjabloon kan niet worden ve",
+    "score_b": 0.86
+  },
+  {
+    "source": "Disable Bypass Restrictions",
+    "option_a": "Beperkingsomzeiling uitschakelen",
+    "score_a": 0.82,
+    "option_b": "Omzeiloptie beperkingen uitschakelen",
+    "score_b": 0.81
+  },
+  {
+    "source": "Disables all email notifications for the ticket - including ",
+    "option_a": "Schakelt alle e-mailmeldingen voor het t",
+    "score_a": 0.83,
+    "option_b": "Alle e-mailmeldingen voor dit ticket wor",
+    "score_b": 0.83
+  },
+  {
+    "source": "Headings Weight",
+    "option_a": "Koppengewicht",
+    "score_a": 0.82,
+    "option_b": "Gewicht van koppen",
+    "score_b": 0.81
+  },
+  {
+    "source": "Is name setup skipped",
+    "option_a": "Naaminstelling overgeslagen",
+    "score_a": 0.82,
+    "option_b": "Naam instellen overgeslagen",
+    "score_b": 0.81
+  },
+  {
+    "source": "Remove image",
+    "current": "Verwijder afbeelding",
+    "alt1": {
+      "text": "Afbeelding verwijderen",
+      "score": 0.88
+    },
+    "alt2": {
+      "text": "Afbeelding verwijderen",
+      "score": 0.88
+    },
+    "alt3": {
+      "text": "Verwijderen",
+      "score": 0.78
+    },
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket Analytics",
+    "current": "Ticket Analytics",
+    "alt1": {
+      "text": "Ticket Analytics",
+      "score": 0.88
+    },
+    "alt2": {
+      "text": "Ticketanalyse",
+      "score": 0.85
+    },
+    "alt3": {
+      "text": "Ticket Analytics",
+      "score": 0.88
+    },
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket Configuration",
+    "current": "Ticket configuratie",
+    "alt1": {
+      "text": "Ticketconfiguratie",
+      "score": 0.87
+    },
+    "alt2": {
+      "text": "Ticketinstellingen",
+      "score": 0.85
+    },
+    "alt3": {
+      "text": "Ticketconfiguratie",
+      "score": 0.87
+    },
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket Priority",
+    "current": "Ticket Prioriteit",
+    "alt1": {
+      "text": "Ticketprioriteit",
+      "score": 0.9
+    },
+    "alt2": {
+      "text": "Prioriteit van ticket",
+      "score": 0.84
+    },
+    "alt3": {
+      "text": "Ticketprioriteit",
+      "score": 0.9
+    },
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Ticket status",
+    "current": "Ticket status",
+    "alt1": {
+      "text": "Ticketstatus",
+      "score": 0.91
+    },
+    "alt2": {
+      "text": "Status ticket",
+      "score": 0.84
+    },
+    "alt3": {
+      "text": "Ticketstatus",
+      "score": 0.91
+    },
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Word",
+    "current": "Woord",
+    "alt1": {
+      "text": "Woord",
+      "score": 0.85
+    },
+    "alt2": {
+      "text": "Term",
+      "score": 0.82
+    },
+    "alt3": {
+      "text": "Woord",
+      "score": 0.85
+    },
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Workflow",
+    "current": "Werkstroom",
+    "alt1": {
+      "text": "Workflow",
+      "score": 0.92
+    },
+    "alt2": {
+      "text": "Workflow",
+      "score": 0.92
+    },
+    "alt3": {
+      "text": "Werkproces",
+      "score": 0.74
+    },
+    "best": "alt1",
+    "domain": "helpdesk"
+  },
+  {
+    "source": "Left Column",
+    "current": "Linker Kolom",
+    "alt1": {
+      "text": "Linkerkolom",
+      "score": 0.84
+    },
+    "alt2": {
+      "text": "Linkerkolom",
+      "score": 0.84
+    },
+    "alt3": {
+      "text": "Kolom links",
+      "score": 0.76
+    },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Left Table",
+    "current": "Linker Tabel",
+    "alt1": {
+      "text": "Linkertabel",
+      "score": 0.84
+    },
+    "alt2": {
+      "text": "Linkertabel",
+      "score": 0.84
+    },
+    "alt3": {
+      "text": "Tabel links",
+      "score": 0.76
+    },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Linked Charts",
+    "current": "Gekoppelde Grafieken",
+    "alt1": {
+      "text": "Gekoppelde grafieken",
+      "score": 0.82
+    },
+    "alt2": {
+      "text": "Gekoppelde grafieken",
+      "score": 0.82
+    },
+    "alt3": {
+      "text": "Verbonden grafieken",
+      "score": 0.78
+    },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Linked Queries",
+    "current": "Gekoppelde Queries",
+    "alt1": {
+      "text": "Gekoppelde queries",
+      "score": 0.83
+    },
+    "alt2": {
+      "text": "Gekoppelde queries",
+      "score": 0.83
+    },
+    "alt3": {
+      "text": "Verbonden queries",
+      "score": 0.78
+    },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "New Dashboard",
+    "current": "Nieuw Dashboard",
+    "alt1": {
+      "text": "Nieuw Dashboard",
+      "score": 0.82
+    },
+    "alt2": {
+      "text": "Nieuw Dashboard",
+      "score": 0.82
+    },
+    "alt3": {
+      "text": "Dashboard aanmaken",
+      "score": 0.78
+    },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "New Data Source",
+    "current": "Nieuwe Databron",
+    "alt1": {
+      "text": "Nieuwe databron",
+      "score": 0.83
+    },
+    "alt2": {
+      "text": "Nieuwe databron",
+      "score": 0.83
+    },
+    "alt3": {
+      "text": "Databron toevoegen",
+      "score": 0.79
+    },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "New Query",
+    "current": "Nieuwe Query",
+    "alt1": {
+      "text": "Nieuwe query",
+      "score": 0.83
+    },
+    "alt2": {
+      "text": "Nieuwe query",
+      "score": 0.83
+    },
+    "alt3": {
+      "text": "Query aanmaken",
+      "score": 0.79
+    },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "No Queries Found",
+    "current": "Geen Queries gevonden",
+    "alt1": {
+      "text": "Geen queries gevonden",
+      "score": 0.83
+    },
+    "alt2": {
+      "text": "Geen queries gevonden",
+      "score": 0.83
+    },
+    "alt3": {
+      "text": "Geen resultaten",
+      "score": 0.72
+    },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "No Tables Found",
+    "current": "Geen Tabellen gevonden",
+    "alt1": {
+      "text": "Geen tabellen gevonden",
+      "score": 0.83
+    },
+    "alt2": {
+      "text": "Geen tabellen gevonden",
+      "score": 0.83
+    },
+    "alt3": {
+      "text": "Geen tabellen beschikbaar",
+      "score": 0.8
+    },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "No Tables Stored",
+    "current": "Geen Tabellen opgeslagen",
+    "alt1": {
+      "text": "Geen tabellen opgeslagen",
+      "score": 0.83
+    },
+    "alt2": {
+      "text": "Geen tabellen opgeslagen",
+      "score": 0.83
+    },
+    "alt3": {
+      "text": "Geen opgeslagen tabellen",
+      "score": 0.81
+    },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "No columns selected",
+    "current": "Geen Kolommen geselecteerd",
+    "alt1": {
+      "text": "Geen kolommen geselecteerd",
+      "score": 0.84
+    },
+    "alt2": {
+      "text": "Geen kolommen geselecteerd",
+      "score": 0.84
+    },
+    "alt3": {
+      "text": "Selecteer minimaal een kolom",
+      "score": 0.78
+    },
+    "best": "alt1",
+    "domain": "insights"
+  },
+  {
+    "source": "Did you mean {0}?",
+    "current": "Meent u {0}?",
+    "alt1": {
+      "text": "Bedoelde u {0}?",
+      "score": 0.88
+    },
+    "alt2": {
+      "text": "Bedoelde u {0}?",
+      "score": 0.88
+    },
+    "alt3": {
+      "text": "Misschien bedoelde u {0}?",
+      "score": 0.85
+    },
+    "best": "alt1",
+    "domain": "banking"
+  }
+]

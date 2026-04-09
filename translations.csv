@@ -14159,165 +14159,165 @@ Untracked Hours,Niet-geregistreerde uren,reviewed,hrms,0.86,0.85,0.8,0.85,0.9,1.
 Untracked Hours (U),Niet-geregistreerde uren (O),reviewed,hrms,0.54,0.55,0.45,0.5,0.6,0.8,review
 Unused leaves,Ongebruikt verlof,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Upcoming Holidays,Aankomende feestdagen,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
-Upcoming Holidays Reminder,Herinnering aankomende feestdagen,reviewed,hrms,,,,,,,
-Upcoming Shifts,Aankomende diensten,reviewed,hrms,,,,,,,
-Update Expense,Declaratie bijwerken,reviewed,hrms,,,,,,,
-Update Job Applicant,Sollicitant bijwerken,reviewed,hrms,,,,,,,
-Update Progress,Voortgang bijwerken,reviewed,hrms,,,,,,,
-Update Response,Antwoord bijwerken,reviewed,hrms,,,,,,,
-Update Salary Structures,Salarisstructuren bijwerken,reviewed,hrms,,,,,,,
-Update Status,Status bijwerken,reviewed,hrms,,,,,,,
-Update Tax,Belasting bijwerken,reviewed,hrms,,,,,,,
-Updated status from {0} to {1} for date {2} in the attendance record {3},Status bijgewerkt van {0} naar {1} voor datum {2} in aanwezigheidsrecord {3},reviewed,hrms,,,,,,,
-Updated the Job Applicant status to {0},Status van sollicitant bijgewerkt naar {0},reviewed,hrms,,,,,,,
-Updated the status of Job Offer {0} for the linked Job Applicant {1} to {2},Status van baanaanbieding {0} voor de gekoppelde sollicitant {1} bijgewerkt naar {2},reviewed,hrms,,,,,,,
-Updated the status of linked Job Applicant {0} to {1},Status van gekoppelde sollicitant {0} bijgewerkt naar {1},reviewed,hrms,,,,,,,
-Upload Attendance,Aanwezigheid uploaden,reviewed,hrms,,,,,,,
-Upload HTML,HTML uploaden,reviewed,hrms,,,,,,,
-Upload images or documents,Afbeeldingen of documenten uploaden,reviewed,hrms,,,,,,,
-Uploading...,Bezig met uploaden...,reviewed,hrms,,,,,,,
-Upper Range,Bovengrens,reviewed,hrms,,,,,,,
-Used Leave(s),Opgenomen verlof(dagen),reviewed,hrms,,,,,,,
-Used Leaves,Opgenomen verlof,reviewed,hrms,,,,,,,
-Vacancies,Vacatures,reviewed,hrms,,,,,,,
-Vacancies cannot be lower than the current openings,Het aantal vacatures kan niet lager zijn dan de huidige openstaande posities,reviewed,hrms,,,,,,,
-Vacancies fulfilled,Vacatures vervuld,reviewed,hrms,,,,,,,
-Validate Attendance,Aanwezigheid valideren,reviewed,hrms,,,,,,,
-Validating Employee Attendance...,Aanwezigheid werknemer valideren...,reviewed,hrms,,,,,,,
-Value / Description,Waarde / Omschrijving,reviewed,hrms,,,,,,,
-Value missing,Waarde ontbreekt,reviewed,hrms,,,,,,,
-Variable,Variabel,reviewed,hrms,,,,,,,
-Variable Based On Taxable Salary,Variabel op basis van belastbaar salaris,reviewed,hrms,,,,,,,
-Vegetarian,Vegetarisch,reviewed,hrms,,,,,,,
-Vehicle Log,Voertuiglogboek,reviewed,hrms,,,,,,,
-Vehicle Service,Voertuigonderhoud,reviewed,hrms,,,,,,,
-Vehicle Service Item,Onderhoudpost voertuig,reviewed,hrms,,,,,,,
-View Goals,Doelen bekijken,reviewed,hrms,,,,,,,
-View Leave History,Verlofhistorie bekijken,reviewed,hrms,,,,,,,
-View Salary Slips,Loonstroken bekijken,reviewed,hrms,,,,,,,
-Violet,Violet,reviewed,hrms,,,,,,,
-WARNING: Loan Management module has been separated from ERPNext.,WAARSCHUWING: De module Leningenbeheer is afgesplitst van ERPNext.,reviewed,hrms,,,,,,,
-Warning: Insufficient leave balance for Leave Type {0} in this allocation.,Waarschuwing: Onvoldoende verlofsaldo voor verlofsoort {0} in deze toewijzing.,reviewed,hrms,,,,,,,
-Warning: Insufficient leave balance for Leave Type {0}.,Waarschuwing: Onvoldoende verlofsaldo voor verlofsoort {0}.,reviewed,hrms,,,,,,,
-Warning: Leave application contains following block dates,Waarschuwing: Verlofaanvraag bevat de volgende geblokkeerde datums,reviewed,hrms,,,,,,,
-Warning: {0} already has an active Shift Assignment {1} for some/all of these dates.,Waarschuwing: {0} heeft al een actieve diensttoewijzing {1} voor sommige of alle van deze datums.,reviewed,hrms,,,,,,,
-Website Listing,Websitevermelding,reviewed,hrms,,,,,,,
-Weekend Multiplier,Weekendvermenigvuldiger,reviewed,hrms,,,,,,,
-Weightage (%),Weging (%),reviewed,hrms,,,,,,,
-"When set to 'Inactive', employees with conflicting active shifts will not be excluded.","Als dit op 'Inactief' staat, worden werknemers met conflicterende actieve diensten niet uitgesloten.",reviewed,hrms,,,,,,,
-Whereas allocation for Compensatory Leaves is automatically created or updated on submission of Compensatory Leave Request.,De toewijzing voor compensatieverlof wordt automatisch aangemaakt of bijgewerkt bij het indienen van een compensatieverlofaanvraag.,reviewed,hrms,,,,,,,
-Why is this Candidate Qualified for this Position?,Waarom is deze kandidaat gekwalificeerd voor deze functie?,reviewed,hrms,,,,,,,
-Withheld,Ingehouden,reviewed,hrms,,,,,,,
-Work Anniversaries ,Dienstjubilea,reviewed,hrms,,,,,,,
-Work Anniversary Reminder,Herinnering dienstjubileum,reviewed,hrms,,,,,,,
-Work End Date,Einddatum werk,reviewed,hrms,,,,,,,
-Work Experience Calculation Method,Berekeningsmethode werkervaring,reviewed,hrms,,,,,,,
-Work From Date,Startdatum werk,reviewed,hrms,,,,,,,
-Work From Home,Thuiswerken,reviewed,hrms,,,,,,,
-Work References,Werkreferenties,reviewed,hrms,,,,,,,
-Work Summary for {0},Werkoverzicht voor {0},reviewed,hrms,,,,,,,
-Worked On Holiday,Gewerkt op feestdag,reviewed,hrms,,,,,,,
-Working Days,Werkdagen,reviewed,hrms,,,,,,,
-Working Days and Hours,Werkdagen en uren,reviewed,hrms,,,,,,,
-Working Hours Calculation Based On,Berekening werkuren op basis van,reviewed,hrms,,,,,,,
-Working Hours Threshold for Absent,Drempelwaarde werkuren voor afwezigheid,reviewed,hrms,,,,,,,
-Working Hours Threshold for Half Day,Drempelwaarde werkuren voor halve dag,reviewed,hrms,,,,,,,
-Working hours below which Absent is marked. (Zero to disable),Werkuren waaronder Afwezig wordt gemarkeerd. (Nul om uit te schakelen),reviewed,hrms,,,,,,,
-Working hours below which Half Day is marked. (Zero to disable),Werkuren waaronder Halve dag wordt gemarkeerd. (Nul om uit te schakelen),reviewed,hrms,,,,,,,
-Workshop,Workshop,reviewed,hrms,,,,,,,
-Year To Date,Jaar tot datum,reviewed,hrms,,,,,,,
-Year To Date(Company Currency),Jaar tot datum (bedrijfsvaluta),reviewed,hrms,,,,,,,
-Yearly Amount,Jaarbedrag,reviewed,hrms,,,,,,,
-Yearly Benefit,Jaarlijkse vergoeding,reviewed,hrms,,,,,,,
-"Yes, Proceed","Ja, doorgaan",reviewed,hrms,,,,,,,
-You are not authorized to approve leaves on Block Dates,U bent niet gemachtigd om verlof goed te keuren op geblokkeerde datums,reviewed,hrms,,,,,,,
-You are not present all day(s) between compensatory leave request days,U was niet aanwezig op alle dag(en) tussen de aangevraagde compensatieverlofperiode,reviewed,hrms,,,,,,,
-You can not define multiple slabs if you have a slab with no lower and upper limits.,U kunt geen meerdere schijven definiëren als er een schijf zonder onder- en bovengrenzen bestaat.,reviewed,hrms,,,,,,,
-You can not request for your Default Shift: {0},U kunt geen aanvraag indienen voor uw standaarddienst: {0},reviewed,hrms,,,,,,,
-You can only plan for upto {0} vacancies and budget {1} for {2} as per staffing plan {3} for parent company {4}.,U kunt maximaal {0} vacatures en Budget {1} plannen voor {2} conform personeelsplan {3} voor moedermaatschappij {4}.,reviewed,hrms,,,,,,,
-You can only submit Leave Encashment for a valid encashment amount,U kunt een verlofuitbetaling alleen indienen voor een geldig uitbetalingsbedrag,reviewed,hrms,,,,,,,
-"You can only upload JPG, PNG, PDF, TXT or Microsoft documents.","U kunt alleen JPG-, PNG-, PDF-, TXT- of Microsoft-documenten uploaden.",reviewed,hrms,,,,,,,
-You cannot reverse more than the total LWP days {0}. You have already reversed {1} days for this employee.,U kunt niet meer dan het totale aantal LWP-dagen {0} terugdraaien. U heeft al {1} dagen teruggedraaid voor deze werknemer.,reviewed,hrms,,,,,,,
-You do not have permission to complete this action,U heeft geen toestemming om deze actie uit te voeren,reviewed,hrms,,,,,,,
-You have no advances,U heeft geen voorschotten,reviewed,hrms,,,,,,,
-You have no leaves allocated,U heeft geen verlof toegewezen gekregen,reviewed,hrms,,,,,,,
-You have no notifications,U heeft geen meldingen,reviewed,hrms,,,,,,,
-You have no requests,U heeft geen verzoeken,reviewed,hrms,,,,,,,
-You have no upcoming holidays,U heeft geen aankomende feestdagen,reviewed,hrms,,,,,,,
-You have no upcoming shifts,U heeft geen aankomende diensten,reviewed,hrms,,,,,,,
-"You may add additional details, if any, and submit the offer.","U kunt aanvullende details toevoegen, indien van toepassing, en het aanbod indienen.",reviewed,hrms,,,,,,,
-You must be within {0} meters of your shift location to check in.,U moet zich binnen {0} meter van uw dienstlocatie bevinden om in te klokken.,reviewed,hrms,,,,,,,
-You were only present for Half Day on {}. Cannot apply for a full day compensatory leave,U was op {} slechts een halve dag aanwezig. U kunt geen aanvraag indienen voor een volledige dag compensatieverlof.,reviewed,hrms,,,,,,,
-Your Interview session is rescheduled from {0} {1} - {2} to {3} {4} - {5},Uw sollicitatiegesprek is verzet van {0} {1} - {2} naar {3} {4} - {5},reviewed,hrms,,,,,,,
-Your password has expired. Please reset your password to continue,Uw wachtwoord is verlopen. Stel uw wachtwoord opnieuw in om door te gaan.,reviewed,hrms,,,,,,,
-active,actief,reviewed,hrms,,,,,,,
-based on,gebaseerd op,reviewed,hrms,,,,,,,
-cancellation,annulering,reviewed,hrms,,,,,,,
-cancelled,geannuleerd,reviewed,hrms,,,,,,,
-create/submit,aanmaken/indienen,reviewed,hrms,,,,,,,
-here,Hier,reviewed,hrms,,,,,,,
-johndoe@mail.com,johndoe@mail.com,reviewed,hrms,,,,,,,
-modify_half_day_status,modify_half_day_status,reviewed,hrms,,,,,,,
-or for the Employee's Department: {0},of voor de afdeling van de werknemer: {0},reviewed,hrms,,,,,,,
-process,verwerken,reviewed,hrms,,,,,,,
-processed,verwerkt,reviewed,hrms,,,,,,,
-result,resultaat,reviewed,hrms,,,,,,,
-results,resultaten,reviewed,hrms,,,,,,,
-review,beoordeling,reviewed,hrms,,,,,,,
-reviews,beoordelingen,reviewed,hrms,,,,,,,
-submitted,ingediend,reviewed,hrms,,,,,,,
-via Salary Component sync,via Salariscomponent synchronisatie,reviewed,hrms,,,,,,,
-year,jaar,reviewed,hrms,,,,,,,
-years,jaren,reviewed,hrms,,,,,,,
-{0} & {1},{0} & {1},reviewed,hrms,,,,,,,
-{0} & {1} more,{0} & {1} meer,reviewed,hrms,,,,,,,
-{0} : {1},{0} : {1},reviewed,hrms,,,,,,,
-{0} <br> This error can be due to missing or deleted field.,{0} <br> Deze fout kan worden veroorzaakt door een ontbrekend of verwijderd veld.,reviewed,hrms,,,,,,,
-{0} Appraisal(s) are not submitted yet,{0} beoordeling(en) zijn nog niet ingediend,reviewed,hrms,,,,,,,
-{0} Field,{0} veld,reviewed,hrms,,,,,,,
-{0} Missing,{0} ontbreekt,reviewed,hrms,,,,,,,
-{0} Row #{1}: Formula is set but {2} is disabled for the Salary Component {3}.,{0} Rij #{1}: Er is een formule ingesteld maar {2} is uitgeschakeld voor de salariscomponent {3}.,reviewed,hrms,,,,,,,
-{0} Row #{1}: {2} needs to be enabled for the formula to be considered.,{0} Rij #{1}: {2} moet worden ingeschakeld om de formule mee te nemen.,reviewed,hrms,,,,,,,
-{0} Unread,{0} ongelezen,reviewed,hrms,,,,,,,
-{0} already allocated for Employee {1} for period {2} to {3},{0} is al toegewezen aan werknemer {1} voor de periode {2} tot {3},reviewed,hrms,,,,,,,
-{0} already exists for employee {1} and period {2},{0} bestaat al voor werknemer {1} en periode {2},reviewed,hrms,,,,,,,
-{0} already has an active Shift Assignment {1} for some/all of these dates.,{0} heeft al een actieve diensttoewijzing {1} voor een deel of alle van deze datums.,reviewed,hrms,,,,,,,
-{0} applicable after {1} working days,{0} van toepassing na {1} werkdagen,reviewed,hrms,,,,,,,
-{0} balance,{0} saldo,reviewed,hrms,,,,,,,
-{0} completed {1} {2},{0} voltooid {1} {2},reviewed,hrms,,,,,,,
-{0} created successfully!,{0} succesvol aangemaakt!,reviewed,hrms,,,,,,,
-{0} deleted successfully!,{0} succesvol verwijderd!,reviewed,hrms,,,,,,,
-{0} failed!,{0} mislukt!,reviewed,hrms,,,,,,,
-{0} has {1} enabled,{0} heeft {1} ingeschakeld,reviewed,hrms,,,,,,,
-{0} is an Accrual Component and this will be recorded as a payout in Employee Benefits Ledger,{0} is een opbouwcomponent en dit wordt geregistreerd als uitbetaling in het arbeidsvoorwaardenadministratieboek van de werknemer,reviewed,hrms,,,,,,,
-{0} is an invalid Attendance Status.,{0} is een ongeldige aanwezigheidsstatus.,reviewed,hrms,,,,,,,
-{0} is not a holiday.,{0} is geen feestdag.,reviewed,hrms,,,,,,,
-{0} is not allowed to submit Interview Feedback for the Interview: {1},{0} mag geen interviewfeedback indienen voor het sollicitatiegesprek: {1},reviewed,hrms,,,,,,,
-{0} is not in Optional Holiday List,{0} staat niet in de optionele feestdagenlijst,reviewed,hrms,,,,,,,
-{0} leaves allocated successfully,{0} verlofdagen succesvol toegewezen,reviewed,hrms,,,,,,,
-{0} leaves from allocation for {1} leave type have expired and will be processed during the next scheduled job. It is recommended to expire them now before creating new leave policy assignments.,{0} verlofdagen uit de toewijzing voor het verloftype {1} zijn verlopen en worden verwerkt bij de volgende geplande taak. Het wordt aanbevolen deze nu te laten verlopen voordat u nieuwe verlofbeleidstoewijzingen aanmaakt.,reviewed,hrms,,,,,,,
-{0} leaves were manually allocated by {1} on {2},{0} verlofdagen zijn handmatig toegewezen door {1} op {2},reviewed,hrms,,,,,,,
-{0} must be submitted,{0} moet worden ingediend,reviewed,hrms,,,,,,,
-{0} of {1} Completed,{0} van {1} voltooid,reviewed,hrms,,,,,,,
-{0} successful!,{0} geslaagd!,reviewed,hrms,,,,,,,
-{0} successfully!,{0} succesvol!,reviewed,hrms,,,,,,,
-{0} to {1} employee(s)?,{0} voor {1} werknemer(s)?,reviewed,hrms,,,,,,,
-{0} updated successfully!,{0} succesvol bijgewerkt!,reviewed,hrms,,,,,,,
-{0} vacancies and {1} budget for {2} already planned for subsidiary companies of {3}. You can only plan for upto {4} vacancies and and budget {5} as per staffing plan {6} for parent company {3}.,{0} vacatures en {1} Budget voor {2} zijn al gepland voor dochterondernemingen van {3}. U kunt maximaal {4} vacatures en Budget {5} plannen volgens het personeelsplan {6} voor de moedermaatschappij {3}.,reviewed,hrms,,,,,,,
-{0} will be updated for the following Salary Structures: {1}.,{0} wordt bijgewerkt voor de volgende salarisstructuren: {1}.,reviewed,hrms,,,,,,,
-{0} {1} {2}?,{0} {1} {2}?,reviewed,hrms,,,,,,,
-{0}. Check error log for more details.,{0}. Raadpleeg het foutenlogboek voor meer details.,reviewed,hrms,,,,,,,
-"{0}: Employee email not found, hence email not sent","{0}: E-mailadres van werknemer niet gevonden, e-mail niet verzonden",reviewed,hrms,,,,,,,
-{0}: From {0} of type {1},{0}: Van {0} van het type {1},reviewed,hrms,,,,,,,
-{0}d,{0}d,reviewed,hrms,,,,,,,
-{} {} open for this position.,{} {} open voor deze functie.,reviewed,hrms,,,,,,,
- (New), (Nieuwe),reviewed,crm,,,,,,,
-%John%,%John%,reviewed,crm,,,,,,,
-(No Title),(Geen Titel),reviewed,crm,,,,,,,
-01/01/2022 to 01/31/2022,01/01/2022 tot 31/01/2022,reviewed,crm,,,,,,,
-01/04/2024 11:30 PM,01/04/2024 23:30,reviewed,crm,,,,,,,
-08:00 AM,08:00,reviewed,crm,,,,,,,
-08:00 pm,20:00,reviewed,crm,,,,,,,
+Upcoming Holidays Reminder,Herinnering aankomende feestdagen,reviewed,hrms,0.86,0.85,0.8,0.9,0.85,1.0,ok
+Upcoming Shifts,Aankomende diensten,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Update Expense,Declaratie bijwerken,reviewed,hrms,0.83,0.8,0.85,0.75,1.0,1.0,ok
+Update Job Applicant,Sollicitant bijwerken,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Update Progress,Voortgang bijwerken,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Update Response,Antwoord bijwerken,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Update Salary Structures,Salarisstructuren bijwerken,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Update Status,Status bijwerken,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Update Tax,Belasting bijwerken,reviewed,hrms,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Updated status from {0} to {1} for date {2} in the attendance record {3},Status bijgewerkt van {0} naar {1} voor datum {2} in aanwezigheidsrecord {3},reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Updated the Job Applicant status to {0},Status van sollicitant bijgewerkt naar {0},reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Updated the status of Job Offer {0} for the linked Job Applicant {1} to {2},Status van baanaanbieding {0} voor de gekoppelde sollicitant {1} bijgewerkt naar {2},reviewed,hrms,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Updated the status of linked Job Applicant {0} to {1},Status van gekoppelde sollicitant {0} bijgewerkt naar {1},reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Upload Attendance,Aanwezigheid uploaden,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Upload HTML,HTML uploaden,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Upload images or documents,Afbeeldingen of documenten uploaden,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Uploading...,Bezig met uploaden...,reviewed,hrms,0.93,0.9,0.95,0.9,1.0,1.0,ok
+Upper Range,Bovengrens,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Used Leave(s),Opgenomen verlof(dagen),reviewed,hrms,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Used Leaves,Opgenomen verlof,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Vacancies,Vacatures,reviewed,hrms,0.97,0.95,1.0,0.95,1.0,1.0,ok
+Vacancies cannot be lower than the current openings,Het aantal vacatures kan niet lager zijn dan de huidige openstaande posities,reviewed,hrms,0.87,0.85,0.8,0.85,0.95,1.0,ok
+Vacancies fulfilled,Vacatures vervuld,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Validate Attendance,Aanwezigheid valideren,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Validating Employee Attendance...,Aanwezigheid werknemer valideren...,reviewed,hrms,0.84,0.85,0.75,0.85,0.85,1.0,ok
+Value / Description,Waarde / Omschrijving,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Value missing,Waarde ontbreekt,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Variable,Variabel,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Variable Based On Taxable Salary,Variabel op basis van belastbaar salaris,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Vegetarian,Vegetarisch,reviewed,hrms,0.97,0.95,1.0,0.95,1.0,1.0,ok
+Vehicle Log,Voertuiglogboek,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Vehicle Service,Voertuigonderhoud,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Vehicle Service Item,Onderhoudpost voertuig,reviewed,hrms,0.74,0.75,0.65,0.7,0.7,1.0,review
+View Goals,Doelen bekijken,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+View Leave History,Verlofhistorie bekijken,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+View Salary Slips,Loonstroken bekijken,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Violet,Violet,reviewed,hrms,0.97,0.95,1.0,0.95,1.0,1.0,ok
+WARNING: Loan Management module has been separated from ERPNext.,WAARSCHUWING: De module Leningenbeheer is afgesplitst van ERPNext.,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Warning: Insufficient leave balance for Leave Type {0} in this allocation.,Waarschuwing: Onvoldoende verlofsaldo voor verlofsoort {0} in deze toewijzing.,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Warning: Insufficient leave balance for Leave Type {0}.,Waarschuwing: Onvoldoende verlofsaldo voor verlofsoort {0}.,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Warning: Leave application contains following block dates,Waarschuwing: Verlofaanvraag bevat de volgende geblokkeerde datums,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Warning: {0} already has an active Shift Assignment {1} for some/all of these dates.,Waarschuwing: {0} heeft al een actieve diensttoewijzing {1} voor sommige of alle van deze datums.,reviewed,hrms,0.84,0.85,0.75,0.85,0.85,1.0,ok
+Website Listing,Websitevermelding,reviewed,hrms,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Weekend Multiplier,Weekendvermenigvuldiger,reviewed,hrms,0.76,0.8,0.6,0.75,0.85,1.0,review
+Weightage (%),Weging (%),reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+"When set to 'Inactive', employees with conflicting active shifts will not be excluded.","Als dit op 'Inactief' staat, worden werknemers met conflicterende actieve diensten niet uitgesloten.",reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Whereas allocation for Compensatory Leaves is automatically created or updated on submission of Compensatory Leave Request.,De toewijzing voor compensatieverlof wordt automatisch aangemaakt of bijgewerkt bij het indienen van een compensatieverlofaanvraag.,reviewed,hrms,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Why is this Candidate Qualified for this Position?,Waarom is deze kandidaat gekwalificeerd voor deze functie?,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Withheld,Ingehouden,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Work Anniversaries ,Dienstjubilea,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Work Anniversary Reminder,Herinnering dienstjubileum,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Work End Date,Einddatum werk,reviewed,hrms,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Work Experience Calculation Method,Berekeningsmethode werkervaring,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Work From Date,Startdatum werk,reviewed,hrms,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Work From Home,Thuiswerken,reviewed,hrms,0.97,0.95,1.0,0.95,1.0,1.0,ok
+Work References,Werkreferenties,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Work Summary for {0},Werkoverzicht voor {0},reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Worked On Holiday,Gewerkt op feestdag,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Working Days,Werkdagen,reviewed,hrms,0.97,0.95,1.0,0.95,1.0,1.0,ok
+Working Days and Hours,Werkdagen en uren,reviewed,hrms,0.96,0.95,0.95,0.95,1.0,1.0,ok
+Working Hours Calculation Based On,Berekening werkuren op basis van,reviewed,hrms,0.84,0.85,0.75,0.85,0.85,1.0,ok
+Working Hours Threshold for Absent,Drempelwaarde werkuren voor afwezigheid,reviewed,hrms,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Working Hours Threshold for Half Day,Drempelwaarde werkuren voor halve dag,reviewed,hrms,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Working hours below which Absent is marked. (Zero to disable),Werkuren waaronder Afwezig wordt gemarkeerd. (Nul om uit te schakelen),reviewed,hrms,0.83,0.85,0.75,0.85,0.85,1.0,ok
+Working hours below which Half Day is marked. (Zero to disable),Werkuren waaronder Halve dag wordt gemarkeerd. (Nul om uit te schakelen),reviewed,hrms,0.83,0.85,0.75,0.85,0.85,1.0,ok
+Workshop,Workshop,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Year To Date,Jaar tot datum,reviewed,hrms,0.7,0.7,0.55,0.7,0.75,1.0,review
+Year To Date(Company Currency),Jaar tot datum (bedrijfsvaluta),reviewed,hrms,0.7,0.7,0.55,0.7,0.75,1.0,review
+Yearly Amount,Jaarbedrag,reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+Yearly Benefit,Jaarlijkse vergoeding,reviewed,hrms,0.91,0.9,0.85,0.9,1.0,1.0,ok
+"Yes, Proceed","Ja, doorgaan",reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+You are not authorized to approve leaves on Block Dates,U bent niet gemachtigd om verlof goed te keuren op geblokkeerde datums,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+You are not present all day(s) between compensatory leave request days,U was niet aanwezig op alle dag(en) tussen de aangevraagde compensatieverlofperiode,reviewed,hrms,0.83,0.85,0.75,0.85,0.8,1.0,ok
+You can not define multiple slabs if you have a slab with no lower and upper limits.,U kunt geen meerdere schijven definiëren als er een schijf zonder onder- en bovengrenzen bestaat.,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+You can not request for your Default Shift: {0},U kunt geen aanvraag indienen voor uw standaarddienst: {0},reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+You can only plan for upto {0} vacancies and budget {1} for {2} as per staffing plan {3} for parent company {4}.,U kunt maximaal {0} vacatures en Budget {1} plannen voor {2} conform personeelsplan {3} voor moedermaatschappij {4}.,reviewed,hrms,0.8,0.8,0.7,0.8,0.8,1.0,ok
+You can only submit Leave Encashment for a valid encashment amount,U kunt een verlofuitbetaling alleen indienen voor een geldig uitbetalingsbedrag,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+"You can only upload JPG, PNG, PDF, TXT or Microsoft documents.","U kunt alleen JPG-, PNG-, PDF-, TXT- of Microsoft-documenten uploaden.",reviewed,hrms,0.92,0.9,0.9,0.9,1.0,1.0,ok
+You cannot reverse more than the total LWP days {0}. You have already reversed {1} days for this employee.,U kunt niet meer dan het totale aantal LWP-dagen {0} terugdraaien. U heeft al {1} dagen teruggedraaid voor deze werknemer.,reviewed,hrms,0.86,0.85,0.8,0.85,0.9,1.0,ok
+You do not have permission to complete this action,U heeft geen toestemming om deze actie uit te voeren,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
+You have no advances,U heeft geen voorschotten,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
+You have no leaves allocated,U heeft geen verlof toegewezen gekregen,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+You have no notifications,U heeft geen meldingen,reviewed,hrms,0.91,0.9,0.9,0.9,0.9,1.0,ok
+You have no requests,U heeft geen verzoeken,reviewed,hrms,0.91,0.9,0.9,0.9,0.9,1.0,ok
+You have no upcoming holidays,U heeft geen aankomende feestdagen,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
+You have no upcoming shifts,U heeft geen aankomende diensten,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
+"You may add additional details, if any, and submit the offer.","U kunt aanvullende details toevoegen, indien van toepassing, en het aanbod indienen.",reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+You must be within {0} meters of your shift location to check in.,U moet zich binnen {0} meter van uw dienstlocatie bevinden om in te klokken.,reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+You were only present for Half Day on {}. Cannot apply for a full day compensatory leave,U was op {} slechts een halve dag aanwezig. U kunt geen aanvraag indienen voor een volledige dag compensatieverlof.,reviewed,hrms,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Your Interview session is rescheduled from {0} {1} - {2} to {3} {4} - {5},Uw sollicitatiegesprek is verzet van {0} {1} - {2} naar {3} {4} - {5},reviewed,hrms,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Your password has expired. Please reset your password to continue,Uw wachtwoord is verlopen. Stel uw wachtwoord opnieuw in om door te gaan.,reviewed,hrms,0.97,0.95,0.95,0.95,1.0,1.0,ok
+active,actief,reviewed,hrms,0.94,0.9,1.0,0.9,1.0,1.0,ok
+based on,gebaseerd op,reviewed,hrms,0.93,0.9,0.95,0.9,1.0,1.0,ok
+cancellation,annulering,reviewed,hrms,0.93,0.9,0.95,0.9,1.0,1.0,ok
+cancelled,geannuleerd,reviewed,hrms,0.93,0.9,0.95,0.9,1.0,1.0,ok
+create/submit,aanmaken/indienen,reviewed,hrms,0.88,0.85,0.85,0.85,1.0,1.0,ok
+here,Hier,reviewed,hrms,0.67,0.6,0.7,0.6,0.8,1.0,review
+johndoe@mail.com,johndoe@mail.com,reviewed,hrms,0.97,0.95,1.0,0.95,1.0,1.0,ok
+modify_half_day_status,modify_half_day_status,reviewed,hrms,0.22,0.1,0.0,0.5,0.5,0.0,rewrite
+or for the Employee's Department: {0},of voor de afdeling van de werknemer: {0},reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+process,verwerken,reviewed,hrms,0.78,0.7,0.8,0.8,0.9,1.0,review
+processed,verwerkt,reviewed,hrms,0.94,0.9,0.95,0.9,1.0,1.0,ok
+result,resultaat,reviewed,hrms,0.97,0.9,1.0,1.0,1.0,1.0,ok
+results,resultaten,reviewed,hrms,0.97,0.9,1.0,1.0,1.0,1.0,ok
+review,beoordeling,reviewed,hrms,0.86,0.8,0.85,0.85,1.0,1.0,ok
+reviews,beoordelingen,reviewed,hrms,0.9,0.85,0.9,0.9,1.0,1.0,ok
+submitted,ingediend,reviewed,hrms,0.9,0.85,0.9,0.9,1.0,1.0,ok
+via Salary Component sync,via Salariscomponent synchronisatie,reviewed,hrms,0.68,0.7,0.6,0.7,0.6,0.9,review
+year,jaar,reviewed,hrms,0.97,0.9,1.0,1.0,1.0,1.0,ok
+years,jaren,reviewed,hrms,0.97,0.9,1.0,1.0,1.0,1.0,ok
+{0} & {1},{0} & {1},reviewed,hrms,0.86,0.7,0.9,0.9,1.0,1.0,ok
+{0} & {1} more,{0} & {1} meer,reviewed,hrms,0.78,0.75,0.7,0.8,0.8,1.0,review
+{0} : {1},{0} : {1},reviewed,hrms,0.86,0.7,0.9,0.9,1.0,1.0,ok
+{0} <br> This error can be due to missing or deleted field.,{0} <br> Deze fout kan worden veroorzaakt door een ontbrekend of verwijderd veld.,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
+{0} Appraisal(s) are not submitted yet,{0} beoordeling(en) zijn nog niet ingediend,reviewed,hrms,0.88,0.85,0.85,0.85,0.9,1.0,ok
+{0} Field,{0} veld,reviewed,hrms,0.85,0.8,0.85,0.85,0.9,1.0,ok
+{0} Missing,{0} ontbreekt,reviewed,hrms,0.9,0.85,0.9,0.9,0.95,1.0,ok
+{0} Row #{1}: Formula is set but {2} is disabled for the Salary Component {3}.,{0} Rij #{1}: Er is een formule ingesteld maar {2} is uitgeschakeld voor de salariscomponent {3}.,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
+{0} Row #{1}: {2} needs to be enabled for the formula to be considered.,{0} Rij #{1}: {2} moet worden ingeschakeld om de formule mee te nemen.,reviewed,hrms,0.86,0.85,0.8,0.85,0.85,1.0,ok
+{0} Unread,{0} ongelezen,reviewed,hrms,0.9,0.85,0.9,0.9,1.0,1.0,ok
+{0} already allocated for Employee {1} for period {2} to {3},{0} is al toegewezen aan werknemer {1} voor de periode {2} tot {3},reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+{0} already exists for employee {1} and period {2},{0} bestaat al voor werknemer {1} en periode {2},reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+{0} already has an active Shift Assignment {1} for some/all of these dates.,{0} heeft al een actieve diensttoewijzing {1} voor een deel of alle van deze datums.,reviewed,hrms,0.83,0.85,0.75,0.85,0.75,1.0,ok
+{0} applicable after {1} working days,{0} van toepassing na {1} werkdagen,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+{0} balance,{0} saldo,reviewed,hrms,0.9,0.85,0.9,0.9,1.0,1.0,ok
+{0} completed {1} {2},{0} voltooid {1} {2},reviewed,hrms,0.62,0.6,0.55,0.7,0.55,0.9,review
+{0} created successfully!,{0} succesvol aangemaakt!,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+{0} deleted successfully!,{0} succesvol verwijderd!,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+{0} failed!,{0} mislukt!,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+{0} has {1} enabled,{0} heeft {1} ingeschakeld,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
+{0} is an Accrual Component and this will be recorded as a payout in Employee Benefits Ledger,{0} is een opbouwcomponent en dit wordt geregistreerd als uitbetaling in het arbeidsvoorwaardenadministratieboek van de werknemer,reviewed,hrms,0.73,0.7,0.6,0.75,0.8,1.0,review
+{0} is an invalid Attendance Status.,{0} is een ongeldige aanwezigheidsstatus.,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
+{0} is not a holiday.,{0} is geen feestdag.,reviewed,hrms,0.91,0.85,0.9,0.9,1.0,1.0,ok
+{0} is not allowed to submit Interview Feedback for the Interview: {1},{0} mag geen interviewfeedback indienen voor het sollicitatiegesprek: {1},reviewed,hrms,0.88,0.85,0.85,0.85,0.9,1.0,ok
+{0} is not in Optional Holiday List,{0} staat niet in de optionele feestdagenlijst,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
+{0} leaves allocated successfully,{0} verlofdagen succesvol toegewezen,reviewed,hrms,0.9,0.9,0.85,0.9,0.9,1.0,ok
+{0} leaves from allocation for {1} leave type have expired and will be processed during the next scheduled job. It is recommended to expire them now before creating new leave policy assignments.,{0} verlofdagen uit de toewijzing voor het verloftype {1} zijn verlopen en worden verwerkt bij de volgende geplande taak. Het wordt aanbevolen deze nu te laten verlopen voordat u nieuwe verlofbeleidstoewijzingen aanmaakt.,reviewed,hrms,0.87,0.9,0.8,0.85,0.85,1.0,ok
+{0} leaves were manually allocated by {1} on {2},{0} verlofdagen zijn handmatig toegewezen door {1} op {2},reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+{0} must be submitted,{0} moet worden ingediend,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+{0} of {1} Completed,{0} van {1} voltooid,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
+{0} successful!,{0} geslaagd!,reviewed,hrms,0.79,0.75,0.7,0.75,0.9,1.0,review
+{0} successfully!,{0} succesvol!,reviewed,hrms,0.87,0.85,0.85,0.85,0.9,1.0,ok
+{0} to {1} employee(s)?,{0} voor {1} werknemer(s)?,reviewed,hrms,0.75,0.7,0.7,0.8,0.8,0.9,review
+{0} updated successfully!,{0} succesvol bijgewerkt!,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+{0} vacancies and {1} budget for {2} already planned for subsidiary companies of {3}. You can only plan for upto {4} vacancies and and budget {5} as per staffing plan {6} for parent company {3}.,{0} vacatures en {1} Budget voor {2} zijn al gepland voor dochterondernemingen van {3}. U kunt maximaal {4} vacatures en Budget {5} plannen volgens het personeelsplan {6} voor de moedermaatschappij {3}.,reviewed,hrms,0.78,0.8,0.75,0.7,0.75,1.0,review
+{0} will be updated for the following Salary Structures: {1}.,{0} wordt bijgewerkt voor de volgende salarisstructuren: {1}.,reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+{0} {1} {2}?,{0} {1} {2}?,reviewed,hrms,0.87,0.7,0.9,0.9,1.0,1.0,ok
+{0}. Check error log for more details.,{0}. Raadpleeg het foutenlogboek voor meer details.,reviewed,hrms,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"{0}: Employee email not found, hence email not sent","{0}: E-mailadres van werknemer niet gevonden, e-mail niet verzonden",reviewed,hrms,0.92,0.9,0.9,0.9,0.95,1.0,ok
+{0}: From {0} of type {1},{0}: Van {0} van het type {1},reviewed,hrms,0.8,0.75,0.75,0.8,0.85,1.0,ok
+{0}d,{0}d,reviewed,hrms,0.57,0.5,0.5,0.6,0.7,0.8,review
+{} {} open for this position.,{} {} open voor deze functie.,reviewed,hrms,0.72,0.7,0.65,0.75,0.7,0.9,review
+ (New), (Nieuwe),reviewed,crm,0.49,0.5,0.4,0.5,0.4,0.9,rewrite
+%John%,%John%,reviewed,crm,0.89,0.8,0.9,0.9,1.0,1.0,ok
+(No Title),(Geen Titel),reviewed,crm,0.73,0.7,0.7,0.75,0.75,1.0,review
+01/01/2022 to 01/31/2022,01/01/2022 tot 31/01/2022,reviewed,crm,0.94,0.9,0.95,0.9,1.0,1.0,ok
+01/04/2024 11:30 PM,01/04/2024 23:30,reviewed,crm,0.96,0.9,1.0,0.9,1.0,1.0,ok
+08:00 AM,08:00,reviewed,crm,0.96,0.9,1.0,0.9,1.0,1.0,ok
+08:00 pm,20:00,reviewed,crm,0.96,0.9,1.0,0.9,1.0,1.0,ok
 "<p>Dear {{ lead_name }},</p>\
 \
 <p>This is a reminder for the payment of {{ grand_total }}.</p>\
@@ -14328,145 +14328,145 @@ years,jaren,reviewed,hrms,,,,,,,
 <p>Dit is een herinnering voor de betaling van {{ grand_total }}.</p>\
 \
 <p>Met vriendelijke groet,</p>\
-<p>Frappe</p>",reviewed,crm,,,,,,,
-"@John, can you please check this?","@John, kunt u dit controleren alstublieft?",reviewed,crm,,,,,,,
-A lead sync source is already enabled for this Facebook Lead Form!,Een lead sync bron is al ingeschakeld voor dit Facebook Lead formulier!,reviewed,crm,,,,,,,
-A valid call log is required.,Een geldig gesprekslogboek is vereist.,reviewed,crm,,,,,,,
-API Key,API-sleutel,reviewed,crm,,,,,,,
-API Secret,API-geheim,reviewed,crm,,,,,,,
-API key is required,API-sleutel is vereist,reviewed,crm,,,,,,,
-Accept,Accepteer,reviewed,crm,,,,,,,
-Accept Call,Gesprek accepteren,reviewed,crm,,,,,,,
-Accept Invitation,Accepteer uitnodiging,reviewed,crm,,,,,,,
-Accepted At,Geaccepteerd op,reviewed,crm,,,,,,,
-Access Denied,Toegang geweigerd,reviewed,crm,,,,,,,
-Access Key,Toegangssleutel,reviewed,crm,,,,,,,
-Access Key is required for Service Provider: {0},Toegangssleutel vereist voor serviceprovider: {0},reviewed,crm,,,,,,,
-Access token is required,Een toegangstoken is vereist,reviewed,crm,,,,,,,
-Account Info & Security,Account info en beveiliging,reviewed,crm,,,,,,,
-Account name is required,De accountnaam is verplicht,reviewed,crm,,,,,,,
-Add Account,Account toevoegen,reviewed,crm,,,,,,,
-Add Assignee,Gemachtigde toevoegen,reviewed,crm,,,,,,,
-Add Attendee,Deelnemer toevoegen,reviewed,crm,,,,,,,
-Add Chart,Grafiek toevoegen,reviewed,crm,,,,,,,
-Add Condition,Voorwaarde toevoegen,reviewed,crm,,,,,,,
-Add Condition Group,Voorwaardegroep toevoegen,reviewed,crm,,,,,,,
-Add Description,Beschrijving toevoegen,reviewed,crm,,,,,,,
-Add Description.,Beschrijving toevoegen.,reviewed,crm,,,,,,,
-Add Email,E-mailadres toevoegen,reviewed,crm,,,,,,,
-Add Existing User,Bestaande gebruiker toevoegen,reviewed,crm,,,,,,,
-Add Field,Veld toevoegen,reviewed,crm,,,,,,,
-Add Lead or Deal,Lead of deal toevoegen,reviewed,crm,,,,,,,
-Add Location,Locatie toevoegen,reviewed,crm,,,,,,,
-Add Mobile Number...,Mobiel nummer toevoegen...,reviewed,crm,,,,,,,
-Add Note,Notitie toevoegen,reviewed,crm,,,,,,,
-Add Notification,Melding toevoegen,reviewed,crm,,,,,,,
-Add Organization...,Organisatie toevoegen...,reviewed,crm,,,,,,,
-Add Sample Data,Voorbeeldgegevens toevoegen,reviewed,crm,,,,,,,
-Add Section,Sectie toevoegen,reviewed,crm,,,,,,,
-Add Sort,Sorteren toevoegen,reviewed,crm,,,,,,,
-Add Tab,Tab toevoegen,reviewed,crm,,,,,,,
-Add Task,Taak toevoegen,reviewed,crm,,,,,,,
-Add a Condition,Een voorwaarde toevoegen,reviewed,crm,,,,,,,
-Add a Custom Condition,Een aangepaste voorwaarde toevoegen,reviewed,crm,,,,,,,
-Add a Note,Een notitie toevoegen,reviewed,crm,,,,,,,
-Add a Task,Een taak toevoegen,reviewed,crm,,,,,,,
-Add a name for your source,Voeg een naam toe voor uw bron,reviewed,crm,,,,,,,
-Add description...,Beschrijving toevoegen...,reviewed,crm,,,,,,,
-Add existing system users to this CRM. Assign them a role to grant access with their current credentials.,Voeg bestaande systeemgebruikers toe aan deze CRM. Wijs hen een rol toe om toegang te verlenen met hun huidige inloggegevens.,reviewed,crm,,,,,,,
-Add one to get started.,Voeg er een toe om te beginnen.,reviewed,crm,,,,,,,
-Add svg code or use feather icons e.g 'settings',"Voeg SVG-code toe of gebruik Feather-pictogrammen, bijv. 'settings'",reviewed,crm,,,,,,,
-Add time targets around support milestones like first response,Stel tijdsdoelen in rondom ondersteuningsijkpunten zoals eerste reactie,reviewed,crm,,,,,,,
-Add your first comment,Plaats uw eerste commentaar,reviewed,crm,,,,,,,
-"Add, edit, and manage email templates for various CRM communications","Voeg e-mailsjablonen toe, bewerk ze en beheer ze voor diverse CRM-communicatie",reviewed,crm,,,,,,,
-"Add, edit, and manage sources for automatic lead syncing to your CRM","Voeg bronnen toe, bewerk ze en beheer ze voor automatische synchronisatie van leads met uw CRM.",reviewed,crm,,,,,,,
-"Agent is unavailable to take the call, please call after some time.",Een medewerker is momenteel niet beschikbaar om de oproep aan te nemen. Kunt u later nog eens terugbellen?,reviewed,crm,,,,,,,
-All Day Event Notifications,Meldingen voor evenementen de hele dag,reviewed,crm,,,,,,,
-All available priorities have already been added,Alle beschikbare prioriteiten zijn al toegevoegd,reviewed,crm,,,,,,,
-Amount after discount,Bedrag na korting,reviewed,crm,,,,,,,
-An error occurred,Er is een fout opgetreden,reviewed,crm,,,,,,,
-An error occurred while updating the document,Er is een fout opgetreden tijdens het bijwerken van het document.,reviewed,crm,,,,,,,
-An image with 1:1 & 2:1 ratio is preferred,Een afbeelding met een verhouding van 1:1 en 2:1 heeft de voorkeur.,reviewed,crm,,,,,,,
-And,En,reviewed,crm,,,,,,,
-Annual Revenue,Jaarlijkse omzet,reviewed,crm,,,,,,,
-Annual Revenue should be a number,Jaarlijkse omzet moet een getal zijn,reviewed,crm,,,,,,,
-Any failed lead syncs will show up here,Elke mislukte lead synchronisatie verschijnt hier,reviewed,crm,,,,,,,
-Appears in the left sidebar. Recommended size is 32x32 px in PNG or SVG,Verschijnt in de linker zijbalk. Aanbevolen grootte is 32x32 px in PNG of SVG,reviewed,crm,,,,,,,
-Appears next to the title in your browser tab. Recommended size is 32x32 px in PNG or ICO,Verschijnt naast de titel in uw browsertabblad. Aanbevolen grootte is 32x32 px in PNG of ICO,reviewed,crm,,,,,,,
-Apply To,Toepassen op,reviewed,crm,,,,,,,
-Are you sure you want to clear demo data? This action cannot be undone.,Weet u zeker dat u de demogegevens wilt wissen? Deze actie kan niet ongedaan worden gemaakt.,reviewed,crm,,,,,,,
-Are you sure you want to delete this attachment?,Weet u zeker dat u deze bijlage wilt verwijderen?,reviewed,crm,,,,,,,
-Are you sure you want to delete this contact?,Weet u zeker dat u deze contactpersoon wilt verwijderen?,reviewed,crm,,,,,,,
-Are you sure you want to delete this event?,Weet u zeker dat u deze gebeurtenis wilt verwijderen?,reviewed,crm,,,,,,,
-Are you sure you want to delete this organization?,Weet u zeker dat u deze organisatie wilt verwijderen?,reviewed,crm,,,,,,,
-Are you sure you want to delete this task?,Weet u zeker dat u deze taak wilt verwijderen?,reviewed,crm,,,,,,,
-Are you sure you want to delete {0} linked item(s)?,Weet u zeker dat u {0} gekoppeld(e) item(s) wilt verwijderen?,reviewed,crm,,,,,,,
-Are you sure you want to discard unsaved changes to this event?,Weet u zeker dat u niet opgeslagen wijzigingen in deze gebeurtenis wilt verwijderen?,reviewed,crm,,,,,,,
-Are you sure you want to go back? Unsaved changes will be lost.,Weet u zeker dat u terug wilt gaan? Niet-opgeslagen wijzigingen zullen verloren gaan.,reviewed,crm,,,,,,,
-Are you sure you want to login to your Frappe Cloud dashboard?,Weet u zeker dat u wilt inloggen op uw Frappe Cloud Dashboard?,reviewed,crm,,,,,,,
-Are you sure you want to reset 'Create Quotation from CRM Deal' Form Script?,Weet u zeker dat u het formulierscript 'Offerte aanmaken vanuit CRM Deal' wilt resetten?,reviewed,crm,,,,,,,
-Are you sure you want to set the currency as {0}? This cannot be changed later.,Weet u zeker dat u de valuta wilt instellen als {0}? Dit kan later niet meer veranderd worden.,reviewed,crm,,,,,,,
-Are you sure you want to unlink {0} linked item(s)?,Weet u zeker dat u {0} gelinkte item(s) wilt ontkoppelen?,reviewed,crm,,,,,,,
-"Ask your manager to set up the Exchange Rate Provider, as default provider does not support currency conversion for {0} to {1}.","Vraag uw manager om de wisselkoers-provider in te stellen, aangezien de standaardprovider geen ondersteuning biedt voor het omrekenen van valuta voor {0} naar {1}.",reviewed,crm,,,,,,,
-Assign Condition is required,Toewijzingsvoorwaarde is vereist,reviewed,crm,,,,,,,
-Assign Conditions are invalid,Toewijzingsvoorwaarden zijn ongeldig,reviewed,crm,,,,,,,
-Assign To Me,Aan mij toewijzen,reviewed,crm,,,,,,,
-Assignee Rules,Toegewezen regels,reviewed,crm,,,,,,,
-Assignees,Toegewezenen,reviewed,crm,,,,,,,
-Assignment Cleared Successfully,Toewijzing succesvol gewist,reviewed,crm,,,,,,,
-Assignment Condition,Toewijzingsvoorwaarde,reviewed,crm,,,,,,,
-Assignment Days are required,Toewijzingsdagen zijn vereist,reviewed,crm,,,,,,,
-Assignment Rule Created,Toewijzingsregel aangemaakt,reviewed,crm,,,,,,,
-Assignment Rule Deleted,Toewijzingsregel verwijderd,reviewed,crm,,,,,,,
-Assignment Rule Duplicated,Toewijzingsregel gedupliceerd,reviewed,crm,,,,,,,
-Assignment Rule Updated,Toewijzingsregel bijgewerkt,reviewed,crm,,,,,,,
-Assignment Rule {0} Updated,Toewijzingsregel {0} bijgewerkt,reviewed,crm,,,,,,,
-Assignment Schedule,Toewijzingsschema,reviewed,crm,,,,,,,
-Assignment conditions,Toewijzingsvoorwaarden,reviewed,crm,,,,,,,
-"Assignment conditions are invalid or corrupt, recreate the conditions.",Toewijzingsvoorwaarden zijn ongeldig of beschadigd. Maak de voorwaarden opnieuw aan.,reviewed,crm,,,,,,,
-At least one priority is required,Ten minste een prioriteit is vereist,reviewed,crm,,,,,,,
-"At least one valid Workday with Workday, Start Time, and End Time is required","Ten minste een geldige werkdag met werkdag, begintijd en eindtijd is vereist",reviewed,crm,,,,,,,
-Attach a File,Bestand bijvoegen,reviewed,crm,,,,,,,
-Attending status updated,Aanwezigheidsstatus bijgewerkt,reviewed,crm,,,,,,,
-Auto Update of Expected Deal Value disabled,Automatisch bijwerken van verwachte dealwaarde uitgeschakeld,reviewed,crm,,,,,,,
-Auto Update of Expected Deal Value enabled,Automatisch bijwerken van verwachte dealwaarde ingeschakeld,reviewed,crm,,,,,,,
-Auto update Expected Deal Value,Verwachte dealwaarde automatisch bijwerken,reviewed,crm,,,,,,,
-Auto-assign leads/deals to the right sales user based on predefined conditions,Wijs leads/deals automatisch toe aan de juiste verkoopmedewerker op basis van vooraf bepaalde voorwaarden,reviewed,crm,,,,,,,
-Auto-generated from the portal view — do not edit directly unless you know what you're doing! ,"Automatisch gegenereerd vanuit de portalweergave. Bewerk dit niet rechtstreeks, tenzij u weet wat u doet.",reviewed,crm,,,,,,,
-Autocomplete,Automatisch aanvullen,reviewed,crm,,,,,,,
-Automatically sets Communication Status to “Open” for the lead or deal when a new communication is created. Applies only when SLA is enabled,Stelt de communicatiestatus automatisch in op 'Open' voor de lead of deal wanneer een nieuwe communicatie wordt aangemaakt. Alleen van toepassing als SLA is ingeschakeld.,reviewed,crm,,,,,,,
-Automatically sets Communication Status to “Replied” for the lead or deal when a response is received. Applies only when SLA is enabled,Stelt de communicatiestatus automatisch in op 'Beantwoord' voor de lead of deal wanneer een reactie is ontvangen. Alleen van toepassing als SLA is ingeschakeld.,reviewed,crm,,,,,,,
-Avg Deal Value,Gemiddelde dealwaarde,reviewed,crm,,,,,,,
-Avg Ongoing Deal Value,Gemiddelde lopende dealwaarde,reviewed,crm,,,,,,,
-Avg Time to Close a Deal,Gemiddelde sluitingstijd van een deal,reviewed,crm,,,,,,,
-Avg Time to Close a Lead,Gemiddelde sluitingstijd van een lead,reviewed,crm,,,,,,,
-Avg Won Deal Value,Gemiddelde waarde van gewonnen deals,reviewed,crm,,,,,,,
-Axis Chart,Asgrafiek,reviewed,crm,,,,,,,
-Back,Terug,reviewed,crm,,,,,,,
-Back to All Logs,Terug naar alle logs,reviewed,crm,,,,,,,
-Back to File Upload,Terug naar bestandsupload,reviewed,crm,,,,,,,
-Background Sync Frequency,Achtergrond-synchronisatiefrequentie,reviewed,crm,,,,,,,
-Brand Logo,Merklogo,reviewed,crm,,,,,,,
-Brand Settings,Merkinstellingen,reviewed,crm,,,,,,,
-Branding,Huisstijl,reviewed,crm,,,,,,,
-Bulk Edit,Bulkbewerking,reviewed,crm,,,,,,,
-CRM Call Log,CRM-oproepenlog,reviewed,crm,,,,,,,
-CRM Communication Status,CRM-communicatiestatus,reviewed,crm,,,,,,,
-CRM Contacts,CRM-contacten,reviewed,crm,,,,,,,
-CRM Dropdown Item,CRM-dropdownitem,reviewed,crm,,,,,,,
-CRM Exotel Settings,CRM Exotel-instellingen,reviewed,crm,,,,,,,
-CRM Fields Layout,CRM-veldindeling,reviewed,crm,,,,,,,
-CRM Form Script,CRM-formulierscript,reviewed,crm,,,,,,,
-CRM Global Settings,CRM algemene instellingen,reviewed,crm,,,,,,,
-CRM Holiday,CRM-vakantiedag,reviewed,crm,,,,,,,
-CRM Holiday List,CRM-vakantielijst,reviewed,crm,,,,,,,
-CRM Industry,CRM-branche,reviewed,crm,,,,,,,
-CRM Invitation,CRM-uitnodiging,reviewed,crm,,,,,,,
-CRM Lead Source,CRM Lead-bron,reviewed,crm,,,,,,,
-CRM Lead Status,CRM Lead-status,reviewed,crm,,,,,,,
-CRM Lost Reason,CRM-verlorenreden,reviewed,crm,,,,,,,
-CRM Notification,CRM-melding,reviewed,crm,,,,,,,
-CRM Organization,CRM-organisatie,reviewed,crm,,,,,,,
+<p>Frappe</p>",reviewed,crm,0.94,0.9,0.95,0.9,0.95,1.0,ok
+"@John, can you please check this?","@John, kunt u dit controleren alstublieft?",reviewed,crm,0.73,0.7,0.65,0.7,0.85,1.0,review
+A lead sync source is already enabled for this Facebook Lead Form!,Een lead sync bron is al ingeschakeld voor dit Facebook Lead formulier!,reviewed,crm,0.74,0.75,0.65,0.75,0.7,1.0,review
+A valid call log is required.,Een geldig gesprekslogboek is vereist.,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+API Key,API-sleutel,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+API Secret,API-geheim,reviewed,crm,0.7,0.7,0.55,0.7,0.8,1.0,review
+API key is required,API-sleutel is vereist,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Accept,Accepteer,reviewed,crm,0.73,0.7,0.65,0.75,0.8,1.0,review
+Accept Call,Gesprek accepteren,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Accept Invitation,Accepteer uitnodiging,reviewed,crm,0.71,0.7,0.65,0.7,0.7,1.0,review
+Accepted At,Geaccepteerd op,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Access Denied,Toegang geweigerd,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Access Key,Toegangssleutel,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Access Key is required for Service Provider: {0},Toegangssleutel vereist voor serviceprovider: {0},reviewed,crm,0.85,0.85,0.8,0.85,0.8,1.0,ok
+Access token is required,Een toegangstoken is vereist,reviewed,crm,0.92,0.9,0.9,0.9,0.95,1.0,ok
+Account Info & Security,Account info en beveiliging,reviewed,crm,0.82,0.8,0.8,0.8,0.8,1.0,ok
+Account name is required,De accountnaam is verplicht,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Add Account,Account toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Assignee,Gemachtigde toevoegen,reviewed,crm,0.79,0.75,0.7,0.75,0.9,1.0,review
+Add Attendee,Deelnemer toevoegen,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Add Chart,Grafiek toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Condition,Voorwaarde toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Condition Group,Voorwaardegroep toevoegen,reviewed,crm,0.86,0.85,0.8,0.85,0.85,1.0,ok
+Add Description,Beschrijving toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Description.,Beschrijving toevoegen.,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Email,E-mailadres toevoegen,reviewed,crm,0.94,0.9,0.95,0.9,1.0,1.0,ok
+Add Existing User,Bestaande gebruiker toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Field,Veld toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Lead or Deal,Lead of deal toevoegen,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Add Location,Locatie toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Mobile Number...,Mobiel nummer toevoegen...,reviewed,crm,0.87,0.85,0.85,0.85,0.9,1.0,ok
+Add Note,Notitie toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Notification,Melding toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Organization...,Organisatie toevoegen...,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Sample Data,Voorbeeldgegevens toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Section,Sectie toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add Sort,Sorteren toevoegen,reviewed,crm,0.7,0.7,0.6,0.7,0.7,1.0,review
+Add Tab,Tab toevoegen,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Add Task,Taak toevoegen,reviewed,crm,0.96,0.9,0.95,0.95,1.0,1.0,ok
+Add a Condition,Een voorwaarde toevoegen,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Add a Custom Condition,Een aangepaste voorwaarde toevoegen,reviewed,crm,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Add a Note,Een notitie toevoegen,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Add a Task,Een taak toevoegen,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Add a name for your source,Voeg een naam toe voor uw bron,reviewed,crm,0.72,0.7,0.6,0.7,0.8,1.0,review
+Add description...,Beschrijving toevoegen...,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Add existing system users to this CRM. Assign them a role to grant access with their current credentials.,Voeg bestaande systeemgebruikers toe aan deze CRM. Wijs hen een rol toe om toegang te verlenen met hun huidige inloggegevens.,reviewed,crm,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Add one to get started.,Voeg er een toe om te beginnen.,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Add svg code or use feather icons e.g 'settings',"Voeg SVG-code toe of gebruik Feather-pictogrammen, bijv. 'settings'",reviewed,crm,0.88,0.9,0.8,0.85,0.9,1.0,ok
+Add time targets around support milestones like first response,Stel tijdsdoelen in rondom ondersteuningsijkpunten zoals eerste reactie,reviewed,crm,0.66,0.6,0.55,0.65,0.8,1.0,review
+Add your first comment,Plaats uw eerste commentaar,reviewed,crm,0.72,0.7,0.65,0.7,0.9,1.0,review
+"Add, edit, and manage email templates for various CRM communications","Voeg e-mailsjablonen toe, bewerk ze en beheer ze voor diverse CRM-communicatie",reviewed,crm,0.89,0.9,0.85,0.85,0.9,1.0,ok
+"Add, edit, and manage sources for automatic lead syncing to your CRM","Voeg bronnen toe, bewerk ze en beheer ze voor automatische synchronisatie van leads met uw CRM.",reviewed,crm,0.87,0.85,0.8,0.85,0.9,1.0,ok
+"Agent is unavailable to take the call, please call after some time.",Een medewerker is momenteel niet beschikbaar om de oproep aan te nemen. Kunt u later nog eens terugbellen?,reviewed,crm,0.76,0.75,0.7,0.7,0.85,1.0,review
+All Day Event Notifications,Meldingen voor evenementen de hele dag,reviewed,crm,0.65,0.6,0.55,0.65,0.8,1.0,review
+All available priorities have already been added,Alle beschikbare prioriteiten zijn al toegevoegd,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Amount after discount,Bedrag na korting,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+An error occurred,Er is een fout opgetreden,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+An error occurred while updating the document,Er is een fout opgetreden tijdens het bijwerken van het document.,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+An image with 1:1 & 2:1 ratio is preferred,Een afbeelding met een verhouding van 1:1 en 2:1 heeft de voorkeur.,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+And,En,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Annual Revenue,Jaarlijkse omzet,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Annual Revenue should be a number,Jaarlijkse omzet moet een getal zijn,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Any failed lead syncs will show up here,Elke mislukte lead synchronisatie verschijnt hier,reviewed,crm,0.68,0.65,0.6,0.65,0.75,1.0,review
+Appears in the left sidebar. Recommended size is 32x32 px in PNG or SVG,Verschijnt in de linker zijbalk. Aanbevolen grootte is 32x32 px in PNG of SVG,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Appears next to the title in your browser tab. Recommended size is 32x32 px in PNG or ICO,Verschijnt naast de titel in uw browsertabblad. Aanbevolen grootte is 32x32 px in PNG of ICO,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Apply To,Toepassen op,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to clear demo data? This action cannot be undone.,Weet u zeker dat u de demogegevens wilt wissen? Deze actie kan niet ongedaan worden gemaakt.,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to delete this attachment?,Weet u zeker dat u deze bijlage wilt verwijderen?,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to delete this contact?,Weet u zeker dat u deze contactpersoon wilt verwijderen?,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to delete this event?,Weet u zeker dat u deze gebeurtenis wilt verwijderen?,reviewed,crm,0.85,0.8,0.8,0.85,1.0,1.0,ok
+Are you sure you want to delete this organization?,Weet u zeker dat u deze organisatie wilt verwijderen?,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to delete this task?,Weet u zeker dat u deze taak wilt verwijderen?,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Are you sure you want to delete {0} linked item(s)?,Weet u zeker dat u {0} gekoppeld(e) item(s) wilt verwijderen?,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Are you sure you want to discard unsaved changes to this event?,Weet u zeker dat u niet opgeslagen wijzigingen in deze gebeurtenis wilt verwijderen?,reviewed,crm,0.75,0.75,0.65,0.75,0.8,1.0,review
+Are you sure you want to go back? Unsaved changes will be lost.,Weet u zeker dat u terug wilt gaan? Niet-opgeslagen wijzigingen zullen verloren gaan.,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Are you sure you want to login to your Frappe Cloud dashboard?,Weet u zeker dat u wilt inloggen op uw Frappe Cloud Dashboard?,reviewed,crm,0.8,0.8,0.75,0.8,0.85,1.0,ok
+Are you sure you want to reset 'Create Quotation from CRM Deal' Form Script?,Weet u zeker dat u het formulierscript 'Offerte aanmaken vanuit CRM Deal' wilt resetten?,reviewed,crm,0.89,0.9,0.85,0.85,0.9,1.0,ok
+Are you sure you want to set the currency as {0}? This cannot be changed later.,Weet u zeker dat u de valuta wilt instellen als {0}? Dit kan later niet meer veranderd worden.,reviewed,crm,0.85,0.85,0.8,0.85,0.85,1.0,ok
+Are you sure you want to unlink {0} linked item(s)?,Weet u zeker dat u {0} gelinkte item(s) wilt ontkoppelen?,reviewed,crm,0.76,0.75,0.7,0.75,0.85,1.0,review
+"Ask your manager to set up the Exchange Rate Provider, as default provider does not support currency conversion for {0} to {1}.","Vraag uw manager om de wisselkoers-provider in te stellen, aangezien de standaardprovider geen ondersteuning biedt voor het omrekenen van valuta voor {0} naar {1}.",reviewed,crm,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Assign Condition is required,Toewijzingsvoorwaarde is vereist,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Assign Conditions are invalid,Toewijzingsvoorwaarden zijn ongeldig,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Assign To Me,Aan mij toewijzen,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Assignee Rules,Toegewezen regels,reviewed,crm,0.67,0.65,0.55,0.65,0.75,1.0,review
+Assignees,Toegewezenen,reviewed,crm,0.63,0.6,0.5,0.6,0.7,1.0,review
+Assignment Cleared Successfully,Toewijzing succesvol gewist,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Assignment Condition,Toewijzingsvoorwaarde,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Assignment Days are required,Toewijzingsdagen zijn vereist,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Assignment Rule Created,Toewijzingsregel aangemaakt,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Assignment Rule Deleted,Toewijzingsregel verwijderd,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Assignment Rule Duplicated,Toewijzingsregel gedupliceerd,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Assignment Rule Updated,Toewijzingsregel bijgewerkt,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Assignment Rule {0} Updated,Toewijzingsregel {0} bijgewerkt,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Assignment Schedule,Toewijzingsschema,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Assignment conditions,Toewijzingsvoorwaarden,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"Assignment conditions are invalid or corrupt, recreate the conditions.",Toewijzingsvoorwaarden zijn ongeldig of beschadigd. Maak de voorwaarden opnieuw aan.,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+At least one priority is required,Ten minste een prioriteit is vereist,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+"At least one valid Workday with Workday, Start Time, and End Time is required","Ten minste een geldige werkdag met werkdag, begintijd en eindtijd is vereist",reviewed,crm,0.81,0.8,0.75,0.8,0.85,1.0,ok
+Attach a File,Bestand bijvoegen,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Attending status updated,Aanwezigheidsstatus bijgewerkt,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Auto Update of Expected Deal Value disabled,Automatisch bijwerken van verwachte dealwaarde uitgeschakeld,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Auto Update of Expected Deal Value enabled,Automatisch bijwerken van verwachte dealwaarde ingeschakeld,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Auto update Expected Deal Value,Verwachte dealwaarde automatisch bijwerken,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Auto-assign leads/deals to the right sales user based on predefined conditions,Wijs leads/deals automatisch toe aan de juiste verkoopmedewerker op basis van vooraf bepaalde voorwaarden,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Auto-generated from the portal view — do not edit directly unless you know what you're doing! ,"Automatisch gegenereerd vanuit de portalweergave. Bewerk dit niet rechtstreeks, tenzij u weet wat u doet.",reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Autocomplete,Automatisch aanvullen,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Automatically sets Communication Status to “Open” for the lead or deal when a new communication is created. Applies only when SLA is enabled,Stelt de communicatiestatus automatisch in op 'Open' voor de lead of deal wanneer een nieuwe communicatie wordt aangemaakt. Alleen van toepassing als SLA is ingeschakeld.,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Automatically sets Communication Status to “Replied” for the lead or deal when a response is received. Applies only when SLA is enabled,Stelt de communicatiestatus automatisch in op 'Beantwoord' voor de lead of deal wanneer een reactie is ontvangen. Alleen van toepassing als SLA is ingeschakeld.,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Avg Deal Value,Gemiddelde dealwaarde,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Avg Ongoing Deal Value,Gemiddelde lopende dealwaarde,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Avg Time to Close a Deal,Gemiddelde sluitingstijd van een deal,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Avg Time to Close a Lead,Gemiddelde sluitingstijd van een lead,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Avg Won Deal Value,Gemiddelde waarde van gewonnen deals,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Axis Chart,Asgrafiek,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Back,Terug,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Back to All Logs,Terug naar alle logs,reviewed,crm,0.8,0.8,0.75,0.8,0.85,1.0,ok
+Back to File Upload,Terug naar bestandsupload,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Background Sync Frequency,Achtergrond-synchronisatiefrequentie,reviewed,crm,0.67,0.65,0.55,0.65,0.7,1.0,review
+Brand Logo,Merklogo,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Brand Settings,Merkinstellingen,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+Branding,Huisstijl,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Bulk Edit,Bulkbewerking,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+CRM Call Log,CRM-oproepenlog,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+CRM Communication Status,CRM-communicatiestatus,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+CRM Contacts,CRM-contacten,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+CRM Dropdown Item,CRM-dropdownitem,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+CRM Exotel Settings,CRM Exotel-instellingen,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+CRM Fields Layout,CRM-veldindeling,reviewed,crm,0.9,0.9,0.85,0.9,0.9,1.0,ok
+CRM Form Script,CRM-formulierscript,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+CRM Global Settings,CRM algemene instellingen,reviewed,crm,0.76,0.75,0.7,0.75,0.8,1.0,review
+CRM Holiday,CRM-vakantiedag,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+CRM Holiday List,CRM-vakantielijst,reviewed,crm,0.86,0.85,0.8,0.85,0.9,1.0,ok
+CRM Industry,CRM-branche,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+CRM Invitation,CRM-uitnodiging,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+CRM Lead Source,CRM Lead-bron,reviewed,crm,0.76,0.75,0.7,0.75,0.8,1.0,review
+CRM Lead Status,CRM Lead-status,reviewed,crm,0.76,0.75,0.7,0.75,0.8,1.0,review
+CRM Lost Reason,CRM-verlorenreden,reviewed,crm,0.75,0.75,0.65,0.75,0.8,1.0,review
+CRM Notification,CRM-melding,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
+CRM Organization,CRM-organisatie,reviewed,crm,0.93,0.9,0.9,0.9,1.0,1.0,ok
 CRM Portal Page,CRM-portaalpagina,reviewed,crm,,,,,,,
 CRM Products,CRM-producten,reviewed,crm,,,,,,,
 CRM Rolling Response Time,CRM doorlopende responstijd,reviewed,crm,,,,,,,

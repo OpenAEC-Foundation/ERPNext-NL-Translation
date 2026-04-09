@@ -1,12 +1,13 @@
 ![Vertalingen](https://img.shields.io/badge/vertalingen-16.797-brightgreen)
 ![Reviewed](https://img.shields.io/badge/reviewed-100%25-success)
+![Quality Scored](https://img.shields.io/badge/quality%20scored-99.9%25-blue)
 ![Apps](https://img.shields.io/badge/apps-7-blue)
 ![Frappe](https://img.shields.io/badge/Frappe-v15%20%7C%20v16-blue)
 ![Licentie](https://img.shields.io/badge/licentie-MIT-green)
 
 # ERPNext NL Translation
 
-Kwalitatieve Nederlandse vertalingen voor ERPNext en Frappe, geoptimaliseerd voor gebruik in het Nederlandse bedrijfsleven. Elke vertaling is beoordeeld door een AI-analyselaag die context, vakjargon en natuurlijk taalgebruik controleert.
+Kwalitatieve Nederlandse vertalingen voor ERPNext, Frappe en 5 extra apps, geoptimaliseerd voor gebruik in het Nederlandse bedrijfsleven. Elke vertaling is beoordeeld door een AI-analyselaag die context, vakjargon en natuurlijk taalgebruik controleert. Daarnaast is elke vertaling gekwalificeerd met een kwaliteitsscore (0-1) en worden vertalingen met lage scores verbeterd via een alternatieve-vergelijkingspipeline.
 
 ## Waarom dit project?
 
@@ -30,7 +31,10 @@ Dit project biedt een complete set van 16.797 vertalingen voor 7 Frappe/ERPNext 
 |---------|--------|
 | Totaal vertalingen | 16.797 |
 | AI-reviewed | 16.797 (100%) |
-| Correcties toegepast | ~4.000+ |
+| Kwaliteitsscore | 16.788 gescoord (99.9%) |
+| Score >= 0.8 (OK) | 70.8% |
+| Verbeterd via alternatieven | 1.431+ (lopend) |
+| Correcties toegepast | ~5.500+ |
 | Live op productie | 16.797 |
 | Apps gedekt | 7 (Frappe, ERPNext, HRMS, CRM, Helpdesk, Insights, Banking) |
 

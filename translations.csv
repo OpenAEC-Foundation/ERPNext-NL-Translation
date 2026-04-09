@@ -10199,306 +10199,306 @@ System User,Systeemgebruiker,reviewed,frappe,0.92,0.92,0.9,0.9,0.92,1.0,ok
 System will automatically delete Prepared Reports after these many days since creation,Het systeem verwijdert automatisch voorbereide rapporten na deze vele dagen sinds de aanmaak,reviewed,frappe,0.63,0.65,0.55,0.6,0.6,0.9,review
 System will fetch all the entries if limit value is zero.,Systeem haalt alle gegevens op als de limietwaarde nul is.,reviewed,erpnext,0.82,0.82,0.8,0.8,0.82,1.0,ok
 System will notify to increase or decrease quantity or amount,Het systeem meldt om de hoeveelheid of hoeveelheid te verhogen of te verlagen,reviewed,erpnext,0.38,0.4,0.3,0.35,0.3,0.8,rewrite
-"System will pickup the materials from the selected warehouses. If not specified, system will create material request for purchase.","Het systeem haalt de materialen op uit de geselecteerde magazijnen. Indien niet gespecificeerd, zal het systeem een materiaalaanvraag voor aankoop creëren.",reviewed,erpnext,,,,,,,
-Table,Tabel,reviewed,frappe,,,,,,,
-Table Break,Tafelonderbreking,reviewed,frappe,,,,,,,
-Table Field,tabelveld,reviewed,frappe,,,,,,,
-Table for Item that will be shown in Web Site,Tabel voor artikel dat op de website wordt getoond,reviewed,erpnext,,,,,,,
-Table HTML,Tabel HTML,reviewed,frappe,,,,,,,
-Table MultiSelect,Tabel meervoudige selectie,reviewed,frappe,,,,,,,
-Table updated,tabel bijgewerkt,reviewed,frappe,,,,,,,
-Table {0} cannot be empty,Tabel {0} mag niet leeg zijn,reviewed,frappe,,,,,,,
-Tag,Label,reviewed,both,,,,,,,
-tag,Tag,reviewed,frappe,,,,,,,
-Tag Line,Slogan,reviewed,erpnext,,,,,,,
-"tag name..., e.g. #tag","tagnaam ..., bijvoorbeeld #tag",reviewed,frappe,,,,,,,
-Tags,labels,reviewed,frappe,,,,,,,
-Take Backup,Neem een back-up,reviewed,frappe,,,,,,,
-Take Photo,Neem foto,reviewed,frappe,,,,,,,
-Tally Creditors Account,Tally crediteurenrekening,reviewed,erpnext,,,,,,,
-Tally Migration,Tally-migratie,reviewed,erpnext,,,,,,,
-Tally Migration Error,Tally-migratiefout,reviewed,erpnext,,,,,,,
-Tap items to add them here,Tik op items om ze hier toe te voegen,reviewed,erpnext,,,,,,,
-Target,Doel,reviewed,both,,,,,,,
-Target  Amount,Streefbedrag,reviewed,erpnext,,,,,,,
-Target ({}),Doelwit ({}),reviewed,erpnext,,,,,,,
-Target Detail,Doelgegevens,reviewed,erpnext,,,,,,,
-Target Details,Doelgegevens,reviewed,erpnext,,,,,,,
-Target Distribution,Doelverdeling,reviewed,erpnext,,,,,,,
-Target Location,Doellocatie,reviewed,erpnext,,,,,,,
-Target Location is required while receiving Asset {0} from an employee,Doellocatie is vereist tijdens het ontvangen van activum {0} van een werknemer,reviewed,erpnext,,,,,,,
-Target Location is required while transferring Asset {0},Doellocatie is vereist tijdens het overbrengen van activa {0},reviewed,erpnext,,,,,,,
-Target Location or To Employee is required while receiving Asset {0},Doellocatie of Aan medewerker is vereist tijdens het ontvangen van activum {0},reviewed,erpnext,,,,,,,
-Target On,Doel op,reviewed,erpnext,,,,,,,
-Target Qty,Doelhoeveelheid,reviewed,erpnext,,,,,,,
-Target Warehouse,Doelmagazijn,reviewed,erpnext,,,,,,,
-Target warehouse is mandatory for row {0},Doel magazijn is verplicht voor rij {0},reviewed,erpnext,,,,,,,
-Targets,Doelen,reviewed,erpnext,,,,,,,
-Targetted,Gericht,reviewed,erpnext,,,,,,,
-Tariff Number,Tariefnummer,reviewed,erpnext,,,,,,,
-Task,Taak,reviewed,both,,,,,,,
-Task Depends On,Taak afhankelijk van,reviewed,erpnext,,,,,,,
-Task Description,Taakomschrijving,reviewed,erpnext,,,,,,,
-Task Name,Taaknaam,reviewed,erpnext,,,,,,,
-Task Type,Taaktype,reviewed,erpnext,,,,,,,
-Task's {0} End Date cannot be after Project's End Date.,De {0} Einddatum van de taak kan niet na de Einddatum van het Project zijn.,reviewed,erpnext,,,,,,,
-Task's {0} Start Date cannot be after Project's End Date.,De {0} Startdatum van de taak kan niet na de Einddatum van het Project zijn.,reviewed,erpnext,,,,,,,
-Tasks,taken,reviewed,erpnext,,,,,,,
-tasks,taken,reviewed,frappe,,,,,,,
-Tasks Completed,Taken voltooid,reviewed,erpnext,,,,,,,
-Tasks Created,Taken gemaakt,reviewed,erpnext,,,,,,,
-Tasks have been created for managing the {0} disease (on row {1}),Er zijn taken gemaakt voor het beheer van de {0} ziekte (op rij {1}),reviewed,erpnext,,,,,,,
-Tasks Overdue,Taken zijn achterstallig,reviewed,erpnext,,,,,,,
-Tax,Belasting,reviewed,erpnext,,,,,,,
-Tax Account,Belastingrekening,reviewed,erpnext,,,,,,,
-Tax Account Head,Hoofd belastingaccount,reviewed,erpnext,,,,,,,
-Tax Account not specified for Shopify Tax {0},Belastingaccount niet opgegeven voor Shopify-belasting {0},reviewed,erpnext,,,,,,,
-Tax Amount,Belastingbedrag,reviewed,custom,,,,,,,
-Tax Amount After Discount Amount,Belasting bedrag na korting,reviewed,erpnext,,,,,,,
-Tax Amount After Discount Amount (Company Currency),Belastingbedrag na kortingsbedrag (bedrijfsvaluta),reviewed,erpnext,,,,,,,
-Tax Assets,Belastingvorderingen,reviewed,erpnext,,,,,,,
-Tax Breakup,Belastingverdeling,reviewed,erpnext,,,,,,,
-Tax Category,Belastingcategorie,reviewed,both,,,,,,,
-Tax Category for overriding tax rates.,Belastingcategorie voor dwingende belastingtarieven.,reviewed,erpnext,,,,,,,
-"Tax Category has been changed to ""Total"" because all the Items are non-stock items",Belastingcategorie is gewijzigd in &quot;Totaal&quot; omdat alle items niet-voorraad items zijn,reviewed,erpnext,,,,,,,
-Tax detail table fetched from item master as a string and stored in this field.\nUsed for Taxes and Charges,Belasting detail tafel haalden van post meester als een string en opgeslagen in dit gebied.\n Gebruikt voor en -heffingen,reviewed,erpnext,,,,,,,
-Tax ID,BTW-nummer,reviewed,erpnext,,,,,,,
-Tax Id,BTW-nummer,reviewed,erpnext,,,,,,,
-Tax Id:,BTW-nummer:,reviewed,erpnext,,,,,,,
-Tax Rate,Belastingtarief,reviewed,erpnext,,,,,,,
-Tax Rates,Belastingtarieven,reviewed,erpnext,,,,,,,
-Tax Rule,Belastingregel,reviewed,erpnext,,,,,,,
-Tax Rule Conflicts with {0},Belastingregel conflicteert met {0},reviewed,erpnext,,,,,,,
-Tax Rule for transactions.,Fiscale regel voor transacties.,reviewed,erpnext,,,,,,,
-Tax template for buying transactions.,Belasting sjabloon voor inkooptransacties .,reviewed,erpnext,,,,,,,
-Tax template for item tax rates.,Belastingsjabloon voor belastingtarieven van artikelen.,reviewed,erpnext,,,,,,,
-Tax template for selling transactions.,Belasting sjabloon voor verkooptransacties.,reviewed,erpnext,,,,,,,
-Tax Template is mandatory.,Belastingsjabloon is verplicht.,reviewed,erpnext,,,,,,,
-Tax Total,Totaal belasting,reviewed,erpnext,,,,,,,
-Tax Type,Belastingtype,reviewed,erpnext,,,,,,,
-Tax Withholding Account,Bronbelastingrekening,reviewed,erpnext,,,,,,,
-Tax Withholding Category,Bronbelastingcategorie,reviewed,erpnext,,,,,,,
-Tax Withholding Group,Belastinginhouding groep,reviewed,custom,,,,,,,
-Tax Withholding Rate,Bronbelastingtarief,reviewed,erpnext,,,,,,,
-Tax Withholding Rates,Belastinginhouding,reviewed,erpnext,,,,,,,
-Tax Withholding rates to be applied on transactions.,Belastinginhoudingstarieven die moeten worden toegepast op transacties.,reviewed,erpnext,,,,,,,
-Taxable Amount,Belastbaar bedrag,reviewed,erpnext,,,,,,,
-Taxes,Belastingen,reviewed,erpnext,,,,,,,
-Taxes and Charges,Belastingen en Toeslagen,reviewed,erpnext,,,,,,,
-Taxes and Charges Added,Belastingen en Toeslagen toegevoegd,reviewed,erpnext,,,,,,,
-Taxes and Charges Added (Company Currency),Belastingen en Toeslagen toegevoegd (Bedrijfsvaluta),reviewed,erpnext,,,,,,,
-Taxes and Charges Calculation,Belastingen en Toeslagen berekenen,reviewed,erpnext,,,,,,,
-Taxes and Charges Deducted,Belastingen en Toeslagen Afgetrokken,reviewed,erpnext,,,,,,,
-Taxes and Charges Deducted (Company Currency),Belastingen en Toeslagen afgetrokken (Bedrijfsvaluta),reviewed,erpnext,,,,,,,
-TaxJar Settings,TaxJar-instellingen,reviewed,erpnext,,,,,,,
-TDS Computation Summary,Samenvatting van de TDS-berekening,reviewed,erpnext,,,,,,,
-TDS Rate %,TDS-tarief %,reviewed,erpnext,,,,,,,
-Team Member,Teamlid,reviewed,erpnext,,,,,,,
-Team Members,Teamleden,reviewed,frappe,,,,,,,
-Team Members Heading,Teamleden Koptekst,reviewed,frappe,,,,,,,
-Technology,Technologie,reviewed,erpnext,,,,,,,
-Telecommunications,telecommunicatie,reviewed,erpnext,,,,,,,
-Telephone Expenses,Telefoonkosten,reviewed,erpnext,,,,,,,
-Television,Televisie,reviewed,erpnext,,,,,,,
-Temperature:,Temperatuur:,reviewed,erpnext,,,,,,,
-Template,Sjabloon,reviewed,both,,,,,,,
-Template Error,Sjabloonfout,reviewed,frappe,,,,,,,
-Template Item,Sjabloonitem,reviewed,erpnext,,,,,,,
-Template Name,Sjabloonnaam,reviewed,erpnext,,,,,,,
-Template of terms or contract.,Sjabloon voor contractvoorwaarden,reviewed,erpnext,,,,,,,
-Template Options,Sjabloonopties,reviewed,frappe,,,,,,,
-Template Title,Sjabloontitel,reviewed,erpnext,,,,,,,
-Template Warnings,Sjabloonwaarschuwingen,reviewed,frappe,,,,,,,
-Templates of supplier scorecard criteria.,Templates van leveranciers scorecard criteria.,reviewed,erpnext,,,,,,,
-Templates of supplier scorecard variables.,Sjablonen van leveranciers scorecard variabelen.,reviewed,erpnext,,,,,,,
-Templates of supplier standings.,Sjablonen van leveranciers standings.,reviewed,erpnext,,,,,,,
-Temporarily Disabled,Tijdelijk uitgeschakeld,reviewed,frappe,,,,,,,
-Temporarily on Hold,Tijdelijk in de wacht,reviewed,erpnext,,,,,,,
-Temporary,tijdelijk,reviewed,erpnext,,,,,,,
-Temporary Accounts,Tijdelijke accounts,reviewed,erpnext,,,,,,,
-Temporary Opening,Tijdelijke opening,reviewed,erpnext,,,,,,,
-Temporary Opening Account,Tijdelijk account openen,reviewed,erpnext,,,,,,,
-Term Details,Voorwaarde Details,reviewed,erpnext,,,,,,,
-Term End Date,Term Einddatum,reviewed,erpnext,,,,,,,
-Term Name,term Naam,reviewed,erpnext,,,,,,,
-Term Start Date,Term Startdatum,reviewed,erpnext,,,,,,,
-Terms,Voorwaarden,reviewed,erpnext,,,,,,,
-Terms and Conditions,Algemene voorwaarden,reviewed,erpnext,,,,,,,
-Terms and Conditions Content,Algemene Voorwaarden Inhoud,reviewed,erpnext,,,,,,,
-Terms and Conditions Details,Algemene Voorwaarden Details,reviewed,erpnext,,,,,,,
-Terms and Conditions Help,Voorwaarden Help,reviewed,erpnext,,,,,,,
-Terms and Conditions Template,Algemene voorwaarden Template,reviewed,erpnext,,,,,,,
-Terms and Conditions1,Algemene Voorwaarden1,reviewed,erpnext,,,,,,,
-Territory,Regio,reviewed,erpnext,,,,,,,
-Territory Manager,Regio Manager,reviewed,erpnext,,,,,,,
-Territory Name,Regio Naam,reviewed,erpnext,,,,,,,
-Territory Target Variance Based On Item Group,Territoriedoelvariantie op basis van artikelgroep,reviewed,erpnext,,,,,,,
-Territory Targets,Regio Doelen,reviewed,erpnext,,,,,,,
-Territory-wise Sales,Gebiedsgewijze verkoop,reviewed,erpnext,,,,,,,
-Test Created,Test gemaakt,reviewed,erpnext,,,,,,,
-Test Email Address,Test e-mailadres,reviewed,frappe,,,,,,,
-Test email sent to {0},Test-e-mail verzonden naar {0},reviewed,frappe,,,,,,,
-Test Group,Testgroep,reviewed,erpnext,,,,,,,
-Test Name,Test Naam,reviewed,erpnext,,,,,,,
-Test Template,Test sjabloon,reviewed,erpnext,,,,,,,
-Test(s) Prescribed.,Test (s) voorgeschreven.,reviewed,erpnext,,,,,,,
-Testing,Testen,reviewed,frappe,,,,,,,
-Text,Tekst,reviewed,frappe,,,,,,,
-Text Align,Tekst uitlijnen,reviewed,frappe,,,,,,,
-Text Color,Tekst Kleur,reviewed,frappe,,,,,,,
-Text Content,text Content,reviewed,frappe,,,,,,,
-text in document type,tekst in het documenttype,reviewed,frappe,,,,,,,
-Text to be displayed for Link to Web Page if this form has a web page. Link route will be automatically generated based on `page_name` and `parent_website_route`,Tekst die moet worden weergegeven Link naar webpagina wanneer dit formulier heeft een webpagina. Link route wordt automatisch gegenereerd worden op basis van `page_name` en` parent_website_route`,reviewed,frappe,,,,,,,
-Thank you,Dankjewel,reviewed,frappe,,,,,,,
-Thank you for your business!,Bedankt voor uw zaken!,reviewed,erpnext,,,,,,,
-Thank you for your email,Bedankt voor je email,reviewed,frappe,,,,,,,
-Thank you for your feedback!,Bedankt voor je feedback!,reviewed,frappe,,,,,,,
-Thank you for your interest in subscribing to our updates,Dank u voor uw interesse in een abonnement op onze updates,reviewed,frappe,,,,,,,
-Thank you for your message,Dank u voor uw bericht,reviewed,frappe,,,,,,,
-The 'From Package No.' field must neither be empty nor it's value less than 1.,Het &#39;Van pakketnummer&#39; veld mag niet leeg zijn of de waarde is kleiner dan 1.,reviewed,erpnext,,,,,,,
-"The Access to Request for Quotation From Portal is Disabled. To Allow Access, Enable it in Portal Settings.","De toegang tot offerteaanvraag vanuit de portal is uitgeschakeld. Om toegang toe te staan, schakelt u het in in Portal-instellingen.",reviewed,erpnext,,,,,,,
-"The account head under Liability or Equity, in which Profit/Loss will be booked","De rekening hoofd onder Aansprakelijkheid of Equity, waarbij winst / verlies zal worden geboekt",reviewed,erpnext,,,,,,,
-The accounts are set by the system automatically but do confirm these defaults,"De accounts worden automatisch door het systeem ingesteld, maar bevestig deze standaardinstellingen",reviewed,erpnext,,,,,,,
-The amount of {0} set in this payment request is different from the calculated amount of all payment plans: {1}. Make sure this is correct before submitting the document.,"Het bedrag van {0} dat in dit betalingsverzoek is ingesteld, wijkt af van het berekende bedrag van alle betalingsplannen: {1}. Controleer of dit klopt voordat u het document verzendt.",reviewed,erpnext,,,,,,,
-"The application has been updated to a new version, please refresh this page","De applicatie is bijgewerkt naar een nieuwe versie, gelieve deze pagina te vernieuwen",reviewed,frappe,,,,,,,
-The attachments could not be correctly linked to the new document,De bijlagen kunnen niet correct worden gekoppeld aan het nieuwe document,reviewed,frappe,,,,,,,
-The Auto Repeat for this document has been disabled.,De automatische herhaling voor dit document is uitgeschakeld.,reviewed,frappe,,,,,,,
-The BOM which will be replaced,De Stuklijst die zal worden vervangen,reviewed,erpnext,,,,,,,
-The Brand,De Brand,reviewed,erpnext,,,,,,,
-The Campaign '{0}' already exists for the {1} '{2}',De campagne &#39;{0}&#39; bestaat al voor de {1} &#39;{2}&#39;,reviewed,erpnext,,,,,,,
-The column {0} has {1} different date formats. Automatically setting {2} as the default format as it is the most common. Please change other values in this column to this format.,"De kolom {0} heeft {1} verschillende datumnotaties. Automatisch instellen van {2} als het standaardformaat, aangezien dit het meest voorkomt. Verander a.u.b. andere waarden in deze kolom in dit formaat.",reviewed,frappe,,,,,,,
-The comment cannot be empty,De opmerking mag niet leeg zijn,reviewed,frappe,,,,,,,
-The Condition '{0}' is invalid,De voorwaarde &#39;{0}&#39; is ongeldig,reviewed,frappe,,,,,,,
-The CSV format is case sensitive,Het CSV-formaat is hoofdlettergevoelig,reviewed,frappe,,,,,,,
-The difference between from time and To Time must be a multiple of Appointment,Het verschil tussen van tijd en tot tijd moet een veelvoud van afspraak zijn,reviewed,erpnext,,,,,,,
-The document could not be correctly assigned,Het document kan niet correct worden toegewezen,reviewed,frappe,,,,,,,
-The document has been assigned to {0},Het document is toegewezen aan {0},reviewed,frappe,,,,,,,
-"The fallback series is ""SO-WOO-"".",De fallback-serie is &quot;SO-WOO-&quot;.,reviewed,erpnext,,,,,,,
-The field Asset Account cannot be blank,Het veld Activa-account mag niet leeg zijn,reviewed,erpnext,,,,,,,
-The field Equity/Liability Account cannot be blank,Het veld Equity / Liability Account mag niet leeg zijn,reviewed,erpnext,,,,,,,
-The field From Shareholder cannot be blank,Het veld Van Aandeelhouder mag niet leeg zijn,reviewed,erpnext,,,,,,,
-The field To Shareholder cannot be blank,Het veld Naar aandeelhouder mag niet leeg zijn,reviewed,erpnext,,,,,,,
-The fields From Shareholder and To Shareholder cannot be blank,De velden Van Aandeelhouder en Aandeelhouder mogen niet leeg zijn,reviewed,erpnext,,,,,,,
-The first Approver in the list will be set as the default Approver.,De eerste goedkeurder in de lijst wordt ingesteld als de standaard goedkeurder.,reviewed,erpnext,,,,,,,
-The first user will become the System Manager (you can change this later).,De eerste gebruiker zal de System Manager te worden (u kunt deze later wijzigen).,reviewed,frappe,,,,,,,
-The First User: You,De eerste gebruiker: U,reviewed,frappe,,,,,,,
-The folio numbers are not matching,De folionummers komen niet overeen,reviewed,erpnext,,,,,,,
-The following deleted attributes exist in Variants but not in the Template. You can either delete the Variants or keep the attribute(s) in template.,De volgende verwijderde attributen bestaan in varianten maar niet in de sjabloon. U kunt de varianten verwijderen of het / de attribuut (en) in de sjabloon behouden.,reviewed,erpnext,,,,,,,
-The following employees are currently still reporting to {0}:,De volgende medewerkers rapporteren momenteel nog aan {0}:,reviewed,erpnext,,,,,,,
-The following records needs to be created before we can import your file.,De volgende records moeten worden gemaakt voordat we uw bestand kunnen importeren.,reviewed,frappe,,,,,,,
-The following serial numbers were created: <br><br> {0},De volgende serienummers zijn gemaakt: <br><br> {0},reviewed,erpnext,,,,,,,
-The following {0} were created: {1},De volgende {0} zijn gemaakt: {1},reviewed,erpnext,,,,,,,
-The gross weight of the package. Usually net weight + packaging material weight. (for print),Het bruto gewicht van het pakket. Meestal nettogewicht + verpakkingsmateriaal gewicht. (Voor afdrukken),reviewed,erpnext,,,,,,,
-The holiday on {0} is not between From Date and To Date,De vakantie op {0} is niet tussen Van Datum en To Date,reviewed,erpnext,,,,,,,
-The item referenced by {0} - {1} is already invoiced,"Het artikel waarnaar wordt verwezen door {0} - {1}, is al gefactureerd",reviewed,erpnext,,,,,,,
-The Item {0} cannot have Batch,De Punt {0} kan niet Batch hebben,reviewed,erpnext,,,,,,,
-The Link specified has either been used before or Invalid,De opgegeven link is eerder gebruikt of ongeldig,reviewed,frappe,,,,,,,
-The Loyalty Program isn't valid for the selected company,Het loyaliteitsprogramma is niet geldig voor het geselecteerde bedrijf,reviewed,erpnext,,,,,,,
-The mapping configuration between two doctypes.,De toewijzingsconfiguratie tussen twee doctypes.,reviewed,frappe,,,,,,,
-"The meta description is an HTML attribute that provides a brief summary of a web page. Search engines such as Google often display the meta description in search results, which can influence click-through rates.","De metabeschrijving is een HTML-kenmerk dat een korte samenvatting van een webpagina geeft. Zoekmachines zoals Google tonen de metabeschrijving vaak in zoekresultaten, wat de klikfrequenties kan beïnvloeden.",reviewed,frappe,,,,,,,
-"The meta image is unique image representing the content of the page. Images for this Card should be at least 280px in width, and at least 150px in height.",De meta-afbeelding is een unieke afbeelding die de inhoud van de pagina vertegenwoordigt. Afbeeldingen voor deze kaart moeten minimaal 280 px breed en minimaal 150 px hoog zijn.,reviewed,frappe,,,,,,,
-The minimum distance between rows of plants for optimum growth,De minimale afstand tussen rijen planten voor optimale groei,reviewed,erpnext,,,,,,,
-The minimum length between each plant in the field for optimum growth,De minimale lengte tussen elke plant in het veld voor optimale groei,reviewed,erpnext,,,,,,,
-The name of the institute for which you are setting up this system.,De naam van het instituut waarvoor u het opzetten van dit systeem.,reviewed,erpnext,,,,,,,
-The name of your company for which you are setting up this system.,De naam van uw bedrijf waar u het systeem voor op zet.,reviewed,erpnext,,,,,,,
-The name that will appear in Google Calendar,De naam die in Google Agenda wordt weergegeven,reviewed,frappe,,,,,,,
-The net weight of this package. (calculated automatically as sum of net weight of items),Het nettogewicht van dit pakket. (Wordt automatisch berekend als de som van de netto-gewicht van de artikelen),reviewed,erpnext,,,,,,,
-The new BOM after replacement,De nieuwe Stuklijst na vervanging,reviewed,erpnext,,,,,,,
-"The number of billing cycles for which the customer should be charged. For example, if a customer is buying a 1-year membership that should be billed on a monthly basis, this value should be 12.","Het aantal factureringscycli waarvoor de klant moet worden gefactureerd. Als een klant bijvoorbeeld een lidmaatschap van één jaar koopt dat maandelijks moet worden gefactureerd, moet deze waarde 12 zijn.",reviewed,erpnext,,,,,,,
-The number of free follow ups (Patient Encounters in valid days) allowed,Het toegestane aantal gratis follow-ups (patiëntontmoetingen in geldige dagen),reviewed,erpnext,,,,,,,
-The number of shares and the share numbers are inconsistent,Het aantal aandelen en de aandelenaantallen zijn inconsistent,reviewed,erpnext,,,,,,,
-The page you are looking for is missing. This could be because it is moved or there is a typo in the link.,De pagina die u zoekt ontbreekt. Dit kan zijn omdat het wordt verplaatst of er een typefout in de link.,reviewed,frappe,,,,,,,
-The parent account {0} does not exists in the uploaded template,Het bovenliggende account {0} bestaat niet in de geüploade sjabloon,reviewed,erpnext,,,,,,,
-The password of your account has expired.,Het wachtwoord van uw account is verlopen.,reviewed,frappe,,,,,,,
-The payment for this membership is not paid. To generate invoice fill the payment details,De betaling voor dit lidmaatschap wordt niet betaald. Vul de betalingsgegevens in om een factuur te genereren,reviewed,erpnext,,,,,,,
-The payment gateway account in plan {0} is different from the payment gateway account in this payment request,Het betalingsgateway-account in plan {0} verschilt van het betalingsgateway-account in dit betalingsverzoek,reviewed,erpnext,,,,,,,
-The Payment Term at row {0} is possibly a duplicate.,De betalingstermijn op rij {0} is mogelijk een duplicaat.,reviewed,erpnext,,,,,,,
-"The percentage you are allowed to bill more against the amount ordered. For example, if the order value is $100 for an item and tolerance is set as 10%, then you are allowed to bill up to $110","Het percentage dat u meer mag afrekenen op het bestelde bedrag. Als de bestelwaarde voor een artikel bijvoorbeeld € 100 is en de tolerantie is ingesteld op 10%, mag u maximaal € 110 in rekening brengen",reviewed,erpnext,,,,,,,
-"The percentage you are allowed to receive or deliver more against the quantity ordered. For example, if you have ordered 100 units, and your Allowance is 10%, then you are allowed to receive 110 units.","Het percentage dat u meer mag ontvangen of leveren ten opzichte van de bestelde hoeveelheid. Als u bijvoorbeeld 100 eenheden heeft besteld en uw toeslag is 10%, dan mag u 110 eenheden ontvangen.",reviewed,erpnext,,,,,,,
-The process for deletion of {0} data associated with {1} has been initiated.,Het proces voor het verwijderen van {0} gegevens geassocieerd met {1} is gestart.,reviewed,frappe,,,,,,,
-The question cannot be duplicate,De vraag kan niet dubbel zijn,reviewed,erpnext,,,,,,,
-The Request for Quotation can be accessed by clicking on the following button,De offerteaanvraag is toegankelijk door op de volgende knop te klikken,reviewed,erpnext,,,,,,,
-The resource you are looking for is not available,De bron die u zoekt is niet beschikbaar,reviewed,frappe,,,,,,,
-The root account {0} must be a group,Het root-account {0} moet een groep zijn,reviewed,erpnext,,,,,,,
-The selected BOMs are not for the same item,De geselecteerde stuklijsten zijn niet voor hetzelfde item,reviewed,erpnext,,,,,,,
-The selected change account {} doesn't belongs to Company {}.,De geselecteerde wisselrekening {} behoort niet tot bedrijf {}.,reviewed,erpnext,,,,,,,
-The selected item cannot have Batch,Het geselecteerde item kan niet Batch hebben,reviewed,erpnext,,,,,,,
-The selected payment entry should be linked with a creditor bank transaction,De geselecteerde betaling moet worden gekoppeld aan een crediteurenbanktransactie,reviewed,erpnext,,,,,,,
-The selected payment entry should be linked with a debtor bank transaction,De geselecteerde betaling moet worden gekoppeld aan een banktransactie met debiteur,reviewed,erpnext,,,,,,,
-The seller and the buyer cannot be the same,De verkoper en de koper kunnen niet hetzelfde zijn,reviewed,erpnext,,,,,,,
-The serial no {0} does not belong to item {1},Het serienummer {0} hoort niet bij artikel {1},reviewed,erpnext,,,,,,,
-The shareholder does not belong to this company,De aandeelhouder behoort niet tot dit bedrijf,reviewed,erpnext,,,,,,,
-The shares already exist,De aandelen bestaan al,reviewed,erpnext,,,,,,,
-The shares don't exist with the {0},De shares bestaan niet met de {0},reviewed,erpnext,,,,,,,
-The site which is consuming your events.,De site die uw gebeurtenissen verwerkt.,reviewed,frappe,,,,,,,
-The site you want to subscribe to for consuming events.,De site waarop u zich wilt abonneren voor het verwerken van gebeurtenissen.,reviewed,frappe,,,,,,,
-"The Stock Entry of type 'Manufacture' is known as backflush. Raw materials being consumed to manufacture finished goods is known as backflushing. <br><br> When creating Manufacture Entry, raw-material items are backflushed based on BOM of production item. If you want raw-material items to be backflushed based on Material Transfer entry made against that Work Order instead, then you can set it under this field.","De voorraadinvoer van het type &#39;Fabricage&#39; staat bekend als backflush. Grondstoffen die worden verbruikt om eindproducten te vervaardigen, worden backflushing genoemd.<br><br> Bij het maken van fabricageboeking worden grondstoffenartikelen gebackflusht op basis van de stuklijst van het productieartikel. Als u wilt dat grondstofartikelen worden gebackflusht op basis van de invoer van materiaaloverboeking op basis van die werkorder, dan kunt u dit onder dit veld instellen.",reviewed,erpnext,,,,,,,
-The system provides many pre-defined roles. You can add new roles to set finer permissions.,Het systeem biedt een groot aantal vooraf gedefinieerde rollen . U kunt nieuwe rollen toevoegen om specifiekere machtigingen in te stellen .,reviewed,frappe,,,,,,,
-"The task has been enqueued as a background job. In case there is any issue on processing in background, the system will add a comment about the error on this Stock Reconciliation and revert to the Draft stage","De taak is in de wacht gezet als achtergrondtaak. Als er een probleem is met de verwerking op de achtergrond, zal het systeem een opmerking toevoegen over de fout bij deze voorraadafstemming en terugkeren naar de conceptfase",reviewed,erpnext,,,,,,,
-The Term End Date cannot be earlier than the Term Start Date. Please correct the dates and try again.,De Term Einddatum kan niet eerder dan de Term startdatum. Corrigeer de data en probeer het opnieuw.,reviewed,erpnext,,,,,,,
-The Term End Date cannot be later than the Year End Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,De Term Einddatum kan niet later dan het jaar Einddatum van het studiejaar waarop de term wordt gekoppeld zijn (Academisch Jaar {}). Corrigeer de data en probeer het opnieuw.,reviewed,erpnext,,,,,,,
-The Term Start Date cannot be earlier than the Year Start Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,De Term Start datum kan niet eerder dan het jaar startdatum van het studiejaar waarop de term wordt gekoppeld zijn (Academisch Jaar {}). Corrigeer de data en probeer het opnieuw.,reviewed,erpnext,,,,,,,
-The total allocated amount ({0}) is greated than the paid amount ({1}).,Het totale toegewezen bedrag ({0}) is groter dan het betaalde bedrag ({1}).,reviewed,erpnext,,,,,,,
-The unallocated amount of Payment Entry {0} is greater than the Bank Transaction's unallocated amount,Het niet-toegewezen bedrag van betalingsinvoer {0} is groter dan het niet-toegewezen bedrag van de banktransactie,reviewed,erpnext,,,,,,,
-The user from this field will be rewarded points,De gebruiker uit dit veld krijgt punten,reviewed,frappe,,,,,,,
-"The user that will be used to create Customers, Items and Sales Orders. This user should have the relevant permissions.","De gebruiker die wordt gebruikt om klanten, artikelen en verkooporders te maken. Deze gebruiker moet de relevante machtigingen hebben.",reviewed,erpnext,,,,,,,
-The value of {0} differs between Items {1} and {2},De waarde van {0} verschilt tussen items {1} en {2},reviewed,erpnext,,,,,,,
-The value {0} is already assigned to an existing Item {1}.,De waarde {0} is al toegewezen aan een bestaand item {1}.,reviewed,erpnext,,,,,,,
-The webhook will be triggered if this expression is true,De webhook wordt geactiveerd als deze uitdrukking waar is,reviewed,frappe,,,,,,,
-The Year End Date cannot be earlier than the Year Start Date. Please correct the dates and try again.,Het Jaar Einddatum kan niet eerder dan het jaar startdatum. Corrigeer de data en probeer het opnieuw.,reviewed,erpnext,,,,,,,
-The {0} ({1}) must be equal to {2} ({3}),De {0} ({1}) moet gelijk zijn aan {2} ({3}),reviewed,erpnext,,,,,,,
-The {0} is already on auto repeat {1},De {0} is al op automatisch herhalen {1},reviewed,frappe,,,,,,,
-The {0} {1} created sucessfully,De {0} {1} is met succes gemaakt,reviewed,erpnext,,,,,,,
-Theme,Thema,reviewed,frappe,,,,,,,
-Theme Configuration,Thema-configuratie,reviewed,frappe,,,,,,,
-Theme URL,Thema-URL,reviewed,frappe,,,,,,,
-"Then Pricing Rules are filtered out based on Customer, Customer Group, Territory, Supplier, Supplier Type, Campaign, Sales Partner etc.","Dan worden prijsregels uitgefilterd op basis van Klant, Klantgroep, Regio,  Leverancier, Leverancier Type, Campagne, Verkooppartner, etc.",reviewed,erpnext,,,,,,,
-Therapies,Therapieën,reviewed,erpnext,,,,,,,
-Therapy,Behandeling,reviewed,erpnext,,,,,,,
-Therapy For,Therapie voor,reviewed,erpnext,,,,,,,
-Therapy Plan,Therapieplan,reviewed,erpnext,,,,,,,
-Therapy Plan Detail,Details van het therapieplan,reviewed,erpnext,,,,,,,
-Therapy Plan Details,Details therapieplan,reviewed,erpnext,,,,,,,
-Therapy Plan Template,Therapieplan sjabloon,reviewed,erpnext,,,,,,,
-Therapy Plan Template Detail,Details van sjabloon voor therapieplan,reviewed,erpnext,,,,,,,
-Therapy Plan {0} created successfully.,Het therapieplan {0} is gemaakt.,reviewed,erpnext,,,,,,,
-Therapy Plan:,Therapieplan:,reviewed,erpnext,,,,,,,
-Therapy Plans,Therapieplannen,reviewed,erpnext,,,,,,,
-Therapy Session,Therapiesessie,reviewed,erpnext,,,,,,,
-Therapy Session Charges: {0},Kosten voor therapiesessie: {0},reviewed,erpnext,,,,,,,
-Therapy Session overlaps with {0},Therapiesessie overlapt met {0},reviewed,erpnext,,,,,,,
-Therapy Sessions,Therapiesessies,reviewed,erpnext,,,,,,,
-Therapy Sessions Overlapping,Therapiesessies overlappen elkaar,reviewed,erpnext,,,,,,,
-Therapy Type,Therapietype,reviewed,erpnext,,,,,,,
-Therapy Types,Therapietypes,reviewed,erpnext,,,,,,,
-Therapy:,Behandeling:,reviewed,erpnext,,,,,,,
-There are active maintenance or repairs against the asset. You must complete all of them before cancelling the asset.,Er zijn actief onderhoud of reparaties aan het activum. U moet ze allemaal invullen voordat u het activum annuleert.,reviewed,erpnext,,,,,,,
-There are documents which have workflow states that do not exist in this Workflow. It is recommended that you add these states to the Workflow and change their states before removing these states.,Er zijn documenten met werkstroomstatussen die niet in deze werkstroom voorkomen. Het wordt aanbevolen dat u deze staten aan de workflow toevoegt en hun staten wijzigt voordat u deze staten verwijdert.,reviewed,frappe,,,,,,,
-"There are inconsistencies between the rate, no of shares and the amount calculated","Er zijn inconsistenties tussen de koers, aantal aandelen en het berekende bedrag",reviewed,erpnext,,,,,,,
-There are no procedure prescribed for,Er is geen procedure voor voorgeschreven,reviewed,erpnext,,,,,,,
-There are no Therapies prescribed for Patient {0},Er zijn geen therapieën voorgeschreven voor de patiënt {0},reviewed,erpnext,,,,,,,
-There are some linked records which needs to be created before we can import your file. Do you want to create the following missing records automatically?,Er zijn enkele gekoppelde records die moeten worden gemaakt voordat we uw bestand kunnen importeren. Wilt u automatisch de volgende ontbrekende records maken?,reviewed,frappe,,,,,,,
-There are {0} with the same filters already in the queue:,Er staan al {0} met dezelfde filters in de wachtrij:,reviewed,frappe,,,,,,,
-There can be multiple tiered collection factor based on the total spent. But the conversion factor for redemption will always be same for all the tier.,Er kan een meerlaagse verzamelfactor zijn op basis van het totaal uitgegeven. Maar de conversiefactor voor inlossing zal altijd hetzelfde zijn voor alle niveaus.,reviewed,erpnext,,,,,,,
-There can be only one Fold in a form,Er kan slechts een invouwing in een formulier zijn.,reviewed,frappe,,,,,,,
-There can only be 1 Account per Company in {0} {1},Er kan slechts 1 rekening per bedrijf zijn in {0} {1},reviewed,erpnext,,,,,,,
-"There can only be one Shipping Rule Condition with 0 or blank value for ""To Value""","Er kan maar één Verzendregel Voorwaarde met 0 of blanco waarde zijn voor ""To Value """,reviewed,erpnext,,,,,,,
-There is an error in your Address Template {0},Er is een fout in uw adressjabloon {0}.,reviewed,frappe,,,,,,,
-There is no batch found against the {0}: {1},Er is geen batch gevonden voor de {0}: {1},reviewed,erpnext,,,,,,,
-There is no data to be exported,Er zijn geen gegevens om te exporteren,reviewed,frappe,,,,,,,
-There is not enough leave balance for Leave Type {0},Er is niet genoeg verlofsaldo voor Verlof type {0},reviewed,erpnext,,,,,,,
-There is nothing to edit.,Er is niets om te bewerken .,reviewed,erpnext,,,,,,,
-There is some problem with the file url: {0},Er is een probleem met het bestand url: {0},reviewed,frappe,,,,,,,
-There is {0} with the same filters already in the queue:,Er staan al {0} met dezelfde filters in de wachtrij:,reviewed,frappe,,,,,,,
-There isn't any item variant for the selected item,Er is geen artikelvariant voor het geselecteerde artikel,reviewed,erpnext,,,,,,,
-There must be atleast one permission rule.,Er moet minimaal een machtigingsregel zijn.,reviewed,frappe,,,,,,,
-"There seems to be an issue with the server's braintree configuration. Don't worry, in case of failure, the amount will get refunded to your account.","Er lijkt een probleem te zijn met de braintree-configuratie van de server. Maakt u zich geen zorgen, in het geval van een fout, wordt het bedrag teruggestort op uw account.",reviewed,frappe,,,,,,,
-"There seems to be an issue with the server's GoCardless configuration. Don't worry, in case of failure, the amount will get refunded to your account.","Er lijkt een probleem te zijn met de GoCardless-configuratie van de server. Maakt u zich geen zorgen, in het geval van een fout, wordt het bedrag teruggestort op uw account.",reviewed,erpnext,,,,,,,
-There should be atleast one row for the following tables: {0},Er moet minstens één rij zijn voor de volgende tabellen: {0},reviewed,frappe,,,,,,,
-There should be atleast one row for {0} table,Er moet minimaal één rij zijn voor de {0} tabel,reviewed,frappe,,,,,,,
-There should remain at least one System Manager,Er moet ten minste één System Manager blijven,reviewed,frappe,,,,,,,
-There was an error building this page,Er is een fout opgetreden bij het maken van deze pagina,reviewed,frappe,,,,,,,
-There was an error saving filters,Er was een fout bij het opslaan van filters,reviewed,frappe,,,,,,,
+"System will pickup the materials from the selected warehouses. If not specified, system will create material request for purchase.","Het systeem haalt de materialen op uit de geselecteerde magazijnen. Indien niet gespecificeerd, zal het systeem een materiaalaanvraag voor aankoop creëren.",reviewed,erpnext,0.82,0.85,0.7,0.85,0.9,0.95,ok
+Table,Tabel,reviewed,frappe,0.97,0.9,1.0,1.0,1.0,1.0,ok
+Table Break,Tafelonderbreking,reviewed,frappe,0.36,0.3,0.2,0.4,0.7,0.8,rewrite
+Table Field,tabelveld,reviewed,frappe,0.77,0.8,0.8,0.7,0.7,0.95,review
+Table for Item that will be shown in Web Site,Tabel voor artikel dat op de website wordt getoond,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.95,ok
+Table HTML,Tabel HTML,reviewed,frappe,0.91,0.85,0.9,0.9,1.0,1.0,ok
+Table MultiSelect,Tabel meervoudige selectie,reviewed,frappe,0.81,0.8,0.75,0.75,0.9,0.95,ok
+Table updated,tabel bijgewerkt,reviewed,frappe,0.73,0.75,0.7,0.7,0.65,0.9,review
+Table {0} cannot be empty,Tabel {0} mag niet leeg zijn,reviewed,frappe,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Tag,Label,reviewed,both,0.8,0.75,0.8,0.7,1.0,1.0,ok
+tag,Tag,reviewed,frappe,0.57,0.5,0.5,0.5,0.7,0.9,review
+Tag Line,Slogan,reviewed,erpnext,0.89,0.85,0.9,0.8,1.0,1.0,ok
+"tag name..., e.g. #tag","tagnaam ..., bijvoorbeeld #tag",reviewed,frappe,0.83,0.8,0.75,0.8,0.85,1.0,ok
+Tags,labels,reviewed,frappe,0.72,0.7,0.75,0.65,0.7,0.9,review
+Take Backup,Neem een back-up,reviewed,frappe,0.7,0.7,0.55,0.7,0.8,0.9,review
+Take Photo,Neem foto,reviewed,frappe,0.69,0.75,0.55,0.7,0.65,0.9,review
+Tally Creditors Account,Tally crediteurenrekening,reviewed,erpnext,0.85,0.85,0.8,0.8,0.9,0.95,ok
+Tally Migration,Tally-migratie,reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Tally Migration Error,Tally-migratiefout,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Tap items to add them here,Tik op items om ze hier toe te voegen,reviewed,erpnext,0.92,0.9,0.9,0.85,0.95,1.0,ok
+Target,Doel,reviewed,both,0.87,0.8,0.85,0.85,1.0,1.0,ok
+Target  Amount,Streefbedrag,reviewed,erpnext,0.9,0.85,0.9,0.85,1.0,1.0,ok
+Target ({}),Doelwit ({}),reviewed,erpnext,0.72,0.65,0.65,0.6,0.9,1.0,review
+Target Detail,Doelgegevens,reviewed,erpnext,0.81,0.8,0.75,0.75,0.9,0.95,ok
+Target Details,Doelgegevens,reviewed,erpnext,0.81,0.8,0.75,0.75,0.9,0.95,ok
+Target Distribution,Doelverdeling,reviewed,erpnext,0.9,0.85,0.85,0.85,0.95,1.0,ok
+Target Location,Doellocatie,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Target Location is required while receiving Asset {0} from an employee,Doellocatie is vereist tijdens het ontvangen van activum {0} van een werknemer,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+Target Location is required while transferring Asset {0},Doellocatie is vereist tijdens het overbrengen van activa {0},reviewed,erpnext,0.87,0.85,0.8,0.85,0.85,1.0,ok
+Target Location or To Employee is required while receiving Asset {0},Doellocatie of Aan medewerker is vereist tijdens het ontvangen van activum {0},reviewed,erpnext,0.87,0.85,0.8,0.85,0.85,1.0,ok
+Target On,Doel op,reviewed,erpnext,0.67,0.65,0.55,0.65,0.75,0.9,review
+Target Qty,Doelhoeveelheid,reviewed,erpnext,0.91,0.9,0.85,0.85,0.95,1.0,ok
+Target Warehouse,Doelmagazijn,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Target warehouse is mandatory for row {0},Doel magazijn is verplicht voor rij {0},reviewed,erpnext,0.81,0.85,0.75,0.7,0.8,1.0,ok
+Targets,Doelen,reviewed,erpnext,0.91,0.85,0.9,0.85,1.0,1.0,ok
+Targetted,Gericht,reviewed,erpnext,0.79,0.75,0.75,0.7,0.9,0.95,review
+Tariff Number,Tariefnummer,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Task,Taak,reviewed,both,0.99,0.95,1.0,1.0,1.0,1.0,ok
+Task Depends On,Taak afhankelijk van,reviewed,erpnext,0.79,0.8,0.7,0.75,0.8,0.95,review
+Task Description,Taakomschrijving,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Task Name,Taaknaam,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Task Type,Taaktype,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Task's {0} End Date cannot be after Project's End Date.,De {0} Einddatum van de taak kan niet na de Einddatum van het Project zijn.,reviewed,erpnext,0.84,0.85,0.75,0.8,0.85,1.0,ok
+Task's {0} Start Date cannot be after Project's End Date.,De {0} Startdatum van de taak kan niet na de Einddatum van het Project zijn.,reviewed,erpnext,0.84,0.85,0.75,0.8,0.85,1.0,ok
+Tasks,taken,reviewed,erpnext,0.79,0.8,0.8,0.75,0.7,0.95,review
+tasks,taken,reviewed,frappe,0.89,0.85,0.85,0.85,0.9,1.0,ok
+Tasks Completed,Taken voltooid,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Tasks Created,Taken gemaakt,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Tasks have been created for managing the {0} disease (on row {1}),Er zijn taken gemaakt voor het beheer van de {0} ziekte (op rij {1}),reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+Tasks Overdue,Taken zijn achterstallig,reviewed,erpnext,0.74,0.75,0.65,0.7,0.8,0.9,review
+Tax,Belasting,reviewed,erpnext,0.92,0.85,0.9,0.9,1.0,1.0,ok
+Tax Account,Belastingrekening,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Tax Account Head,Hoofd belastingaccount,reviewed,erpnext,0.7,0.7,0.6,0.65,0.75,0.9,review
+Tax Account not specified for Shopify Tax {0},Belastingaccount niet opgegeven voor Shopify-belasting {0},reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
+Tax Amount,Belastingbedrag,reviewed,custom,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Tax Amount After Discount Amount,Belasting bedrag na korting,reviewed,erpnext,0.77,0.8,0.7,0.75,0.75,0.85,review
+Tax Amount After Discount Amount (Company Currency),Belastingbedrag na kortingsbedrag (bedrijfsvaluta),reviewed,erpnext,0.9,0.9,0.85,0.85,0.9,1.0,ok
+Tax Assets,Belastingvorderingen,reviewed,erpnext,0.81,0.75,0.75,0.75,0.9,0.95,ok
+Tax Breakup,Belastingverdeling,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,0.95,ok
+Tax Category,Belastingcategorie,reviewed,both,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Tax Category for overriding tax rates.,Belastingcategorie voor dwingende belastingtarieven.,reviewed,erpnext,0.76,0.75,0.6,0.8,0.8,0.95,review
+"Tax Category has been changed to ""Total"" because all the Items are non-stock items",Belastingcategorie is gewijzigd in &quot;Totaal&quot; omdat alle items niet-voorraad items zijn,reviewed,erpnext,0.65,0.6,0.5,0.7,0.7,0.9,review
+Tax detail table fetched from item master as a string and stored in this field.\nUsed for Taxes and Charges,Belasting detail tafel haalden van post meester als een string en opgeslagen in dit gebied.\n Gebruikt voor en -heffingen,reviewed,erpnext,0.1,0.1,0.05,0.1,0.1,0.2,rewrite
+Tax ID,BTW-nummer,reviewed,erpnext,0.95,0.9,0.95,0.9,1.0,1.0,ok
+Tax Id,BTW-nummer,reviewed,erpnext,0.95,0.9,0.95,0.9,1.0,1.0,ok
+Tax Id:,BTW-nummer:,reviewed,erpnext,0.95,0.9,0.95,0.9,1.0,1.0,ok
+Tax Rate,Belastingtarief,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Tax Rates,Belastingtarieven,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Tax Rule,Belastingregel,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Tax Rule Conflicts with {0},Belastingregel conflicteert met {0},reviewed,erpnext,0.89,0.85,0.85,0.85,0.9,1.0,ok
+Tax Rule for transactions.,Fiscale regel voor transacties.,reviewed,erpnext,0.74,0.75,0.65,0.65,0.85,0.95,review
+Tax template for buying transactions.,Belasting sjabloon voor inkooptransacties .,reviewed,erpnext,0.78,0.8,0.7,0.75,0.75,0.95,review
+Tax template for item tax rates.,Belastingsjabloon voor belastingtarieven van artikelen.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Tax template for selling transactions.,Belasting sjabloon voor verkooptransacties.,reviewed,erpnext,0.78,0.8,0.7,0.75,0.75,0.95,review
+Tax Template is mandatory.,Belastingsjabloon is verplicht.,reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Tax Total,Totaal belasting,reviewed,erpnext,0.8,0.8,0.75,0.75,0.85,0.95,ok
+Tax Type,Belastingtype,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Tax Withholding Account,Bronbelastingrekening,reviewed,erpnext,0.91,0.9,0.85,0.85,0.95,1.0,ok
+Tax Withholding Category,Bronbelastingcategorie,reviewed,erpnext,0.91,0.9,0.85,0.85,0.95,1.0,ok
+Tax Withholding Group,Belastinginhouding groep,reviewed,custom,0.74,0.75,0.65,0.7,0.75,0.9,review
+Tax Withholding Rate,Bronbelastingtarief,reviewed,erpnext,0.91,0.9,0.85,0.85,0.95,1.0,ok
+Tax Withholding Rates,Belastinginhouding,reviewed,erpnext,0.63,0.6,0.6,0.55,0.8,0.7,review
+Tax Withholding rates to be applied on transactions.,Belastinginhoudingstarieven die moeten worden toegepast op transacties.,reviewed,erpnext,0.86,0.85,0.8,0.8,0.9,1.0,ok
+Taxable Amount,Belastbaar bedrag,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Taxes,Belastingen,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Taxes and Charges,Belastingen en Toeslagen,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Taxes and Charges Added,Belastingen en Toeslagen toegevoegd,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Taxes and Charges Added (Company Currency),Belastingen en Toeslagen toegevoegd (Bedrijfsvaluta),reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Taxes and Charges Calculation,Belastingen en Toeslagen berekenen,reviewed,erpnext,0.81,0.8,0.75,0.8,0.8,0.95,ok
+Taxes and Charges Deducted,Belastingen en Toeslagen Afgetrokken,reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+Taxes and Charges Deducted (Company Currency),Belastingen en Toeslagen afgetrokken (Bedrijfsvaluta),reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+TaxJar Settings,TaxJar-instellingen,reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
+TDS Computation Summary,Samenvatting van de TDS-berekening,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+TDS Rate %,TDS-tarief %,reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
+Team Member,Teamlid,reviewed,erpnext,0.95,0.9,0.95,0.9,1.0,1.0,ok
+Team Members,Teamleden,reviewed,frappe,0.95,0.9,0.95,0.9,1.0,1.0,ok
+Team Members Heading,Teamleden Koptekst,reviewed,frappe,0.81,0.8,0.75,0.75,0.85,0.95,ok
+Technology,Technologie,reviewed,erpnext,0.95,0.9,0.95,0.9,1.0,1.0,ok
+Telecommunications,telecommunicatie,reviewed,erpnext,0.83,0.85,0.85,0.8,0.75,0.95,ok
+Telephone Expenses,Telefoonkosten,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Television,Televisie,reviewed,erpnext,0.97,0.9,1.0,1.0,1.0,1.0,ok
+Temperature:,Temperatuur:,reviewed,erpnext,0.97,0.9,1.0,1.0,1.0,1.0,ok
+Template,Sjabloon,reviewed,both,0.97,0.9,1.0,1.0,1.0,1.0,ok
+Template Error,Sjabloonfout,reviewed,frappe,0.95,0.9,0.9,1.0,1.0,1.0,ok
+Template Item,Sjabloonitem,reviewed,erpnext,0.83,0.8,0.7,0.9,0.9,1.0,ok
+Template Name,Sjabloonnaam,reviewed,erpnext,0.96,0.9,0.9,1.0,1.0,1.0,ok
+Template of terms or contract.,Sjabloon voor contractvoorwaarden,reviewed,erpnext,0.83,0.8,0.85,0.85,1.0,0.75,ok
+Template Options,Sjabloonopties,reviewed,frappe,0.96,0.9,0.9,1.0,1.0,1.0,ok
+Template Title,Sjabloontitel,reviewed,erpnext,0.96,0.9,0.9,1.0,1.0,1.0,ok
+Template Warnings,Sjabloonwaarschuwingen,reviewed,frappe,0.94,0.9,0.8,1.0,1.0,1.0,ok
+Templates of supplier scorecard criteria.,Templates van leveranciers scorecard criteria.,reviewed,erpnext,0.49,0.5,0.4,0.4,0.5,0.8,rewrite
+Templates of supplier scorecard variables.,Sjablonen van leveranciers scorecard variabelen.,reviewed,erpnext,0.56,0.6,0.5,0.5,0.5,0.8,review
+Templates of supplier standings.,Sjablonen van leveranciers standings.,reviewed,erpnext,0.4,0.4,0.3,0.4,0.4,0.7,rewrite
+Temporarily Disabled,Tijdelijk uitgeschakeld,reviewed,frappe,0.97,0.9,1.0,1.0,1.0,1.0,ok
+Temporarily on Hold,Tijdelijk in de wacht,reviewed,erpnext,0.91,0.85,0.9,0.9,1.0,1.0,ok
+Temporary,tijdelijk,reviewed,erpnext,0.77,0.8,0.9,0.7,0.6,1.0,review
+Temporary Accounts,Tijdelijke accounts,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Temporary Opening,Tijdelijke opening,reviewed,erpnext,0.79,0.7,0.7,0.8,1.0,1.0,review
+Temporary Opening Account,Tijdelijk account openen,reviewed,erpnext,0.34,0.3,0.3,0.3,0.5,0.7,rewrite
+Term Details,Voorwaarde Details,reviewed,erpnext,0.67,0.7,0.6,0.6,0.7,1.0,review
+Term End Date,Term Einddatum,reviewed,erpnext,0.52,0.5,0.4,0.5,0.5,1.0,review
+Term Name,term Naam,reviewed,erpnext,0.36,0.4,0.3,0.3,0.2,1.0,rewrite
+Term Start Date,Term Startdatum,reviewed,erpnext,0.52,0.5,0.4,0.5,0.5,1.0,review
+Terms,Voorwaarden,reviewed,erpnext,0.97,0.9,1.0,1.0,1.0,1.0,ok
+Terms and Conditions,Algemene voorwaarden,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Terms and Conditions Content,Algemene Voorwaarden Inhoud,reviewed,erpnext,0.84,0.85,0.75,0.85,0.8,1.0,ok
+Terms and Conditions Details,Algemene Voorwaarden Details,reviewed,erpnext,0.84,0.85,0.75,0.85,0.8,1.0,ok
+Terms and Conditions Help,Voorwaarden Help,reviewed,erpnext,0.64,0.6,0.6,0.6,0.8,0.8,review
+Terms and Conditions Template,Algemene voorwaarden Template,reviewed,erpnext,0.77,0.8,0.7,0.75,0.7,1.0,review
+Terms and Conditions1,Algemene Voorwaarden1,reviewed,erpnext,0.73,0.7,0.6,0.8,0.7,1.0,review
+Territory,Regio,reviewed,erpnext,0.91,0.85,0.9,0.9,1.0,1.0,ok
+Territory Manager,Regio Manager,reviewed,erpnext,0.85,0.85,0.8,0.9,0.8,1.0,ok
+Territory Name,Regio Naam,reviewed,erpnext,0.8,0.8,0.7,0.8,0.8,1.0,ok
+Territory Target Variance Based On Item Group,Territoriedoelvariantie op basis van artikelgroep,reviewed,erpnext,0.7,0.7,0.6,0.6,0.8,1.0,review
+Territory Targets,Regio Doelen,reviewed,erpnext,0.84,0.85,0.8,0.85,0.8,1.0,ok
+Territory-wise Sales,Gebiedsgewijze verkoop,reviewed,erpnext,0.8,0.8,0.75,0.7,1.0,1.0,ok
+Test Created,Test gemaakt,reviewed,erpnext,0.89,0.85,0.85,0.9,1.0,1.0,ok
+Test Email Address,Test e-mailadres,reviewed,frappe,0.97,0.9,1.0,1.0,1.0,1.0,ok
+Test email sent to {0},Test-e-mail verzonden naar {0},reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Test Group,Testgroep,reviewed,erpnext,0.92,0.85,0.9,0.9,1.0,1.0,ok
+Test Name,Test Naam,reviewed,erpnext,0.74,0.75,0.65,0.7,0.7,1.0,review
+Test Template,Test sjabloon,reviewed,erpnext,0.8,0.8,0.8,0.75,0.8,1.0,ok
+Test(s) Prescribed.,Test (s) voorgeschreven.,reviewed,erpnext,0.52,0.5,0.4,0.5,0.5,0.9,review
+Testing,Testen,reviewed,frappe,0.97,0.9,1.0,1.0,1.0,1.0,ok
+Text,Tekst,reviewed,frappe,0.97,0.9,1.0,1.0,1.0,1.0,ok
+Text Align,Tekst uitlijnen,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Text Color,Tekst Kleur,reviewed,frappe,0.82,0.85,0.75,0.8,0.8,1.0,ok
+Text Content,text Content,reviewed,frappe,0.18,0.2,0.1,0.1,0.1,0.8,rewrite
+text in document type,tekst in het documenttype,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Text to be displayed for Link to Web Page if this form has a web page. Link route will be automatically generated based on `page_name` and `parent_website_route`,Tekst die moet worden weergegeven Link naar webpagina wanneer dit formulier heeft een webpagina. Link route wordt automatisch gegenereerd worden op basis van `page_name` en` parent_website_route`,reviewed,frappe,0.46,0.5,0.3,0.5,0.3,0.8,rewrite
+Thank you,Dankjewel,reviewed,frappe,0.73,0.6,0.8,0.6,1.0,1.0,review
+Thank you for your business!,Bedankt voor uw zaken!,reviewed,erpnext,0.63,0.6,0.5,0.6,0.8,1.0,review
+Thank you for your email,Bedankt voor je email,reviewed,frappe,0.76,0.75,0.8,0.7,0.7,1.0,review
+Thank you for your feedback!,Bedankt voor je feedback!,reviewed,frappe,0.86,0.8,0.9,0.8,1.0,1.0,ok
+Thank you for your interest in subscribing to our updates,Dank u voor uw interesse in een abonnement op onze updates,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
+Thank you for your message,Dank u voor uw bericht,reviewed,frappe,0.94,0.9,0.95,0.9,1.0,1.0,ok
+The 'From Package No.' field must neither be empty nor it's value less than 1.,Het &#39;Van pakketnummer&#39; veld mag niet leeg zijn of de waarde is kleiner dan 1.,reviewed,erpnext,0.52,0.5,0.4,0.5,0.5,0.9,review
+"The Access to Request for Quotation From Portal is Disabled. To Allow Access, Enable it in Portal Settings.","De toegang tot offerteaanvraag vanuit de portal is uitgeschakeld. Om toegang toe te staan, schakelt u het in in Portal-instellingen.",reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
+"The account head under Liability or Equity, in which Profit/Loss will be booked","De rekening hoofd onder Aansprakelijkheid of Equity, waarbij winst / verlies zal worden geboekt",reviewed,erpnext,0.4,0.4,0.3,0.4,0.4,0.8,rewrite
+The accounts are set by the system automatically but do confirm these defaults,"De accounts worden automatisch door het systeem ingesteld, maar bevestig deze standaardinstellingen",reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
+The amount of {0} set in this payment request is different from the calculated amount of all payment plans: {1}. Make sure this is correct before submitting the document.,"Het bedrag van {0} dat in dit betalingsverzoek is ingesteld, wijkt af van het berekende bedrag van alle betalingsplannen: {1}. Controleer of dit klopt voordat u het document verzendt.",reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+"The application has been updated to a new version, please refresh this page","De applicatie is bijgewerkt naar een nieuwe versie, gelieve deze pagina te vernieuwen",reviewed,frappe,0.87,0.85,0.8,0.9,0.9,1.0,ok
+The attachments could not be correctly linked to the new document,De bijlagen kunnen niet correct worden gekoppeld aan het nieuwe document,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+The Auto Repeat for this document has been disabled.,De automatische herhaling voor dit document is uitgeschakeld.,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+The BOM which will be replaced,De Stuklijst die zal worden vervangen,reviewed,erpnext,0.91,0.9,0.85,0.9,0.9,1.0,ok
+The Brand,De Brand,reviewed,erpnext,0.23,0.2,0.1,0.1,0.5,0.8,rewrite
+The Campaign '{0}' already exists for the {1} '{2}',De campagne &#39;{0}&#39; bestaat al voor de {1} &#39;{2}&#39;,reviewed,erpnext,0.6,0.6,0.5,0.6,0.6,0.9,review
+The column {0} has {1} different date formats. Automatically setting {2} as the default format as it is the most common. Please change other values in this column to this format.,"De kolom {0} heeft {1} verschillende datumnotaties. Automatisch instellen van {2} als het standaardformaat, aangezien dit het meest voorkomt. Verander a.u.b. andere waarden in deze kolom in dit formaat.",reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
+The comment cannot be empty,De opmerking mag niet leeg zijn,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+The Condition '{0}' is invalid,De voorwaarde &#39;{0}&#39; is ongeldig,reviewed,frappe,0.61,0.6,0.5,0.6,0.6,0.9,review
+The CSV format is case sensitive,Het CSV-formaat is hoofdlettergevoelig,reviewed,frappe,0.98,0.95,1.0,0.95,1.0,1.0,ok
+The difference between from time and To Time must be a multiple of Appointment,Het verschil tussen van tijd en tot tijd moet een veelvoud van afspraak zijn,reviewed,erpnext,0.71,0.7,0.6,0.7,0.7,1.0,review
+The document could not be correctly assigned,Het document kan niet correct worden toegewezen,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+The document has been assigned to {0},Het document is toegewezen aan {0},reviewed,frappe,0.98,0.95,1.0,0.95,1.0,1.0,ok
+"The fallback series is ""SO-WOO-"".",De fallback-serie is &quot;SO-WOO-&quot;.,reviewed,erpnext,0.61,0.6,0.5,0.6,0.6,0.9,review
+The field Asset Account cannot be blank,Het veld Activa-account mag niet leeg zijn,reviewed,erpnext,0.92,0.9,0.85,0.9,1.0,1.0,ok
+The field Equity/Liability Account cannot be blank,Het veld Equity / Liability Account mag niet leeg zijn,reviewed,erpnext,0.42,0.4,0.3,0.4,0.5,0.9,rewrite
+The field From Shareholder cannot be blank,Het veld Van Aandeelhouder mag niet leeg zijn,reviewed,erpnext,0.77,0.75,0.7,0.75,0.8,1.0,review
+The field To Shareholder cannot be blank,Het veld Naar aandeelhouder mag niet leeg zijn,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
+The fields From Shareholder and To Shareholder cannot be blank,De velden Van Aandeelhouder en Aandeelhouder mogen niet leeg zijn,reviewed,erpnext,0.57,0.55,0.5,0.55,0.6,0.7,review
+The first Approver in the list will be set as the default Approver.,De eerste goedkeurder in de lijst wordt ingesteld als de standaard goedkeurder.,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+The first user will become the System Manager (you can change this later).,De eerste gebruiker zal de System Manager te worden (u kunt deze later wijzigen).,reviewed,frappe,0.69,0.75,0.5,0.8,0.5,1.0,review
+The First User: You,De eerste gebruiker: U,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
+The folio numbers are not matching,De folionummers komen niet overeen,reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
+The following deleted attributes exist in Variants but not in the Template. You can either delete the Variants or keep the attribute(s) in template.,De volgende verwijderde attributen bestaan in varianten maar niet in de sjabloon. U kunt de varianten verwijderen of het / de attribuut (en) in de sjabloon behouden.,reviewed,erpnext,0.81,0.8,0.75,0.8,0.75,1.0,ok
+The following employees are currently still reporting to {0}:,De volgende medewerkers rapporteren momenteel nog aan {0}:,reviewed,erpnext,0.98,0.95,1.0,0.95,1.0,1.0,ok
+The following records needs to be created before we can import your file.,De volgende records moeten worden gemaakt voordat we uw bestand kunnen importeren.,reviewed,frappe,0.93,0.9,0.9,0.9,0.95,1.0,ok
+The following serial numbers were created: <br><br> {0},De volgende serienummers zijn gemaakt: <br><br> {0},reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+The following {0} were created: {1},De volgende {0} zijn gemaakt: {1},reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+The gross weight of the package. Usually net weight + packaging material weight. (for print),Het bruto gewicht van het pakket. Meestal nettogewicht + verpakkingsmateriaal gewicht. (Voor afdrukken),reviewed,erpnext,0.86,0.85,0.8,0.85,0.85,1.0,ok
+The holiday on {0} is not between From Date and To Date,De vakantie op {0} is niet tussen Van Datum en To Date,reviewed,erpnext,0.4,0.4,0.3,0.4,0.5,0.8,rewrite
+The item referenced by {0} - {1} is already invoiced,"Het artikel waarnaar wordt verwezen door {0} - {1}, is al gefactureerd",reviewed,erpnext,0.92,0.9,0.85,0.9,0.95,1.0,ok
+The Item {0} cannot have Batch,De Punt {0} kan niet Batch hebben,reviewed,erpnext,0.15,0.1,0.1,0.1,0.2,0.7,rewrite
+The Link specified has either been used before or Invalid,De opgegeven link is eerder gebruikt of ongeldig,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
+The Loyalty Program isn't valid for the selected company,Het loyaliteitsprogramma is niet geldig voor het geselecteerde bedrijf,reviewed,erpnext,0.98,0.95,1.0,0.95,1.0,1.0,ok
+The mapping configuration between two doctypes.,De toewijzingsconfiguratie tussen twee doctypes.,reviewed,frappe,0.88,0.85,0.8,0.85,1.0,1.0,ok
+"The meta description is an HTML attribute that provides a brief summary of a web page. Search engines such as Google often display the meta description in search results, which can influence click-through rates.","De metabeschrijving is een HTML-kenmerk dat een korte samenvatting van een webpagina geeft. Zoekmachines zoals Google tonen de metabeschrijving vaak in zoekresultaten, wat de klikfrequenties kan beïnvloeden.",reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+"The meta image is unique image representing the content of the page. Images for this Card should be at least 280px in width, and at least 150px in height.",De meta-afbeelding is een unieke afbeelding die de inhoud van de pagina vertegenwoordigt. Afbeeldingen voor deze kaart moeten minimaal 280 px breed en minimaal 150 px hoog zijn.,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
+The minimum distance between rows of plants for optimum growth,De minimale afstand tussen rijen planten voor optimale groei,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+The minimum length between each plant in the field for optimum growth,De minimale lengte tussen elke plant in het veld voor optimale groei,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
+The name of the institute for which you are setting up this system.,De naam van het instituut waarvoor u het opzetten van dit systeem.,reviewed,erpnext,0.33,0.3,0.3,0.5,0.2,0.4,rewrite
+The name of your company for which you are setting up this system.,De naam van uw bedrijf waar u het systeem voor op zet.,reviewed,erpnext,0.73,0.7,0.7,0.7,0.8,1.0,review
+The name that will appear in Google Calendar,De naam die in Google Agenda wordt weergegeven,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+The net weight of this package. (calculated automatically as sum of net weight of items),Het nettogewicht van dit pakket. (Wordt automatisch berekend als de som van de netto-gewicht van de artikelen),reviewed,erpnext,0.68,0.7,0.6,0.7,0.6,1.0,review
+The new BOM after replacement,De nieuwe Stuklijst na vervanging,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"The number of billing cycles for which the customer should be charged. For example, if a customer is buying a 1-year membership that should be billed on a monthly basis, this value should be 12.","Het aantal factureringscycli waarvoor de klant moet worden gefactureerd. Als een klant bijvoorbeeld een lidmaatschap van één jaar koopt dat maandelijks moet worden gefactureerd, moet deze waarde 12 zijn.",reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+The number of free follow ups (Patient Encounters in valid days) allowed,Het toegestane aantal gratis follow-ups (patiëntontmoetingen in geldige dagen),reviewed,erpnext,0.66,0.7,0.5,0.6,0.7,0.9,review
+The number of shares and the share numbers are inconsistent,Het aantal aandelen en de aandelenaantallen zijn inconsistent,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+The page you are looking for is missing. This could be because it is moved or there is a typo in the link.,De pagina die u zoekt ontbreekt. Dit kan zijn omdat het wordt verplaatst of er een typefout in de link.,reviewed,frappe,0.5,0.6,0.4,0.5,0.3,0.7,review
+The parent account {0} does not exists in the uploaded template,Het bovenliggende account {0} bestaat niet in de geüploade sjabloon,reviewed,erpnext,0.8,0.8,0.7,0.8,0.8,1.0,ok
+The password of your account has expired.,Het wachtwoord van uw account is verlopen.,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+The payment for this membership is not paid. To generate invoice fill the payment details,De betaling voor dit lidmaatschap wordt niet betaald. Vul de betalingsgegevens in om een factuur te genereren,reviewed,erpnext,0.54,0.6,0.4,0.6,0.4,0.9,review
+The payment gateway account in plan {0} is different from the payment gateway account in this payment request,Het betalingsgateway-account in plan {0} verschilt van het betalingsgateway-account in dit betalingsverzoek,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+The Payment Term at row {0} is possibly a duplicate.,De betalingstermijn op rij {0} is mogelijk een duplicaat.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
+"The percentage you are allowed to bill more against the amount ordered. For example, if the order value is $100 for an item and tolerance is set as 10%, then you are allowed to bill up to $110","Het percentage dat u meer mag afrekenen op het bestelde bedrag. Als de bestelwaarde voor een artikel bijvoorbeeld € 100 is en de tolerantie is ingesteld op 10%, mag u maximaal € 110 in rekening brengen",reviewed,erpnext,0.9,0.9,0.8,0.9,0.9,1.0,ok
+"The percentage you are allowed to receive or deliver more against the quantity ordered. For example, if you have ordered 100 units, and your Allowance is 10%, then you are allowed to receive 110 units.","Het percentage dat u meer mag ontvangen of leveren ten opzichte van de bestelde hoeveelheid. Als u bijvoorbeeld 100 eenheden heeft besteld en uw toeslag is 10%, dan mag u 110 eenheden ontvangen.",reviewed,erpnext,0.88,0.9,0.8,0.8,0.9,1.0,ok
+The process for deletion of {0} data associated with {1} has been initiated.,Het proces voor het verwijderen van {0} gegevens geassocieerd met {1} is gestart.,reviewed,frappe,0.71,0.7,0.6,0.7,0.7,1.0,review
+The question cannot be duplicate,De vraag kan niet dubbel zijn,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+The Request for Quotation can be accessed by clicking on the following button,De offerteaanvraag is toegankelijk door op de volgende knop te klikken,reviewed,erpnext,0.9,0.9,0.8,0.9,0.9,1.0,ok
+The resource you are looking for is not available,De bron die u zoekt is niet beschikbaar,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
+The root account {0} must be a group,Het root-account {0} moet een groep zijn,reviewed,erpnext,0.79,0.8,0.7,0.7,0.8,1.0,review
+The selected BOMs are not for the same item,De geselecteerde stuklijsten zijn niet voor hetzelfde item,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+The selected change account {} doesn't belongs to Company {}.,De geselecteerde wisselrekening {} behoort niet tot bedrijf {}.,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+The selected item cannot have Batch,Het geselecteerde item kan niet Batch hebben,reviewed,erpnext,0.48,0.5,0.3,0.5,0.4,0.8,rewrite
+The selected payment entry should be linked with a creditor bank transaction,De geselecteerde betaling moet worden gekoppeld aan een crediteurenbanktransactie,reviewed,erpnext,0.81,0.8,0.7,0.8,0.8,1.0,ok
+The selected payment entry should be linked with a debtor bank transaction,De geselecteerde betaling moet worden gekoppeld aan een banktransactie met debiteur,reviewed,erpnext,0.72,0.7,0.6,0.7,0.7,1.0,review
+The seller and the buyer cannot be the same,De verkoper en de koper kunnen niet hetzelfde zijn,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+The serial no {0} does not belong to item {1},Het serienummer {0} hoort niet bij artikel {1},reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+The shareholder does not belong to this company,De aandeelhouder behoort niet tot dit bedrijf,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+The shares already exist,De aandelen bestaan al,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+The shares don't exist with the {0},De shares bestaan niet met de {0},reviewed,erpnext,0.4,0.4,0.3,0.4,0.4,0.7,rewrite
+The site which is consuming your events.,De site die uw gebeurtenissen verwerkt.,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
+The site you want to subscribe to for consuming events.,De site waarop u zich wilt abonneren voor het verwerken van gebeurtenissen.,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
+"The Stock Entry of type 'Manufacture' is known as backflush. Raw materials being consumed to manufacture finished goods is known as backflushing. <br><br> When creating Manufacture Entry, raw-material items are backflushed based on BOM of production item. If you want raw-material items to be backflushed based on Material Transfer entry made against that Work Order instead, then you can set it under this field.","De voorraadinvoer van het type &#39;Fabricage&#39; staat bekend als backflush. Grondstoffen die worden verbruikt om eindproducten te vervaardigen, worden backflushing genoemd.<br><br> Bij het maken van fabricageboeking worden grondstoffenartikelen gebackflusht op basis van de stuklijst van het productieartikel. Als u wilt dat grondstofartikelen worden gebackflusht op basis van de invoer van materiaaloverboeking op basis van die werkorder, dan kunt u dit onder dit veld instellen.",reviewed,erpnext,0.59,0.6,0.5,0.6,0.5,0.9,review
+The system provides many pre-defined roles. You can add new roles to set finer permissions.,Het systeem biedt een groot aantal vooraf gedefinieerde rollen . U kunt nieuwe rollen toevoegen om specifiekere machtigingen in te stellen .,reviewed,frappe,0.71,0.7,0.6,0.7,0.7,0.9,review
+"The task has been enqueued as a background job. In case there is any issue on processing in background, the system will add a comment about the error on this Stock Reconciliation and revert to the Draft stage","De taak is in de wacht gezet als achtergrondtaak. Als er een probleem is met de verwerking op de achtergrond, zal het systeem een opmerking toevoegen over de fout bij deze voorraadafstemming en terugkeren naar de conceptfase",reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
+The Term End Date cannot be earlier than the Term Start Date. Please correct the dates and try again.,De Term Einddatum kan niet eerder dan de Term startdatum. Corrigeer de data en probeer het opnieuw.,reviewed,erpnext,0.59,0.6,0.5,0.6,0.5,1.0,review
+The Term End Date cannot be later than the Year End Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,De Term Einddatum kan niet later dan het jaar Einddatum van het studiejaar waarop de term wordt gekoppeld zijn (Academisch Jaar {}). Corrigeer de data en probeer het opnieuw.,reviewed,erpnext,0.51,0.5,0.4,0.5,0.4,1.0,review
+The Term Start Date cannot be earlier than the Year Start Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,De Term Start datum kan niet eerder dan het jaar startdatum van het studiejaar waarop de term wordt gekoppeld zijn (Academisch Jaar {}). Corrigeer de data en probeer het opnieuw.,reviewed,erpnext,0.51,0.5,0.4,0.5,0.4,1.0,review
+The total allocated amount ({0}) is greated than the paid amount ({1}).,Het totale toegewezen bedrag ({0}) is groter dan het betaalde bedrag ({1}).,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+The unallocated amount of Payment Entry {0} is greater than the Bank Transaction's unallocated amount,Het niet-toegewezen bedrag van betalingsinvoer {0} is groter dan het niet-toegewezen bedrag van de banktransactie,reviewed,erpnext,0.9,0.9,0.8,0.9,0.9,1.0,ok
+The user from this field will be rewarded points,De gebruiker uit dit veld krijgt punten,reviewed,frappe,0.84,0.8,0.8,0.8,0.9,1.0,ok
+"The user that will be used to create Customers, Items and Sales Orders. This user should have the relevant permissions.","De gebruiker die wordt gebruikt om klanten, artikelen en verkooporders te maken. Deze gebruiker moet de relevante machtigingen hebben.",reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+The value of {0} differs between Items {1} and {2},De waarde van {0} verschilt tussen items {1} en {2},reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+The value {0} is already assigned to an existing Item {1}.,De waarde {0} is al toegewezen aan een bestaand item {1}.,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+The webhook will be triggered if this expression is true,De webhook wordt geactiveerd als deze uitdrukking waar is,reviewed,frappe,0.9,0.9,0.8,0.9,0.9,1.0,ok
+The Year End Date cannot be earlier than the Year Start Date. Please correct the dates and try again.,Het Jaar Einddatum kan niet eerder dan het jaar startdatum. Corrigeer de data en probeer het opnieuw.,reviewed,erpnext,0.51,0.5,0.4,0.5,0.4,1.0,review
+The {0} ({1}) must be equal to {2} ({3}),De {0} ({1}) moet gelijk zijn aan {2} ({3}),reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+The {0} is already on auto repeat {1},De {0} is al op automatisch herhalen {1},reviewed,frappe,0.61,0.6,0.5,0.6,0.6,0.9,review
+The {0} {1} created sucessfully,De {0} {1} is met succes gemaakt,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Theme,Thema,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Theme Configuration,Thema-configuratie,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Theme URL,Thema-URL,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
+"Then Pricing Rules are filtered out based on Customer, Customer Group, Territory, Supplier, Supplier Type, Campaign, Sales Partner etc.","Dan worden prijsregels uitgefilterd op basis van Klant, Klantgroep, Regio,  Leverancier, Leverancier Type, Campagne, Verkooppartner, etc.",reviewed,erpnext,0.72,0.7,0.6,0.7,0.7,1.0,review
+Therapies,Therapieën,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Therapy,Behandeling,reviewed,erpnext,0.83,0.8,0.8,0.7,1.0,1.0,ok
+Therapy For,Therapie voor,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Therapy Plan,Therapieplan,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Therapy Plan Detail,Details van het therapieplan,reviewed,erpnext,0.7,0.7,0.6,0.6,0.8,1.0,review
+Therapy Plan Details,Details therapieplan,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Therapy Plan Template,Therapieplan sjabloon,reviewed,erpnext,0.7,0.7,0.6,0.6,0.8,1.0,review
+Therapy Plan Template Detail,Details van sjabloon voor therapieplan,reviewed,erpnext,0.62,0.6,0.5,0.5,0.7,1.0,review
+Therapy Plan {0} created successfully.,Het therapieplan {0} is gemaakt.,reviewed,erpnext,0.9,0.9,0.8,0.9,0.9,1.0,ok
+Therapy Plan:,Therapieplan:,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Therapy Plans,Therapieplannen,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Therapy Session,Therapiesessie,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Therapy Session Charges: {0},Kosten voor therapiesessie: {0},reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Therapy Session overlaps with {0},Therapiesessie overlapt met {0},reviewed,erpnext,0.9,0.9,0.8,0.9,0.9,1.0,ok
+Therapy Sessions,Therapiesessies,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Therapy Sessions Overlapping,Therapiesessies overlappen elkaar,reviewed,erpnext,0.84,0.8,0.8,0.8,0.9,1.0,ok
+Therapy Type,Therapietype,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Therapy Types,Therapietypes,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+Therapy:,Behandeling:,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+There are active maintenance or repairs against the asset. You must complete all of them before cancelling the asset.,Er zijn actief onderhoud of reparaties aan het activum. U moet ze allemaal invullen voordat u het activum annuleert.,reviewed,erpnext,0.61,0.6,0.5,0.6,0.5,1.0,review
+There are documents which have workflow states that do not exist in this Workflow. It is recommended that you add these states to the Workflow and change their states before removing these states.,Er zijn documenten met werkstroomstatussen die niet in deze werkstroom voorkomen. Het wordt aanbevolen dat u deze staten aan de workflow toevoegt en hun staten wijzigt voordat u deze staten verwijdert.,reviewed,frappe,0.7,0.7,0.6,0.7,0.7,1.0,review
+"There are inconsistencies between the rate, no of shares and the amount calculated","Er zijn inconsistenties tussen de koers, aantal aandelen en het berekende bedrag",reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+There are no procedure prescribed for,Er is geen procedure voor voorgeschreven,reviewed,erpnext,0.29,0.3,0.2,0.3,0.2,0.5,rewrite
+There are no Therapies prescribed for Patient {0},Er zijn geen therapieën voorgeschreven voor de patiënt {0},reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+There are some linked records which needs to be created before we can import your file. Do you want to create the following missing records automatically?,Er zijn enkele gekoppelde records die moeten worden gemaakt voordat we uw bestand kunnen importeren. Wilt u automatisch de volgende ontbrekende records maken?,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+There are {0} with the same filters already in the queue:,Er staan al {0} met dezelfde filters in de wachtrij:,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
+There can be multiple tiered collection factor based on the total spent. But the conversion factor for redemption will always be same for all the tier.,Er kan een meerlaagse verzamelfactor zijn op basis van het totaal uitgegeven. Maar de conversiefactor voor inlossing zal altijd hetzelfde zijn voor alle niveaus.,reviewed,erpnext,0.71,0.7,0.6,0.7,0.7,1.0,review
+There can be only one Fold in a form,Er kan slechts een invouwing in een formulier zijn.,reviewed,frappe,0.72,0.7,0.6,0.7,0.8,1.0,review
+There can only be 1 Account per Company in {0} {1},Er kan slechts 1 rekening per bedrijf zijn in {0} {1},reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+"There can only be one Shipping Rule Condition with 0 or blank value for ""To Value""","Er kan maar één Verzendregel Voorwaarde met 0 of blanco waarde zijn voor ""To Value """,reviewed,erpnext,0.62,0.6,0.5,0.6,0.6,0.9,review
+There is an error in your Address Template {0},Er is een fout in uw adressjabloon {0}.,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
+There is no batch found against the {0}: {1},Er is geen batch gevonden voor de {0}: {1},reviewed,erpnext,0.9,0.9,0.8,0.9,0.9,1.0,ok
+There is no data to be exported,Er zijn geen gegevens om te exporteren,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
+There is not enough leave balance for Leave Type {0},Er is niet genoeg verlofsaldo voor Verlof type {0},reviewed,erpnext,0.8,0.8,0.7,0.8,0.8,1.0,ok
+There is nothing to edit.,Er is niets om te bewerken .,reviewed,erpnext,0.72,0.7,0.6,0.7,0.7,1.0,review
+There is some problem with the file url: {0},Er is een probleem met het bestand url: {0},reviewed,frappe,0.71,0.7,0.6,0.7,0.7,1.0,review
+There is {0} with the same filters already in the queue:,Er staan al {0} met dezelfde filters in de wachtrij:,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
+There isn't any item variant for the selected item,Er is geen artikelvariant voor het geselecteerde artikel,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
+There must be atleast one permission rule.,Er moet minimaal een machtigingsregel zijn.,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
+"There seems to be an issue with the server's braintree configuration. Don't worry, in case of failure, the amount will get refunded to your account.","Er lijkt een probleem te zijn met de braintree-configuratie van de server. Maakt u zich geen zorgen, in het geval van een fout, wordt het bedrag teruggestort op uw account.",reviewed,frappe,0.82,0.8,0.8,0.8,0.8,1.0,ok
+"There seems to be an issue with the server's GoCardless configuration. Don't worry, in case of failure, the amount will get refunded to your account.","Er lijkt een probleem te zijn met de GoCardless-configuratie van de server. Maakt u zich geen zorgen, in het geval van een fout, wordt het bedrag teruggestort op uw account.",reviewed,erpnext,0.82,0.8,0.8,0.8,0.8,1.0,ok
+There should be atleast one row for the following tables: {0},Er moet minstens één rij zijn voor de volgende tabellen: {0},reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
+There should be atleast one row for {0} table,Er moet minimaal één rij zijn voor de {0} tabel,reviewed,frappe,0.81,0.8,0.7,0.8,0.8,1.0,ok
+There should remain at least one System Manager,Er moet ten minste één System Manager blijven,reviewed,frappe,0.8,0.8,0.7,0.8,0.8,1.0,ok
+There was an error building this page,Er is een fout opgetreden bij het maken van deze pagina,reviewed,frappe,0.94,0.9,0.9,0.9,1.0,1.0,ok
+There was an error saving filters,Er was een fout bij het opslaan van filters,reviewed,frappe,0.62,0.6,0.5,0.6,0.6,1.0,review
 There was an error saving the document.,Er is een fout opgetreden bij het opslaan van het document.,reviewed,erpnext,,,,,,,
 There were errors,Er zijn fouten opgetreden.,reviewed,frappe,,,,,,,
 There were errors creating Course Schedule,Er zijn fouten opgetreden bij het maken van cursusplanning,reviewed,erpnext,,,,,,,

@@ -6533,64 +6533,64 @@ Not Sent,Niet verzonden,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Not Set,Niet ingesteld,reviewed,frappe,0.88,0.65,0.6,0.6,0.55,0.9,improved
 Not Specified,Niet gespecificeerd,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Not Started,Niet gestart,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Not Therapies Prescribed,Niet voorgeschreven therapieën,reviewed,erpnext,0.5,0.45,0.4,0.55,0.5,0.85,review
+Not Therapies Prescribed,Geen therapieën voorgeschreven,reviewed,erpnext,0.82,0.45,0.4,0.55,0.5,0.85,improved
 Note,Opmerking,reviewed,both,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Note Seen By,Opmerking gezien door,reviewed,frappe,0.83,0.8,0.8,0.8,0.9,1.0,ok
-Note:,Notitie:,reviewed,both,0.79,0.75,0.8,0.7,0.9,1.0,review
+Note:,Opmerking:,reviewed,both,0.88,0.75,0.8,0.7,0.9,1.0,improved
 Note: By default emails for failed backups are sent.,Opmerking: standaard worden e-mails voor mislukte back-ups verzonden.,reviewed,frappe,0.86,0.85,0.85,0.8,0.9,1.0,ok
-Note: Changing the Page Name will break previous URL to this page.,Opmerking: de paginanaam verandert zal de vorige URL naar deze pagina breken.,reviewed,frappe,0.5,0.5,0.4,0.6,0.35,0.85,review
+Note: Changing the Page Name will break previous URL to this page.,"Opmerking: als u de paginanaam wijzigt, werkt de vorige URL naar deze pagina niet meer.",reviewed,frappe,0.87,0.5,0.4,0.6,0.35,0.85,improved
 Note: Due / Reference Date exceeds allowed customer credit days by {0} day(s),Let op: de vervaldatum/referentiedatum overschrijdt de toegestane krediettermijn voor de klant met {0} dag(en),reviewed,erpnext,0.91,0.3,0.25,0.4,0.2,0.6,improved
 Note: Email will not be sent to disabled users,Opmerking: E-mail wordt niet verzonden naar uitgeschakelde gebruikers,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-"Note: For best results,  images must be of the same size and width must be greater than height.",Opmerking: voor de beste resultaten moeten afbeeldingen van dezelfde grootte en breedte groter zijn dan hoogte.,reviewed,frappe,0.59,0.55,0.5,0.65,0.5,0.85,review
+"Note: For best results,  images must be of the same size and width must be greater than height.",Opmerking: voor de beste resultaten moeten afbeeldingen dezelfde grootte hebben en moet de breedte groter zijn dan de hoogte.,reviewed,frappe,0.88,0.55,0.5,0.65,0.5,0.85,improved
 Note: Item {0} added multiple times,Opmerking: item {0} meerdere keren toegevoegd,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Note: Item {0} entered multiple times,Opmerking : Artikel {0} meerdere keren ingevoerd,reviewed,erpnext,0.71,0.7,0.7,0.65,0.65,0.95,review
-Note: Multiple sessions will be allowed in case of mobile device,Opmerking: meerdere sessies zullen in het geval van mobiele apparatuur worden toegestaan,reviewed,frappe,0.72,0.7,0.65,0.7,0.7,0.95,review
+Note: Item {0} entered multiple times,Opmerking: artikel {0} is meerdere keren ingevoerd,reviewed,erpnext,0.88,0.7,0.7,0.65,0.65,0.95,improved
+Note: Multiple sessions will be allowed in case of mobile device,Opmerking: bij gebruik van een mobiel apparaat zijn meerdere sessies toegestaan.,reviewed,frappe,0.89,0.7,0.65,0.7,0.7,0.95,improved
 Note: Payment Entry will not be created since 'Cash or Bank Account' was not specified,"Opmerking: De betaling wordt niet aangemaakt, aangezien de 'Kas- of Bankrekening' niet gespecificeerd is.",reviewed,erpnext,0.87,0.85,0.85,0.8,0.9,1.0,ok
 Note: System will not check over-delivery and over-booking for Item {0} as quantity or amount is 0,Let op: het systeem controleert geen overlevering en overboeking voor artikel {0} omdat de hoeveelheid of het bedrag 0 is,reviewed,erpnext,0.91,0.45,0.4,0.5,0.35,0.8,improved
-Note: There is not enough leave balance for Leave Type {0},Opmerking: Er is niet genoeg verlofsaldo voor Verlof type {0},reviewed,erpnext,0.79,0.75,0.75,0.75,0.8,1.0,review
+Note: There is not enough leave balance for Leave Type {0},Opmerking: er is onvoldoende verlofsaldo voor verloftype {0},reviewed,erpnext,0.9,0.75,0.75,0.75,0.8,1.0,improved
 Note: This Cost Center is a Group. Cannot make accounting entries against groups.,Opmerking: Deze kostenplaats is een groep. Kan geen boekingen aanmaken voor groepen.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Note: {0},Opmerking : {0},reviewed,erpnext,0.67,0.65,0.7,0.6,0.65,0.9,review
-Notes,Notities,reviewed,erpnext,0.79,0.75,0.8,0.7,0.9,1.0,review
+Note: {0},Opmerking: {0},reviewed,erpnext,0.92,0.65,0.7,0.6,0.65,0.9,improved
+Notes,Opmerkingen,reviewed,erpnext,0.84,0.75,0.8,0.7,0.9,1.0,improved
 Notes:,Opmerkingen:,reviewed,both,0.88,0.85,0.85,0.85,0.95,1.0,ok
-Nothing is included in gross,Niets is bruto inbegrepen,reviewed,erpnext,0.5,0.45,0.4,0.55,0.5,0.85,review
+Nothing is included in gross,Niets is inbegrepen in het brutobedrag,reviewed,erpnext,0.85,0.45,0.4,0.55,0.5,0.85,improved
 Nothing more to show.,Niets meer te zien.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Nothing to show,Niets te tonen,reviewed,frappe,0.83,0.8,0.8,0.8,0.9,1.0,ok
-Nothing to update,Niets om bij te werken,reviewed,frappe,0.77,0.75,0.7,0.75,0.8,1.0,review
-Notice (days),Kennisgeving ( dagen ),reviewed,erpnext,0.57,0.55,0.45,0.55,0.5,0.85,review
+Nothing to update,Er zijn geen wijzigingen,reviewed,frappe,0.85,0.75,0.7,0.75,0.8,1.0,improved
+Notice (days),Opzegtermijn (dagen),reviewed,erpnext,0.9,0.55,0.45,0.55,0.5,0.85,improved
 Notification,Kennisgeving,reviewed,frappe,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Notification Log,Meldingslogboek,reviewed,frappe,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Notification Recipient,Meldingsontvanger,reviewed,frappe,0.82,0.8,0.75,0.8,0.85,1.0,ok
 Notification Settings,Meldingsinstellingen,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
-Notification Subscribed Document,Geabonneerd meldingsdocument,reviewed,frappe,0.59,0.55,0.45,0.55,0.6,0.9,review
+Notification Subscribed Document,Document met meldingsabonnement,reviewed,frappe,0.8,0.55,0.45,0.55,0.6,0.9,improved
 Notification Tones,Meldtonen,reviewed,frappe,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Notifications,Meldingen,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
-Notifications and bulk mails will be sent from this outgoing server.,Kennisgevingen en bulk mails worden verstuurd vanaf deze server voor uitgaande mail.,reviewed,frappe,0.75,0.75,0.7,0.7,0.75,0.95,review
+Notifications and bulk mails will be sent from this outgoing server.,Meldingen en bulkmails worden verzonden via deze uitgaande mailserver.,reviewed,frappe,0.9,0.75,0.7,0.7,0.75,0.95,improved
 Notifications Disabled,Meldingen uitgeschakeld,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Notify by Email,Melden per e-mail,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Notify by email,Notificeren per e-mail,reviewed,frappe,0.66,0.65,0.6,0.55,0.7,0.9,review
+Notify by email,Melding per e-mail,reviewed,frappe,0.88,0.65,0.6,0.55,0.7,0.9,improved
 Notify by Email on Creation of Automatic Material Request,Stel per e-mail op de hoogte bij het aanmaken van een automatisch materiaalverzoek,reviewed,erpnext,0.83,0.8,0.8,0.8,0.85,1.0,ok
 Notify customer and agent via email on the day of the appointment.,Informeer de klant en de agent via e-mail op de dag van de afspraak.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Notify Customers via Email,Breng klanten op de hoogte via e-mail,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Notify Employee,Meld de medewerker in kennis,reviewed,erpnext,0.57,0.55,0.45,0.55,0.5,0.85,review
+Notify Employee,Medewerker informeren,reviewed,erpnext,0.88,0.55,0.45,0.55,0.5,0.85,improved
 Notify if unreplied,Melden bij geen reactie,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Notify if unreplied for (in mins),Melden bij geen reactie na (in minuten),reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Notify Other,Andere partij melden,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Notify Supplier,Leverancier melden,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Notify Users On Every Login,Gebruikers in kennis stellen op elke login,reviewed,frappe,0.68,0.65,0.6,0.65,0.65,0.95,review
+Notify Users On Every Login,Gebruikers informeren bij elke aanmelding,reviewed,frappe,0.89,0.65,0.6,0.65,0.65,0.95,improved
 Notify users with a popup when they log in,Gebruikers een pop-up tonen bij inloggen,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Notify Via Email,Melden via e-mail,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 November,november,reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
 Now,Nu,reviewed,frappe,0.94,0.9,0.95,0.9,1.0,1.0,ok
 now,nu,reviewed,frappe,0.94,0.9,0.95,0.9,1.0,1.0,ok
-Number,Aantal,reviewed,both,0.65,0.6,0.6,0.55,0.8,0.9,review
-Number Card,Nummerkaart,reviewed,frappe,0.67,0.65,0.55,0.65,0.7,0.9,review
-Number Card Link,Cijferkaartlink,reviewed,frappe,0.67,0.65,0.55,0.65,0.7,0.9,review
-Number Cards,Cijferkaarten,reviewed,frappe,0.67,0.65,0.55,0.65,0.7,0.9,review
+Number,Nummer,reviewed,both,0.85,0.6,0.6,0.55,0.8,0.9,improved
+Number Card,Cijferkaart,reviewed,frappe,0.82,0.65,0.55,0.65,0.7,0.9,improved
+Number Card Link,Cijferkaart koppeling,reviewed,frappe,0.82,0.65,0.55,0.65,0.7,0.9,improved
+Number Cards,Cijferkaarten,reviewed,frappe,0.82,0.65,0.55,0.65,0.7,0.9,improved
 Number Format,Getalnotatie,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Number of Backups,Aantal back-ups,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Number of Columns,Aantal kolommen,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Number of columns for a field in a Grid (Total Columns in a grid should be less than 11),Aantal kolommen voor een veld in een raster (Total kolommen in een raster moet minder dan 11 zijn),reviewed,frappe,0.66,0.65,0.6,0.65,0.6,0.9,review
-Number of columns for a field in a List View or a Grid (Total Columns should be less than 11),Aantal kolommen voor een veld in een lijstweergave of een Grid (Totaal Columns moet minder dan 11),reviewed,frappe,0.57,0.55,0.5,0.55,0.5,0.85,review
+Number of columns for a field in a Grid (Total Columns in a grid should be less than 11),Aantal kolommen voor een veld in een raster (totaal aantal kolommen in een raster moet kleiner zijn dan 11),reviewed,frappe,0.88,0.65,0.6,0.65,0.6,0.9,improved
+Number of columns for a field in a List View or a Grid (Total Columns should be less than 11),Aantal kolommen voor een veld in een lijstweergave of raster (totaal aantal kolommen moet kleiner zijn dan 11),reviewed,frappe,0.89,0.55,0.5,0.55,0.5,0.85,improved
 Number of columns for this section. 3 cards will be shown per row if you select 3 columns.,Aantal kolommen voor deze sectie. Er worden 3 kaarten per rij getoond als u 3 kolommen selecteert.,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Number of Concurrent Appointments,Aantal gelijktijdige afspraken,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Number of days after invoice date has elapsed before canceling subscription or marking subscription as unpaid,Aantal dagen na de factuurdatum waarna het abonnement wordt geannuleerd of als onbetaald wordt gemarkeerd,reviewed,erpnext,0.91,0.45,0.35,0.5,0.35,0.8,improved
@@ -6599,112 +6599,112 @@ Number of days that the subscriber has to pay invoices generated by this subscri
 Number of DB Backups,Aantal DB-back-ups,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Number of DB backups cannot be less than 1,Het aantal DB-back-ups mag niet minder zijn dan 1,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Number of Depreciations Booked,Aantal geboekte afschrijvingen,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
-Number of Depreciations Booked cannot be greater than Total Number of Depreciations,Aantal afschrijvingen geboekt kan niet groter zijn dan het totale aantal van de afschrijvingen zijn,reviewed,erpnext,0.58,0.55,0.5,0.6,0.5,0.9,review
+Number of Depreciations Booked cannot be greater than Total Number of Depreciations,Het aantal geboekte afschrijvingen kan niet groter zijn dan het totale aantal afschrijvingen.,reviewed,erpnext,0.91,0.55,0.5,0.6,0.5,0.9,improved
 Number of Groups,Aantal groepen,reviewed,frappe,0.88,0.85,0.85,0.85,0.95,1.0,ok
-Number of Interaction,Aantal interacties,reviewed,erpnext,0.78,0.75,0.75,0.75,0.8,1.0,review
+Number of Interaction,Aantal interacties,reviewed,erpnext,0.86,0.75,0.75,0.75,0.8,1.0,improved
 "Number of intervals for the interval field e.g if Interval is 'Days' and Billing Interval Count is 3, invoices will be generated every 3 days","Aantal intervallen voor het intervalveld. Bijv. als het interval 'Dagen' is en het factuurintervalaantal 3 is, worden elke 3 dagen facturen aangemaakt",reviewed,erpnext,0.89,0.45,0.4,0.5,0.35,0.85,improved
 "Number of new Account, it will be included in the account name as a prefix","Nummer van nieuwe account, deze zal als een prefix in de accountnaam worden opgenomen",reviewed,erpnext,0.83,0.8,0.8,0.8,0.85,1.0,ok
 "Number of new Cost Center, it will be included in the cost center name as a prefix","Aantal nieuwe kostenplaatsen, dit wordt als voorvoegsel opgenomen in de naam van de kostenplaats",reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Number of Order,Aantal orders,reviewed,erpnext,0.82,0.75,0.85,0.85,0.9,0.9,ok
 Number of Patient Encounters in Valid Days,Aantal patiëntcontacten binnen geldige dagen,reviewed,erpnext,0.88,0.4,0.35,0.6,0.7,0.8,improved
 Number of prints required for labelling the samples,Aantal afdrukken vereist voor het labelen van de monsters,reviewed,erpnext,0.8,0.8,0.75,0.8,0.85,0.9,ok
-Number of root accounts cannot be less than 4,Aantal root-accounts mag niet minder zijn dan 4,reviewed,erpnext,0.77,0.75,0.7,0.8,0.8,0.9,review
+Number of root accounts cannot be less than 4,Het aantal rootaccounts mag niet minder zijn dan 4.,reviewed,erpnext,0.87,0.75,0.7,0.8,0.8,0.9,improved
 Numeric Values,Numerieke waarden,reviewed,erpnext,0.9,0.85,0.9,0.9,0.95,0.95,ok
-Numero has not set in the XML file,Numero is niet ingesteld in het XML-bestand,reviewed,erpnext,0.73,0.7,0.65,0.75,0.75,0.9,review
-Nursing User,Verpleegkundige gebruiker,reviewed,erpnext,0.64,0.6,0.55,0.65,0.8,0.85,review
+Numero has not set in the XML file,Het veld Numero ontbreekt in het XML-bestand.,reviewed,erpnext,0.84,0.7,0.65,0.75,0.75,0.9,improved
+Nursing User,Verpleegkundige,reviewed,erpnext,0.84,0.6,0.55,0.65,0.8,0.85,improved
 Nutrition Values,Voedingswaarden,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,0.95,ok
 O Negative,O Negatief,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,0.9,ok
 O Positive,O Positief,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,0.9,ok
-O+,O +,reviewed,erpnext,0.54,0.5,0.4,0.5,0.7,0.9,review
-OAuth Client ID,OAuth-client-ID,reviewed,frappe,0.73,0.75,0.6,0.7,0.75,0.9,review
+O+,O+,reviewed,erpnext,0.92,0.5,0.4,0.5,0.7,0.9,improved
+OAuth Client ID,OAuth Client ID,reviewed,frappe,0.88,0.75,0.6,0.7,0.75,0.9,improved
 OAuth Credentials,OAuth-inloggegevens,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,0.9,ok
-OAuth Provider Settings,OAuth Provider Instellingen,reviewed,frappe,0.65,0.65,0.55,0.65,0.65,0.85,review
+OAuth Provider Settings,OAuth-providerinstellingen,reviewed,frappe,0.87,0.65,0.55,0.65,0.65,0.85,improved
 Objective,Doelstelling,reviewed,erpnext,0.84,0.8,0.85,0.85,0.9,0.9,ok
-Objectives,Doelen,reviewed,erpnext,0.74,0.7,0.75,0.65,0.85,0.85,review
+Objectives,Doelstellingen,reviewed,erpnext,0.87,0.7,0.75,0.65,0.85,0.85,improved
 Occupancy Status,Bezettingsstatus,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
 Occupation,Beroep,reviewed,erpnext,0.92,0.4,0.35,0.45,0.7,0.8,improved
 Occupational Hazards and Environmental Factors,Beroepsgevaren en milieufactoren,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,0.9,ok
 Occupied,Bezet,reviewed,erpnext,0.9,0.85,0.9,0.9,0.95,0.95,ok
 October,oktober,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
 Odometer,Kilometerteller,reviewed,erpnext,0.85,0.8,0.85,0.85,0.9,0.9,ok
-Odometer Value (Last),Kilometerstand (Laatste),reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,0.9,review
+Odometer Value (Last),Kilometerstand (laatste),reviewed,erpnext,0.88,0.8,0.75,0.75,0.8,0.9,improved
 of,van,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.95,ok
 Off,Uit,reviewed,frappe,0.91,0.85,0.9,0.9,0.95,0.95,ok
 off,uit,reviewed,frappe,0.91,0.85,0.9,0.9,0.95,0.95,ok
-Offer Date,Aanbieding datum,reviewed,erpnext,0.57,0.55,0.45,0.55,0.65,0.85,review
-Offer Term,Arbeidsvoorwaarde,reviewed,custom,0.5,0.45,0.4,0.45,0.7,0.8,review
+Offer Date,Aanbiedingsdatum,reviewed,erpnext,0.9,0.55,0.45,0.55,0.65,0.85,improved
+Offer Term,Aanbodvoorwaarde,reviewed,custom,0.82,0.45,0.4,0.45,0.7,0.8,improved
 Office,Kantoor,reviewed,frappe,0.91,0.9,0.9,0.9,0.95,0.95,ok
-Office Equipments,Kantoor Apparatuur,reviewed,erpnext,0.62,0.6,0.5,0.6,0.65,0.85,review
+Office Equipments,Kantoorapparatuur,reviewed,erpnext,0.9,0.6,0.5,0.6,0.65,0.85,improved
 Office Maintenance Expenses,Kantooronderhoudskosten,reviewed,erpnext,0.89,0.4,0.35,0.4,0.65,0.75,improved
 Office Rent,Kantoorhuur,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
-Offline,offline,reviewed,frappe,0.75,0.75,0.75,0.7,0.75,0.85,review
-Offline POS Name,Offline POS Naam,reviewed,erpnext,0.69,0.7,0.6,0.65,0.7,0.85,review
+Offline,Offline,reviewed,frappe,0.88,0.75,0.75,0.7,0.75,0.85,improved
+Offline POS Name,Naam offline kassa,reviewed,erpnext,0.87,0.7,0.6,0.65,0.7,0.85,improved
 ok,OK,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.95,ok
-ok-circle,ok-cirkel,reviewed,frappe,0.54,0.5,0.4,0.5,0.7,0.85,review
-ok-sign,ok-teken,reviewed,frappe,0.54,0.5,0.4,0.5,0.7,0.85,review
-Old Parent,Oude Parent,reviewed,erpnext,0.58,0.55,0.5,0.55,0.65,0.8,review
+ok-circle,ok-circle,reviewed,frappe,0.8,0.5,0.4,0.5,0.7,0.85,improved
+ok-sign,ok-sign,reviewed,frappe,0.8,0.5,0.4,0.5,0.7,0.85,improved
+Old Parent,Vorig bovenliggend item,reviewed,erpnext,0.83,0.55,0.5,0.55,0.65,0.8,improved
 Old Password,Oud Wachtwoord,reviewed,frappe,0.84,0.85,0.8,0.85,0.85,0.9,ok
 Old Password Required.,Oud wachtwoord verplicht.,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.9,ok
 Older backups will be automatically deleted,Oudere backups worden automatisch verwijderd,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,0.9,ok
-on,op,reviewed,erpnext,0.65,0.65,0.6,0.6,0.7,0.8,review
+on,aan,reviewed,erpnext,0.84,0.65,0.6,0.6,0.7,0.8,improved
 On Converting Opportunity,Bij het omzetten van een verkoopkans,reviewed,erpnext,0.88,0.35,0.3,0.45,0.55,0.75,improved
 On Hold,In de wacht,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
 On Hold Since,In de wacht sinds,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
-On Item Quantity,Op artikelhoeveelheid,reviewed,erpnext,0.76,0.75,0.7,0.75,0.8,0.85,review
-On Net Total,Op Netto Totaal,reviewed,erpnext,0.7,0.7,0.6,0.7,0.7,0.85,review
+On Item Quantity,Op artikelaantal,reviewed,erpnext,0.84,0.75,0.7,0.75,0.8,0.85,improved
+On Net Total,Op nettototaal,reviewed,erpnext,0.87,0.7,0.6,0.7,0.7,0.85,improved
 On Previous Row Amount,Op bedrag vorige rij,reviewed,erpnext,0.88,0.3,0.25,0.35,0.4,0.6,improved
 On Previous Row Total,Op totaal vorige rij,reviewed,erpnext,0.9,0.2,0.15,0.25,0.3,0.5,improved
 On Purchase Order Submission,Bij het indienen van een inkooporder,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,0.9,ok
-On Sales Order Submission,Bij het verzenden van klantorders,reviewed,erpnext,0.74,0.75,0.7,0.7,0.75,0.85,review
+On Sales Order Submission,Bij indienen van verkooporder,reviewed,erpnext,0.87,0.75,0.7,0.7,0.75,0.85,improved
 On Task Completion,Bij voltooiing van de taak,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
-On {0} Creation,Bij {0} Creatie,reviewed,erpnext,0.62,0.6,0.5,0.6,0.65,0.85,review
+On {0} Creation,Bij aanmaken van {0},reviewed,erpnext,0.9,0.6,0.5,0.6,0.65,0.85,improved
 "On {0}, {1} wrote:","Op {0}, {1} schreef:",reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.9,ok
-On-machine press checks,Perscontroles op de machine,reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,0.85,review
+On-machine press checks,Perscontroles op de machine,reviewed,erpnext,0.84,0.8,0.75,0.75,0.8,0.85,improved
 Onboarding Complete,Onboarding voltooid,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,0.9,ok
-Onboarding Permission,Toestemming voor onboarding,reviewed,frappe,0.79,0.8,0.75,0.75,0.8,0.85,review
+Onboarding Permission,Onboardingmachtiging,reviewed,frappe,0.84,0.8,0.75,0.75,0.8,0.85,improved
 Onboarding Step,Onboarding-stap,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,0.9,ok
 "Once set, this invoice will be on hold till the set date","Eenmaal ingesteld, wordt deze factuur in de wacht gezet tot de ingestelde datum",reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,0.9,ok
-"Once submitted, submittable documents cannot be changed. They can only be Cancelled and Amended.",Na indiening kunnen de in te dienen documenten niet meer worden gewijzigd. Ze kunnen alleen worden geannuleerd en gewijzigd.,reviewed,frappe,0.71,0.7,0.65,0.7,0.75,0.85,review
-"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).","Zodra je dit hebt ingesteld, hebben de gebruikers uitsluitend toegang tot documenten ( bijv. blog post ) waarvan de link bestaat ( bijv. Blogger ) .",reviewed,frappe,0.63,0.65,0.55,0.65,0.55,0.8,review
+"Once submitted, submittable documents cannot be changed. They can only be Cancelled and Amended.",Eenmaal ingediend kunnen definitieve documenten niet meer worden gewijzigd. Ze kunnen alleen worden geannuleerd en gecorrigeerd.,reviewed,frappe,0.89,0.7,0.65,0.7,0.75,0.85,improved
+"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).","Zodra u dit hebt ingesteld, hebben gebruikers alleen toegang tot documenten (bijv. Blogbericht) waarvoor de koppeling bestaat (bijv. Blogger).",reviewed,frappe,0.88,0.65,0.55,0.65,0.55,0.8,improved
 One customer can be part of only single Loyalty Program.,Eén klant kan deel uitmaken van één loyaliteitsprogramma.,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
-One of,Een van de,reviewed,frappe,0.79,0.8,0.75,0.75,0.8,0.85,review
-one of,een van de,reviewed,frappe,0.79,0.8,0.75,0.75,0.8,0.85,review
+One of,Een van de,reviewed,frappe,0.84,0.8,0.75,0.75,0.8,0.85,improved
+one of,een van de,reviewed,frappe,0.84,0.8,0.75,0.75,0.8,0.85,improved
 One Sided,Eenzijdig,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
-One Time Password (OTP) Registration Code from {},Registratiecode van één keer wachtwoord (OTP) van {},reviewed,frappe,0.58,0.6,0.45,0.55,0.6,0.8,review
-Ongoing,Voortgaande,reviewed,erpnext,0.58,0.55,0.5,0.55,0.65,0.8,review
-Ongoing Job Cards,Doorlopende opdrachtkaarten,reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,0.85,review
+One Time Password (OTP) Registration Code from {},OTP-registratiecode van {},reviewed,frappe,0.85,0.6,0.45,0.55,0.6,0.8,improved
+Ongoing,Lopend,reviewed,erpnext,0.88,0.55,0.5,0.55,0.65,0.8,improved
+Ongoing Job Cards,Lopende werkkaarten,reviewed,erpnext,0.85,0.8,0.75,0.75,0.8,0.85,improved
 Online Auctions,Online veilingen,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,0.95,ok
 Only .csv and .xlsx files are supported currently,Alleen .csv- en .xlsx-bestanden worden momenteel ondersteund,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
-Only 200 inserts allowed in one request,Slechts 200 inserts toegestaan in één verzoek,reviewed,frappe,0.78,0.8,0.75,0.75,0.8,0.85,review
-Only Administrator can delete Email Queue,Alleen beheerder kan e-mail wachtrij verwijderen,reviewed,frappe,0.71,0.7,0.65,0.7,0.7,0.85,review
-Only Administrator can edit,Alleen Administrator kunt bewerken,reviewed,frappe,0.53,0.55,0.45,0.55,0.45,0.75,review
+Only 200 inserts allowed in one request,Maximaal 200 invoegingen toegestaan per verzoek,reviewed,frappe,0.86,0.8,0.75,0.75,0.8,0.85,improved
+Only Administrator can delete Email Queue,Alleen de beheerder kan de e-mailwachtrij verwijderen,reviewed,frappe,0.87,0.7,0.65,0.7,0.7,0.85,improved
+Only Administrator can edit,Alleen de beheerder kan bewerken,reviewed,frappe,0.88,0.55,0.45,0.55,0.45,0.75,improved
 Only Administrator can save a standard report. Please rename and save.,Alleen Beheerder kan een standaard rapport opslaan. Wijzig de naam en sla op.,reviewed,frappe,0.82,0.8,0.8,0.8,0.85,0.9,ok
 Only Administrator is allowed to use Recorder,Alleen de beheerder mag de recorder gebruiken,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.9,ok
-Only Allow Edit For,Sta alleen Bewerken toe voor,reviewed,frappe,0.79,0.8,0.75,0.75,0.8,0.85,review
-Only leaf nodes are allowed in transaction,Alleen leaf nodes zijn toegestaan in transactie,reviewed,erpnext,0.73,0.75,0.65,0.7,0.75,0.85,review
+Only Allow Edit For,Alleen bewerkbaar voor,reviewed,frappe,0.86,0.8,0.75,0.75,0.8,0.85,improved
+Only leaf nodes are allowed in transaction,Alleen eindknooppunten zijn toegestaan in een transactie,reviewed,erpnext,0.83,0.75,0.65,0.7,0.75,0.85,improved
 Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish.,Alleen verplichte velden zijn vereist voor nieuwe records. U kunt niet-verplichte kolommen verwijderen als u dat wenst.,reviewed,frappe,0.91,0.45,0.35,0.45,0.4,0.7,improved
 Only one {0} can be set as primary.,Er kan slechts één {0} worden ingesteld als primair.,reviewed,frappe,0.88,0.9,0.85,0.85,0.9,0.9,ok
-Only Options allowed for Data field are:,Alleen de opties die zijn toegestaan voor het gegevensveld zijn:,reviewed,frappe,0.79,0.8,0.75,0.75,0.8,0.85,review
+Only Options allowed for Data field are:,Toegestane opties voor het gegevensveld zijn:,reviewed,frappe,0.87,0.8,0.75,0.75,0.8,0.85,improved
 Only select this if you have set up the Cash Flow Mapper documents,Selecteer dit alleen als u de Cash Flow Mapper-documenten heeft ingesteld,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,0.9,ok
-Only Send Records Updated in Last X Hours,Verzend alleen Records bijgewerkt in de laatste X uur,reviewed,frappe,0.63,0.65,0.55,0.6,0.6,0.8,review
-Only show Customer of these Customer Groups,Toon alleen de klant van deze klantengroepen,reviewed,erpnext,0.74,0.75,0.7,0.7,0.75,0.85,review
+Only Send Records Updated in Last X Hours,Stuur alleen records die in de laatste X uur zijn bijgewerkt,reviewed,frappe,0.87,0.65,0.55,0.6,0.6,0.8,improved
+Only show Customer of these Customer Groups,Toon alleen klanten uit deze klantengroepen,reviewed,erpnext,0.88,0.75,0.7,0.7,0.75,0.85,improved
 Only show Items from these Item Groups,Toon alleen artikelen uit deze artikelgroepen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
 Only standard DocTypes are allowed to be customized from Customize Form.,Alleen standaard DocTypes mogen worden aangepast vanuit het formulier Aanpassen.,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,0.9,ok
 "Only the Student Applicant with the status ""Approved"" will be selected in the table below.","Alleen studentaanvragers met de status ""Goedgekeurd"" worden geselecteerd in de onderstaande tabel.",reviewed,erpnext,0.91,0.45,0.4,0.5,0.45,0.7,improved
 Only users involved in the document are listed,"Alleen gebruikers die bij het document betrokken zijn, worden vermeld",reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.9,ok
-Only users with {0} role can register on Marketplace,Alleen gebruikers met een {0} rol kunnen zich registreren op Marketplace,reviewed,erpnext,0.79,0.8,0.75,0.75,0.8,0.85,review
-Only {0} emailed reports are allowed per user,Alleen {0} gemaild rapporten zijn toegestaan per gebruiker,reviewed,frappe,0.5,0.5,0.4,0.5,0.45,0.75,review
+Only users with {0} role can register on Marketplace,Alleen gebruikers met de rol {0} kunnen zich registreren op de Marketplace,reviewed,erpnext,0.87,0.8,0.75,0.75,0.8,0.85,improved
+Only {0} emailed reports are allowed per user,Per gebruiker zijn maximaal {0} rapporten per e-mail toegestaan,reviewed,frappe,0.88,0.5,0.4,0.5,0.45,0.75,improved
 Only {0} in Stock for item {1},Slechts {0} op voorraad voor artikel {1},reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
 only.,alleen.,reviewed,frappe,0.82,0.8,0.8,0.8,0.85,0.9,ok
 Oops,Oeps,reviewed,frappe,0.91,0.85,0.9,0.9,0.95,0.95,ok
 Oops! Something went wrong,Oeps! Er ging iets mis!,reviewed,frappe,0.8,0.8,0.75,0.8,0.8,0.9,ok
 "Oops, you are not allowed to know that","Oeps, u heeft geen toegang tot deze informatie",reviewed,frappe,0.88,0.4,0.3,0.45,0.45,0.75,improved
 Open a dialog with mandatory fields to create a new record quickly,Open een dialoogvenster met verplichte velden om snel een nieuw record te maken,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.9,ok
-Open a module or tool,Open een module of gereedschap,reviewed,frappe,0.73,0.75,0.65,0.7,0.75,0.85,review
+Open a module or tool,Open een module of hulpmiddel,reviewed,frappe,0.85,0.75,0.65,0.7,0.75,0.85,improved
 Open a new ticket,Open een nieuw ticket,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
 Open Chat,Chat openen,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,0.9,ok
 Open Contact,Contact openen,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,0.9,ok
-Open Document,Open document,reviewed,frappe,0.79,0.8,0.75,0.75,0.8,0.85,review
+Open Document,Document openen,reviewed,frappe,0.86,0.8,0.75,0.75,0.8,0.85,improved
 Open Documents,Open documenten,reviewed,frappe,0.89,0.85,0.85,0.9,0.95,1.0,ok
 Open Form View,Open formulierweergave,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Open Issues,Open problemen,reviewed,erpnext,0.87,0.85,0.8,0.85,0.95,1.0,ok
@@ -6720,7 +6720,7 @@ Open To Do,Openstaande taak,reviewed,erpnext,0.91,0.9,0.9,0.85,0.95,1.0,ok
 Open Translation,Open vertaling,reviewed,frappe,0.89,0.85,0.85,0.9,0.95,1.0,ok
 Open URL in a New Tab,Open URL in een nieuw tabblad,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Open Work Orders,Open werkorders,reviewed,erpnext,0.89,0.85,0.85,0.9,0.95,1.0,ok
-Open your authentication app on your mobile phone.,Open uw verificatieapparaat op uw mobiele telefoon.,reviewed,frappe,0.61,0.55,0.55,0.6,0.8,0.9,review
+Open your authentication app on your mobile phone.,Open uw verificatieapp op uw mobiele telefoon.,reviewed,frappe,0.9,0.55,0.55,0.6,0.8,0.9,improved
 Opened,Geopend,reviewed,frappe,0.89,0.85,0.85,0.9,0.95,1.0,ok
 Opening (Cr),Openingssaldo (Cr),reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Opening (Dr),Openingssaldo (Dr),reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -6733,11 +6733,11 @@ Opening Balance,Beginsaldo,reviewed,erpnext,0.93,0.9,0.95,0.9,0.95,1.0,ok
 Opening Balance Details,Details beginsaldo,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Opening Date,Openingsdatum,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Opening Date and Closing Date should be within same Fiscal Year,De openingsdatum en sluitingsdatum moeten binnen hetzelfde boekjaar vallen,reviewed,erpnext,0.92,0.45,0.35,0.5,0.3,0.7,improved
-Opening Date should be before Closing Date,Openingsdatum moeten vóór Sluitingsdatum,reviewed,erpnext,0.54,0.55,0.45,0.6,0.4,0.8,review
-Opening Entry Journal,Opening dagboek,reviewed,erpnext,0.67,0.65,0.6,0.65,0.7,0.9,review
+Opening Date should be before Closing Date,De openingsdatum moet vóór de sluitingsdatum liggen,reviewed,erpnext,0.9,0.55,0.45,0.6,0.4,0.8,improved
+Opening Entry Journal,Openingsdagboek,reviewed,erpnext,0.84,0.65,0.6,0.65,0.7,0.9,improved
 Opening Invoice Creation In Progress,Aanmaken openstaande facturen wordt uitgevoerd,reviewed,erpnext,0.87,0.35,0.3,0.4,0.5,0.7,improved
-Opening Invoice Creation Tool,Hulpmiddel openingsfacturen aanmaken,reviewed,erpnext,0.77,0.75,0.7,0.75,0.8,1.0,review
-Opening Invoice Creation Tool Item,Openingsfactuur aanmaken item,reviewed,erpnext,0.59,0.6,0.5,0.6,0.55,0.9,review
+Opening Invoice Creation Tool,Hulpmiddel voor aanmaken openingsfacturen,reviewed,erpnext,0.84,0.75,0.7,0.75,0.8,1.0,improved
+Opening Invoice Creation Tool Item,Openingsfactuuritem,reviewed,erpnext,0.83,0.6,0.5,0.6,0.55,0.9,improved
 Opening Invoice Item,Openingsfactuuritem,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Opening Invoices,Openingsfacturen,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Opening Invoices Summary,Overzicht openingsfacturen,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -6747,13 +6747,13 @@ Opening Stock Balance,Openingssaldo voorraad,reviewed,erpnext,0.88,0.85,0.85,0.8
 Opening Time,Begintijd,reviewed,erpnext,0.89,0.85,0.9,0.85,0.95,1.0,ok
 Opening Value,Openingswaarde,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Opening {0} Invoice created,Openingsfactuur {0} aangemaakt,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Operating Cost,Operationele kosten,reviewed,erpnext,0.78,0.75,0.8,0.65,0.95,1.0,review
+Operating Cost,Exploitatiekosten,reviewed,erpnext,0.87,0.75,0.8,0.65,0.95,1.0,improved
 Operating Cost (Company Currency),Bedrijfskosten (bedrijfsvaluta),reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Operating Cost as per Work Order / BOM,Bedrijfskosten per werkorder / stuklijst,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Operating Cost(Company Currency),Bedrijfskosten (bedrijfsvaluta),reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Operating Costs,Bedrijfskosten,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Operation,Bewerking,reviewed,both,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Operation completed for how many finished goods?,Operatie afgerond voor hoeveel eindproducten?,reviewed,erpnext,0.68,0.65,0.65,0.6,0.8,1.0,review
+Operation completed for how many finished goods?,Voor hoeveel eindproducten is de bewerking voltooid?,reviewed,erpnext,0.87,0.65,0.65,0.6,0.8,1.0,improved
 Operation Cost,Bewerkingskosten,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Operation Description,Bewerkingsomschrijving,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
 Operation ID,Bewerkings-ID,reviewed,erpnext,0.91,0.9,0.85,0.9,0.95,1.0,ok
@@ -6767,45 +6767,45 @@ Operation {0} does not belong to the work order {1},Bewerking {0} hoort niet bij
 Operations,Bewerkingen,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Operations cannot be left blank,Bewerkingen mogen niet leeg zijn,reviewed,erpnext,0.9,0.3,0.2,0.2,0.4,0.9,improved
 Operator must be one of {0},Operator moet een van {0} zijn,reviewed,frappe,0.83,0.8,0.8,0.85,0.85,1.0,ok
-Opp/Lead %,Opp / Lead%,reviewed,erpnext,0.72,0.7,0.7,0.7,0.75,0.9,review
+Opp/Lead %,Kans/Lead %,reviewed,erpnext,0.83,0.7,0.7,0.7,0.75,0.9,improved
 Opportunities,Kansen,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Opportunities by lead source,Kansen per leadbron,reviewed,erpnext,0.9,0.9,0.85,0.85,0.95,1.0,ok
-Opportunity Amount,Kansbedrag,reviewed,erpnext,0.77,0.75,0.65,0.8,0.85,1.0,review
-Opportunity Date,Kansdatum,reviewed,erpnext,0.76,0.75,0.65,0.8,0.85,1.0,review
+Opportunity Amount,Kansbedrag,reviewed,erpnext,0.82,0.75,0.65,0.8,0.85,1.0,improved
+Opportunity Date,Kansdatum,reviewed,erpnext,0.82,0.75,0.65,0.8,0.85,1.0,improved
 Opportunity From,Kans van,reviewed,erpnext,0.83,0.8,0.8,0.85,0.85,1.0,ok
-Opportunity Item,Kansartikel,reviewed,erpnext,0.76,0.75,0.65,0.75,0.85,1.0,review
+Opportunity Item,Kansregel,reviewed,erpnext,0.82,0.75,0.65,0.75,0.85,1.0,improved
 Opportunity Lost Reason,Reden verloren kans,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Opportunity Lost Reason Detail,Detail van gemiste kans,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Opportunity Type,Kanstype,reviewed,erpnext,0.81,0.8,0.75,0.8,0.85,1.0,ok
 Opportunity {0} created,Kans {0} aangemaakt,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Optimize Route,Route optimaliseren,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Option,Keuze,reviewed,erpnext,0.7,0.65,0.7,0.55,0.95,1.0,review
+Option,Optie,reviewed,erpnext,0.87,0.65,0.7,0.55,0.95,1.0,improved
 Option 1,Optie 1,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Option 2,Optie 2,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Option 3,Optie 3,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Option {0} for field {1} is not a child table,Optie {0} voor veld {1} is geen onderliggende tabel,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Optional,Optioneel,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 "Optional. Sets company's default currency, if not specified.",Optioneel. Stelt de standaardvaluta van het bedrijf in als deze niet is opgegeven.,reviewed,erpnext,0.92,0.2,0.2,0.3,0.25,0.4,improved
-Optional. This setting will be used to filter in various transactions.,Optioneel. Deze instelling wordt gebruikt om te filteren op diverse transacties .,reviewed,erpnext,0.79,0.8,0.75,0.8,0.75,1.0,review
-Optional: Always send to these ids. Each Email Address on a new row,Optioneel: Stuur altijd naar deze ids. Elke e-mail adres op een nieuwe rij,reviewed,frappe,0.74,0.75,0.7,0.75,0.7,1.0,review
-Optional: The alert will be sent if this expression is true,Optioneel: De Alert zal worden verzonden als deze expressie waar is,reviewed,frappe,0.7,0.7,0.65,0.65,0.7,1.0,review
+Optional. This setting will be used to filter in various transactions.,Optioneel. Deze instelling wordt gebruikt om te filteren in diverse transacties.,reviewed,erpnext,0.87,0.8,0.75,0.8,0.75,1.0,improved
+Optional: Always send to these ids. Each Email Address on a new row,Optioneel: stuur altijd naar deze adressen. Elk e-mailadres op een nieuwe regel.,reviewed,frappe,0.88,0.75,0.7,0.75,0.7,1.0,improved
+Optional: The alert will be sent if this expression is true,Optioneel: de melding wordt verzonden als deze expressie waar is,reviewed,frappe,0.87,0.7,0.65,0.65,0.7,1.0,improved
 Options,Opties,reviewed,both,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Options 'Dynamic Link' type of field must point to another Link Field with options as 'DocType',Opties 'Dynamic Link' type veld moet verwijzen naar een andere Linkeveld met opties als 'DocType',reviewed,frappe,0.63,0.65,0.55,0.6,0.55,0.9,review
+Options 'Dynamic Link' type of field must point to another Link Field with options as 'DocType',Een veld van het type 'Dynamic Link' moet verwijzen naar een ander koppelingsveld met 'DocType' als opties,reviewed,frappe,0.86,0.65,0.55,0.6,0.55,0.9,improved
 Options for select. Each option on a new line.,Opties voor het selecteren. Elke optie op een nieuwe regel.,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Options for {0} must be set before setting the default value.,Opties voor {0} moeten worden ingesteld voordat u de standaardwaarde instelt.,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Options Help,Opties Help,reviewed,frappe,0.71,0.7,0.65,0.7,0.75,1.0,review
+Options Help,Help bij opties,reviewed,frappe,0.85,0.7,0.65,0.7,0.75,1.0,improved
 Options not set for link field {0},Opties niet ingesteld voor link veld {0},reviewed,frappe,0.8,0.8,0.75,0.8,0.8,1.0,ok
 or,of,reviewed,both,0.94,0.9,0.95,0.95,0.95,1.0,ok
-or attach a,of bevestig een,reviewed,frappe,0.72,0.7,0.65,0.7,0.8,0.9,review
+or attach a,of voeg een bijlage toe,reviewed,frappe,0.86,0.7,0.65,0.7,0.8,0.9,improved
 or it is not the default inventory account,of het is niet de standaard voorraadrekening,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Or login with,Of log in met,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Orange,Oranje,reviewed,erpnext,0.94,0.9,0.95,0.95,0.95,1.0,ok
 orange,oranje,reviewed,frappe,0.94,0.9,0.95,0.95,0.95,1.0,ok
-Order,Bestellen,reviewed,frappe,0.48,0.45,0.4,0.45,0.7,0.9,review
+Order,Order,reviewed,frappe,0.88,0.45,0.4,0.45,0.7,0.9,improved
 Order Admission,Orderopname,reviewed,erpnext,0.8,0.8,0.75,0.8,0.85,1.0,ok
 Order Amount,Orderbedrag,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Order By,Sorteren op,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Order Confirmation Date,Bevestigingsdatum bestellen,reviewed,erpnext,0.6,0.7,0.4,0.5,0.8,1.0,review
+Order Confirmation Date,Orderbevestigingsdatum,reviewed,erpnext,0.88,0.7,0.4,0.5,0.8,1.0,improved
 Order Confirmation No,Orderbevestigingsnr.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Order Discharge,Ontslagorder,reviewed,erpnext,0.8,0.2,0.1,0.2,0.7,1.0,improved
 Order Entry,Orderinvoer,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
@@ -6813,13 +6813,13 @@ Order Entry,Orderinvoer,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Order Information,Orderinformatie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Order Qty,Bestelhoeveelheid,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Order rescheduled for sync,Bestelling opnieuw gepland voor synchronisatie,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
-Order Value,Bestellingswaarde,reviewed,erpnext,0.7,0.7,0.6,0.6,0.9,1.0,review
-Order/Quot %,Order / Quot%,reviewed,erpnext,0.52,0.5,0.4,0.5,0.6,0.9,review
+Order Value,Orderwaarde,reviewed,erpnext,0.88,0.7,0.6,0.6,0.9,1.0,improved
+Order/Quot %,Order/Offerte %,reviewed,erpnext,0.86,0.5,0.4,0.5,0.6,0.9,improved
 Ordered,Besteld,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Ordered Qty,Bestelde hoeveelheid,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-"Ordered Qty: Quantity ordered for purchase, but not received.","Besteld Aantal: Hoeveelheid ingekocht , maar niet ontvangen.",reviewed,erpnext,0.68,0.7,0.6,0.7,0.6,0.9,review
+"Ordered Qty: Quantity ordered for purchase, but not received.","Besteld aantal: hoeveelheid besteld voor inkoop, maar nog niet ontvangen.",reviewed,erpnext,0.88,0.7,0.6,0.7,0.6,0.9,improved
 Ordered Quantity,Bestelde hoeveelheid,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Orders,bestellingen,reviewed,erpnext,0.6,0.6,0.5,0.6,0.5,1.0,review
+Orders,Orders,reviewed,erpnext,0.88,0.6,0.5,0.6,0.5,1.0,improved
 Orders released for production.,Orders vrijgegeven voor productie.,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Org History,Organisatiegeschiedenis,reviewed,frappe,0.88,0.4,0.3,0.4,0.5,1.0,improved
 Org History Heading,Kop organisatiegeschiedenis,reviewed,frappe,0.86,0.4,0.3,0.4,0.5,1.0,improved
@@ -6827,39 +6827,39 @@ Organism,Organisme,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Organism Test Item,Organisme Testitem,reviewed,erpnext,0.88,0.85,0.8,0.85,1.0,1.0,ok
 Organism Test Result,Organisme Testresultaat,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Organization,Organisatie,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Organization Name,Naam van de Organisatie,reviewed,erpnext,0.73,0.7,0.6,0.7,0.9,1.0,review
+Organization Name,Organisatienaam,reviewed,erpnext,0.88,0.7,0.6,0.7,0.9,1.0,improved
 Organizational Unit for Users,Organisatie-eenheid voor gebruikers,reviewed,frappe,0.92,0.9,0.85,0.9,1.0,1.0,ok
-Orientation,oriëntering,reviewed,both,0.53,0.5,0.4,0.5,0.5,1.0,review
+Orientation,Oriëntatie,reviewed,both,0.88,0.5,0.4,0.5,0.5,1.0,improved
 Origin,Oorsprong,reviewed,erpnext,0.84,0.8,0.75,0.8,1.0,1.0,ok
 Original for Recipient,Origineel voor ontvanger,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Original invoice should be consolidated before or along with the return invoice.,De originele factuur moet vóór of samen met de retourfactuur worden geconsolideerd.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Original Item,Origineel item,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Original Value,Originele waarde,reviewed,frappe,0.89,0.85,0.85,0.85,1.0,1.0,ok
-Other,Ander,reviewed,both,0.73,0.7,0.6,0.7,0.9,1.0,review
+Other,Overig,reviewed,both,0.87,0.7,0.6,0.7,0.9,1.0,improved
 Other Details,Andere details,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
-Other details,Andere Details,reviewed,erpnext,0.58,0.6,0.5,0.5,0.5,1.0,review
+Other details,Overige details,reviewed,erpnext,0.87,0.6,0.5,0.5,0.5,1.0,improved
 "Other outward supplies(Nil rated,Exempted)","Andere uitgaande leveringen (nul, vrijgesteld)",reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
 Other Reports,Andere rapporten,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Other Risk Factors,Andere risicofactoren,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Other Settings,Andere instellingen,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Other Territory,Ander territorium,reviewed,frappe,0.89,0.85,0.85,0.85,1.0,1.0,ok
-OTP Issuer Name,OTP Uitgeversnaam,reviewed,frappe,0.64,0.6,0.5,0.6,0.8,1.0,review
+OTP Issuer Name,Naam OTP-uitgever,reviewed,frappe,0.84,0.6,0.5,0.6,0.8,1.0,improved
 OTP secret can only be reset by the Administrator.,OTP-geheim kan alleen door de beheerder worden gereset.,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
-OTP Secret has been reset. Re-registration will be required on next login.,OTP Secret is opnieuw ingesteld. Herregistratie zal nodig zijn bij de volgende login.,reviewed,frappe,0.71,0.7,0.65,0.7,0.7,1.0,review
+OTP Secret has been reset. Re-registration will be required on next login.,OTP-sleutel is opnieuw ingesteld. Herregistratie is vereist bij de volgende aanmelding.,reviewed,frappe,0.87,0.7,0.65,0.7,0.7,1.0,improved
 OTP setup using OTP App was not completed. Please contact Administrator.,OTP-instelling met OTP-app is niet voltooid. Neem contact op met de beheerder.,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
 out of,van,reviewed,erpnext,0.52,0.3,0.2,0.3,0.5,0.8,improved
 Out of AMC,Niet onder AMC,reviewed,erpnext,0.67,0.3,0.2,0.3,0.5,1.0,improved
 Out of Stock,Niet op voorraad,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Out of Warranty,Uit de garantie,reviewed,erpnext,0.72,0.7,0.6,0.7,0.8,1.0,review
+Out of Warranty,Buiten garantie,reviewed,erpnext,0.9,0.7,0.6,0.7,0.8,1.0,improved
 out of {0},van {0},reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
-Out Patient Consulting Charge,Kosten voor advisering van de patiënt,reviewed,erpnext,0.72,0.7,0.65,0.7,0.8,0.9,review
+Out Patient Consulting Charge,Kosten poliklinisch consult,reviewed,erpnext,0.86,0.7,0.65,0.7,0.8,0.9,improved
 Out Patient Consulting Charge Item,Artikel voor poliklinisch consulttarief,reviewed,erpnext,0.68,0.2,0.1,0.2,0.4,0.8,improved
 Out Patient SMS alerts,Poliklinische SMS-meldingen,reviewed,erpnext,0.74,0.4,0.3,0.4,0.5,0.8,improved
 Out Qty,Uitgaand aantal,reviewed,erpnext,0.67,0.1,0.1,0.1,0.1,0.5,improved
 Out Value,Uitgaande waarde,reviewed,erpnext,0.68,0.1,0.1,0.1,0.1,0.5,improved
-Outgoing,uitgaande,reviewed,erpnext,0.52,0.5,0.4,0.5,0.4,1.0,review
+Outgoing,Uitgaand,reviewed,erpnext,0.88,0.5,0.4,0.5,0.4,1.0,improved
 Outgoing email account not correct,Uitgaande e-mailaccount niet correct,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Outgoing Rate,Uitgaande Rate,reviewed,erpnext,0.54,0.5,0.4,0.5,0.6,1.0,review
+Outgoing Rate,Uitgifteprijs,reviewed,erpnext,0.82,0.5,0.4,0.5,0.6,1.0,improved
 Output,Uitvoer,reviewed,frappe,0.72,0.3,0.2,0.3,0.3,1.0,improved
 Outstanding,Openstaand,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Outstanding Amount,Openstaand Bedrag,reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
@@ -6868,17 +6868,17 @@ Outstanding Cheques and Deposits to clear,Openstaande cheques en deposito's af t
 Outstanding for {0} cannot be less than zero ({1}),Openstaand bedrag voor {0} mag niet kleiner zijn dan nul ({1}),reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Outward,Uitgaand,reviewed,erpnext,0.74,0.3,0.2,0.3,0.4,1.0,improved
 "Outward taxable supplies(other than zero rated, nil rated and exempted)","Uitgaande belastbare prestaties (andere dan nultarief, nihil en vrijgesteld)",reviewed,erpnext,0.88,0.85,0.85,0.85,0.9,1.0,ok
-Outward taxable supplies(zero rated),Belastbare leveringen (nul),reviewed,erpnext,0.72,0.7,0.65,0.7,0.8,0.9,review
+Outward taxable supplies(zero rated),Uitgaande belastbare leveringen (nultarief),reviewed,erpnext,0.82,0.7,0.65,0.7,0.8,0.9,improved
 Over Billing Allowance (%),Overfactureringstoeslag (%),reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
-Over Delivery/Receipt Allowance (%),Overlevering / ontvangsttoeslag (%),reviewed,erpnext,0.76,0.75,0.65,0.75,0.8,1.0,review
+Over Delivery/Receipt Allowance (%),Toegestane meerlevering/ontvangst (%),reviewed,erpnext,0.82,0.75,0.65,0.75,0.8,1.0,improved
 Over Dimensional Cargo (ODC),Overdimensionale lading (ODC),reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Over Transfer Allowance (%),Overdrachtstoeslag (%),reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Overdue,Achterstallig,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Overdue and Discounted,Achterstallig en afgeprijsd,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Overdue Days,Achterstallige dagen,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Overdue Interval,Achterstallig interval,reviewed,erpnext,0.87,0.85,0.8,0.85,0.9,1.0,ok
-Overlap in scoring between {0} and {1},Overlappen in scoren tussen {0} en {1},reviewed,erpnext,0.62,0.6,0.5,0.6,0.6,1.0,review
-Overlapping conditions found between:,Overlappende voorwaarden gevonden tussen :,reviewed,erpnext,0.71,0.7,0.65,0.7,0.7,1.0,review
+Overlap in scoring between {0} and {1},Overlap in beoordeling tussen {0} en {1},reviewed,erpnext,0.84,0.6,0.5,0.6,0.6,1.0,improved
+Overlapping conditions found between:,Er zijn overlappende voorwaarden gevonden tussen:,reviewed,erpnext,0.84,0.7,0.65,0.7,0.7,1.0,improved
 Overproduction for Sales and Work Order,Overproductie voor verkoop en werkorder,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Overproduction Percentage For Sales Order,Overproductiepercentage voor klantorder,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Overproduction Percentage For Work Order,Overproductiepercentage voor werkorder,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -6886,22 +6886,22 @@ Overseas,Overzee,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Overtime Slip,Overwerkbon,reviewed,custom,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Overtime Type,Overwerktype,reviewed,custom,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Overwrite,Overschrijven,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Owned,Eigendom,reviewed,erpnext,0.75,0.7,0.65,0.7,0.9,1.0,review
-Owner,eigenaar,reviewed,both,0.52,0.5,0.4,0.5,0.4,1.0,review
+Owned,Eigen,reviewed,erpnext,0.81,0.7,0.65,0.7,0.9,1.0,improved
+Owner,Eigenaar,reviewed,both,0.83,0.5,0.4,0.5,0.4,1.0,improved
 Package Document Type,Type pakketdocument,reviewed,frappe,0.87,0.85,0.8,0.85,0.9,1.0,ok
-Package Publish Target,Pakket publiceren doel,reviewed,frappe,0.62,0.6,0.5,0.6,0.7,1.0,review
-Package Publish Tool,Hulpprogramma voor het publiceren van pakketten,reviewed,frappe,0.72,0.7,0.65,0.7,0.8,1.0,review
-Package Weight Details,Pakket gewicht details,reviewed,erpnext,0.61,0.6,0.5,0.6,0.6,1.0,review
+Package Publish Target,Pakket publicatiedoel,reviewed,frappe,0.81,0.6,0.5,0.6,0.7,1.0,improved
+Package Publish Tool,Pakket publicatietool,reviewed,frappe,0.83,0.7,0.65,0.7,0.8,1.0,improved
+Package Weight Details,Gewichtsdetails pakket,reviewed,erpnext,0.82,0.6,0.5,0.6,0.6,1.0,improved
 Packed Item,Verpakt artikel,reviewed,erpnext,0.79,0.1,0.1,0.1,0.2,0.5,improved
-Packed Items,Verpakt Items,reviewed,erpnext,0.52,0.5,0.4,0.5,0.4,1.0,review
+Packed Items,Verpakte artikelen,reviewed,erpnext,0.86,0.5,0.4,0.5,0.4,1.0,improved
 Packed quantity must equal quantity for Item {0} in row {1},De verpakte hoeveelheid moet gelijk zijn aan de hoeveelheid voor artikel {0} in rij {1},reviewed,erpnext,0.84,0.5,0.4,0.5,0.3,0.9,improved
 Packing List,Paklijst,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
-Packing Slip,Paklijst,reviewed,erpnext,0.75,0.7,0.65,0.7,0.9,1.0,review
+Packing Slip,Paklijst,reviewed,erpnext,0.85,0.7,0.65,0.7,0.9,1.0,improved
 Packing Slip Item,Pakbon Artikel,reviewed,erpnext,0.89,0.85,0.85,0.85,1.0,1.0,ok
 Packing Slip(s) cancelled,Pakbon(nen) geannuleerd,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Packing Unit,Verpakkingseenheid,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Page,Pagina,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
-page,Pagina,reviewed,frappe,0.6,0.6,0.5,0.5,0.5,1.0,review
+page,Pagina,reviewed,frappe,0.85,0.6,0.5,0.5,0.5,1.0,improved
 Page Break,Pagina-einde,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Page Building Blocks,Pagina-bouwstenen,reviewed,frappe,0.87,0.85,0.8,0.85,0.9,1.0,ok
 Page has expired!,Pagina is verlopen!,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -6911,47 +6911,47 @@ Page Missing or Moved,Pagina ontbreekt of verplaatst,reviewed,frappe,0.84,0.85,0
 Page not found,Pagina niet gevonden,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Page Settings,Pagina instellingen,reviewed,frappe,0.82,0.85,0.75,0.8,0.75,1.0,ok
 Page Shortcuts,Paginasnelkoppelingen,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Page to show on the website\n,Pagina om te laten zien op de website,reviewed,frappe,0.77,0.8,0.65,0.75,0.8,0.85,review
+Page to show on the website\n,Pagina weergeven op website,reviewed,frappe,0.84,0.8,0.65,0.75,0.8,0.85,improved
 Page {0} of {1},Pagina {0} van {1},reviewed,both,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Pages in Desk (place holders),Pagina's in Werkblad (plaatshouders),reviewed,frappe,0.73,0.3,0.2,0.3,0.2,0.6,improved
 Paid,Betaald,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Paid Amount,Betaald bedrag,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Paid Amount (Company Currency),Betaald bedrag (Bedrijfsvaluta),reviewed,erpnext,0.92,0.9,0.9,0.9,0.9,1.0,ok
 Paid amount + Write Off Amount can not be greater than Grand Total,Betaald bedrag + Afgeschreven bedrag kan niet groter zijn dan Eindtotaal,reviewed,erpnext,0.84,0.85,0.8,0.85,0.8,1.0,ok
-Paid Amount cannot be greater than total negative outstanding amount {0},Betaalde bedrag kan niet groter zijn dan de totale negatieve openstaande bedrag {0},reviewed,erpnext,0.67,0.75,0.55,0.7,0.5,0.9,review
+Paid Amount cannot be greater than total negative outstanding amount {0},Het betaalde bedrag mag niet groter zijn dan het totale negatieve openstaande bedrag {0},reviewed,erpnext,0.88,0.75,0.55,0.7,0.5,0.9,improved
 Paid amount cannot be less than {0},Betaald bedrag kan niet lager zijn dan {0},reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Paid and Not Delivered,Betaald en niet geleverd,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Paid Loan,Betaalde lening,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 PAN Details,PAN-gegevens,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-PAN No,PAN nr,reviewed,erpnext,0.75,0.75,0.7,0.75,0.7,0.9,review
+PAN No,PAN-nummer,reviewed,erpnext,0.82,0.75,0.7,0.75,0.7,0.9,improved
 Parameter Name,Parameternaam,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Parameters,parameters,reviewed,erpnext,0.76,0.8,0.8,0.7,0.6,1.0,review
+Parameters,Parameters,reviewed,erpnext,0.85,0.8,0.8,0.7,0.6,1.0,improved
 Parent,Bovenliggend,reviewed,both,0.8,0.8,0.75,0.8,0.85,1.0,ok
 Parent Account,Bovenliggende rekening,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Parent Batch,Bovenliggende batch,reviewed,erpnext,0.85,0.85,0.8,0.85,0.9,1.0,ok
 Parent Company,Moederbedrijf,reviewed,erpnext,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Parent Company must be a group company,Moederbedrijf moet een groepsmaatschappij zijn,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Parent Cost Center,Bovenliggende kostenplaats,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Parent Cost Center cannot be added in Distributed Cost Center,Bovenliggende kostenplaats kan niet worden toegevoegd in Gedistribueerde kostenplaats,reviewed,erpnext,0.79,0.8,0.7,0.8,0.75,1.0,review
+Parent Cost Center cannot be added in Distributed Cost Center,Een bovenliggende kostenplaats kan niet worden toegevoegd aan een gedistribueerde kostenplaats,reviewed,erpnext,0.87,0.8,0.7,0.8,0.75,1.0,improved
 Parent Customer Group,Bovenliggende klantgroep,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Parent Department,Bovenliggende afdeling,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Parent Detail docname,Bovenliggende Detail docname,reviewed,erpnext,0.61,0.6,0.5,0.6,0.6,0.9,review
-Parent Error Snapshot,Bovenliggende foutmomentopname,reviewed,frappe,0.72,0.75,0.55,0.7,0.7,1.0,review
+Parent Detail docname,Bovenliggend detail docnaam,reviewed,erpnext,0.78,0.6,0.5,0.6,0.6,0.9,improved
+Parent Error Snapshot,Bovenliggende foutsnapshot,reviewed,frappe,0.8,0.75,0.55,0.7,0.7,1.0,improved
 Parent Field (Tree),Bovenliggend veld (boom),reviewed,frappe,0.8,0.8,0.7,0.8,0.85,1.0,ok
 Parent Field must be a valid fieldname,Bovenliggend veld moet een geldige veldnaam zijn,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
-Parent is required to get child table data,Ouder is vereist om onderliggende tabelgegevens te verkrijgen,reviewed,frappe,0.65,0.65,0.55,0.6,0.7,0.9,review
+Parent is required to get child table data,Bovenliggend record is vereist om onderliggende tabelgegevens op te halen,reviewed,frappe,0.86,0.65,0.55,0.6,0.7,0.9,improved
 Parent is the name of the document to which the data will get added to.,Bovenliggend element is de naam van het document waaraan de gegevens worden toegevoegd.,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Parent Item,Bovenliggend Artikel,reviewed,erpnext,0.78,0.8,0.75,0.75,0.7,1.0,review
-Parent Item Group,Bovenliggende Artikelgroep,reviewed,erpnext,0.78,0.8,0.75,0.75,0.7,1.0,review
+Parent Item,Bovenliggend artikel,reviewed,erpnext,0.85,0.8,0.75,0.75,0.7,1.0,improved
+Parent Item Group,Bovenliggende artikelgroep,reviewed,erpnext,0.85,0.8,0.75,0.75,0.7,1.0,improved
 Parent Item {0} must not be a Stock Item,Bovenliggend artikel {0} mag geen voorraadartikel zijn,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Parent Location,Bovenliggende locatie,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Parent Procedure,Bovenliggende procedure,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Parent Task,Bovenliggende taak,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Parent Territory,Bovenliggende Regio,reviewed,erpnext,0.78,0.8,0.75,0.75,0.7,1.0,review
+Parent Territory,Bovenliggende regio,reviewed,erpnext,0.85,0.8,0.75,0.75,0.7,1.0,improved
 Parents Teacher Meeting Attendance,Aanwezigheid ouderavond,reviewed,erpnext,0.83,0.8,0.85,0.8,0.9,0.85,ok
 Partial Success,Gedeeltelijk succes,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Partially,Gedeeltelijk,reviewed,custom,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Partially Completed,Gedeeltelijk afgesloten,reviewed,erpnext,0.76,0.75,0.7,0.75,0.8,1.0,review
+Partially Completed,Gedeeltelijk voltooid,reviewed,erpnext,0.84,0.75,0.7,0.75,0.8,1.0,improved
 Partially Depreciated,Gedeeltelijk afgeschreven,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Partially Fulfilled,Gedeeltelijk vervuld,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Partially Ordered,Gedeeltelijk besteld,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -6960,20 +6960,20 @@ Partially Paid,Gedeeltelijk betaald,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,o
 Partially Received,Gedeeltelijk ontvangen,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Partially Successful,Gedeeltelijk succesvol,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Participants,Deelnemers,reviewed,frappe,0.96,0.95,0.95,0.95,1.0,1.0,ok
-Particulars,bijzonderheden,reviewed,erpnext,0.71,0.75,0.7,0.65,0.55,1.0,review
-Parties,partijen,reviewed,erpnext,0.72,0.75,0.75,0.65,0.55,1.0,review
-Partly Billed,Deels Gefactureerd,reviewed,erpnext,0.78,0.8,0.75,0.75,0.7,1.0,review
+Particulars,Omschrijving,reviewed,erpnext,0.83,0.75,0.7,0.65,0.55,1.0,improved
+Parties,Partijen,reviewed,erpnext,0.82,0.75,0.75,0.65,0.55,1.0,improved
+Partly Billed,Deels gefactureerd,reviewed,erpnext,0.85,0.8,0.75,0.75,0.7,1.0,improved
 Partly Delivered,Deels geleverd,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Partly Paid,Gedeeltelijk betaald,reviewed,custom,0.85,0.85,0.85,0.8,0.9,1.0,ok
-Partner website,partner website,reviewed,erpnext,0.68,0.7,0.65,0.65,0.55,1.0,review
+Partner website,Partnerwebsite,reviewed,erpnext,0.84,0.7,0.65,0.65,0.55,1.0,improved
 Party,Relatie,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Party Account Currency,Relatie-accountvaluta,reviewed,erpnext,0.74,0.75,0.65,0.75,0.7,1.0,review
+Party Account Currency,Valuta relatierekening,reviewed,erpnext,0.82,0.75,0.65,0.75,0.7,1.0,improved
 Party Balance,Relatiesaldo,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Party Bank Account,Partij bankrekening,reviewed,erpnext,0.63,0.65,0.55,0.6,0.55,1.0,review
-Party GSTIN,Partij GSTIN,reviewed,frappe,0.78,0.8,0.75,0.7,0.8,1.0,review
+Party Bank Account,Bankrekening relatie,reviewed,erpnext,0.83,0.65,0.55,0.6,0.55,1.0,improved
+Party GSTIN,GSTIN relatie,reviewed,frappe,0.8,0.8,0.75,0.7,0.8,1.0,improved
 Party Information,Relatie-informatie,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Party is mandatory,Relatie is verplicht,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Party Link,Partijkoppeling,reviewed,custom,0.68,0.7,0.65,0.6,0.7,1.0,review
+Party Link,Relatiekoppeling,reviewed,custom,0.83,0.7,0.65,0.6,0.7,1.0,improved
 Party Name,Relatienaam,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Party Specific Item,Relatie-specifiek artikel,reviewed,custom,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Party Type,Relatietype,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -6989,11 +6989,11 @@ Passport Number,Paspoortnummer,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Password,Wachtwoord,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Password changed successfully.,Wachtwoord succesvol veranderd.,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Password for Base DN,Wachtwoord voor Base DN,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
-Password is required or select Awaiting Password,Wachtwoord nodig of selecteer afwachting wachtwoord,reviewed,frappe,0.62,0.65,0.5,0.6,0.55,0.9,review
+Password is required or select Awaiting Password,Voer een wachtwoord in of selecteer 'Wachtwoord in afwachting',reviewed,frappe,0.86,0.65,0.5,0.6,0.55,0.9,improved
 Password not found,Wachtwoord niet gevonden,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Password Reset,Wachtwoord opnieuw instellen,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Password reset instructions have been sent to your email,"Instructies om uw wachtwoord opnieuw in te stellen, zijn naar uw e-mail verzonden",reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
-Password Reset Link Generation Limit,Limiet voor genereren van link voor opnieuw instellen van wachtwoord,reviewed,frappe,0.73,0.75,0.6,0.7,0.75,1.0,review
+Password Reset Link Generation Limit,Maximaal aantal wachtwoord-resetlinks,reviewed,frappe,0.84,0.75,0.6,0.7,0.75,1.0,improved
 Password Updated,Wachtwoord bijgewerkt,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Passwords do not match!,Wachtwoorden komen niet overeen!,reviewed,frappe,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Past Due Date,Verstreken einddatum,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
@@ -7002,38 +7002,38 @@ Path,Pad,reviewed,both,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Path to CA Certs File,Pad naar CA Certs-bestand,reviewed,frappe,0.85,0.85,0.8,0.85,0.85,1.0,ok
 Path to private Key File,Pad naar privésleutelbestand,reviewed,frappe,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Path to Server Certificate,Pad naar servercertificaat,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Patient Age,Patiënt leeftijd,reviewed,erpnext,0.76,0.8,0.7,0.75,0.7,1.0,review
-Patient Appointment,Patient Afspraak,reviewed,erpnext,0.66,0.7,0.6,0.65,0.6,1.0,review
+Patient Age,Patiëntleeftijd,reviewed,erpnext,0.84,0.8,0.7,0.75,0.7,1.0,improved
+Patient Appointment,Patiëntafspraak,reviewed,erpnext,0.86,0.7,0.6,0.65,0.6,1.0,improved
 Patient Appointment Analytics,Patiëntafspraakanalyse,reviewed,erpnext,0.85,0.85,0.8,0.85,0.85,1.0,ok
-Patient Appointments,Afspraken met de patiënt,reviewed,erpnext,0.64,0.55,0.55,0.6,0.9,1.0,review
-Patient Assessment,Patiënt beoordeling,reviewed,erpnext,0.7,0.75,0.6,0.65,0.7,1.0,review
+Patient Appointments,Patiëntafspraken,reviewed,erpnext,0.86,0.55,0.55,0.6,0.9,1.0,improved
+Patient Assessment,Patiëntbeoordeling,reviewed,erpnext,0.86,0.75,0.6,0.65,0.7,1.0,improved
 Patient Assessment Detail,Details van patiëntbeoordeling,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
 Patient Assessment Parameter,Patiëntbeoordelingsparameter,reviewed,erpnext,0.8,0.8,0.7,0.8,0.9,1.0,ok
 Patient Assessment Sheet,Patiëntbeoordelingsblad,reviewed,erpnext,0.81,0.8,0.75,0.8,0.9,1.0,ok
 Patient Assessment Template,Sjabloon voor patiëntbeoordeling,reviewed,erpnext,0.87,0.85,0.85,0.8,0.95,1.0,ok
-Patient Encounter,Patientconsult,reviewed,erpnext,0.74,0.75,0.75,0.65,0.7,1.0,review
-Patient Encounter Diagnosis,Diagnose van ontmoeting met de patiënt,reviewed,erpnext,0.5,0.45,0.35,0.4,0.7,1.0,review
-Patient Encounter Symptom,Symptoom bij de patiënt,reviewed,erpnext,0.57,0.5,0.5,0.45,0.85,1.0,review
+Patient Encounter,Patiëntconsult,reviewed,erpnext,0.87,0.75,0.75,0.65,0.7,1.0,improved
+Patient Encounter Diagnosis,Diagnose bij patiëntconsult,reviewed,erpnext,0.88,0.45,0.35,0.4,0.7,1.0,improved
+Patient Encounter Symptom,Symptoom bij patiëntconsult,reviewed,erpnext,0.88,0.5,0.5,0.45,0.85,1.0,improved
 Patient History,Patiëntgeschiedenis,reviewed,erpnext,0.83,0.8,0.8,0.8,0.9,1.0,ok
-Patient Name,Patient naam,reviewed,erpnext,0.71,0.8,0.6,0.6,0.65,1.0,review
-Patient Name By,Patientnaam via,reviewed,erpnext,0.65,0.65,0.6,0.6,0.65,1.0,review
+Patient Name,Patiëntnaam,reviewed,erpnext,0.87,0.8,0.6,0.6,0.65,1.0,improved
+Patient Name By,Naamformaat patiënt,reviewed,erpnext,0.83,0.65,0.6,0.6,0.65,1.0,improved
 Patient not found,Patiënt niet gevonden,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Patient Profile,Patiëntprofiel,reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
-Patient Progress,Vooruitgang van de patiënt,reviewed,erpnext,0.66,0.6,0.6,0.55,0.9,1.0,review
+Patient Progress,Patiëntvoortgang,reviewed,erpnext,0.85,0.6,0.6,0.55,0.9,1.0,improved
 Patient Registration,Patiëntregistratie,reviewed,erpnext,0.93,0.9,0.9,0.9,0.95,1.0,ok
 Patient Relation,Patiëntrelatie,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Pause,Pauze,reviewed,erpnext,0.95,0.9,0.95,0.95,1.0,1.0,ok
 pause,pauze,reviewed,frappe,0.95,0.9,0.95,0.95,1.0,1.0,ok
 Pause SLA On,SLA onderbreken,reviewed,erpnext,0.8,0.8,0.8,0.75,0.9,0.85,ok
-Pause SLA On Status,Pauzeer SLA op status,reviewed,erpnext,0.65,0.65,0.6,0.55,0.75,0.95,review
+Pause SLA On Status,SLA pauzeren bij status,reviewed,erpnext,0.84,0.65,0.6,0.55,0.75,0.95,improved
 Pay,Betalen,reviewed,erpnext,0.9,0.85,0.9,0.85,1.0,1.0,ok
-Pay Remaining,Betaal resterend,reviewed,erpnext,0.67,0.7,0.6,0.65,0.7,1.0,review
-Pay To / Recd From,Betaal aan / Ontv van,reviewed,erpnext,0.73,0.75,0.65,0.7,0.75,0.95,review
+Pay Remaining,Restbedrag betalen,reviewed,erpnext,0.85,0.7,0.6,0.65,0.7,1.0,improved
+Pay To / Recd From,Betalen aan / Ontvangen van,reviewed,erpnext,0.84,0.75,0.65,0.7,0.75,0.95,improved
 Pay {0} {1},Betaal {0} {1},reviewed,erpnext,0.87,0.85,0.85,0.85,0.95,1.0,ok
-Payable,betaalbaar,reviewed,erpnext,0.59,0.55,0.6,0.55,0.6,1.0,review
+Payable,Te betalen,reviewed,erpnext,0.85,0.55,0.6,0.55,0.6,1.0,improved
 Payable Account,Crediteurenrekening,reviewed,erpnext,0.82,0.35,0.3,0.35,0.6,1.0,improved
 Payables,Crediteuren,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Payer Settings,Payer Instellingen,reviewed,erpnext,0.51,0.55,0.4,0.45,0.55,1.0,review
+Payer Settings,Betalersinstellingen,reviewed,erpnext,0.84,0.55,0.4,0.45,0.55,1.0,improved
 Payment,Betaling,reviewed,erpnext,0.97,0.95,0.95,0.95,1.0,1.0,ok
 Payment Account,Betaalrekening,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Payment against {0} {1} cannot be greater than Outstanding Amount {2},Betaling voor {0} {1} mag niet groter zijn dan het openstaande bedrag {2},reviewed,erpnext,0.83,0.35,0.2,0.4,0.25,0.9,improved

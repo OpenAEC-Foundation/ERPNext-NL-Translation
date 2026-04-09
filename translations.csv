@@ -16574,343 +16574,343 @@ Schema,Schema,reviewed,insights,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Script Log,Scriptlog,reviewed,insights,0.86,0.85,0.8,0.85,0.9,1.0,ok
 Search by Title,Zoek op titel,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Search by name,Zoek op naam,reviewed,insights,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Secrets,Geheimen,reviewed,insights,,,,,,,
-Select Charts,Grafieken selecteren,reviewed,insights,,,,,,,
-Select Columns to Add,Kolommen selecteren om toe te voegen,reviewed,insights,,,,,,,
-Select Join Type,Jointype selecteren,reviewed,insights,,,,,,,
-Select Source,Bron selecteren,reviewed,insights,,,,,,,
-Select Table,Tabel selecteren,reviewed,insights,,,,,,,
-Select a column,Selecteer een kolom,reviewed,insights,,,,,,,
-Select a data source,Selecteer een databron,reviewed,insights,,,,,,,
-Select a table or query to start building your query,Selecteer een tabel of Query om uw Query te beginnen bouwen,reviewed,insights,,,,,,,
-Select an operation,Selecteer een bewerking,reviewed,insights,,,,,,,
-Select operator...,Selecteer operator...,reviewed,insights,,,,,,,
-Send Alert,Melding versturen,reviewed,insights,,,,,,,
-Send Invitation,Uitnodiging versturen,reviewed,insights,,,,,,,
-Send Test Alert,Testmelding versturen,reviewed,insights,,,,,,,
-Send alert when,Stuur melding wanneer,reviewed,insights,,,,,,,
-Sending Alert...,Melding versturen...,reviewed,insights,,,,,,,
-Set Insights v2 as default,Insights v2 als standaard instellen,reviewed,insights,,,,,,,
-Set up alerts to get notified when a condition is met,Stel meldingen in om een melding te ontvangen wanneer aan een voorwaarde is voldaan,reviewed,insights,,,,,,,
-Setup Alert,Melding instellen,reviewed,insights,,,,,,,
-Setup Demo Data,Demonstratiedata instellen,reviewed,insights,,,,,,,
-Setup Failed,Instelling mislukt,reviewed,insights,,,,,,,
-Share Chart,Grafiek delen,reviewed,insights,,,,,,,
-Share Dashboard,Dashboard delen,reviewed,insights,,,,,,,
-Share Link,Link delen,reviewed,insights,,,,,,,
-Show or hide columns from the table,Kolommen in de tabel weergeven of verbergen,reviewed,insights,,,,,,,
-Site Database,Sitedatabase,reviewed,insights,,,,,,,
-Sort Ascending,Oplopend sorteren,reviewed,insights,,,,,,,
-Sort Descending,Aflopend sorteren,reviewed,insights,,,,,,,
-Specific people can view,Specifieke personen kunnen bekijken,reviewed,insights,,,,,,,
-Spreading column values into separate columns,Kolomwaarden verspreiden over afzonderlijke kolommen,reviewed,insights,,,,,,,
-Started At,Gestart om,reviewed,insights,,,,,,,
-Starting...,Starten...,reviewed,insights,,,,,,,
-State (JSON),Status (JSON),reviewed,insights,,,,,,,
-Stored,Opgeslagen,reviewed,insights,,,,,,,
-String,String,reviewed,insights,,,,,,,
-Sum of...,Som van...,reviewed,insights,,,,,,,
-Switch to Desk,Naar Desk gaan,reviewed,insights,,,,,,,
-Switch to Insights v2,Naar Insights v2 gaan,reviewed,insights,,,,,,,
-Sync tables from your data source to get started,Synchroniseer tabellen van uw databron om te beginnen,reviewed,insights,,,,,,,
-Table Imported,Tabel geïmporteerd,reviewed,insights,,,,,,,
-Table Label,Tabellabel,reviewed,insights,,,,,,,
-Table Name,Tabelnaam,reviewed,insights,,,,,,,
-Table Restrictions,Tabelbeperkingen,reviewed,insights,,,,,,,
-Tables,Tabellen,reviewed,insights,,,,,,,
-Team Permissions,Teambevoegdheden,reviewed,insights,,,,,,,
-Telegram,Telegram,reviewed,insights,,,,,,,
-Telegram API Token,Telegram API Token,reviewed,insights,,,,,,,
-Telegram Chat ID,Telegram Chat ID,reviewed,insights,,,,,,,
-Text Rules,Tekstregels,reviewed,insights,,,,,,,
-This FY,Dit boekjaar,reviewed,insights,,,,,,,
-Time Taken (Seconds),Verstreken tijd (seconden),reviewed,insights,,,,,,,
-Top,Bovenaan,reviewed,insights,,,,,,,
-Top N percent,Bovenste N procent,reviewed,insights,,,,,,,
-Top N values,Bovenste N waarden,reviewed,insights,,,,,,,
-Transform,Transformatie,reviewed,insights,,,,,,,
-Transforms,Transformaties,reviewed,insights,,,,,,,
-Transpose,Transponeren,reviewed,insights,,,,,,,
-Try demo data,Demonstratiedata uitproberen,reviewed,insights,,,,,,,
-Unexpected validation error,Onverwachte validatiefout,reviewed,insights,,,,,,,
-Unique Count of...,Uniek aantal van...,reviewed,insights,,,,,,,
-Unpivot,Draaitabel omkeren,reviewed,insights,,,,,,,
-Update Alert,Melding bijwerken,reviewed,insights,,,,,,,
-Update Table Links,Tabelkoppelingen bijwerken,reviewed,insights,,,,,,,
-Update Tables,Tabellen bijwerken,reviewed,insights,,,,,,,
-Upload CSV or Excel,CSV of Excel uploaden,reviewed,insights,,,,,,,
-Upload CSV/Excel/JSON File,CSV/Excel/JSON-bestand uploaden,reviewed,insights,,,,,,,
-Upload a CSV or Excel file to create a new data source,Upload een CSV- of Excel-bestand om een nieuwe databron aan te maken,reviewed,insights,,,,,,,
-Use Custom Condition,Aangepaste voorwaarde gebruiken,reviewed,insights,,,,,,,
-Use Live Connection,Liveverbinding gebruiken,reviewed,insights,,,,,,,
-Use secure connection (SSL)?,Beveiligde verbinding gebruiken (SSL)?,reviewed,insights,,,,,,,
-Validation failed,Validatie mislukt,reviewed,insights,,,,,,,
-Value Rules,Waarderegels,reviewed,insights,,,,,,,
-Variable Value,Variabelewaarde,reviewed,insights,,,,,,,
-Variables are used to store sensitive information such as API keys and credentials. They can be referenced and combined in your script just like any other variable. For eg.,"Variabelen worden gebruikt om gevoelige informatie op te slaan, zoals API-sleutels en inloggegevens. Ze kunnen in uw script worden gebruikt en gecombineerd, net als elke andere variabele. Bijvoorbeeld:",reviewed,insights,,,,,,,
-Vertical,Verticaal,reviewed,insights,,,,,,,
-Vertical Compact Layout,Verticale compacte indeling,reviewed,insights,,,,,,,
-View SQL,View SQL,reviewed,insights,,,,,,,
-Week Starts On,Week begint op,reviewed,insights,,,,,,,
-Workbook,Werkboek,reviewed,insights,,,,,,,
-Workbooks,Werkboeken,reviewed,insights,,,,,,,
-World Map,Wereldkaart,reviewed,insights,,,,,,,
-"Write Python code to fetch and transform data. Available globals:<br>• client: API client for the selected data source<br>• table: Write data to warehouse. Methods: insert(data, overwrite=False)<br>• state: Persist data between runs. Methods: get(key, default=None), set(key, value), delete(key), clear()<br>• secrets: Access secret keys. Methods: get(key)<br>• log(message): Log execution messages","Schrijf Python-code om data op te halen en te transformeren. Beschikbare globals:<br>• client: API-client voor de geselecteerde databron<br>• table: Schrijf data naar het warehouse. Methoden: insert(data, overwrite=False)<br>• state: Bewaar data tussen runs. Methoden: get(key, default=None), set(key, value), delete(key), clear()<br>• secrets: Toegang tot geheime sleutels. Methoden: get(key)<br>• log(message): Log uitvoeringsberichten",reviewed,insights,,,,,,,
-You can use markdown to format the message. Use double asterisks (**) for bold text. You can use the following fields in the message:,U kunt markdown gebruiken om het bericht op te maken. Gebruik dubbele asterisken (**) voor vetgedrukte tekst. U kunt de volgende velden in het bericht gebruiken:,reviewed,insights,,,,,,,
-You do not have permission to access this resource,U heeft geen toestemming om deze resource te openen,reviewed,insights,,,,,,,
-You do not have permission to modify this workbook,U heeft geen toestemming om dit werkboek te bewerken,reviewed,insights,,,,,,,
-You do not have permission to share this workbook,U heeft geen toestemming om dit werkboek te delen,reviewed,insights,,,,,,,
-Your workbooks will appear here. Create a new workbook to get started.,Uw werkboeken verschijnen hier. Maak een nieuw werkboek aan om te beginnen.,reviewed,insights,,,,,,,
-after date,na datum,reviewed,insights,,,,,,,
-asc,oplopend,reviewed,insights,,,,,,,
-before date,voor datum,reviewed,insights,,,,,,,
-between dates,tussen datums,reviewed,insights,,,,,,,
-chart,grafiek,reviewed,insights,,,,,,,
-contains,bevat,reviewed,insights,,,,,,,
-desc,aflopend,reviewed,insights,,,,,,,
-does not contain,bevat niet,reviewed,insights,,,,,,,
-does not equal,is niet gelijk aan,reviewed,insights,,,,,,,
-e.g. 0 0 12 * * ?,e.g. 0 0 12 * * ?,reviewed,insights,,,,,,,
-e.g. 123456789,e.g. 123456789,reviewed,insights,,,,,,,
-e.g. Low Inventory,bijv. Lage voorraad,reviewed,insights,,,,,,,
-e.g. api_key,e.g. api_key,reviewed,insights,,,,,,,
-"e.g. john@example.com, henry@example.com","e.g. john@example.com, henry@example.com",reviewed,insights,,,,,,,
-ends with,eindigt met,reviewed,insights,,,,,,,
-equals,is gelijk aan,reviewed,insights,,,,,,,
-folder,map,reviewed,insights,,,,,,,
-greater than,groter dan,reviewed,insights,,,,,,,
-greater than or equals,groter dan of gelijk aan,reviewed,insights,,,,,,,
-is empty,is leeg,reviewed,insights,,,,,,,
-is last month,is vorige maand,reviewed,insights,,,,,,,
-is last week,is vorige week,reviewed,insights,,,,,,,
-is not empty,is niet leeg,reviewed,insights,,,,,,,
-is this month,is deze maand,reviewed,insights,,,,,,,
-is this week,is deze week,reviewed,insights,,,,,,,
-is this year,is dit jaar,reviewed,insights,,,,,,,
-is today,is vandaag,reviewed,insights,,,,,,,
-is tomorrow,is morgen,reviewed,insights,,,,,,,
-is yesterday,is gisteren,reviewed,insights,,,,,,,
-less than,kleiner dan,reviewed,insights,,,,,,,
-less than or equals,kleiner dan of gelijk aan,reviewed,insights,,,,,,,
-not equals,is niet gelijk aan,reviewed,insights,,,,,,,
-query,Query,reviewed,insights,,,,,,,
-sort_order,sorteervolgorde,reviewed,insights,,,,,,,
-starts with,begint met,reviewed,insights,,,,,,,
-{0} columns selected,{0} kolommen geselecteerd,reviewed,insights,,,,,,,
-"<b>EBICS User</b> '{0}' has <i>Download Batch Transactions</i> enabled. Batch details are stored in separate <b>EBICS Requests</b>, so this re-import might be incomplete. Do you want to continue?","<b>EBICS-gebruiker</b> '{0}' heeft <i>Sammeloverboekingen downloaden</i> ingeschakeld. Batchdetails worden in afzonderlijke <b>EBICS-aanvragen</b> opgeslagen, dus deze herimport kan incompleet zijn. Wilt u doorgaan?",reviewed,banking,,,,,,,
-"<span class=""h4"">Banking</span>","<span class=""h4"">Banking</span>",reviewed,banking,,,,,,,
-<ul><li>It stores DocType-wise mapping of fields that should be considered as 'reference number' fields in Bank Reconciliation Tool Beta</li><li>Link and Data fields are supported</li><li>The field must have a singular reference number for matching with Bank Transactions</li></ul>,<ul><li>Slaat DocType-gewijs de toewijzing op van velden die moeten worden beschouwd als 'referentienummer'-velden in Bankafstemming Beta</li><li>Link- en Datavelden worden ondersteund</li><li>Het veld moet een enkelvoudig referentienummer bevatten dat kan overeenkomen met Banktransacties</li></ul>,reviewed,banking,,,,,,,
-A new version of the Banking app is available ({0}). Please update your instance.,Een nieuwe versie van de Banking-app is beschikbaar ({0}). Update uw instantie.,reviewed,banking,,,,,,,
-ALYF Banking,ALYF Banking,reviewed,banking,,,,,,,
-Account Holder,Rekeninghouder,reviewed,banking,,,,,,,
-Add Recipient,Ontvanger toevoegen,reviewed,banking,,,,,,,
-Admin URL,Admin-URL,reviewed,banking,,,,,,,
-Amount updated to {0} in row {1}.,Bedrag bijgewerkt naar {0} in rij {1}.,reviewed,banking,,,,,,,
-Amounts not updated.,Bedragen niet bijgewerkt.,reviewed,banking,,,,,,,
-Amounts updated.,Bedragen bijgewerkt.,reviewed,banking,,,,,,,
-Are you trying to reconcile vouchers of different parties? This action will reconcile vouchers using a Journal Entry.,Probeert u documenten van verschillende partijen af te stemmen? Deze actie stemt documenten af met een dagboekboeking.,reviewed,banking,,,,,,,
-Authentication error due to invalid credentials.,Authenticatiefout door ongeldige inloggegevens.,reviewed,banking,,,,,,,
-Auto Reconciliation Complete,Automatische afstemming voltooid,reviewed,banking,,,,,,,
-Auto Reconciling ...,Automatisch afstemmen ...,reviewed,banking,,,,,,,
-Auto reconcile bank transactions based on matching reference numbers?,Banktransacties automatisch afstemmen op basis van overeenkomende referentienummers?,reviewed,banking,,,,,,,
-Bank Account not found for IBAN {0},Bankrekening niet gevonden voor IBAN {0},reviewed,banking,,,,,,,
-Bank Keys Activated,Banksleutels geactiveerd,reviewed,banking,,,,,,,
-Bank Reconciliation Tool Beta,Bankafstemming Beta,reviewed,banking,,,,,,,
-Bank Transaction {0} partially matched.,Banktransactie {0} gedeeltelijk gekoppeld.,reviewed,banking,,,,,,,
-Bank Transaction {0} partially reconciled.,Banktransactie {0} gedeeltelijk afgestemd.,reviewed,banking,,,,,,,
-Bank Transaction {0} reconciled with a new {1},Banktransactie {0} afgestemd met een nieuwe {1},reviewed,banking,,,,,,,
-Bank Transactions,Banktransacties,reviewed,banking,,,,,,,
-Bank keys confirmed,Banksleutels bevestigd,reviewed,banking,,,,,,,
-Bank statements are being downloaded in the background.,Bankafschriften worden op de achtergrond gedownload.,reviewed,banking,,,,,,,
-Bank transactions that happened before this date must not be imported.,"Banktransacties die vóór deze datum plaatsvonden, mogen niet worden geïmporteerd.",reviewed,banking,,,,,,,
-Bank {0} does not have EBICS Host ID or URL set,Bank {0} heeft geen EBICS Host ID of URL ingesteld,reviewed,banking,,,,,,,
-Banking Action has failed due to the following error(s):,Banking-actie is mislukt door de volgende fout(en):,reviewed,banking,,,,,,,
-Banking Error,Banking-fout,reviewed,banking,,,,,,,
-Banking Reference Mapping,Banking Referentietoewijzing,reviewed,banking,,,,,,,
-Banking Settings,Banking-instellingen,reviewed,banking,,,,,,,
-Banking Warning,Banking-waarschuwing,reviewed,banking,,,,,,,
-Batch Booking,Batchboeking,reviewed,banking,,,,,,,
-CRED,CRED,reviewed,banking,,,,,,,
-Cannot create Journal Entry for a Bank Transaction with both Deposit and Withdrawal,Kan geen dagboekboeking aanmaken voor een banktransactie met zowel storting als opname,reviewed,banking,,,,,,,
-Cannot make Reconciliation Payment Entry against multiple doctypes,Kan geen afstemmingsbetalingsboeking aanmaken tegen meerdere documenttypen,reviewed,banking,,,,,,,
-Cannot make Reconciliation Payment Entry against multiple parties,Kan geen afstemmingsbetalingsboeking aanmaken tegen meerdere partijen,reviewed,banking,,,,,,,
-Change Protocol Version,Protocolversie wijzigen,reviewed,banking,,,,,,,
-Create Employee Bank Account,Werknemersbankrekening aanmaken,reviewed,banking,,,,,,,
-Create Supplier Bank Account,Leveranciersbankrekening aanmaken,reviewed,banking,,,,,,,
-Create Voucher,Document aanmaken,reviewed,banking,,,,,,,
-Creating SEPA Payment Order ...,SEPA-betalingsopdracht aanmaken ...,reviewed,banking,,,,,,,
-DEBT,DEBT,reviewed,banking,,,,,,,
-DOWNLOADED,GEDOWNLOAD,reviewed,banking,,,,,,,
-Developer mode is enabled. Please disable it to continue auto-syncing bank transactions.,Ontwikkelaarsmodus is ingeschakeld. Schakel deze uit om automatische synchronisatie van banktransacties voort te zetten.,reviewed,banking,,,,,,,
-Did you mean {0}?,Meent u {0}?,reviewed,banking,,,,,,,
-DocType must be Supplier or Employee.,DocType moet Leverancier of Werknemer zijn.,reviewed,banking,,,,,,,
-Download Bank Statements,Bankafschriften downloaden,reviewed,banking,,,,,,,
-Download Batch Transactions,Sammeloverboekingen downloaden,reviewed,banking,,,,,,,
-Download as XML,Als XML downloaden,reviewed,banking,,,,,,,
-Download response files,Antwoordbestanden downloaden,reviewed,banking,,,,,,,
-Downloaded,Gedownload,reviewed,banking,,,,,,,
-"Due to Period Closing, you cannot reconcile unpaid vouchers with a Bank Transaction before {0}",Vanwege periode-afsluiting kunt u onbetaalde documenten niet afstemmen met een banktransactie vóór {0},reviewed,banking,,,,,,,
-EBICS,EBICS,reviewed,banking,,,,,,,
-EBICS Configuration Missing,EBICS-configuratie ontbreekt,reviewed,banking,,,,,,,
-EBICS Host ID,EBICS Host-ID,reviewed,banking,,,,,,,
-EBICS Order ID,EBICS-order-ID,reviewed,banking,,,,,,,
-EBICS Protocol Versions,EBICS-protocolversies,reviewed,banking,,,,,,,
-EBICS Request,EBICS-aanvraag,reviewed,banking,,,,,,,
-EBICS URL,EBICS URL,reviewed,banking,,,,,,,
-EBICS User,EBICS-gebruiker,reviewed,banking,,,,,,,
-EBICS User limit exceeded.,EBICS-gebruikerslimiet overschreden.,reviewed,banking,,,,,,,
-EBICS Users,EBICS-gebruikers,reviewed,banking,,,,,,,
-EBICS transactions re-imported successfully.,EBICS-transacties succesvol geherimporteerd.,reviewed,banking,,,,,,,
-EREF,EREF,reviewed,banking,,,,,,,
-Ebics 2.5 (H004),Ebics 2.5 (H004),reviewed,banking,,,,,,,
-Ebics 3.0 (H005),Ebics 3.0 (H005),reviewed,banking,,,,,,,
-Ebics Users,EBICS-gebruikers,reviewed,banking,,,,,,,
-Eg: https://banking.alyf.de,Bijv.: https://banking.alyf.de,reviewed,banking,,,,,,,
-Employee Bank Account,Werknemersbankrekening,reviewed,banking,,,,,,,
-Employee Bank Account was created.,Werknemersbankrekening is aangemaakt.,reviewed,banking,,,,,,,
-Employee Bank Account was not created.,Werknemersbankrekening is niet aangemaakt.,reviewed,banking,,,,,,,
-Enable EBICS (New),EBICS inschakelen (Nieuw),reviewed,banking,,,,,,,
-Enable this for EBICS accounts whose key management is based on certificates.,Schakel dit in voor EBICS-accounts waarvan het sleutelbeheer op certificaten is gebaseerd.,reviewed,banking,,,,,,,
-Enter Passphrase,Wachtwoordzin invoeren,reviewed,banking,,,,,,,
-Enter only if scheduled execution at the bank is desired.,Vul alleen in als geplande uitvoering bij de bank gewenst is.,reviewed,banking,,,,,,,
-Enter your passphrase,Voer uw wachtwoordzin in,reviewed,banking,,,,,,,
-"Enter your password to enable automated, regular syncing. Leave blank if you prefer to sync manually.","Voer uw wachtwoord in om geautomatiseerde, regelmatige synchronisatie in te schakelen. Laat leeg als u handmatig wilt synchroniseren.",reviewed,banking,,,,,,,
-Enter your signature passphrase,Voer uw handtekeningwachtwoordzin in,reviewed,banking,,,,,,,
-Error while fetching releases,Fout bij ophalen van releases,reviewed,banking,,,,,,,
-Execution Date,Uitvoeringsdatum,reviewed,banking,,,,,,,
-Failed to create {0} against {1},Aanmaken van {0} voor {1} mislukt,reviewed,banking,,,,,,,
-Failed to re-import EBICS transactions.,Herimporteren van EBICS-transacties mislukt.,reviewed,banking,,,,,,,
-Failed to reconcile new {0} against {1},Reconciliatie van nieuwe {0} met {1} mislukt,reviewed,banking,,,,,,,
-Failed to reconcile {0},Reconciliatie van {0} mislukt,reviewed,banking,,,,,,,
-Failed to remove EBICS user registration.,Verwijderen van EBICS-gebruikersregistratie mislukt.,reviewed,banking,,,,,,,
-Failed to update {0},Bijwerken van {0} mislukt,reviewed,banking,,,,,,,
-Fetching Bank Transactions,Banktransacties ophalen,reviewed,banking,,,,,,,
-Field {} does not exist in {}. Please check the configuration in Banking Settings.,Veld {} bestaat niet in {}. Controleer de configuratie in Banking-instellingen.,reviewed,banking,,,,,,,
-Filter Required,Filter vereist,reviewed,banking,,,,,,,
-Fintech License Key,Fintech-licentiesleutel,reviewed,banking,,,,,,,
-Fintech Licensee Name,Naam fintech-licentiehouder,reviewed,banking,,,,,,,
-"For non-German IBANs, a Bank must be provided.",Voor niet-Duitse IBANs moet een bank worden opgegeven.,reviewed,banking,,,,,,,
-Get Bank Transactions,Banktransacties ophalen,reviewed,banking,,,,,,,
-H004,H004,reviewed,banking,,,,,,,
-H005,H005,reviewed,banking,,,,,,,
-Hidden field for alignment,Verborgen veld voor uitlijning,reviewed,banking,,,,,,,
-IBAN Warning: Not used in SEPA Payment Orders,IBAN-waarschuwing: Niet gebruikt in SEPA-betalingsopdrachten,reviewed,banking,,,,,,,
-IBAN on Employee is not used in SEPA Payment Orders. Please use Bank Account instead for payment processing.,IBAN op werknemer wordt niet gebruikt in SEPA-betalingsopdrachten. Gebruik in plaats daarvan Bankrekening voor betalingsverwerking.,reviewed,banking,,,,,,,
-IBAN {0} is invalid.,IBAN {0} is ongeldig.,reviewed,banking,,,,,,,
-"If enabled, <code>camt.052</code> transactions are downloaded four times a day. Otherwise <code>camt.053</code> transactions are downloaded once a day.",Indien ingeschakeld worden <code>camt.052</code>-transacties vier keer per dag gedownload. Anders worden <code>camt.053</code>-transacties één keer per dag gedownload.,reviewed,banking,,,,,,,
-"If enabled, <code>camt.054</code> files are downloaded and merged with <code>camt.052</code> or <code>camt.053</code> files.",Indien ingeschakeld worden <code>camt.054</code>-bestanden gedownload en samengevoegd met <code>camt.052</code>- of <code>camt.053</code>-bestanden.,reviewed,banking,,,,,,,
-"If enabled, a separate <b>Bank Transaction</b> will be created for each sub-transaction in a batch.",Indien ingeschakeld wordt voor elke subtransactie in een batch een aparte <b>Banktransactie</b> aangemaakt.,reviewed,banking,,,,,,,
-"If no <a href='/app/bank-transaction' target='_blank'>Bank Transactions</a> are created, please check the <a href='/app/error-log' target='_blank'>Error Logs</a>. If there are no errors, the bank likely did not provide any (new) bank statements for this period.","Als er geen <a href='/app/bank-transaction' target='_blank'>Banktransacties</a> zijn aangemaakt, controleer dan de <a href='/app/error-log' target='_blank'>Foutlogboeken</a>. Als er geen fouten zijn, heeft de bank waarschijnlijk geen (nieuwe) bankafschriften voor deze periode verstrekt.",reviewed,banking,,,,,,,
-Initialize,Initialiseren,reviewed,banking,,,,,,,
-Initialize EBICS User,EBICS-gebruiker initialiseren,reviewed,banking,,,,,,,
-Initialized,Geïnitialiseerd,reviewed,banking,,,,,,,
-Initializing...,Initialiseren...,reviewed,banking,,,,,,,
-Intraday Sync,Intradagsynchronisatie,reviewed,banking,,,,,,,
-Invalid Field,Ongeldig veld,reviewed,banking,,,,,,,
-Invalid data available for download.,Ongeldige gegevens beschikbaar voor downloaden.,reviewed,banking,,,,,,,
-Invalid data for re-import.,Ongeldige gegevens voor herimporteren.,reviewed,banking,,,,,,,
-It seems like the EBICS User lacks permissions for order type '{0}'. The permitted types are: {1}.,Het lijkt erop dat de EBICS-gebruiker geen machtigingen heeft voor ordertype '{0}'. De toegestane typen zijn: {1}.,reviewed,banking,,,,,,,
-Keyring,Sleutelhanger,reviewed,banking,,,,,,,
-Klarna Kosma Integration,Klarna Kosma-integratie,reviewed,banking,,,,,,,
-Last Renewed On,Laatst vernieuwd op,reviewed,banking,,,,,,,
-License key not found. Please activate the checkbox 'Enable EBICS' in the {0} and ensure that your subscription is active.,Licentiesleutel niet gevonden. Activeer het selectievakje 'EBICS inschakelen' in de {0} en zorg ervoor dat uw abonnement actief is.,reviewed,banking,,,,,,,
-Match Voucher,Document koppelen,reviewed,banking,,,,,,,
-Needs Certificate,Certificaat vereist,reviewed,banking,,,,,,,
-No Data Available,Geen gegevens beschikbaar,reviewed,banking,,,,,,,
-No IBAN for {0} {1}.,Geen IBAN voor {0} {1}.,reviewed,banking,,,,,,,
-No Transactions found for the current filters.,Geen transacties gevonden voor de huidige filters.,reviewed,banking,,,,,,,
-No data available for download.,Geen gegevens beschikbaar voor downloaden.,reviewed,banking,,,,,,,
-No default bank account for Supplier {0}.,Geen standaardbankrekening voor Leverancier {0}.,reviewed,banking,,,,,,,
-No matches occurred via Auto Reconciliation,Geen overeenkomsten gevonden via automatische reconciliatie,reviewed,banking,,,,,,,
-Not available,Niet beschikbaar,reviewed,banking,,,,,,,
-"Note: When you lose these passwords, you will have to go through the initialization process with your bank again.","Let op: Als u deze wachtwoorden kwijtraakt, moet u het initialisatieproces met uw bank opnieuw doorlopen.",reviewed,banking,,,,,,,
-Only from {0},Alleen van {0},reviewed,banking,,,,,,,
-Only matching amounts,Alleen overeenkomende bedragen,reviewed,banking,,,,,,,
-Only unpaid vouchers,Alleen onbetaalde documenten,reviewed,banking,,,,,,,
-Open Billing Portal,Facturatieportaal openen,reviewed,banking,,,,,,,
-Overallocated Returns,Overgeboekte retouren,reviewed,banking,,,,,,,
-Partner ID,Partner ID,reviewed,banking,,,,,,,
-Party Account Number,Rekeningnummer tegenpartij,reviewed,banking,,,,,,,
-Party IBAN,IBAN tegenpartij,reviewed,banking,,,,,,,
-Passphrase,Wachtwoordzin,reviewed,banking,,,,,,,
-Payment Order has been sent to bank.,Betalingsopdracht is naar de bank verzonden.,reviewed,banking,,,,,,,
-Payment Order has not been sent to bank.,Betalingsopdracht is niet naar de bank verzonden.,reviewed,banking,,,,,,,
-Payment amounts have changed. Are you sure you want to submit without updating them first?,De betalingsbedragen zijn gewijzigd. Weet u zeker dat u wilt indienen zonder ze eerst bij te werken?,reviewed,banking,,,,,,,
-Please activate the checkbox 'Enable EBICS' in the {0}.,Activeer het selectievakje 'EBICS inschakelen' in de {0}.,reviewed,banking,,,,,,,
-Please activate the checkbox 'Enabled' in the {0}.,Activeer het selectievakje 'Ingeschakeld' in de {0}.,reviewed,banking,,,,,,,
-Please add EBICS Host ID and URL to bank {0},Voeg EBICS Host-ID en URL toe aan bank {0},reviewed,banking,,,,,,,
-Please add a two-letter country code to country {0},Voeg een tweeletterige landcode toe aan land {0},reviewed,banking,,,,,,,
-Please confirm that the following keys are identical to the ones mentioned on your bank's letter:,Bevestig dat de volgende sleutels identiek zijn aan de sleutels op de brief van uw bank:,reviewed,banking,,,,,,,
-Please enter the values provided by your bank.,Voer de waarden in die door uw bank zijn verstrekt.,reviewed,banking,,,,,,,
-"Please print the attached INI letter, send it to your bank and wait for confirmation. Then verify the bank keys.","Print de bijgevoegde INI-brief, stuur deze naar uw bank en wacht op bevestiging. Verifieer vervolgens de banksleutels.",reviewed,banking,,,,,,,
-Please select a Bank Account to start reconciling.,Selecteer een bankrekening om te beginnen met reconciliëren.,reviewed,banking,,,,,,,
-Please select at least one voucher to reconcile,Selecteer minimaal één document om te reconciliëren,reviewed,banking,,,,,,,
-Please select vouchers of the same type to reconcile,Selecteer documenten van hetzelfde type om te reconciliëren,reviewed,banking,,,,,,,
-Please set the 'Bank Account' filter,Stel het filter 'Bankrekening' in,reviewed,banking,,,,,,,
-Portal API Token,Portal API Token,reviewed,banking,,,,,,,
-Process as batch,Als batch verwerken,reviewed,banking,,,,,,,
-Process individually,Individueel verwerken,reviewed,banking,,,,,,,
-Protocol Version,Protocolversie,reviewed,banking,,,,,,,
-Re-Import,Opnieuw importeren,reviewed,banking,,,,,,,
-Re-import cancelled.,Opnieuw importeren geannuleerd.,reviewed,banking,,,,,,,
-Re-importing EBICS transactions ...,Opnieuw importeren van EBICS-transacties ...,reviewed,banking,,,,,,,
-Reconciling ...,Reconciliëren ...,reviewed,banking,,,,,,,
-Reconciling multiple multi-currency invoices at once is not supported. Please reconcile one invoice at a time.,Het gelijktijdig reconciliëren van meerdere facturen in meerdere valuta's wordt niet ondersteund. Reconcilieer één factuur tegelijk.,reviewed,banking,,,,,,,
-Redirecting to Customer Portal ...,Doorverwijzen naar klantportaal ...,reviewed,banking,,,,,,,
-Reference Fields,Referentievelden,reviewed,banking,,,,,,,
-Reference Row Name,Naam referentierij,reviewed,banking,,,,,,,
-Row {0}: Currency {1} does not match bank account currency {2}.,Rij {0}: Valuta {1} komt niet overeen met bankrekeningvaluta {2}.,reviewed,banking,,,,,,,
-Row {0}: IBAN {1} is invalid.,Rij {0}: IBAN {1} is ongeldig.,reviewed,banking,,,,,,,
-SENT_VIA_EBICS,VERZONDEN_VIA_EBICS,reviewed,banking,,,,,,,
-SEPA Payment,SEPA-betaling,reviewed,banking,,,,,,,
-SEPA Payment Order,SEPA-betalingsopdracht,reviewed,banking,,,,,,,
-SEPA Payment Order Status,Status SEPA-betalingsopdracht,reviewed,banking,,,,,,,
-SEPA Payment Orders,SEPA-betalingsopdrachten,reviewed,banking,,,,,,,
-SHAR,SHAR,reviewed,banking,,,,,,,
-Sent via EBICS,Verzonden via EBICS,reviewed,banking,,,,,,,
-Set a new password for downloading bank statements from your bank.,Stel een nieuw wachtwoord in voor het downloaden van bankafschriften van uw bank.,reviewed,banking,,,,,,,
-Set a new password for uploading transactions to your bank.,Stel een nieuw wachtwoord in voor het uploaden van transacties naar uw bank.,reviewed,banking,,,,,,,
-Show Protocol Versions,Toon protocolversies,reviewed,banking,,,,,,,
-Signature Passphrase,Handtekeningwachtwoord,reviewed,banking,,,,,,,
-Signup for Banking,Aanmelden voor Banking,reviewed,banking,,,,,,,
-Something went wrong. Please retry in a while.,Er is iets misgegaan. Probeer het over een tijdje opnieuw.,reviewed,banking,,,,,,,
-Sort By,Sorteren op,reviewed,banking,,,,,,,
-Split Batch Transactions,Batchtransacties splitsen,reviewed,banking,,,,,,,
-Store Passphrase,Wachtwoord opslaan,reviewed,banking,,,,,,,
-"Store the passphrase in the ERPNext database to enable automated, regular download of bank statements.","Sla het wachtwoord op in de ERPNext-database om geautomatiseerde, regelmatige download van bankafschriften in te schakelen.",reviewed,banking,,,,,,,
-Subscriber,Abonnee,reviewed,banking,,,,,,,
-Subscription Details,Abonnementsgegevens,reviewed,banking,,,,,,,
-Subtransaction ID,Subtransactie-ID,reviewed,banking,,,,,,,
-Supplier Bank Account,Leveranciersbankrekening,reviewed,banking,,,,,,,
-Supplier Bank Account was created.,Leveranciersbankrekening is aangemaakt.,reviewed,banking,,,,,,,
-Supplier Bank Account was not created.,Leveranciersbankrekening is niet aangemaakt.,reviewed,banking,,,,,,,
-The Bank Transaction is over-allocated by {0} at row {1}.,De banktransactie is te veel toegewezen met {0} op rij {1}.,reviewed,banking,,,,,,,
-The allocated amount cannot be negative. Please adjust the selected return vouchers.,Het toegewezen bedrag kan niet negatief zijn. Pas de geselecteerde retourdocumenten aan.,reviewed,banking,,,,,,,
-The currency of the second account ({0} : {1}) must be the same as of the bank account ({2} : {3}),De valuta van de tweede rekening ({0} : {1}) moet hetzelfde zijn als die van de bankrekening ({2} : {3}),reviewed,banking,,,,,,,
-The currency of the second account ({0}) must be the same as of the bank account ({1}),De valuta van de tweede rekening ({0}) moet hetzelfde zijn als die van de bankrekening ({1}),reviewed,banking,,,,,,,
-The scheduler is inactive. Please activate it to continue auto-syncing bank transactions.,De scheduler is inactief. Activeer deze om automatische synchronisatie van banktransacties voort te zetten.,reviewed,banking,,,,,,,
-The server has errored. Please retry in some time.,De server heeft een fout. Probeer het later opnieuw.,reviewed,banking,,,,,,,
-These DocTypes are pre-enabled in the 'Match Voucher' tab.,Deze documenttypen zijn standaard ingeschakeld op het tabblad 'Document koppelen'.,reviewed,banking,,,,,,,
-To Allocate,Te alloceren,reviewed,banking,,,,,,,
-"To use protocol version H005, please activate the checkbox 'Needs Certificates'.","Om protocolversie H005 te gebruiken, activeer het selectievakje 'Vereist certificaten'.",reviewed,banking,,,,,,,
-Transmission Datetime,Transmissiedatum en -tijd,reviewed,banking,,,,,,,
-Transmission Type,Transmissietype,reviewed,banking,,,,,,,
-Unable to resolve batch transaction: camt.054 not available. Please try again later.,Batchtransactie kan niet worden verwerkt: camt.054 niet beschikbaar. Probeer het later opnieuw.,reviewed,banking,,,,,,,
-Update Amounts,Bedragen bijwerken,reviewed,banking,,,,,,,
-Updating ...,Bijwerken ...,reviewed,banking,,,,,,,
-Upload CAMT file,CAMT-bestand uploaden,reviewed,banking,,,,,,,
-Upload CSV / Excel file,CSV/Excel-bestand uploaden,reviewed,banking,,,,,,,
-Upload MT940 file,MT940-bestand uploaden,reviewed,banking,,,,,,,
-Upload XML (CAMT.053) file,XML (CAMT.053)-bestand uploaden,reviewed,banking,,,,,,,
-Usage,Gebruik,reviewed,banking,,,,,,,
-User ID not available.,Gebruikers-ID niet beschikbaar.,reviewed,banking,,,,,,,
-Verify Bank Keys,Banksleutels verifiëren,reviewed,banking,,,,,,,
-View EBICS Users,EBICS-gebruikers bekijken,reviewed,banking,,,,,,,
-Voucher Matching Default,Standaard documentkoppeling,reviewed,banking,,,,,,,
-Voucher Matching Defaults,Standaard documentkoppelingen,reviewed,banking,,,,,,,
-"We'll try to download all transactions of completed days in the selected period, using <code>camt.053</code>.",We proberen alle transacties van voltooide dagen in de geselecteerde periode te downloaden met <code>camt.053</code>.,reviewed,banking,,,,,,,
-"We'll try to download new transactions from today, using <code>camt.052</code>.",We proberen nieuwe transacties van vandaag te downloaden met <code>camt.052</code>.,reviewed,banking,,,,,,,
-"You selected protocol version {0}, but the bank {1} only supports {2}.","U heeft protocolversie {0} geselecteerd, maar bank {1} ondersteunt alleen {2}.",reviewed,banking,,,,,,,
-to import bank transactions for {0}.,om banktransacties voor {0} te importeren.,reviewed,banking,,,,,,,
-{0} {1} {2},{0} {1} {2},reviewed,banking,,,,,,,
-{} Unreconciled,{} Niet gereconcilieerd,reviewed,banking,,,,,,,
+Secrets,Geheimen,reviewed,insights,0.82,0.75,0.8,0.8,1.0,1.0,ok
+Select Charts,Grafieken selecteren,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Columns to Add,Kolommen selecteren om toe te voegen,reviewed,insights,0.87,0.85,0.8,0.85,1.0,1.0,ok
+Select Join Type,Jointype selecteren,reviewed,insights,0.82,0.75,0.75,0.8,1.0,1.0,ok
+Select Source,Bron selecteren,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select Table,Tabel selecteren,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select a column,Selecteer een kolom,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Select a data source,Selecteer een databron,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select a table or query to start building your query,Selecteer een tabel of Query om uw Query te beginnen bouwen,reviewed,insights,0.64,0.6,0.55,0.6,0.8,0.9,review
+Select an operation,Selecteer een bewerking,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Select operator...,Selecteer operator...,reviewed,insights,0.86,0.8,0.85,0.85,1.0,1.0,ok
+Send Alert,Melding versturen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Send Invitation,Uitnodiging versturen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Send Test Alert,Testmelding versturen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Send alert when,Stuur melding wanneer,reviewed,insights,0.8,0.75,0.75,0.8,0.9,1.0,ok
+Sending Alert...,Melding versturen...,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Set Insights v2 as default,Insights v2 als standaard instellen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Set up alerts to get notified when a condition is met,Stel meldingen in om een melding te ontvangen wanneer aan een voorwaarde is voldaan,reviewed,insights,0.82,0.8,0.8,0.75,0.9,1.0,ok
+Setup Alert,Melding instellen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Setup Demo Data,Demonstratiedata instellen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Setup Failed,Instelling mislukt,reviewed,insights,0.77,0.75,0.7,0.75,0.9,1.0,review
+Share Chart,Grafiek delen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Share Dashboard,Dashboard delen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Share Link,Link delen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Show or hide columns from the table,Kolommen in de tabel weergeven of verbergen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Site Database,Sitedatabase,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Sort Ascending,Oplopend sorteren,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Sort Descending,Aflopend sorteren,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Specific people can view,Specifieke personen kunnen bekijken,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Spreading column values into separate columns,Kolomwaarden verspreiden over afzonderlijke kolommen,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Started At,Gestart om,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Starting...,Starten...,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+State (JSON),Status (JSON),reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Stored,Opgeslagen,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+String,String,reviewed,insights,0.85,0.75,0.85,0.85,1.0,1.0,ok
+Sum of...,Som van...,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Switch to Desk,Naar Desk gaan,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Switch to Insights v2,Naar Insights v2 gaan,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Sync tables from your data source to get started,Synchroniseer tabellen van uw databron om te beginnen,reviewed,insights,0.78,0.75,0.7,0.75,0.85,1.0,review
+Table Imported,Tabel geïmporteerd,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Table Label,Tabellabel,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Table Name,Tabelnaam,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Table Restrictions,Tabelbeperkingen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Tables,Tabellen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Team Permissions,Teambevoegdheden,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Telegram,Telegram,reviewed,insights,0.96,0.85,1.0,1.0,1.0,1.0,ok
+Telegram API Token,Telegram API Token,reviewed,insights,0.96,0.85,1.0,1.0,1.0,1.0,ok
+Telegram Chat ID,Telegram Chat ID,reviewed,insights,0.96,0.85,1.0,1.0,1.0,1.0,ok
+Text Rules,Tekstregels,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+This FY,Dit boekjaar,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Time Taken (Seconds),Verstreken tijd (seconden),reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Top,Bovenaan,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Top N percent,Bovenste N procent,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Top N values,Bovenste N waarden,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Transform,Transformatie,reviewed,insights,0.8,0.75,0.75,0.8,1.0,0.9,ok
+Transforms,Transformaties,reviewed,insights,0.81,0.75,0.8,0.8,1.0,0.9,ok
+Transpose,Transponeren,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Try demo data,Demonstratiedata uitproberen,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Unexpected validation error,Onverwachte validatiefout,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Unique Count of...,Uniek aantal van...,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Unpivot,Draaitabel omkeren,reviewed,insights,0.82,0.75,0.75,0.75,1.0,1.0,ok
+Update Alert,Melding bijwerken,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Update Table Links,Tabelkoppelingen bijwerken,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Update Tables,Tabellen bijwerken,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Upload CSV or Excel,CSV of Excel uploaden,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Upload CSV/Excel/JSON File,CSV/Excel/JSON-bestand uploaden,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Upload a CSV or Excel file to create a new data source,Upload een CSV- of Excel-bestand om een nieuwe databron aan te maken,reviewed,insights,0.78,0.75,0.7,0.75,0.85,1.0,review
+Use Custom Condition,Aangepaste voorwaarde gebruiken,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Use Live Connection,Liveverbinding gebruiken,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Use secure connection (SSL)?,Beveiligde verbinding gebruiken (SSL)?,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Validation failed,Validatie mislukt,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Value Rules,Waarderegels,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Variable Value,Variabelewaarde,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Variables are used to store sensitive information such as API keys and credentials. They can be referenced and combined in your script just like any other variable. For eg.,"Variabelen worden gebruikt om gevoelige informatie op te slaan, zoals API-sleutels en inloggegevens. Ze kunnen in uw script worden gebruikt en gecombineerd, net als elke andere variabele. Bijvoorbeeld:",reviewed,insights,0.88,0.85,0.85,0.85,0.9,1.0,ok
+Vertical,Verticaal,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Vertical Compact Layout,Verticale compacte indeling,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+View SQL,View SQL,reviewed,insights,0.78,0.7,0.75,0.75,0.9,1.0,review
+Week Starts On,Week begint op,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Workbook,Werkboek,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+Workbooks,Werkboeken,reviewed,insights,0.84,0.8,0.8,0.8,1.0,1.0,ok
+World Map,Wereldkaart,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+"Write Python code to fetch and transform data. Available globals:<br>• client: API client for the selected data source<br>• table: Write data to warehouse. Methods: insert(data, overwrite=False)<br>• state: Persist data between runs. Methods: get(key, default=None), set(key, value), delete(key), clear()<br>• secrets: Access secret keys. Methods: get(key)<br>• log(message): Log execution messages","Schrijf Python-code om data op te halen en te transformeren. Beschikbare globals:<br>• client: API-client voor de geselecteerde databron<br>• table: Schrijf data naar het warehouse. Methoden: insert(data, overwrite=False)<br>• state: Bewaar data tussen runs. Methoden: get(key, default=None), set(key, value), delete(key), clear()<br>• secrets: Toegang tot geheime sleutels. Methoden: get(key)<br>• log(message): Log uitvoeringsberichten",reviewed,insights,0.88,0.85,0.85,0.85,0.9,1.0,ok
+You can use markdown to format the message. Use double asterisks (**) for bold text. You can use the following fields in the message:,U kunt markdown gebruiken om het bericht op te maken. Gebruik dubbele asterisken (**) voor vetgedrukte tekst. U kunt de volgende velden in het bericht gebruiken:,reviewed,insights,0.88,0.85,0.85,0.85,0.9,1.0,ok
+You do not have permission to access this resource,U heeft geen toestemming om deze resource te openen,reviewed,insights,0.79,0.75,0.75,0.8,0.85,1.0,review
+You do not have permission to modify this workbook,U heeft geen toestemming om dit werkboek te bewerken,reviewed,insights,0.83,0.8,0.8,0.8,0.9,1.0,ok
+You do not have permission to share this workbook,U heeft geen toestemming om dit werkboek te delen,reviewed,insights,0.83,0.8,0.8,0.8,0.9,1.0,ok
+Your workbooks will appear here. Create a new workbook to get started.,Uw werkboeken verschijnen hier. Maak een nieuw werkboek aan om te beginnen.,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+after date,na datum,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+asc,oplopend,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+before date,voor datum,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+between dates,tussen datums,reviewed,insights,0.88,0.85,0.85,0.85,1.0,1.0,ok
+chart,grafiek,reviewed,insights,0.98,0.95,1.0,1.0,1.0,1.0,ok
+contains,bevat,reviewed,insights,0.98,0.95,1.0,1.0,1.0,1.0,ok
+desc,aflopend,reviewed,insights,0.94,0.95,0.9,0.9,1.0,1.0,ok
+does not contain,bevat niet,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+does not equal,is niet gelijk aan,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+e.g. 0 0 12 * * ?,e.g. 0 0 12 * * ?,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+e.g. 123456789,e.g. 123456789,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+e.g. Low Inventory,bijv. Lage voorraad,reviewed,insights,0.88,0.9,0.9,0.7,1.0,1.0,ok
+e.g. api_key,e.g. api_key,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+"e.g. john@example.com, henry@example.com","e.g. john@example.com, henry@example.com",reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+ends with,eindigt met,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+equals,is gelijk aan,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+folder,map,reviewed,insights,0.95,0.9,1.0,0.9,1.0,1.0,ok
+greater than,groter dan,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+greater than or equals,groter dan of gelijk aan,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+is empty,is leeg,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+is last month,is vorige maand,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+is last week,is vorige week,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+is not empty,is niet leeg,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+is this month,is deze maand,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+is this week,is deze week,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+is this year,is dit jaar,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+is today,is vandaag,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+is tomorrow,is morgen,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+is yesterday,is gisteren,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+less than,kleiner dan,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+less than or equals,kleiner dan of gelijk aan,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+not equals,is niet gelijk aan,reviewed,insights,0.94,0.9,1.0,0.85,1.0,1.0,ok
+query,Query,reviewed,insights,0.67,0.6,0.6,0.6,0.9,1.0,review
+sort_order,sorteervolgorde,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+starts with,begint met,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+{0} columns selected,{0} kolommen geselecteerd,reviewed,insights,1.0,1.0,1.0,1.0,1.0,1.0,ok
+"<b>EBICS User</b> '{0}' has <i>Download Batch Transactions</i> enabled. Batch details are stored in separate <b>EBICS Requests</b>, so this re-import might be incomplete. Do you want to continue?","<b>EBICS-gebruiker</b> '{0}' heeft <i>Sammeloverboekingen downloaden</i> ingeschakeld. Batchdetails worden in afzonderlijke <b>EBICS-aanvragen</b> opgeslagen, dus deze herimport kan incompleet zijn. Wilt u doorgaan?",reviewed,banking,0.81,0.8,0.75,0.8,0.9,1.0,ok
+"<span class=""h4"">Banking</span>","<span class=""h4"">Banking</span>",reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+<ul><li>It stores DocType-wise mapping of fields that should be considered as 'reference number' fields in Bank Reconciliation Tool Beta</li><li>Link and Data fields are supported</li><li>The field must have a singular reference number for matching with Bank Transactions</li></ul>,<ul><li>Slaat DocType-gewijs de toewijzing op van velden die moeten worden beschouwd als 'referentienummer'-velden in Bankafstemming Beta</li><li>Link- en Datavelden worden ondersteund</li><li>Het veld moet een enkelvoudig referentienummer bevatten dat kan overeenkomen met Banktransacties</li></ul>,reviewed,banking,0.84,0.85,0.75,0.85,0.85,1.0,ok
+A new version of the Banking app is available ({0}). Please update your instance.,Een nieuwe versie van de Banking-app is beschikbaar ({0}). Update uw instantie.,reviewed,banking,0.93,0.9,0.9,0.9,1.0,1.0,ok
+ALYF Banking,ALYF Banking,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Account Holder,Rekeninghouder,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Add Recipient,Ontvanger toevoegen,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Admin URL,Admin-URL,reviewed,banking,0.99,1.0,0.95,1.0,1.0,1.0,ok
+Amount updated to {0} in row {1}.,Bedrag bijgewerkt naar {0} in rij {1}.,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Amounts not updated.,Bedragen niet bijgewerkt.,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Amounts updated.,Bedragen bijgewerkt.,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Are you trying to reconcile vouchers of different parties? This action will reconcile vouchers using a Journal Entry.,Probeert u documenten van verschillende partijen af te stemmen? Deze actie stemt documenten af met een dagboekboeking.,reviewed,banking,0.88,0.85,0.85,0.85,1.0,1.0,ok
+Authentication error due to invalid credentials.,Authenticatiefout door ongeldige inloggegevens.,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Auto Reconciliation Complete,Automatische afstemming voltooid,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Auto Reconciling ...,Automatisch afstemmen ...,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Auto reconcile bank transactions based on matching reference numbers?,Banktransacties automatisch afstemmen op basis van overeenkomende referentienummers?,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Bank Account not found for IBAN {0},Bankrekening niet gevonden voor IBAN {0},reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Bank Keys Activated,Banksleutels geactiveerd,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Bank Reconciliation Tool Beta,Bankafstemming Beta,reviewed,banking,0.88,0.85,0.85,0.85,1.0,0.9,ok
+Bank Transaction {0} partially matched.,Banktransactie {0} gedeeltelijk gekoppeld.,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Bank Transaction {0} partially reconciled.,Banktransactie {0} gedeeltelijk afgestemd.,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Bank Transaction {0} reconciled with a new {1},Banktransactie {0} afgestemd met een nieuwe {1},reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Bank Transactions,Banktransacties,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Bank keys confirmed,Banksleutels bevestigd,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Bank statements are being downloaded in the background.,Bankafschriften worden op de achtergrond gedownload.,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Bank transactions that happened before this date must not be imported.,"Banktransacties die vóór deze datum plaatsvonden, mogen niet worden geïmporteerd.",reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Bank {0} does not have EBICS Host ID or URL set,Bank {0} heeft geen EBICS Host ID of URL ingesteld,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Banking Action has failed due to the following error(s):,Banking-actie is mislukt door de volgende fout(en):,reviewed,banking,0.95,0.95,0.9,0.95,1.0,1.0,ok
+Banking Error,Banking-fout,reviewed,banking,0.91,0.9,0.85,0.9,1.0,1.0,ok
+Banking Reference Mapping,Banking Referentietoewijzing,reviewed,banking,0.78,0.75,0.7,0.75,0.9,1.0,review
+Banking Settings,Banking-instellingen,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Banking Warning,Banking-waarschuwing,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Batch Booking,Batchboeking,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+CRED,CRED,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Cannot create Journal Entry for a Bank Transaction with both Deposit and Withdrawal,Kan geen dagboekboeking aanmaken voor een banktransactie met zowel storting als opname,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Cannot make Reconciliation Payment Entry against multiple doctypes,Kan geen afstemmingsbetalingsboeking aanmaken tegen meerdere documenttypen,reviewed,banking,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Cannot make Reconciliation Payment Entry against multiple parties,Kan geen afstemmingsbetalingsboeking aanmaken tegen meerdere partijen,reviewed,banking,0.86,0.85,0.8,0.85,0.9,1.0,ok
+Change Protocol Version,Protocolversie wijzigen,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Create Employee Bank Account,Werknemersbankrekening aanmaken,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Create Supplier Bank Account,Leveranciersbankrekening aanmaken,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Create Voucher,Document aanmaken,reviewed,banking,0.8,0.75,0.8,0.7,1.0,1.0,review
+Creating SEPA Payment Order ...,SEPA-betalingsopdracht aanmaken ...,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+DEBT,DEBT,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+DOWNLOADED,GEDOWNLOAD,reviewed,banking,0.98,1.0,0.9,1.0,1.0,1.0,ok
+Developer mode is enabled. Please disable it to continue auto-syncing bank transactions.,Ontwikkelaarsmodus is ingeschakeld. Schakel deze uit om automatische synchronisatie van banktransacties voort te zetten.,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Did you mean {0}?,Meent u {0}?,reviewed,banking,0.71,0.7,0.6,0.7,0.9,1.0,review
+DocType must be Supplier or Employee.,DocType moet Leverancier of Werknemer zijn.,reviewed,banking,0.98,1.0,0.9,1.0,1.0,1.0,ok
+Download Bank Statements,Bankafschriften downloaden,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Download Batch Transactions,Sammeloverboekingen downloaden,reviewed,banking,0.73,0.7,0.6,0.7,1.0,1.0,review
+Download as XML,Als XML downloaden,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Download response files,Antwoordbestanden downloaden,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Downloaded,Gedownload,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+"Due to Period Closing, you cannot reconcile unpaid vouchers with a Bank Transaction before {0}",Vanwege periode-afsluiting kunt u onbetaalde documenten niet afstemmen met een banktransactie vóór {0},reviewed,banking,0.83,0.8,0.85,0.75,1.0,1.0,ok
+EBICS,EBICS,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+EBICS Configuration Missing,EBICS-configuratie ontbreekt,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+EBICS Host ID,EBICS Host-ID,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+EBICS Order ID,EBICS-order-ID,reviewed,banking,0.98,1.0,0.9,1.0,1.0,1.0,ok
+EBICS Protocol Versions,EBICS-protocolversies,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+EBICS Request,EBICS-aanvraag,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+EBICS URL,EBICS URL,reviewed,banking,0.98,1.0,1.0,0.9,1.0,1.0,ok
+EBICS User,EBICS-gebruiker,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+EBICS User limit exceeded.,EBICS-gebruikerslimiet overschreden.,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+EBICS Users,EBICS-gebruikers,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+EBICS transactions re-imported successfully.,EBICS-transacties succesvol geherimporteerd.,reviewed,banking,0.97,1.0,0.85,1.0,0.9,1.0,ok
+EREF,EREF,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Ebics 2.5 (H004),Ebics 2.5 (H004),reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Ebics 3.0 (H005),Ebics 3.0 (H005),reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Ebics Users,EBICS-gebruikers,reviewed,banking,0.94,0.9,1.0,0.85,1.0,1.0,ok
+Eg: https://banking.alyf.de,Bijv.: https://banking.alyf.de,reviewed,banking,0.9,0.85,0.9,0.9,0.95,1.0,ok
+Employee Bank Account,Werknemersbankrekening,reviewed,banking,0.63,0.6,0.5,0.7,0.9,1.0,review
+Employee Bank Account was created.,Werknemersbankrekening is aangemaakt.,reviewed,banking,0.66,0.65,0.55,0.7,0.9,1.0,review
+Employee Bank Account was not created.,Werknemersbankrekening is niet aangemaakt.,reviewed,banking,0.66,0.65,0.55,0.7,0.9,1.0,review
+Enable EBICS (New),EBICS inschakelen (Nieuw),reviewed,banking,0.91,0.9,0.85,0.9,0.95,1.0,ok
+Enable this for EBICS accounts whose key management is based on certificates.,Schakel dit in voor EBICS-accounts waarvan het sleutelbeheer op certificaten is gebaseerd.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Enter Passphrase,Wachtwoordzin invoeren,reviewed,banking,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Enter only if scheduled execution at the bank is desired.,Vul alleen in als geplande uitvoering bij de bank gewenst is.,reviewed,banking,0.83,0.8,0.8,0.85,0.9,1.0,ok
+Enter your passphrase,Voer uw wachtwoordzin in,reviewed,banking,0.86,0.85,0.8,0.85,0.95,1.0,ok
+"Enter your password to enable automated, regular syncing. Leave blank if you prefer to sync manually.","Voer uw wachtwoord in om geautomatiseerde, regelmatige synchronisatie in te schakelen. Laat leeg als u handmatig wilt synchroniseren.",reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Enter your signature passphrase,Voer uw handtekeningwachtwoordzin in,reviewed,banking,0.57,0.55,0.4,0.6,0.8,1.0,review
+Error while fetching releases,Fout bij ophalen van releases,reviewed,banking,0.83,0.8,0.8,0.85,0.9,1.0,ok
+Execution Date,Uitvoeringsdatum,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
+Failed to create {0} against {1},Aanmaken van {0} voor {1} mislukt,reviewed,banking,0.81,0.8,0.75,0.8,0.9,1.0,ok
+Failed to re-import EBICS transactions.,Herimporteren van EBICS-transacties mislukt.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Failed to reconcile new {0} against {1},Reconciliatie van nieuwe {0} met {1} mislukt,reviewed,banking,0.81,0.8,0.75,0.8,0.9,1.0,ok
+Failed to reconcile {0},Reconciliatie van {0} mislukt,reviewed,banking,0.81,0.8,0.75,0.8,0.9,1.0,ok
+Failed to remove EBICS user registration.,Verwijderen van EBICS-gebruikersregistratie mislukt.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Failed to update {0},Bijwerken van {0} mislukt,reviewed,banking,0.83,0.8,0.8,0.85,0.9,1.0,ok
+Fetching Bank Transactions,Banktransacties ophalen,reviewed,banking,0.86,0.85,0.8,0.85,0.95,1.0,ok
+Field {} does not exist in {}. Please check the configuration in Banking Settings.,Veld {} bestaat niet in {}. Controleer de configuratie in Banking-instellingen.,reviewed,banking,0.74,0.75,0.7,0.7,0.85,1.0,review
+Filter Required,Filter vereist,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
+Fintech License Key,Fintech-licentiesleutel,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Fintech Licensee Name,Naam fintech-licentiehouder,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+"For non-German IBANs, a Bank must be provided.",Voor niet-Duitse IBANs moet een bank worden opgegeven.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Get Bank Transactions,Banktransacties ophalen,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+H004,H004,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+H005,H005,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Hidden field for alignment,Verborgen veld voor uitlijning,reviewed,banking,0.86,0.85,0.8,0.85,0.95,1.0,ok
+IBAN Warning: Not used in SEPA Payment Orders,IBAN-waarschuwing: Niet gebruikt in SEPA-betalingsopdrachten,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+IBAN on Employee is not used in SEPA Payment Orders. Please use Bank Account instead for payment processing.,IBAN op werknemer wordt niet gebruikt in SEPA-betalingsopdrachten. Gebruik in plaats daarvan Bankrekening voor betalingsverwerking.,reviewed,banking,0.81,0.8,0.75,0.8,0.9,1.0,ok
+IBAN {0} is invalid.,IBAN {0} is ongeldig.,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+"If enabled, <code>camt.052</code> transactions are downloaded four times a day. Otherwise <code>camt.053</code> transactions are downloaded once a day.",Indien ingeschakeld worden <code>camt.052</code>-transacties vier keer per dag gedownload. Anders worden <code>camt.053</code>-transacties één keer per dag gedownload.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+"If enabled, <code>camt.054</code> files are downloaded and merged with <code>camt.052</code> or <code>camt.053</code> files.",Indien ingeschakeld worden <code>camt.054</code>-bestanden gedownload en samengevoegd met <code>camt.052</code>- of <code>camt.053</code>-bestanden.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+"If enabled, a separate <b>Bank Transaction</b> will be created for each sub-transaction in a batch.",Indien ingeschakeld wordt voor elke subtransactie in een batch een aparte <b>Banktransactie</b> aangemaakt.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+"If no <a href='/app/bank-transaction' target='_blank'>Bank Transactions</a> are created, please check the <a href='/app/error-log' target='_blank'>Error Logs</a>. If there are no errors, the bank likely did not provide any (new) bank statements for this period.","Als er geen <a href='/app/bank-transaction' target='_blank'>Banktransacties</a> zijn aangemaakt, controleer dan de <a href='/app/error-log' target='_blank'>Foutlogboeken</a>. Als er geen fouten zijn, heeft de bank waarschijnlijk geen (nieuwe) bankafschriften voor deze periode verstrekt.",reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Initialize,Initialiseren,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Initialize EBICS User,EBICS-gebruiker initialiseren,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Initialized,Geïnitialiseerd,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Initializing...,Initialiseren...,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Intraday Sync,Intradagsynchronisatie,reviewed,banking,0.58,0.6,0.4,0.6,0.7,1.0,review
+Invalid Field,Ongeldig veld,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
+Invalid data available for download.,Ongeldige gegevens beschikbaar voor downloaden.,reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
+Invalid data for re-import.,Ongeldige gegevens voor herimporteren.,reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
+It seems like the EBICS User lacks permissions for order type '{0}'. The permitted types are: {1}.,Het lijkt erop dat de EBICS-gebruiker geen machtigingen heeft voor ordertype '{0}'. De toegestane typen zijn: {1}.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Keyring,Sleutelhanger,reviewed,banking,0.81,0.8,0.75,0.8,0.95,1.0,ok
+Klarna Kosma Integration,Klarna Kosma-integratie,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Last Renewed On,Laatst vernieuwd op,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+License key not found. Please activate the checkbox 'Enable EBICS' in the {0} and ensure that your subscription is active.,Licentiesleutel niet gevonden. Activeer het selectievakje 'EBICS inschakelen' in de {0} en zorg ervoor dat uw abonnement actief is.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Match Voucher,Document koppelen,reviewed,banking,0.8,0.8,0.75,0.8,0.9,1.0,ok
+Needs Certificate,Certificaat vereist,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+No Data Available,Geen gegevens beschikbaar,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+No IBAN for {0} {1}.,Geen IBAN voor {0} {1}.,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+No Transactions found for the current filters.,Geen transacties gevonden voor de huidige filters.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+No data available for download.,Geen gegevens beschikbaar voor downloaden.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+No default bank account for Supplier {0}.,Geen standaardbankrekening voor Leverancier {0}.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+No matches occurred via Auto Reconciliation,Geen overeenkomsten gevonden via automatische reconciliatie,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Not available,Niet beschikbaar,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+"Note: When you lose these passwords, you will have to go through the initialization process with your bank again.","Let op: Als u deze wachtwoorden kwijtraakt, moet u het initialisatieproces met uw bank opnieuw doorlopen.",reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Only from {0},Alleen van {0},reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Only matching amounts,Alleen overeenkomende bedragen,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Only unpaid vouchers,Alleen onbetaalde documenten,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Open Billing Portal,Facturatieportaal openen,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Overallocated Returns,Overgeboekte retouren,reviewed,banking,0.66,0.65,0.55,0.65,0.8,1.0,review
+Partner ID,Partner ID,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Party Account Number,Rekeningnummer tegenpartij,reviewed,banking,0.81,0.8,0.8,0.8,0.9,1.0,ok
+Party IBAN,IBAN tegenpartij,reviewed,banking,0.81,0.8,0.8,0.8,0.9,1.0,ok
+Passphrase,Wachtwoordzin,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Payment Order has been sent to bank.,Betalingsopdracht is naar de bank verzonden.,reviewed,banking,0.9,0.9,0.85,0.9,0.95,1.0,ok
+Payment Order has not been sent to bank.,Betalingsopdracht is niet naar de bank verzonden.,reviewed,banking,0.9,0.9,0.85,0.9,0.95,1.0,ok
+Payment amounts have changed. Are you sure you want to submit without updating them first?,De betalingsbedragen zijn gewijzigd. Weet u zeker dat u wilt indienen zonder ze eerst bij te werken?,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Please activate the checkbox 'Enable EBICS' in the {0}.,Activeer het selectievakje 'EBICS inschakelen' in de {0}.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Please activate the checkbox 'Enabled' in the {0}.,Activeer het selectievakje 'Ingeschakeld' in de {0}.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Please add EBICS Host ID and URL to bank {0},Voeg EBICS Host-ID en URL toe aan bank {0},reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Please add a two-letter country code to country {0},Voeg een tweeletterige landcode toe aan land {0},reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Please confirm that the following keys are identical to the ones mentioned on your bank's letter:,Bevestig dat de volgende sleutels identiek zijn aan de sleutels op de brief van uw bank:,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Please enter the values provided by your bank.,Voer de waarden in die door uw bank zijn verstrekt.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+"Please print the attached INI letter, send it to your bank and wait for confirmation. Then verify the bank keys.","Print de bijgevoegde INI-brief, stuur deze naar uw bank en wacht op bevestiging. Verifieer vervolgens de banksleutels.",reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Please select a Bank Account to start reconciling.,Selecteer een bankrekening om te beginnen met reconciliëren.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Please select at least one voucher to reconcile,Selecteer minimaal één document om te reconciliëren,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Please select vouchers of the same type to reconcile,Selecteer documenten van hetzelfde type om te reconciliëren,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Please set the 'Bank Account' filter,Stel het filter 'Bankrekening' in,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Portal API Token,Portal API Token,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Process as batch,Als batch verwerken,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Process individually,Individueel verwerken,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Protocol Version,Protocolversie,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
+Re-Import,Opnieuw importeren,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Re-import cancelled.,Opnieuw importeren geannuleerd.,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Re-importing EBICS transactions ...,Opnieuw importeren van EBICS-transacties ...,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Reconciling ...,Reconciliëren ...,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Reconciling multiple multi-currency invoices at once is not supported. Please reconcile one invoice at a time.,Het gelijktijdig reconciliëren van meerdere facturen in meerdere valuta's wordt niet ondersteund. Reconcilieer één factuur tegelijk.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Redirecting to Customer Portal ...,Doorverwijzen naar klantportaal ...,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Reference Fields,Referentievelden,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
+Reference Row Name,Naam referentierij,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Row {0}: Currency {1} does not match bank account currency {2}.,Rij {0}: Valuta {1} komt niet overeen met bankrekeningvaluta {2}.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Row {0}: IBAN {1} is invalid.,Rij {0}: IBAN {1} is ongeldig.,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+SENT_VIA_EBICS,VERZONDEN_VIA_EBICS,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+SEPA Payment,SEPA-betaling,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+SEPA Payment Order,SEPA-betalingsopdracht,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+SEPA Payment Order Status,Status SEPA-betalingsopdracht,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+SEPA Payment Orders,SEPA-betalingsopdrachten,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+SHAR,SHAR,reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Sent via EBICS,Verzonden via EBICS,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Set a new password for downloading bank statements from your bank.,Stel een nieuw wachtwoord in voor het downloaden van bankafschriften van uw bank.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Set a new password for uploading transactions to your bank.,Stel een nieuw wachtwoord in voor het uploaden van transacties naar uw bank.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Show Protocol Versions,Toon protocolversies,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Signature Passphrase,Handtekeningwachtwoord,reviewed,banking,0.57,0.55,0.45,0.55,0.8,1.0,review
+Signup for Banking,Aanmelden voor Banking,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Something went wrong. Please retry in a while.,Er is iets misgegaan. Probeer het over een tijdje opnieuw.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Sort By,Sorteren op,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Split Batch Transactions,Batchtransacties splitsen,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Store Passphrase,Wachtwoord opslaan,reviewed,banking,0.61,0.6,0.5,0.6,0.8,1.0,review
+"Store the passphrase in the ERPNext database to enable automated, regular download of bank statements.","Sla het wachtwoord op in de ERPNext-database om geautomatiseerde, regelmatige download van bankafschriften in te schakelen.",reviewed,banking,0.61,0.6,0.5,0.6,0.8,1.0,review
+Subscriber,Abonnee,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
+Subscription Details,Abonnementsgegevens,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Subtransaction ID,Subtransactie-ID,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Supplier Bank Account,Leveranciersbankrekening,reviewed,banking,0.62,0.6,0.5,0.7,0.85,1.0,review
+Supplier Bank Account was created.,Leveranciersbankrekening is aangemaakt.,reviewed,banking,0.62,0.6,0.5,0.7,0.85,1.0,review
+Supplier Bank Account was not created.,Leveranciersbankrekening is niet aangemaakt.,reviewed,banking,0.62,0.6,0.5,0.7,0.85,1.0,review
+The Bank Transaction is over-allocated by {0} at row {1}.,De banktransactie is te veel toegewezen met {0} op rij {1}.,reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
+The allocated amount cannot be negative. Please adjust the selected return vouchers.,Het toegewezen bedrag kan niet negatief zijn. Pas de geselecteerde retourdocumenten aan.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+The currency of the second account ({0} : {1}) must be the same as of the bank account ({2} : {3}),De valuta van de tweede rekening ({0} : {1}) moet hetzelfde zijn als die van de bankrekening ({2} : {3}),reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
+The currency of the second account ({0}) must be the same as of the bank account ({1}),De valuta van de tweede rekening ({0}) moet hetzelfde zijn als die van de bankrekening ({1}),reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
+The scheduler is inactive. Please activate it to continue auto-syncing bank transactions.,De scheduler is inactief. Activeer deze om automatische synchronisatie van banktransacties voort te zetten.,reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
+The server has errored. Please retry in some time.,De server heeft een fout. Probeer het later opnieuw.,reviewed,banking,0.8,0.8,0.75,0.8,0.85,1.0,ok
+These DocTypes are pre-enabled in the 'Match Voucher' tab.,Deze documenttypen zijn standaard ingeschakeld op het tabblad 'Document koppelen'.,reviewed,banking,0.8,0.8,0.75,0.8,0.9,1.0,ok
+To Allocate,Te alloceren,reviewed,banking,0.8,0.8,0.75,0.8,0.9,1.0,ok
+"To use protocol version H005, please activate the checkbox 'Needs Certificates'.","Om protocolversie H005 te gebruiken, activeer het selectievakje 'Vereist certificaten'.",reviewed,banking,0.65,0.65,0.55,0.65,0.8,1.0,review
+Transmission Datetime,Transmissiedatum en -tijd,reviewed,banking,0.8,0.8,0.75,0.8,0.9,1.0,ok
+Transmission Type,Transmissietype,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
+Unable to resolve batch transaction: camt.054 not available. Please try again later.,Batchtransactie kan niet worden verwerkt: camt.054 niet beschikbaar. Probeer het later opnieuw.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Update Amounts,Bedragen bijwerken,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Updating ...,Bijwerken ...,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Upload CAMT file,CAMT-bestand uploaden,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Upload CSV / Excel file,CSV/Excel-bestand uploaden,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Upload MT940 file,MT940-bestand uploaden,reviewed,banking,0.91,0.9,0.9,0.9,0.95,1.0,ok
+Upload XML (CAMT.053) file,XML (CAMT.053)-bestand uploaden,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Usage,Gebruik,reviewed,banking,0.87,0.85,0.85,0.85,0.95,1.0,ok
+User ID not available.,Gebruikers-ID niet beschikbaar.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+Verify Bank Keys,Banksleutels verifiëren,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+View EBICS Users,EBICS-gebruikers bekijken,reviewed,banking,0.85,0.85,0.8,0.85,0.95,1.0,ok
+Voucher Matching Default,Standaard documentkoppeling,reviewed,banking,0.8,0.8,0.75,0.8,0.9,1.0,ok
+Voucher Matching Defaults,Standaard documentkoppelingen,reviewed,banking,0.8,0.8,0.75,0.8,0.9,1.0,ok
+"We'll try to download all transactions of completed days in the selected period, using <code>camt.053</code>.",We proberen alle transacties van voltooide dagen in de geselecteerde periode te downloaden met <code>camt.053</code>.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+"We'll try to download new transactions from today, using <code>camt.052</code>.",We proberen nieuwe transacties van vandaag te downloaden met <code>camt.052</code>.,reviewed,banking,0.85,0.85,0.8,0.85,0.9,1.0,ok
+"You selected protocol version {0}, but the bank {1} only supports {2}.","U heeft protocolversie {0} geselecteerd, maar bank {1} ondersteunt alleen {2}.",reviewed,banking,0.7,0.7,0.6,0.7,0.8,1.0,review
+to import bank transactions for {0}.,om banktransacties voor {0} te importeren.,reviewed,banking,0.73,0.75,0.65,0.7,0.8,1.0,review
+{0} {1} {2},{0} {1} {2},reviewed,banking,1.0,1.0,1.0,1.0,1.0,1.0,ok
+{} Unreconciled,{} Niet gereconcilieerd,reviewed,banking,0.73,0.75,0.65,0.7,0.8,1.0,review

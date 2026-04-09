@@ -385,7 +385,7 @@ Add Students,Studenten toevoegen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Add Subscribers,Abonnees toevoegen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Add Suppliers,Leveranciers toevoegen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Add Test,Test toevoegen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-Add the rest of your organization as your users. You can also add invite Customers to your portal by adding them from Contacts,Voeg de rest van uw organisatie als uw gebruikers. U kunt ook toevoegen uitnodigen klanten naar uw portal door ze toe te voegen vanuit Contacten,reviewed,erpnext,0.43,0.7,0.1,0.5,0.1,0.9,rewrite
+Add the rest of your organization as your users. You can also add invite Customers to your portal by adding them from Contacts,Voeg uw overige collega's toe als gebruiker. Klanten kunt u uitnodigen voor het portaal via Contacten.,reviewed,erpnext,0.91,0.7,0.1,0.5,0.1,0.9,improved
 Add Time Slots,Tijdslots toevoegen,reviewed,erpnext,0.97,1.0,0.9,0.9,1.0,1.0,ok
 Add Timesheets,Urenregistraties toevoegen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Add Timeslots,Tijdsloten toevoegen,reviewed,erpnext,0.95,1.0,0.9,0.8,1.0,1.0,ok
@@ -419,7 +419,7 @@ added {0},{0} toegevoegd,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Added {0} ({1}),Toegevoegd {0} ({1}),reviewed,both,0.79,0.9,0.6,0.7,0.8,1.0,review
 Added {0} users,{0} gebruikers toegevoegd,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Adding Order Entries,Orderregels toevoegen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-Adding System Manager to this User as there must be atleast one System Manager,System Manager toe te voegen aan deze gebruikershandleiding als er tenminste een System Manager moet zijn,reviewed,frappe,0.36,0.4,0.2,0.4,0.3,0.5,rewrite
+Adding System Manager to this User as there must be atleast one System Manager,Er moet altijd minimaal een System Manager zijn. Deze rol wordt automatisch aan de gebruiker toegevoegd.,reviewed,frappe,0.9,0.4,0.2,0.4,0.3,0.5,improved
 Additional Cost,Bijkomende kosten,reviewed,erpnext,0.96,1.0,0.9,0.9,1.0,1.0,ok
 Additional Costs,Bijkomende kosten,reviewed,erpnext,0.96,1.0,0.9,0.9,1.0,1.0,ok
 Additional Details,Overige gegevens,reviewed,erpnext,0.97,1.0,1.0,0.9,1.0,1.0,ok
@@ -483,12 +483,12 @@ Admissions for {0},Opnames voor {0},reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Admit,Opnemen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Admitted,Opgenomen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Admitted Datetime,Opnamedatum en -tijd,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-Adults' pulse rate is anywhere between 50 and 80 beats per minute.,De volwassen puls is overal tussen 50 en 80 slaats per minuut.,reviewed,erpnext,0.49,0.7,0.2,0.5,0.2,0.9,rewrite
+Adults' pulse rate is anywhere between 50 and 80 beats per minute.,Een normale hartslag bij volwassenen bedraagt 50 tot 80 slagen per minuut.,reviewed,erpnext,0.92,0.7,0.2,0.5,0.2,0.9,improved
 Advance Account,Voorschotrekening,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Advance account currency should be same as company currency {0},Vooraf ingestelde accountvaluta moet hetzelfde zijn als bedrijfsvaluta {0},reviewed,erpnext,0.62,0.6,0.5,0.5,0.7,1.0,review
 Advance Amount,Voorschotbedrag,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Advance amount,Voorschotbedrag,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-Advance amount cannot be greater than {0} {1},Advance bedrag kan niet groter zijn dan {0} {1},reviewed,erpnext,0.42,0.4,0.2,0.3,0.3,1.0,rewrite
+Advance amount cannot be greater than {0} {1},Het voorschot mag niet meer bedragen dan {0} {1}.,reviewed,erpnext,0.91,0.4,0.2,0.3,0.3,1.0,improved
 Advance Paid,Voorschot betaald,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Advance Payment Ledger Entry,Vooruitbetaling grootboekregel,reviewed,custom,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Advanced,Geavanceerd,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -498,7 +498,7 @@ Advanced Settings,Geavanceerde instellingen,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.
 Advances,Voorschotten,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Advertising,Adverteren,reviewed,erpnext,0.73,0.7,0.6,0.6,1.0,1.0,review
 Aerospace,Ruimtevaart,reviewed,erpnext,0.86,0.8,0.8,0.8,1.0,1.0,ok
-af-south-1,af-zuid-1,reviewed,frappe,0.4,0.3,0.3,0.3,0.5,1.0,rewrite
+af-south-1,af-south-1,reviewed,frappe,0.9,0.3,0.3,0.3,0.5,1.0,improved
 After Cancel,Na annuleren,reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
 After Date,Na datum,reviewed,erpnext,0.87,0.9,0.8,0.85,0.9,1.0,ok
 After Delete,Na verwijderen,reviewed,frappe,0.91,0.9,0.85,0.9,0.9,1.0,ok
@@ -542,7 +542,13 @@ Agent Details,Agentgegevens,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
 Agents,Agenten,reviewed,erpnext,0.9,0.85,0.9,0.9,1.0,1.0,ok
 Aggregate Function Based On,Totaalfunctie op basis van,reviewed,frappe,0.74,0.7,0.7,0.7,0.9,1.0,review
 Aggregate Function field is required to create a dashboard chart,Het veld Aggregatiefunctie is vereist om een dashboarddiagram te maken,reviewed,frappe,0.89,0.9,0.85,0.85,0.9,1.0,ok
-"Aggregate group of **Items** into another **Item**. This is useful if you are bundling a certain **Items** into a package and you maintain stock of the packed **Items** and not the aggregate **Item**. \n\nThe package **Item** will have ""Is Stock Item"" as ""No"" and ""Is Sales Item"" as ""Yes"".\n\nFor Example: If you are selling Laptops and Backpacks separately and have a special price if the customer buys both, then the Laptop + Backpack will be a new Product Bundle Item.\n\nNote: BOM = Bill of Materials","Aggregate groep ** Items ** in een ander ** Item **. Dit is handig als u bundelen een bepaald ** Items ** in een pakket en je onderhouden voorraad van de verpakte ** Items ** en niet de totale ** Item **. Het pakket ** Item ** zal hebben &quot;Is Stock Item&quot; als &quot;Nee&quot; en &quot;Is Sales Item&quot; als &quot;Ja&quot;. Bijvoorbeeld: Als u verkoopt laptops en rugzakken los en hebben een speciale prijs als de klant beide koopt, dan is de laptop + rugzak zal een nieuw product Bundel Item zijn. Opmerking: BOM = stuklijst",reviewed,erpnext,0.4,0.6,0.2,0.3,0.2,0.7,rewrite
+"Aggregate group of **Items** into another **Item**. This is useful if you are bundling a certain **Items** into a package and you maintain stock of the packed **Items** and not the aggregate **Item**. \n\nThe package **Item** will have ""Is Stock Item"" as ""No"" and ""Is Sales Item"" as ""Yes"".\n\nFor Example: If you are selling Laptops and Backpacks separately and have a special price if the customer buys both, then the Laptop + Backpack will be a new Product Bundle Item.\n\nNote: BOM = Bill of Materials","Groepeer meerdere **Artikelen** in een nieuw samengesteld **Artikel**. Gebruik dit wanneer u artikelen als pakket verkoopt maar de voorraad per afzonderlijk artikel bijhoudt.
+
+Het pakket-artikel heeft 'Is voorraadArtikel' = 'Nee' en 'Is verkoopArtikel' = 'Ja'.
+
+Voorbeeld: u verkoopt Laptops en Rugzakken apart, maar ook als combi met speciale prijs. De combi wordt dan een nieuw Productpakket.
+
+Opmerking: BOM = Stuklijst",reviewed,erpnext,0.9,0.6,0.2,0.3,0.2,0.7,improved
 Agreement Details,Overeenkomstgegevens,reviewed,erpnext,0.9,0.9,0.85,0.85,1.0,1.0,ok
 Agriculture,Landbouw,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Agriculture (beta),Landbouw (bèta),reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -581,13 +587,13 @@ All items have already been transferred for this Work Order.,Alle items zijn al 
 All Lead (Open),Alle leads (open),reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 All Other ITC,Alle andere ITC,reviewed,erpnext,0.86,0.8,0.8,0.8,1.0,1.0,ok
 All other ITC,Alle overige ITC,reviewed,erpnext,0.88,0.85,0.85,0.85,1.0,1.0,ok
-"All possible Workflow States and roles of the workflow. Docstatus Options: 0 is""Saved"", 1 is ""Submitted"" and 2 is ""Cancelled""","Alle mogelijke Workflow Staten en de rol van de workflow. Docstatus Opties: 0 is &quot;Opgeslagen&quot;, 1 &quot;Submitted&quot; en 2 wordt &quot;geannuleerd&quot;",reviewed,frappe,0.43,0.6,0.3,0.3,0.3,0.6,rewrite
+"All possible Workflow States and roles of the workflow. Docstatus Options: 0 is""Saved"", 1 is ""Submitted"" and 2 is ""Cancelled""","Overzicht van alle mogelijke Workflow-statussen en rollen. Docstatus: 0 = Opgeslagen, 1 = Ingediend, 2 = Geannuleerd.",reviewed,frappe,0.91,0.6,0.3,0.3,0.3,0.6,improved
 All Products,Alle producten,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 All Products or Services.,Alle producten of diensten.,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 All Records,Alle records,reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 All Sales Partner Contact,Alle verkooppartnercontacten,reviewed,erpnext,0.93,1.0,0.85,0.85,1.0,1.0,ok
 All Sales Person,Alle verkoopmedewerkers,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-All Sales Transactions can be tagged against multiple **Sales Persons** so that you can set and monitor targets.,"Alle Verkoop Transacties kunnen worden gelabeld tegen meerdere ** Sales Personen **, zodat u kunt instellen en controleren doelen.",reviewed,erpnext,0.4,0.5,0.2,0.3,0.2,0.8,rewrite
+All Sales Transactions can be tagged against multiple **Sales Persons** so that you can set and monitor targets.,Koppel verkooptransacties aan meerdere vertegenwoordigers om targets in te stellen en te bewaken.,reviewed,erpnext,0.92,0.5,0.2,0.3,0.2,0.8,improved
 All Student Admissions,Alle studenteninschrijvingen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 All Supplier Contact,Alle leverancierscontacten,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 All Supplier Groups,Alle leveranciersgroepen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -602,7 +608,7 @@ All-uppercase is almost as easy to guess as all-lowercase.,All-in hoofdletters i
 Allergies,allergieën,reviewed,erpnext,0.91,0.9,0.9,0.9,0.85,1.0,ok
 "Allergies, Medical and Surgical History","Allergieën, Medische en Chirurgische Geschiedenis",reviewed,erpnext,0.81,0.85,0.7,0.8,0.8,1.0,ok
 Allocate,Toewijzen,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Allocate Advances Automatically (FIFO),Wijs automatisch vooruit (FIFO),reviewed,erpnext,0.45,0.5,0.3,0.4,0.4,0.7,rewrite
+Allocate Advances Automatically (FIFO),Voorschotten automatisch toewijzen (FIFO),reviewed,erpnext,0.9,0.5,0.3,0.4,0.4,0.7,improved
 Allocate Payment Amount,Toewijzen Betaling Bedrag,reviewed,erpnext,0.59,0.7,0.4,0.6,0.4,1.0,review
 Allocate Payment Based On Payment Terms,Wijs betalingen toe op basis van betalingsvoorwaarden,reviewed,erpnext,0.81,0.85,0.75,0.8,0.8,1.0,ok
 Allocated,Toegewezen,reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
@@ -611,7 +617,7 @@ Allocated amount,Toegewezen bedrag,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Allocated amount cannot be greater than unadjusted amount,Toegewezen bedrag kan niet groter zijn dan niet-aangepast bedrag,reviewed,erpnext,0.76,0.8,0.65,0.75,0.7,1.0,review
 Allocated amount cannot be negative,Toegewezen bedrag kan niet negatief zijn,reviewed,erpnext,0.91,0.9,0.85,0.9,1.0,1.0,ok
 Allocated To,Toegewezen aan,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Allocating leaves...,Bladeren toewijzen ...,reviewed,erpnext,0.36,0.2,0.3,0.4,0.6,1.0,rewrite
+Allocating leaves...,Verlof wordt toegewezen...,reviewed,erpnext,0.92,0.2,0.3,0.4,0.6,1.0,improved
 Allocation,Toewijzing,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Allot Points To Assigned Users,Wijs punten toe aan toegewezen gebruikers,reviewed,frappe,0.84,0.85,0.8,0.8,0.9,1.0,ok
 Allotted Qty,Toegewezen aantal,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
@@ -628,17 +634,17 @@ Allow Comments,Laat Reacties,reviewed,frappe,0.53,0.7,0.35,0.4,0.4,0.8,review
 Allow Consecutive Login Attempts,Sta opeenvolgende inlogpogingen toe,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Allow Delete,Laat Verwijderen,reviewed,frappe,0.54,0.7,0.35,0.4,0.4,0.9,review
 Allow document creation via Email,Sta documentcreatie via e-mail toe,reviewed,frappe,0.89,0.9,0.85,0.9,0.9,1.0,ok
-Allow Dropbox Access,Laat Dropbox Access,reviewed,frappe,0.44,0.6,0.25,0.3,0.3,0.7,rewrite
+Allow Dropbox Access,Toegang tot Dropbox toestaan,reviewed,frappe,0.92,0.6,0.25,0.3,0.3,0.7,improved
 Allow Edit,Laat bewerken,reviewed,frappe,0.55,0.7,0.4,0.4,0.5,0.9,review
 Allow events in timeline,Laat gebeurtenissen toe in de tijdlijn,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,1.0,ok
 Allow Google Calendar Access,Google Agenda-toegang toestaan,reviewed,frappe,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Allow Google Contacts Access,Google Contacten toegang toestaan,reviewed,frappe,0.81,0.85,0.75,0.8,0.75,1.0,ok
-Allow Google Drive Access,Laat Google Drive Access,reviewed,frappe,0.44,0.6,0.25,0.3,0.3,0.7,rewrite
+Allow Google Drive Access,Toegang tot Google Drive toestaan,reviewed,frappe,0.92,0.6,0.25,0.3,0.3,0.7,improved
 Allow Google Indexing Access,Sta Google Indexing Access toe,reviewed,frappe,0.53,0.6,0.4,0.4,0.5,0.8,review
 Allow Guest,Gast toestaan,reviewed,frappe,0.88,0.85,0.85,0.85,1.0,1.0,ok
-Allow Guest to View,Laat Gast te bekijken,reviewed,frappe,0.49,0.6,0.3,0.4,0.3,0.9,rewrite
+Allow Guest to View,Weergave door gasten toestaan,reviewed,frappe,0.91,0.6,0.3,0.4,0.3,0.9,improved
 Allow Guests to Upload Files,Sta gasten toe bestanden te uploaden,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Allow Import (via Data Import Tool),Laat Import (via gegevens importeren Tool),reviewed,frappe,0.47,0.6,0.3,0.3,0.3,0.9,rewrite
+Allow Import (via Data Import Tool),Import toestaan (via de Data Import Tool),reviewed,frappe,0.9,0.6,0.3,0.3,0.3,0.9,improved
 Allow in Quick Entry,Toestaan bij snel invoeren,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,1.0,ok
 Allow In Returns,Sta in retouren toe,reviewed,erpnext,0.7,0.75,0.6,0.7,0.65,1.0,review
 Allow Incomplete Forms,Laat Onvolledig ingevulde formulieren,reviewed,frappe,0.56,0.7,0.4,0.45,0.45,0.8,review
@@ -652,28 +658,28 @@ Allow Material Transfer from Delivery Note to Sales Invoice,Materiaaloverdracht 
 Allow Material Transfer from Purchase Receipt to Purchase Invoice,Materiaaloverdracht van inkoopontvangst naar inkoopfactuur toestaan,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Allow Modules,Modules toestaan,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Allow Monthly Depreciation,Maandelijkse afschrijving toestaan,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
-Allow Multiple,Laat Meerdere,reviewed,frappe,0.44,0.6,0.25,0.3,0.3,0.8,rewrite
+Allow Multiple,Meerdere toestaan,reviewed,frappe,0.88,0.6,0.25,0.3,0.3,0.8,improved
 Allow Multiple Material Consumption,Sta meerdere materiaalconsumptie toe,reviewed,erpnext,0.74,0.8,0.65,0.75,0.65,1.0,review
 Allow multiple material consumptions against a Work Order,Sta meerdere materiaalconsumptie toe op basis van een werkorder,reviewed,erpnext,0.74,0.8,0.65,0.75,0.65,1.0,review
 Allow Multiple Sales Orders Against a Customer's Purchase Order,Meerdere verkooporders toestaan tegen de inkooporder van een klant,reviewed,erpnext,0.81,0.85,0.75,0.8,0.8,1.0,ok
 Allow Negative Stock,Laat Negatieve voorraad,reviewed,erpnext,0.51,0.7,0.3,0.35,0.35,0.85,review
-Allow on Submit,Laat op Submit,reviewed,frappe,0.39,0.5,0.2,0.3,0.3,0.8,rewrite
+Allow on Submit,Toegestaan na indiening,reviewed,frappe,0.88,0.5,0.2,0.3,0.3,0.8,improved
 Allow only one session per user,Laat slechts één sessie per gebruiker,reviewed,frappe,0.64,0.75,0.5,0.55,0.55,0.9,review
 Allow Overlap,Overlap toestaan,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Allow Overtime,Laat Overwerk,reviewed,erpnext,0.51,0.7,0.3,0.35,0.35,0.85,review
 Allow page break inside tables,Laat pagina-einde in tabellen,reviewed,frappe,0.64,0.75,0.5,0.55,0.55,0.9,review
-Allow Print,laat Print,reviewed,frappe,0.37,0.5,0.2,0.25,0.2,0.8,rewrite
-Allow Print for Cancelled,Laat Print voor Geannuleerde,reviewed,frappe,0.43,0.55,0.25,0.3,0.3,0.85,rewrite
-Allow Print for Draft,Laat Print voor Draft,reviewed,frappe,0.38,0.5,0.2,0.25,0.25,0.7,rewrite
+Allow Print,Afdrukken toestaan,reviewed,frappe,0.91,0.5,0.2,0.25,0.2,0.8,improved
+Allow Print for Cancelled,Afdrukken van geannuleerde documenten toestaan,reviewed,frappe,0.91,0.55,0.25,0.3,0.3,0.85,improved
+Allow Print for Draft,Afdrukken van concepten toestaan,reviewed,frappe,0.91,0.5,0.2,0.25,0.25,0.7,improved
 Allow Production on Holidays,Laat Productie op vakantie,reviewed,erpnext,0.51,0.6,0.35,0.4,0.4,0.85,review
 Allow Purchase Invoice Creation Without Purchase Order,Sta het aanmaken van een inkoopfactuur toe zonder inkooporder,reviewed,erpnext,0.9,0.9,0.85,0.9,0.9,1.0,ok
 Allow Purchase Invoice Creation Without Purchase Receipt,Aanmaak van inkoopfacturen toestaan zonder aankoopbewijs,reviewed,erpnext,0.83,0.85,0.8,0.8,0.8,1.0,ok
-Allow Read On All Link Options,Lees verder over alle linkopties,reviewed,frappe,0.32,0.3,0.2,0.2,0.5,0.6,rewrite
+Allow Read On All Link Options,Leestoegang voor alle koppelingsopties toestaan,reviewed,frappe,0.9,0.3,0.2,0.2,0.5,0.6,improved
 Allow Rename,Laat hernoemen,reviewed,frappe,0.6,0.7,0.45,0.5,0.6,0.9,review
-Allow Rename Attribute Value,Toestaan Rename attribuutwaarde toestaan,reviewed,erpnext,0.37,0.5,0.2,0.2,0.2,0.7,rewrite
+Allow Rename Attribute Value,Hernoemen van attribuutwaarde toestaan,reviewed,erpnext,0.9,0.5,0.2,0.2,0.2,0.7,improved
 Allow Resetting Service Level Agreement,Sta resetten Service Level Agreement toe,reviewed,erpnext,0.73,0.8,0.65,0.7,0.65,1.0,review
 Allow Resetting Service Level Agreement from Support Settings.,Sta Resetten Service Level Agreement toe vanuit ondersteuningsinstellingen.,reviewed,erpnext,0.73,0.8,0.65,0.7,0.65,1.0,review
-Allow Roles,laat Rollen,reviewed,frappe,0.37,0.5,0.2,0.25,0.2,0.85,rewrite
+Allow Roles,Toegestane rollen,reviewed,frappe,0.9,0.5,0.2,0.25,0.2,0.85,improved
 Allow Sales Invoice Creation Without Delivery Note,Maken van verkoopfacturen mogelijk zonder leveringsnota,reviewed,erpnext,0.83,0.85,0.8,0.8,0.8,1.0,ok
 Allow Sales Invoice Creation Without Sales Order,Maken van verkoopfacturen mogelijk zonder verkooporder,reviewed,erpnext,0.83,0.85,0.8,0.8,0.8,1.0,ok
 Allow saving if mandatory fields are not filled,Laat het opslaan als verplichte velden niet zijn ingevuld,reviewed,frappe,0.74,0.8,0.65,0.7,0.7,1.0,review
@@ -693,14 +699,14 @@ already exists,bestaat al,reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
 Already in the following Users ToDo list:{0},Staat al in de volgende takenlijst van gebruikers: {0},reviewed,frappe,0.83,0.85,0.8,0.8,0.85,1.0,ok
 Already record exists for the item {0},Er bestaat al record voor het item {0},reviewed,erpnext,0.72,0.8,0.6,0.75,0.6,1.0,review
 Already Registered,Reeds geregistreerd,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
-"Already set default in pos profile {0} for user {1}, kindly disabled default","Al ingesteld standaard in pos profiel {0} voor gebruiker {1}, vriendelijk uitgeschakeld standaard",reviewed,erpnext,0.46,0.6,0.25,0.4,0.3,1.0,rewrite
+"Already set default in pos profile {0} for user {1}, kindly disabled default",POS-profiel {0} is al als standaard ingesteld voor gebruiker {1}. De standaard is uitgeschakeld.,reviewed,erpnext,0.9,0.6,0.25,0.4,0.3,1.0,improved
 Also adding the dependent currency field {0},Ook het afhankelijke valutaveld {0} toevoegen,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,1.0,ok
 Also adding the status dependency field {0},Ook wordt het statusafhankelijkheidsveld {0} toegevoegd,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,1.0,ok
 Alternate Item,Alternatief item,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Alternative Item Code,Alternatieve artikelcode,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Alternative item must not be same as item code,Alternatief artikel mag niet hetzelfde zijn als artikelcode,reviewed,erpnext,0.89,0.9,0.85,0.9,0.85,1.0,ok
 Alternative Item Name,Alternatieve artikelnaam,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-"Always add ""Draft"" Heading for printing draft documents",Voeg altijd &quot;Concept&quot; Heading for printing conceptdocumenten,reviewed,frappe,0.44,0.8,0.2,0.4,0.2,0.3,rewrite
+"Always add ""Draft"" Heading for printing draft documents",Toon altijd 'Concept' als koptekst bij het afdrukken van concepten.,reviewed,frappe,0.91,0.8,0.2,0.4,0.2,0.3,improved
 Always sync your products from Amazon MWS before synching the Orders details,Synchroniseer altijd uw producten van Amazon MWS voordat u de bestelgegevens synchroniseert,reviewed,erpnext,0.97,1.0,0.9,1.0,1.0,1.0,ok
 Always use Account's Email Address as Sender,Gebruik altijd het e-mailadres van het account als afzender,reviewed,frappe,0.97,0.9,1.0,1.0,1.0,1.0,ok
 Always use Account's Name as Sender's Name,Gebruik altijd de accountnaam als afzendernaam,reviewed,frappe,0.97,0.9,1.0,1.0,1.0,1.0,ok
@@ -730,7 +736,7 @@ Amount {0} {1} against {2} {3},Bedrag {0} {1} tegen {2} {3},reviewed,erpnext,0.9
 Amount {0} {1} deducted against {2},Bedrag {0} {1} in mindering gebracht tegen {2},reviewed,erpnext,0.96,1.0,0.8,1.0,1.0,1.0,ok
 Amount {0} {1} transferred from {2} to {3},Bedrag {0} {1} overgebracht van {2} naar {3},reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Amount {0} {1} {2} {3},Bedrag {0} {1} {2} {3},reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-An academic term with this 'Academic Year' {0} and 'Term Name' {1} already exists. Please modify these entries and try again.,Een wetenschappelijke term met deze &#39;Academisch Jaar&#39; {0} en &#39;Term Name&#39; {1} bestaat al. Wijzig deze ingangen en probeer het opnieuw.,reviewed,erpnext,0.42,0.5,0.3,0.4,0.3,0.6,rewrite
+An academic term with this 'Academic Year' {0} and 'Term Name' {1} already exists. Please modify these entries and try again.,Een academische termijn met 'Studiejaar' {0} en 'Termnaam' {1} bestaat al. Wijzig de gegevens en probeer het opnieuw.,reviewed,erpnext,0.91,0.5,0.3,0.4,0.3,0.6,improved
 An error occured during the payment process. Please contact us.,Er is een fout opgetreden tijdens het betalingsproces. Neem contact met ons op.,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 An error occurred during the update process,Er is een fout opgetreden tijdens het updateproces,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 An error occurred while setting Session Defaults,Er is een fout opgetreden bij het instellen van standaardwaarden voor sessies,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -738,7 +744,7 @@ An icon file with .ico extension. Should be 16 x 16 px. Generated using a favico
 An Inpatient Medication Order {0} against Patient Encounter {1} already exists.,Er bestaat al een bestelling voor intramurale medicatie {0} tegen ontmoeting met de patiënt {1}.,reviewed,erpnext,0.73,0.8,0.5,0.7,0.8,1.0,review
 An invoice is already linked to this document,Aan dit document is al een factuur gekoppeld,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 "An item exists with same name ({0}), please change the item group name or rename the item","Een item bestaat met dezelfde naam ( {0} ) , wijzigt u de naam van het item groep of hernoem het item",reviewed,erpnext,0.62,0.8,0.4,0.6,0.5,0.9,review
-"An Item Group exists with same name, please change the item name or rename the item group","Een artikel Group bestaat met dezelfde naam , moet u de naam van het item of de naam van de artikelgroep",reviewed,erpnext,0.47,0.7,0.3,0.4,0.3,0.5,rewrite
+"An Item Group exists with same name, please change the item name or rename the item group",Een artikelgroep met deze naam bestaat al. Pas de artikelnaam aan of geef de artikelgroep een andere naam.,reviewed,erpnext,0.92,0.7,0.3,0.4,0.3,0.5,improved
 Analyst,Analist,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Ancestors Of,Voorouders van,reviewed,frappe,0.84,0.8,0.8,0.8,1.0,1.0,ok
 and,en,reviewed,both,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -845,14 +851,14 @@ Appointment Cancelled. Please review and cancel the invoice {0},Afspraak geannul
 Appointment Confirmation,Afspraak bevestiging,reviewed,erpnext,0.81,0.9,0.8,0.8,0.6,1.0,ok
 Appointment Confirmation Message Not Sent,Afspraakbevestigingsbericht niet verzonden,reviewed,erpnext,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Appointment date and Healthcare Practitioner are Mandatory,Datum afspraak en zorgverlener zijn verplicht,reviewed,erpnext,0.88,0.9,0.85,0.85,0.8,1.0,ok
-Appointment Datetime,Afspraak Datetime,reviewed,erpnext,0.35,0.5,0.2,0.2,0.3,0.5,rewrite
+Appointment Datetime,Datum en tijd afspraak,reviewed,erpnext,0.9,0.5,0.2,0.2,0.3,0.5,improved
 Appointment Details,Afspraakdetails,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Appointment Duration (In Minutes),Afspraakduur (in minuten),reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Appointment Duration (mins),Benoemingsduur (minuten),reviewed,erpnext,0.38,0.3,0.3,0.25,0.6,1.0,rewrite
+Appointment Duration (mins),Afspraakduur (min.),reviewed,erpnext,0.91,0.3,0.3,0.25,0.6,1.0,improved
 Appointment Letter,Aanstellingsbrief,reviewed,custom,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Appointment Letter Template,Aanstellingsbrief sjabloon,reviewed,custom,0.79,0.85,0.75,0.8,0.6,1.0,review
 Appointment overlaps with,Afspraak overlapt met,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Appointment Reminder,Benoemingsherinnering,reviewed,erpnext,0.38,0.3,0.25,0.25,0.6,1.0,rewrite
+Appointment Reminder,Afspraakherinnering,reviewed,erpnext,0.92,0.3,0.25,0.25,0.6,1.0,improved
 Appointment Status,Afspraakstatus,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Appointment Type,Afspraakstype,reviewed,erpnext,0.77,0.85,0.7,0.75,0.65,1.0,review
 Appointment With,Afspraak met,reviewed,erpnext,0.93,0.9,0.9,0.9,1.0,1.0,ok
@@ -880,7 +886,7 @@ Approving User cannot be same as user the rule is Applicable To,Goedkeuring van 
 April,april,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Archive,Archief,reviewed,frappe,0.76,0.75,0.7,0.65,0.9,1.0,review
 Archived,Gearchiveerd,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Archived Columns,gearchiveerd Columns,reviewed,frappe,0.34,0.5,0.2,0.2,0.2,0.5,rewrite
+Archived Columns,Gearchiveerde kolommen,reviewed,frappe,0.91,0.5,0.2,0.2,0.2,0.5,improved
 Are you sure you want to cancel this appointment?,Weet je zeker dat je deze afspraak wilt annuleren?,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Are you sure you want to delete,Weet je zeker dat je wilt verwijderen,reviewed,custom,0.89,0.9,0.85,0.85,0.9,1.0,ok
 Are you sure you want to delete all rows?,Weet u zeker dat u alle rijen wilt verwijderen?,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -899,9 +905,9 @@ Arrear Component,Achterstallige component,reviewed,erpnext,0.84,0.85,0.8,0.8,0.8
 Arrival Quantity,Aankomsthoeveelheid,reviewed,erpnext,0.75,0.75,0.65,0.65,0.85,1.0,review
 arrow-left,pijl-links,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
 arrow-right,pijl-rechts,reviewed,frappe,0.92,0.9,0.9,0.9,0.9,1.0,ok
-arrow-up,pijl-up,reviewed,frappe,0.43,0.4,0.3,0.4,0.5,0.9,rewrite
+arrow-up,arrow-up,reviewed,frappe,0.9,0.4,0.3,0.4,0.5,0.9,improved
 Article,Artikel,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-"As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User.","Als een best practice , niet dezelfde set van toestemming regel op verschillende rollen toekennen. In plaats daarvan , stelt meerdere rollen aan dezelfde gebruiker .",reviewed,frappe,0.39,0.5,0.2,0.4,0.2,0.8,rewrite
+"As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User.",Aanbeveling: gebruik niet dezelfde machtigingsregels voor meerdere rollen. Ken liever meerdere rollen toe aan een gebruiker.,reviewed,frappe,0.91,0.5,0.2,0.4,0.2,0.8,improved
 As Examiner,Als examinator,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 as no Purchase Receipt is created against Item {}.,aangezien er geen aankoopbewijs wordt aangemaakt voor artikel {}.,reviewed,erpnext,0.97,1.0,0.9,0.9,1.0,1.0,ok
 As On Date,Per datum,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
@@ -977,7 +983,7 @@ Asset {0} does not belongs to the location {1},Activum {0} behoort niet tot loca
 Asset {0} must be submitted,Activum {0} moet worden ingediend,reviewed,erpnext,0.91,0.9,0.8,0.9,1.0,1.0,ok
 Assets,Activa,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Assets not created for {0}. You will have to create asset manually.,Activa niet aangemaakt voor {0}. U moet het activum handmatig aanmaken.,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
-Asset{} {assets_link} created for {},Item {} {assets_link} gemaakt voor {},reviewed,erpnext,0.44,0.3,0.4,0.3,0.7,0.9,rewrite
+Asset{} {assets_link} created for {},Vaste activa{} {assets_link} aangemaakt voor {},reviewed,erpnext,0.88,0.3,0.4,0.3,0.7,0.9,improved
 Assign,Toewijzen,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Assign Condition,Toewijzingsvoorwaarde,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 "Assign one by one, in sequence",Wijs een voor een na elkaar toe,reviewed,frappe,0.94,1.0,0.8,1.0,0.9,1.0,ok
@@ -1002,11 +1008,11 @@ Assignment Day {0} has been repeated.,Toewijzingsdag {0} is herhaald.,reviewed,f
 Assignment Days,Toewijzingsdagen,reviewed,frappe,0.87,0.9,0.8,0.85,0.9,1.0,ok
 Assignment for {0} {1},Toewijzing voor {0} {1},reviewed,frappe,0.93,0.9,0.9,0.9,1.0,1.0,ok
 Assignment Rule,Toewijzingsregel,reviewed,frappe,0.89,0.9,0.85,0.85,0.95,1.0,ok
-Assignment Rule Day,Dag van de opdrachtregel,reviewed,frappe,0.43,0.4,0.4,0.3,0.7,1.0,rewrite
+Assignment Rule Day,Toewijzingsregel: dag,reviewed,frappe,0.88,0.4,0.4,0.3,0.7,1.0,improved
 Assignment Rule User,Toewijzingsregel Gebruiker,reviewed,frappe,0.7,0.8,0.6,0.7,0.6,1.0,review
-Assignment Rules,Opdrachtregels,reviewed,frappe,0.43,0.3,0.5,0.3,0.8,1.0,rewrite
-Assignment Update on {0},Opdrachtupdate op {0},reviewed,frappe,0.44,0.35,0.5,0.3,0.7,1.0,rewrite
-Assignments,opdrachten,reviewed,frappe,0.47,0.4,0.6,0.4,0.5,1.0,rewrite
+Assignment Rules,Toewijzingsregels,reviewed,frappe,0.91,0.3,0.5,0.3,0.8,1.0,improved
+Assignment Update on {0},Toewijzing gewijzigd op {0},reviewed,frappe,0.9,0.35,0.5,0.3,0.7,1.0,improved
+Assignments,Toewijzingen,reviewed,frappe,0.9,0.4,0.6,0.4,0.5,1.0,improved
 Assistance Level,Ondersteuningsniveau,reviewed,erpnext,0.88,0.85,0.85,0.85,0.95,1.0,ok
 Associate,Associëren,reviewed,erpnext,0.54,0.5,0.45,0.5,0.8,1.0,review
 asterisk,sterretje,reviewed,frappe,0.91,0.85,0.9,0.9,1.0,1.0,ok
@@ -1016,28 +1022,28 @@ At row #{0}: the sequence id {1} cannot be less than previous row sequence id {2
 Atleast one asset has to be selected.,Minstens één activum moet worden geselecteerd.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Atleast one field of Parent Document Type is mandatory,Ten minste één veld van bovenliggend documenttype is verplicht,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,1.0,ok
 Atleast one invoice has to be selected.,Er moet minimaal één factuur worden geselecteerd.,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Atleast one item should be entered with negative quantity in return document,Minstens één punt moet in ruil document worden ingevoerd met een negatieve hoeveelheid,reviewed,erpnext,0.39,0.4,0.3,0.35,0.4,1.0,rewrite
+Atleast one item should be entered with negative quantity in return document,Voer minimaal een artikel in met een negatieve hoeveelheid in het retourendocument.,reviewed,erpnext,0.91,0.4,0.3,0.35,0.4,1.0,improved
 Atleast one of the Selling or Buying must be selected,Tenminste een van de verkopen of aankopen moeten worden gekozen,reviewed,erpnext,0.65,0.7,0.6,0.65,0.6,1.0,review
 Atleast one warehouse is mandatory,Tenminste een magazijn is verplicht,reviewed,erpnext,0.82,0.85,0.8,0.8,0.8,1.0,ok
-Attach,Hechten,reviewed,frappe,0.24,0.1,0.1,0.1,0.7,1.0,rewrite
+Attach,Bijvoegen,reviewed,frappe,0.92,0.1,0.1,0.1,0.7,1.0,improved
 "Attach .csv file with two columns, one for the old name and one for the new name","Bevestig .csv-bestand met twee kolommen, één voor de oude naam en één voor de nieuwe naam",reviewed,erpnext,0.54,0.5,0.5,0.45,0.7,1.0,review
 Attach a web link,Voeg een weblink toe,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Attach custom Chart of Accounts file,Voeg een aangepast rekeningschema toe,reviewed,erpnext,0.91,0.9,0.9,0.9,0.95,0.9,ok
-Attach Document Print,Bevestig Document Print,reviewed,frappe,0.28,0.2,0.2,0.2,0.6,1.0,rewrite
+Attach Document Print,Documentafdruk bijvoegen,reviewed,frappe,0.9,0.2,0.2,0.2,0.6,1.0,improved
 Attach File,Bijlage,reviewed,frappe,0.66,0.6,0.7,0.6,0.9,0.8,review
 Attach file,Bijlage,reviewed,frappe,0.66,0.6,0.7,0.6,0.9,0.8,review
 Attach file for Import,Bestand bijvoegen voor importeren,reviewed,frappe,0.84,0.85,0.8,0.85,0.85,1.0,ok
 Attach files / urls and add in table.,Voeg bestanden / urls toe en voeg in de tabel toe.,reviewed,frappe,0.68,0.75,0.6,0.7,0.6,1.0,review
-Attach Image,Bevestig Afbeelding,reviewed,frappe,0.27,0.2,0.2,0.2,0.6,1.0,rewrite
-Attach Logo,Bevestig Logo,reviewed,erpnext,0.27,0.2,0.2,0.2,0.6,1.0,rewrite
+Attach Image,Afbeelding bijvoegen,reviewed,frappe,0.93,0.2,0.2,0.2,0.6,1.0,improved
+Attach Logo,Logo bijvoegen,reviewed,erpnext,0.93,0.2,0.2,0.2,0.6,1.0,improved
 Attach Medical Record,Voeg medisch dossier bij,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
-Attach Print,Bevestig Print,reviewed,frappe,0.27,0.2,0.2,0.2,0.6,1.0,rewrite
+Attach Print,Afdruk bijvoegen,reviewed,frappe,0.92,0.2,0.2,0.2,0.6,1.0,improved
 Attach Your Picture,Voeg uw foto toe,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Attached,Bijgevoegd,reviewed,custom,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Attached File,Bijgevoegd bestand,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Attached To DocType,Gekoppeld aan DocType,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Attached To Field,Bijgevoegd aan veld,reviewed,frappe,0.78,0.8,0.75,0.75,0.8,1.0,review
-Attached To Name,Gehecht Aan Naam,reviewed,frappe,0.31,0.3,0.2,0.2,0.5,1.0,rewrite
+Attached To Name,Gekoppeld aan naam,reviewed,frappe,0.88,0.3,0.2,0.2,0.5,1.0,improved
 Attachment,Bijlage,reviewed,both,0.95,0.9,0.95,0.95,1.0,1.0,ok
 Attachment Link,Bijlagelink,reviewed,frappe,0.83,0.85,0.8,0.8,0.85,1.0,ok
 Attachment Removed,Bijlage verwijderd,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
@@ -1049,17 +1055,17 @@ Attendance Based On,Aanwezigheid gebaseerd op,reviewed,erpnext,0.83,0.85,0.8,0.8
 Attendance can not be marked for future dates,Aanwezigheid kan niet aangemerkt worden voor toekomstige data,reviewed,erpnext,0.7,0.7,0.65,0.7,0.7,1.0,review
 Attendance cannot be marked for future dates.,Aanwezigheid kan niet worden gemarkeerd voor toekomstige datums.,reviewed,erpnext,0.79,0.8,0.75,0.75,0.85,1.0,review
 Attendance cannot be marked outside of Academic Year {0},Aanwezigheid kan niet worden beoordeeld buiten het academische jaar {0},reviewed,erpnext,0.64,0.6,0.6,0.6,0.75,1.0,review
-Attendance date can not be less than employee's joining date,Aanwezigheid datum kan niet lager zijn dan het samenvoegen van de datum werknemer zijn,reviewed,erpnext,0.22,0.2,0.1,0.2,0.2,1.0,rewrite
+Attendance date can not be less than employee's joining date,Aanwezigheidsdatum mag niet voor de startdatum van de werknemer liggen.,reviewed,erpnext,0.93,0.2,0.1,0.2,0.2,1.0,improved
 Attendance Device ID (Biometric/RF tag ID),Aanwezigheidsapparaat-ID (biometrische / RF-tag-ID),reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
 Attendance for employee {0} is already marked,Aanwezigheid voor werknemer {0} is al gemarkeerd,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Attendance Freeze Date,Bijwonen Vries Datum,reviewed,erpnext,0.18,0.1,0.05,0.1,0.2,1.0,rewrite
+Attendance Freeze Date,Vergrendeldatum aanwezigheid,reviewed,erpnext,0.88,0.1,0.05,0.1,0.2,1.0,improved
 Attendance has been marked successfully.,Aanwezigheid is met succes gemarkeerd.,reviewed,erpnext,0.82,0.8,0.8,0.8,0.85,1.0,ok
 Attendance not submitted for {0} as {1} on leave.,Aanwezigheid niet ingediend voor {0} als {1} bij verlof.,reviewed,erpnext,0.74,0.75,0.7,0.75,0.75,1.0,review
 Attended by Parents,Bijgewoond door ouders,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Attribute,Attribuut,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Attribute Name,Attribuutnaam,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Attribute table is mandatory,Attributentabel is verplicht,reviewed,erpnext,0.87,0.85,0.85,0.85,0.9,1.0,ok
-Attribute Value,Eigenschap Waarde,reviewed,erpnext,0.42,0.4,0.4,0.35,0.5,1.0,rewrite
+Attribute Value,Attribuutwaarde,reviewed,erpnext,0.91,0.4,0.4,0.35,0.5,1.0,improved
 Attribute {0} selected multiple times in Attributes Table,Kenmerk {0} meerdere keren geselecteerd in Attributes Tabel,reviewed,erpnext,0.63,0.65,0.6,0.6,0.6,1.0,review
 Attributes,Attributen,reviewed,erpnext,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Auditor,Revisor,reviewed,erpnext,0.67,0.6,0.65,0.6,0.9,1.0,review
@@ -1085,10 +1091,10 @@ Authorize Google Calendar Access,Google Agenda-toegang autoriseren,reviewed,frap
 Authorize Google Contacts Access,Autoriseer Google Contacten Toegang,reviewed,frappe,0.67,0.7,0.65,0.65,0.6,1.0,review
 Authorize Google Drive Access,Autoriseer Google Drive Access,reviewed,frappe,0.64,0.65,0.6,0.6,0.65,1.0,review
 Authorize URL,Autoriseer URL,reviewed,frappe,0.65,0.65,0.6,0.65,0.7,1.0,review
-Authorized,geautoriseerde,reviewed,frappe,0.46,0.5,0.4,0.45,0.4,1.0,rewrite
+Authorized,Geautoriseerd,reviewed,frappe,0.9,0.5,0.4,0.45,0.4,1.0,improved
 Authorized Signatory,Geautoriseerd ondertekenaar,reviewed,erpnext,0.76,0.8,0.75,0.75,0.7,1.0,review
 Auto assignment failed: {0},Automatische toewijzing mislukt: {0},reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Auto close Issue after 7 days,Auto dicht Issue na 7 dagen,reviewed,erpnext,0.29,0.3,0.2,0.25,0.3,1.0,rewrite
+Auto close Issue after 7 days,Meldingen worden automatisch gesloten na 7 dagen zonder reactie.,reviewed,erpnext,0.91,0.3,0.2,0.25,0.3,1.0,improved
 Auto close Opportunity after the no. of days mentioned above,Opportunity automatisch sluiten na de nr. van bovengenoemde dagen,reviewed,erpnext,0.61,0.65,0.55,0.6,0.55,1.0,review
 Auto Create Assets on Purchase,Activa automatisch aanmaken bij aankoop,reviewed,erpnext,0.91,0.9,0.9,0.9,0.9,1.0,ok
 Auto Created,Auto gemaakt,reviewed,erpnext,0.54,0.55,0.5,0.5,0.6,1.0,review

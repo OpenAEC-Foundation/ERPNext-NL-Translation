@@ -397,7 +397,7 @@ Add to Featured Item,Toevoegen aan aanbevolen item,reviewed,erpnext,1.0,1.0,1.0,
 Add to Holidays,Toevoegen aan feestdagen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Add to Programs,Toevoegen aan programma's,reviewed,erpnext,0.93,0.8,0.3,0.6,0.3,0.8,improved
 Add to table,Toevoegen aan tabel,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
-Add to ToDo,Toevoegen aan taak,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
+Add to ToDo,Toevoegen aan ToDo,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Add to Topics,Toevoegen aan onderwerpen,reviewed,erpnext,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Add to Transit,Aan doorvoer toevoegen,reviewed,erpnext,0.86,0.7,0.6,0.7,0.9,1.0,improved
 Add Topic to Courses,Onderwerp aan cursussen toevoegen,reviewed,erpnext,0.96,1.0,0.9,0.9,1.0,1.0,ok
@@ -696,7 +696,7 @@ Allowed In Mentions,Toegestaan in vermeldingen,reviewed,frappe,0.89,0.9,0.85,0.9
 Allowed To Transact With,Toegestaan om mee te handelen,reviewed,erpnext,0.83,0.85,0.8,0.8,0.85,1.0,ok
 "Allowing DocType, DocType. Be careful!",DocType wordt toegestaan: {DocType}. Wees voorzichtig!,reviewed,frappe,0.82,0.7,0.35,0.5,0.4,0.9,improved
 already exists,bestaat al,reviewed,erpnext,0.94,0.9,0.95,0.9,1.0,1.0,ok
-Already in the following Users ToDo list:{0},Staat al in de volgende takenlijst van gebruikers: {0},reviewed,frappe,0.83,0.85,0.8,0.8,0.85,1.0,ok
+Already in the following Users ToDo list:{0},Staat al in de ToDo-lijst van de volgende gebruikers: {0},reviewed,frappe,0.83,0.85,0.8,0.8,0.85,1.0,ok
 Already record exists for the item {0},Er bestaat al een record voor artikel {0},reviewed,erpnext,0.87,0.8,0.6,0.75,0.6,1.0,improved
 Already Registered,Reeds geregistreerd,reviewed,frappe,0.92,0.9,0.9,0.9,1.0,1.0,ok
 "Already set default in pos profile {0} for user {1}, kindly disabled default",POS-profiel {0} is al als standaard ingesteld voor gebruiker {1}. De standaard is uitgeschakeld.,reviewed,erpnext,0.9,0.6,0.25,0.4,0.3,1.0,improved
@@ -10770,7 +10770,7 @@ Tobacco Consumption (Past),Tabaksconsumptie (verleden),reviewed,erpnext,0.94,0.9
 Tobacco Consumption (Present),Tabaksconsumptie (heden),reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 Today,Vandaag,reviewed,frappe,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Today's Events,Evenementen van vandaag,reviewed,frappe,0.88,0.85,0.85,0.85,0.9,1.0,ok
-ToDo,Taak,reviewed,frappe,0.84,0.7,0.6,0.7,0.9,1.0,improved
+ToDo,ToDo,reviewed,frappe,0.84,0.7,0.6,0.7,0.9,1.0,improved
 Toggle Chart,Diagram tonen/verbergen,reviewed,frappe,0.83,0.7,0.6,0.7,0.8,1.0,improved
 Toggle Charts,Diagrammen tonen/verbergen,reviewed,frappe,0.83,0.75,0.65,0.7,0.8,1.0,improved
 Toggle Filters,Filters tonen/verbergen,reviewed,erpnext,0.85,0.7,0.6,0.65,0.8,1.0,improved
@@ -11361,7 +11361,7 @@ Value for a check field can be either 0 or 1,De waarde voor een aanvinkveld kan 
 Value for Attribute {0} must be within the range of {1} to {2} in the increments of {3} for Item {4},"Waarde voor kenmerk {0} moet liggen tussen {1} en {2}, met stappen van {3}, voor artikel {4}.",reviewed,erpnext,0.88,0.6,0.45,0.55,0.45,0.9,improved
 Value for field {0} is too long in {1}. Length should be lesser than {2} characters,De waarde van veld {0} in {1} is te lang. De lengte mag maximaal {2} tekens zijn.,reviewed,frappe,0.88,0.8,0.75,0.75,0.8,1.0,improved
 Value for {0} cannot be a list,Waarde voor {0} mag geen lijst zijn,reviewed,frappe,0.93,0.25,0.2,0.3,0.2,0.7,improved
-Value from this field will be set as the due date in the ToDo,De waarde van dit veld wordt ingesteld als de vervaldatum in de taak,reviewed,frappe,0.84,0.85,0.8,0.8,0.85,1.0,ok
+Value from this field will be set as the due date in the ToDo,De waarde van dit veld wordt ingesteld als de vervaldatum in de ToDo,reviewed,frappe,0.84,0.85,0.8,0.8,0.85,1.0,ok
 Value missing for,Waarde ontbreekt voor,reviewed,frappe,0.87,0.85,0.85,0.85,0.9,1.0,ok
 Value must be between {0} and {1},Waarde moet tussen {0} en {1} zijn,reviewed,erpnext,0.92,0.9,0.9,0.9,1.0,1.0,ok
 Value must be one of {0},Waarde moet een van {0} zijn,reviewed,frappe,0.84,0.85,0.8,0.8,0.85,1.0,ok
@@ -15279,7 +15279,7 @@ Timezone,Tijdzone,reviewed,crm,0.96,0.95,0.95,0.95,1.0,1.0,ok
 Title is required,Titel is verplicht,reviewed,crm,0.92,0.9,0.9,0.9,1.0,1.0,ok
 To Type,Type ontvanger,reviewed,crm,0.8,0.75,0.65,0.7,0.9,1.0,improved
 "To know more about setting up email accounts, click","Als u meer wilt weten over het instellen van e-mailaccounts, klikt u op",reviewed,crm,0.87,0.85,0.8,0.85,0.95,1.0,ok
-Todo,Te doen,reviewed,crm,0.8,0.8,0.75,0.75,1.0,1.0,ok
+Todo,ToDo,reviewed,crm,0.8,0.8,0.75,0.75,1.0,1.0,ok
 Toggle on for Preview,Inschakelen voor voorvertoning,reviewed,crm,0.81,0.8,0.7,0.8,0.85,1.0,improved
 Tomorrow,Morgen,reviewed,crm,1.0,1.0,1.0,1.0,1.0,1.0,ok
 Took a call with John Doe and discussed the new project.,Belde met John Doe en besprak het nieuwe project.,reviewed,crm,0.86,0.9,0.75,0.9,0.8,1.0,ok
@@ -19327,7 +19327,7 @@ Invalid Credentials for Email Account: {0},Ongeldige inloggegevens voor Email Ac
 Job is in {0} state and can't be cancelled,Taak bevindt zich in de status {0} en kan niet worden geannuleerd,reviewed,frappe_gap,0.93,,,,,,
 Method is required to create a number card,Methode is vereist om een nummerkaart aan te maken,reviewed,frappe_gap,0.90,,,,,,
 No matching entries in the current results,Geen overeenkomende vermeldingen in de huidige resultaten,reviewed,frappe_gap,0.93,,,,,,
-Only the assignee can complete this to-do.,Alleen de toegewezene kan deze taak voltooien.,reviewed,frappe_gap,0.93,,,,,,
+Only the assignee can complete this to-do.,Alleen de toegewezene kan deze ToDo voltooien.,reviewed,frappe_gap,0.93,,,,,,
 OpenID Configuration fetched successfully!,OpenID-configuratie succesvol opgehaald!,reviewed,frappe_gap,0.95,,,,,,
 Please check your email login credentials.,Controleer uw emailinloggegevens.,reviewed,frappe_gap,0.95,,,,,,
 Public Policy URL must start with https://,URL privacybeleid moet beginnen met https://,reviewed,frappe_gap,0.92,,,,,,

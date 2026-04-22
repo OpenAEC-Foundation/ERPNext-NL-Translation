@@ -6716,7 +6716,7 @@ Open Quotations,Open offertes,reviewed,erpnext,0.85,0.8,0.8,0.85,0.95,1.0,ok
 Open Reference Document,Open referentiedocument,reviewed,frappe,0.89,0.85,0.85,0.9,0.95,1.0,ok
 Open Settings,Open instellingen,reviewed,frappe,0.89,0.85,0.85,0.9,0.95,1.0,ok
 Open Source Applications for the Web,Open Source applicaties voor het web,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
-Open To Do,Openstaande taak,reviewed,erpnext,0.91,0.9,0.9,0.85,0.95,1.0,ok
+Open To Do,Openstaande ToDo,reviewed,erpnext,0.91,0.9,0.9,0.85,0.95,1.0,ok
 Open Translation,Open vertaling,reviewed,frappe,0.89,0.85,0.85,0.9,0.95,1.0,ok
 Open URL in a New Tab,Open URL in een nieuw tabblad,reviewed,frappe,0.92,0.9,0.9,0.9,0.95,1.0,ok
 Open Work Orders,Open werkorders,reviewed,erpnext,0.89,0.85,0.85,0.9,0.95,1.0,ok
@@ -10710,7 +10710,7 @@ To Datetime,Tot datum/tijd,reviewed,erpnext,0.85,0.1,0.1,0.3,0.3,0.7,improved
 To Deliver,Te leveren,reviewed,erpnext,0.84,0.7,0.7,0.7,0.9,1.0,improved
 To Deliver and Bill,Te leveren en te factureren,reviewed,erpnext,0.9,0.4,0.2,0.3,0.3,0.6,improved
 To Discuss,Te bespreken,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
-To Do,Taak,reviewed,frappe,0.84,0.7,0.6,0.7,0.9,1.0,improved
+To Do,ToDo,reviewed,frappe,0.84,0.7,0.6,0.7,0.9,1.0,improved
 To Employee,Naar medewerker,reviewed,erpnext,0.94,0.9,0.9,0.9,1.0,1.0,ok
 "To enable Capital Work in Progress Accounting,","Om de boekhouding voor onderhanden werk (CWIP) in te schakelen,",reviewed,erpnext,0.83,0.5,0.4,0.5,0.7,0.8,improved
 To enable it follow the instructions in the following link: {0},Volg de instructies in de volgende link om dit in te schakelen: {0},reviewed,frappe,0.9,0.9,0.85,0.85,0.9,1.0,ok
@@ -17088,7 +17088,7 @@ Row #{0}: Depreciation Start Date is required,Rij {0}: startdatum van afschrijvi
 Point of Sale,Verkooppunt,reviewed,erpnext_code_variant,,,,,,,
 No matches occurred via auto reconciliation,Geen overeenkomsten gevonden via automatische reconciliatie,reviewed,erpnext_code_variant,,,,,,,
 Sales Partner ,Verkooppartner,reviewed,erpnext_code_variant,,,,,,,
-Open To Do ,Openstaande taak,reviewed,erpnext_code_variant,,,,,,,
+Open To Do ,Openstaande ToDo,reviewed,erpnext_code_variant,,,,,,,
 From Time ,Begintijd,reviewed,erpnext_code_variant,,,,,,,
 Subcontracting,Uitbesteding,reviewed,erpnext_code_variant,,,,,,,
 {0}: Not found,{0} niet gevonden,reviewed,erpnext_code_variant,,,,,,,
@@ -17274,7 +17274,7 @@ Qty ,Aantal,reviewed,erpnext_code_variant,,,,,,,
 Purchase Receipt Trends ,Inkoopbontrends,reviewed,erpnext_code_variant,,,,,,,
  Is Subcontracted,Wordt uitbesteed,reviewed,erpnext_code_variant,,,,,,,
 Project wise Stock Tracking ,Voorraadregistratie per project,reviewed,erpnext_code_variant,,,,,,,
-Open To Do ,Openstaande taak,reviewed,erpnext_code_variant,,,,,,,
+Open To Do ,Openstaande ToDo,reviewed,erpnext_code_variant,,,,,,,
 Customer: ,Klant,reviewed,erpnext_code_variant,,,,,,,
  Default Work In Progress Warehouse ,Standaard magazijn voor onderhanden werk,reviewed,erpnext_code_variant,,,,,,,
  Unlink Payment on Cancellation of Employee Advance, Betaling ontkoppelen bij annulering van werknemersvoorschot,reviewed,hrms_code_variant,,,,,,,
